@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第12周
-date: 2025-03-20T07:07:04Z
+date: 2025-03-20T07:13:21Z
 categories:
 - weekly
 ---
@@ -24,7 +24,7 @@ categories:
     </p>
 				<div class="repo-stats">
 					<span>🔠 Python</span>
-					<span>⭐ 5682</span>
+					<span>⭐ 5683</span>
 					<span>🔱 564</span>
 				</div>
 				<div class="stars-today">⭐ 2664 stars this week</div>
@@ -104,7 +104,7 @@ categories:
     </p>
 				<div class="repo-stats">
 					<span>🔠 TypeScript</span>
-					<span>⭐ 413761</span>
+					<span>⭐ 413762</span>
 					<span>🔱 39437</span>
 				</div>
 				<div class="stars-today">⭐ 2264 stars this week</div>
@@ -124,7 +124,7 @@ categories:
     </p>
 				<div class="repo-stats">
 					<span>🔠 Python</span>
-					<span>⭐ 10814</span>
+					<span>⭐ 10815</span>
 					<span>🔱 1106</span>
 				</div>
 				<div class="stars-today">⭐ 1023 stars this week</div>
@@ -144,8 +144,8 @@ categories:
     </p>
 				<div class="repo-stats">
 					<span>🔠 Python</span>
-					<span>⭐ 46381</span>
-					<span>🔱 4771</span>
+					<span>⭐ 46383</span>
+					<span>🔱 4772</span>
 				</div>
 				<div class="stars-today">⭐ 4076 stars this week</div>
 			</div>
@@ -164,7 +164,7 @@ categories:
     </p>
 				<div class="repo-stats">
 					<span>🔠 </span>
-					<span>⭐ 12785</span>
+					<span>⭐ 12791</span>
 					<span>🔱 832</span>
 				</div>
 				<div class="stars-today">⭐ 4310 stars this week</div>
