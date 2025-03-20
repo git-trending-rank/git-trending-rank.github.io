@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第12周
-date: 2025-03-20T21:58:48Z
+date: 2025-03-20T23:58:47Z
 categories:
 - weekly
 ---
@@ -11,21 +11,21 @@ categories:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/ollama-deep-researcher" target="_blank">
+				<p><a href="https://github.com/langchain-ai/local-deep-researcher" target="_blank">
     
 
 
       
         langchain-ai /
 
-      ollama-deep-researcher</a></p>
+      local-deep-researcher</a></p>
 				<p>
       Fully local web research and report writing assistant
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5824</span>
+						<span>⭐ 5834</span>
 						<span>🔱 570</span>
 					</div>
 				<div class="stars-today">⭐ 2664 stars this week</div>
@@ -47,7 +47,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6263</span>
+						<span>⭐ 6273</span>
 						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 1329 stars this week</div>
@@ -69,7 +69,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 413817</span>
+						<span>⭐ 413821</span>
 						<span>🔱 39448</span>
 					</div>
 				<div class="stars-today">⭐ 2264 stars this week</div>
@@ -91,7 +91,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1190</span>
+						<span>⭐ 1195</span>
 						<span>🔱 111</span>
 					</div>
 				<div class="stars-today">⭐ 569 stars this week</div>
@@ -113,8 +113,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 13126</span>
-						<span>🔱 851</span>
+						<span>⭐ 13147</span>
+						<span>🔱 850</span>
 					</div>
 				<div class="stars-today">⭐ 4310 stars this week</div>
 				</div>
@@ -135,8 +135,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 103604</span>
-						<span>🔱 12757</span>
+						<span>⭐ 103605</span>
+						<span>🔱 12755</span>
 					</div>
 				<div class="stars-today">⭐ 902 stars this week</div>
 				</div>
@@ -157,7 +157,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34268</span>
+						<span>⭐ 34279</span>
 						<span>🔱 2095</span>
 					</div>
 				<div class="stars-today">⭐ 852 stars this week</div>
@@ -201,8 +201,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 21271</span>
-						<span>🔱 2338</span>
+						<span>⭐ 21281</span>
+						<span>🔱 2340</span>
 					</div>
 				<div class="stars-today">⭐ 1189 stars this week</div>
 				</div>
@@ -223,7 +223,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 2425</span>
+						<span>⭐ 2430</span>
 						<span>🔱 78</span>
 					</div>
 				<div class="stars-today">⭐ 1051 stars this week</div>
@@ -245,7 +245,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 15876</span>
+						<span>⭐ 15880</span>
 						<span>🔱 2007</span>
 					</div>
 				<div class="stars-today">⭐ 2465 stars this week</div>
