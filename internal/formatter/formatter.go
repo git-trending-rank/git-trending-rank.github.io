@@ -25,11 +25,13 @@ categories:
 				<h2><a href="{{$repo.URL}}" target="_blank">{{$repo.Name}}</a></h2>
 				<p>{{$repo.Description}}</p>
 				<div class="repo-stats">
-					<span>🔠 {{$repo.Language}}</span>
-					<span>⭐ {{$repo.Stars}}</span>
-					<span>🔱 {{$repo.Forks}}</span>
-				</div>
+					<div>
+						<span>🔠 {{$repo.Language}}</span>
+						<span>⭐ {{$repo.Stars}}</span>
+						<span>🔱 {{$repo.Forks}}</span>
+					</div>
 				<div class="stars-today">⭐ {{$repo.StarsToday}} stars {{$.RankCycle}}</div>
+				</div>
 			</div>
 	{{end}}
 
@@ -51,17 +53,17 @@ func FormatToMarkdown(repos []scraper.RepoInfo, frequency string) (string, error
 	}
 
 	data := struct {
-		Repos     []scraper.RepoInfo
-		Frequency string
+		Repos         []scraper.RepoInfo
+		Frequency     string
 		FrequencyDate string
-		RankCycle string
-		Date      string
+		RankCycle     string
+		Date          string
 	}{
-		Repos:     repos,
-		Frequency: frequency,
+		Repos:         repos,
+		Frequency:     frequency,
 		FrequencyDate: lib.PrintDateInfo(frequency),
-		Date:      time.Now().Format(time.RFC3339),
-		RankCycle: lib.PrintDateRankCycle(frequency),
+		Date:          time.Now().Format(time.RFC3339),
+		RankCycle:     lib.PrintDateRankCycle(frequency),
 	}
 
 	var buf bytes.Buffer

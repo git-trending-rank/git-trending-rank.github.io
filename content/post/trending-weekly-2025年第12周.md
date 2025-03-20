@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第12周
-date: 2025-03-20T07:07:04Z
+date: 2025-03-20T16:10:09+08:00
 categories:
 - weekly
 ---
@@ -23,11 +23,13 @@ categories:
       Fully local web research and report writing assistant
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 5682</span>
-					<span>🔱 564</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5699</span>
+						<span>🔱 565</span>
+					</div>
 				<div class="stars-today">⭐ 2664 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -43,11 +45,13 @@ categories:
       In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Jupyter Notebook</span>
-					<span>⭐ 6138</span>
-					<span>🔱 1099</span>
-				</div>
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 6151</span>
+						<span>🔱 1102</span>
+					</div>
 				<div class="stars-today">⭐ 1329 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -63,11 +67,13 @@ categories:
       🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Java</span>
-					<span>⭐ 21171</span>
-					<span>🔱 2330</span>
-				</div>
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 21179</span>
+						<span>🔱 2330</span>
+					</div>
 				<div class="stars-today">⭐ 1189 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -83,11 +89,13 @@ categories:
       TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 103584</span>
-					<span>🔱 12754</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 103585</span>
+						<span>🔱 12754</span>
+					</div>
 				<div class="stars-today">⭐ 902 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -103,11 +111,13 @@ categories:
       freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 413761</span>
-					<span>🔱 39437</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 413766</span>
+						<span>🔱 39437</span>
+					</div>
 				<div class="stars-today">⭐ 2264 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -123,11 +133,13 @@ categories:
       🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 10814</span>
-					<span>🔱 1106</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10819</span>
+						<span>🔱 1107</span>
+					</div>
 				<div class="stars-today">⭐ 1023 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -143,11 +155,13 @@ categories:
       Make websites accessible for AI agents
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 46381</span>
-					<span>🔱 4771</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46403</span>
+						<span>🔱 4776</span>
+					</div>
 				<div class="stars-today">⭐ 4076 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -163,11 +177,13 @@ categories:
       A collection of MCP servers.
     </p>
 				<div class="repo-stats">
-					<span>🔠 </span>
-					<span>⭐ 12785</span>
-					<span>🔱 832</span>
-				</div>
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 12844</span>
+						<span>🔱 834</span>
+					</div>
 				<div class="stars-today">⭐ 4310 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -183,11 +199,13 @@ categories:
       Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 1131</span>
-					<span>🔱 109</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1134</span>
+						<span>🔱 109</span>
+					</div>
 				<div class="stars-today">⭐ 569 stars this week</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -203,11 +221,13 @@ categories:
       Develop software autonomously.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 1388</span>
-					<span>🔱 123</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1392</span>
+						<span>🔱 123</span>
+					</div>
 				<div class="stars-today">⭐ 600 stars this week</div>
+				</div>
 			</div>
 	
 

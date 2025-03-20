@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-20
-date: 2025-03-20T07:07:04Z
+date: 2025-03-20T16:10:09+08:00
 categories:
 - daily
 ---
@@ -23,11 +23,13 @@ categories:
       🪄 Create rich visualizations with AI 
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 9812</span>
-					<span>🔱 764</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9850</span>
+						<span>🔱 767</span>
+					</div>
 				<div class="stars-today">⭐ 218 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -43,11 +45,13 @@ categories:
       A self-hosted dashboard that puts all your feeds in one place
     </p>
 				<div class="repo-stats">
-					<span>🔠 Go</span>
-					<span>⭐ 19128</span>
-					<span>🔱 680</span>
-				</div>
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 19164</span>
+						<span>🔱 680</span>
+					</div>
 				<div class="stars-today">⭐ 718 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -63,11 +67,13 @@ categories:
       There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 47760</span>
-					<span>🔱 3154</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 47792</span>
+						<span>🔱 3154</span>
+					</div>
 				<div class="stars-today">⭐ 259 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -83,11 +89,13 @@ categories:
       DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Go</span>
-					<span>⭐ 9285</span>
-					<span>🔱 1266</span>
-				</div>
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9303</span>
+						<span>🔱 1267</span>
+					</div>
 				<div class="stars-today">⭐ 280 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -103,11 +111,13 @@ categories:
       Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 10478</span>
-					<span>🔱 221</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10526</span>
+						<span>🔱 222</span>
+					</div>
 				<div class="stars-today">⭐ 692 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -123,11 +133,13 @@ categories:
       Fully local web research and report writing assistant
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 5682</span>
-					<span>🔱 564</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5699</span>
+						<span>🔱 565</span>
+					</div>
 				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -143,11 +155,13 @@ categories:
       Admin Dashboard UI built with Shadcn and Vite.
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 5086</span>
-					<span>🔱 671</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5099</span>
+						<span>🔱 674</span>
+					</div>
 				<div class="stars-today">⭐ 177 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -163,11 +177,13 @@ categories:
       In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Jupyter Notebook</span>
-					<span>⭐ 6138</span>
-					<span>🔱 1099</span>
-				</div>
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 6151</span>
+						<span>🔱 1102</span>
+					</div>
 				<div class="stars-today">⭐ 426 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -183,11 +199,13 @@ categories:
       A collection of MCP servers.
     </p>
 				<div class="repo-stats">
-					<span>🔠 </span>
-					<span>⭐ 12785</span>
-					<span>🔱 832</span>
-				</div>
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 12844</span>
+						<span>🔱 834</span>
+					</div>
 				<div class="stars-today">⭐ 879 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -203,11 +221,13 @@ categories:
       Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 3460</span>
-					<span>🔱 285</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3468</span>
+						<span>🔱 286</span>
+					</div>
 				<div class="stars-today">⭐ 87 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -223,11 +243,13 @@ categories:
       Vulnerability scanner written in Go which uses the data provided by https://osv.dev
     </p>
 				<div class="repo-stats">
-					<span>🔠 Go</span>
-					<span>⭐ 6959</span>
-					<span>🔱 398</span>
-				</div>
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6978</span>
+						<span>🔱 398</span>
+					</div>
 				<div class="stars-today">⭐ 71 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -243,11 +265,13 @@ categories:
       Open-source Next.js template for building apps that are fully generated by AI. By E2B.
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 4671</span>
-					<span>🔱 620</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4675</span>
+						<span>🔱 621</span>
+					</div>
 				<div class="stars-today">⭐ 248 stars today</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -263,11 +287,13 @@ categories:
       💯 Curated coding interview preparation materials for busy software engineers
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 123529</span>
-					<span>🔱 15149</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 123549</span>
+						<span>🔱 15150</span>
+					</div>
 				<div class="stars-today">⭐ 89 stars today</div>
+				</div>
 			</div>
 	
 

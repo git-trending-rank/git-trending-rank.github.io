@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-20T07:07:06Z
+date: 2025-03-20T16:10:10+08:00
 categories:
 - monthly
 ---
@@ -23,11 +23,13 @@ categories:
       The 2013 edition of the Source SDK
     </p>
 				<div class="repo-stats">
-					<span>🔠 C++</span>
-					<span>⭐ 8492</span>
-					<span>🔱 2535</span>
-				</div>
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8492</span>
+						<span>🔱 2535</span>
+					</div>
 				<div class="stars-today">⭐ 3461 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -43,11 +45,13 @@ categories:
       🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 52994</span>
-					<span>🔱 6274</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53007</span>
+						<span>🔱 6274</span>
+					</div>
 				<div class="stars-today">⭐ 6631 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -63,11 +67,13 @@ categories:
       Truly independent web browser
     </p>
 				<div class="repo-stats">
-					<span>🔠 C++</span>
-					<span>⭐ 36087</span>
-					<span>🔱 1507</span>
-				</div>
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 36091</span>
+						<span>🔱 1507</span>
+					</div>
 				<div class="stars-today">⭐ 8118 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -83,11 +89,13 @@ categories:
       Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 83950</span>
-					<span>🔱 12375</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 83990</span>
+						<span>🔱 12387</span>
+					</div>
 				<div class="stars-today">⭐ 14656 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -103,11 +111,13 @@ categories:
       A self-hosted dashboard that puts all your feeds in one place
     </p>
 				<div class="repo-stats">
-					<span>🔠 Go</span>
-					<span>⭐ 19128</span>
-					<span>🔱 680</span>
-				</div>
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 19164</span>
+						<span>🔱 680</span>
+					</div>
 				<div class="stars-today">⭐ 8032 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -123,11 +133,13 @@ categories:
       An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 18411</span>
-					<span>🔱 3300</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18421</span>
+						<span>🔱 3302</span>
+					</div>
 				<div class="stars-today">⭐ 9641 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -143,11 +155,13 @@ categories:
       A simple screen parsing tool towards pure vision based GUI agent
     </p>
 				<div class="repo-stats">
-					<span>🔠 Jupyter Notebook</span>
-					<span>⭐ 20832</span>
-					<span>🔱 1700</span>
-				</div>
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 20837</span>
+						<span>🔱 1700</span>
+					</div>
 				<div class="stars-today">⭐ 7820 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -161,11 +175,13 @@ categories:
       open_deep_research</a></h2>
 				<p></p>
 				<div class="repo-stats">
-					<span>🔠 Jupyter Notebook</span>
-					<span>⭐ 2347</span>
-					<span>🔱 315</span>
-				</div>
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2348</span>
+						<span>🔱 315</span>
+					</div>
 				<div class="stars-today">⭐ 1749 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -181,11 +197,13 @@ categories:
       A collection of MCP servers.
     </p>
 				<div class="repo-stats">
-					<span>🔠 </span>
-					<span>⭐ 12785</span>
-					<span>🔱 832</span>
-				</div>
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 12844</span>
+						<span>🔱 834</span>
+					</div>
 				<div class="stars-today">⭐ 8947 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -201,11 +219,13 @@ categories:
       Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Markdown</span>
-					<span>⭐ 360353</span>
-					<span>🔱 33451</span>
-				</div>
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 360381</span>
+						<span>🔱 33455</span>
+					</div>
 				<div class="stars-today">⭐ 24035 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -221,11 +241,13 @@ categories:
       Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 18246</span>
-					<span>🔱 1698</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18250</span>
+						<span>🔱 1698</span>
+					</div>
 				<div class="stars-today">⭐ 3754 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -241,11 +263,13 @@ categories:
       🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 16532</span>
-					<span>🔱 1826</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16539</span>
+						<span>🔱 1827</span>
+					</div>
 				<div class="stars-today">⭐ 6122 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -261,11 +285,13 @@ categories:
       uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     </p>
 				<div class="repo-stats">
-					<span>🔠 JavaScript</span>
-					<span>⭐ 51775</span>
-					<span>🔱 3391</span>
-				</div>
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 51777</span>
+						<span>🔱 3391</span>
+					</div>
 				<div class="stars-today">⭐ 2150 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -281,11 +307,13 @@ categories:
       分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
     </p>
 				<div class="repo-stats">
-					<span>🔠 </span>
-					<span>⭐ 4341</span>
-					<span>🔱 462</span>
-				</div>
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4345</span>
+						<span>🔱 462</span>
+					</div>
 				<div class="stars-today">⭐ 1397 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -301,11 +329,13 @@ categories:
       Build your own AI friend
     </p>
 				<div class="repo-stats">
-					<span>🔠 C++</span>
-					<span>⭐ 9380</span>
-					<span>🔱 1685</span>
-				</div>
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 9388</span>
+						<span>🔱 1687</span>
+					</div>
 				<div class="stars-today">⭐ 4045 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -321,11 +351,13 @@ categories:
       Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
     </p>
 				<div class="repo-stats">
-					<span>🔠 TypeScript</span>
-					<span>⭐ 68895</span>
-					<span>🔱 17654</span>
-				</div>
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 68913</span>
+						<span>🔱 17655</span>
+					</div>
 				<div class="stars-today">⭐ 7204 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -341,11 +373,13 @@ categories:
       🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
     </p>
 				<div class="repo-stats">
-					<span>🔠 Python</span>
-					<span>⭐ 10542</span>
-					<span>🔱 1162</span>
-				</div>
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10543</span>
+						<span>🔱 1162</span>
+					</div>
 				<div class="stars-today">⭐ 1402 stars this month</div>
+				</div>
 			</div>
 	
 			<div class="repo-card">
@@ -361,11 +395,13 @@ categories:
       This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
     </p>
 				<div class="repo-stats">
-					<span>🔠 Jupyter Notebook</span>
-					<span>⭐ 9170</span>
-					<span>🔱 1184</span>
-				</div>
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 9171</span>
+						<span>🔱 1184</span>
+					</div>
 				<div class="stars-today">⭐ 3119 stars this month</div>
+				</div>
 			</div>
 	
 
