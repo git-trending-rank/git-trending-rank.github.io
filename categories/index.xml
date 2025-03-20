@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on Git Trending Rank</title>
+        <link>https://git-trending-rank.github.io/categories/</link>
+        <description>Recent content in Categories on Git Trending Rank</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Thu, 20 Mar 2025 15:05:41 +0800</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Daily</title>
+        <link>https://git-trending-rank.github.io/categories/daily/</link>
+        <pubDate>Thu, 20 Mar 2025 15:05:41 +0800</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/categories/daily/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Monthly</title>
+        <link>https://git-trending-rank.github.io/categories/monthly/</link>
+        <pubDate>Thu, 20 Mar 2025 15:05:41 +0800</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/categories/monthly/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Weekly</title>
+        <link>https://git-trending-rank.github.io/categories/weekly/</link>
+        <pubDate>Thu, 20 Mar 2025 15:05:40 +0800</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/categories/weekly/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://git-trending-rank.github.io/categories/test/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/categories/test/</guid>
+        <description>&lt;img src="https://git-trending-rank.github.io/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        
+    </channel>
+</rss>
