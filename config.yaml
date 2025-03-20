@@ -1,0 +1,97 @@
+baseURL: "https://git-trending-rank.github.io/" # 替换为你的 GitHub Pages URL
+title: "Git Trending Rank"
+publishDir: "docs" # GitHub Pages 的默认发布目录
+author: Young.Wang
+language: zh-CN
+timezone: 'Asia/Shanghai'
+markup:
+  goldmark:
+    extensions:
+      typographer: false
+    renderer:
+      unsafe: true
+
+# Date / Time format
+## Hexo uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+## Use post's date for updated date unless set in front-matter
+updated_option: data
+
+
+theme: "hugo-theme-stack" 
+
+module:
+  hugoVersion:
+    extended: true
+    min: "0.87.0"
+  imports:
+    - path: github.com/CaiJimmy/hugo-theme-stack/v3
+    
+
+params:
+  # scheme: Pisces # 主题
+  mainSections:
+    - post
+
+  # 主题
+  colorScheme:
+    # Display toggle
+    toggle: true
+
+    # Available values: auto, light, dark
+    default: auto
+  # 站点图标
+  # favicon: 
+
+  sidebar:
+    position: left
+    display: always
+    avatar:
+      local: false
+      # Replace the default image and set the url here.
+      src: https://avatars.githubusercontent.com/u/15307132?v=4
+      # If true, the avatar will be dispalyed in circle.
+      rounded: true
+  DateFormat:
+    published: 2006-01-02 15:04:05
+    lastupdated: 2006-01-02 15:04:05
+  # 文章内容格式
+  Article:
+    toc: true
+  # 评论
+  Comments:
+    gitalk:
+      enabled: true
+      provider: gitalk
+      github_id: git-trending-rank # GitHub repo owner
+      repo: rank-gitalk # Repository name to store issues
+      client_id: Ov23liLkC9rn7DCWrOFm # GitHub Application Client ID
+      client_secret: 8de1406fe7f558f96eccaf1d3e1ff0d821af981c # GitHub Application Client Secret
+      admin_user: git-trending-rank # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+      distraction_free_mode: true # Facebook-like distraction free mode
+      # When the official proxy is not available, you can change it to your own proxy address
+      proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy address
+      # Gitalk's display language depends on user's browser or system environment
+      # If you want everyone visiting your site to see a uniform language, you can set a force language value
+      # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
+      language: zh-CN
+  # 小部件
+  widgets:
+    homepage:
+      - type: toc
+        params: 
+    page: []
+
+  # social: # 联系方式
+  #   GitHub: https://github.com/wangzhongyang || github
+  #   E-Mail: mailto:979238315@qq.com || envelope
+  # menu:
+  #   home: / || home
+  #   about: https://github.com/wangzhongyang || user
+  #   tags: /tags/ || tags
+  #   categories: /categories/ || th
+  #   archives: /archives/ || archive
+
