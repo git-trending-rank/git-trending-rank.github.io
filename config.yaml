@@ -63,21 +63,22 @@ params:
     toc: true
   # 评论
   Comments:
-    gitalk:
+    Gitalk:
       enabled: true
       provider: gitalk
-      github_id: git-trending-rank # GitHub repo owner
+      clientID: Ov23liLkC9rn7DCWrOFm # GitHub Application Client ID
+      clientSecret: 8de1406fe7f558f96eccaf1d3e1ff0d821af981c # GitHub Application Client Secret      
+      owner: git-trending-rank # GitHub repo owner
       repo: rank-gitalk # Repository name to store issues
-      client_id: Ov23liLkC9rn7DCWrOFm # GitHub Application Client ID
-      client_secret: 8de1406fe7f558f96eccaf1d3e1ff0d821af981c # GitHub Application Client Secret
-      admin_user: git-trending-rank # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
-      distraction_free_mode: true # Facebook-like distraction free mode
-      # When the official proxy is not available, you can change it to your own proxy address
-      proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy address
+      admin: git-trending-rank # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
+      distractionFreeMode: true # Facebook-like distraction free mode
       # Gitalk's display language depends on user's browser or system environment
       # If you want everyone visiting your site to see a uniform language, you can set a force language value
       # Available values: en | es-ES | fr | ru | zh-CN | zh-TW
       language: zh-CN
+      # When the official proxy is not available, you can change it to your own proxy address
+      # proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token # This is official proxy address
+      
   # 小部件
   widgets:
     homepage:
