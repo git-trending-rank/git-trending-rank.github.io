@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-20
-date: 2025-03-20T17:54:48+08:00
+date: 2025-03-20T09:55:36Z
 categories:
 - daily
 ---
@@ -69,7 +69,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47839</span>
+						<span>⭐ 47840</span>
 						<span>🔱 3157</span>
 					</div>
 				<div class="stars-today">⭐ 259 stars today</div>
@@ -135,7 +135,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5730</span>
+						<span>⭐ 5731</span>
 						<span>🔱 566</span>
 					</div>
 				<div class="stars-today">⭐ 436 stars today</div>
@@ -289,7 +289,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 123588</span>
+						<span>⭐ 123589</span>
 						<span>🔱 15153</span>
 					</div>
 				<div class="stars-today">⭐ 89 stars today</div>
