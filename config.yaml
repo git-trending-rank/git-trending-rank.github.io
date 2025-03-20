@@ -62,10 +62,10 @@ params:
   Article:
     toc: true
   # 评论
-  Comments:
-    Gitalk:
-      enabled: true
-      provider: gitalk
+  comments:
+    enabled: true
+    provider: gitalk
+    gitalk:
       clientID: Ov23liLkC9rn7DCWrOFm # GitHub Application Client ID
       clientSecret: 8de1406fe7f558f96eccaf1d3e1ff0d821af981c # GitHub Application Client Secret      
       owner: git-trending-rank # GitHub repo owner
