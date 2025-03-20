@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 20 Mar 2025 07:13:21 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Mar 2025 16:20:19 +0800</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第12周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC12%E5%91%A8/</link>
-        <pubDate>Thu, 20 Mar 2025 07:13:21 +0000</pubDate>
+        <pubDate>Thu, 20 Mar 2025 16:20:19 +0800</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC12%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;public/css/trending.css&#34;&gt;
@@ -31,11 +31,13 @@
       Fully local web research and report writing assistant
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 5683&lt;/span&gt;
-					&lt;span&gt;🔱 564&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 5703&lt;/span&gt;
+						&lt;span&gt;🔱 565&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2664 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -51,11 +53,13 @@
       In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-					&lt;span&gt;⭐ 6138&lt;/span&gt;
-					&lt;span&gt;🔱 1099&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 6158&lt;/span&gt;
+						&lt;span&gt;🔱 1102&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1329 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -71,11 +75,13 @@
       🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Java&lt;/span&gt;
-					&lt;span&gt;⭐ 21171&lt;/span&gt;
-					&lt;span&gt;🔱 2330&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 21180&lt;/span&gt;
+						&lt;span&gt;🔱 2330&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1189 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -91,11 +97,13 @@
       TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 103584&lt;/span&gt;
-					&lt;span&gt;🔱 12754&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 103585&lt;/span&gt;
+						&lt;span&gt;🔱 12754&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 902 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -111,11 +119,13 @@
       freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 413762&lt;/span&gt;
-					&lt;span&gt;🔱 39437&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 413766&lt;/span&gt;
+						&lt;span&gt;🔱 39437&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2264 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -131,11 +141,13 @@
       🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 10815&lt;/span&gt;
-					&lt;span&gt;🔱 1106&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 10819&lt;/span&gt;
+						&lt;span&gt;🔱 1107&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1023 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -151,11 +163,13 @@
       Make websites accessible for AI agents
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 46383&lt;/span&gt;
-					&lt;span&gt;🔱 4772&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 46408&lt;/span&gt;
+						&lt;span&gt;🔱 4776&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4076 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -171,11 +185,13 @@
       A collection of MCP servers.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 &lt;/span&gt;
-					&lt;span&gt;⭐ 12791&lt;/span&gt;
-					&lt;span&gt;🔱 832&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 12852&lt;/span&gt;
+						&lt;span&gt;🔱 834&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4310 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -191,11 +207,13 @@
       Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 1131&lt;/span&gt;
-					&lt;span&gt;🔱 109&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1135&lt;/span&gt;
+						&lt;span&gt;🔱 109&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 569 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
@@ -211,11 +229,13 @@
       Develop software autonomously.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 1388&lt;/span&gt;
-					&lt;span&gt;🔱 123&lt;/span&gt;
-				&lt;/div&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 1392&lt;/span&gt;
+						&lt;span&gt;🔱 123&lt;/span&gt;
+					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 600 stars this week&lt;/div&gt;
+				&lt;/div&gt;
 			&lt;/div&gt;
 	
 
