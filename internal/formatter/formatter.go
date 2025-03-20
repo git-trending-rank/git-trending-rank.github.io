@@ -22,7 +22,7 @@ categories:
 
 	{{range $index, $repo := .Repos}}
 			<div class="repo-card">
-				<h2><a href="{{$repo.URL}}" target="_blank">{{$repo.Name}}</a></h2>
+				<p><a href="{{$repo.URL}}" target="_blank">{{$repo.Name}}</a></p>
 				<p>{{$repo.Description}}</p>
 				<div class="repo-stats">
 					<div>

@@ -68,7 +68,7 @@ main {
 }
 
 .repo-card h2 {
-    font-size: 1.25rem;
+    font-size: 2.2rem;
     margin-bottom: 0.5rem;
 }
 
@@ -83,14 +83,18 @@ main {
 
 .repo-card p {
     color: #586069;
-    font-size: 0.875rem;
+    font-size: 1.75rem;
     margin-bottom: 1rem;
 }
 
 .repo-stats {
     display: flex;
-    font-size: 0.875rem;
+    font-size: 1.2rem;
     justify-content: space-between;
+}
+
+.repo-stats span {
+    margin-right: 1.1rem;
 }
 
 footer {

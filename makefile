@@ -9,5 +9,5 @@ build: run_main
 	rm -rf resources
 	hugo --config ./config.yaml
 
-server:
+server: build
 	hugo server --bind=0.0.0.0 --port=1313 --disableFastRender
