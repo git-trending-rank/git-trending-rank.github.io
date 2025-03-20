@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-20T09:58:47Z
+date: 2025-03-20T11:59:01Z
 categories:
 - monthly
 ---
@@ -9,28 +9,6 @@ categories:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ValveSoftware/source-sdk-2013" target="_blank">
-    
-
-
-      
-        ValveSoftware /
-
-      source-sdk-2013</a></p>
-				<p>
-      The 2013 edition of the Source SDK
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8494</span>
-						<span>🔱 2535</span>
-					</div>
-				<div class="stars-today">⭐ 3461 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
@@ -47,8 +25,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53018</span>
-						<span>🔱 6277</span>
+						<span>⭐ 53026</span>
+						<span>🔱 6278</span>
 					</div>
 				<div class="stars-today">⭐ 6631 stars this month</div>
 				</div>
@@ -69,8 +47,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36098</span>
-						<span>🔱 1507</span>
+						<span>⭐ 36107</span>
+						<span>🔱 1508</span>
 					</div>
 				<div class="stars-today">⭐ 8118 stars this month</div>
 				</div>
@@ -91,32 +69,10 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84044</span>
-						<span>🔱 12396</span>
+						<span>⭐ 84085</span>
+						<span>🔱 12402</span>
 					</div>
 				<div class="stars-today">⭐ 14656 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/glanceapp/glance" target="_blank">
-    
-
-
-      
-        glanceapp /
-
-      glance</a></p>
-				<p>
-      A self-hosted dashboard that puts all your feeds in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 19215</span>
-						<span>🔱 682</span>
-					</div>
-				<div class="stars-today">⭐ 8032 stars this month</div>
 				</div>
 			</div>
 	
@@ -135,96 +91,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18438</span>
-						<span>🔱 3305</span>
+						<span>⭐ 18459</span>
+						<span>🔱 3307</span>
 					</div>
 				<div class="stars-today">⭐ 9641 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/OmniParser" target="_blank">
+				<p><a href="https://github.com/glanceapp/glance" target="_blank">
     
 
 
       
-        microsoft /
+        glanceapp /
 
-      OmniParser</a></p>
+      glance</a></p>
 				<p>
-      A simple screen parsing tool towards pure vision based GUI agent
+      A self-hosted dashboard that puts all your feeds in one place
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20843</span>
-						<span>🔱 1701</span>
+						<span>🔠 Go</span>
+						<span>⭐ 19251</span>
+						<span>🔱 684</span>
 					</div>
-				<div class="stars-today">⭐ 7820 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2353</span>
-						<span>🔱 315</span>
-					</div>
-				<div class="stars-today">⭐ 1749 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 12924</span>
-						<span>🔱 836</span>
-					</div>
-				<div class="stars-today">⭐ 8947 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 360434</span>
-						<span>🔱 33466</span>
-					</div>
-				<div class="stars-today">⭐ 24035 stars this month</div>
+				<div class="stars-today">⭐ 8032 stars this month</div>
 				</div>
 			</div>
 	
@@ -243,7 +135,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18257</span>
+						<span>⭐ 18264</span>
 						<span>🔱 1698</span>
 					</div>
 				<div class="stars-today">⭐ 3754 stars this month</div>
@@ -251,24 +143,44 @@ categories:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
     
 
 
       
-        jingyaogong /
+        langchain-ai /
 
-      minimind</a></p>
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2360</span>
+						<span>🔱 315</span>
+					</div>
+				<div class="stars-today">⭐ 1749 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ValveSoftware/source-sdk-2013" target="_blank">
+    
+
+
+      
+        ValveSoftware /
+
+      source-sdk-2013</a></p>
 				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+      The 2013 edition of the Source SDK
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16554</span>
-						<span>🔱 1831</span>
+						<span>🔠 C++</span>
+						<span>⭐ 8495</span>
+						<span>🔱 2535</span>
 					</div>
-				<div class="stars-today">⭐ 6122 stars this month</div>
+				<div class="stars-today">⭐ 3461 stars this month</div>
 				</div>
 			</div>
 	
@@ -287,10 +199,54 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 51783</span>
+						<span>⭐ 51788</span>
 						<span>🔱 3392</span>
 					</div>
 				<div class="stars-today">⭐ 2150 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 4804</span>
+						<span>🔱 1585</span>
+					</div>
+				<div class="stars-today">⭐ 2357 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 360476</span>
+						<span>🔱 33469</span>
+					</div>
+				<div class="stars-today">⭐ 24035 stars this month</div>
 				</div>
 			</div>
 	
@@ -309,7 +265,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4365</span>
+						<span>⭐ 4370</span>
 						<span>🔱 462</span>
 					</div>
 				<div class="stars-today">⭐ 1397 stars this month</div>
@@ -317,24 +273,24 @@ categories:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
+				<p><a href="https://github.com/FreeTubeApp/FreeTube" target="_blank">
     
 
 
       
-        78 /
+        FreeTubeApp /
 
-      xiaozhi-esp32</a></p>
+      FreeTube</a></p>
 				<p>
-      Build your own AI friend
+      An Open Source YouTube app for privacy
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 9402</span>
-						<span>🔱 1691</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 17083</span>
+						<span>🔱 1097</span>
 					</div>
-				<div class="stars-today">⭐ 4045 stars this month</div>
+				<div class="stars-today">⭐ 2857 stars this month</div>
 				</div>
 			</div>
 	
@@ -353,10 +309,76 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68955</span>
-						<span>🔱 17663</span>
+						<span>⭐ 68975</span>
+						<span>🔱 17681</span>
 					</div>
 				<div class="stars-today">⭐ 7204 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16560</span>
+						<span>🔱 1832</span>
+					</div>
+				<div class="stars-today">⭐ 6122 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
+    
+
+
+      
+        78 /
+
+      xiaozhi-esp32</a></p>
+				<p>
+      Build your own AI friend
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 9412</span>
+						<span>🔱 1693</span>
+					</div>
+				<div class="stars-today">⭐ 4045 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CodePhiliaX/Chat2DB" target="_blank">
+    
+
+
+      
+        CodePhiliaX /
+
+      Chat2DB</a></p>
+				<p>
+      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 21217</span>
+						<span>🔱 2332</span>
+					</div>
+				<div class="stars-today">⭐ 2100 stars this month</div>
 				</div>
 			</div>
 	
@@ -375,32 +397,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10557</span>
-						<span>🔱 1163</span>
+						<span>⭐ 10563</span>
+						<span>🔱 1164</span>
 					</div>
 				<div class="stars-today">⭐ 1402 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank">
+				<p><a href="https://github.com/PySpur-Dev/pyspur" target="_blank">
     
 
 
       
-        NirDiamant /
+        PySpur-Dev /
 
-      GenAI_Agents</a></p>
+      pyspur</a></p>
 				<p>
-      This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+      A visual playground for agentic workflows: Iterate over your agents 10x faster
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9175</span>
-						<span>🔱 1184</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3645</span>
+						<span>🔱 243</span>
 					</div>
-				<div class="stars-today">⭐ 3119 stars this month</div>
+				<div class="stars-today">⭐ 2143 stars this month</div>
 				</div>
 			</div>
 	
