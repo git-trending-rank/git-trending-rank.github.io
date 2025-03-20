@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-20
-date: 2025-03-20T17:53:22+08:00
+date: 2025-03-20T17:54:48+08:00
 categories:
 - daily
 ---
@@ -25,7 +25,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9876</span>
+						<span>⭐ 9877</span>
 						<span>🔱 771</span>
 					</div>
 				<div class="stars-today">⭐ 218 stars today</div>
@@ -69,8 +69,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47838</span>
-						<span>🔱 3156</span>
+						<span>⭐ 47839</span>
+						<span>🔱 3157</span>
 					</div>
 				<div class="stars-today">⭐ 259 stars today</div>
 				</div>
@@ -113,7 +113,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10605</span>
+						<span>⭐ 10607</span>
 						<span>🔱 223</span>
 					</div>
 				<div class="stars-today">⭐ 692 stars today</div>
@@ -157,7 +157,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5124</span>
+						<span>⭐ 5125</span>
 						<span>🔱 676</span>
 					</div>
 				<div class="stars-today">⭐ 177 stars today</div>
@@ -179,7 +179,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6184</span>
+						<span>⭐ 6185</span>
 						<span>🔱 1103</span>
 					</div>
 				<div class="stars-today">⭐ 426 stars today</div>
@@ -201,7 +201,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 12917</span>
+						<span>⭐ 12919</span>
 						<span>🔱 836</span>
 					</div>
 				<div class="stars-today">⭐ 879 stars today</div>

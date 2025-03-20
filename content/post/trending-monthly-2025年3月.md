@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-20T17:53:22+08:00
+date: 2025-03-20T17:54:48+08:00
 categories:
 - monthly
 ---
@@ -91,8 +91,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84043</span>
-						<span>🔱 12395</span>
+						<span>⭐ 84044</span>
+						<span>🔱 12396</span>
 					</div>
 				<div class="stars-today">⭐ 14656 stars this month</div>
 				</div>
@@ -157,7 +157,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20842</span>
+						<span>⭐ 20843</span>
 						<span>🔱 1701</span>
 					</div>
 				<div class="stars-today">⭐ 7820 stars this month</div>
@@ -199,7 +199,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 12917</span>
+						<span>⭐ 12919</span>
 						<span>🔱 836</span>
 					</div>
 				<div class="stars-today">⭐ 8947 stars this month</div>
@@ -221,7 +221,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 360429</span>
+						<span>⭐ 360431</span>
 						<span>🔱 33466</span>
 					</div>
 				<div class="stars-today">⭐ 24035 stars this month</div>
