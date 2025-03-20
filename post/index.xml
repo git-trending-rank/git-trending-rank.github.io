@@ -6,10 +6,289 @@
         <description>Recent content in Posts on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 20 Mar 2025 07:07:06 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Mar 2025 07:13:21 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-03-20</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-03-20/</link>
+        <pubDate>Thu, 20 Mar 2025 07:13:21 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-03-20/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/microsoft/data-formulator&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      data-formulator&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      🪄 Create rich visualizations with AI 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+					&lt;span&gt;⭐ 9817&lt;/span&gt;
+					&lt;span&gt;🔱 764&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 218 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/glanceapp/glance&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        glanceapp /
+
+      glance&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      A self-hosted dashboard that puts all your feeds in one place
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 Go&lt;/span&gt;
+					&lt;span&gt;⭐ 19130&lt;/span&gt;
+					&lt;span&gt;🔱 680&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 718 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/toeverything/AFFiNE&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        toeverything /
+
+      AFFiNE&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+					&lt;span&gt;⭐ 47762&lt;/span&gt;
+					&lt;span&gt;🔱 3154&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 259 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/DiceDB/dice&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        DiceDB /
+
+      dice&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 Go&lt;/span&gt;
+					&lt;span&gt;⭐ 9285&lt;/span&gt;
+					&lt;span&gt;🔱 1266&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 280 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/subframe7536/maple-font&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        subframe7536 /
+
+      maple-font&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 Python&lt;/span&gt;
+					&lt;span&gt;⭐ 10481&lt;/span&gt;
+					&lt;span&gt;🔱 221&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 692 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/langchain-ai/ollama-deep-researcher&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langchain-ai /
+
+      ollama-deep-researcher&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      Fully local web research and report writing assistant
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 Python&lt;/span&gt;
+					&lt;span&gt;⭐ 5683&lt;/span&gt;
+					&lt;span&gt;🔱 564&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 436 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/satnaing/shadcn-admin&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        satnaing /
+
+      shadcn-admin&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      Admin Dashboard UI built with Shadcn and Vite.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+					&lt;span&gt;⭐ 5089&lt;/span&gt;
+					&lt;span&gt;🔱 671&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 177 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/patchy631/ai-engineering-hub&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+					&lt;span&gt;⭐ 6138&lt;/span&gt;
+					&lt;span&gt;🔱 1099&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 426 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/punkpeye/awesome-mcp-servers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      A collection of MCP servers.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 &lt;/span&gt;
+					&lt;span&gt;⭐ 12791&lt;/span&gt;
+					&lt;span&gt;🔱 832&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 879 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/microsoft/RD-Agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      RD-Agent&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through our open source R&amp;D automation tool RD-Agent, which lets AI drive data-driven AI.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 Python&lt;/span&gt;
+					&lt;span&gt;⭐ 3460&lt;/span&gt;
+					&lt;span&gt;🔱 285&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 87 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/google/osv-scanner&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google /
+
+      osv-scanner&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      Vulnerability scanner written in Go which uses the data provided by https://osv.dev
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 Go&lt;/span&gt;
+					&lt;span&gt;⭐ 6961&lt;/span&gt;
+					&lt;span&gt;🔱 398&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 71 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/e2b-dev/fragments&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        e2b-dev /
+
+      fragments&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      Open-source Next.js template for building apps that are fully generated by AI. By E2B.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+					&lt;span&gt;⭐ 4671&lt;/span&gt;
+					&lt;span&gt;🔱 620&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 248 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;h2&gt;&lt;a href=&#34;https://github.com/yangshun/tech-interview-handbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        yangshun /
+
+      tech-interview-handbook&lt;/a&gt;&lt;/h2&gt;
+				&lt;p&gt;
+      💯 Curated coding interview preparation materials for busy software engineers
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+					&lt;span&gt;⭐ 123531&lt;/span&gt;
+					&lt;span&gt;🔱 15149&lt;/span&gt;
+				&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 89 stars today&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+666
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025年3月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B43%E6%9C%88/</link>
-        <pubDate>Thu, 20 Mar 2025 07:07:06 +0000</pubDate>
+        <pubDate>Thu, 20 Mar 2025 07:13:21 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B43%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;public/css/trending.css&#34;&gt;
@@ -52,7 +331,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 52994&lt;/span&gt;
+					&lt;span&gt;⭐ 52995&lt;/span&gt;
 					&lt;span&gt;🔱 6274&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6631 stars this month&lt;/div&gt;
@@ -72,7 +351,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 C++&lt;/span&gt;
-					&lt;span&gt;⭐ 36087&lt;/span&gt;
+					&lt;span&gt;⭐ 36089&lt;/span&gt;
 					&lt;span&gt;🔱 1507&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8118 stars this month&lt;/div&gt;
@@ -92,8 +371,8 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 83950&lt;/span&gt;
-					&lt;span&gt;🔱 12375&lt;/span&gt;
+					&lt;span&gt;⭐ 83953&lt;/span&gt;
+					&lt;span&gt;🔱 12376&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14656 stars this month&lt;/div&gt;
 			&lt;/div&gt;
@@ -112,7 +391,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Go&lt;/span&gt;
-					&lt;span&gt;⭐ 19128&lt;/span&gt;
+					&lt;span&gt;⭐ 19130&lt;/span&gt;
 					&lt;span&gt;🔱 680&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8032 stars this month&lt;/div&gt;
@@ -132,7 +411,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 18411&lt;/span&gt;
+					&lt;span&gt;⭐ 18413&lt;/span&gt;
 					&lt;span&gt;🔱 3300&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9641 stars this month&lt;/div&gt;
@@ -152,7 +431,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-					&lt;span&gt;⭐ 20832&lt;/span&gt;
+					&lt;span&gt;⭐ 20833&lt;/span&gt;
 					&lt;span&gt;🔱 1700&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7820 stars this month&lt;/div&gt;
@@ -190,7 +469,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 &lt;/span&gt;
-					&lt;span&gt;⭐ 12785&lt;/span&gt;
+					&lt;span&gt;⭐ 12791&lt;/span&gt;
 					&lt;span&gt;🔱 832&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8947 stars this month&lt;/div&gt;
@@ -210,7 +489,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Markdown&lt;/span&gt;
-					&lt;span&gt;⭐ 360353&lt;/span&gt;
+					&lt;span&gt;⭐ 360354&lt;/span&gt;
 					&lt;span&gt;🔱 33451&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 24035 stars this month&lt;/div&gt;
@@ -250,7 +529,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 16532&lt;/span&gt;
+					&lt;span&gt;⭐ 16534&lt;/span&gt;
 					&lt;span&gt;🔱 1826&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6122 stars this month&lt;/div&gt;
@@ -310,7 +589,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 C++&lt;/span&gt;
-					&lt;span&gt;⭐ 9380&lt;/span&gt;
+					&lt;span&gt;⭐ 9381&lt;/span&gt;
 					&lt;span&gt;🔱 1685&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4045 stars this month&lt;/div&gt;
@@ -350,7 +629,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 10542&lt;/span&gt;
+					&lt;span&gt;⭐ 10543&lt;/span&gt;
 					&lt;span&gt;🔱 1162&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1402 stars this month&lt;/div&gt;
@@ -384,288 +663,9 @@
 </description>
         </item>
         <item>
-        <title>GitHub 趋势 2025-03-20</title>
-        <link>https://git-trending-rank.github.io/post/trending-daily-2025-03-20/</link>
-        <pubDate>Thu, 20 Mar 2025 07:07:04 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-03-20/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/microsoft/data-formulator&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      data-formulator&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      🪄 Create rich visualizations with AI 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 9812&lt;/span&gt;
-					&lt;span&gt;🔱 764&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 218 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/glanceapp/glance&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        glanceapp /
-
-      glance&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      A self-hosted dashboard that puts all your feeds in one place
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Go&lt;/span&gt;
-					&lt;span&gt;⭐ 19128&lt;/span&gt;
-					&lt;span&gt;🔱 680&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 718 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/toeverything/AFFiNE&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        toeverything /
-
-      AFFiNE&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 47760&lt;/span&gt;
-					&lt;span&gt;🔱 3154&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 259 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/DiceDB/dice&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        DiceDB /
-
-      dice&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Go&lt;/span&gt;
-					&lt;span&gt;⭐ 9285&lt;/span&gt;
-					&lt;span&gt;🔱 1266&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 280 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/subframe7536/maple-font&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        subframe7536 /
-
-      maple-font&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 10478&lt;/span&gt;
-					&lt;span&gt;🔱 221&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 692 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/langchain-ai/ollama-deep-researcher&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        langchain-ai /
-
-      ollama-deep-researcher&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      Fully local web research and report writing assistant
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 5682&lt;/span&gt;
-					&lt;span&gt;🔱 564&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 436 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/satnaing/shadcn-admin&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        satnaing /
-
-      shadcn-admin&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      Admin Dashboard UI built with Shadcn and Vite.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 5086&lt;/span&gt;
-					&lt;span&gt;🔱 671&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 177 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/patchy631/ai-engineering-hub&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-					&lt;span&gt;⭐ 6138&lt;/span&gt;
-					&lt;span&gt;🔱 1099&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 426 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/punkpeye/awesome-mcp-servers&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      A collection of MCP servers.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 &lt;/span&gt;
-					&lt;span&gt;⭐ 12785&lt;/span&gt;
-					&lt;span&gt;🔱 832&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 879 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/microsoft/RD-Agent&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      RD-Agent&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through our open source R&amp;D automation tool RD-Agent, which lets AI drive data-driven AI.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 3460&lt;/span&gt;
-					&lt;span&gt;🔱 285&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 87 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/google/osv-scanner&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        google /
-
-      osv-scanner&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      Vulnerability scanner written in Go which uses the data provided by https://osv.dev
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 Go&lt;/span&gt;
-					&lt;span&gt;⭐ 6959&lt;/span&gt;
-					&lt;span&gt;🔱 398&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 71 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/e2b-dev/fragments&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        e2b-dev /
-
-      fragments&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      Open-source Next.js template for building apps that are fully generated by AI. By E2B.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 4671&lt;/span&gt;
-					&lt;span&gt;🔱 620&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 248 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;h2&gt;&lt;a href=&#34;https://github.com/yangshun/tech-interview-handbook&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        yangshun /
-
-      tech-interview-handbook&lt;/a&gt;&lt;/h2&gt;
-				&lt;p&gt;
-      💯 Curated coding interview preparation materials for busy software engineers
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 123529&lt;/span&gt;
-					&lt;span&gt;🔱 15149&lt;/span&gt;
-				&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 89 stars today&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-666
-</description>
-        </item>
-        <item>
         <title>GitHub 趋势 2025年第12周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC12%E5%91%A8/</link>
-        <pubDate>Thu, 20 Mar 2025 07:07:04 +0000</pubDate>
+        <pubDate>Thu, 20 Mar 2025 07:13:21 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC12%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;public/css/trending.css&#34;&gt;
@@ -688,7 +688,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 5682&lt;/span&gt;
+					&lt;span&gt;⭐ 5683&lt;/span&gt;
 					&lt;span&gt;🔱 564&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2664 stars this week&lt;/div&gt;
@@ -768,7 +768,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-					&lt;span&gt;⭐ 413761&lt;/span&gt;
+					&lt;span&gt;⭐ 413762&lt;/span&gt;
 					&lt;span&gt;🔱 39437&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2264 stars this week&lt;/div&gt;
@@ -788,7 +788,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 10814&lt;/span&gt;
+					&lt;span&gt;⭐ 10815&lt;/span&gt;
 					&lt;span&gt;🔱 1106&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1023 stars this week&lt;/div&gt;
@@ -808,8 +808,8 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 Python&lt;/span&gt;
-					&lt;span&gt;⭐ 46381&lt;/span&gt;
-					&lt;span&gt;🔱 4771&lt;/span&gt;
+					&lt;span&gt;⭐ 46383&lt;/span&gt;
+					&lt;span&gt;🔱 4772&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4076 stars this week&lt;/div&gt;
 			&lt;/div&gt;
@@ -828,7 +828,7 @@
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;span&gt;🔠 &lt;/span&gt;
-					&lt;span&gt;⭐ 12785&lt;/span&gt;
+					&lt;span&gt;⭐ 12791&lt;/span&gt;
 					&lt;span&gt;🔱 832&lt;/span&gt;
 				&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4310 stars this week&lt;/div&gt;
