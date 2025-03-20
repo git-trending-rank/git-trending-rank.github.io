@@ -1,10 +1,10 @@
 ---
 title: GitHub 趋势 2025年第12周
-date: 2025-03-20T16:20:19+08:00
+date: 2025-03-20T16:25:21+08:00
 categories:
 - weekly
 ---
-<link rel="stylesheet" href="public/css/trending.css">
+<link rel="stylesheet" href="/public/css/trending.css">
 {{< raw >}}
 	<main class="container">
         <div class="repo-list" id="repoList">
@@ -25,7 +25,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5703</span>
+						<span>⭐ 5705</span>
 						<span>🔱 565</span>
 					</div>
 				<div class="stars-today">⭐ 2664 stars this week</div>
@@ -113,7 +113,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 413766</span>
+						<span>⭐ 413767</span>
 						<span>🔱 39437</span>
 					</div>
 				<div class="stars-today">⭐ 2264 stars this week</div>
@@ -135,7 +135,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10819</span>
+						<span>⭐ 10821</span>
 						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 1023 stars this week</div>
@@ -157,7 +157,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46408</span>
+						<span>⭐ 46411</span>
 						<span>🔱 4776</span>
 					</div>
 				<div class="stars-today">⭐ 4076 stars this week</div>
@@ -179,7 +179,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 12852</span>
+						<span>⭐ 12854</span>
 						<span>🔱 834</span>
 					</div>
 				<div class="stars-today">⭐ 4310 stars this week</div>

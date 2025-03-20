@@ -15,7 +15,7 @@ date: {{.Date}}
 categories:
 - {{.Frequency}}
 ---
-<link rel="stylesheet" href="public/css/trending.css">
+<link rel="stylesheet" href="/public/css/trending.css">
 {{"{{"}}< raw >{{"}}"}}
 	<main class="container">
         <div class="repo-list" id="repoList">
