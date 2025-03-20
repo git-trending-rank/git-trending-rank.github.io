@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 20 Mar 2025 09:58:47 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 20 Mar 2025 11:59:00 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第12周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC12%E5%91%A8/</link>
-        <pubDate>Thu, 20 Mar 2025 09:58:47 +0000</pubDate>
+        <pubDate>Thu, 20 Mar 2025 11:59:00 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC12%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,7 +33,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5734&lt;/span&gt;
+						&lt;span&gt;⭐ 5751&lt;/span&gt;
 						&lt;span&gt;🔱 566&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2664 stars this week&lt;/div&gt;
@@ -55,54 +55,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 6187&lt;/span&gt;
+						&lt;span&gt;⭐ 6207&lt;/span&gt;
 						&lt;span&gt;🔱 1104&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1329 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/CodePhiliaX/Chat2DB&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        CodePhiliaX /
-
-      Chat2DB&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 21201&lt;/span&gt;
-						&lt;span&gt;🔱 2331&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1189 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/TypeScript&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      TypeScript&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 103585&lt;/span&gt;
-						&lt;span&gt;🔱 12754&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 902 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,76 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 413776&lt;/span&gt;
-						&lt;span&gt;🔱 39438&lt;/span&gt;
+						&lt;span&gt;⭐ 413785&lt;/span&gt;
+						&lt;span&gt;🔱 39440&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2264 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/camel-ai/camel&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        camel-ai /
-
-      camel&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10830&lt;/span&gt;
-						&lt;span&gt;🔱 1107&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1023 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/browser-use/browser-use&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        browser-use /
-
-      browser-use&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Make websites accessible for AI agents
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 46448&lt;/span&gt;
-						&lt;span&gt;🔱 4783&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4076 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/punkpeye/awesome-mcp-servers&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A collection of MCP servers.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 12924&lt;/span&gt;
-						&lt;span&gt;🔱 836&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4310 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,32 +99,164 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1144&lt;/span&gt;
-						&lt;span&gt;🔱 110&lt;/span&gt;
+						&lt;span&gt;⭐ 1149&lt;/span&gt;
+						&lt;span&gt;🔱 111&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 569 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ai-christianson/RA.Aid&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/punkpeye/awesome-mcp-servers&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ai-christianson /
+        punkpeye /
 
-      RA.Aid&lt;/a&gt;&lt;/p&gt;
+      awesome-mcp-servers&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Develop software autonomously.
+      A collection of MCP servers.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1397&lt;/span&gt;
-						&lt;span&gt;🔱 123&lt;/span&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 12972&lt;/span&gt;
+						&lt;span&gt;🔱 840&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 600 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4310 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/TypeScript&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      TypeScript&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 103586&lt;/span&gt;
+						&lt;span&gt;🔱 12754&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 902 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/makeplane/plane&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        makeplane /
+
+      plane&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 34231&lt;/span&gt;
+						&lt;span&gt;🔱 2094&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 852 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/uutils/coreutils&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        uutils /
+
+      coreutils&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Cross-platform Rust rewrite of the GNU coreutils
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 19401&lt;/span&gt;
+						&lt;span&gt;🔱 1377&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 879 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CodePhiliaX/Chat2DB&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CodePhiliaX /
+
+      Chat2DB&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 21217&lt;/span&gt;
+						&lt;span&gt;🔱 2332&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1189 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/johnbean393/Sidekick&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        johnbean393 /
+
+      Sidekick&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 2394&lt;/span&gt;
+						&lt;span&gt;🔱 78&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1051 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/yuaotian/go-cursor-help&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        yuaotian /
+
+      go-cursor-help&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      解决Cursor在免费订阅期间出现以下提示的问题: You&#39;ve reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 15813&lt;/span&gt;
+						&lt;span&gt;🔱 2001&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2465 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
