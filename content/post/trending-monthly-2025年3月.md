@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-20T09:55:36Z
+date: 2025-03-20T09:58:47Z
 categories:
 - monthly
 ---
@@ -47,7 +47,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53017</span>
+						<span>⭐ 53018</span>
 						<span>🔱 6277</span>
 					</div>
 				<div class="stars-today">⭐ 6631 stars this month</div>
@@ -69,7 +69,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36097</span>
+						<span>⭐ 36098</span>
 						<span>🔱 1507</span>
 					</div>
 				<div class="stars-today">⭐ 8118 stars this month</div>
@@ -199,7 +199,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 12919</span>
+						<span>⭐ 12924</span>
 						<span>🔱 836</span>
 					</div>
 				<div class="stars-today">⭐ 8947 stars this month</div>
@@ -221,7 +221,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 360432</span>
+						<span>⭐ 360434</span>
 						<span>🔱 33466</span>
 					</div>
 				<div class="stars-today">⭐ 24035 stars this month</div>
@@ -265,7 +265,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16553</span>
+						<span>⭐ 16554</span>
 						<span>🔱 1831</span>
 					</div>
 				<div class="stars-today">⭐ 6122 stars this month</div>
@@ -287,7 +287,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 51782</span>
+						<span>⭐ 51783</span>
 						<span>🔱 3392</span>
 					</div>
 				<div class="stars-today">⭐ 2150 stars this month</div>
