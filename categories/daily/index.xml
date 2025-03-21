@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 21 Mar 2025 09:58:32 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 21 Mar 2025 11:58:53 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-03-21</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-03-21/</link>
-        <pubDate>Fri, 21 Mar 2025 09:58:32 +0000</pubDate>
+        <pubDate>Fri, 21 Mar 2025 11:58:53 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-03-21/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,90 +19,24 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/SakanaAI/AI-Scientist&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenBB-finance/OpenBB&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        SakanaAI /
+        OpenBB-finance /
 
-      AI-Scientist&lt;/a&gt;&lt;/p&gt;
+      OpenBB&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+      Investment Research for Everyone, Everywhere.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 10088&lt;/span&gt;
-						&lt;span&gt;🔱 1464&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 37856&lt;/span&gt;
+						&lt;span&gt;🔱 3429&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 154 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sinclairtarget/git-who&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sinclairtarget /
-
-      git-who&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Git blame for file trees
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 1263&lt;/span&gt;
-						&lt;span&gt;🔱 26&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 286 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/kekingcn/kkFileView&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        kekingcn /
-
-      kkFileView&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Universal File Online Preview Project based on Spring-Boot
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 11945&lt;/span&gt;
-						&lt;span&gt;🔱 2881&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 116 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/satnaing/shadcn-admin&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        satnaing /
-
-      shadcn-admin&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Admin Dashboard UI built with Shadcn and Vite.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5547&lt;/span&gt;
-						&lt;span&gt;🔱 710&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 433 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 150 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,76 +55,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 48298&lt;/span&gt;
-						&lt;span&gt;🔱 3174&lt;/span&gt;
+						&lt;span&gt;⭐ 48335&lt;/span&gt;
+						&lt;span&gt;🔱 3176&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 637 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/hotheadhacker/awesome-selfhost-docker&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/clash-verge-rev/clash-verge-rev&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        hotheadhacker /
+        clash-verge-rev /
 
-      awesome-selfhost-docker&lt;/a&gt;&lt;/p&gt;
+      clash-verge-rev&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 1726&lt;/span&gt;
-						&lt;span&gt;🔱 64&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 272 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/data-formulator&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      data-formulator&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🪄 Create rich visualizations with AI 
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 10390&lt;/span&gt;
-						&lt;span&gt;🔱 803&lt;/span&gt;
+						&lt;span&gt;⭐ 51565&lt;/span&gt;
+						&lt;span&gt;🔱 4039&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 580 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 179 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/subframe7536/maple-font&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hacksider/Deep-Live-Cam&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        subframe7536 /
+        hacksider /
 
-      maple-font&lt;/a&gt;&lt;/p&gt;
+      Deep-Live-Cam&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+      real time face swap and one-click video deepfake with only a single image
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11329&lt;/span&gt;
-						&lt;span&gt;🔱 238&lt;/span&gt;
+						&lt;span&gt;⭐ 44765&lt;/span&gt;
+						&lt;span&gt;🔱 6699&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 829 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 34 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,30 +121,96 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 124081&lt;/span&gt;
-						&lt;span&gt;🔱 15178&lt;/span&gt;
+						&lt;span&gt;⭐ 124113&lt;/span&gt;
+						&lt;span&gt;🔱 15180&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 597 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/cloudflare/mcp-server-cloudflare&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        cloudflare /
+        Flowseal /
 
-      mcp-server-cloudflare&lt;/a&gt;&lt;/p&gt;
+      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;&lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 896&lt;/span&gt;
-						&lt;span&gt;🔱 55&lt;/span&gt;
+						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
+						&lt;span&gt;⭐ 11123&lt;/span&gt;
+						&lt;span&gt;🔱 687&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 83 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/markitdown&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      markitdown&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Python tool for converting files and office documents to Markdown.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 40662&lt;/span&gt;
+						&lt;span&gt;🔱 1922&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 193 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/e2b-dev/fragments&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        e2b-dev /
+
+      fragments&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open-source Next.js template for building apps that are fully generated by AI. By E2B.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4778&lt;/span&gt;
+						&lt;span&gt;🔱 635&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 236 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hotheadhacker/awesome-selfhost-docker&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hotheadhacker /
+
+      awesome-selfhost-docker&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 HTML&lt;/span&gt;
+						&lt;span&gt;⭐ 1762&lt;/span&gt;
+						&lt;span&gt;🔱 64&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 272 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
