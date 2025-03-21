@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-21
-date: 2025-03-21T09:58:32Z
+date: 2025-03-21T11:58:53Z
 categories:
 - daily
 ---
@@ -11,90 +11,24 @@ categories:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        SakanaAI /
+        OpenBB-finance /
 
-      AI-Scientist</a></p>
+      OpenBB</a></p>
 				<p>
-      The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+      Investment Research for Everyone, Everywhere.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10088</span>
-						<span>🔱 1464</span>
+						<span>🔠 Python</span>
+						<span>⭐ 37856</span>
+						<span>🔱 3429</span>
 					</div>
-				<div class="stars-today">⭐ 154 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sinclairtarget/git-who" target="_blank">
-    
-
-
-      
-        sinclairtarget /
-
-      git-who</a></p>
-				<p>
-      Git blame for file trees
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1263</span>
-						<span>🔱 26</span>
-					</div>
-				<div class="stars-today">⭐ 286 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kekingcn/kkFileView" target="_blank">
-    
-
-
-      
-        kekingcn /
-
-      kkFileView</a></p>
-				<p>
-      Universal File Online Preview Project based on Spring-Boot
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 11945</span>
-						<span>🔱 2881</span>
-					</div>
-				<div class="stars-today">⭐ 116 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/satnaing/shadcn-admin" target="_blank">
-    
-
-
-      
-        satnaing /
-
-      shadcn-admin</a></p>
-				<p>
-      Admin Dashboard UI built with Shadcn and Vite.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5547</span>
-						<span>🔱 710</span>
-					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
+				<div class="stars-today">⭐ 150 stars today</div>
 				</div>
 			</div>
 	
@@ -113,76 +47,54 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48298</span>
-						<span>🔱 3174</span>
+						<span>⭐ 48335</span>
+						<span>🔱 3176</span>
 					</div>
 				<div class="stars-today">⭐ 637 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hotheadhacker/awesome-selfhost-docker" target="_blank">
+				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
     
 
 
       
-        hotheadhacker /
+        clash-verge-rev /
 
-      awesome-selfhost-docker</a></p>
+      clash-verge-rev</a></p>
 				<p>
-      🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 1726</span>
-						<span>🔱 64</span>
-					</div>
-				<div class="stars-today">⭐ 272 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/data-formulator" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      data-formulator</a></p>
-				<p>
-      🪄 Create rich visualizations with AI 
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10390</span>
-						<span>🔱 803</span>
+						<span>⭐ 51565</span>
+						<span>🔱 4039</span>
 					</div>
-				<div class="stars-today">⭐ 580 stars today</div>
+				<div class="stars-today">⭐ 179 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/subframe7536/maple-font" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        subframe7536 /
+        hacksider /
 
-      maple-font</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11329</span>
-						<span>🔱 238</span>
+						<span>⭐ 44765</span>
+						<span>🔱 6699</span>
 					</div>
-				<div class="stars-today">⭐ 829 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
 				</div>
 			</div>
 	
@@ -201,30 +113,96 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 124081</span>
-						<span>🔱 15178</span>
+						<span>⭐ 124113</span>
+						<span>🔱 15180</span>
 					</div>
 				<div class="stars-today">⭐ 597 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/mcp-server-cloudflare" target="_blank">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
     
 
 
       
-        cloudflare /
+        Flowseal /
 
-      mcp-server-cloudflare</a></p>
+      zapret-discord-youtube</a></p>
 				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 896</span>
-						<span>🔱 55</span>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 11123</span>
+						<span>🔱 687</span>
 					</div>
 				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40662</span>
+						<span>🔱 1922</span>
+					</div>
+				<div class="stars-today">⭐ 193 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/e2b-dev/fragments" target="_blank">
+    
+
+
+      
+        e2b-dev /
+
+      fragments</a></p>
+				<p>
+      Open-source Next.js template for building apps that are fully generated by AI. By E2B.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4778</span>
+						<span>🔱 635</span>
+					</div>
+				<div class="stars-today">⭐ 236 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hotheadhacker/awesome-selfhost-docker" target="_blank">
+    
+
+
+      
+        hotheadhacker /
+
+      awesome-selfhost-docker</a></p>
+				<p>
+      🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 1762</span>
+						<span>🔱 64</span>
+					</div>
+				<div class="stars-today">⭐ 272 stars today</div>
 				</div>
 			</div>
 	

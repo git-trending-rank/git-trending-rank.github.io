@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-21T09:58:32Z
+date: 2025-03-21T11:58:54Z
 categories:
 - monthly
 ---
@@ -9,28 +9,6 @@ categories:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
-    
-
-
-      
-        geekan /
-
-      MetaGPT</a></p>
-				<p>
-      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53130</span>
-						<span>🔱 6292</span>
-					</div>
-				<div class="stars-today">⭐ 6499 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
@@ -47,10 +25,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36148</span>
+						<span>⭐ 36156</span>
 						<span>🔱 1509</span>
 					</div>
 				<div class="stars-today">⭐ 8168 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
+    
+
+
+      
+        geekan /
+
+      MetaGPT</a></p>
+				<p>
+      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53141</span>
+						<span>🔱 6292</span>
+					</div>
+				<div class="stars-today">⭐ 6499 stars this month</div>
 				</div>
 			</div>
 	
@@ -69,8 +69,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84420</span>
-						<span>🔱 12464</span>
+						<span>⭐ 84446</span>
+						<span>🔱 12470</span>
 					</div>
 				<div class="stars-today">⭐ 14431 stars this month</div>
 				</div>
@@ -91,8 +91,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18601</span>
-						<span>🔱 3339</span>
+						<span>⭐ 18606</span>
+						<span>🔱 3341</span>
 					</div>
 				<div class="stars-today">⭐ 9878 stars this month</div>
 				</div>
@@ -113,10 +113,98 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 19438</span>
+						<span>⭐ 19446</span>
 						<span>🔱 688</span>
 					</div>
 				<div class="stars-today">⭐ 8631 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 360968</span>
+						<span>🔱 33520</span>
+					</div>
+				<div class="stars-today">⭐ 24266 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+    
+
+
+      
+        gorhill /
+
+      uBlock</a></p>
+				<p>
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 51829</span>
+						<span>🔱 3396</span>
+					</div>
+				<div class="stars-today">⭐ 2131 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CodePhiliaX/Chat2DB" target="_blank">
+    
+
+
+      
+        CodePhiliaX /
+
+      Chat2DB</a></p>
+				<p>
+      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 21349</span>
+						<span>🔱 2347</span>
+					</div>
+				<div class="stars-today">⭐ 2203 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
+    
+
+
+      
+        svcvit /
+
+      Awesome-Dify-Workflow</a></p>
+				<p>
+      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4446</span>
+						<span>🔱 471</span>
+					</div>
+				<div class="stars-today">⭐ 1451 stars this month</div>
 				</div>
 			</div>
 	
@@ -135,7 +223,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18363</span>
+						<span>⭐ 18370</span>
 						<span>🔱 1711</span>
 					</div>
 				<div class="stars-today">⭐ 3683 stars this month</div>
@@ -155,120 +243,54 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2403</span>
-						<span>🔱 318</span>
+						<span>⭐ 2405</span>
+						<span>🔱 320</span>
 					</div>
 				<div class="stars-today">⭐ 1772 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ValveSoftware/source-sdk-2013" target="_blank">
+				<p><a href="https://github.com/PySpur-Dev/pyspur" target="_blank">
     
 
 
       
-        ValveSoftware /
+        PySpur-Dev /
 
-      source-sdk-2013</a></p>
+      pyspur</a></p>
 				<p>
-      The 2013 edition of the Source SDK
+      A visual playground for agentic workflows: Iterate over your agents 10x faster
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3734</span>
+						<span>🔱 248</span>
+					</div>
+				<div class="stars-today">⭐ 2172 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
+    
+
+
+      
+        78 /
+
+      xiaozhi-esp32</a></p>
+				<p>
+      Build your own AI friend
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 8509</span>
-						<span>🔱 2540</span>
+						<span>⭐ 9496</span>
+						<span>🔱 1709</span>
 					</div>
-				<div class="stars-today">⭐ 2367 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
-    
-
-
-      
-        gorhill /
-
-      uBlock</a></p>
-				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 51827</span>
-						<span>🔱 3396</span>
-					</div>
-				<div class="stars-today">⭐ 2131 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 4892</span>
-						<span>🔱 1605</span>
-					</div>
-				<div class="stars-today">⭐ 2341 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 360931</span>
-						<span>🔱 33517</span>
-					</div>
-				<div class="stars-today">⭐ 24266 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
-    
-
-
-      
-        svcvit /
-
-      Awesome-Dify-Workflow</a></p>
-				<p>
-      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4442</span>
-						<span>🔱 470</span>
-					</div>
-				<div class="stars-today">⭐ 1451 stars this month</div>
+				<div class="stars-today">⭐ 3975 stars this month</div>
 				</div>
 			</div>
 	
@@ -287,7 +309,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17117</span>
+						<span>⭐ 17124</span>
 						<span>🔱 1099</span>
 					</div>
 				<div class="stars-today">⭐ 2860 stars this month</div>
@@ -309,76 +331,10 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 69273</span>
-						<span>🔱 17823</span>
+						<span>⭐ 69295</span>
+						<span>🔱 17832</span>
 					</div>
 				<div class="stars-today">⭐ 7397 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16646</span>
-						<span>🔱 1838</span>
-					</div>
-				<div class="stars-today">⭐ 5685 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
-    
-
-
-      
-        78 /
-
-      xiaozhi-esp32</a></p>
-				<p>
-      Build your own AI friend
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 9493</span>
-						<span>🔱 1707</span>
-					</div>
-				<div class="stars-today">⭐ 3975 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CodePhiliaX/Chat2DB" target="_blank">
-    
-
-
-      
-        CodePhiliaX /
-
-      Chat2DB</a></p>
-				<p>
-      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 21344</span>
-						<span>🔱 2346</span>
-					</div>
-				<div class="stars-today">⭐ 2203 stars this month</div>
 				</div>
 			</div>
 	
@@ -397,7 +353,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10626</span>
+						<span>⭐ 10633</span>
 						<span>🔱 1169</span>
 					</div>
 				<div class="stars-today">⭐ 1444 stars this month</div>
@@ -405,24 +361,24 @@ categories:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PySpur-Dev/pyspur" target="_blank">
+				<p><a href="https://github.com/KRTirtho/spotube" target="_blank">
     
 
 
       
-        PySpur-Dev /
+        KRTirtho /
 
-      pyspur</a></p>
+      spotube</a></p>
 				<p>
-      A visual playground for agentic workflows: Iterate over your agents 10x faster
+      🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3730</span>
-						<span>🔱 247</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 38527</span>
+						<span>🔱 1578</span>
 					</div>
-				<div class="stars-today">⭐ 2172 stars this month</div>
+				<div class="stars-today">⭐ 3430 stars this month</div>
 				</div>
 			</div>
 	

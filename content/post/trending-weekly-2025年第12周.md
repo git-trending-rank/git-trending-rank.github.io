@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第12周
-date: 2025-03-21T09:58:32Z
+date: 2025-03-21T11:58:54Z
 categories:
 - weekly
 ---
@@ -9,6 +9,28 @@ categories:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/glanceapp/glance" target="_blank">
+    
+
+
+      
+        glanceapp /
+
+      glance</a></p>
+				<p>
+      A self-hosted dashboard that puts all your feeds in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 19446</span>
+						<span>🔱 688</span>
+					</div>
+				<div class="stars-today">⭐ 7393 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/langchain-ai/local-deep-researcher" target="_blank">
@@ -25,7 +47,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5904</span>
+						<span>⭐ 5916</span>
 						<span>🔱 576</span>
 					</div>
 				<div class="stars-today">⭐ 3100 stars this week</div>
@@ -47,54 +69,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6319</span>
-						<span>🔱 1113</span>
+						<span>⭐ 6326</span>
+						<span>🔱 1114</span>
 					</div>
 				<div class="stars-today">⭐ 1652 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+				<p><a href="https://github.com/hpcaitech/Open-Sora" target="_blank">
     
 
 
       
-        freeCodeCamp /
+        hpcaitech /
 
-      freeCodeCamp</a></p>
+      Open-Sora</a></p>
 				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+      Open-Sora: Democratizing Efficient Video Production for All
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 413871</span>
-						<span>🔱 39457</span>
+						<span>🔠 Python</span>
+						<span>⭐ 25625</span>
+						<span>🔱 2462</span>
 					</div>
-				<div class="stars-today">⭐ 1981 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
-    
-
-
-      
-        executeautomation /
-
-      mcp-playwright</a></p>
-				<p>
-      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1251</span>
-						<span>🔱 112</span>
-					</div>
-				<div class="stars-today">⭐ 633 stars this week</div>
+				<div class="stars-today">⭐ 1390 stars this week</div>
 				</div>
 			</div>
 	
@@ -113,120 +113,76 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 13444</span>
-						<span>🔱 866</span>
+						<span>⭐ 13483</span>
+						<span>🔱 869</span>
 					</div>
 				<div class="stars-today">⭐ 4682 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/TypeScript" target="_blank">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
     
 
 
       
         microsoft /
 
-      TypeScript</a></p>
+      RD-Agent</a></p>
 				<p>
-      TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3509</span>
+						<span>🔱 288</span>
+					</div>
+				<div class="stars-today">⭐ 1389 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37856</span>
+						<span>🔱 3429</span>
+					</div>
+				<div class="stars-today">⭐ 1063 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 103617</span>
-						<span>🔱 12755</span>
+						<span>⭐ 413881</span>
+						<span>🔱 39460</span>
 					</div>
-				<div class="stars-today">⭐ 589 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
-    
-
-
-      
-        makeplane /
-
-      plane</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34320</span>
-						<span>🔱 2096</span>
-					</div>
-				<div class="stars-today">⭐ 892 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/uutils/coreutils" target="_blank">
-    
-
-
-      
-        uutils /
-
-      coreutils</a></p>
-				<p>
-      Cross-platform Rust rewrite of the GNU coreutils
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19444</span>
-						<span>🔱 1384</span>
-					</div>
-				<div class="stars-today">⭐ 898 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CodePhiliaX/Chat2DB" target="_blank">
-    
-
-
-      
-        CodePhiliaX /
-
-      Chat2DB</a></p>
-				<p>
-      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 21344</span>
-						<span>🔱 2346</span>
-					</div>
-				<div class="stars-today">⭐ 835 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/johnbean393/Sidekick" target="_blank">
-    
-
-
-      
-        johnbean393 /
-
-      Sidekick</a></p>
-				<p>
-      A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 2459</span>
-						<span>🔱 78</span>
-					</div>
-				<div class="stars-today">⭐ 936 stars this week</div>
+				<div class="stars-today">⭐ 1981 stars this week</div>
 				</div>
 			</div>
 	
@@ -245,10 +201,54 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 16017</span>
-						<span>🔱 2015</span>
+						<span>⭐ 16030</span>
+						<span>🔱 2017</span>
 					</div>
 				<div class="stars-today">⭐ 2436 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34328</span>
+						<span>🔱 2095</span>
+					</div>
+				<div class="stars-today">⭐ 892 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/satnaing/shadcn-admin" target="_blank">
+    
+
+
+      
+        satnaing /
+
+      shadcn-admin</a></p>
+				<p>
+      Admin Dashboard UI built with Shadcn and Vite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5573</span>
+						<span>🔱 715</span>
+					</div>
+				<div class="stars-today">⭐ 1131 stars this week</div>
 				</div>
 			</div>
 	
