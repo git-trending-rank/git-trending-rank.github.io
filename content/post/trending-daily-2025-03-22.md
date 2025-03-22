@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-22
-date: 2025-03-22T09:58:49Z
+date: 2025-03-22T11:58:36Z
 categories:
 - daily
 ---
@@ -11,68 +11,68 @@ categories:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        ocrmypdf /
 
-      OpenBB</a></p>
+      OCRmyPDF</a></p>
 				<p>
-      Investment Research for Everyone, Everywhere.
+      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38254</span>
-						<span>🔱 3447</span>
+						<span>⭐ 22470</span>
+						<span>🔱 1463</span>
 					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
+				<div class="stars-today">⭐ 1376 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+				<p><a href="https://github.com/mongodb-developer/GenAI-Showcase" target="_blank">
     
 
 
       
-        toeverything /
+        mongodb-developer /
 
-      AFFiNE</a></p>
+      GenAI-Showcase</a></p>
 				<p>
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+      GenAI Cookbook
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 48700</span>
-						<span>🔱 3192</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2285</span>
+						<span>🔱 429</span>
 					</div>
-				<div class="stars-today">⭐ 465 stars today</div>
+				<div class="stars-today">⭐ 205 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+				<p><a href="https://github.com/ByteByteGoHq/system-design-101" target="_blank">
     
 
 
       
-        clash-verge-rev /
+        ByteByteGoHq /
 
-      clash-verge-rev</a></p>
+      system-design-101</a></p>
 				<p>
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+      Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51812</span>
-						<span>🔱 4053</span>
+						<span>🔠 </span>
+						<span>⭐ 69725</span>
+						<span>🔱 7437</span>
 					</div>
-				<div class="stars-today">⭐ 179 stars today</div>
+				<div class="stars-today">⭐ 213 stars today</div>
 				</div>
 			</div>
 	
@@ -91,96 +91,54 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45128</span>
-						<span>🔱 6761</span>
+						<span>⭐ 45163</span>
+						<span>🔱 6764</span>
 					</div>
-				<div class="stars-today">⭐ 34 stars today</div>
+				<div class="stars-today">⭐ 410 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yangshun/tech-interview-handbook" target="_blank">
-    
-
-
-      
-        yangshun /
-
-      tech-interview-handbook</a></p>
-				<p>
-      💯 Curated coding interview preparation materials for busy software engineers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 124367</span>
-						<span>🔱 15198</span>
-					</div>
-				<div class="stars-today">⭐ 508 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 11179</span>
-						<span>🔱 694</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      markitdown</a></p>
+      Web-Dev-For-Beginners</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41078</span>
-						<span>🔱 1941</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 85959</span>
+						<span>🔱 12823</span>
 					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
+				<div class="stars-today">⭐ 122 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/e2b-dev/fragments" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        e2b-dev /
+        OpenBB-finance /
 
-      fragments</a></p>
+      OpenBB</a></p>
 				<p>
-      Open-source Next.js template for building apps that are fully generated by AI. By E2B.
+      Investment Research for Everyone, Everywhere.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5010</span>
-						<span>🔱 652</span>
+						<span>🔠 Python</span>
+						<span>⭐ 38282</span>
+						<span>🔱 3451</span>
 					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
+				<div class="stars-today">⭐ 441 stars today</div>
 				</div>
 			</div>
 	
@@ -199,10 +157,54 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 2146</span>
+						<span>⭐ 2173</span>
 						<span>🔱 82</span>
 					</div>
-				<div class="stars-today">⭐ 614 stars today</div>
+				<div class="stars-today">⭐ 420 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23450</span>
+						<span>🔱 987</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/satnaing/shadcn-admin" target="_blank">
+    
+
+
+      
+        satnaing /
+
+      shadcn-admin</a></p>
+				<p>
+      Admin Dashboard UI built with Shadcn and Vite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5688</span>
+						<span>🔱 726</span>
+					</div>
+				<div class="stars-today">⭐ 400 stars today</div>
 				</div>
 			</div>
 	

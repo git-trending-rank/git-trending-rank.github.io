@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-22T09:58:49Z
+date: 2025-03-22T11:58:37Z
 categories:
 - monthly
 ---
@@ -25,10 +25,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36198</span>
+						<span>⭐ 36201</span>
 						<span>🔱 1512</span>
 					</div>
 				<div class="stars-today">⭐ 8198 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mastra-ai/mastra" target="_blank">
+    
+
+
+      
+        mastra-ai /
+
+      mastra</a></p>
+				<p>
+      The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11029</span>
+						<span>🔱 512</span>
+					</div>
+				<div class="stars-today">⭐ 7942 stars this month</div>
 				</div>
 			</div>
 	
@@ -47,32 +69,10 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53203</span>
-						<span>🔱 6299</span>
+						<span>⭐ 53210</span>
+						<span>🔱 6300</span>
 					</div>
 				<div class="stars-today">⭐ 6363 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
-    
-
-
-      
-        langgenius /
-
-      dify</a></p>
-				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 84656</span>
-						<span>🔱 12510</span>
-					</div>
-				<div class="stars-today">⭐ 14235 stars this month</div>
 				</div>
 			</div>
 	
@@ -91,10 +91,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18711</span>
-						<span>🔱 3369</span>
+						<span>⭐ 18721</span>
+						<span>🔱 3371</span>
 					</div>
 				<div class="stars-today">⭐ 10017 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
+    
+
+
+      
+        langgenius /
+
+      dify</a></p>
+				<p>
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 84679</span>
+						<span>🔱 12514</span>
+					</div>
+				<div class="stars-today">⭐ 14235 stars this month</div>
 				</div>
 			</div>
 	
@@ -113,32 +135,10 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 19614</span>
-						<span>🔱 698</span>
+						<span>⭐ 19630</span>
+						<span>🔱 699</span>
 					</div>
 				<div class="stars-today">⭐ 8785 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 361345</span>
-						<span>🔱 33553</span>
-					</div>
-				<div class="stars-today">⭐ 24215 stars this month</div>
 				</div>
 			</div>
 	
@@ -157,8 +157,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 51880</span>
-						<span>🔱 3398</span>
+						<span>⭐ 51884</span>
+						<span>🔱 3399</span>
 					</div>
 				<div class="stars-today">⭐ 2134 stars this month</div>
 				</div>
@@ -179,7 +179,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 21415</span>
+						<span>⭐ 21420</span>
 						<span>🔱 2353</span>
 					</div>
 				<div class="stars-today">⭐ 2308 stars this month</div>
@@ -187,24 +187,24 @@ categories:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        svcvit /
+        codecrafters-io /
 
-      Awesome-Dify-Workflow</a></p>
+      build-your-own-x</a></p>
 				<p>
-      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+      Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 4488</span>
-						<span>🔱 475</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 361383</span>
+						<span>🔱 33557</span>
 					</div>
-				<div class="stars-today">⭐ 1477 stars this month</div>
+				<div class="stars-today">⭐ 24215 stars this month</div>
 				</div>
 			</div>
 	
@@ -223,74 +223,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18414</span>
-						<span>🔱 1715</span>
+						<span>⭐ 18420</span>
+						<span>🔱 1716</span>
 					</div>
 				<div class="stars-today">⭐ 3613 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
     
 
 
       
-        langchain-ai /
+        svcvit /
 
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2451</span>
-						<span>🔱 327</span>
-					</div>
-				<div class="stars-today">⭐ 1608 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PySpur-Dev/pyspur" target="_blank">
-    
-
-
-      
-        PySpur-Dev /
-
-      pyspur</a></p>
+      Awesome-Dify-Workflow</a></p>
 				<p>
-      A visual playground for agentic workflows: Iterate over your agents 10x faster
+      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3807</span>
-						<span>🔱 251</span>
+						<span>🔠 </span>
+						<span>⭐ 4491</span>
+						<span>🔱 475</span>
 					</div>
-				<div class="stars-today">⭐ 2203 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
-    
-
-
-      
-        78 /
-
-      xiaozhi-esp32</a></p>
-				<p>
-      Build your own AI friend
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 9578</span>
-						<span>🔱 1726</span>
-					</div>
-				<div class="stars-today">⭐ 3773 stars this month</div>
+				<div class="stars-today">⭐ 1477 stars this month</div>
 				</div>
 			</div>
 	
@@ -309,7 +267,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17162</span>
+						<span>⭐ 17164</span>
 						<span>🔱 1103</span>
 					</div>
 				<div class="stars-today">⭐ 2881 stars this month</div>
@@ -331,8 +289,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 69508</span>
-						<span>🔱 17960</span>
+						<span>⭐ 69533</span>
+						<span>🔱 17973</span>
 					</div>
 				<div class="stars-today">⭐ 7521 stars this month</div>
 				</div>
@@ -353,7 +311,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10700</span>
+						<span>⭐ 10704</span>
 						<span>🔱 1172</span>
 					</div>
 				<div class="stars-today">⭐ 1491 stars this month</div>
@@ -375,7 +333,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 38596</span>
+						<span>⭐ 38605</span>
 						<span>🔱 1581</span>
 					</div>
 				<div class="stars-today">⭐ 3361 stars this month</div>

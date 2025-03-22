@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第12周
-date: 2025-03-22T09:58:49Z
+date: 2025-03-22T11:58:36Z
 categories:
 - weekly
 ---
@@ -25,8 +25,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 19614</span>
-						<span>🔱 698</span>
+						<span>⭐ 19630</span>
+						<span>🔱 699</span>
 					</div>
 				<div class="stars-today">⭐ 7342 stars this week</div>
 				</div>
@@ -47,7 +47,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6018</span>
+						<span>⭐ 6030</span>
 						<span>🔱 585</span>
 					</div>
 				<div class="stars-today">⭐ 3221 stars this week</div>
@@ -69,7 +69,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6409</span>
+						<span>⭐ 6414</span>
 						<span>🔱 1126</span>
 					</div>
 				<div class="stars-today">⭐ 1739 stars this week</div>
@@ -77,24 +77,24 @@ categories:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hpcaitech/Open-Sora" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        hpcaitech /
+        OpenBB-finance /
 
-      Open-Sora</a></p>
+      OpenBB</a></p>
 				<p>
-      Open-Sora: Democratizing Efficient Video Production for All
+      Investment Research for Everyone, Everywhere.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25708</span>
-						<span>🔱 2468</span>
+						<span>⭐ 38282</span>
+						<span>🔱 3451</span>
 					</div>
-				<div class="stars-today">⭐ 1354 stars this week</div>
+				<div class="stars-today">⭐ 1145 stars this week</div>
 				</div>
 			</div>
 	
@@ -113,8 +113,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 13829</span>
-						<span>🔱 893</span>
+						<span>⭐ 13859</span>
+						<span>🔱 894</span>
 					</div>
 				<div class="stars-today">⭐ 4689 stars this week</div>
 				</div>
@@ -135,98 +135,10 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3547</span>
+						<span>⭐ 3549</span>
 						<span>🔱 293</span>
 					</div>
 				<div class="stars-today">⭐ 1378 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38254</span>
-						<span>🔱 3447</span>
-					</div>
-				<div class="stars-today">⭐ 1145 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
-    
-
-
-      
-        freeCodeCamp /
-
-      freeCodeCamp</a></p>
-				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 413953</span>
-						<span>🔱 39471</span>
-					</div>
-				<div class="stars-today">⭐ 1814 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yuaotian/go-cursor-help" target="_blank">
-    
-
-
-      
-        yuaotian /
-
-      go-cursor-help</a></p>
-				<p>
-      解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 16170</span>
-						<span>🔱 2032</span>
-					</div>
-				<div class="stars-today">⭐ 2391 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
-    
-
-
-      
-        makeplane /
-
-      plane</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34413</span>
-						<span>🔱 2104</span>
-					</div>
-				<div class="stars-today">⭐ 946 stars this week</div>
 				</div>
 			</div>
 	
@@ -245,10 +157,98 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5666</span>
-						<span>🔱 724</span>
+						<span>⭐ 5688</span>
+						<span>🔱 726</span>
 					</div>
 				<div class="stars-today">⭐ 1467 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ai-christianson/RA.Aid" target="_blank">
+    
+
+
+      
+        ai-christianson /
+
+      RA.Aid</a></p>
+				<p>
+      Develop software autonomously.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1439</span>
+						<span>🔱 126</span>
+					</div>
+				<div class="stars-today">⭐ 672 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xpipe-io/xpipe" target="_blank">
+    
+
+
+      
+        xpipe-io /
+
+      xpipe</a></p>
+				<p>
+      Access your entire server infrastructure from your local desktop
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 9813</span>
+						<span>🔱 349</span>
+					</div>
+				<div class="stars-today">⭐ 2628 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist" target="_blank">
+    
+
+
+      
+        SakanaAI /
+
+      AI-Scientist</a></p>
+				<p>
+      The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 10152</span>
+						<span>🔱 1477</span>
+					</div>
+				<div class="stars-today">⭐ 877 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34418</span>
+						<span>🔱 2104</span>
+					</div>
+				<div class="stars-today">⭐ 946 stars this week</div>
 				</div>
 			</div>
 	
