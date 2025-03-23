@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-23T09:58:47Z
+date: 2025-03-23T11:59:02Z
 categories:
 - monthly
 ---
@@ -25,54 +25,10 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36242</span>
+						<span>⭐ 36244</span>
 						<span>🔱 1515</span>
 					</div>
 				<div class="stars-today">⭐ 8239 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mastra-ai/mastra" target="_blank">
-    
-
-
-      
-        mastra-ai /
-
-      mastra</a></p>
-				<p>
-      The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11093</span>
-						<span>🔱 518</span>
-					</div>
-				<div class="stars-today">⭐ 7346 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
-    
-
-
-      
-        geekan /
-
-      MetaGPT</a></p>
-				<p>
-      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53272</span>
-						<span>🔱 6311</span>
-					</div>
-				<div class="stars-today">⭐ 6299 stars this month</div>
 				</div>
 			</div>
 	
@@ -91,10 +47,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18827</span>
+						<span>⭐ 18836</span>
 						<span>🔱 3393</span>
 					</div>
 				<div class="stars-today">⭐ 10120 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
+    
+
+
+      
+        geekan /
+
+      MetaGPT</a></p>
+				<p>
+      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53275</span>
+						<span>🔱 6312</span>
+					</div>
+				<div class="stars-today">⭐ 6299 stars this month</div>
 				</div>
 			</div>
 	
@@ -113,8 +91,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84863</span>
-						<span>🔱 12546</span>
+						<span>⭐ 84898</span>
+						<span>🔱 12547</span>
 					</div>
 				<div class="stars-today">⭐ 14158 stars this month</div>
 				</div>
@@ -135,10 +113,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 19755</span>
-						<span>🔱 706</span>
+						<span>⭐ 19767</span>
+						<span>🔱 707</span>
 					</div>
 				<div class="stars-today">⭐ 8898 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mastra-ai/mastra" target="_blank">
+    
+
+
+      
+        mastra-ai /
+
+      mastra</a></p>
+				<p>
+      The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11097</span>
+						<span>🔱 518</span>
+					</div>
+				<div class="stars-today">⭐ 7346 stars this month</div>
 				</div>
 			</div>
 	
@@ -157,8 +157,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 51927</span>
-						<span>🔱 3402</span>
+						<span>⭐ 51932</span>
+						<span>🔱 3404</span>
 					</div>
 				<div class="stars-today">⭐ 2172 stars this month</div>
 				</div>
@@ -179,7 +179,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 21479</span>
+						<span>⭐ 21483</span>
 						<span>🔱 2357</span>
 					</div>
 				<div class="stars-today">⭐ 2334 stars this month</div>
@@ -201,32 +201,10 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 361807</span>
-						<span>🔱 33586</span>
+						<span>⭐ 361854</span>
+						<span>🔱 33591</span>
 					</div>
 				<div class="stars-today">⭐ 23917 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sinaptik-ai/pandas-ai" target="_blank">
-    
-
-
-      
-        sinaptik-ai /
-
-      pandas-ai</a></p>
-				<p>
-      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18461</span>
-						<span>🔱 1722</span>
-					</div>
-				<div class="stars-today">⭐ 3317 stars this month</div>
 				</div>
 			</div>
 	
@@ -245,7 +223,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4534</span>
+						<span>⭐ 4540</span>
 						<span>🔱 478</span>
 					</div>
 				<div class="stars-today">⭐ 1503 stars this month</div>
@@ -253,24 +231,24 @@ categories:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FreeTubeApp/FreeTube" target="_blank">
+				<p><a href="https://github.com/sinaptik-ai/pandas-ai" target="_blank">
     
 
 
       
-        FreeTubeApp /
+        sinaptik-ai /
 
-      FreeTube</a></p>
+      pandas-ai</a></p>
 				<p>
-      An Open Source YouTube app for privacy
+      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 17198</span>
-						<span>🔱 1102</span>
+						<span>🔠 Python</span>
+						<span>⭐ 18466</span>
+						<span>🔱 1722</span>
 					</div>
-				<div class="stars-today">⭐ 2895 stars this month</div>
+				<div class="stars-today">⭐ 3317 stars this month</div>
 				</div>
 			</div>
 	
@@ -289,8 +267,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 69716</span>
-						<span>🔱 18072</span>
+						<span>⭐ 69746</span>
+						<span>🔱 18078</span>
 					</div>
 				<div class="stars-today">⭐ 7594 stars this month</div>
 				</div>
@@ -311,10 +289,32 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10761</span>
+						<span>⭐ 10766</span>
 						<span>🔱 1180</span>
 					</div>
 				<div class="stars-today">⭐ 1539 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+    
+
+
+      
+        clash-verge-rev /
+
+      clash-verge-rev</a></p>
+				<p>
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51941</span>
+						<span>🔱 4062</span>
+					</div>
+				<div class="stars-today">⭐ 4049 stars this month</div>
 				</div>
 			</div>
 	
@@ -333,10 +333,54 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 38671</span>
+						<span>⭐ 38683</span>
 						<span>🔱 1583</span>
 					</div>
 				<div class="stars-today">⭐ 3393 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
+    
+
+
+      
+        PatrickJS /
+
+      awesome-cursorrules</a></p>
+				<p>
+      📄 A curated list of awesome .cursorrules files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 17303</span>
+						<span>🔱 1210</span>
+					</div>
+				<div class="stars-today">⭐ 6481 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70707</span>
+						<span>🔱 15839</span>
+					</div>
+				<div class="stars-today">⭐ 2887 stars this month</div>
 				</div>
 			</div>
 	
