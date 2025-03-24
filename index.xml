@@ -6,380 +6,10 @@
         <description>Recent content on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 24 Mar 2025 17:58:37 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>GitHub 趋势 2025年3月</title>
-        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B43%E6%9C%88/</link>
-        <pubDate>Mon, 24 Mar 2025 17:58:37 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B43%E6%9C%88/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Truly independent web browser
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 36313&lt;/span&gt;
-						&lt;span&gt;🔱 1519&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8242 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An AI Hedge Fund Team
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19129&lt;/span&gt;
-						&lt;span&gt;🔱 3467&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10187 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/geekan/MetaGPT&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        geekan /
-
-      MetaGPT&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 53388&lt;/span&gt;
-						&lt;span&gt;🔱 6334&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6151 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vllm-project/aibrix&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        vllm-project /
-
-      aibrix&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Cost-efficient and pluggable Infrastructure components for GenAI inference
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 3285&lt;/span&gt;
-						&lt;span&gt;🔱 309&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2472 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/glanceapp/glance&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        glanceapp /
-
-      glance&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A self-hosted dashboard that puts all your feeds in one place
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 19982&lt;/span&gt;
-						&lt;span&gt;🔱 716&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8966 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/langgenius/dify&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        langgenius /
-
-      dify&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 85368&lt;/span&gt;
-						&lt;span&gt;🔱 12628&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14104 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/gorhill/uBlock&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        gorhill /
-
-      uBlock&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 51986&lt;/span&gt;
-						&lt;span&gt;🔱 3409&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2193 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/CodePhiliaX/Chat2DB&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        CodePhiliaX /
-
-      Chat2DB&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 21566&lt;/span&gt;
-						&lt;span&gt;🔱 2370&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2367 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/codecrafters-io/build-your-own-x&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Master programming by recreating your favorite technologies from scratch.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Markdown&lt;/span&gt;
-						&lt;span&gt;⭐ 362677&lt;/span&gt;
-						&lt;span&gt;🔱 33687&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 23632 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/n8n-io/n8n&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        n8n-io /
-
-      n8n&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 70232&lt;/span&gt;
-						&lt;span&gt;🔱 18261&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7579 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/svcvit/Awesome-Dify-Workflow&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        svcvit /
-
-      Awesome-Dify-Workflow&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 4639&lt;/span&gt;
-						&lt;span&gt;🔱 480&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1510 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/lerobot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        huggingface /
-
-      lerobot&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10851&lt;/span&gt;
-						&lt;span&gt;🔱 1194&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1582 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mastra-ai/mastra&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        mastra-ai /
-
-      mastra&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11190&lt;/span&gt;
-						&lt;span&gt;🔱 527&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6455 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sinaptik-ai/pandas-ai&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sinaptik-ai /
-
-      pandas-ai&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 18523&lt;/span&gt;
-						&lt;span&gt;🔱 1728&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3081 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/PatrickJS/awesome-cursorrules&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        PatrickJS /
-
-      awesome-cursorrules&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📄 A curated list of awesome .cursorrules files
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 17540&lt;/span&gt;
-						&lt;span&gt;🔱 1234&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6517 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/KRTirtho/spotube&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        KRTirtho /
-
-      spotube&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Dart&lt;/span&gt;
-						&lt;span&gt;⭐ 38781&lt;/span&gt;
-						&lt;span&gt;🔱 1589&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3427 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 24 Mar 2025 19:58:41 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-03-24</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-03-24/</link>
-        <pubDate>Mon, 24 Mar 2025 17:58:35 +0000</pubDate>
+        <pubDate>Mon, 24 Mar 2025 19:58:41 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-03-24/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -403,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1653&lt;/span&gt;
-						&lt;span&gt;🔱 88&lt;/span&gt;
+						&lt;span&gt;⭐ 1685&lt;/span&gt;
+						&lt;span&gt;🔱 91&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 568 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -425,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 47292&lt;/span&gt;
-						&lt;span&gt;🔱 6993&lt;/span&gt;
+						&lt;span&gt;⭐ 47324&lt;/span&gt;
+						&lt;span&gt;🔱 6999&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1664 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -447,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 794&lt;/span&gt;
-						&lt;span&gt;🔱 83&lt;/span&gt;
+						&lt;span&gt;⭐ 810&lt;/span&gt;
+						&lt;span&gt;🔱 86&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 324 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -469,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 1835&lt;/span&gt;
-						&lt;span&gt;🔱 88&lt;/span&gt;
+						&lt;span&gt;⭐ 1856&lt;/span&gt;
+						&lt;span&gt;🔱 89&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 461 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -491,10 +121,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 75777&lt;/span&gt;
-						&lt;span&gt;🔱 39260&lt;/span&gt;
+						&lt;span&gt;⭐ 75794&lt;/span&gt;
+						&lt;span&gt;🔱 39264&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 119 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 194 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -513,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 19826&lt;/span&gt;
-						&lt;span&gt;🔱 1132&lt;/span&gt;
+						&lt;span&gt;⭐ 19832&lt;/span&gt;
+						&lt;span&gt;🔱 1133&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 47 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -535,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 1495&lt;/span&gt;
-						&lt;span&gt;🔱 378&lt;/span&gt;
+						&lt;span&gt;⭐ 1501&lt;/span&gt;
+						&lt;span&gt;🔱 379&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 480 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -557,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 39087&lt;/span&gt;
-						&lt;span&gt;🔱 3504&lt;/span&gt;
+						&lt;span&gt;⭐ 39111&lt;/span&gt;
+						&lt;span&gt;🔱 3506&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 431 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -579,8 +209,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 20831&lt;/span&gt;
-						&lt;span&gt;🔱 2450&lt;/span&gt;
+						&lt;span&gt;⭐ 20842&lt;/span&gt;
+						&lt;span&gt;🔱 2455&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 442 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -601,8 +231,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 1214&lt;/span&gt;
-						&lt;span&gt;🔱 260&lt;/span&gt;
+						&lt;span&gt;⭐ 1244&lt;/span&gt;
+						&lt;span&gt;🔱 264&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 160 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -623,8 +253,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 24058&lt;/span&gt;
-						&lt;span&gt;🔱 1016&lt;/span&gt;
+						&lt;span&gt;⭐ 24071&lt;/span&gt;
+						&lt;span&gt;🔱 1017&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 254 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -645,8 +275,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 70629&lt;/span&gt;
-						&lt;span&gt;🔱 7488&lt;/span&gt;
+						&lt;span&gt;⭐ 70653&lt;/span&gt;
+						&lt;span&gt;🔱 7491&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 382 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -667,8 +297,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 177028&lt;/span&gt;
-						&lt;span&gt;🔱 22476&lt;/span&gt;
+						&lt;span&gt;⭐ 177097&lt;/span&gt;
+						&lt;span&gt;🔱 22481&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 171 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -681,9 +311,379 @@
 </description>
         </item>
         <item>
+        <title>GitHub 趋势 2025年3月</title>
+        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B43%E6%9C%88/</link>
+        <pubDate>Mon, 24 Mar 2025 19:58:41 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B43%E6%9C%88/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Truly independent web browser
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 36318&lt;/span&gt;
+						&lt;span&gt;🔱 1519&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8242 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An AI Hedge Fund Team
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 19137&lt;/span&gt;
+						&lt;span&gt;🔱 3468&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10187 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/geekan/MetaGPT&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        geekan /
+
+      MetaGPT&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 53392&lt;/span&gt;
+						&lt;span&gt;🔱 6332&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6151 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vllm-project/aibrix&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vllm-project /
+
+      aibrix&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Cost-efficient and pluggable Infrastructure components for GenAI inference
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 3287&lt;/span&gt;
+						&lt;span&gt;🔱 309&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2472 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/glanceapp/glance&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        glanceapp /
+
+      glance&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A self-hosted dashboard that puts all your feeds in one place
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 19994&lt;/span&gt;
+						&lt;span&gt;🔱 717&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8966 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langgenius/dify&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langgenius /
+
+      dify&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 85376&lt;/span&gt;
+						&lt;span&gt;🔱 12629&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14104 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gorhill/uBlock&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        gorhill /
+
+      uBlock&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 51989&lt;/span&gt;
+						&lt;span&gt;🔱 3409&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2193 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CodePhiliaX/Chat2DB&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CodePhiliaX /
+
+      Chat2DB&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 21569&lt;/span&gt;
+						&lt;span&gt;🔱 2371&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2367 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/codecrafters-io/build-your-own-x&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Master programming by recreating your favorite technologies from scratch.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Markdown&lt;/span&gt;
+						&lt;span&gt;⭐ 362705&lt;/span&gt;
+						&lt;span&gt;🔱 33688&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 23632 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/n8n-io/n8n&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        n8n-io /
+
+      n8n&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 70255&lt;/span&gt;
+						&lt;span&gt;🔱 18270&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7579 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/svcvit/Awesome-Dify-Workflow&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        svcvit /
+
+      Awesome-Dify-Workflow&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 4641&lt;/span&gt;
+						&lt;span&gt;🔱 480&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1510 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/lerobot&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        huggingface /
+
+      lerobot&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 10852&lt;/span&gt;
+						&lt;span&gt;🔱 1195&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1582 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mastra-ai/mastra&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mastra-ai /
+
+      mastra&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11194&lt;/span&gt;
+						&lt;span&gt;🔱 528&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6455 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sinaptik-ai/pandas-ai&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        sinaptik-ai /
+
+      pandas-ai&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 18526&lt;/span&gt;
+						&lt;span&gt;🔱 1728&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3081 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PatrickJS/awesome-cursorrules&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        PatrickJS /
+
+      awesome-cursorrules&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📄 A curated list of awesome .cursorrules files
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 17548&lt;/span&gt;
+						&lt;span&gt;🔱 1236&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6517 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/KRTirtho/spotube&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        KRTirtho /
+
+      spotube&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Dart&lt;/span&gt;
+						&lt;span&gt;⭐ 38790&lt;/span&gt;
+						&lt;span&gt;🔱 1589&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3427 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025年第13周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC13%E5%91%A8/</link>
-        <pubDate>Mon, 24 Mar 2025 17:58:35 +0000</pubDate>
+        <pubDate>Mon, 24 Mar 2025 19:58:41 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC13%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -707,8 +707,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 19982&lt;/span&gt;
-						&lt;span&gt;🔱 716&lt;/span&gt;
+						&lt;span&gt;⭐ 19994&lt;/span&gt;
+						&lt;span&gt;🔱 717&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5902 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -729,8 +729,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 9552&lt;/span&gt;
-						&lt;span&gt;🔱 1286&lt;/span&gt;
+						&lt;span&gt;⭐ 9557&lt;/span&gt;
+						&lt;span&gt;🔱 1287&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1655 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -751,7 +751,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 6656&lt;/span&gt;
+						&lt;span&gt;⭐ 6658&lt;/span&gt;
 						&lt;span&gt;🔱 1166&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1891 stars this week&lt;/div&gt;
@@ -773,8 +773,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 39087&lt;/span&gt;
-						&lt;span&gt;🔱 3504&lt;/span&gt;
+						&lt;span&gt;⭐ 39111&lt;/span&gt;
+						&lt;span&gt;🔱 3506&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1694 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -795,7 +795,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6202&lt;/span&gt;
+						&lt;span&gt;⭐ 6213&lt;/span&gt;
 						&lt;span&gt;🔱 762&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1826 stars this week&lt;/div&gt;
@@ -815,8 +815,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C&lt;/span&gt;
-						&lt;span&gt;⭐ 4449&lt;/span&gt;
-						&lt;span&gt;🔱 808&lt;/span&gt;
+						&lt;span&gt;⭐ 4453&lt;/span&gt;
+						&lt;span&gt;🔱 811&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1370 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -837,7 +837,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6400&lt;/span&gt;
+						&lt;span&gt;⭐ 6403&lt;/span&gt;
 						&lt;span&gt;🔱 622&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3039 stars this week&lt;/div&gt;
@@ -859,8 +859,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 1495&lt;/span&gt;
-						&lt;span&gt;🔱 378&lt;/span&gt;
+						&lt;span&gt;⭐ 1501&lt;/span&gt;
+						&lt;span&gt;🔱 379&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 379 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -881,7 +881,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 10326&lt;/span&gt;
+						&lt;span&gt;⭐ 10333&lt;/span&gt;
 						&lt;span&gt;🔱 1495&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 932 stars this week&lt;/div&gt;
@@ -903,7 +903,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1471&lt;/span&gt;
+						&lt;span&gt;⭐ 1475&lt;/span&gt;
 						&lt;span&gt;🔱 128&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 511 stars this week&lt;/div&gt;
@@ -925,7 +925,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 17586&lt;/span&gt;
+						&lt;span&gt;⭐ 17588&lt;/span&gt;
 						&lt;span&gt;🔱 2956&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 499 stars this week&lt;/div&gt;
@@ -947,8 +947,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24335&lt;/span&gt;
-						&lt;span&gt;🔱 1600&lt;/span&gt;
+						&lt;span&gt;⭐ 24345&lt;/span&gt;
+						&lt;span&gt;🔱 1601&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2907 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -969,7 +969,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 1087&lt;/span&gt;
+						&lt;span&gt;⭐ 1093&lt;/span&gt;
 						&lt;span&gt;🔱 92&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 310 stars this week&lt;/div&gt;
