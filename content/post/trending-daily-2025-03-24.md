@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-24
-date: 2025-03-24T03:58:42Z
+date: 2025-03-24T05:58:42Z
 categories:
 - daily
 ---
@@ -25,8 +25,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46566</span>
-						<span>🔱 6924</span>
+						<span>⭐ 46703</span>
+						<span>🔱 6936</span>
 					</div>
 				<div class="stars-today">⭐ 359 stars today</div>
 				</div>
@@ -47,8 +47,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1231</span>
-						<span>🔱 343</span>
+						<span>⭐ 1287</span>
+						<span>🔱 350</span>
 					</div>
 				<div class="stars-today">⭐ 83 stars today</div>
 				</div>
@@ -69,8 +69,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 604</span>
-						<span>🔱 67</span>
+						<span>⭐ 634</span>
+						<span>🔱 70</span>
 					</div>
 				<div class="stars-today">⭐ 77 stars today</div>
 				</div>
@@ -91,7 +91,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1622</span>
+						<span>⭐ 1660</span>
 						<span>🔱 80</span>
 					</div>
 				<div class="stars-today">⭐ 279 stars today</div>
@@ -113,8 +113,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 105175</span>
-						<span>🔱 8255</span>
+						<span>⭐ 105190</span>
+						<span>🔱 8256</span>
 					</div>
 				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
@@ -135,8 +135,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1260</span>
-						<span>🔱 69</span>
+						<span>⭐ 1303</span>
+						<span>🔱 72</span>
 					</div>
 				<div class="stars-today">⭐ 445 stars today</div>
 				</div>
@@ -155,7 +155,7 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 11239</span>
+						<span>⭐ 11242</span>
 						<span>🔱 698</span>
 					</div>
 				<div class="stars-today">⭐ 26 stars today</div>
@@ -177,8 +177,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20574</span>
-						<span>🔱 2429</span>
+						<span>⭐ 20619</span>
+						<span>🔱 2434</span>
 					</div>
 				<div class="stars-today">⭐ 106 stars today</div>
 				</div>
@@ -199,8 +199,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23940</span>
-						<span>🔱 1570</span>
+						<span>⭐ 24014</span>
+						<span>🔱 1572</span>
 					</div>
 				<div class="stars-today">⭐ 854 stars today</div>
 				</div>
@@ -221,8 +221,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2760</span>
-						<span>🔱 496</span>
+						<span>⭐ 2778</span>
+						<span>🔱 499</span>
 					</div>
 				<div class="stars-today">⭐ 327 stars today</div>
 				</div>
@@ -243,8 +243,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23894</span>
-						<span>🔱 1011</span>
+						<span>⭐ 23914</span>
+						<span>🔱 1012</span>
 					</div>
 				<div class="stars-today">⭐ 298 stars today</div>
 				</div>
@@ -265,8 +265,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 70379</span>
-						<span>🔱 7473</span>
+						<span>⭐ 70411</span>
+						<span>🔱 7475</span>
 					</div>
 				<div class="stars-today">⭐ 435 stars today</div>
 				</div>
@@ -287,8 +287,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 86519</span>
-						<span>🔱 12872</span>
+						<span>⭐ 86554</span>
+						<span>🔱 12875</span>
 					</div>
 				<div class="stars-today">⭐ 322 stars today</div>
 				</div>
@@ -309,8 +309,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38789</span>
-						<span>🔱 3488</span>
+						<span>⭐ 38822</span>
+						<span>🔱 3491</span>
 					</div>
 				<div class="stars-today">⭐ 266 stars today</div>
 				</div>
@@ -331,8 +331,8 @@ categories:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 5487</span>
-						<span>🔱 1694</span>
+						<span>⭐ 5564</span>
+						<span>🔱 1706</span>
 					</div>
 				<div class="stars-today">⭐ 73 stars today</div>
 				</div>
