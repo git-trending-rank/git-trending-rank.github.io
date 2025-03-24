@@ -14,6 +14,11 @@ title: GitHub 趋势 {{.FrequencyDate}}
 date: {{.Date}}
 categories:
 - {{.Frequency}}
+keywords:
+- git trending
+- git 热门
+- git 趋势
+- git 排行榜
 ---
 <link rel="stylesheet" href="/public/css/trending.css">
 {{"{{"}}< raw >{{"}}"}}
