@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第13周
-date: 2025-03-24T18:36:06+08:00
+date: 2025-03-24T11:58:50Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 19915</span>
+						<span>⭐ 19934</span>
 						<span>🔱 714</span>
 					</div>
 				<div class="stars-today">⭐ 5902 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DiceDB/dice" target="_blank">
+    
+
+
+      
+        DiceDB /
+
+      dice</a></p>
+				<p>
+      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9528</span>
+						<span>🔱 1283</span>
+					</div>
+				<div class="stars-today">⭐ 1655 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6634</span>
-						<span>🔱 1162</span>
+						<span>⭐ 6637</span>
+						<span>🔱 1163</span>
 					</div>
 				<div class="stars-today">⭐ 1891 stars this week</div>
 				</div>
@@ -74,52 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38938</span>
-						<span>🔱 3496</span>
+						<span>⭐ 38969</span>
+						<span>🔱 3498</span>
 					</div>
 				<div class="stars-today">⭐ 1694 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/local-deep-researcher" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      local-deep-researcher</a></p>
-				<p>
-      Fully local web research and report writing assistant
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6375</span>
-						<span>🔱 620</span>
-					</div>
-				<div class="stars-today">⭐ 3039 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
-    
-
-
-      
-        GuijiAI /
-
-      HeyGem.ai</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 4391</span>
-						<span>🔱 799</span>
-					</div>
-				<div class="stars-today">⭐ 1370 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,76 +118,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6165</span>
-						<span>🔱 758</span>
+						<span>⭐ 6173</span>
+						<span>🔱 759</span>
 					</div>
 				<div class="stars-today">⭐ 1826 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
     
 
 
       
-        microsoft /
+        GuijiAI /
 
-      RD-Agent</a></p>
+      HeyGem.ai</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 4406</span>
+						<span>🔱 803</span>
+					</div>
+				<div class="stars-today">⭐ 1370 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/local-deep-researcher" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      local-deep-researcher</a></p>
 				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
+      Fully local web research and report writing assistant
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3730</span>
-						<span>🔱 306</span>
+						<span>⭐ 6379</span>
+						<span>🔱 620</span>
 					</div>
-				<div class="stars-today">⭐ 902 stars this week</div>
+				<div class="stars-today">⭐ 3039 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
     
 
 
       
-        punkpeye /
+        ageerle /
 
-      awesome-mcp-servers</a></p>
+      ruoyi-ai</a></p>
 				<p>
-      A collection of MCP servers.
+      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 14706</span>
-						<span>🔱 956</span>
+						<span>🔠 Java</span>
+						<span>⭐ 1438</span>
+						<span>🔱 370</span>
 					</div>
-				<div class="stars-today">⭐ 4424 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
-    
-
-
-      
-        makeplane /
-
-      plane</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34657</span>
-						<span>🔱 2119</span>
-					</div>
-				<div class="stars-today">⭐ 1094 stars this week</div>
+				<div class="stars-today">⭐ 379 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10299</span>
+						<span>⭐ 10306</span>
 						<span>🔱 1493</span>
 					</div>
 				<div class="stars-today">⭐ 932 stars this week</div>
@@ -248,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1442</span>
+						<span>⭐ 1450</span>
 						<span>🔱 125</span>
 					</div>
 				<div class="stars-today">⭐ 511 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
-    
-
-
-      
-        ageerle /
-
-      ruoyi-ai</a></p>
-				<p>
-      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 1423</span>
-						<span>🔱 366</span>
-					</div>
-				<div class="stars-today">⭐ 379 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17567</span>
+						<span>⭐ 17571</span>
 						<span>🔱 2955</span>
 					</div>
 				<div class="stars-today">⭐ 499 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
+    
+
+
+      
+        ocrmypdf /
+
+      OCRmyPDF</a></p>
+				<p>
+      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24238</span>
+						<span>🔱 1589</span>
+					</div>
+				<div class="stars-today">⭐ 2907 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1070</span>
+						<span>🔱 92</span>
+					</div>
+				<div class="stars-today">⭐ 310 stars this week</div>
 				</div>
 			</div>
 	

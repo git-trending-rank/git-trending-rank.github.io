@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-24T18:36:07+08:00
+date: 2025-03-24T11:58:50Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36297</span>
+						<span>⭐ 36302</span>
 						<span>🔱 1519</span>
 					</div>
 				<div class="stars-today">⭐ 8242 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19080</span>
+						<span>⭐ 19087</span>
 						<span>🔱 3452</span>
 					</div>
 				<div class="stars-today">⭐ 10187 stars this month</div>
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53360</span>
-						<span>🔱 6327</span>
+						<span>⭐ 53363</span>
+						<span>🔱 6328</span>
 					</div>
 				<div class="stars-today">⭐ 6151 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
+				<p><a href="https://github.com/vllm-project/aibrix" target="_blank">
     
 
 
       
-        langgenius /
+        vllm-project /
 
-      dify</a></p>
+      aibrix</a></p>
 				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+      Cost-efficient and pluggable Infrastructure components for GenAI inference
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 85260</span>
-						<span>🔱 12612</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 3276</span>
+						<span>🔱 308</span>
 					</div>
-				<div class="stars-today">⭐ 14104 stars this month</div>
+				<div class="stars-today">⭐ 2472 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 19915</span>
+						<span>⭐ 19934</span>
 						<span>🔱 714</span>
 					</div>
 				<div class="stars-today">⭐ 8966 stars this month</div>
@@ -126,24 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mastra-ai/mastra" target="_blank">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
     
 
 
       
-        mastra-ai /
+        langgenius /
 
-      mastra</a></p>
+      dify</a></p>
 				<p>
-      The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11165</span>
-						<span>🔱 525</span>
+						<span>⭐ 85277</span>
+						<span>🔱 12615</span>
 					</div>
-				<div class="stars-today">⭐ 6455 stars this month</div>
+				<div class="stars-today">⭐ 14104 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 51971</span>
+						<span>⭐ 51972</span>
 						<span>🔱 3406</span>
 					</div>
 				<div class="stars-today">⭐ 2193 stars this month</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 21559</span>
+						<span>⭐ 21558</span>
 						<span>🔱 2369</span>
 					</div>
 				<div class="stars-today">⭐ 2367 stars this month</div>
@@ -206,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 362469</span>
-						<span>🔱 33658</span>
+						<span>⭐ 362500</span>
+						<span>🔱 33661</span>
 					</div>
 				<div class="stars-today">⭐ 23632 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
-    
-
-
-      
-        svcvit /
-
-      Awesome-Dify-Workflow</a></p>
-				<p>
-      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4613</span>
-						<span>🔱 480</span>
-					</div>
-				<div class="stars-today">⭐ 1510 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sinaptik-ai/pandas-ai" target="_blank">
-    
-
-
-      
-        sinaptik-ai /
-
-      pandas-ai</a></p>
-				<p>
-      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18514</span>
-						<span>🔱 1727</span>
-					</div>
-				<div class="stars-today">⭐ 3081 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70084</span>
-						<span>🔱 18195</span>
+						<span>⭐ 70104</span>
+						<span>🔱 18209</span>
 					</div>
 				<div class="stars-today">⭐ 7579 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
+    
+
+
+      
+        svcvit /
+
+      Awesome-Dify-Workflow</a></p>
+				<p>
+      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4619</span>
+						<span>🔱 480</span>
+					</div>
+				<div class="stars-today">⭐ 1510 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10832</span>
-						<span>🔱 1192</span>
+						<span>⭐ 10836</span>
+						<span>🔱 1193</span>
 					</div>
 				<div class="stars-today">⭐ 1582 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+				<p><a href="https://github.com/mastra-ai/mastra" target="_blank">
     
 
 
       
-        clash-verge-rev /
+        mastra-ai /
 
-      clash-verge-rev</a></p>
+      mastra</a></p>
 				<p>
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+      The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52114</span>
-						<span>🔱 4070</span>
+						<span>⭐ 11166</span>
+						<span>🔱 524</span>
 					</div>
-				<div class="stars-today">⭐ 4069 stars this month</div>
+				<div class="stars-today">⭐ 6455 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KRTirtho/spotube" target="_blank">
+				<p><a href="https://github.com/sinaptik-ai/pandas-ai" target="_blank">
     
 
 
       
-        KRTirtho /
+        sinaptik-ai /
 
-      spotube</a></p>
+      pandas-ai</a></p>
 				<p>
-      🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 38765</span>
-						<span>🔱 1588</span>
+						<span>🔠 Python</span>
+						<span>⭐ 18516</span>
+						<span>🔱 1726</span>
 					</div>
-				<div class="stars-today">⭐ 3427 stars this month</div>
+				<div class="stars-today">⭐ 3081 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 17481</span>
+						<span>⭐ 17494</span>
 						<span>🔱 1232</span>
 					</div>
 				<div class="stars-today">⭐ 6517 stars this month</div>
@@ -368,24 +346,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+				<p><a href="https://github.com/KRTirtho/spotube" target="_blank">
     
 
 
       
-        bregman-arie /
+        KRTirtho /
 
-      devops-exercises</a></p>
+      spotube</a></p>
 				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70900</span>
-						<span>🔱 15876</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 38763</span>
+						<span>🔱 1589</span>
 					</div>
-				<div class="stars-today">⭐ 2740 stars this month</div>
+				<div class="stars-today">⭐ 3427 stars this month</div>
 				</div>
 			</div>
 	
