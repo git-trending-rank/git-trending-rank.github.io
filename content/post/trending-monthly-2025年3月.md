@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-25T09:58:45Z
+date: 2025-03-25T11:58:58Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36344</span>
+						<span>⭐ 36348</span>
 						<span>🔱 1520</span>
 					</div>
 				<div class="stars-today">⭐ 8290 stars this month</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19223</span>
-						<span>🔱 3483</span>
+						<span>⭐ 19234</span>
+						<span>🔱 3485</span>
 					</div>
 				<div class="stars-today">⭐ 10419 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
-    
-
-
-      
-        geekan /
-
-      MetaGPT</a></p>
-				<p>
-      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53456</span>
-						<span>🔱 6337</span>
-					</div>
-				<div class="stars-today">⭐ 5997 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/aibrix" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      aibrix</a></p>
-				<p>
-      Cost-efficient and pluggable Infrastructure components for GenAI inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 3303</span>
-						<span>🔱 309</span>
-					</div>
-				<div class="stars-today">⭐ 2353 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20092</span>
-						<span>🔱 722</span>
+						<span>⭐ 20109</span>
+						<span>🔱 723</span>
 					</div>
 				<div class="stars-today">⭐ 9093 stars this month</div>
 				</div>
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85635</span>
-						<span>🔱 12690</span>
+						<span>⭐ 85672</span>
+						<span>🔱 12694</span>
 					</div>
 				<div class="stars-today">⭐ 13956 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
+    
+
+
+      
+        geekan /
+
+      MetaGPT</a></p>
+				<p>
+      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53466</span>
+						<span>🔱 6338</span>
+					</div>
+				<div class="stars-today">⭐ 5997 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52021</span>
-						<span>🔱 3409</span>
+						<span>⭐ 52027</span>
+						<span>🔱 3410</span>
 					</div>
 				<div class="stars-today">⭐ 2213 stars this month</div>
 				</div>
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 21621</span>
+						<span>⭐ 21625</span>
 						<span>🔱 2373</span>
 					</div>
 				<div class="stars-today">⭐ 2394 stars this month</div>
@@ -206,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 363010</span>
-						<span>🔱 33709</span>
+						<span>⭐ 363051</span>
+						<span>🔱 33710</span>
 					</div>
 				<div class="stars-today">⭐ 23296 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+				<p><a href="https://github.com/vllm-project/aibrix" target="_blank">
     
 
 
       
-        n8n-io /
+        vllm-project /
 
-      n8n</a></p>
+      aibrix</a></p>
 				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+      Cost-efficient and pluggable Infrastructure components for GenAI inference
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 70466</span>
-						<span>🔱 18350</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 3304</span>
+						<span>🔱 309</span>
 					</div>
-				<div class="stars-today">⭐ 7765 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
-    
-
-
-      
-        svcvit /
-
-      Awesome-Dify-Workflow</a></p>
-				<p>
-      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4696</span>
-						<span>🔱 484</span>
-					</div>
-				<div class="stars-today">⭐ 1545 stars this month</div>
+				<div class="stars-today">⭐ 2353 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,54 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10912</span>
-						<span>🔱 1198</span>
+						<span>⭐ 10917</span>
+						<span>🔱 1201</span>
 					</div>
 				<div class="stars-today">⭐ 1615 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mastra-ai/mastra" target="_blank">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
     
 
 
       
-        mastra-ai /
+        n8n-io /
 
-      mastra</a></p>
+      n8n</a></p>
 				<p>
-      The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11241</span>
-						<span>🔱 530</span>
+						<span>⭐ 70483</span>
+						<span>🔱 18360</span>
 					</div>
-				<div class="stars-today">⭐ 5342 stars this month</div>
+				<div class="stars-today">⭐ 7765 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sinaptik-ai/pandas-ai" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        sinaptik-ai /
+        OpenBB-finance /
 
-      pandas-ai</a></p>
+      OpenBB</a></p>
 				<p>
-      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
+      Investment Research for Everyone, Everywhere.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18557</span>
-						<span>🔱 1732</span>
+						<span>⭐ 39352</span>
+						<span>🔱 3513</span>
 					</div>
-				<div class="stars-today">⭐ 2484 stars this month</div>
+				<div class="stars-today">⭐ 2915 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 17656</span>
-						<span>🔱 1245</span>
+						<span>⭐ 17676</span>
+						<span>🔱 1247</span>
 					</div>
 				<div class="stars-today">⭐ 6625 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KRTirtho/spotube" target="_blank">
+				<p><a href="https://github.com/eosphoros-ai/DB-GPT" target="_blank">
     
 
 
       
-        KRTirtho /
+        eosphoros-ai /
 
-      spotube</a></p>
+      DB-GPT</a></p>
 				<p>
-      🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+      AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 38838</span>
-						<span>🔱 1591</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15753</span>
+						<span>🔱 2134</span>
 					</div>
-				<div class="stars-today">⭐ 3461 stars this month</div>
+				<div class="stars-today">⭐ 980 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
+    
+
+
+      
+        svcvit /
+
+      Awesome-Dify-Workflow</a></p>
+				<p>
+      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4698</span>
+						<span>🔱 484</span>
+					</div>
+				<div class="stars-today">⭐ 1545 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+    
+
+
+      
+        clash-verge-rev /
+
+      clash-verge-rev</a></p>
+				<p>
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 52345</span>
+						<span>🔱 4079</span>
+					</div>
+				<div class="stars-today">⭐ 4171 stars this month</div>
 				</div>
 			</div>
 	

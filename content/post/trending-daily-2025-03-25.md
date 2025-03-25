@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-25
-date: 2025-03-25T09:58:45Z
+date: 2025-03-25T11:58:58Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/joanrod/star-vector" target="_blank">
-    
-
-
-      
-        joanrod /
-
-      star-vector</a></p>
-				<p>
-      StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2058</span>
-						<span>🔱 108</span>
-					</div>
-				<div class="stars-today">⭐ 574 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
@@ -52,120 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47682</span>
-						<span>🔱 7040</span>
+						<span>⭐ 47736</span>
+						<span>🔱 7043</span>
 					</div>
 				<div class="stars-today">⭐ 1643 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/ClaudeDesktopCommander" target="_blank">
+				<p><a href="https://github.com/NVIDIA/TensorRT-LLM" target="_blank">
     
 
 
       
-        wonderwhy-er /
+        NVIDIA /
 
-      ClaudeDesktopCommander</a></p>
+      TensorRT-LLM</a></p>
 				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 976</span>
-						<span>🔱 99</span>
-					</div>
-				<div class="stars-today">⭐ 323 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Devolutions/IronRDP" target="_blank">
-    
-
-
-      
-        Devolutions /
-
-      IronRDP</a></p>
-				<p>
-      Rust implementation of the Microsoft Remote Desktop Protocol (RDP)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2022</span>
-						<span>🔱 95</span>
-					</div>
-				<div class="stars-today">⭐ 445 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6441</span>
-						<span>🔱 1826</span>
-					</div>
-				<div class="stars-today">⭐ 794 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 76014</span>
-						<span>🔱 39318</span>
-					</div>
-				<div class="stars-today">⭐ 122 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ml-explore/mlx" target="_blank">
-    
-
-
-      
-        ml-explore /
-
-      mlx</a></p>
-				<p>
-      MLX: An array framework for Apple silicon
+      TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 19909</span>
-						<span>🔱 1136</span>
+						<span>⭐ 9809</span>
+						<span>🔱 1237</span>
 					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
+				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
 			</div>
 	
@@ -184,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1664</span>
-						<span>🔱 402</span>
+						<span>⭐ 1685</span>
+						<span>🔱 403</span>
 					</div>
 				<div class="stars-today">⭐ 478 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        alibaba /
 
-      OpenBB</a></p>
+      spring-ai-alibaba</a></p>
 				<p>
-      Investment Research for Everyone, Everywhere.
+      Agentic AI Framework for Java Developers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39329</span>
-						<span>🔱 3513</span>
+						<span>🔠 Java</span>
+						<span>⭐ 1314</span>
+						<span>🔱 310</span>
 					</div>
-				<div class="stars-today">⭐ 446 stars today</div>
+				<div class="stars-today">⭐ 39 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21062</span>
-						<span>🔱 2467</span>
+						<span>⭐ 21077</span>
+						<span>🔱 2471</span>
 					</div>
 				<div class="stars-today">⭐ 446 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/joanrod/star-vector" target="_blank">
+    
+
+
+      
+        joanrod /
+
+      star-vector</a></p>
+				<p>
+      StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2104</span>
+						<span>🔱 110</span>
+					</div>
+				<div class="stars-today">⭐ 574 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank">
+    
+
+
+      
+        NirDiamant /
+
+      GenAI_Agents</a></p>
+				<p>
+      This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 9744</span>
+						<span>🔱 1252</span>
+					</div>
+				<div class="stars-today">⭐ 272 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nf-core/modules" target="_blank">
+    
+
+
+      
+        nf-core /
+
+      modules</a></p>
+				<p>
+      Repository to host tool-specific module files for the Nextflow DSL2 community!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Nextflow</span>
+						<span>⭐ 302</span>
+						<span>🔱 806</span>
+					</div>
+				<div class="stars-today">⭐ 0 stars today</div>
 				</div>
 			</div>
 	
@@ -250,32 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 1512</span>
-						<span>🔱 301</span>
+						<span>⭐ 1547</span>
+						<span>🔱 304</span>
 					</div>
 				<div class="stars-today">⭐ 231 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
     
 
 
       
-        RSSNext /
+        ocrmypdf /
 
-      Folo</a></p>
+      OCRmyPDF</a></p>
 				<p>
-      🧡 Follow everything in one place
+      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24598</span>
+						<span>🔱 1621</span>
+					</div>
+				<div class="stars-today">⭐ 879 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24256</span>
-						<span>🔱 1024</span>
+						<span>⭐ 5090</span>
+						<span>🔱 1263</span>
 					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
+				<div class="stars-today">⭐ 85 stars today</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 70887</span>
-						<span>🔱 7504</span>
+						<span>⭐ 70913</span>
+						<span>🔱 7507</span>
 					</div>
 				<div class="stars-today">⭐ 393 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ossu/computer-science" target="_blank">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
     
 
 
       
-        ossu /
+        bregman-arie /
 
-      computer-science</a></p>
+      devops-exercises</a></p>
 				<p>
-      🎓 Path to a free self-taught education in Computer Science!
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 177340</span>
-						<span>🔱 22495</span>
+						<span>🔠 Python</span>
+						<span>⭐ 71208</span>
+						<span>🔱 15979</span>
 					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
+				<div class="stars-today">⭐ 283 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/core" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      core</a></p>
+				<p>
+      🏡 Open source home automation that puts local control and privacy first.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 77333</span>
+						<span>🔱 33011</span>
+					</div>
+				<div class="stars-today">⭐ 42 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
+    
+
+
+      
+        browser-use /
+
+      browser-use</a></p>
+				<p>
+      Make websites accessible for AI agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48170</span>
+						<span>🔱 5017</span>
+					</div>
+				<div class="stars-today">⭐ 531 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agno-agi/agno" target="_blank">
+    
+
+
+      
+        agno-agi /
+
+      agno</a></p>
+				<p>
+      Agno is a lightweight library for building Multimodal Agents. It exposes LLMs as a unified API and gives them superpowers like memory, knowledge, tools and reasoning.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21896</span>
+						<span>🔱 2868</span>
+					</div>
+				<div class="stars-today">⭐ 211 stars today</div>
 				</div>
 			</div>
 	

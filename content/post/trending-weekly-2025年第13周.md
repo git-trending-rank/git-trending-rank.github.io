@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第13周
-date: 2025-03-25T09:58:45Z
+date: 2025-03-25T11:58:58Z
 categories:
 - weekly
 keywords:
@@ -16,154 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/glanceapp/glance" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        glanceapp /
+        hacksider /
 
-      glance</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      A self-hosted dashboard that puts all your feeds in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 20092</span>
-						<span>🔱 722</span>
-					</div>
-				<div class="stars-today">⭐ 3979 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DiceDB/dice" target="_blank">
-    
-
-
-      
-        DiceDB /
-
-      dice</a></p>
-				<p>
-      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9599</span>
-						<span>🔱 1290</span>
-					</div>
-				<div class="stars-today">⭐ 1152 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6698</span>
-						<span>🔱 1169</span>
-					</div>
-				<div class="stars-today">⭐ 1620 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39329</span>
-						<span>🔱 3513</span>
+						<span>⭐ 47736</span>
+						<span>🔱 7043</span>
 					</div>
-				<div class="stars-today">⭐ 1999 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/satnaing/shadcn-admin" target="_blank">
-    
-
-
-      
-        satnaing /
-
-      shadcn-admin</a></p>
-				<p>
-      Admin Dashboard UI built with Shadcn and Vite.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6293</span>
-						<span>🔱 771</span>
-					</div>
-				<div class="stars-today">⭐ 2035 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
-    
-
-
-      
-        GuijiAI /
-
-      HeyGem.ai</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 4578</span>
-						<span>🔱 823</span>
-					</div>
-				<div class="stars-today">⭐ 1366 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/local-deep-researcher" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      local-deep-researcher</a></p>
-				<p>
-      Fully local web research and report writing assistant
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6460</span>
-						<span>🔱 627</span>
-					</div>
-				<div class="stars-today">⭐ 2592 stars this week</div>
+				<div class="stars-today">⭐ 2613 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,76 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1664</span>
-						<span>🔱 402</span>
+						<span>⭐ 1685</span>
+						<span>🔱 403</span>
 					</div>
 				<div class="stars-today">⭐ 831 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist" target="_blank">
+				<p><a href="https://github.com/DiceDB/dice" target="_blank">
     
 
 
       
-        SakanaAI /
+        DiceDB /
 
-      AI-Scientist</a></p>
+      dice</a></p>
 				<p>
-      The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10372</span>
-						<span>🔱 1501</span>
+						<span>🔠 Go</span>
+						<span>⭐ 9604</span>
+						<span>🔱 1290</span>
 					</div>
-				<div class="stars-today">⭐ 979 stars this week</div>
+				<div class="stars-today">⭐ 1152 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
+				<p><a href="https://github.com/glanceapp/glance" target="_blank">
     
 
 
       
-        executeautomation /
+        glanceapp /
 
-      mcp-playwright</a></p>
+      glance</a></p>
 				<p>
-      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+      A self-hosted dashboard that puts all your feeds in one place
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1545</span>
-						<span>🔱 129</span>
+						<span>🔠 Go</span>
+						<span>⭐ 20109</span>
+						<span>🔱 723</span>
 					</div>
-				<div class="stars-today">⭐ 548 stars this week</div>
+				<div class="stars-today">⭐ 3979 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        microsoft /
+        OpenBB-finance /
 
-      qlib</a></p>
+      OpenBB</a></p>
 				<p>
-      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+      Investment Research for Everyone, Everywhere.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17664</span>
-						<span>🔱 2962</span>
+						<span>⭐ 39352</span>
+						<span>🔱 3513</span>
 					</div>
-				<div class="stars-today">⭐ 586 stars this week</div>
+				<div class="stars-today">⭐ 1999 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +140,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24562</span>
-						<span>🔱 1619</span>
+						<span>⭐ 24598</span>
+						<span>🔱 1621</span>
 					</div>
 				<div class="stars-today">⭐ 3622 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17669</span>
+						<span>🔱 2962</span>
+					</div>
+				<div class="stars-today">⭐ 586 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist" target="_blank">
+    
+
+
+      
+        SakanaAI /
+
+      AI-Scientist</a></p>
+				<p>
+      The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 10378</span>
+						<span>🔱 1502</span>
+					</div>
+				<div class="stars-today">⭐ 979 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+    
+
+
+      
+        GuijiAI /
+
+      HeyGem.ai</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 4593</span>
+						<span>🔱 824</span>
+					</div>
+				<div class="stars-today">⭐ 1366 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
+    
+
+
+      
+        executeautomation /
+
+      mcp-playwright</a></p>
+				<p>
+      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1553</span>
+						<span>🔱 131</span>
+					</div>
+				<div class="stars-today">⭐ 548 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mongodb-developer/GenAI-Showcase" target="_blank">
+    
+
+
+      
+        mongodb-developer /
+
+      GenAI-Showcase</a></p>
+				<p>
+      GenAI Cookbook
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2950</span>
+						<span>🔱 517</span>
+					</div>
+				<div class="stars-today">⭐ 1047 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+    
+
+
+      
+        toeverything /
+
+      AFFiNE</a></p>
+				<p>
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 48885</span>
+						<span>🔱 3209</span>
+					</div>
+				<div class="stars-today">⭐ 2096 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1148</span>
-						<span>🔱 97</span>
+						<span>⭐ 1160</span>
+						<span>🔱 98</span>
 					</div>
 				<div class="stars-today">⭐ 285 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers</a></p>
+				<p>
+      A collection of MCP servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 15175</span>
+						<span>🔱 992</span>
+					</div>
+				<div class="stars-today">⭐ 4122 stars this week</div>
 				</div>
 			</div>
 	
