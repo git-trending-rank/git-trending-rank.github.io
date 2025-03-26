@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第13周
-date: 2025-03-26T09:58:35Z
+date: 2025-03-26T11:58:54Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48263</span>
-						<span>🔱 7096</span>
+						<span>⭐ 48289</span>
+						<span>🔱 7098</span>
 					</div>
 				<div class="stars-today">⭐ 3188 stars this week</div>
 				</div>
@@ -52,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1862</span>
-						<span>🔱 437</span>
+						<span>⭐ 1867</span>
+						<span>🔱 439</span>
 					</div>
 				<div class="stars-today">⭐ 1069 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DiceDB/dice" target="_blank">
-    
-
-
-      
-        DiceDB /
-
-      dice</a></p>
-				<p>
-      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9637</span>
-						<span>🔱 1291</span>
-					</div>
-				<div class="stars-today">⭐ 776 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/glanceapp/glance" target="_blank">
-    
-
-
-      
-        glanceapp /
-
-      glance</a></p>
-				<p>
-      A self-hosted dashboard that puts all your feeds in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 20226</span>
-						<span>🔱 727</span>
-					</div>
-				<div class="stars-today">⭐ 2144 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39496</span>
-						<span>🔱 3523</span>
-					</div>
-				<div class="stars-today">⭐ 1970 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25104</span>
-						<span>🔱 1646</span>
+						<span>⭐ 25129</span>
+						<span>🔱 1648</span>
 					</div>
 				<div class="stars-today">⭐ 4021 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39504</span>
+						<span>🔱 3524</span>
+					</div>
+				<div class="stars-today">⭐ 1970 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17728</span>
+						<span>⭐ 17736</span>
 						<span>🔱 2971</span>
 					</div>
 				<div class="stars-today">⭐ 671 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24325</span>
+						<span>🔱 1028</span>
+					</div>
+				<div class="stars-today">⭐ 1045 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/satnaing/shadcn-admin" target="_blank">
+    
+
+
+      
+        satnaing /
+
+      shadcn-admin</a></p>
+				<p>
+      Admin Dashboard UI built with Shadcn and Vite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6517</span>
+						<span>🔱 797</span>
+					</div>
+				<div class="stars-today">⭐ 1815 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DiceDB/dice" target="_blank">
+    
+
+
+      
+        DiceDB /
+
+      dice</a></p>
+				<p>
+      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9640</span>
+						<span>🔱 1291</span>
+					</div>
+				<div class="stars-today">⭐ 776 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 294354</span>
+						<span>🔱 48953</span>
+					</div>
+				<div class="stars-today">⭐ 1362 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,118 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10436</span>
+						<span>⭐ 10440</span>
 						<span>🔱 1504</span>
 					</div>
 				<div class="stars-today">⭐ 1033 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
-    
-
-
-      
-        GuijiAI /
-
-      HeyGem.ai</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 4747</span>
-						<span>🔱 844</span>
-					</div>
-				<div class="stars-today">⭐ 1330 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
-    
-
-
-      
-        executeautomation /
-
-      mcp-playwright</a></p>
-				<p>
-      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1617</span>
-						<span>🔱 135</span>
-					</div>
-				<div class="stars-today">⭐ 591 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mongodb-developer/GenAI-Showcase" target="_blank">
-    
-
-
-      
-        mongodb-developer /
-
-      GenAI-Showcase</a></p>
-				<p>
-      GenAI Cookbook
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 3014</span>
-						<span>🔱 527</span>
-					</div>
-				<div class="stars-today">⭐ 1066 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
-    
-
-
-      
-        toeverything /
-
-      AFFiNE</a></p>
-				<p>
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 48969</span>
-						<span>🔱 3213</span>
-					</div>
-				<div class="stars-today">⭐ 1915 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1234</span>
-						<span>🔱 106</span>
-					</div>
-				<div class="stars-today">⭐ 347 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 15582</span>
-						<span>🔱 1019</span>
+						<span>⭐ 15613</span>
+						<span>🔱 1020</span>
 					</div>
 				<div class="stars-today">⭐ 3931 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
+    
+
+
+      
+        executeautomation /
+
+      mcp-playwright</a></p>
+				<p>
+      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1620</span>
+						<span>🔱 136</span>
+					</div>
+				<div class="stars-today">⭐ 591 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1239</span>
+						<span>🔱 106</span>
+					</div>
+				<div class="stars-today">⭐ 347 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+    
+
+
+      
+        lastmile-ai /
+
+      mcp-agent</a></p>
+				<p>
+      Build effective agents using Model Context Protocol and simple workflow patterns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1873</span>
+						<span>🔱 153</span>
+					</div>
+				<div class="stars-today">⭐ 517 stars this week</div>
 				</div>
 			</div>
 	
