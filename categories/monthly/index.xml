@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 26 Mar 2025 09:58:35 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 26 Mar 2025 11:58:54 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年3月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B43%E6%9C%88/</link>
-        <pubDate>Wed, 26 Mar 2025 09:58:35 +0000</pubDate>
+        <pubDate>Wed, 26 Mar 2025 11:58:54 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B43%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,28 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Truly independent web browser
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 36401&lt;/span&gt;
-						&lt;span&gt;🔱 1527&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8325 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
@@ -55,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19343&lt;/span&gt;
-						&lt;span&gt;🔱 3513&lt;/span&gt;
+						&lt;span&gt;⭐ 19354&lt;/span&gt;
+						&lt;span&gt;🔱 3515&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10523 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Truly independent web browser
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 36406&lt;/span&gt;
+						&lt;span&gt;🔱 1527&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8325 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,32 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 20226&lt;/span&gt;
+						&lt;span&gt;⭐ 20235&lt;/span&gt;
 						&lt;span&gt;🔱 727&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9223 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/langgenius/dify&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        langgenius /
-
-      dify&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 86001&lt;/span&gt;
-						&lt;span&gt;🔱 12746&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13670 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,10 +99,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 53557&lt;/span&gt;
-						&lt;span&gt;🔱 6344&lt;/span&gt;
+						&lt;span&gt;⭐ 53560&lt;/span&gt;
+						&lt;span&gt;🔱 6345&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5939 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langgenius/dify&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langgenius /
+
+      dify&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 86046&lt;/span&gt;
+						&lt;span&gt;🔱 12751&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13670 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,32 +143,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 52064&lt;/span&gt;
+						&lt;span&gt;⭐ 52067&lt;/span&gt;
 						&lt;span&gt;🔱 3410&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2245 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/CodePhiliaX/Chat2DB&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        CodePhiliaX /
-
-      Chat2DB&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 21677&lt;/span&gt;
-						&lt;span&gt;🔱 2375&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2443 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,76 +165,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Markdown&lt;/span&gt;
-						&lt;span&gt;⭐ 363545&lt;/span&gt;
-						&lt;span&gt;🔱 33747&lt;/span&gt;
+						&lt;span&gt;⭐ 363597&lt;/span&gt;
+						&lt;span&gt;🔱 33749&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 23016 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vllm-project/aibrix&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CodePhiliaX/Chat2DB&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        vllm-project /
+        CodePhiliaX /
 
-      aibrix&lt;/a&gt;&lt;/p&gt;
+      Chat2DB&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Cost-efficient and pluggable Infrastructure components for GenAI inference
+      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 3317&lt;/span&gt;
-						&lt;span&gt;🔱 311&lt;/span&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 21679&lt;/span&gt;
+						&lt;span&gt;🔱 2375&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1601 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2443 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/lerobot&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Soulter/AstrBot&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        huggingface /
+        Soulter /
 
-      lerobot&lt;/a&gt;&lt;/p&gt;
+      AstrBot&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+      ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10964&lt;/span&gt;
-						&lt;span&gt;🔱 1208&lt;/span&gt;
+						&lt;span&gt;⭐ 6627&lt;/span&gt;
+						&lt;span&gt;🔱 400&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1649 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/n8n-io/n8n&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        n8n-io /
-
-      n8n&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 70844&lt;/span&gt;
-						&lt;span&gt;🔱 18495&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7891 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3232 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,8 +231,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 39496&lt;/span&gt;
-						&lt;span&gt;🔱 3523&lt;/span&gt;
+						&lt;span&gt;⭐ 39504&lt;/span&gt;
+						&lt;span&gt;🔱 3524&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3130 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -297,76 +253,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 17842&lt;/span&gt;
-						&lt;span&gt;🔱 1265&lt;/span&gt;
+						&lt;span&gt;⭐ 17857&lt;/span&gt;
+						&lt;span&gt;🔱 1268&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6715 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/eosphoros-ai/DB-GPT&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/lerobot&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        eosphoros-ai /
+        huggingface /
 
-      DB-GPT&lt;/a&gt;&lt;/p&gt;
+      lerobot&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
+      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15790&lt;/span&gt;
-						&lt;span&gt;🔱 2135&lt;/span&gt;
+						&lt;span&gt;⭐ 10969&lt;/span&gt;
+						&lt;span&gt;🔱 1209&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 982 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/svcvit/Awesome-Dify-Workflow&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        svcvit /
-
-      Awesome-Dify-Workflow&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 4758&lt;/span&gt;
-						&lt;span&gt;🔱 488&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1559 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/clash-verge-rev/clash-verge-rev&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        clash-verge-rev /
-
-      clash-verge-rev&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 52526&lt;/span&gt;
-						&lt;span&gt;🔱 4090&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4283 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1649 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
