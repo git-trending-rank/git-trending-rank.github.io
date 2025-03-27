@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-27
-date: 2025-03-27T09:58:47Z
+date: 2025-03-27T11:59:02Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/khoj-ai/khoj" target="_blank">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
     
 
 
       
-        khoj-ai /
+        ourongxing /
 
-      khoj</a></p>
+      newsnow</a></p>
 				<p>
-      Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5826</span>
+						<span>🔱 1395</span>
+					</div>
+				<div class="stars-today">⭐ 347 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27618</span>
-						<span>🔱 1526</span>
+						<span>⭐ 21997</span>
+						<span>🔱 2622</span>
 					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
+				<div class="stars-today">⭐ 317 stars today</div>
 				</div>
 			</div>
 	
@@ -52,98 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 18208</span>
-						<span>🔱 8341</span>
+						<span>⭐ 18215</span>
+						<span>🔱 8344</span>
 					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
+				<div class="stars-today">⭐ 127 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+				<p><a href="https://github.com/khoj-ai/khoj" target="_blank">
     
 
 
       
-        alibaba /
+        khoj-ai /
 
-      spring-ai-alibaba</a></p>
+      khoj</a></p>
 				<p>
-      Agentic AI Framework for Java Developers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 1678</span>
-						<span>🔱 347</span>
-					</div>
-				<div class="stars-today">⭐ 191 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5772</span>
-						<span>🔱 1387</span>
-					</div>
-				<div class="stars-today">⭐ 375 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Cryakl/Ultimate-RAT-Collection" target="_blank">
-    
-
-
-      
-        Cryakl /
-
-      Ultimate-RAT-Collection</a></p>
-				<p>
-      For educational purposes only, exhaustive samples of 450+ classic/modern trojan builders including screenshots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 2151</span>
-						<span>🔱 372</span>
-					</div>
-				<div class="stars-today">⭐ 336 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/joanrod/star-vector" target="_blank">
-    
-
-
-      
-        joanrod /
-
-      star-vector</a></p>
-				<p>
-      StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
+      Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2622</span>
-						<span>🔱 139</span>
+						<span>⭐ 27653</span>
+						<span>🔱 1529</span>
 					</div>
-				<div class="stars-today">⭐ 302 stars today</div>
+				<div class="stars-today">⭐ 607 stars today</div>
 				</div>
 			</div>
 	
@@ -160,98 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 94070</span>
-						<span>🔱 15237</span>
+						<span>⭐ 94110</span>
+						<span>🔱 15238</span>
 					</div>
-				<div class="stars-today">⭐ 327 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
-    
-
-
-      
-        shadps4-emu /
-
-      shadPS4</a></p>
-				<p>
-      PlayStation 4 emulator for Windows, Linux and macOS written in C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 19591</span>
-						<span>🔱 1199</span>
-					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Akkudoktor-EOS/EOS" target="_blank">
-    
-
-
-      
-        Akkudoktor-EOS /
-
-      EOS</a></p>
-				<p>
-      This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 833</span>
-						<span>🔱 75</span>
-					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      browser-use</a></p>
-				<p>
-      Make websites accessible for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49497</span>
-						<span>🔱 5154</span>
-					</div>
-				<div class="stars-today">⭐ 773 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank">
-    
-
-
-      
-        NirDiamant /
-
-      GenAI_Agents</a></p>
-				<p>
-      This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10226</span>
-						<span>🔱 1302</span>
-					</div>
-				<div class="stars-today">⭐ 276 stars today</div>
+				<div class="stars-today">⭐ 513 stars today</div>
 				</div>
 			</div>
 	
@@ -270,32 +138,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71866</span>
-						<span>🔱 16045</span>
+						<span>⭐ 71888</span>
+						<span>🔱 16046</span>
 					</div>
-				<div class="stars-today">⭐ 366 stars today</div>
+				<div class="stars-today">⭐ 340 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/signalapp/Signal-Android" target="_blank">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      spring-ai-alibaba</a></p>
+				<p>
+      Agentic AI Framework for Java Developers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 1684</span>
+						<span>🔱 348</span>
+					</div>
+				<div class="stars-today">⭐ 189 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Akkudoktor-EOS/EOS" target="_blank">
+    
+
+
+      
+        Akkudoktor-EOS /
+
+      EOS</a></p>
+				<p>
+      This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 843</span>
+						<span>🔱 76</span>
+					</div>
+				<div class="stars-today">⭐ 121 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/signalapp/libsignal" target="_blank">
     
 
 
       
         signalapp /
 
-      Signal-Android</a></p>
+      libsignal</a></p>
 				<p>
-      A private messenger for Android.
+      Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 26504</span>
-						<span>🔱 6333</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 4035</span>
+						<span>🔱 482</span>
 					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
+				<div class="stars-today">⭐ 16 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank">
+    
+
+
+      
+        NirDiamant /
+
+      GenAI_Agents</a></p>
+				<p>
+      This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 10243</span>
+						<span>🔱 1303</span>
+					</div>
+				<div class="stars-today">⭐ 237 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1Panel-dev/MaxKB" target="_blank">
+    
+
+
+      
+        1Panel-dev /
+
+      MaxKB</a></p>
+				<p>
+      💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15045</span>
+						<span>🔱 1993</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars today</div>
 				</div>
 			</div>
 	
@@ -314,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14394</span>
-						<span>🔱 1494</span>
+						<span>⭐ 14439</span>
+						<span>🔱 1498</span>
 					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
+				<div class="stars-today">⭐ 290 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/signalapp/Signal-Android" target="_blank">
+    
+
+
+      
+        signalapp /
+
+      Signal-Android</a></p>
+				<p>
+      A private messenger for Android.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 26513</span>
+						<span>🔱 6334</span>
+					</div>
+				<div class="stars-today">⭐ 160 stars today</div>
 				</div>
 			</div>
 	

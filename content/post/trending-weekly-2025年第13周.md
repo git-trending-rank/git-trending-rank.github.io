@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第13周
-date: 2025-03-27T09:58:47Z
+date: 2025-03-27T11:59:02Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48414</span>
-						<span>🔱 7113</span>
+						<span>⭐ 48426</span>
+						<span>🔱 7116</span>
 					</div>
 				<div class="stars-today">⭐ 3664 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1945</span>
-						<span>🔱 453</span>
+						<span>⭐ 1953</span>
+						<span>🔱 454</span>
 					</div>
 				<div class="stars-today">⭐ 1194 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25378</span>
-						<span>🔱 1663</span>
+						<span>⭐ 25399</span>
+						<span>🔱 1665</span>
 					</div>
 				<div class="stars-today">⭐ 4465 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39609</span>
+						<span>⭐ 39614</span>
 						<span>🔱 3528</span>
 					</div>
 				<div class="stars-today">⭐ 2049 stars this week</div>
@@ -104,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
     
 
 
       
-        microsoft /
+        ourongxing /
 
-      qlib</a></p>
+      newsnow</a></p>
 				<p>
-      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+      Elegant reading of real-time and hottest news
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17797</span>
-						<span>🔱 2981</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5826</span>
+						<span>🔱 1395</span>
 					</div>
-				<div class="stars-today">⭐ 609 stars this week</div>
+				<div class="stars-today">⭐ 756 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24416</span>
-						<span>🔱 1034</span>
+						<span>⭐ 24427</span>
+						<span>🔱 1036</span>
 					</div>
 				<div class="stars-today">⭐ 1081 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/satnaing/shadcn-admin" target="_blank">
+				<p><a href="https://github.com/NVIDIA/TensorRT-LLM" target="_blank">
     
 
 
       
-        satnaing /
+        NVIDIA /
 
-      shadcn-admin</a></p>
+      TensorRT-LLM</a></p>
 				<p>
-      Admin Dashboard UI built with Shadcn and Vite.
+      TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6611</span>
-						<span>🔱 808</span>
+						<span>🔠 C++</span>
+						<span>⭐ 9976</span>
+						<span>🔱 1261</span>
 					</div>
-				<div class="stars-today">⭐ 1795 stars this week</div>
+				<div class="stars-today">⭐ 235 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DiceDB/dice" target="_blank">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
     
 
 
       
-        DiceDB /
+        lastmile-ai /
 
-      dice</a></p>
+      mcp-agent</a></p>
 				<p>
-      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+      Build effective agents using Model Context Protocol and simple workflow patterns
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9664</span>
-						<span>🔱 1292</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1996</span>
+						<span>🔱 168</span>
 					</div>
-				<div class="stars-today">⭐ 564 stars this week</div>
+				<div class="stars-today">⭐ 515 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 294492</span>
-						<span>🔱 48980</span>
+						<span>⭐ 294506</span>
+						<span>🔱 48985</span>
 					</div>
 				<div class="stars-today">⭐ 1231 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist" target="_blank">
+				<p><a href="https://github.com/AI4Finance-Foundation/FinRobot" target="_blank">
     
 
 
       
-        SakanaAI /
+        AI4Finance-Foundation /
 
-      AI-Scientist</a></p>
+      FinRobot</a></p>
 				<p>
-      The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
+      FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10496</span>
-						<span>🔱 1511</span>
+						<span>⭐ 2837</span>
+						<span>🔱 484</span>
 					</div>
-				<div class="stars-today">⭐ 1079 stars this week</div>
+				<div class="stars-today">⭐ 227 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 16160</span>
-						<span>🔱 1054</span>
+						<span>⭐ 16281</span>
+						<span>🔱 1060</span>
 					</div>
 				<div class="stars-today">⭐ 3510 stars this week</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1728</span>
+						<span>⭐ 1739</span>
 						<span>🔱 140</span>
 					</div>
 				<div class="stars-today">⭐ 578 stars this week</div>
@@ -280,46 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+				<p><a href="https://github.com/satnaing/shadcn-admin" target="_blank">
     
 
 
       
-        mark3labs /
+        satnaing /
 
-      mcp-go</a></p>
+      shadcn-admin</a></p>
 				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+      Admin Dashboard UI built with Shadcn and Vite.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1346</span>
-						<span>🔱 115</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6616</span>
+						<span>🔱 808</span>
 					</div>
-				<div class="stars-today">⭐ 383 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1985</span>
-						<span>🔱 167</span>
-					</div>
-				<div class="stars-today">⭐ 515 stars this week</div>
+				<div class="stars-today">⭐ 1795 stars this week</div>
 				</div>
 			</div>
 	
