@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-27
-date: 2025-03-27T05:58:37Z
+date: 2025-03-27T07:58:40Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27481</span>
-						<span>🔱 1518</span>
+						<span>⭐ 27531</span>
+						<span>🔱 1521</span>
 					</div>
 				<div class="stars-today">⭐ 50 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 18186</span>
-						<span>🔱 8339</span>
+						<span>⭐ 18196</span>
+						<span>🔱 8341</span>
 					</div>
 				<div class="stars-today">⭐ 28 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1631</span>
-						<span>🔱 338</span>
+						<span>⭐ 1650</span>
+						<span>🔱 345</span>
 					</div>
 				<div class="stars-today">⭐ 191 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5706</span>
-						<span>🔱 1367</span>
+						<span>⭐ 5739</span>
+						<span>🔱 1378</span>
 					</div>
 				<div class="stars-today">⭐ 375 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 2099</span>
-						<span>🔱 367</span>
+						<span>⭐ 2126</span>
+						<span>🔱 371</span>
 					</div>
 				<div class="stars-today">⭐ 336 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2580</span>
-						<span>🔱 136</span>
+						<span>⭐ 2599</span>
+						<span>🔱 137</span>
 					</div>
 				<div class="stars-today">⭐ 302 stars today</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 93976</span>
-						<span>🔱 15235</span>
+						<span>⭐ 94012</span>
+						<span>🔱 15240</span>
 					</div>
 				<div class="stars-today">⭐ 327 stars today</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 19553</span>
-						<span>🔱 1198</span>
+						<span>⭐ 19570</span>
+						<span>🔱 1199</span>
 					</div>
 				<div class="stars-today">⭐ 47 stars today</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 810</span>
-						<span>🔱 73</span>
+						<span>⭐ 826</span>
+						<span>🔱 75</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49367</span>
-						<span>🔱 5137</span>
+						<span>⭐ 49418</span>
+						<span>🔱 5146</span>
 					</div>
 				<div class="stars-today">⭐ 773 stars today</div>
 				</div>
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10179</span>
+						<span>⭐ 10204</span>
 						<span>🔱 1296</span>
 					</div>
 				<div class="stars-today">⭐ 276 stars today</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71802</span>
-						<span>🔱 16038</span>
+						<span>⭐ 71835</span>
+						<span>🔱 16041</span>
 					</div>
 				<div class="stars-today">⭐ 366 stars today</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 26471</span>
-						<span>🔱 6330</span>
+						<span>⭐ 26491</span>
+						<span>🔱 6331</span>
 					</div>
 				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14305</span>
-						<span>🔱 1486</span>
+						<span>⭐ 14358</span>
+						<span>🔱 1491</span>
 					</div>
 				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
