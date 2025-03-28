@@ -68,10 +68,6 @@ jobs:
 
       - name: Build site
         run: hugo --config ./config.yaml
-
-      - name: Add seo file
-        run: cp content/public/seo/googlec19a56b4bca166d4.html doc/googlec19a56b4bca166d4.html
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
