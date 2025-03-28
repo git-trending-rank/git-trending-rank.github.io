@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://git-trending-rank.github.io/sitemap.xml
