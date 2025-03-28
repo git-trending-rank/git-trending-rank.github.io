@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第13周
-date: 2025-03-28T10:02:41Z
+date: 2025-03-28T18:46:07+08:00
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48549</span>
+						<span>⭐ 48553</span>
 						<span>🔱 7131</span>
 					</div>
 				<div class="stars-today">⭐ 3787 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
-    
-
-
-      
-        ageerle /
-
-      ruoyi-ai</a></p>
-				<p>
-      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2031</span>
-						<span>🔱 467</span>
-					</div>
-				<div class="stars-today">⭐ 1282 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25577</span>
-						<span>🔱 1674</span>
+						<span>⭐ 25583</span>
+						<span>🔱 1676</span>
 					</div>
 				<div class="stars-today">⭐ 4722 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        ageerle /
 
-      OpenBB</a></p>
+      ruoyi-ai</a></p>
 				<p>
-      Investment Research for Everyone, Everywhere.
+      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39696</span>
-						<span>🔱 3532</span>
+						<span>🔠 Java</span>
+						<span>⭐ 2037</span>
+						<span>🔱 468</span>
 					</div>
-				<div class="stars-today">⭐ 1965 stars this week</div>
+				<div class="stars-today">⭐ 1282 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6675</span>
-						<span>🔱 1501</span>
+						<span>⭐ 6695</span>
+						<span>🔱 1506</span>
 					</div>
 				<div class="stars-today">⭐ 1129 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39700</span>
+						<span>🔱 3532</span>
+					</div>
+				<div class="stars-today">⭐ 1965 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24496</span>
+						<span>⭐ 24500</span>
 						<span>🔱 1038</span>
 					</div>
 				<div class="stars-today">⭐ 1139 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23221</span>
+						<span>🔱 2724</span>
+					</div>
+				<div class="stars-today">⭐ 2229 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yetone/avante.nvim" target="_blank">
+    
+
+
+      
+        yetone /
+
+      avante.nvim</a></p>
+				<p>
+      Use your Neovim like using Cursor AI IDE!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 11692</span>
+						<span>🔱 471</span>
+					</div>
+				<div class="stars-today">⭐ 347 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 10000</span>
+						<span>⭐ 10001</span>
 						<span>🔱 1265</span>
 					</div>
 				<div class="stars-today">⭐ 239 stars this week</div>
@@ -184,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2130</span>
+						<span>⭐ 2135</span>
 						<span>🔱 177</span>
 					</div>
 				<div class="stars-today">⭐ 528 stars this week</div>
@@ -206,98 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 294666</span>
-						<span>🔱 49008</span>
+						<span>⭐ 294672</span>
+						<span>🔱 49007</span>
 					</div>
 				<div class="stars-today">⭐ 1201 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AI4Finance-Foundation/FinRobot" target="_blank">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
     
 
 
       
-        AI4Finance-Foundation /
+        mark3labs /
 
-      FinRobot</a></p>
+      mcp-go</a></p>
 				<p>
-      FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2909</span>
-						<span>🔱 486</span>
+						<span>🔠 Go</span>
+						<span>⭐ 1452</span>
+						<span>🔱 131</span>
 					</div>
-				<div class="stars-today">⭐ 238 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 17527</span>
-						<span>🔱 1141</span>
-					</div>
-				<div class="stars-today">⭐ 3431 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
-    
-
-
-      
-        executeautomation /
-
-      mcp-playwright</a></p>
-				<p>
-      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1857</span>
-						<span>🔱 148</span>
-					</div>
-				<div class="stars-today">⭐ 599 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/satnaing/shadcn-admin" target="_blank">
-    
-
-
-      
-        satnaing /
-
-      shadcn-admin</a></p>
-				<p>
-      Admin Dashboard UI built with Shadcn and Vite.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6694</span>
-						<span>🔱 820</span>
-					</div>
-				<div class="stars-today">⭐ 1466 stars this week</div>
+				<div class="stars-today">⭐ 466 stars this week</div>
 				</div>
 			</div>
 	

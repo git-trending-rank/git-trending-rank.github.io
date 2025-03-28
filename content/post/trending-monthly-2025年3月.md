@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-28T10:02:41Z
+date: 2025-03-28T18:46:08+08:00
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/allenai/olmocr" target="_blank">
-    
-
-
-      
-        allenai /
-
-      olmocr</a></p>
-				<p>
-      Toolkit for linearizing PDFs for LLM datasets/training
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10584</span>
-						<span>🔱 708</span>
-					</div>
-				<div class="stars-today">⭐ 9067 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19526</span>
-						<span>🔱 3555</span>
+						<span>⭐ 19530</span>
+						<span>🔱 3556</span>
 					</div>
 				<div class="stars-today">⭐ 10712 stars this month</div>
 				</div>
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36506</span>
+						<span>⭐ 36508</span>
 						<span>🔱 1534</span>
 					</div>
 				<div class="stars-today">⭐ 8397 stars this month</div>
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20529</span>
+						<span>⭐ 20533</span>
 						<span>🔱 743</span>
 					</div>
 				<div class="stars-today">⭐ 9500 stars this month</div>
@@ -104,24 +82,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
     
 
 
       
-        geekan /
+        allenai /
 
-      MetaGPT</a></p>
+      olmocr</a></p>
 				<p>
-      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+      Toolkit for linearizing PDFs for LLM datasets/training
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53731</span>
-						<span>🔱 6368</span>
+						<span>⭐ 10585</span>
+						<span>🔱 708</span>
 					</div>
-				<div class="stars-today">⭐ 5641 stars this month</div>
+				<div class="stars-today">⭐ 9067 stars this month</div>
 				</div>
 			</div>
 	
@@ -148,28 +126,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
-    
-
-
-      
-        langgenius /
-
-      dify</a></p>
-				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 87168</span>
-						<span>🔱 12908</span>
-					</div>
-				<div class="stars-today">⭐ 12448 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
@@ -184,10 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 364512</span>
-						<span>🔱 33830</span>
+						<span>⭐ 364520</span>
+						<span>🔱 33831</span>
 					</div>
 				<div class="stars-today">⭐ 22480 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
+    
+
+
+      
+        geekan /
+
+      MetaGPT</a></p>
+				<p>
+      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53731</span>
+						<span>🔱 6368</span>
+					</div>
+				<div class="stars-today">⭐ 5641 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
+    
+
+
+      
+        langgenius /
+
+      dify</a></p>
+				<p>
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 87188</span>
+						<span>🔱 12911</span>
+					</div>
+				<div class="stars-today">⭐ 12448 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 71869</span>
+						<span>🔱 18823</span>
+					</div>
+				<div class="stars-today">⭐ 8437 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 21778</span>
+						<span>⭐ 21779</span>
 						<span>🔱 2385</span>
 					</div>
 				<div class="stars-today">⭐ 2447 stars this month</div>
@@ -228,98 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48549</span>
+						<span>⭐ 48553</span>
 						<span>🔱 7131</span>
 					</div>
 				<div class="stars-today">⭐ 4362 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6852</span>
-						<span>🔱 1185</span>
-					</div>
-				<div class="stars-today">⭐ 3908 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39696</span>
-						<span>🔱 3532</span>
-					</div>
-				<div class="stars-today">⭐ 3240 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 71858</span>
-						<span>🔱 18819</span>
-					</div>
-				<div class="stars-today">⭐ 8437 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
-    
-
-
-      
-        PatrickJS /
-
-      awesome-cursorrules</a></p>
-				<p>
-      📄 A curated list of awesome .cursorrules files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 18148</span>
-						<span>🔱 1291</span>
-					</div>
-				<div class="stars-today">⭐ 6808 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11175</span>
+						<span>⭐ 11177</span>
 						<span>🔱 1226</span>
 					</div>
 				<div class="stars-today">⭐ 1758 stars this month</div>
@@ -346,24 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
     
 
 
       
-        lastmile-ai /
+        PatrickJS /
 
-      mcp-agent</a></p>
+      awesome-cursorrules</a></p>
 				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
+      📄 A curated list of awesome .cursorrules files
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2130</span>
-						<span>🔱 177</span>
+						<span>🔠 </span>
+						<span>⭐ 18153</span>
+						<span>🔱 1291</span>
 					</div>
-				<div class="stars-today">⭐ 1423 stars this month</div>
+				<div class="stars-today">⭐ 6808 stars this month</div>
 				</div>
 			</div>
 	

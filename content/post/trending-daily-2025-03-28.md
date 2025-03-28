@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-28
-date: 2025-03-28T10:02:41Z
+date: 2025-03-28T18:46:07+08:00
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6675</span>
-						<span>🔱 1501</span>
-					</div>
-				<div class="stars-today">⭐ 432 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
@@ -52,162 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23186</span>
-						<span>🔱 2721</span>
+						<span>⭐ 23221</span>
+						<span>🔱 2724</span>
 					</div>
 				<div class="stars-today">⭐ 429 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kubernetes/ingress-nginx" target="_blank">
-    
-
-
-      
-        kubernetes /
-
-      ingress-nginx</a></p>
-				<p>
-      Ingress NGINX Controller for Kubernetes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 18286</span>
-						<span>🔱 8347</span>
-					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/khoj-ai/khoj" target="_blank">
-    
-
-
-      
-        khoj-ai /
-
-      khoj</a></p>
-				<p>
-      Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28012</span>
-						<span>🔱 1550</span>
-					</div>
-				<div class="stars-today">⭐ 583 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepseek-ai/DeepSeek-V3" target="_blank">
-    
-
-
-      
-        deepseek-ai /
-
-      DeepSeek-V3</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 94470</span>
-						<span>🔱 15273</span>
-					</div>
-				<div class="stars-today">⭐ 506 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
-    
-
-
-      
-        bregman-arie /
-
-      devops-exercises</a></p>
-				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 72192</span>
-						<span>🔱 16075</span>
-					</div>
-				<div class="stars-today">⭐ 339 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      spring-ai-alibaba</a></p>
-				<p>
-      Agentic AI Framework for Java Developers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 1803</span>
-						<span>🔱 360</span>
-					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Akkudoktor-EOS/EOS" target="_blank">
-    
-
-
-      
-        Akkudoktor-EOS /
-
-      EOS</a></p>
-				<p>
-      This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 919</span>
-						<span>🔱 78</span>
-					</div>
-				<div class="stars-today">⭐ 117 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/signalapp/libsignal" target="_blank">
-    
-
-
-      
-        signalapp /
-
-      libsignal</a></p>
-				<p>
-      Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4140</span>
-						<span>🔱 489</span>
-					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
 			</div>
 	
@@ -226,32 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10565</span>
-						<span>🔱 1346</span>
+						<span>⭐ 10575</span>
+						<span>🔱 1350</span>
 					</div>
 				<div class="stars-today">⭐ 221 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/1Panel-dev/MaxKB" target="_blank">
+				<p><a href="https://github.com/EFForg/rayhunter" target="_blank">
     
 
 
       
-        1Panel-dev /
+        EFForg /
 
-      MaxKB</a></p>
+      rayhunter</a></p>
 				<p>
-      💬 Ready-to-use & flexible RAG Chatbot, supporting mainstream large language models (LLMs) such as DeepSeek-R1, Llama 3.3, Qwen2, OpenAI and more.
+      Rust tool to detect cell site simulators on an orbic mobile hotspot 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1526</span>
+						<span>🔱 110</span>
+					</div>
+				<div class="stars-today">⭐ 137 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/khoj-ai/khoj" target="_blank">
+    
+
+
+      
+        khoj-ai /
+
+      khoj</a></p>
+				<p>
+      Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15267</span>
-						<span>🔱 2001</span>
+						<span>⭐ 28018</span>
+						<span>🔱 1550</span>
 					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
+				<div class="stars-today">⭐ 583 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6695</span>
+						<span>🔱 1506</span>
+					</div>
+				<div class="stars-today">⭐ 432 stars today</div>
 				</div>
 			</div>
 	
@@ -270,32 +140,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15037</span>
-						<span>🔱 1531</span>
+						<span>⭐ 15050</span>
+						<span>🔱 1533</span>
 					</div>
 				<div class="stars-today">⭐ 295 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/signalapp/Signal-Android" target="_blank">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
     
 
 
       
-        signalapp /
+        punkpeye /
 
-      Signal-Android</a></p>
+      awesome-mcp-servers</a></p>
 				<p>
-      A private messenger for Android.
+      A collection of MCP servers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 26619</span>
-						<span>🔱 6346</span>
+						<span>🔠 </span>
+						<span>⭐ 17564</span>
+						<span>🔱 1143</span>
 					</div>
-				<div class="stars-today">⭐ 147 stars today</div>
+				<div class="stars-today">⭐ 1368 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kern/filepizza" target="_blank">
+    
+
+
+      
+        kern /
+
+      filepizza</a></p>
+				<p>
+      🍕 Peer-to-peer file transfers in your browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7661</span>
+						<span>🔱 483</span>
+					</div>
+				<div class="stars-today">⭐ 177 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      spring-ai-alibaba</a></p>
+				<p>
+      Agentic AI Framework for Java Developers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 1805</span>
+						<span>🔱 360</span>
+					</div>
+				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cline/cline" target="_blank">
+    
+
+
+      
+        cline /
+
+      cline</a></p>
+				<p>
+      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37164</span>
+						<span>🔱 3854</span>
+					</div>
+				<div class="stars-today">⭐ 213 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 71869</span>
+						<span>🔱 18823</span>
+					</div>
+				<div class="stars-today">⭐ 514 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/neovim/neovim" target="_blank">
+    
+
+
+      
+        neovim /
+
+      neovim</a></p>
+				<p>
+      Vim-fork focused on extensibility and usability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vim Script</span>
+						<span>⭐ 87746</span>
+						<span>🔱 5955</span>
+					</div>
+				<div class="stars-today">⭐ 88 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
+    
+
+
+      
+        langgenius /
+
+      dify</a></p>
+				<p>
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 87188</span>
+						<span>🔱 12911</span>
+					</div>
+				<div class="stars-today">⭐ 582 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
+    
+
+
+      
+        shadps4-emu /
+
+      shadPS4</a></p>
+				<p>
+      PlayStation 4 emulator for Windows, Linux and macOS written in C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 19851</span>
+						<span>🔱 1211</span>
+					</div>
+				<div class="stars-today">⭐ 165 stars today</div>
 				</div>
 			</div>
 	
