@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-28T19:01:39+08:00
+date: 2025-03-28T19:02:46+08:00
 categories:
 - monthly
 keywords:
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36508</span>
+						<span>⭐ 36509</span>
 						<span>🔱 1534</span>
 					</div>
 				<div class="stars-today">⭐ 8397 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 87193</span>
-						<span>🔱 12911</span>
+						<span>⭐ 87195</span>
+						<span>🔱 12912</span>
 					</div>
 				<div class="stars-today">⭐ 12448 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71875</span>
+						<span>⭐ 71876</span>
 						<span>🔱 18826</span>
 					</div>
 				<div class="stars-today">⭐ 8437 stars this month</div>
