@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-28
-date: 2025-03-28T09:58:37Z
+date: 2025-03-28T10:02:41Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6672</span>
-						<span>🔱 1499</span>
+						<span>⭐ 6675</span>
+						<span>🔱 1501</span>
 					</div>
 				<div class="stars-today">⭐ 432 stars today</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23182</span>
+						<span>⭐ 23186</span>
 						<span>🔱 2721</span>
 					</div>
 				<div class="stars-today">⭐ 429 stars today</div>
@@ -116,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 94468</span>
+						<span>⭐ 94470</span>
 						<span>🔱 15273</span>
 					</div>
 				<div class="stars-today">⭐ 506 stars today</div>
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10564</span>
+						<span>⭐ 10565</span>
 						<span>🔱 1346</span>
 					</div>
 				<div class="stars-today">⭐ 221 stars today</div>
@@ -270,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15036</span>
+						<span>⭐ 15037</span>
 						<span>🔱 1531</span>
 					</div>
 				<div class="stars-today">⭐ 295 stars today</div>
