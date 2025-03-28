@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-28T18:46:08+08:00
+date: 2025-03-28T10:55:39Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19530</span>
+						<span>⭐ 19531</span>
 						<span>🔱 3556</span>
 					</div>
 				<div class="stars-today">⭐ 10712 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10585</span>
+						<span>⭐ 10584</span>
 						<span>🔱 708</span>
 					</div>
 				<div class="stars-today">⭐ 9067 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 364520</span>
-						<span>🔱 33831</span>
+						<span>⭐ 364525</span>
+						<span>🔱 33832</span>
 					</div>
 				<div class="stars-today">⭐ 22480 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53731</span>
+						<span>⭐ 53732</span>
 						<span>🔱 6368</span>
 					</div>
 				<div class="stars-today">⭐ 5641 stars this month</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 87188</span>
+						<span>⭐ 87192</span>
 						<span>🔱 12911</span>
 					</div>
 				<div class="stars-today">⭐ 12448 stars this month</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71869</span>
-						<span>🔱 18823</span>
+						<span>⭐ 71873</span>
+						<span>🔱 18825</span>
 					</div>
 				<div class="stars-today">⭐ 8437 stars this month</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48553</span>
+						<span>⭐ 48554</span>
 						<span>🔱 7131</span>
 					</div>
 				<div class="stars-today">⭐ 4362 stars this month</div>
