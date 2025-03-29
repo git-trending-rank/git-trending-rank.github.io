@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第13周
-date: 2025-03-29T09:58:38Z
+date: 2025-03-29T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48679</span>
+						<span>⭐ 48686</span>
 						<span>🔱 7149</span>
 					</div>
 				<div class="stars-today">⭐ 3847 stars this week</div>
@@ -38,24 +38,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        ocrmypdf /
+        Shubhamsaboo /
 
-      OCRmyPDF</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25781</span>
-						<span>🔱 1698</span>
+						<span>⭐ 24336</span>
+						<span>🔱 2796</span>
 					</div>
-				<div class="stars-today">⭐ 4168 stars this week</div>
+				<div class="stars-today">⭐ 3399 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2148</span>
-						<span>🔱 491</span>
+						<span>⭐ 2154</span>
+						<span>🔱 492</span>
 					</div>
 				<div class="stars-today">⭐ 1356 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6847</span>
+						<span>⭐ 6861</span>
 						<span>🔱 1531</span>
 					</div>
 				<div class="stars-today">⭐ 1907 stars this week</div>
@@ -104,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        ocrmypdf /
 
-      OpenBB</a></p>
+      OCRmyPDF</a></p>
 				<p>
-      Investment Research for Everyone, Everywhere.
+      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39759</span>
-						<span>🔱 3539</span>
+						<span>⭐ 25795</span>
+						<span>🔱 1698</span>
 					</div>
-				<div class="stars-today">⭐ 1861 stars this week</div>
+				<div class="stars-today">⭐ 4168 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,76 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24559</span>
-						<span>🔱 1038</span>
+						<span>⭐ 24567</span>
+						<span>🔱 1039</span>
 					</div>
 				<div class="stars-today">⭐ 1158 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/subframe7536/maple-font" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        subframe7536 /
 
-      awesome-llm-apps</a></p>
+      maple-font</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24241</span>
-						<span>🔱 2788</span>
+						<span>⭐ 13481</span>
+						<span>🔱 324</span>
 					</div>
-				<div class="stars-today">⭐ 3399 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yetone/avante.nvim" target="_blank">
-    
-
-
-      
-        yetone /
-
-      avante.nvim</a></p>
-				<p>
-      Use your Neovim like using Cursor AI IDE!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 11756</span>
-						<span>🔱 476</span>
-					</div>
-				<div class="stars-today">⭐ 356 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/TensorRT-LLM" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      TensorRT-LLM</a></p>
-				<p>
-      TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 10020</span>
-						<span>🔱 1266</span>
-					</div>
-				<div class="stars-today">⭐ 256 stars this week</div>
+				<div class="stars-today">⭐ 1997 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2215</span>
-						<span>🔱 182</span>
+						<span>⭐ 2227</span>
+						<span>🔱 183</span>
 					</div>
 				<div class="stars-today">⭐ 567 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+				<p><a href="https://github.com/yetone/avante.nvim" target="_blank">
     
 
 
       
-        donnemartin /
+        yetone /
 
-      system-design-primer</a></p>
+      avante.nvim</a></p>
 				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      Use your Neovim like using Cursor AI IDE!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 294852</span>
-						<span>🔱 49021</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 11758</span>
+						<span>🔱 476</span>
 					</div>
-				<div class="stars-today">⭐ 1236 stars this week</div>
+				<div class="stars-today">⭐ 356 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1518</span>
+						<span>⭐ 1527</span>
 						<span>🔱 137</span>
 					</div>
 				<div class="stars-today">⭐ 509 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AI4Finance-Foundation/FinRobot" target="_blank">
+    
+
+
+      
+        AI4Finance-Foundation /
+
+      FinRobot</a></p>
+				<p>
+      FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2928</span>
+						<span>🔱 490</span>
+					</div>
+				<div class="stars-today">⭐ 268 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/TensorRT-LLM" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      TensorRT-LLM</a></p>
+				<p>
+      TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 10021</span>
+						<span>🔱 1267</span>
+					</div>
+				<div class="stars-today">⭐ 256 stars this week</div>
 				</div>
 			</div>
 	

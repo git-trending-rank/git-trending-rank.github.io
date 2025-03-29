@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-29
-date: 2025-03-29T09:58:37Z
+date: 2025-03-29T11:58:36Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24241</span>
-						<span>🔱 2788</span>
+						<span>⭐ 24336</span>
+						<span>🔱 2796</span>
 					</div>
 				<div class="stars-today">⭐ 1340 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers</a></p>
+				<p>
+      A collection of MCP servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 18729</span>
+						<span>🔱 1225</span>
+					</div>
+				<div class="stars-today">⭐ 1345 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 15292</span>
+						<span>🔱 1549</span>
+					</div>
+				<div class="stars-today">⭐ 231 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/perfetto" target="_blank">
+    
+
+
+      
+        google /
+
+      perfetto</a></p>
+				<p>
+      Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 3216</span>
+						<span>🔱 397</span>
+					</div>
+				<div class="stars-today">⭐ 10 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agno-agi/agno" target="_blank">
+    
+
+
+      
+        agno-agi /
+
+      agno</a></p>
+				<p>
+      A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22936</span>
+						<span>🔱 2965</span>
+					</div>
+				<div class="stars-today">⭐ 351 stars today</div>
 				</div>
 			</div>
 	
@@ -52,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10815</span>
-						<span>🔱 1370</span>
+						<span>⭐ 10829</span>
+						<span>🔱 1373</span>
 					</div>
 				<div class="stars-today">⭐ 366 stars today</div>
 				</div>
@@ -74,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1620</span>
-						<span>🔱 117</span>
+						<span>⭐ 1623</span>
+						<span>🔱 118</span>
 					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/khoj-ai/khoj" target="_blank">
-    
-
-
-      
-        khoj-ai /
-
-      khoj</a></p>
-				<p>
-      Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28246</span>
-						<span>🔱 1561</span>
-					</div>
-				<div class="stars-today">⭐ 392 stars today</div>
+				<div class="stars-today">⭐ 93 stars today</div>
 				</div>
 			</div>
 	
@@ -118,186 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6847</span>
+						<span>⭐ 6861</span>
 						<span>🔱 1531</span>
 					</div>
 				<div class="stars-today">⭐ 881 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15278</span>
-						<span>🔱 1549</span>
-					</div>
-				<div class="stars-today">⭐ 639 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 18609</span>
-						<span>🔱 1219</span>
-					</div>
-				<div class="stars-today">⭐ 1345 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kern/filepizza" target="_blank">
-    
-
-
-      
-        kern /
-
-      filepizza</a></p>
-				<p>
-      🍕 Peer-to-peer file transfers in your browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7981</span>
-						<span>🔱 500</span>
-					</div>
-				<div class="stars-today">⭐ 186 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      spring-ai-alibaba</a></p>
-				<p>
-      Agentic AI Framework for Java Developers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 1863</span>
-						<span>🔱 365</span>
-					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
-    
-
-
-      
-        cline /
-
-      cline</a></p>
-				<p>
-      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37462</span>
-						<span>🔱 3888</span>
-					</div>
-				<div class="stars-today">⭐ 244 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 72351</span>
-						<span>🔱 18960</span>
-					</div>
-				<div class="stars-today">⭐ 538 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/neovim/neovim" target="_blank">
-    
-
-
-      
-        neovim /
-
-      neovim</a></p>
-				<p>
-      Vim-fork focused on extensibility and usability
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vim Script</span>
-						<span>⭐ 87883</span>
-						<span>🔱 5963</span>
-					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
-    
-
-
-      
-        langgenius /
-
-      dify</a></p>
-				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 87547</span>
-						<span>🔱 12958</span>
-					</div>
-				<div class="stars-today">⭐ 683 stars today</div>
 				</div>
 			</div>
 	
@@ -316,10 +206,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 20642</span>
-						<span>🔱 1244</span>
+						<span>⭐ 20668</span>
+						<span>🔱 1247</span>
 					</div>
 				<div class="stars-today">⭐ 354 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
+    
+
+
+      
+        jlowin /
+
+      fastmcp</a></p>
+				<p>
+      The fast, Pythonic way to build Model Context Protocol servers 🚀 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2013</span>
+						<span>🔱 103</span>
+					</div>
+				<div class="stars-today">⭐ 39 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/angular/angular" target="_blank">
+    
+
+
+      
+        angular /
+
+      angular</a></p>
+				<p>
+      Deliver web apps with confidence 🚀
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 97322</span>
+						<span>🔱 26036</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
+    
+
+
+      
+        grpc /
+
+      grpc-go</a></p>
+				<p>
+      The Go language implementation of gRPC. HTTP/2 based RPC
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21597</span>
+						<span>🔱 4464</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/open-source-parsers/jsoncpp" target="_blank">
+    
+
+
+      
+        open-source-parsers /
+
+      jsoncpp</a></p>
+				<p>
+      A C++ library for interacting with JSON.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8386</span>
+						<span>🔱 2674</span>
+					</div>
+				<div class="stars-today">⭐ 2 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gogs/gogs" target="_blank">
+    
+
+
+      
+        gogs /
+
+      gogs</a></p>
+				<p>
+      Gogs is a painless self-hosted Git service
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 45817</span>
+						<span>🔱 5006</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	
