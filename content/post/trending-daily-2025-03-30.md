@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-30
-date: 2025-03-30T15:58:55Z
+date: 2025-03-30T17:58:38Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 20177</span>
-						<span>🔱 1341</span>
+						<span>⭐ 20368</span>
+						<span>🔱 1344</span>
 					</div>
 				<div class="stars-today">⭐ 1036 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4406</span>
-						<span>🔱 307</span>
+						<span>⭐ 4479</span>
+						<span>🔱 309</span>
 					</div>
 				<div class="stars-today">⭐ 537 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2725</span>
-						<span>🔱 499</span>
+						<span>⭐ 2736</span>
+						<span>🔱 500</span>
 					</div>
 				<div class="stars-today">⭐ 59 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 76502</span>
-						<span>🔱 39617</span>
+						<span>⭐ 76537</span>
+						<span>🔱 39630</span>
 					</div>
 				<div class="stars-today">⭐ 159 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11607</span>
-						<span>🔱 635</span>
+						<span>⭐ 11704</span>
+						<span>🔱 640</span>
 					</div>
 				<div class="stars-today">⭐ 36 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25542</span>
-						<span>🔱 2892</span>
+						<span>⭐ 25580</span>
+						<span>🔱 2893</span>
 					</div>
 				<div class="stars-today">⭐ 1143 stars today</div>
 				</div>
@@ -157,13 +157,13 @@ keywords:
 
       perfetto</a></p>
 				<p>
-      Performance instrumentation and tracing for Android, Linux and Chrome (read-only mirror of https://android.googlesource.com/platform/external/perfetto/)
+      Performance instrumentation and tracing for Android, Linux and Chrome
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3323</span>
-						<span>🔱 402</span>
+						<span>⭐ 3329</span>
+						<span>🔱 403</span>
 					</div>
 				<div class="stars-today">⭐ 96 stars today</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80</span>
+						<span>⭐ 83</span>
 						<span>🔱 103</span>
 					</div>
 				<div class="stars-today">⭐ 7 stars today</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 9207</span>
+						<span>⭐ 9215</span>
 						<span>🔱 1115</span>
 					</div>
 				<div class="stars-today">⭐ 9 stars today</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 150254</span>
-						<span>🔱 27995</span>
+						<span>⭐ 150268</span>
+						<span>🔱 27998</span>
 					</div>
 				<div class="stars-today">⭐ 90 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vim Script</span>
-						<span>⭐ 87954</span>
-						<span>🔱 5969</span>
+						<span>⭐ 87968</span>
+						<span>🔱 5970</span>
 					</div>
 				<div class="stars-today">⭐ 65 stars today</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 39177</span>
+						<span>⭐ 39206</span>
 						<span>🔱 2320</span>
 					</div>
 				<div class="stars-today">⭐ 96 stars today</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2393</span>
-						<span>🔱 122</span>
+						<span>⭐ 2421</span>
+						<span>🔱 123</span>
 					</div>
 				<div class="stars-today">⭐ 316 stars today</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 51794</span>
-						<span>🔱 13519</span>
+						<span>⭐ 51805</span>
+						<span>🔱 13521</span>
 					</div>
 				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
