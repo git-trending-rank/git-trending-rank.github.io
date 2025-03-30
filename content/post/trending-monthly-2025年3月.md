@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-30T09:58:42Z
+date: 2025-03-30T11:58:57Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19783</span>
-						<span>🔱 3597</span>
+						<span>⭐ 19797</span>
+						<span>🔱 3602</span>
 					</div>
 				<div class="stars-today">⭐ 10882 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20865</span>
-						<span>🔱 759</span>
+						<span>⭐ 20879</span>
+						<span>🔱 760</span>
 					</div>
 				<div class="stars-today">⭐ 9811 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36596</span>
+						<span>⭐ 36601</span>
 						<span>🔱 1537</span>
 					</div>
 				<div class="stars-today">⭐ 8490 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52205</span>
+						<span>⭐ 52209</span>
 						<span>🔱 3417</span>
 					</div>
 				<div class="stars-today">⭐ 2347 stars this month</div>
@@ -104,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/allenai/olmocr" target="_blank">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
     
 
 
       
-        allenai /
+        lastmile-ai /
 
-      olmocr</a></p>
+      mcp-agent</a></p>
 				<p>
-      Toolkit for linearizing PDFs for LLM datasets/training
+      Build effective agents using Model Context Protocol and simple workflow patterns
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10676</span>
-						<span>🔱 714</span>
+						<span>⭐ 2311</span>
+						<span>🔱 194</span>
 					</div>
-				<div class="stars-today">⭐ 9286 stars this month</div>
+				<div class="stars-today">⭐ 1692 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 365334</span>
-						<span>🔱 33891</span>
+						<span>⭐ 365354</span>
+						<span>🔱 33895</span>
 					</div>
 				<div class="stars-today">⭐ 23512 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53840</span>
-						<span>🔱 6383</span>
+						<span>⭐ 53845</span>
+						<span>🔱 6382</span>
 					</div>
 				<div class="stars-today">⭐ 5796 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
-    
-
-
-      
-        langgenius /
-
-      dify</a></p>
-				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 87731</span>
-						<span>🔱 12994</span>
-					</div>
-				<div class="stars-today">⭐ 13449 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 72707</span>
-						<span>🔱 19111</span>
+						<span>⭐ 72737</span>
+						<span>🔱 19125</span>
 					</div>
 				<div class="stars-today">⭐ 9403 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
+    
+
+
+      
+        langgenius /
+
+      dify</a></p>
+				<p>
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 87752</span>
+						<span>🔱 12997</span>
+					</div>
+				<div class="stars-today">⭐ 13449 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11277</span>
+						<span>⭐ 11279</span>
 						<span>🔱 1235</span>
 					</div>
 				<div class="stars-today">⭐ 1903 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 72448</span>
+						<span>🔱 16126</span>
+					</div>
+				<div class="stars-today">⭐ 2960 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 18394</span>
-						<span>🔱 1312</span>
+						<span>⭐ 18400</span>
+						<span>🔱 1313</span>
 					</div>
 				<div class="stars-today">⭐ 7100 stars this month</div>
 				</div>
@@ -272,32 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 21870</span>
-						<span>🔱 2388</span>
+						<span>⭐ 21875</span>
+						<span>🔱 2389</span>
 					</div>
 				<div class="stars-today">⭐ 2556 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
     
 
 
       
-        bregman-arie /
+        patchy631 /
 
-      devops-exercises</a></p>
+      ai-engineering-hub</a></p>
 				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 6899</span>
+						<span>🔱 1192</span>
+					</div>
+				<div class="stars-today">⭐ 3979 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72441</span>
-						<span>🔱 16123</span>
+						<span>⭐ 25449</span>
+						<span>🔱 2883</span>
 					</div>
-				<div class="stars-today">⭐ 2960 stars this month</div>
+				<div class="stars-today">⭐ 6699 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      The Memory layer for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26945</span>
+						<span>🔱 2557</span>
+					</div>
+				<div class="stars-today">⭐ 2076 stars this month</div>
 				</div>
 			</div>
 	

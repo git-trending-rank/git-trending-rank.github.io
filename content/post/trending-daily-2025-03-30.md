@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-03-30
-date: 2025-03-30T09:58:42Z
+date: 2025-03-30T11:58:57Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25389</span>
-						<span>🔱 2877</span>
-					</div>
-				<div class="stars-today">⭐ 1075 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
@@ -52,32 +30,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 19622</span>
-						<span>🔱 1300</span>
+						<span>⭐ 19753</span>
+						<span>🔱 1307</span>
 					</div>
-				<div class="stars-today">⭐ 1087 stars today</div>
+				<div class="stars-today">⭐ 1036 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
     
 
 
       
-        juspay /
+        ahmedkhaleel2004 /
 
-      hyperswitch</a></p>
+      gitdiagram</a></p>
 				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
+      Free, simple, fast interactive diagrams for any GitHub repository
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15415</span>
-						<span>🔱 1553</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4239</span>
+						<span>🔱 288</span>
 					</div>
-				<div class="stars-today">⭐ 240 stars today</div>
+				<div class="stars-today">⭐ 537 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tulir/whatsmeow" target="_blank">
+    
+
+
+      
+        tulir /
+
+      whatsmeow</a></p>
+				<p>
+      Go library for the WhatsApp web multidevice API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2692</span>
+						<span>🔱 497</span>
+					</div>
+				<div class="stars-today">⭐ 59 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
+    
+
+
+      
+        th-ch /
+
+      youtube-music</a></p>
+				<p>
+      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11530</span>
+						<span>🔱 633</span>
+					</div>
+				<div class="stars-today">⭐ 36 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25449</span>
+						<span>🔱 2883</span>
+					</div>
+				<div class="stars-today">⭐ 1143 stars today</div>
 				</div>
 			</div>
 	
@@ -96,120 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3305</span>
-						<span>🔱 401</span>
+						<span>⭐ 3308</span>
+						<span>🔱 402</span>
 					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
+				<div class="stars-today">⭐ 96 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/agno-agi/agno" target="_blank">
+				<p><a href="https://github.com/causify-ai/helpers" target="_blank">
     
 
 
       
-        agno-agi /
+        causify-ai /
 
-      agno</a></p>
+      helpers</a></p>
 				<p>
-      A lightweight library for building Multimodal Agents. Use it to give LLMs superpowers like memory, knowledge, tools and reasoning.
+      Causify development system
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23162</span>
-						<span>🔱 2981</span>
+						<span>⭐ 67</span>
+						<span>🔱 102</span>
 					</div>
-				<div class="stars-today">⭐ 199 stars today</div>
+				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank">
+				<p><a href="https://github.com/SoftFever/OrcaSlicer" target="_blank">
     
 
 
       
-        NirDiamant /
+        SoftFever /
 
-      GenAI_Agents</a></p>
+      OrcaSlicer</a></p>
 				<p>
-      This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10995</span>
-						<span>🔱 1384</span>
-					</div>
-				<div class="stars-today">⭐ 241 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EFForg/rayhunter" target="_blank">
-    
-
-
-      
-        EFForg /
-
-      rayhunter</a></p>
-				<p>
-      Rust tool to detect cell site simulators on an orbic mobile hotspot 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 1673</span>
-						<span>🔱 123</span>
-					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7037</span>
-						<span>🔱 1564</span>
-					</div>
-				<div class="stars-today">⭐ 159 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
-    
-
-
-      
-        shadps4-emu /
-
-      shadPS4</a></p>
-				<p>
-      PlayStation 4 emulator for Windows, Linux and macOS written in C++
+      G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 20919</span>
-						<span>🔱 1263</span>
+						<span>⭐ 9193</span>
+						<span>🔱 1115</span>
 					</div>
-				<div class="stars-today">⭐ 787 stars today</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
+    
+
+
+      
+        AUTOMATIC1111 /
+
+      stable-diffusion-webui</a></p>
+				<p>
+      Stable Diffusion web UI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 150219</span>
+						<span>🔱 27991</span>
+					</div>
+				<div class="stars-today">⭐ 62 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/neovim/neovim" target="_blank">
+    
+
+
+      
+        neovim /
+
+      neovim</a></p>
+				<p>
+      Vim-fork focused on extensibility and usability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vim Script</span>
+						<span>⭐ 87936</span>
+						<span>🔱 5968</span>
+					</div>
+				<div class="stars-today">⭐ 121 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coollabsio/coolify" target="_blank">
+    
+
+
+      
+        coollabsio /
+
+      coolify</a></p>
+				<p>
+      An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 39138</span>
+						<span>🔱 2319</span>
+					</div>
+				<div class="stars-today">⭐ 95 stars today</div>
 				</div>
 			</div>
 	
@@ -228,98 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2296</span>
-						<span>🔱 115</span>
+						<span>⭐ 2327</span>
+						<span>🔱 117</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 316 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/angular/angular" target="_blank">
+				<p><a href="https://github.com/topjohnwu/Magisk" target="_blank">
     
 
 
       
-        angular /
+        topjohnwu /
 
-      angular</a></p>
+      Magisk</a></p>
 				<p>
-      Deliver web apps with confidence 🚀
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 97389</span>
-						<span>🔱 26040</span>
-					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
-    
-
-
-      
-        grpc /
-
-      grpc-go</a></p>
-				<p>
-      The Go language implementation of gRPC. HTTP/2 based RPC
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21660</span>
-						<span>🔱 4467</span>
-					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/open-source-parsers/jsoncpp" target="_blank">
-    
-
-
-      
-        open-source-parsers /
-
-      jsoncpp</a></p>
-				<p>
-      A C++ library for interacting with JSON.
+      The Magic Mask for Android
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 8446</span>
-						<span>🔱 2678</span>
+						<span>⭐ 51772</span>
+						<span>🔱 13518</span>
 					</div>
-				<div class="stars-today">⭐ 3 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gogs/gogs" target="_blank">
-    
-
-
-      
-        gogs /
-
-      gogs</a></p>
-				<p>
-      Gogs is a painless self-hosted Git service
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 46060</span>
-						<span>🔱 5017</span>
-					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	

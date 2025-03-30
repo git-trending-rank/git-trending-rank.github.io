@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第13周
-date: 2025-03-30T09:58:41Z
+date: 2025-03-30T11:58:56Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48765</span>
-						<span>🔱 7160</span>
-					</div>
-				<div class="stars-today">⭐ 3569 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
@@ -52,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25389</span>
-						<span>🔱 2877</span>
+						<span>⭐ 25449</span>
+						<span>🔱 2883</span>
 					</div>
 				<div class="stars-today">⭐ 4308 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        ageerle /
+        hacksider /
 
-      ruoyi-ai</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48772</span>
+						<span>🔱 7162</span>
+					</div>
+				<div class="stars-today">⭐ 3569 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      spring-ai-alibaba</a></p>
+				<p>
+      Agentic AI Framework for Java Developers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2204</span>
-						<span>🔱 500</span>
+						<span>⭐ 1893</span>
+						<span>🔱 370</span>
 					</div>
-				<div class="stars-today">⭐ 1280 stars this week</div>
+				<div class="stars-today">⭐ 687 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7037</span>
-						<span>🔱 1564</span>
+						<span>⭐ 7047</span>
+						<span>🔱 1568</span>
 					</div>
 				<div class="stars-today">⭐ 2034 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
+    
+
+
+      
+        ageerle /
+
+      ruoyi-ai</a></p>
+				<p>
+      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2210</span>
+						<span>🔱 502</span>
+					</div>
+				<div class="stars-today">⭐ 1280 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1214</span>
+						<span>🔱 121</span>
+					</div>
+				<div class="stars-today">⭐ 874 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25932</span>
+						<span>⭐ 25949</span>
 						<span>🔱 1703</span>
 					</div>
 				<div class="stars-today">⭐ 3305 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
-    
-
-
-      
-        RSSNext /
-
-      Folo</a></p>
-				<p>
-      🧡 Follow everything in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24622</span>
-						<span>🔱 1045</span>
-					</div>
-				<div class="stars-today">⭐ 1142 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13608</span>
+						<span>⭐ 13619</span>
 						<span>🔱 331</span>
 					</div>
 				<div class="stars-today">⭐ 2004 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2300</span>
-						<span>🔱 194</span>
-					</div>
-				<div class="stars-today">⭐ 595 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,76 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 11812</span>
-						<span>🔱 480</span>
+						<span>⭐ 11815</span>
+						<span>🔱 481</span>
 					</div>
 				<div class="stars-today">⭐ 363 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
     
 
 
       
-        mark3labs /
+        shadps4-emu /
 
-      mcp-go</a></p>
+      shadPS4</a></p>
 				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1575</span>
-						<span>🔱 144</span>
-					</div>
-				<div class="stars-today">⭐ 550 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AI4Finance-Foundation/FinRobot" target="_blank">
-    
-
-
-      
-        AI4Finance-Foundation /
-
-      FinRobot</a></p>
-				<p>
-      FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2988</span>
-						<span>🔱 495</span>
-					</div>
-				<div class="stars-today">⭐ 262 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/TensorRT-LLM" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      TensorRT-LLM</a></p>
-				<p>
-      TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+      PlayStation 4 emulator for Windows, Linux and macOS written in C++
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 10037</span>
-						<span>🔱 1270</span>
+						<span>⭐ 20928</span>
+						<span>🔱 1263</span>
 					</div>
-				<div class="stars-today">⭐ 272 stars this week</div>
+				<div class="stars-today">⭐ 1629 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24630</span>
+						<span>🔱 1045</span>
+					</div>
+				<div class="stars-today">⭐ 1142 stars this week</div>
 				</div>
 			</div>
 	
