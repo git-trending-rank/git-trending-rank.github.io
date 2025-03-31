@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第14周
-date: 2025-03-31T09:58:35Z
+date: 2025-03-31T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25897</span>
-						<span>🔱 2912</span>
+						<span>⭐ 25939</span>
+						<span>🔱 2915</span>
 					</div>
 				<div class="stars-today">⭐ 5239 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48896</span>
-						<span>🔱 7177</span>
-					</div>
-				<div class="stars-today">⭐ 3313 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1939</span>
-						<span>🔱 379</span>
+						<span>⭐ 1942</span>
+						<span>🔱 380</span>
 					</div>
 				<div class="stars-today">⭐ 700 stars this week</div>
 				</div>
@@ -96,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 8959</span>
-						<span>🔱 2203</span>
+						<span>⭐ 8979</span>
+						<span>🔱 2212</span>
 					</div>
 				<div class="stars-today">⭐ 3266 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/joanrod/star-vector" target="_blank">
+    
+
+
+      
+        joanrod /
+
+      star-vector</a></p>
+				<p>
+      StarVector is a foundation model for SVG generation that transforms vectorization into a code generation task. Using a vision-language modeling architecture, StarVector processes both visual and textual inputs to produce high-quality SVG code with remarkable precision.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2956</span>
+						<span>🔱 160</span>
+					</div>
+				<div class="stars-today">⭐ 1761 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48904</span>
+						<span>🔱 7177</span>
+					</div>
+				<div class="stars-today">⭐ 3313 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7163</span>
-						<span>🔱 1690</span>
+						<span>⭐ 7173</span>
+						<span>🔱 1725</span>
 					</div>
 				<div class="stars-today">⭐ 2164 stars this week</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2305</span>
-						<span>🔱 520</span>
+						<span>⭐ 2313</span>
+						<span>🔱 522</span>
 					</div>
 				<div class="stars-today">⭐ 1256 stars this week</div>
 				</div>
@@ -162,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1273</span>
+						<span>⭐ 1279</span>
 						<span>🔱 124</span>
 					</div>
 				<div class="stars-today">⭐ 830 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
-    
-
-
-      
-        ocrmypdf /
-
-      OCRmyPDF</a></p>
-				<p>
-      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26080</span>
-						<span>🔱 1713</span>
-					</div>
-				<div class="stars-today">⭐ 2668 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/subframe7536/maple-font" target="_blank">
-    
-
-
-      
-        subframe7536 /
-
-      maple-font</a></p>
-				<p>
-      Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13788</span>
-						<span>🔱 338</span>
-					</div>
-				<div class="stars-today">⭐ 1956 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 11869</span>
+						<span>⭐ 11883</span>
 						<span>🔱 483</span>
 					</div>
 				<div class="stars-today">⭐ 380 stars this week</div>
@@ -236,46 +214,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
     
 
 
       
-        shadps4-emu /
+        lastmile-ai /
 
-      shadPS4</a></p>
+      mcp-agent</a></p>
 				<p>
-      PlayStation 4 emulator for Windows, Linux and macOS written in C++
+      Build effective agents using Model Context Protocol and simple workflow patterns
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 20998</span>
-						<span>🔱 1267</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2456</span>
+						<span>🔱 214</span>
 					</div>
-				<div class="stars-today">⭐ 1732 stars this week</div>
+				<div class="stars-today">⭐ 657 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
     
 
 
       
-        RSSNext /
+        punkpeye /
 
-      Folo</a></p>
+      awesome-mcp-servers</a></p>
 				<p>
-      🧡 Follow everything in one place
+      A collection of MCP servers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24701</span>
-						<span>🔱 1044</span>
+						<span>🔠 </span>
+						<span>⭐ 22806</span>
+						<span>🔱 1499</span>
 					</div>
-				<div class="stars-today">⭐ 942 stars this week</div>
+				<div class="stars-today">⭐ 6576 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
+    
+
+
+      
+        ocrmypdf /
+
+      OCRmyPDF</a></p>
+				<p>
+      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26096</span>
+						<span>🔱 1713</span>
+					</div>
+				<div class="stars-today">⭐ 2668 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tulir/whatsmeow" target="_blank">
+    
+
+
+      
+        tulir /
+
+      whatsmeow</a></p>
+				<p>
+      Go library for the WhatsApp web multidevice API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2899</span>
+						<span>🔱 506</span>
+					</div>
+				<div class="stars-today">⭐ 109 stars this week</div>
 				</div>
 			</div>
 	

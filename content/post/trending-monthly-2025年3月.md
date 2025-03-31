@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年3月
-date: 2025-03-31T09:58:35Z
+date: 2025-03-31T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19969</span>
-						<span>🔱 3625</span>
+						<span>⭐ 19996</span>
+						<span>🔱 3626</span>
 					</div>
 				<div class="stars-today">⭐ 11050 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21051</span>
+						<span>⭐ 21065</span>
 						<span>🔱 771</span>
 					</div>
 				<div class="stars-today">⭐ 9962 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 36645</span>
-						<span>🔱 1538</span>
-					</div>
-				<div class="stars-today">⭐ 8536 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52250</span>
-						<span>🔱 3417</span>
+						<span>⭐ 52252</span>
+						<span>🔱 3418</span>
 					</div>
 				<div class="stars-today">⭐ 2389 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+				<p><a href="https://github.com/hedge-dev/UnleashedRecomp" target="_blank">
     
 
 
       
-        lastmile-ai /
+        hedge-dev /
 
-      mcp-agent</a></p>
+      UnleashedRecomp</a></p>
 				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
+      An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2445</span>
-						<span>🔱 214</span>
+						<span>🔠 C++</span>
+						<span>⭐ 3834</span>
+						<span>🔱 165</span>
 					</div>
-				<div class="stars-today">⭐ 1712 stars this month</div>
+				<div class="stars-today">⭐ 3842 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 36648</span>
+						<span>🔱 1538</span>
+					</div>
+				<div class="stars-today">⭐ 8536 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 365718</span>
-						<span>🔱 33935</span>
+						<span>⭐ 365760</span>
+						<span>🔱 33937</span>
 					</div>
 				<div class="stars-today">⭐ 23924 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53910</span>
+						<span>⭐ 53914</span>
 						<span>🔱 6388</span>
 					</div>
 				<div class="stars-today">⭐ 5884 stars this month</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73084</span>
-						<span>🔱 19242</span>
+						<span>⭐ 73125</span>
+						<span>🔱 19254</span>
 					</div>
 				<div class="stars-today">⭐ 9739 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
-    
-
-
-      
-        langgenius /
-
-      dify</a></p>
-				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 88129</span>
-						<span>🔱 13049</span>
-					</div>
-				<div class="stars-today">⭐ 13675 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11355</span>
-						<span>🔱 1241</span>
+						<span>⭐ 11362</span>
+						<span>🔱 1242</span>
 					</div>
 				<div class="stars-today">⭐ 1944 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
-    
-
-
-      
-        bregman-arie /
-
-      devops-exercises</a></p>
-				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 72551</span>
-						<span>🔱 16138</span>
-					</div>
-				<div class="stars-today">⭐ 3138 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 18620</span>
+						<span>⭐ 18636</span>
 						<span>🔱 1341</span>
 					</div>
 				<div class="stars-today">⭐ 7214 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25939</span>
+						<span>🔱 2915</span>
+					</div>
+				<div class="stars-today">⭐ 7481 stars this month</div>
 				</div>
 			</div>
 	
@@ -302,6 +280,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 72557</span>
+						<span>🔱 16141</span>
+					</div>
+				<div class="stars-today">⭐ 3138 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
     
 
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6937</span>
+						<span>⭐ 6943</span>
 						<span>🔱 1197</span>
 					</div>
 				<div class="stars-today">⭐ 3985 stars this month</div>
@@ -324,46 +324,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        langgenius /
 
-      awesome-llm-apps</a></p>
+      dify</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25897</span>
-						<span>🔱 2912</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 88155</span>
+						<span>🔱 13054</span>
 					</div>
-				<div class="stars-today">⭐ 7481 stars this month</div>
+				<div class="stars-today">⭐ 13675 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        mem0ai /
+        hacksider /
 
-      mem0</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      The Memory layer for AI Agents
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27003</span>
-						<span>🔱 2563</span>
+						<span>⭐ 48904</span>
+						<span>🔱 7177</span>
 					</div>
-				<div class="stars-today">⭐ 2106 stars this month</div>
+				<div class="stars-today">⭐ 4732 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 8979</span>
+						<span>🔱 2212</span>
+					</div>
+				<div class="stars-today">⭐ 5375 stars this month</div>
 				</div>
 			</div>
 	
