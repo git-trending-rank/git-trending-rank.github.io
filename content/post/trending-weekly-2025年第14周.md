@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第14周
-date: 2025-03-31T07:59:04Z
+date: 2025-03-31T09:58:35Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25850</span>
-						<span>🔱 2911</span>
+						<span>⭐ 25897</span>
+						<span>🔱 2912</span>
 					</div>
 				<div class="stars-today">⭐ 5239 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48881</span>
-						<span>🔱 7174</span>
+						<span>⭐ 48896</span>
+						<span>🔱 7177</span>
 					</div>
 				<div class="stars-today">⭐ 3313 stars this week</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1932</span>
+						<span>⭐ 1939</span>
 						<span>🔱 379</span>
 					</div>
 				<div class="stars-today">⭐ 700 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 8959</span>
+						<span>🔱 2203</span>
+					</div>
+				<div class="stars-today">⭐ 3266 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7147</span>
-						<span>🔱 1670</span>
+						<span>⭐ 7163</span>
+						<span>🔱 1690</span>
 					</div>
 				<div class="stars-today">⭐ 2164 stars this week</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2294</span>
-						<span>🔱 519</span>
+						<span>⭐ 2305</span>
+						<span>🔱 520</span>
 					</div>
 				<div class="stars-today">⭐ 1256 stars this week</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1265</span>
-						<span>🔱 123</span>
+						<span>⭐ 1273</span>
+						<span>🔱 124</span>
 					</div>
 				<div class="stars-today">⭐ 830 stars this week</div>
 				</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26066</span>
+						<span>⭐ 26080</span>
 						<span>🔱 1713</span>
 					</div>
 				<div class="stars-today">⭐ 2668 stars this week</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13772</span>
-						<span>🔱 337</span>
+						<span>⭐ 13788</span>
+						<span>🔱 338</span>
 					</div>
 				<div class="stars-today">⭐ 1956 stars this week</div>
 				</div>
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 11864</span>
+						<span>⭐ 11869</span>
 						<span>🔱 483</span>
 					</div>
 				<div class="stars-today">⭐ 380 stars this week</div>
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 20992</span>
+						<span>⭐ 20998</span>
 						<span>🔱 1267</span>
 					</div>
 				<div class="stars-today">⭐ 1732 stars this week</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24691</span>
-						<span>🔱 1043</span>
+						<span>⭐ 24701</span>
+						<span>🔱 1044</span>
 					</div>
 				<div class="stars-today">⭐ 942 stars this week</div>
 				</div>
