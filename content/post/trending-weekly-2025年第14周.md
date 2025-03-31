@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第14周
-date: 2025-03-31T15:58:45Z
+date: 2025-03-31T17:58:40Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26024</span>
-						<span>🔱 2922</span>
+						<span>⭐ 26052</span>
+						<span>🔱 2926</span>
 					</div>
 				<div class="stars-today">⭐ 5239 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1944</span>
+						<span>⭐ 1945</span>
 						<span>🔱 380</span>
 					</div>
 				<div class="stars-today">⭐ 700 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9022</span>
-						<span>🔱 2218</span>
-					</div>
-				<div class="stars-today">⭐ 3266 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2978</span>
+						<span>⭐ 2985</span>
 						<span>🔱 160</span>
 					</div>
 				<div class="stars-today">⭐ 1761 stars this week</div>
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48918</span>
+						<span>⭐ 48925</span>
 						<span>🔱 7179</span>
 					</div>
 				<div class="stars-today">⭐ 3313 stars this week</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7189</span>
-						<span>🔱 1767</span>
+						<span>⭐ 7191</span>
+						<span>🔱 1778</span>
 					</div>
 				<div class="stars-today">⭐ 2164 stars this week</div>
 				</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1289</span>
-						<span>🔱 124</span>
+						<span>⭐ 1291</span>
+						<span>🔱 125</span>
 					</div>
 				<div class="stars-today">⭐ 830 stars this week</div>
 				</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 11921</span>
+						<span>⭐ 11937</span>
 						<span>🔱 486</span>
 					</div>
 				<div class="stars-today">⭐ 380 stars this week</div>
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2471</span>
+						<span>⭐ 2479</span>
 						<span>🔱 216</span>
 					</div>
 				<div class="stars-today">⭐ 657 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 23442</span>
-						<span>🔱 1552</span>
-					</div>
-				<div class="stars-today">⭐ 6576 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26113</span>
+						<span>⭐ 26116</span>
 						<span>🔱 1714</span>
 					</div>
 				<div class="stars-today">⭐ 2668 stars this week</div>
@@ -294,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2980</span>
-						<span>🔱 509</span>
+						<span>⭐ 2995</span>
+						<span>🔱 510</span>
 					</div>
 				<div class="stars-today">⭐ 109 stars this week</div>
 				</div>
