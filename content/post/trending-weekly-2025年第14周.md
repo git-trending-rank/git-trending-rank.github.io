@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第14周
-date: 2025-04-01T07:58:41Z
+date: 2025-04-01T09:59:03Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26286</span>
-						<span>🔱 2946</span>
+						<span>⭐ 26334</span>
+						<span>🔱 2950</span>
 					</div>
 				<div class="stars-today">⭐ 5304 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 1978</span>
-						<span>🔱 382</span>
+						<span>⭐ 1990</span>
+						<span>🔱 383</span>
 					</div>
 				<div class="stars-today">⭐ 679 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 9128</span>
+						<span>🔱 2249</span>
+					</div>
+				<div class="stars-today">⭐ 3147 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3045</span>
+						<span>⭐ 3049</span>
 						<span>🔱 161</span>
 					</div>
 				<div class="stars-today">⭐ 1442 stars this week</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49109</span>
-						<span>🔱 7213</span>
+						<span>⭐ 49130</span>
+						<span>🔱 7215</span>
 					</div>
 				<div class="stars-today">⭐ 1779 stars this week</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7264</span>
-						<span>🔱 1826</span>
+						<span>⭐ 7285</span>
+						<span>🔱 1838</span>
 					</div>
 				<div class="stars-today">⭐ 2206 stars this week</div>
 				</div>
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2355</span>
+						<span>⭐ 2360</span>
 						<span>🔱 533</span>
 					</div>
 				<div class="stars-today">⭐ 857 stars this week</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1327</span>
+						<span>⭐ 1333</span>
 						<span>🔱 127</span>
 					</div>
 				<div class="stars-today">⭐ 551 stars this week</div>
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 12040</span>
+						<span>⭐ 12057</span>
 						<span>🔱 492</span>
 					</div>
 				<div class="stars-today">⭐ 401 stars this week</div>
@@ -206,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2559</span>
-						<span>🔱 226</span>
+						<span>⭐ 2577</span>
+						<span>🔱 231</span>
 					</div>
 				<div class="stars-today">⭐ 718 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 25671</span>
-						<span>🔱 1673</span>
-					</div>
-				<div class="stars-today">⭐ 8338 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26183</span>
-						<span>🔱 1715</span>
+						<span>⭐ 26201</span>
+						<span>🔱 1717</span>
 					</div>
 				<div class="stars-today">⭐ 1863 stars this week</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3125</span>
-						<span>🔱 512</span>
+						<span>⭐ 3150</span>
+						<span>🔱 513</span>
 					</div>
 				<div class="stars-today">⭐ 337 stars this week</div>
 				</div>
