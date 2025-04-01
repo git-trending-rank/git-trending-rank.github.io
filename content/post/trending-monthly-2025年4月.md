@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-01T09:59:04Z
+date: 2025-04-01T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20232</span>
-						<span>🔱 3658</span>
+						<span>⭐ 20246</span>
+						<span>🔱 3659</span>
 					</div>
 				<div class="stars-today">⭐ 11243 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21198</span>
-						<span>🔱 775</span>
+						<span>⭐ 21212</span>
+						<span>🔱 776</span>
 					</div>
 				<div class="stars-today">⭐ 10139 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hedge-dev/XenonRecomp" target="_blank">
+    
+
+
+      
+        hedge-dev /
+
+      XenonRecomp</a></p>
+				<p>
+      A tool for recompiling Xbox 360 games to native executables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5859</span>
+						<span>🔱 370</span>
+					</div>
+				<div class="stars-today">⭐ 5888 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 52285</span>
+						<span>⭐ 52287</span>
 						<span>🔱 3421</span>
 					</div>
 				<div class="stars-today">⭐ 2407 stars this month</div>
@@ -82,134 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hedge-dev/UnleashedRecomp" target="_blank">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
     
 
 
       
-        hedge-dev /
+        lastmile-ai /
 
-      UnleashedRecomp</a></p>
+      mcp-agent</a></p>
 				<p>
-      An unofficial PC port of the Xbox 360 version of Sonic Unleashed created through the process of static recompilation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3846</span>
-						<span>🔱 164</span>
-					</div>
-				<div class="stars-today">⭐ 3844 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 36684</span>
-						<span>🔱 1539</span>
-					</div>
-				<div class="stars-today">⭐ 8011 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 366469</span>
-						<span>🔱 34022</span>
-					</div>
-				<div class="stars-today">⭐ 23474 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
-    
-
-
-      
-        geekan /
-
-      MetaGPT</a></p>
-				<p>
-      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+      Build effective agents using Model Context Protocol and simple workflow patterns
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53979</span>
-						<span>🔱 6389</span>
+						<span>⭐ 2594</span>
+						<span>🔱 233</span>
 					</div>
-				<div class="stars-today">⭐ 5745 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 73501</span>
-						<span>🔱 19390</span>
-					</div>
-				<div class="stars-today">⭐ 9928 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      lerobot</a></p>
-				<p>
-      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11428</span>
-						<span>🔱 1250</span>
-					</div>
-				<div class="stars-today">⭐ 2011 stars this month</div>
+				<div class="stars-today">⭐ 1960 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 18841</span>
-						<span>🔱 1361</span>
+						<span>⭐ 18867</span>
+						<span>🔱 1362</span>
 					</div>
 				<div class="stars-today">⭐ 7334 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 73542</span>
+						<span>🔱 19405</span>
+					</div>
+				<div class="stars-today">⭐ 9928 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
+    
+
+
+      
+        geekan /
+
+      MetaGPT</a></p>
+				<p>
+      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53989</span>
+						<span>🔱 6390</span>
+					</div>
+				<div class="stars-today">⭐ 5745 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,98 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26334</span>
-						<span>🔱 2950</span>
+						<span>⭐ 26363</span>
+						<span>🔱 2951</span>
 					</div>
 				<div class="stars-today">⭐ 7880 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CodePhiliaX/Chat2DB" target="_blank">
+				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
     
 
 
       
-        CodePhiliaX /
+        huggingface /
 
-      Chat2DB</a></p>
+      lerobot</a></p>
 				<p>
-      🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 21975</span>
-						<span>🔱 2395</span>
-					</div>
-				<div class="stars-today">⭐ 2614 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
-    
-
-
-      
-        bregman-arie /
-
-      devops-exercises</a></p>
-				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72653</span>
-						<span>🔱 16158</span>
+						<span>⭐ 11433</span>
+						<span>🔱 1250</span>
 					</div>
-				<div class="stars-today">⭐ 3180 stars this month</div>
+				<div class="stars-today">⭐ 2011 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        patchy631 /
+        codecrafters-io /
 
-      ai-engineering-hub</a></p>
+      build-your-own-x</a></p>
 				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+      Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 7003</span>
-						<span>🔱 1201</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 366505</span>
+						<span>🔱 34028</span>
 					</div>
-				<div class="stars-today">⭐ 4027 stars this month</div>
+				<div class="stars-today">⭐ 23474 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
     
 
 
       
-        langgenius /
+        ahmedkhaleel2004 /
 
-      dify</a></p>
+      gitdiagram</a></p>
 				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+      Free, simple, fast interactive diagrams for any GitHub repository
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 88472</span>
-						<span>🔱 13117</span>
+						<span>⭐ 5965</span>
+						<span>🔱 423</span>
 					</div>
-				<div class="stars-today">⭐ 13394 stars this month</div>
+				<div class="stars-today">⭐ 2793 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49130</span>
+						<span>⭐ 49146</span>
 						<span>🔱 7215</span>
 					</div>
 				<div class="stars-today">⭐ 4824 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub</a></p>
+				<p>
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 7005</span>
+						<span>🔱 1202</span>
+					</div>
+				<div class="stars-today">⭐ 4027 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9128</span>
-						<span>🔱 2249</span>
+						<span>⭐ 9142</span>
+						<span>🔱 2252</span>
 					</div>
 				<div class="stars-today">⭐ 5378 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 72659</span>
+						<span>🔱 16160</span>
+					</div>
+				<div class="stars-today">⭐ 3180 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
+    
+
+
+      
+        langgenius /
+
+      dify</a></p>
+				<p>
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 88497</span>
+						<span>🔱 13124</span>
+					</div>
+				<div class="stars-today">⭐ 13394 stars this month</div>
 				</div>
 			</div>
 	
