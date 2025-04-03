@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-03
-date: 2025-04-03T09:58:42Z
+date: 2025-04-03T11:58:59Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/nuejs/nue" target="_blank">
     
 
 
       
-        nvm-sh /
+        nuejs /
 
-      nvm</a></p>
+      nue</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+      Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 83583</span>
-						<span>🔱 8475</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7392</span>
+						<span>🔱 214</span>
 					</div>
-				<div class="stars-today">⭐ 147 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16871</span>
-						<span>🔱 871</span>
-					</div>
-				<div class="stars-today">⭐ 1551 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 29418</span>
-						<span>🔱 1940</span>
-					</div>
-				<div class="stars-today">⭐ 1957 stars today</div>
+				<div class="stars-today">⭐ 126 stars today</div>
 				</div>
 			</div>
 	
@@ -96,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36183</span>
-						<span>🔱 3174</span>
+						<span>⭐ 36211</span>
+						<span>🔱 3178</span>
 					</div>
 				<div class="stars-today">⭐ 449 stars today</div>
 				</div>
@@ -118,10 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4498</span>
-						<span>🔱 509</span>
+						<span>⭐ 4522</span>
+						<span>🔱 512</span>
 					</div>
 				<div class="stars-today">⭐ 313 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release" target="_blank">
+    
+
+
+      
+        SLAM-Handbook-contributors /
+
+      slam-handbook-public-release</a></p>
+				<p>
+      Release repo for our SLAM Handbook
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 2502</span>
+						<span>🔱 119</span>
+					</div>
+				<div class="stars-today">⭐ 148 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 83595</span>
+						<span>🔱 8476</span>
+					</div>
+				<div class="stars-today">⭐ 147 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/arthenica/ffmpeg-kit" target="_blank">
+    
+
+
+      
+        arthenica /
+
+      ffmpeg-kit</a></p>
+				<p>
+      FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 5054</span>
+						<span>🔱 1359</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unionlabs/union" target="_blank">
+    
+
+
+      
+        unionlabs /
+
+      union</a></p>
+				<p>
+      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 51169</span>
+						<span>🔱 2567</span>
+					</div>
+				<div class="stars-today">⭐ 486 stars today</div>
 				</div>
 			</div>
 	
@@ -140,186 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19177</span>
-						<span>🔱 3055</span>
+						<span>⭐ 19200</span>
+						<span>🔱 3057</span>
 					</div>
 				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/higress" target="_blank">
+				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
     
 
 
       
-        alibaba /
+        browser-use /
 
-      higress</a></p>
+      browser-use</a></p>
 				<p>
-      🤖 AI Gateway | AI Native API Gateway
+      Make websites accessible for AI agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 52241</span>
+						<span>🔱 5543</span>
+					</div>
+				<div class="stars-today">⭐ 812 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 85891</span>
+						<span>🔱 12092</span>
+					</div>
+				<div class="stars-today">⭐ 554 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
+    
+
+
+      
+        th-ch /
+
+      youtube-music</a></p>
+				<p>
+      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16897</span>
+						<span>🔱 871</span>
+					</div>
+				<div class="stars-today">⭐ 1551 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fleetdm/fleet" target="_blank">
+    
+
+
+      
+        fleetdm /
+
+      fleet</a></p>
+				<p>
+      Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4518</span>
-						<span>🔱 610</span>
+						<span>⭐ 3744</span>
+						<span>🔱 507</span>
 					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/open-webui/open-webui" target="_blank">
-    
-
-
-      
-        open-webui /
-
-      open-webui</a></p>
-				<p>
-      User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 87339</span>
-						<span>🔱 10770</span>
-					</div>
-				<div class="stars-today">⭐ 288 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/inkonchain/ink-kit" target="_blank">
-    
-
-
-      
-        inkonchain /
-
-      ink-kit</a></p>
-				<p>
-      Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35847</span>
-						<span>🔱 375</span>
-					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/inkonchain/docs" target="_blank">
-    
-
-
-      
-        inkonchain /
-
-      docs</a></p>
-				<p>
-      Ink Documentation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 35979</span>
-						<span>🔱 390</span>
-					</div>
-				<div class="stars-today">⭐ 192 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dubinc/dub" target="_blank">
-    
-
-
-      
-        dubinc /
-
-      dub</a></p>
-				<p>
-      Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20992</span>
-						<span>🔱 2329</span>
-					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      cookbook</a></p>
-				<p>
-      Examples and guides for using the Gemini API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11650</span>
-						<span>🔱 1495</span>
-					</div>
-				<div class="stars-today">⭐ 103 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koreader/koreader" target="_blank">
-    
-
-
-      
-        koreader /
-
-      koreader</a></p>
-				<p>
-      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 19704</span>
-						<span>🔱 1359</span>
-					</div>
-				<div class="stars-today">⭐ 215 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 367495</span>
-						<span>🔱 34146</span>
-					</div>
-				<div class="stars-today">⭐ 498 stars today</div>
+				<div class="stars-today">⭐ 4 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52146</span>
-						<span>🔱 5789</span>
+						<span>⭐ 52168</span>
+						<span>🔱 5791</span>
 					</div>
 				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
+				<p><a href="https://github.com/symfony/symfony" target="_blank">
     
 
 
       
-        chiphuyen /
+        symfony /
 
-      aie-book</a></p>
+      symfony</a></p>
 				<p>
-      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+      The Symfony PHP framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 3344</span>
-						<span>🔱 406</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 30141</span>
+						<span>🔱 9589</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/typst/typst" target="_blank">
+    
+
+
+      
+        typst /
+
+      typst</a></p>
+				<p>
+      A new markup-based typesetting system that is powerful and easy to learn.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 38804</span>
+						<span>🔱 1069</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/infiniflow/ragflow" target="_blank">
+    
+
+
+      
+        infiniflow /
+
+      ragflow</a></p>
+				<p>
+      RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 47701</span>
+						<span>🔱 4443</span>
+					</div>
+				<div class="stars-today">⭐ 175 stars today</div>
 				</div>
 			</div>
 	

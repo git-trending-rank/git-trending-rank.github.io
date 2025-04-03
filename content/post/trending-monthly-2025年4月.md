@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-03T09:58:42Z
+date: 2025-04-03T11:58:59Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20465</span>
-						<span>🔱 3713</span>
-					</div>
-				<div class="stars-today">⭐ 11550 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/glanceapp/glance" target="_blank">
@@ -52,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21487</span>
-						<span>🔱 789</span>
+						<span>⭐ 21493</span>
+						<span>🔱 788</span>
 					</div>
 				<div class="stars-today">⭐ 10391 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        PatrickJS /
+        virattt /
 
-      awesome-cursorrules</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      📄 A curated list of awesome .cursorrules files
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 19706</span>
-						<span>🔱 1429</span>
+						<span>🔠 Python</span>
+						<span>⭐ 20472</span>
+						<span>🔱 3714</span>
 					</div>
-				<div class="stars-today">⭐ 7940 stars this month</div>
+				<div class="stars-today">⭐ 11550 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+    
+
+
+      
+        lastmile-ai /
+
+      mcp-agent</a></p>
+				<p>
+      Build effective agents using Model Context Protocol and simple workflow patterns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2885</span>
+						<span>🔱 265</span>
+					</div>
+				<div class="stars-today">⭐ 2218 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7194</span>
-						<span>🔱 492</span>
+						<span>⭐ 7271</span>
+						<span>🔱 497</span>
 					</div>
 				<div class="stars-today">⭐ 4232 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
+    
+
+
+      
+        PatrickJS /
+
+      awesome-cursorrules</a></p>
+				<p>
+      📄 A curated list of awesome .cursorrules files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 19725</span>
+						<span>🔱 1431</span>
+					</div>
+				<div class="stars-today">⭐ 7940 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74324</span>
-						<span>🔱 19658</span>
+						<span>⭐ 74362</span>
+						<span>🔱 19673</span>
 					</div>
 				<div class="stars-today">⭐ 10406 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
-    
-
-
-      
-        geekan /
-
-      MetaGPT</a></p>
-				<p>
-      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54116</span>
-						<span>🔱 6403</span>
-					</div>
-				<div class="stars-today">⭐ 5714 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26812</span>
-						<span>🔱 3016</span>
-					</div>
-				<div class="stars-today">⭐ 8357 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49433</span>
+						<span>⭐ 49443</span>
 						<span>🔱 7254</span>
 					</div>
 				<div class="stars-today">⭐ 5187 stars this month</div>
@@ -192,24 +170,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
     
 
 
       
-        gorhill /
+        th-ch /
 
-      uBlock</a></p>
+      youtube-music</a></p>
 				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 52366</span>
-						<span>🔱 3424</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16897</span>
+						<span>🔱 871</span>
 					</div>
-				<div class="stars-today">⭐ 2426 stars this month</div>
+				<div class="stars-today">⭐ 5658 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26829</span>
+						<span>🔱 3017</span>
+					</div>
+				<div class="stars-today">⭐ 8357 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 367495</span>
-						<span>🔱 34146</span>
+						<span>⭐ 367528</span>
+						<span>🔱 34147</span>
 					</div>
 				<div class="stars-today">⭐ 23066 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
+				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
     
 
 
       
-        langgenius /
+        geekan /
 
-      dify</a></p>
+      MetaGPT</a></p>
 				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 89108</span>
-						<span>🔱 13247</span>
+						<span>🔠 Python</span>
+						<span>⭐ 54120</span>
+						<span>🔱 6403</span>
 					</div>
-				<div class="stars-today">⭐ 13072 stars this month</div>
+				<div class="stars-today">⭐ 5714 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11563</span>
-						<span>🔱 1265</span>
+						<span>⭐ 11569</span>
+						<span>🔱 1266</span>
 					</div>
 				<div class="stars-today">⭐ 2107 stars this month</div>
 				</div>
@@ -294,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 7080</span>
+						<span>⭐ 7084</span>
 						<span>🔱 1209</span>
 					</div>
 				<div class="stars-today">⭐ 4132 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16871</span>
-						<span>🔱 871</span>
-					</div>
-				<div class="stars-today">⭐ 5658 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52193</span>
-						<span>🔱 5538</span>
+						<span>⭐ 52241</span>
+						<span>🔱 5543</span>
 					</div>
 				<div class="stars-today">⭐ 17093 stars this month</div>
 				</div>
@@ -360,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23722</span>
+						<span>⭐ 23728</span>
 						<span>🔱 3026</span>
 					</div>
 				<div class="stars-today">⭐ 4128 stars this month</div>
@@ -368,24 +346,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39976</span>
+						<span>🔱 3571</span>
+					</div>
+				<div class="stars-today">⭐ 3515 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
     
 
 
       
         microsoft /
 
-      ai-agents-for-beginners</a></p>
+      RD-Agent</a></p>
 				<p>
-      10 Lessons to Get Started Building AI Agents
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9607</span>
-						<span>🔱 2344</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3963</span>
+						<span>🔱 332</span>
 					</div>
-				<div class="stars-today">⭐ 5501 stars this month</div>
+				<div class="stars-today">⭐ 2250 stars this month</div>
 				</div>
 			</div>
 	

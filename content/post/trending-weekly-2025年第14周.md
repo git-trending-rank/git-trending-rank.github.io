@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第14周
-date: 2025-04-03T09:58:42Z
+date: 2025-04-03T11:58:59Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26812</span>
-						<span>🔱 3016</span>
-					</div>
-				<div class="stars-today">⭐ 5057 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
@@ -52,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 29418</span>
-						<span>🔱 1940</span>
+						<span>⭐ 29543</span>
+						<span>🔱 1954</span>
 					</div>
 				<div class="stars-today">⭐ 12641 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        alibaba /
+        Shubhamsaboo /
 
-      spring-ai-alibaba</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Agentic AI Framework for Java Developers
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2098</span>
-						<span>🔱 393</span>
+						<span>🔠 Python</span>
+						<span>⭐ 26829</span>
+						<span>🔱 3017</span>
 					</div>
-				<div class="stars-today">⭐ 535 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9607</span>
-						<span>🔱 2344</span>
-					</div>
-				<div class="stars-today">⭐ 2462 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7600</span>
-						<span>🔱 1994</span>
-					</div>
-				<div class="stars-today">⭐ 1984 stars this week</div>
+				<div class="stars-today">⭐ 5057 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3225</span>
+						<span>⭐ 3229</span>
 						<span>🔱 516</span>
 					</div>
 				<div class="stars-today">⭐ 596 stars this week</div>
@@ -148,46 +82,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/KBLaM" target="_blank">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      spring-ai-alibaba</a></p>
+				<p>
+      Agentic AI Framework for Java Developers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2100</span>
+						<span>🔱 394</span>
+					</div>
+				<div class="stars-today">⭐ 535 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1941</span>
+						<span>🔱 173</span>
+					</div>
+				<div class="stars-today">⭐ 585 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      KBLaM</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Official Implementation of "KBLaM: Knowledge Base augmented Language Model"
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 1064</span>
-						<span>🔱 89</span>
+						<span>⭐ 9650</span>
+						<span>🔱 2349</span>
 					</div>
-				<div class="stars-today">⭐ 406 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yetone/avante.nvim" target="_blank">
-    
-
-
-      
-        yetone /
-
-      avante.nvim</a></p>
-				<p>
-      Use your Neovim like using Cursor AI IDE!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 12171</span>
-						<span>🔱 500</span>
-					</div>
-				<div class="stars-today">⭐ 533 stars this week</div>
+				<div class="stars-today">⭐ 2462 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3541</span>
+						<span>⭐ 3551</span>
 						<span>🔱 171</span>
 					</div>
 				<div class="stars-today">⭐ 1608 stars this week</div>
@@ -214,24 +170,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kubernetes/ingress-nginx" target="_blank">
+				<p><a href="https://github.com/microsoft/KBLaM" target="_blank">
     
 
 
       
-        kubernetes /
+        microsoft /
 
-      ingress-nginx</a></p>
+      KBLaM</a></p>
 				<p>
-      Ingress NGINX Controller for Kubernetes
+      Official Implementation of "KBLaM: Knowledge Base augmented Language Model"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 18343</span>
-						<span>🔱 8353</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 1074</span>
+						<span>🔱 89</span>
 					</div>
-				<div class="stars-today">⭐ 237 stars this week</div>
+				<div class="stars-today">⭐ 406 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 83595</span>
+						<span>🔱 8476</span>
+					</div>
+				<div class="stars-today">⭐ 302 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7633</span>
+						<span>🔱 2004</span>
+					</div>
+				<div class="stars-today">⭐ 1984 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 21213</span>
-						<span>🔱 1278</span>
+						<span>⭐ 21217</span>
+						<span>🔱 1279</span>
 					</div>
 				<div class="stars-today">⭐ 1757 stars this week</div>
 				</div>
@@ -272,76 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28417</span>
-						<span>🔱 1571</span>
+						<span>⭐ 28419</span>
+						<span>🔱 1574</span>
 					</div>
 				<div class="stars-today">⭐ 1324 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+				<p><a href="https://github.com/yetone/avante.nvim" target="_blank">
     
 
 
       
-        mark3labs /
+        yetone /
 
-      mcp-go</a></p>
+      avante.nvim</a></p>
 				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+      Use your Neovim like using Cursor AI IDE!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1930</span>
-						<span>🔱 173</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 12174</span>
+						<span>🔱 501</span>
 					</div>
-				<div class="stars-today">⭐ 585 stars this week</div>
+				<div class="stars-today">⭐ 533 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
     
 
 
       
-        nvm-sh /
+        rustdesk /
 
-      nvm</a></p>
+      rustdesk</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 83583</span>
-						<span>🔱 8475</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 85891</span>
+						<span>🔱 12092</span>
 					</div>
-				<div class="stars-today">⭐ 302 stars this week</div>
+				<div class="stars-today">⭐ 949 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/neovim/neovim" target="_blank">
+				<p><a href="https://github.com/koreader/koreader" target="_blank">
     
 
 
       
-        neovim /
+        koreader /
 
-      neovim</a></p>
+      koreader</a></p>
 				<p>
-      Vim-fork focused on extensibility and usability
+      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Vim Script</span>
-						<span>⭐ 88335</span>
-						<span>🔱 5985</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 19713</span>
+						<span>🔱 1359</span>
 					</div>
-				<div class="stars-today">⭐ 729 stars this week</div>
+				<div class="stars-today">⭐ 577 stars this week</div>
 				</div>
 			</div>
 	
