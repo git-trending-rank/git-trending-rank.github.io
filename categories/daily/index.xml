@@ -6,7 +6,377 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 02 Apr 2025 23:58:49 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 03 Apr 2025 03:44:33 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-04-03</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-04-03/</link>
+        <pubDate>Thu, 03 Apr 2025 03:44:33 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-04-03/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nvm-sh/nvm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nvm-sh /
+
+      nvm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 83482&lt;/span&gt;
+						&lt;span&gt;🔱 8465&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 147 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/th-ch/youtube-music&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        th-ch /
+
+      youtube-music&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 16766&lt;/span&gt;
+						&lt;span&gt;🔱 867&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1551 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/punkpeye/awesome-mcp-servers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of MCP servers.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 28949&lt;/span&gt;
+						&lt;span&gt;🔱 1903&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1957 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/unclecode/crawl4ai&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        unclecode /
+
+      crawl4ai&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 36075&lt;/span&gt;
+						&lt;span&gt;🔱 3161&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 449 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/elie222/inbox-zero&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        elie222 /
+
+      inbox-zero&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open source email app to reach inbox zero fast.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4420&lt;/span&gt;
+						&lt;span&gt;🔱 501&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 313 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gitroomhq/postiz-app&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        gitroomhq /
+
+      postiz-app&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 19111&lt;/span&gt;
+						&lt;span&gt;🔱 3054&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 128 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/alibaba/higress&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        alibaba /
+
+      higress&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🤖 AI Gateway | AI Native API Gateway
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 4442&lt;/span&gt;
+						&lt;span&gt;🔱 607&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 58 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/open-webui/open-webui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        open-webui /
+
+      open-webui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 87208&lt;/span&gt;
+						&lt;span&gt;🔱 10758&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 288 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/inkonchain/ink-kit&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        inkonchain /
+
+      ink-kit&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Onchain-focused SDK with ready-to-use templates, themes, and magical animated components ✨
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 35799&lt;/span&gt;
+						&lt;span&gt;🔱 374&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 200 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/inkonchain/docs&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        inkonchain /
+
+      docs&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Ink Documentation
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 MDX&lt;/span&gt;
+						&lt;span&gt;⭐ 35940&lt;/span&gt;
+						&lt;span&gt;🔱 388&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 192 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dubinc/dub&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dubinc /
+
+      dub&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 20953&lt;/span&gt;
+						&lt;span&gt;🔱 2326&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 105 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google-gemini/cookbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google-gemini /
+
+      cookbook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Examples and guides for using the Gemini API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 11562&lt;/span&gt;
+						&lt;span&gt;🔱 1489&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 103 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/koreader/koreader&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        koreader /
+
+      koreader&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Lua&lt;/span&gt;
+						&lt;span&gt;⭐ 19662&lt;/span&gt;
+						&lt;span&gt;🔱 1359&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 215 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/codecrafters-io/build-your-own-x&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Master programming by recreating your favorite technologies from scratch.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Markdown&lt;/span&gt;
+						&lt;span&gt;⭐ 367338&lt;/span&gt;
+						&lt;span&gt;🔱 34132&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 498 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/All-Hands-AI/OpenHands&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        All-Hands-AI /
+
+      OpenHands&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🙌 OpenHands: Code Less, Make More
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 52071&lt;/span&gt;
+						&lt;span&gt;🔱 5782&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 128 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/chiphuyen/aie-book&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        chiphuyen /
+
+      aie-book&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 3270&lt;/span&gt;
+						&lt;span&gt;🔱 398&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 36 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-04-02</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-04-02/</link>
         <pubDate>Wed, 02 Apr 2025 23:58:49 +0000</pubDate>
