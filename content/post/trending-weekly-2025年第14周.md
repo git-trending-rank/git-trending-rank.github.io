@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第14周
-date: 2025-04-03T03:44:33Z
+date: 2025-04-03T03:58:59Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26748</span>
+						<span>⭐ 26753</span>
 						<span>🔱 3008</span>
 					</div>
 				<div class="stars-today">⭐ 5057 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 28949</span>
-						<span>🔱 1903</span>
+						<span>⭐ 28965</span>
+						<span>🔱 1905</span>
 					</div>
 				<div class="stars-today">⭐ 12641 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9438</span>
+						<span>⭐ 9441</span>
 						<span>🔱 2316</span>
 					</div>
 				<div class="stars-today">⭐ 2462 stars this week</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7481</span>
+						<span>⭐ 7482</span>
 						<span>🔱 1952</span>
 					</div>
 				<div class="stars-today">⭐ 1984 stars this week</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 83482</span>
+						<span>⭐ 83486</span>
 						<span>🔱 8465</span>
 					</div>
 				<div class="stars-today">⭐ 302 stars this week</div>
