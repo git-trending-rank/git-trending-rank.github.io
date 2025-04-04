@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-04
-date: 2025-04-04T09:59:05Z
+date: 2025-04-04T11:58:46Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nuejs/nue" target="_blank">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
     
 
 
       
-        nuejs /
+        nvm-sh /
 
-      nue</a></p>
+      nvm</a></p>
 				<p>
-      Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7825</span>
-						<span>🔱 229</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 83662</span>
+						<span>🔱 8489</span>
 					</div>
-				<div class="stars-today">⭐ 124 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
-    
-
-
-      
-        unclecode /
-
-      crawl4ai</a></p>
-				<p>
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36804</span>
-						<span>🔱 3241</span>
-					</div>
-				<div class="stars-today">⭐ 368 stars today</div>
+				<div class="stars-today">⭐ 76 stars today</div>
 				</div>
 			</div>
 	
@@ -74,186 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4774</span>
+						<span>⭐ 4796</span>
 						<span>🔱 527</span>
 					</div>
-				<div class="stars-today">⭐ 413 stars today</div>
+				<div class="stars-today">⭐ 282 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release" target="_blank">
+				<p><a href="https://github.com/alibaba/higress" target="_blank">
     
 
 
       
-        SLAM-Handbook-contributors /
+        alibaba /
 
-      slam-handbook-public-release</a></p>
+      higress</a></p>
 				<p>
-      Release repo for our SLAM Handbook
+      🤖 AI Gateway | AI Native API Gateway
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 2637</span>
-						<span>🔱 126</span>
+						<span>🔠 Go</span>
+						<span>⭐ 4560</span>
+						<span>🔱 611</span>
 					</div>
-				<div class="stars-today">⭐ 177 stars today</div>
+				<div class="stars-today">⭐ 211 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
-    
-
-
-      
-        nvm-sh /
-
-      nvm</a></p>
-				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 83654</span>
-						<span>🔱 8488</span>
-					</div>
-				<div class="stars-today">⭐ 405 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/arthenica/ffmpeg-kit" target="_blank">
-    
-
-
-      
-        arthenica /
-
-      ffmpeg-kit</a></p>
-				<p>
-      FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 5173</span>
-						<span>🔱 1386</span>
-					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unionlabs/union" target="_blank">
-    
-
-
-      
-        unionlabs /
-
-      union</a></p>
-				<p>
-      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 51532</span>
-						<span>🔱 2587</span>
-					</div>
-				<div class="stars-today">⭐ 485 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
-    
-
-
-      
-        gitroomhq /
-
-      postiz-app</a></p>
-				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19376</span>
-						<span>🔱 3076</span>
-					</div>
-				<div class="stars-today">⭐ 266 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
+				<p><a href="https://github.com/browser-use/web-ui" target="_blank">
     
 
 
       
         browser-use /
 
-      browser-use</a></p>
+      web-ui</a></p>
 				<p>
-      Make websites accessible for AI agents
+      Run AI Agent in your browser.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52705</span>
-						<span>🔱 5579</span>
+						<span>⭐ 10771</span>
+						<span>🔱 1776</span>
 					</div>
-				<div class="stars-today">⭐ 803 stars today</div>
+				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
     
 
 
       
-        rustdesk /
+        chiphuyen /
 
-      rustdesk</a></p>
+      aie-book</a></p>
 				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 86081</span>
-						<span>🔱 12104</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 3431</span>
+						<span>🔱 419</span>
 					</div>
-				<div class="stars-today">⭐ 232 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17107</span>
-						<span>🔱 887</span>
-					</div>
-				<div class="stars-today">⭐ 435 stars today</div>
+				<div class="stars-today">⭐ 202 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3994</span>
-						<span>🔱 513</span>
+						<span>⭐ 4010</span>
+						<span>🔱 514</span>
 					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
-    
-
-
-      
-        All-Hands-AI /
-
-      OpenHands</a></p>
-				<p>
-      🙌 OpenHands: Code Less, Make More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52336</span>
-						<span>🔱 5805</span>
-					</div>
-				<div class="stars-today">⭐ 301 stars today</div>
+				<div class="stars-today">⭐ 274 stars today</div>
 				</div>
 			</div>
 	
@@ -316,54 +162,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 30219</span>
+						<span>⭐ 30224</span>
 						<span>🔱 9596</span>
 					</div>
-				<div class="stars-today">⭐ 5 stars today</div>
+				<div class="stars-today">⭐ 92 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/typst/typst" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        typst /
+        LadybirdBrowser /
 
-      typst</a></p>
+      ladybird</a></p>
 				<p>
-      A new markup-based typesetting system that is powerful and easy to learn.
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 38953</span>
-						<span>🔱 1071</span>
+						<span>🔠 C++</span>
+						<span>⭐ 36842</span>
+						<span>🔱 1548</span>
 					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
+				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/infiniflow/ragflow" target="_blank">
+				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
     
 
 
       
-        infiniflow /
+        browser-use /
 
-      ragflow</a></p>
+      browser-use</a></p>
 				<p>
-      RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+      Make websites accessible for AI agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 52756</span>
+						<span>🔱 5586</span>
+					</div>
+				<div class="stars-today">⭐ 527 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
+    
+
+
+      
+        tensorflow /
+
+      tensorflow</a></p>
+				<p>
+      An Open Source Machine Learning Framework for Everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 189013</span>
+						<span>🔱 74627</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      cookbook</a></p>
+				<p>
+      Examples and guides for using the Gemini API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11700</span>
+						<span>🔱 1512</span>
+					</div>
+				<div class="stars-today">⭐ 212 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/liam-hq/liam" target="_blank">
+    
+
+
+      
+        liam-hq /
+
+      liam</a></p>
+				<p>
+      Automatically generates beautiful and easy-to-read ER diagrams from your database.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 47864</span>
-						<span>🔱 4459</span>
+						<span>⭐ 1394</span>
+						<span>🔱 67</span>
 					</div>
-				<div class="stars-today">⭐ 151 stars today</div>
+				<div class="stars-today">⭐ 118 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release" target="_blank">
+    
+
+
+      
+        SLAM-Handbook-contributors /
+
+      slam-handbook-public-release</a></p>
+				<p>
+      Release repo for our SLAM Handbook
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 2645</span>
+						<span>🔱 127</span>
+					</div>
+				<div class="stars-today">⭐ 150 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+    
+
+
+      
+        unclecode /
+
+      crawl4ai</a></p>
+				<p>
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36848</span>
+						<span>🔱 3247</span>
+					</div>
+				<div class="stars-today">⭐ 648 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/backstage/backstage" target="_blank">
+    
+
+
+      
+        backstage /
+
+      backstage</a></p>
+				<p>
+      Backstage is an open framework for building developer portals
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29771</span>
+						<span>🔱 6407</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	

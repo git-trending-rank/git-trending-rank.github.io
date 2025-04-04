@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-04T09:59:05Z
+date: 2025-04-04T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21569</span>
+						<span>⭐ 21577</span>
 						<span>🔱 790</span>
 					</div>
 				<div class="stars-today">⭐ 10518 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20533</span>
-						<span>🔱 3725</span>
+						<span>⭐ 20541</span>
+						<span>🔱 3728</span>
 					</div>
 				<div class="stars-today">⭐ 11613 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2964</span>
-						<span>🔱 273</span>
-					</div>
-				<div class="stars-today">⭐ 2231 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7717</span>
-						<span>🔱 513</span>
+						<span>⭐ 7749</span>
+						<span>🔱 516</span>
 					</div>
 				<div class="stars-today">⭐ 4705 stars this month</div>
 				</div>
@@ -118,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 19954</span>
-						<span>🔱 1461</span>
+						<span>⭐ 19974</span>
+						<span>🔱 1464</span>
 					</div>
 				<div class="stars-today">⭐ 8197 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 74620</span>
-						<span>🔱 19780</span>
-					</div>
-				<div class="stars-today">⭐ 10573 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49497</span>
-						<span>🔱 7263</span>
-					</div>
-				<div class="stars-today">⭐ 5254 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17107</span>
-						<span>🔱 887</span>
+						<span>⭐ 17124</span>
+						<span>🔱 888</span>
 					</div>
 				<div class="stars-today">⭐ 5998 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 49501</span>
+						<span>🔱 7265</span>
+					</div>
+				<div class="stars-today">⭐ 5254 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 74647</span>
+						<span>🔱 19790</span>
+					</div>
+				<div class="stars-today">⭐ 10573 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26973</span>
-						<span>🔱 3037</span>
+						<span>⭐ 26985</span>
+						<span>🔱 3039</span>
 					</div>
 				<div class="stars-today">⭐ 8415 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
     
 
 
       
-        codecrafters-io /
+        browser-use /
 
-      build-your-own-x</a></p>
+      browser-use</a></p>
 				<p>
-      Master programming by recreating your favorite technologies from scratch.
+      Make websites accessible for AI agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 367896</span>
-						<span>🔱 34182</span>
+						<span>🔠 Python</span>
+						<span>⭐ 52756</span>
+						<span>🔱 5586</span>
 					</div>
-				<div class="stars-today">⭐ 22431 stars this month</div>
+				<div class="stars-today">⭐ 17612 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54161</span>
-						<span>🔱 6414</span>
+						<span>⭐ 54163</span>
+						<span>🔱 6415</span>
 					</div>
 				<div class="stars-today">⭐ 5612 stars this month</div>
 				</div>
@@ -272,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11663</span>
-						<span>🔱 1277</span>
+						<span>⭐ 11672</span>
+						<span>🔱 1278</span>
 					</div>
 				<div class="stars-today">⭐ 2153 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 7118</span>
-						<span>🔱 1211</span>
-					</div>
-				<div class="stars-today">⭐ 4164 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      browser-use</a></p>
-				<p>
-      Make websites accessible for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52705</span>
-						<span>🔱 5579</span>
-					</div>
-				<div class="stars-today">⭐ 17612 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23808</span>
-						<span>🔱 3032</span>
+						<span>⭐ 23814</span>
+						<span>🔱 3034</span>
 					</div>
 				<div class="stars-today">⭐ 4187 stars this month</div>
 				</div>
@@ -360,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40027</span>
+						<span>⭐ 40032</span>
 						<span>🔱 3574</span>
 					</div>
 				<div class="stars-today">⭐ 3530 stars this month</div>
@@ -368,24 +302,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73018</span>
+						<span>🔱 16228</span>
+					</div>
+				<div class="stars-today">⭐ 3444 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      RD-Agent</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3983</span>
-						<span>🔱 333</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 9996</span>
+						<span>🔱 2397</span>
 					</div>
-				<div class="stars-today">⭐ 2252 stars this month</div>
+				<div class="stars-today">⭐ 5931 stars this month</div>
 				</div>
 			</div>
 	
