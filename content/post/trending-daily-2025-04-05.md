@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-05
-date: 2025-04-05T09:58:42Z
+date: 2025-04-05T11:58:36Z
 categories:
 - daily
 keywords:
@@ -16,244 +16,68 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/nuejs/nue" target="_blank">
     
 
 
       
-        nvm-sh /
+        nuejs /
 
-      nvm</a></p>
+      nue</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+      Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 83719</span>
-						<span>🔱 8502</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7906</span>
+						<span>🔱 233</span>
 					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
+				<div class="stars-today">⭐ 392 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
     
 
 
       
-        elie222 /
+        freeCodeCamp /
 
-      inbox-zero</a></p>
+      freeCodeCamp</a></p>
 				<p>
-      Open source email app to reach inbox zero fast.
+      freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5016</span>
-						<span>🔱 536</span>
-					</div>
-				<div class="stars-today">⭐ 277 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/higress" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      higress</a></p>
-				<p>
-      🤖 AI Gateway | AI Native API Gateway
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4690</span>
-						<span>🔱 616</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/web-ui" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      web-ui</a></p>
-				<p>
-      Run AI Agent in your browser.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11040</span>
-						<span>🔱 1796</span>
+						<span>⭐ 415230</span>
+						<span>🔱 39646</span>
 					</div>
 				<div class="stars-today">⭐ 116 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
+				<p><a href="https://github.com/Azure/azure-sdk-for-net" target="_blank">
     
 
 
       
-        chiphuyen /
+        Azure /
 
-      aie-book</a></p>
+      azure-sdk-for-net</a></p>
 				<p>
-      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+      This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 3562</span>
-						<span>🔱 429</span>
+						<span>🔠 C#</span>
+						<span>⭐ 5692</span>
+						<span>🔱 4910</span>
 					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fleetdm/fleet" target="_blank">
-    
-
-
-      
-        fleetdm /
-
-      fleet</a></p>
-				<p>
-      Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4196</span>
-						<span>🔱 521</span>
-					</div>
-				<div class="stars-today">⭐ 265 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/symfony/symfony" target="_blank">
-    
-
-
-      
-        symfony /
-
-      symfony</a></p>
-				<p>
-      The Symfony PHP framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 30252</span>
-						<span>🔱 9599</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 36949</span>
-						<span>🔱 1551</span>
-					</div>
-				<div class="stars-today">⭐ 81 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      browser-use</a></p>
-				<p>
-      Make websites accessible for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53119</span>
-						<span>🔱 5621</span>
-					</div>
-				<div class="stars-today">⭐ 533 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
-    
-
-
-      
-        tensorflow /
-
-      tensorflow</a></p>
-				<p>
-      An Open Source Machine Learning Framework for Everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 189107</span>
-						<span>🔱 74627</span>
-					</div>
-				<div class="stars-today">⭐ 42 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      cookbook</a></p>
-				<p>
-      Examples and guides for using the Gemini API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11853</span>
-						<span>🔱 1528</span>
-					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
+				<div class="stars-today">⭐ 3 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +96,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1835</span>
-						<span>🔱 78</span>
+						<span>⭐ 1870</span>
+						<span>🔱 79</span>
 					</div>
 				<div class="stars-today">⭐ 120 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release" target="_blank">
+				<p><a href="https://github.com/tenstorrent/tt-metal" target="_blank">
     
 
 
       
-        SLAM-Handbook-contributors /
+        tenstorrent /
 
-      slam-handbook-public-release</a></p>
+      tt-metal</a></p>
 				<p>
-      Release repo for our SLAM Handbook
+      🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 2721</span>
-						<span>🔱 133</span>
+						<span>🔠 C++</span>
+						<span>⭐ 719</span>
+						<span>🔱 130</span>
 					</div>
-				<div class="stars-today">⭐ 139 stars today</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kubernetes-sigs/headlamp" target="_blank">
+    
+
+
+      
+        kubernetes-sigs /
+
+      headlamp</a></p>
+				<p>
+      A Kubernetes web UI that is fully-featured, user-friendly and extensible
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3186</span>
+						<span>🔱 260</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/googletest" target="_blank">
+    
+
+
+      
+        google /
+
+      googletest</a></p>
+				<p>
+      GoogleTest - Google Testing and Mocking Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 35746</span>
+						<span>🔱 10326</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+    
+
+
+      
+        funstory-ai /
+
+      BabelDOC</a></p>
+				<p>
+      Yet Another Document Translator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 632</span>
+						<span>🔱 37</span>
+					</div>
+				<div class="stars-today">⭐ 81 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+    
+
+
+      
+        twbs /
+
+      bootstrap</a></p>
+				<p>
+      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 171897</span>
+						<span>🔱 79062</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fleetdm/fleet" target="_blank">
+    
+
+
+      
+        fleetdm /
+
+      fleet</a></p>
+				<p>
+      Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4219</span>
+						<span>🔱 522</span>
+					</div>
+				<div class="stars-today">⭐ 265 stars today</div>
 				</div>
 			</div>
 	
@@ -316,32 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37180</span>
-						<span>🔱 3276</span>
+						<span>⭐ 37218</span>
+						<span>🔱 3278</span>
 					</div>
 				<div class="stars-today">⭐ 652 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/backstage/backstage" target="_blank">
+				<p><a href="https://github.com/maotoumao/MusicFree" target="_blank">
     
 
 
       
-        backstage /
+        maotoumao /
 
-      backstage</a></p>
+      MusicFree</a></p>
 				<p>
-      Backstage is an open framework for building developer portals
+      插件化、定制化、无广告的免费音乐播放器
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29969</span>
-						<span>🔱 6417</span>
+						<span>⭐ 12201</span>
+						<span>🔱 825</span>
 					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
+				<div class="stars-today">⭐ 246 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hashicorp/terraform-provider-aws" target="_blank">
+    
+
+
+      
+        hashicorp /
+
+      terraform-provider-aws</a></p>
+				<p>
+      The AWS Provider enables Terraform to manage AWS resources.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 10194</span>
+						<span>🔱 9421</span>
+					</div>
+				<div class="stars-today">⭐ 3 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
+    
+
+
+      
+        tensorflow /
+
+      tensorflow</a></p>
+				<p>
+      An Open Source Machine Learning Framework for Everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 189118</span>
+						<span>🔱 74626</span>
+					</div>
+				<div class="stars-today">⭐ 42 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
+    
+
+
+      
+        chiphuyen /
+
+      aie-book</a></p>
+				<p>
+      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 3567</span>
+						<span>🔱 430</span>
+					</div>
+				<div class="stars-today">⭐ 78 stars today</div>
 				</div>
 			</div>
 	

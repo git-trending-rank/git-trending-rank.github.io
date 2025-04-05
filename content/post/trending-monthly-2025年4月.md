@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-05T09:58:42Z
+date: 2025-04-05T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21657</span>
+						<span>⭐ 21664</span>
 						<span>🔱 796</span>
 					</div>
 				<div class="stars-today">⭐ 10546 stars this month</div>
@@ -38,24 +38,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/camel-ai/camel" target="_blank">
     
 
 
       
-        virattt /
+        camel-ai /
 
-      ai-hedge-fund</a></p>
+      camel</a></p>
 				<p>
-      An AI Hedge Fund Team
+      🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20604</span>
-						<span>🔱 3737</span>
+						<span>⭐ 11469</span>
+						<span>🔱 1211</span>
 					</div>
-				<div class="stars-today">⭐ 11460 stars this month</div>
+				<div class="stars-today">⭐ 4987 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8003</span>
-						<span>🔱 534</span>
+						<span>⭐ 8022</span>
+						<span>🔱 535</span>
 					</div>
 				<div class="stars-today">⭐ 5187 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Multiplayer at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11141</span>
+						<span>🔱 379</span>
+					</div>
+				<div class="stars-today">⭐ 6633 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 20139</span>
-						<span>🔱 1484</span>
+						<span>⭐ 20157</span>
+						<span>🔱 1486</span>
 					</div>
 				<div class="stars-today">⭐ 8300 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+    
+
+
+      
+        lastmile-ai /
+
+      mcp-agent</a></p>
+				<p>
+      Build effective agents using Model Context Protocol and simple workflow patterns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3008</span>
+						<span>🔱 278</span>
+					</div>
+				<div class="stars-today">⭐ 2299 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17247</span>
-						<span>🔱 894</span>
+						<span>⭐ 17255</span>
+						<span>🔱 895</span>
 					</div>
 				<div class="stars-today">⭐ 6211 stars this month</div>
 				</div>
@@ -140,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49562</span>
-						<span>🔱 7273</span>
+						<span>⭐ 49564</span>
+						<span>🔱 7278</span>
 					</div>
 				<div class="stars-today">⭐ 5291 stars this month</div>
 				</div>
@@ -162,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 74886</span>
-						<span>🔱 19919</span>
+						<span>⭐ 74916</span>
+						<span>🔱 19930</span>
 					</div>
 				<div class="stars-today">⭐ 10657 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20611</span>
+						<span>🔱 3739</span>
+					</div>
+				<div class="stars-today">⭐ 11460 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27120</span>
-						<span>🔱 3055</span>
+						<span>⭐ 27133</span>
+						<span>🔱 3056</span>
 					</div>
 				<div class="stars-today">⭐ 8456 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      browser-use</a></p>
-				<p>
-      Make websites accessible for AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53119</span>
-						<span>🔱 5621</span>
-					</div>
-				<div class="stars-today">⭐ 17931 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/geekan/MetaGPT" target="_blank">
-    
-
-
-      
-        geekan /
-
-      MetaGPT</a></p>
-				<p>
-      🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54190</span>
-						<span>🔱 6421</span>
-					</div>
-				<div class="stars-today">⭐ 5547 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11746</span>
+						<span>⭐ 11749</span>
 						<span>🔱 1289</span>
 					</div>
 				<div class="stars-today">⭐ 2234 stars this month</div>
@@ -258,46 +280,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/agno-agi/agno" target="_blank">
+				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
     
 
 
       
-        agno-agi /
+        browser-use /
 
-      agno</a></p>
+      browser-use</a></p>
 				<p>
-      A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
+      Make websites accessible for AI agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23903</span>
-						<span>🔱 3048</span>
+						<span>⭐ 53142</span>
+						<span>🔱 5625</span>
 					</div>
-				<div class="stars-today">⭐ 4159 stars this month</div>
+				<div class="stars-today">⭐ 17931 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        microsoft /
 
-      OpenBB</a></p>
+      RD-Agent</a></p>
 				<p>
-      Investment Research for Everyone, Everywhere.
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40071</span>
-						<span>🔱 3576</span>
+						<span>⭐ 3991</span>
+						<span>🔱 337</span>
 					</div>
-				<div class="stars-today">⭐ 3563 stars this month</div>
+				<div class="stars-today">⭐ 2272 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73103</span>
+						<span>⭐ 73108</span>
 						<span>🔱 16245</span>
 					</div>
 				<div class="stars-today">⭐ 3506 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10219</span>
-						<span>🔱 2428</span>
-					</div>
-				<div class="stars-today">⭐ 5964 stars this month</div>
 				</div>
 			</div>
 	
