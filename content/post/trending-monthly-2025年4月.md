@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-06T09:58:49Z
+date: 2025-04-06T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21750</span>
+						<span>⭐ 21760</span>
 						<span>🔱 799</span>
 					</div>
 				<div class="stars-today">⭐ 10601 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11515</span>
-						<span>🔱 1217</span>
+						<span>⭐ 11525</span>
+						<span>🔱 1218</span>
 					</div>
 				<div class="stars-today">⭐ 4992 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8213</span>
-						<span>🔱 548</span>
+						<span>⭐ 8240</span>
+						<span>🔱 549</span>
 					</div>
 				<div class="stars-today">⭐ 5421 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Multiplayer at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11295</span>
-						<span>🔱 380</span>
-					</div>
-				<div class="stars-today">⭐ 6317 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 20311</span>
-						<span>🔱 1497</span>
+						<span>⭐ 20331</span>
+						<span>🔱 1499</span>
 					</div>
 				<div class="stars-today">⭐ 8321 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3059</span>
-						<span>🔱 293</span>
-					</div>
-				<div class="stars-today">⭐ 2298 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17345</span>
+						<span>⭐ 17358</span>
 						<span>🔱 901</span>
 					</div>
 				<div class="stars-today">⭐ 6312 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Multiplayer at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11304</span>
+						<span>🔱 380</span>
+					</div>
+				<div class="stars-today">⭐ 6317 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49611</span>
-						<span>🔱 7294</span>
+						<span>⭐ 49617</span>
+						<span>🔱 7296</span>
 					</div>
 				<div class="stars-today">⭐ 5324 stars this month</div>
 				</div>
@@ -206,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 75292</span>
-						<span>🔱 20030</span>
+						<span>⭐ 75340</span>
+						<span>🔱 20047</span>
 					</div>
 				<div class="stars-today">⭐ 10632 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20654</span>
-						<span>🔱 3744</span>
-					</div>
-				<div class="stars-today">⭐ 10660 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27241</span>
-						<span>🔱 3066</span>
+						<span>⭐ 27256</span>
+						<span>🔱 3068</span>
 					</div>
 				<div class="stars-today">⭐ 8513 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DiceDB/dice" target="_blank">
+    
+
+
+      
+        DiceDB /
+
+      dice</a></p>
+				<p>
+      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9822</span>
+						<span>🔱 1307</span>
+					</div>
+				<div class="stars-today">⭐ 2134 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4021</span>
+						<span>🔱 339</span>
+					</div>
+				<div class="stars-today">⭐ 2271 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11822</span>
-						<span>🔱 1296</span>
+						<span>⭐ 11833</span>
+						<span>🔱 1297</span>
 					</div>
 				<div class="stars-today">⭐ 2270 stars this month</div>
 				</div>
@@ -294,54 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53364</span>
-						<span>🔱 5645</span>
+						<span>⭐ 53387</span>
+						<span>🔱 5647</span>
 					</div>
 				<div class="stars-today">⭐ 18048 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+				<p><a href="https://github.com/agno-agi/agno" target="_blank">
     
 
 
       
-        microsoft /
+        agno-agi /
 
-      RD-Agent</a></p>
+      agno</a></p>
 				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which lets AI drive data-driven AI.
+      A lightweight library for building Multimodal Agents. Give LLMs superpowers like memory, knowledge, tools and reasoning.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4018</span>
-						<span>🔱 339</span>
+						<span>⭐ 24001</span>
+						<span>🔱 3060</span>
 					</div>
-				<div class="stars-today">⭐ 2271 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
-    
-
-
-      
-        bregman-arie /
-
-      devops-exercises</a></p>
-				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73161</span>
-						<span>🔱 16259</span>
-					</div>
-				<div class="stars-today">⭐ 3546 stars this month</div>
+				<div class="stars-today">⭐ 4187 stars this month</div>
 				</div>
 			</div>
 	

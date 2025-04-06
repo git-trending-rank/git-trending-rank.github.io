@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第14周
-date: 2025-04-06T09:58:47Z
+date: 2025-04-06T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17345</span>
+						<span>⭐ 17358</span>
 						<span>🔱 901</span>
 					</div>
 				<div class="stars-today">⭐ 5834 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8213</span>
-						<span>🔱 548</span>
+						<span>⭐ 8240</span>
+						<span>🔱 549</span>
 					</div>
 				<div class="stars-today">⭐ 4363 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 31721</span>
-						<span>🔱 2162</span>
+						<span>⭐ 31759</span>
+						<span>🔱 2170</span>
 					</div>
 				<div class="stars-today">⭐ 12589 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tulir/whatsmeow" target="_blank">
-    
-
-
-      
-        tulir /
-
-      whatsmeow</a></p>
-				<p>
-      Go library for the WhatsApp web multidevice API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3306</span>
-						<span>🔱 520</span>
-					</div>
-				<div class="stars-today">⭐ 669 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 83739</span>
-						<span>🔱 8518</span>
+						<span>⭐ 83743</span>
+						<span>🔱 8521</span>
 					</div>
 				<div class="stars-today">⭐ 749 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+    
+
+
+      
+        unclecode /
+
+      crawl4ai</a></p>
+				<p>
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37496</span>
+						<span>🔱 3301</span>
+					</div>
+				<div class="stars-today">⭐ 2912 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tulir/whatsmeow" target="_blank">
+    
+
+
+      
+        tulir /
+
+      whatsmeow</a></p>
+				<p>
+      Go library for the WhatsApp web multidevice API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3309</span>
+						<span>🔱 520</span>
+					</div>
+				<div class="stars-today">⭐ 669 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 12316</span>
+						<span>⭐ 12320</span>
 						<span>🔱 509</span>
 					</div>
 				<div class="stars-today">⭐ 524 stars this week</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3789</span>
+						<span>⭐ 3799</span>
 						<span>🔱 181</span>
 					</div>
 				<div class="stars-today">⭐ 1703 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
-    
-
-
-      
-        unclecode /
-
-      crawl4ai</a></p>
-				<p>
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37473</span>
-						<span>🔱 3300</span>
-					</div>
-				<div class="stars-today">⭐ 2912 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 20311</span>
-						<span>🔱 1497</span>
+						<span>⭐ 20331</span>
+						<span>🔱 1499</span>
 					</div>
 				<div class="stars-today">⭐ 1905 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 11790</span>
+						<span>🔱 747</span>
+					</div>
+				<div class="stars-today">⭐ 403 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,74 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2265</span>
-						<span>🔱 191</span>
+						<span>⭐ 2273</span>
+						<span>🔱 192</span>
 					</div>
 				<div class="stars-today">⭐ 629 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
+				<p><a href="https://github.com/koreader/koreader" target="_blank">
     
 
 
       
-        google-gemini /
+        koreader /
 
-      cookbook</a></p>
+      koreader</a></p>
 				<p>
-      Examples and guides for using the Gemini API
+      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11923</span>
-						<span>🔱 1545</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 19827</span>
+						<span>🔱 1361</span>
 					</div>
-				<div class="stars-today">⭐ 752 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 11789</span>
-						<span>🔱 746</span>
-					</div>
-				<div class="stars-today">⭐ 403 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10419</span>
-						<span>🔱 2461</span>
-					</div>
-				<div class="stars-today">⭐ 1529 stars this week</div>
+				<div class="stars-today">⭐ 758 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 86250</span>
+						<span>⭐ 86258</span>
 						<span>🔱 12116</span>
 					</div>
 				<div class="stars-today">⭐ 1279 stars this week</div>
@@ -322,24 +300,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
     
 
 
       
-        executeautomation /
+        elie222 /
 
-      mcp-playwright</a></p>
+      inbox-zero</a></p>
 				<p>
-      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+      Open source email app to reach inbox zero fast.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2424</span>
-						<span>🔱 185</span>
+						<span>⭐ 5086</span>
+						<span>🔱 548</span>
 					</div>
-				<div class="stars-today">⭐ 462 stars this week</div>
+				<div class="stars-today">⭐ 1331 stars this week</div>
 				</div>
 			</div>
 	
