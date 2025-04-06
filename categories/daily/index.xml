@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 06 Apr 2025 09:58:47 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 06 Apr 2025 11:58:36 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-04-06</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-04-06/</link>
-        <pubDate>Sun, 06 Apr 2025 09:58:47 +0000</pubDate>
+        <pubDate>Sun, 06 Apr 2025 11:58:36 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-04-06/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,156 +19,134 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nuejs/nue&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/meta-llama/llama-models&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        nuejs /
+        meta-llama /
 
-      nue&lt;/a&gt;&lt;/p&gt;
+      llama-models&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Standards first web framework taking HTML, CSS, JS, and WASM to their absolute peak
+      Utilities intended for use with Llama models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6156&lt;/span&gt;
+						&lt;span&gt;🔱 1036&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 153 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/juliangarnier/anime&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        juliangarnier /
+
+      anime&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      JavaScript animation engine
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8168&lt;/span&gt;
-						&lt;span&gt;🔱 242&lt;/span&gt;
+						&lt;span&gt;⭐ 53305&lt;/span&gt;
+						&lt;span&gt;🔱 3779&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 79 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 597 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/freeCodeCamp/freeCodeCamp&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/markitdown&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        freeCodeCamp /
+        microsoft /
 
-      freeCodeCamp&lt;/a&gt;&lt;/p&gt;
+      markitdown&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free.
+      Python tool for converting files and office documents to Markdown.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 415457&lt;/span&gt;
-						&lt;span&gt;🔱 39675&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 42437&lt;/span&gt;
+						&lt;span&gt;🔱 2026&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 136 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 410 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Azure/azure-sdk-for-net&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NVIDIA-Omniverse/PhysX&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Azure /
+        NVIDIA-Omniverse /
 
-      azure-sdk-for-net&lt;/a&gt;&lt;/p&gt;
+      PhysX&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 5726&lt;/span&gt;
-						&lt;span&gt;🔱 4914&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/liam-hq/liam&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        liam-hq /
-
-      liam&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Automatically generates beautiful and easy-to-read ER diagrams from your database.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2236&lt;/span&gt;
-						&lt;span&gt;🔱 91&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 480 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tenstorrent/tt-metal&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        tenstorrent /
-
-      tt-metal&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
+      NVIDIA PhysX SDK
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 782&lt;/span&gt;
-						&lt;span&gt;🔱 135&lt;/span&gt;
+						&lt;span&gt;⭐ 3122&lt;/span&gt;
+						&lt;span&gt;🔱 436&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/kubernetes-sigs/headlamp&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/datawhalechina/llm-cookbook&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        kubernetes-sigs /
+        datawhalechina /
 
-      headlamp&lt;/a&gt;&lt;/p&gt;
+      llm-cookbook&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A Kubernetes web UI that is fully-featured, user-friendly and extensible
+      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 16827&lt;/span&gt;
+						&lt;span&gt;🔱 2096&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 91 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/activepieces/activepieces&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        activepieces /
+
+      activepieces&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3420&lt;/span&gt;
-						&lt;span&gt;🔱 265&lt;/span&gt;
+						&lt;span&gt;⭐ 12573&lt;/span&gt;
+						&lt;span&gt;🔱 1670&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 55 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google/googletest&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        google /
-
-      googletest&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      GoogleTest - Google Testing and Mocking Framework
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 35803&lt;/span&gt;
-						&lt;span&gt;🔱 10327&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 69 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,7 +165,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 794&lt;/span&gt;
+						&lt;span&gt;⭐ 804&lt;/span&gt;
 						&lt;span&gt;🔱 43&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 92 stars today&lt;/div&gt;
@@ -209,10 +187,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 172000&lt;/span&gt;
+						&lt;span&gt;⭐ 172009&lt;/span&gt;
 						&lt;span&gt;🔱 79069&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 27 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/supabase-community/supabase-mcp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        supabase-community /
+
+      supabase-mcp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Connect Supabase to your AI assistants
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 241&lt;/span&gt;
+						&lt;span&gt;🔱 21&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 61 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -231,7 +231,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 4434&lt;/span&gt;
+						&lt;span&gt;⭐ 4446&lt;/span&gt;
 						&lt;span&gt;🔱 529&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 216 stars today&lt;/div&gt;
@@ -239,112 +239,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/unclecode/crawl4ai&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/unionlabs/union&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        unclecode /
+        unionlabs /
 
-      crawl4ai&lt;/a&gt;&lt;/p&gt;
+      union&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN
+      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 37473&lt;/span&gt;
-						&lt;span&gt;🔱 3300&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 52066&lt;/span&gt;
+						&lt;span&gt;🔱 2613&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 381 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 280 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/maotoumao/MusicFree&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/SimplifyJobs/Summer2025-Internships&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        maotoumao /
+        SimplifyJobs /
 
-      MusicFree&lt;/a&gt;&lt;/p&gt;
+      Summer2025-Internships&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      插件化、定制化、无广告的免费音乐播放器
+      Collection of Summer 2025 tech internships!
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12496&lt;/span&gt;
-						&lt;span&gt;🔱 841&lt;/span&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 36756&lt;/span&gt;
+						&lt;span&gt;🔱 2880&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 354 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/hashicorp/terraform-provider-aws&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        hashicorp /
-
-      terraform-provider-aws&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The AWS Provider enables Terraform to manage AWS resources.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 10232&lt;/span&gt;
-						&lt;span&gt;🔱 9422&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tensorflow/tensorflow&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        tensorflow /
-
-      tensorflow&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An Open Source Machine Learning Framework for Everyone
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 189251&lt;/span&gt;
-						&lt;span&gt;🔱 74632&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 117 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/chiphuyen/aie-book&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        chiphuyen /
-
-      aie-book&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 3715&lt;/span&gt;
-						&lt;span&gt;🔱 442&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 137 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
