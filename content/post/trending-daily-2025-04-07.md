@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-07
-date: 2025-04-07T09:58:49Z
+date: 2025-04-07T11:58:45Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
-    
-
-
-      
-        meta-llama /
-
-      llama-models</a></p>
-				<p>
-      Utilities intended for use with Llama models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6491</span>
-						<span>🔱 1067</span>
-					</div>
-				<div class="stars-today">⭐ 206 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
-    
-
-
-      
-        juliangarnier /
-
-      anime</a></p>
-				<p>
-      JavaScript animation engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 54220</span>
-						<span>🔱 3809</span>
-					</div>
-				<div class="stars-today">⭐ 403 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
@@ -74,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43294</span>
-						<span>🔱 2068</span>
+						<span>⭐ 43441</span>
+						<span>🔱 2073</span>
 					</div>
 				<div class="stars-today">⭐ 548 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-Omniverse/PhysX" target="_blank">
+				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
     
 
 
       
-        NVIDIA-Omniverse /
+        meta-llama /
 
-      PhysX</a></p>
+      llama-models</a></p>
 				<p>
-      NVIDIA PhysX SDK
+      Utilities intended for use with Llama models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3382</span>
-						<span>🔱 459</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6501</span>
+						<span>🔱 1068</span>
 					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/llm-cookbook" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      llm-cookbook</a></p>
-				<p>
-      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17260</span>
-						<span>🔱 2138</span>
-					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
-    
-
-
-      
-        activepieces /
-
-      activepieces</a></p>
-				<p>
-      Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12867</span>
-						<span>🔱 1685</span>
-					</div>
-				<div class="stars-today">⭐ 108 stars today</div>
+				<div class="stars-today">⭐ 206 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1024</span>
-						<span>🔱 57</span>
+						<span>⭐ 1034</span>
+						<span>🔱 58</span>
 					</div>
 				<div class="stars-today">⭐ 182 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
-    
-
-
-      
-        twbs /
-
-      bootstrap</a></p>
-				<p>
-      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 172089</span>
-						<span>🔱 79077</span>
-					</div>
-				<div class="stars-today">⭐ 126 stars today</div>
 				</div>
 			</div>
 	
@@ -206,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 469</span>
+						<span>⭐ 486</span>
 						<span>🔱 30</span>
 					</div>
 				<div class="stars-today">⭐ 88 stars today</div>
@@ -214,46 +104,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fleetdm/fleet" target="_blank">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
 
       
-        fleetdm /
+        clockworklabs /
 
-      fleet</a></p>
+      SpacetimeDB</a></p>
 				<p>
-      Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4646</span>
-						<span>🔱 540</span>
-					</div>
-				<div class="stars-today">⭐ 230 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unionlabs/union" target="_blank">
-    
-
-
-      
-        unionlabs /
-
-      union</a></p>
-				<p>
-      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+      Multiplayer at the speed of light
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 52458</span>
-						<span>🔱 2638</span>
+						<span>⭐ 11451</span>
+						<span>🔱 385</span>
 					</div>
-				<div class="stars-today">⭐ 351 stars today</div>
+				<div class="stars-today">⭐ 156 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meta-llama/llama-cookbook" target="_blank">
+    
+
+
+      
+        meta-llama /
+
+      llama-cookbook</a></p>
+				<p>
+      Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16686</span>
+						<span>🔱 2411</span>
+					</div>
+				<div class="stars-today">⭐ 60 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA-Omniverse/PhysX" target="_blank">
+    
+
+
+      
+        NVIDIA-Omniverse /
+
+      PhysX</a></p>
+				<p>
+      NVIDIA PhysX SDK
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 3407</span>
+						<span>🔱 459</span>
+					</div>
+				<div class="stars-today">⭐ 121 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
+    
+
+
+      
+        juliangarnier /
+
+      anime</a></p>
+				<p>
+      JavaScript animation engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 54299</span>
+						<span>🔱 3810</span>
+					</div>
+				<div class="stars-today">⭐ 403 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 36926</span>
-						<span>🔱 2886</span>
+						<span>⭐ 36937</span>
+						<span>🔱 2887</span>
 					</div>
 				<div class="stars-today">⭐ 49 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maotoumao/MusicFree" target="_blank">
+    
+
+
+      
+        maotoumao /
+
+      MusicFree</a></p>
+				<p>
+      插件化、定制化、无广告的免费音乐播放器
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12762</span>
+						<span>🔱 853</span>
+					</div>
+				<div class="stars-today">⭐ 340 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
+    
+
+
+      
+        activepieces /
+
+      activepieces</a></p>
+				<p>
+      Open Source AI Automation ✨ All our 280+ pieces are now available as MCP to use with LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12884</span>
+						<span>🔱 1686</span>
+					</div>
+				<div class="stars-today">⭐ 108 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
+    
+
+
+      
+        jiji262 /
+
+      douyin-downloader</a></p>
+				<p>
+      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2498</span>
+						<span>🔱 395</span>
+					</div>
+				<div class="stars-today">⭐ 62 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 415585</span>
+						<span>🔱 39691</span>
+					</div>
+				<div class="stars-today">⭐ 263 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/liam-hq/liam" target="_blank">
+    
+
+
+      
+        liam-hq /
+
+      liam</a></p>
+				<p>
+      Automatically generates beautiful and easy-to-read ER diagrams from your database.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2334</span>
+						<span>🔱 93</span>
+					</div>
+				<div class="stars-today">⭐ 365 stars today</div>
 				</div>
 			</div>
 	

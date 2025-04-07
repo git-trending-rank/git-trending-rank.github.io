@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第15周
-date: 2025-04-07T09:58:49Z
+date: 2025-04-07T11:58:45Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17472</span>
-						<span>🔱 906</span>
+						<span>⭐ 17482</span>
+						<span>🔱 907</span>
 					</div>
 				<div class="stars-today">⭐ 5871 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8500</span>
+						<span>⭐ 8525</span>
 						<span>🔱 565</span>
 					</div>
 				<div class="stars-today">⭐ 4008 stars this week</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 32516</span>
-						<span>🔱 2219</span>
+						<span>⭐ 32595</span>
+						<span>🔱 2223</span>
 					</div>
 				<div class="stars-today">⭐ 11840 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 83771</span>
+						<span>⭐ 83774</span>
 						<span>🔱 8529</span>
 					</div>
 				<div class="stars-today">⭐ 769 stars this week</div>
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37717</span>
-						<span>🔱 3331</span>
+						<span>⭐ 37738</span>
+						<span>🔱 3334</span>
 					</div>
 				<div class="stars-today">⭐ 2953 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tulir/whatsmeow" target="_blank">
-    
-
-
-      
-        tulir /
-
-      whatsmeow</a></p>
-				<p>
-      Go library for the WhatsApp web multidevice API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3322</span>
-						<span>🔱 521</span>
-					</div>
-				<div class="stars-today">⭐ 595 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yetone/avante.nvim" target="_blank">
-    
-
-
-      
-        yetone /
-
-      avante.nvim</a></p>
-				<p>
-      Use your Neovim like using Cursor AI IDE!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 12374</span>
-						<span>🔱 512</span>
-					</div>
-				<div class="stars-today">⭐ 529 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3911</span>
+						<span>⭐ 3924</span>
 						<span>🔱 188</span>
 					</div>
 				<div class="stars-today">⭐ 1435 stars this week</div>
@@ -206,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 20532</span>
-						<span>🔱 1520</span>
+						<span>⭐ 20544</span>
+						<span>🔱 1521</span>
 					</div>
 				<div class="stars-today">⭐ 1987 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yetone/avante.nvim" target="_blank">
+    
+
+
+      
+        yetone /
+
+      avante.nvim</a></p>
+				<p>
+      Use your Neovim like using Cursor AI IDE!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 12376</span>
+						<span>🔱 512</span>
+					</div>
+				<div class="stars-today">⭐ 529 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 11823</span>
-						<span>🔱 750</span>
+						<span>⭐ 11825</span>
+						<span>🔱 749</span>
 					</div>
 				<div class="stars-today">⭐ 411 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2437</span>
-						<span>🔱 200</span>
-					</div>
-				<div class="stars-today">⭐ 725 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 19873</span>
+						<span>⭐ 19879</span>
 						<span>🔱 1363</span>
 					</div>
 				<div class="stars-today">⭐ 765 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2450</span>
+						<span>🔱 201</span>
+					</div>
+				<div class="stars-today">⭐ 725 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 86347</span>
-						<span>🔱 12118</span>
+						<span>⭐ 86354</span>
+						<span>🔱 12124</span>
 					</div>
 				<div class="stars-today">⭐ 1327 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+				<p><a href="https://github.com/tulir/whatsmeow" target="_blank">
     
 
 
       
-        elie222 /
+        tulir /
 
-      inbox-zero</a></p>
+      whatsmeow</a></p>
 				<p>
-      AI personal assistant for email. Open source app to help you reach inbox zero fast.
+      Go library for the WhatsApp web multidevice API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3326</span>
+						<span>🔱 521</span>
+					</div>
+				<div class="stars-today">⭐ 595 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      cookbook</a></p>
+				<p>
+      Examples and guides for using the Gemini API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11962</span>
+						<span>🔱 1553</span>
+					</div>
+				<div class="stars-today">⭐ 805 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
+    
+
+
+      
+        executeautomation /
+
+      mcp-playwright</a></p>
+				<p>
+      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5183</span>
-						<span>🔱 554</span>
+						<span>⭐ 2483</span>
+						<span>🔱 191</span>
 					</div>
-				<div class="stars-today">⭐ 1376 stars this week</div>
+				<div class="stars-today">⭐ 462 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vinta/awesome-python" target="_blank">
+    
+
+
+      
+        vinta /
+
+      awesome-python</a></p>
+				<p>
+      An opinionated list of awesome Python frameworks, libraries, software and resources.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 239527</span>
+						<span>🔱 25507</span>
+					</div>
+				<div class="stars-today">⭐ 786 stars this week</div>
 				</div>
 			</div>
 	
