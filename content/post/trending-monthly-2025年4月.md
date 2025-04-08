@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-08T09:58:44Z
+date: 2025-04-08T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -16,6 +16,28 @@ keywords:
 
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers</a></p>
+				<p>
+      A collection of MCP servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 33506</span>
+						<span>🔱 2316</span>
+					</div>
+				<div class="stars-today">⭐ 28033 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
     
 
@@ -28,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 5793</span>
-						<span>🔱 996</span>
+						<span>⭐ 5803</span>
+						<span>🔱 998</span>
 					</div>
 				<div class="stars-today">⭐ 5141 stars this month</div>
 				</div>
@@ -50,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21958</span>
+						<span>⭐ 21967</span>
 						<span>🔱 809</span>
 					</div>
 				<div class="stars-today">⭐ 10610 stars this month</div>
@@ -72,54 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8708</span>
+						<span>⭐ 8721</span>
 						<span>🔱 578</span>
 					</div>
 				<div class="stars-today">⭐ 5910 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3197</span>
-						<span>🔱 321</span>
-					</div>
-				<div class="stars-today">⭐ 2338 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/camel-ai/camel" target="_blank">
-    
-
-
-      
-        camel-ai /
-
-      camel</a></p>
-				<p>
-      🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11700</span>
-						<span>🔱 1226</span>
-					</div>
-				<div class="stars-today">⭐ 4675 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17602</span>
+						<span>⭐ 17611</span>
 						<span>🔱 913</span>
 					</div>
 				<div class="stars-today">⭐ 6501 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
-    
-
-
-      
-        PatrickJS /
-
-      awesome-cursorrules</a></p>
-				<p>
-      📄 A curated list of awesome .cursorrules files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 20701</span>
-						<span>🔱 1543</span>
-					</div>
-				<div class="stars-today">⭐ 8516 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49741</span>
-						<span>🔱 7340</span>
+						<span>⭐ 49748</span>
+						<span>🔱 7341</span>
 					</div>
 				<div class="stars-today">⭐ 5401 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27478</span>
-						<span>🔱 3086</span>
-					</div>
-				<div class="stars-today">⭐ 8570 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +160,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76432</span>
-						<span>🔱 20369</span>
+						<span>⭐ 76483</span>
+						<span>🔱 20386</span>
 					</div>
 				<div class="stars-today">⭐ 11245 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        clockworklabs /
+        Shubhamsaboo /
 
-      SpacetimeDB</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Multiplayer at the speed of light
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11765</span>
-						<span>🔱 393</span>
+						<span>🔠 Python</span>
+						<span>⭐ 27490</span>
+						<span>🔱 3088</span>
 					</div>
-				<div class="stars-today">⭐ 5605 stars this month</div>
+				<div class="stars-today">⭐ 8570 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
+    
+
+
+      
+        PatrickJS /
+
+      awesome-cursorrules</a></p>
+				<p>
+      📄 A curated list of awesome .cursorrules files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 20711</span>
+						<span>🔱 1544</span>
+					</div>
+				<div class="stars-today">⭐ 8516 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9868</span>
+						<span>⭐ 9869</span>
 						<span>🔱 1309</span>
 					</div>
 				<div class="stars-today">⭐ 2171 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/camel-ai/camel" target="_blank">
+    
+
+
+      
+        camel-ai /
+
+      camel</a></p>
+				<p>
+      🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11705</span>
+						<span>🔱 1227</span>
+					</div>
+				<div class="stars-today">⭐ 4675 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12003</span>
+						<span>⭐ 12009</span>
 						<span>🔱 1308</span>
 					</div>
 				<div class="stars-today">⭐ 2397 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40150</span>
+						<span>🔱 3584</span>
+					</div>
+				<div class="stars-today">⭐ 3615 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2248</span>
+						<span>⭐ 2252</span>
 						<span>🔱 199</span>
 					</div>
 				<div class="stars-today">⭐ 1703 stars this month</div>
