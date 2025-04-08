@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 08 Apr 2025 09:58:45 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 08 Apr 2025 11:58:37 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第15周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC15%E5%91%A8/</link>
-        <pubDate>Tue, 08 Apr 2025 09:58:45 +0000</pubDate>
+        <pubDate>Tue, 08 Apr 2025 11:58:37 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC15%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,7 +33,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17602&lt;/span&gt;
+						&lt;span&gt;⭐ 17611&lt;/span&gt;
 						&lt;span&gt;🔱 913&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3998 stars this week&lt;/div&gt;
@@ -55,7 +55,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8708&lt;/span&gt;
+						&lt;span&gt;⭐ 8721&lt;/span&gt;
 						&lt;span&gt;🔱 578&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3358 stars this week&lt;/div&gt;
@@ -77,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 33422&lt;/span&gt;
-						&lt;span&gt;🔱 2308&lt;/span&gt;
+						&lt;span&gt;⭐ 33506&lt;/span&gt;
+						&lt;span&gt;🔱 2316&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9776 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,140 +99,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 83803&lt;/span&gt;
-						&lt;span&gt;🔱 8563&lt;/span&gt;
+						&lt;span&gt;⭐ 83807&lt;/span&gt;
+						&lt;span&gt;🔱 8566&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 760 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/unclecode/crawl4ai&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        unclecode /
-
-      crawl4ai&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 37991&lt;/span&gt;
-						&lt;span&gt;🔱 3367&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2885 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jlowin/fastmcp&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        jlowin /
-
-      fastmcp&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The fast, Pythonic way to build Model Context Protocol servers 🚀 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4024&lt;/span&gt;
-						&lt;span&gt;🔱 191&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1183 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/PatrickJS/awesome-cursorrules&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        PatrickJS /
-
-      awesome-cursorrules&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📄 A curated list of awesome .cursorrules files
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 20701&lt;/span&gt;
-						&lt;span&gt;🔱 1543&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1939 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/yetone/avante.nvim&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        yetone /
-
-      avante.nvim&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Use your Neovim like using Cursor AI IDE!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Lua&lt;/span&gt;
-						&lt;span&gt;⭐ 12426&lt;/span&gt;
-						&lt;span&gt;🔱 514&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 503 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
-						&lt;span&gt;⭐ 11853&lt;/span&gt;
-						&lt;span&gt;🔱 754&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 424 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/koreader/koreader&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        koreader /
-
-      koreader&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Lua&lt;/span&gt;
-						&lt;span&gt;⭐ 19985&lt;/span&gt;
-						&lt;span&gt;🔱 1369&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 813 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -251,7 +121,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 2579&lt;/span&gt;
+						&lt;span&gt;⭐ 2593&lt;/span&gt;
 						&lt;span&gt;🔱 211&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 815 stars this week&lt;/div&gt;
@@ -259,46 +129,44 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rustdesk/rustdesk&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        rustdesk /
+        Flowseal /
 
-      rustdesk&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    &lt;/p&gt;
+      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 86442&lt;/span&gt;
-						&lt;span&gt;🔱 12135&lt;/span&gt;
+						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
+						&lt;span&gt;⭐ 11856&lt;/span&gt;
+						&lt;span&gt;🔱 755&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1372 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 424 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tulir/whatsmeow&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/markitdown&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        tulir /
+        microsoft /
 
-      whatsmeow&lt;/a&gt;&lt;/p&gt;
+      markitdown&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Go library for the WhatsApp web multidevice API
+      Python tool for converting files and office documents to Markdown.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 3362&lt;/span&gt;
-						&lt;span&gt;🔱 526&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 45378&lt;/span&gt;
+						&lt;span&gt;🔱 2146&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 394 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2175 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -317,32 +185,120 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 12049&lt;/span&gt;
-						&lt;span&gt;🔱 1574&lt;/span&gt;
+						&lt;span&gt;⭐ 12054&lt;/span&gt;
+						&lt;span&gt;🔱 1575&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 804 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/executeautomation/mcp-playwright&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/yetone/avante.nvim&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        executeautomation /
+        yetone /
 
-      mcp-playwright&lt;/a&gt;&lt;/p&gt;
+      avante.nvim&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+      Use your Neovim like using Cursor AI IDE!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Lua&lt;/span&gt;
+						&lt;span&gt;⭐ 12428&lt;/span&gt;
+						&lt;span&gt;🔱 514&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 503 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/unclecode/crawl4ai&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        unclecode /
+
+      crawl4ai&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 38028&lt;/span&gt;
+						&lt;span&gt;🔱 3372&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2885 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PatrickJS/awesome-cursorrules&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        PatrickJS /
+
+      awesome-cursorrules&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📄 A curated list of awesome .cursorrules files
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 20711&lt;/span&gt;
+						&lt;span&gt;🔱 1544&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1939 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jlowin/fastmcp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jlowin /
+
+      fastmcp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The fast, Pythonic way to build Model Context Protocol servers 🚀 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 4034&lt;/span&gt;
+						&lt;span&gt;🔱 192&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1183 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/iptv-org/iptv&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        iptv-org /
+
+      iptv&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of publicly available IPTV channels from all over the world
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2559&lt;/span&gt;
-						&lt;span&gt;🔱 196&lt;/span&gt;
+						&lt;span&gt;⭐ 92043&lt;/span&gt;
+						&lt;span&gt;🔱 3339&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 467 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 565 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -361,10 +317,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 239675&lt;/span&gt;
-						&lt;span&gt;🔱 25514&lt;/span&gt;
+						&lt;span&gt;⭐ 239686&lt;/span&gt;
+						&lt;span&gt;🔱 25515&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 816 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dreammis/social-auto-upload&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dreammis /
+
+      social-auto-upload&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 4481&lt;/span&gt;
+						&lt;span&gt;🔱 747&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 585 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

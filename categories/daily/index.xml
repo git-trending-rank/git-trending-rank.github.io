@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 08 Apr 2025 09:58:45 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 08 Apr 2025 11:58:37 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-04-08</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-04-08/</link>
-        <pubDate>Tue, 08 Apr 2025 09:58:45 +0000</pubDate>
+        <pubDate>Tue, 08 Apr 2025 11:58:37 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-04-08/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,54 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 45232&lt;/span&gt;
-						&lt;span&gt;🔱 2140&lt;/span&gt;
+						&lt;span&gt;⭐ 45378&lt;/span&gt;
+						&lt;span&gt;🔱 2146&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1039 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/meta-llama/llama-models&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/LightRAG&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        meta-llama /
+        HKUDS /
 
-      llama-models&lt;/a&gt;&lt;/p&gt;
+      LightRAG&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Utilities intended for use with Llama models.
+      &#34;LightRAG: Simple and Fast Retrieval-Augmented Generation&#34;
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6647&lt;/span&gt;
-						&lt;span&gt;🔱 1084&lt;/span&gt;
+						&lt;span&gt;⭐ 13831&lt;/span&gt;
+						&lt;span&gt;🔱 1961&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 346 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/funstory-ai/BabelDOC&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        funstory-ai /
-
-      BabelDOC&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Yet Another Document Translator
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1235&lt;/span&gt;
-						&lt;span&gt;🔱 66&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 231 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 147 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,98 +77,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 664&lt;/span&gt;
-						&lt;span&gt;🔱 35&lt;/span&gt;
+						&lt;span&gt;⭐ 680&lt;/span&gt;
+						&lt;span&gt;🔱 36&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 246 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/clockworklabs/SpacetimeDB&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/n8n-io/n8n&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        clockworklabs /
+        n8n-io /
 
-      SpacetimeDB&lt;/a&gt;&lt;/p&gt;
+      n8n&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Multiplayer at the speed of light
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 11765&lt;/span&gt;
-						&lt;span&gt;🔱 393&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 76483&lt;/span&gt;
+						&lt;span&gt;🔱 20386&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 155 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 626 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/meta-llama/llama-cookbook&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/getmaxun/maxun&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        meta-llama /
+        getmaxun /
 
-      llama-cookbook&lt;/a&gt;&lt;/p&gt;
+      maxun&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services 
+      🔥Open Source No Code Web Data Extraction Platform. Turn Websites To APIs &amp; Spreadsheets With No-Code Robots In Minutes🔥
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 10169&lt;/span&gt;
+						&lt;span&gt;🔱 819&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 166 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/datawhalechina/llm-cookbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        datawhalechina /
+
+      llm-cookbook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16886&lt;/span&gt;
-						&lt;span&gt;🔱 2421&lt;/span&gt;
+						&lt;span&gt;⭐ 17478&lt;/span&gt;
+						&lt;span&gt;🔱 2163&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 65 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NVIDIA-Omniverse/PhysX&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NVIDIA-Omniverse /
-
-      PhysX&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      NVIDIA PhysX SDK
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 3558&lt;/span&gt;
-						&lt;span&gt;🔱 471&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 289 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/juliangarnier/anime&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        juliangarnier /
-
-      anime&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      JavaScript animation engine
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 55044&lt;/span&gt;
-						&lt;span&gt;🔱 3834&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1007 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 440 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,120 +165,252 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 37060&lt;/span&gt;
-						&lt;span&gt;🔱 2890&lt;/span&gt;
+						&lt;span&gt;⭐ 37066&lt;/span&gt;
+						&lt;span&gt;🔱 2891&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 191 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/maotoumao/MusicFree&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/clockworklabs/SpacetimeDB&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        maotoumao /
+        clockworklabs /
 
-      MusicFree&lt;/a&gt;&lt;/p&gt;
+      SpacetimeDB&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      插件化、定制化、无广告的免费音乐播放器
+      Multiplayer at the speed of light
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13096&lt;/span&gt;
-						&lt;span&gt;🔱 872&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 11796&lt;/span&gt;
+						&lt;span&gt;🔱 393&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 239 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 155 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/activepieces/activepieces&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/modelscope/FunASR&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        activepieces /
+        modelscope /
 
-      activepieces&lt;/a&gt;&lt;/p&gt;
+      FunASR&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Workflow automation with 280+ MCP servers (MCP tools) • AI automation &amp; workflow automation platform + hundreds of MCP servers for AI • [n8n alternative - MIT-licensed n8n]
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13148&lt;/span&gt;
-						&lt;span&gt;🔱 1704&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 318 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jiji262/douyin-downloader&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        jiji262 /
-
-      douyin-downloader&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+      A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2793&lt;/span&gt;
-						&lt;span&gt;🔱 421&lt;/span&gt;
+						&lt;span&gt;⭐ 9399&lt;/span&gt;
+						&lt;span&gt;🔱 955&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 76 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 24 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/freeCodeCamp/freeCodeCamp&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/chartdb/chartdb&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        freeCodeCamp /
+        chartdb /
 
-      freeCodeCamp&lt;/a&gt;&lt;/p&gt;
+      chartdb&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn to code for free.
+      Database diagrams editor that allows you to visualize and design your DB with a single query.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 415836&lt;/span&gt;
-						&lt;span&gt;🔱 39706&lt;/span&gt;
+						&lt;span&gt;⭐ 14922&lt;/span&gt;
+						&lt;span&gt;🔱 725&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 140 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 372 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/liam-hq/liam&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/meta-llama/llama-cookbook&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        liam-hq /
+        meta-llama /
 
-      liam&lt;/a&gt;&lt;/p&gt;
+      llama-cookbook&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Automatically generates beautiful and easy-to-read ER diagrams from your database.
+      Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services 
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2767&lt;/span&gt;
-						&lt;span&gt;🔱 103&lt;/span&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 16896&lt;/span&gt;
+						&lt;span&gt;🔱 2422&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 81 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 65 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/juliangarnier/anime&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        juliangarnier /
+
+      anime&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      JavaScript animation engine
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 55092&lt;/span&gt;
+						&lt;span&gt;🔱 3834&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1007 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NVIDIA/cuda-python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NVIDIA /
+
+      cuda-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      CUDA Python: Performance meets Productivity
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 1535&lt;/span&gt;
+						&lt;span&gt;🔱 113&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NVIDIA-Omniverse/PhysX&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NVIDIA-Omniverse /
+
+      PhysX&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      NVIDIA PhysX SDK
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 3562&lt;/span&gt;
+						&lt;span&gt;🔱 471&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 289 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gin-gonic/gin&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        gin-gonic /
+
+      gin&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 81398&lt;/span&gt;
+						&lt;span&gt;🔱 8161&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 45 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/redmine/redmine&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        redmine /
+
+      redmine&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Ruby&lt;/span&gt;
+						&lt;span&gt;⭐ 5480&lt;/span&gt;
+						&lt;span&gt;🔱 2357&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/unionlabs/union&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        unionlabs /
+
+      union&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 52772&lt;/span&gt;
+						&lt;span&gt;🔱 2650&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 448 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/protocolbuffers/protobuf&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        protocolbuffers /
+
+      protobuf&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Protocol Buffers - Google&#39;s data interchange format
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 67067&lt;/span&gt;
+						&lt;span&gt;🔱 15657&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
