@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-09
-date: 2025-04-09T09:58:44Z
+date: 2025-04-09T11:58:33Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46853</span>
-						<span>🔱 2209</span>
+						<span>⭐ 46954</span>
+						<span>🔱 2212</span>
 					</div>
 				<div class="stars-today">⭐ 1926 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      LightRAG</a></p>
-				<p>
-      "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14277</span>
-						<span>🔱 1993</span>
-					</div>
-				<div class="stars-today">⭐ 168 stars today</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 856</span>
-						<span>🔱 46</span>
+						<span>⭐ 871</span>
+						<span>🔱 48</span>
 					</div>
 				<div class="stars-today">⭐ 191 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77163</span>
-						<span>🔱 20537</span>
-					</div>
-				<div class="stars-today">⭐ 545 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
-    
-
-
-      
-        getmaxun /
-
-      maxun</a></p>
-				<p>
-      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10521</span>
-						<span>🔱 839</span>
-					</div>
-				<div class="stars-today">⭐ 135 stars today</div>
 				</div>
 			</div>
 	
@@ -140,252 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17819</span>
-						<span>🔱 2194</span>
+						<span>⭐ 17836</span>
+						<span>🔱 2196</span>
 					</div>
 				<div class="stars-today">⭐ 188 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SimplifyJobs/Summer2025-Internships" target="_blank">
+				<p><a href="https://github.com/swiftlang/swift" target="_blank">
     
 
 
       
-        SimplifyJobs /
+        swiftlang /
 
-      Summer2025-Internships</a></p>
+      swift</a></p>
 				<p>
-      Collection of Summer 2025 tech internships!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 37202</span>
-						<span>🔱 2895</span>
-					</div>
-				<div class="stars-today">⭐ 139 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Multiplayer at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12120</span>
-						<span>🔱 401</span>
-					</div>
-				<div class="stars-today">⭐ 351 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelscope/FunASR" target="_blank">
-    
-
-
-      
-        modelscope /
-
-      FunASR</a></p>
-				<p>
-      A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9605</span>
-						<span>🔱 965</span>
-					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chartdb/chartdb" target="_blank">
-    
-
-
-      
-        chartdb /
-
-      chartdb</a></p>
-				<p>
-      Database diagrams editor that allows you to visualize and design your DB with a single query.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15504</span>
-						<span>🔱 742</span>
-					</div>
-				<div class="stars-today">⭐ 426 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meta-llama/llama-cookbook" target="_blank">
-    
-
-
-      
-        meta-llama /
-
-      llama-cookbook</a></p>
-				<p>
-      Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with Inference, Fine-Tuning, RAG. We also show you how to solve end to end problems using Llama model family and using them on various provider services 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17028</span>
-						<span>🔱 2428</span>
-					</div>
-				<div class="stars-today">⭐ 203 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
-    
-
-
-      
-        juliangarnier /
-
-      anime</a></p>
-				<p>
-      JavaScript animation engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 55918</span>
-						<span>🔱 3864</span>
-					</div>
-				<div class="stars-today">⭐ 789 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cuda-python" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cuda-python</a></p>
-				<p>
-      CUDA Python: Performance meets Productivity
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1766</span>
-						<span>🔱 122</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-Omniverse/PhysX" target="_blank">
-    
-
-
-      
-        NVIDIA-Omniverse /
-
-      PhysX</a></p>
-				<p>
-      NVIDIA PhysX SDK
+      The Swift Programming Language
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3649</span>
-						<span>🔱 475</span>
+						<span>⭐ 68338</span>
+						<span>🔱 10448</span>
 					</div>
-				<div class="stars-today">⭐ 152 stars today</div>
+				<div class="stars-today">⭐ 16 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
     
 
 
       
-        gin-gonic /
+        HKUDS /
 
-      gin</a></p>
+      LightRAG</a></p>
 				<p>
-      Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+      "LightRAG: Simple and Fast Retrieval-Augmented Generation"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 81515</span>
-						<span>🔱 8164</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14307</span>
+						<span>🔱 1997</span>
 					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
+				<div class="stars-today">⭐ 168 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/redmine/redmine" target="_blank">
+				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
     
 
 
       
-        redmine /
+        jiji262 /
 
-      redmine</a></p>
+      douyin-downloader</a></p>
 				<p>
-      Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp
+      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 5549</span>
-						<span>🔱 2360</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2862</span>
+						<span>🔱 428</span>
 					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unionlabs/union" target="_blank">
-    
-
-
-      
-        unionlabs /
-
-      union</a></p>
-				<p>
-      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 53212</span>
-						<span>🔱 2671</span>
-					</div>
-				<div class="stars-today">⭐ 344 stars today</div>
+				<div class="stars-today">⭐ 291 stars today</div>
 				</div>
 			</div>
 	
@@ -404,10 +162,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 67152</span>
-						<span>🔱 15663</span>
+						<span>⭐ 67159</span>
+						<span>🔱 15664</span>
 					</div>
 				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
+    
+
+
+      
+        activepieces /
+
+      activepieces</a></p>
+				<p>
+      AI agents & MCPs & workflow automation • (280+ MCP servers for AI agents) • AI automation with MCPs • No-code AI agents with MCPs • AI workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13246</span>
+						<span>🔱 1716</span>
+					</div>
+				<div class="stars-today">⭐ 263 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/girafe-ai/ml-course" target="_blank">
+    
+
+
+      
+        girafe-ai /
+
+      ml-course</a></p>
+				<p>
+      Open Machine Learning course
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2516</span>
+						<span>🔱 1165</span>
+					</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LC044/WeChatMsg" target="_blank">
+    
+
+
+      
+        LC044 /
+
+      WeChatMsg</a></p>
+				<p>
+      提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38839</span>
+						<span>🔱 4005</span>
+					</div>
+				<div class="stars-today">⭐ 85 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/googleapis/google-cloud-go" target="_blank">
+    
+
+
+      
+        googleapis /
+
+      google-cloud-go</a></p>
+				<p>
+      Google Cloud Client Libraries for Go.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3944</span>
+						<span>🔱 1382</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SimplifyJobs/Summer2025-Internships" target="_blank">
+    
+
+
+      
+        SimplifyJobs /
+
+      Summer2025-Internships</a></p>
+				<p>
+      Collection of Summer 2025 tech internships!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 37214</span>
+						<span>🔱 2897</span>
+					</div>
+				<div class="stars-today">⭐ 139 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
+    
+
+
+      
+        ripienaar /
+
+      free-for-dev</a></p>
+				<p>
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 93786</span>
+						<span>🔱 10148</span>
+					</div>
+				<div class="stars-today">⭐ 323 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub</a></p>
+				<p>
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 7375</span>
+						<span>🔱 1254</span>
+					</div>
+				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-09T09:58:44Z
+date: 2025-04-09T11:58:33Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 34274</span>
-						<span>🔱 2383</span>
+						<span>⭐ 34347</span>
+						<span>🔱 2389</span>
 					</div>
 				<div class="stars-today">⭐ 28617 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      typescript-go</a></p>
+				<p>
+      Staging repo for development of native port of TypeScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 18937</span>
+						<span>🔱 568</span>
+					</div>
+				<div class="stars-today">⭐ 18983 stars this month</div>
 				</div>
 			</div>
 	
@@ -50,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 5898</span>
-						<span>🔱 1017</span>
+						<span>⭐ 5915</span>
+						<span>🔱 1021</span>
 					</div>
 				<div class="stars-today">⭐ 5155 stars this month</div>
 				</div>
@@ -72,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22050</span>
-						<span>🔱 813</span>
+						<span>⭐ 22058</span>
+						<span>🔱 814</span>
 					</div>
 				<div class="stars-today">⭐ 10653 stars this month</div>
 				</div>
@@ -94,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8875</span>
-						<span>🔱 584</span>
+						<span>⭐ 8893</span>
+						<span>🔱 586</span>
 					</div>
 				<div class="stars-today">⭐ 6089 stars this month</div>
 				</div>
@@ -116,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17725</span>
-						<span>🔱 919</span>
+						<span>⭐ 17733</span>
+						<span>🔱 921</span>
 					</div>
 				<div class="stars-today">⭐ 6612 stars this month</div>
 				</div>
@@ -138,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49828</span>
-						<span>🔱 7359</span>
+						<span>⭐ 49833</span>
+						<span>🔱 7360</span>
 					</div>
 				<div class="stars-today">⭐ 5453 stars this month</div>
 				</div>
@@ -160,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77163</span>
-						<span>🔱 20537</span>
+						<span>⭐ 77205</span>
+						<span>🔱 20554</span>
 					</div>
 				<div class="stars-today">⭐ 11617 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+    
+
+
+      
+        lastmile-ai /
+
+      mcp-agent</a></p>
+				<p>
+      Build effective agents using Model Context Protocol and simple workflow patterns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3248</span>
+						<span>🔱 330</span>
+					</div>
+				<div class="stars-today">⭐ 2390 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27575</span>
+						<span>⭐ 27585</span>
 						<span>🔱 3099</span>
 					</div>
 				<div class="stars-today">⭐ 8651 stars this month</div>
@@ -204,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 20865</span>
-						<span>🔱 1557</span>
+						<span>⭐ 20880</span>
+						<span>🔱 1560</span>
 					</div>
 				<div class="stars-today">⭐ 8616 stars this month</div>
 				</div>
@@ -226,98 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9896</span>
+						<span>⭐ 9897</span>
 						<span>🔱 1310</span>
 					</div>
 				<div class="stars-today">⭐ 2192 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/camel-ai/camel" target="_blank">
-    
-
-
-      
-        camel-ai /
-
-      camel</a></p>
-				<p>
-      🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11768</span>
-						<span>🔱 1228</span>
-					</div>
-				<div class="stars-today">⭐ 4456 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      lerobot</a></p>
-				<p>
-      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12069</span>
-						<span>🔱 1322</span>
-					</div>
-				<div class="stars-today">⭐ 2470 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40214</span>
-						<span>🔱 3586</span>
-					</div>
-				<div class="stars-today">⭐ 3634 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mendableai/firecrawl-mcp-server" target="_blank">
-    
-
-
-      
-        mendableai /
-
-      firecrawl-mcp-server</a></p>
-				<p>
-      Official Firecrawl MCP Server - Adds powerful web scraping to Cursor, Claude and any other LLM clients.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2305</span>
-						<span>🔱 204</span>
-					</div>
-				<div class="stars-today">⭐ 1729 stars this month</div>
 				</div>
 			</div>
 	
