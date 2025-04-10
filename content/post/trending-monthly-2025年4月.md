@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-10T09:58:37Z
+date: 2025-04-10T11:58:45Z
 categories:
 - monthly
 keywords:
@@ -30,52 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 35010</span>
-						<span>🔱 2450</span>
+						<span>⭐ 35060</span>
+						<span>🔱 2454</span>
 					</div>
 				<div class="stars-today">⭐ 28838 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      typescript-go</a></p>
-				<p>
-      Staging repo for development of native port of TypeScript
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 18979</span>
-						<span>🔱 569</span>
-					</div>
-				<div class="stars-today">⭐ 18985 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
-    
-
-
-      
-        GuijiAI /
-
-      HeyGem.ai</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6048</span>
-						<span>🔱 1045</span>
-					</div>
-				<div class="stars-today">⭐ 5149 stars this month</div>
 				</div>
 			</div>
 	
@@ -94,10 +52,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22130</span>
+						<span>⭐ 22134</span>
 						<span>🔱 819</span>
 					</div>
 				<div class="stars-today">⭐ 10695 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+    
+
+
+      
+        GuijiAI /
+
+      HeyGem.ai</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 6066</span>
+						<span>🔱 1046</span>
+					</div>
+				<div class="stars-today">⭐ 5149 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9016</span>
+						<span>⭐ 9020</span>
 						<span>🔱 594</span>
 					</div>
 				<div class="stars-today">⭐ 6234 stars this month</div>
@@ -138,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17833</span>
+						<span>⭐ 17843</span>
 						<span>🔱 927</span>
 					</div>
 				<div class="stars-today">⭐ 6689 stars this month</div>
@@ -160,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49892</span>
-						<span>🔱 7371</span>
+						<span>⭐ 49900</span>
+						<span>🔱 7372</span>
 					</div>
 				<div class="stars-today">⭐ 5525 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77569</span>
-						<span>🔱 20689</span>
-					</div>
-				<div class="stars-today">⭐ 12084 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3330</span>
-						<span>🔱 339</span>
+						<span>⭐ 3338</span>
+						<span>🔱 340</span>
 					</div>
 				<div class="stars-today">⭐ 2395 stars this month</div>
 				</div>
@@ -226,10 +182,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27659</span>
-						<span>🔱 3107</span>
+						<span>⭐ 27666</span>
+						<span>🔱 3109</span>
 					</div>
 				<div class="stars-today">⭐ 8696 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 77627</span>
+						<span>🔱 20706</span>
+					</div>
+				<div class="stars-today">⭐ 12084 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      typescript-go</a></p>
+				<p>
+      Staging repo for development of native port of TypeScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 18989</span>
+						<span>🔱 569</span>
+					</div>
+				<div class="stars-today">⭐ 18985 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11707</span>
+						<span>🔱 2929</span>
+					</div>
+				<div class="stars-today">⭐ 7283 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21043</span>
-						<span>🔱 1575</span>
+						<span>⭐ 21051</span>
+						<span>🔱 1576</span>
 					</div>
 				<div class="stars-today">⭐ 8709 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DiceDB/dice" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        DiceDB /
+        OpenBB-finance /
 
-      dice</a></p>
+      OpenBB</a></p>
 				<p>
-      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+      Investment Research for Everyone, Everywhere.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9922</span>
-						<span>🔱 1312</span>
+						<span>🔠 Python</span>
+						<span>⭐ 40240</span>
+						<span>🔱 3587</span>
 					</div>
-				<div class="stars-today">⭐ 2217 stars this month</div>
+				<div class="stars-today">⭐ 3681 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-10
-date: 2025-04-10T09:58:37Z
+date: 2025-04-10T11:58:45Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,134 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/girafe-ai/ml-course" target="_blank">
+    
+
+
+      
+        girafe-ai /
+
+      ml-course</a></p>
+				<p>
+      Open Machine Learning course
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2719</span>
+						<span>🔱 1180</span>
+					</div>
+				<div class="stars-today">⭐ 36 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/caddyserver/caddy" target="_blank">
+    
+
+
+      
+        caddyserver /
+
+      caddy</a></p>
+				<p>
+      Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 62937</span>
+						<span>🔱 4234</span>
+					</div>
+				<div class="stars-today">⭐ 110 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Multiplayer at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12585</span>
+						<span>🔱 415</span>
+					</div>
+				<div class="stars-today">⭐ 340 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+    
+
+
+      
+        krillinai /
+
+      KrillinAI</a></p>
+				<p>
+       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1443</span>
+						<span>🔱 130</span>
+					</div>
+				<div class="stars-today">⭐ 238 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      markitdown</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47541</span>
-						<span>🔱 2244</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11707</span>
+						<span>🔱 2929</span>
 					</div>
-				<div class="stars-today">⭐ 1575 stars today</div>
+				<div class="stars-today">⭐ 403 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supabase-community/supabase-mcp" target="_blank">
+				<p><a href="https://github.com/NVIDIA/cuda-python" target="_blank">
     
 
 
       
-        supabase-community /
+        NVIDIA /
 
-      supabase-mcp</a></p>
+      cuda-python</a></p>
 				<p>
-      Connect Supabase to your AI assistants
+      CUDA Python: Performance meets Productivity
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1037</span>
-						<span>🔱 55</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1817</span>
+						<span>🔱 124</span>
 					</div>
-				<div class="stars-today">⭐ 193 stars today</div>
+				<div class="stars-today">⭐ 219 stars today</div>
 				</div>
 			</div>
 	
@@ -74,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18177</span>
+						<span>⭐ 18201</span>
 						<span>🔱 2221</span>
 					</div>
 				<div class="stars-today">⭐ 362 stars today</div>
@@ -82,156 +170,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/swiftlang/swift" target="_blank">
+				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
     
 
 
       
-        swiftlang /
+        getmaxun /
 
-      swift</a></p>
+      maxun</a></p>
 				<p>
-      The Swift Programming Language
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 68415</span>
-						<span>🔱 10452</span>
-					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      LightRAG</a></p>
-				<p>
-      "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14620</span>
-						<span>🔱 2016</span>
-					</div>
-				<div class="stars-today">⭐ 488 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
-    
-
-
-      
-        jiji262 /
-
-      douyin-downloader</a></p>
-				<p>
-      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3106</span>
-						<span>🔱 444</span>
-					</div>
-				<div class="stars-today">⭐ 57 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
-    
-
-
-      
-        protocolbuffers /
-
-      protobuf</a></p>
-				<p>
-      Protocol Buffers - Google's data interchange format
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 67222</span>
-						<span>🔱 15668</span>
-					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
-    
-
-
-      
-        activepieces /
-
-      activepieces</a></p>
-				<p>
-      AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13485</span>
-						<span>🔱 1727</span>
+						<span>⭐ 10746</span>
+						<span>🔱 861</span>
 					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/girafe-ai/ml-course" target="_blank">
-    
-
-
-      
-        girafe-ai /
-
-      ml-course</a></p>
-				<p>
-      Open Machine Learning course
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2705</span>
-						<span>🔱 1176</span>
-					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LC044/WeChatMsg" target="_blank">
-    
-
-
-      
-        LC044 /
-
-      WeChatMsg</a></p>
-				<p>
-      提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39098</span>
-						<span>🔱 4018</span>
-					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
+				<div class="stars-today">⭐ 385 stars today</div>
 				</div>
 			</div>
 	
@@ -250,76 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4039</span>
-						<span>🔱 1393</span>
+						<span>⭐ 4043</span>
+						<span>🔱 1394</span>
 					</div>
 				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SimplifyJobs/Summer2025-Internships" target="_blank">
+				<p><a href="https://github.com/mendableai/firecrawl" target="_blank">
     
 
 
       
-        SimplifyJobs /
+        mendableai /
 
-      Summer2025-Internships</a></p>
+      firecrawl</a></p>
 				<p>
-      Collection of Summer 2025 tech internships!
+      🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 37342</span>
-						<span>🔱 2898</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34774</span>
+						<span>🔱 3046</span>
 					</div>
-				<div class="stars-today">⭐ 162 stars today</div>
+				<div class="stars-today">⭐ 168 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        ripienaar /
+        microsoft /
 
-      free-for-dev</a></p>
+      markitdown</a></p>
 				<p>
-      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 94160</span>
-						<span>🔱 10187</span>
+						<span>🔠 Python</span>
+						<span>⭐ 47586</span>
+						<span>🔱 2246</span>
 					</div>
-				<div class="stars-today">⭐ 138 stars today</div>
+				<div class="stars-today">⭐ 1575 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
     
 
 
       
-        patchy631 /
+        langgenius /
 
-      ai-engineering-hub</a></p>
+      dify</a></p>
 				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 7581</span>
-						<span>🔱 1268</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 90501</span>
+						<span>🔱 13495</span>
 					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
+				<div class="stars-today">⭐ 285 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+    
+
+
+      
+        gin-gonic /
+
+      gin</a></p>
+				<p>
+      Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 81549</span>
+						<span>🔱 8168</span>
+					</div>
+				<div class="stars-today">⭐ 113 stars today</div>
 				</div>
 			</div>
 	

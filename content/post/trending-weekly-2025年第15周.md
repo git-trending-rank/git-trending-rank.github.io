@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第15周
-date: 2025-04-10T09:58:38Z
+date: 2025-04-10T11:58:45Z
 categories:
 - weekly
 keywords:
@@ -30,250 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47541</span>
-						<span>🔱 2244</span>
+						<span>⭐ 47586</span>
+						<span>🔱 2246</span>
 					</div>
 				<div class="stars-today">⭐ 5235 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2818</span>
-						<span>🔱 228</span>
-					</div>
-				<div class="stars-today">⭐ 903 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
-    
-
-
-      
-        nvm-sh /
-
-      nvm</a></p>
-				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 83862</span>
-						<span>🔱 8596</span>
-					</div>
-				<div class="stars-today">⭐ 623 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
-    
-
-
-      
-        ahmedkhaleel2004 /
-
-      gitdiagram</a></p>
-				<p>
-      Free, simple, fast interactive diagrams for any GitHub repository
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9016</span>
-						<span>🔱 594</span>
-					</div>
-				<div class="stars-today">⭐ 2100 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      cookbook</a></p>
-				<p>
-      Examples and guides for using the Gemini API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12148</span>
-						<span>🔱 1588</span>
-					</div>
-				<div class="stars-today">⭐ 749 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3641</span>
-						<span>🔱 280</span>
-					</div>
-				<div class="stars-today">⭐ 378 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2050</span>
-						<span>🔱 231</span>
-					</div>
-				<div class="stars-today">⭐ 540 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 11903</span>
-						<span>🔱 757</span>
-					</div>
-				<div class="stars-today">⭐ 307 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koreader/koreader" target="_blank">
-    
-
-
-      
-        koreader /
-
-      koreader</a></p>
-				<p>
-      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 20125</span>
-						<span>🔱 1372</span>
-					</div>
-				<div class="stars-today">⭐ 521 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17833</span>
-						<span>🔱 927</span>
-					</div>
-				<div class="stars-today">⭐ 1242 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 35010</span>
-						<span>🔱 2450</span>
-					</div>
-				<div class="stars-today">⭐ 6312 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
-    
-
-
-      
-        unclecode /
-
-      crawl4ai</a></p>
-				<p>
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38785</span>
-						<span>🔱 3436</span>
-					</div>
-				<div class="stars-today">⭐ 2719 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18177</span>
+						<span>⭐ 18201</span>
 						<span>🔱 2221</span>
 					</div>
 				<div class="stars-today">⭐ 1301 stars this week</div>
@@ -300,24 +60,178 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vinta/awesome-python" target="_blank">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
     
 
 
       
-        vinta /
+        nvm-sh /
 
-      awesome-python</a></p>
+      nvm</a></p>
 				<p>
-      An opinionated list of awesome Python frameworks, libraries, software and resources.
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 83865</span>
+						<span>🔱 8597</span>
+					</div>
+				<div class="stars-today">⭐ 623 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fleetdm/fleet" target="_blank">
+    
+
+
+      
+        fleetdm /
+
+      fleet</a></p>
+				<p>
+      Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4699</span>
+						<span>🔱 543</span>
+					</div>
+				<div class="stars-today">⭐ 979 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      cookbook</a></p>
+				<p>
+      Examples and guides for using the Gemini API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12158</span>
+						<span>🔱 1589</span>
+					</div>
+				<div class="stars-today">⭐ 749 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2833</span>
+						<span>🔱 228</span>
+					</div>
+				<div class="stars-today">⭐ 903 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koreader/koreader" target="_blank">
+    
+
+
+      
+        koreader /
+
+      koreader</a></p>
+				<p>
+      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 20129</span>
+						<span>🔱 1372</span>
+					</div>
+				<div class="stars-today">⭐ 521 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
+    
+
+
+      
+        jiji262 /
+
+      douyin-downloader</a></p>
+				<p>
+      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 239958</span>
-						<span>🔱 25525</span>
+						<span>⭐ 3121</span>
+						<span>🔱 445</span>
 					</div>
-				<div class="stars-today">⭐ 900 stars this week</div>
+				<div class="stars-today">⭐ 752 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2056</span>
+						<span>🔱 231</span>
+					</div>
+				<div class="stars-today">⭐ 540 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
+    
+
+
+      
+        ahmedkhaleel2004 /
+
+      gitdiagram</a></p>
+				<p>
+      Free, simple, fast interactive diagrams for any GitHub repository
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9020</span>
+						<span>🔱 594</span>
+					</div>
+				<div class="stars-today">⭐ 2100 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,32 +250,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 92193</span>
-						<span>🔱 3351</span>
+						<span>⭐ 92200</span>
+						<span>🔱 3352</span>
 					</div>
 				<div class="stars-today">⭐ 673 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yetone/avante.nvim" target="_blank">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
     
 
 
       
-        yetone /
+        Flowseal /
 
-      avante.nvim</a></p>
-				<p>
-      Use your Neovim like using Cursor AI IDE!
-    </p>
+      zapret-discord-youtube</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 12528</span>
-						<span>🔱 519</span>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 11902</span>
+						<span>🔱 757</span>
 					</div>
-				<div class="stars-today">⭐ 377 stars this week</div>
+				<div class="stars-today">⭐ 307 stars this week</div>
 				</div>
 			</div>
 	
