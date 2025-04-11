@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第15周
-date: 2025-04-11T09:58:36Z
+date: 2025-04-11T11:58:44Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47980</span>
-						<span>🔱 2263</span>
+						<span>⭐ 48002</span>
+						<span>🔱 2264</span>
 					</div>
 				<div class="stars-today">⭐ 5780 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/llm-cookbook" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      llm-cookbook</a></p>
-				<p>
-      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18420</span>
-						<span>🔱 2235</span>
-					</div>
-				<div class="stars-today">⭐ 1645 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
-    
-
-
-      
-        nvm-sh /
-
-      nvm</a></p>
-				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 83888</span>
-						<span>🔱 8609</span>
-					</div>
-				<div class="stars-today">⭐ 312 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,98 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9501</span>
-						<span>🔱 1183</span>
+						<span>⭐ 9636</span>
+						<span>🔱 1191</span>
 					</div>
 				<div class="stars-today">⭐ 3981 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fleetdm/fleet" target="_blank">
+				<p><a href="https://github.com/datawhalechina/llm-cookbook" target="_blank">
     
 
 
       
-        fleetdm /
+        datawhalechina /
 
-      fleet</a></p>
+      llm-cookbook</a></p>
 				<p>
-      Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4748</span>
-						<span>🔱 544</span>
-					</div>
-				<div class="stars-today">⭐ 954 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      cookbook</a></p>
-				<p>
-      Examples and guides for using the Gemini API
+      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12208</span>
-						<span>🔱 1593</span>
+						<span>⭐ 18427</span>
+						<span>🔱 2235</span>
 					</div>
-				<div class="stars-today">⭐ 523 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2938</span>
-						<span>🔱 234</span>
-					</div>
-				<div class="stars-today">⭐ 903 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koreader/koreader" target="_blank">
-    
-
-
-      
-        koreader /
-
-      koreader</a></p>
-				<p>
-      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 20177</span>
-						<span>🔱 1374</span>
-					</div>
-				<div class="stars-today">⭐ 435 stars this week</div>
+				<div class="stars-today">⭐ 1645 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,96 +96,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3192</span>
-						<span>🔱 450</span>
+						<span>⭐ 3204</span>
+						<span>🔱 453</span>
 					</div>
 				<div class="stars-today">⭐ 763 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
     
 
 
       
-        simular-ai /
+        elie222 /
 
-      Agent-S</a></p>
+      inbox-zero</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+      AI personal assistant for email. Open source app to help you reach inbox zero fast.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5413</span>
+						<span>🔱 578</span>
+					</div>
+				<div class="stars-today">⭐ 826 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      cookbook</a></p>
+				<p>
+      Examples and guides for using the Gemini API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12209</span>
+						<span>🔱 1593</span>
+					</div>
+				<div class="stars-today">⭐ 523 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koreader/koreader" target="_blank">
+    
+
+
+      
+        koreader /
+
+      koreader</a></p>
+				<p>
+      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 20179</span>
+						<span>🔱 1374</span>
+					</div>
+				<div class="stars-today">⭐ 435 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2945</span>
+						<span>🔱 237</span>
+					</div>
+				<div class="stars-today">⭐ 903 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fleetdm/fleet" target="_blank">
+    
+
+
+      
+        fleetdm /
+
+      fleet</a></p>
+				<p>
+      Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4751</span>
+						<span>🔱 545</span>
+					</div>
+				<div class="stars-today">⭐ 954 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+    
+
+
+      
+        twbs /
+
+      bootstrap</a></p>
+				<p>
+      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 172138</span>
+						<span>🔱 79078</span>
+					</div>
+				<div class="stars-today">⭐ 310 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2119</span>
-						<span>🔱 236</span>
+						<span>⭐ 4997</span>
+						<span>🔱 757</span>
 					</div>
-				<div class="stars-today">⭐ 576 stars this week</div>
+				<div class="stars-today">⭐ 190 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
 
       
-        ahmedkhaleel2004 /
+        getzep /
 
-      gitdiagram</a></p>
+      graphiti</a></p>
 				<p>
-      Free, simple, fast interactive diagrams for any GitHub repository
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9129</span>
-						<span>🔱 601</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3710</span>
+						<span>🔱 283</span>
 					</div>
-				<div class="stars-today">⭐ 1739 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 92291</span>
-						<span>🔱 3361</span>
-					</div>
-				<div class="stars-today">⭐ 589 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 11928</span>
-						<span>🔱 763</span>
-					</div>
-				<div class="stars-today">⭐ 273 stars this week</div>
+				<div class="stars-today">⭐ 428 stars this week</div>
 				</div>
 			</div>
 	

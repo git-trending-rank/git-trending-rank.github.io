@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-11
-date: 2025-04-11T09:58:36Z
+date: 2025-04-11T11:58:44Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
+    
+
+
+      
+        jiji262 /
+
+      douyin-downloader</a></p>
+				<p>
+      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3204</span>
+						<span>🔱 453</span>
+					</div>
+				<div class="stars-today">⭐ 78 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
@@ -30,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9501</span>
-						<span>🔱 1183</span>
+						<span>⭐ 9636</span>
+						<span>🔱 1191</span>
 					</div>
 				<div class="stars-today">⭐ 1236 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/girafe-ai/ml-course" target="_blank">
-    
-
-
-      
-        girafe-ai /
-
-      ml-course</a></p>
-				<p>
-      Open Machine Learning course
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2961</span>
-						<span>🔱 1199</span>
-					</div>
-				<div class="stars-today">⭐ 207 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/caddyserver/caddy" target="_blank">
-    
-
-
-      
-        caddyserver /
-
-      caddy</a></p>
-				<p>
-      Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 63233</span>
-						<span>🔱 4249</span>
-					</div>
-				<div class="stars-today">⭐ 103 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Multiplayer at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13009</span>
-						<span>🔱 429</span>
-					</div>
-				<div class="stars-today">⭐ 451 stars today</div>
 				</div>
 			</div>
 	
@@ -118,98 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2094</span>
-						<span>🔱 169</span>
+						<span>⭐ 2125</span>
+						<span>🔱 171</span>
 					</div>
 				<div class="stars-today">⭐ 130 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
     
 
 
       
-        microsoft /
+        patchy631 /
 
-      ai-agents-for-beginners</a></p>
+      ai-engineering-hub</a></p>
 				<p>
-      10 Lessons to Get Started Building AI Agents
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12297</span>
-						<span>🔱 3059</span>
+						<span>⭐ 7656</span>
+						<span>🔱 1288</span>
 					</div>
-				<div class="stars-today">⭐ 436 stars today</div>
+				<div class="stars-today">⭐ 172 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cuda-python" target="_blank">
+				<p><a href="https://github.com/vercel/ai-chatbot" target="_blank">
     
 
 
       
-        NVIDIA /
+        vercel /
 
-      cuda-python</a></p>
+      ai-chatbot</a></p>
 				<p>
-      CUDA Python: Performance meets Productivity
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2029</span>
-						<span>🔱 131</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/llm-cookbook" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      llm-cookbook</a></p>
-				<p>
-      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18420</span>
-						<span>🔱 2235</span>
-					</div>
-				<div class="stars-today">⭐ 371 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
-    
-
-
-      
-        getmaxun /
-
-      maxun</a></p>
-				<p>
-      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+      A full-featured, hackable Next.js AI chatbot built by Vercel
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11023</span>
-						<span>🔱 870</span>
+						<span>⭐ 14633</span>
+						<span>🔱 3908</span>
 					</div>
-				<div class="stars-today">⭐ 186 stars today</div>
+				<div class="stars-today">⭐ 56 stars today</div>
 				</div>
 			</div>
 	
@@ -228,54 +140,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4102</span>
-						<span>🔱 1401</span>
+						<span>⭐ 4105</span>
+						<span>🔱 1402</span>
 					</div>
 				<div class="stars-today">⭐ 101 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mendableai/firecrawl" target="_blank">
+				<p><a href="https://github.com/aws-samples/amazon-nova-samples" target="_blank">
     
 
 
       
-        mendableai /
+        aws-samples /
 
-      firecrawl</a></p>
-				<p>
-      🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-    </p>
+      amazon-nova-samples</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35106</span>
-						<span>🔱 3074</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 171</span>
+						<span>🔱 79</span>
 					</div>
-				<div class="stars-today">⭐ 169 stars today</div>
+				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      markitdown</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47980</span>
-						<span>🔱 2263</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12346</span>
+						<span>🔱 3072</span>
 					</div>
-				<div class="stars-today">⭐ 642 stars today</div>
+				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
+    
+
+
+      
+        ripienaar /
+
+      free-for-dev</a></p>
+				<p>
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 94288</span>
+						<span>🔱 10205</span>
+					</div>
+				<div class="stars-today">⭐ 389 stars today</div>
 				</div>
 			</div>
 	
@@ -294,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 90942</span>
+						<span>⭐ 90979</span>
 						<span>🔱 13558</span>
 					</div>
 				<div class="stars-today">⭐ 267 stars today</div>
@@ -302,24 +234,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+				<p><a href="https://github.com/mongodb-developer/GenAI-Showcase" target="_blank">
     
 
 
       
-        gin-gonic /
+        mongodb-developer /
 
-      gin</a></p>
+      GenAI-Showcase</a></p>
 				<p>
-      Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+      GenAI Cookbook
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 81666</span>
-						<span>🔱 8175</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 3387</span>
+						<span>🔱 578</span>
 					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
+				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
 			</div>
 	

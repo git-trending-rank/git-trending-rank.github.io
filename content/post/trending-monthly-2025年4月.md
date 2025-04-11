@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-11T09:58:35Z
+date: 2025-04-11T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -30,52 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 35702</span>
-						<span>🔱 2503</span>
+						<span>⭐ 35753</span>
+						<span>🔱 2507</span>
 					</div>
 				<div class="stars-today">⭐ 28803 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/glanceapp/glance" target="_blank">
-    
-
-
-      
-        glanceapp /
-
-      glance</a></p>
-				<p>
-      A self-hosted dashboard that puts all your feeds in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22205</span>
-						<span>🔱 822</span>
-					</div>
-				<div class="stars-today">⭐ 10718 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
-    
-
-
-      
-        GuijiAI /
-
-      HeyGem.ai</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6199</span>
-						<span>🔱 1070</span>
-					</div>
-				<div class="stars-today">⭐ 5142 stars this month</div>
 				</div>
 			</div>
 	
@@ -94,10 +52,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9501</span>
-						<span>🔱 1183</span>
+						<span>⭐ 9636</span>
+						<span>🔱 1191</span>
 					</div>
 				<div class="stars-today">⭐ 7371 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/glanceapp/glance" target="_blank">
+    
+
+
+      
+        glanceapp /
+
+      glance</a></p>
+				<p>
+      A self-hosted dashboard that puts all your feeds in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 22211</span>
+						<span>🔱 823</span>
+					</div>
+				<div class="stars-today">⭐ 10718 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+    
+
+
+      
+        GuijiAI /
+
+      HeyGem.ai</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 6216</span>
+						<span>🔱 1071</span>
+					</div>
+				<div class="stars-today">⭐ 5142 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9129</span>
+						<span>⭐ 9137</span>
 						<span>🔱 601</span>
 					</div>
 				<div class="stars-today">⭐ 6355 stars this month</div>
@@ -138,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17917</span>
+						<span>⭐ 17922</span>
 						<span>🔱 933</span>
 					</div>
 				<div class="stars-today">⭐ 6778 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8438</span>
+						<span>🔱 2321</span>
+					</div>
+				<div class="stars-today">⭐ 4076 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49983</span>
-						<span>🔱 7387</span>
+						<span>⭐ 49986</span>
+						<span>🔱 7389</span>
 					</div>
 				<div class="stars-today">⭐ 5577 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3406</span>
-						<span>🔱 356</span>
-					</div>
-				<div class="stars-today">⭐ 2458 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27772</span>
-						<span>🔱 3117</span>
+						<span>⭐ 27780</span>
+						<span>🔱 3118</span>
 					</div>
 				<div class="stars-today">⭐ 8694 stars this month</div>
 				</div>
@@ -226,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 78473</span>
-						<span>🔱 20895</span>
+						<span>⭐ 78571</span>
+						<span>🔱 20912</span>
 					</div>
 				<div class="stars-today">⭐ 12233 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      typescript-go</a></p>
-				<p>
-      Staging repo for development of native port of TypeScript
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 19030</span>
-						<span>🔱 572</span>
-					</div>
-				<div class="stars-today">⭐ 19037 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12297</span>
-						<span>🔱 3059</span>
+						<span>⭐ 12346</span>
+						<span>🔱 3072</span>
 					</div>
 				<div class="stars-today">⭐ 7330 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DiceDB/dice" target="_blank">
+    
+
+
+      
+        DiceDB /
+
+      dice</a></p>
+				<p>
+      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9931</span>
+						<span>🔱 1313</span>
+					</div>
+				<div class="stars-today">⭐ 2246 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+    
+
+
+      
+        lastmile-ai /
+
+      mcp-agent</a></p>
+				<p>
+      Build effective agents using Model Context Protocol and simple workflow patterns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3410</span>
+						<span>🔱 356</span>
+					</div>
+				<div class="stars-today">⭐ 2458 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21216</span>
-						<span>🔱 1589</span>
+						<span>⭐ 21227</span>
+						<span>🔱 1590</span>
 					</div>
 				<div class="stars-today">⭐ 8172 stars this month</div>
 				</div>
@@ -314,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40317</span>
-						<span>🔱 3591</span>
+						<span>⭐ 40324</span>
+						<span>🔱 3593</span>
 					</div>
 				<div class="stars-today">⭐ 3686 stars this month</div>
 				</div>
