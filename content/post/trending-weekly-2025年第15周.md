@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第15周
-date: 2025-04-12T09:58:44Z
+date: 2025-04-12T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48131</span>
-						<span>🔱 2275</span>
+						<span>⭐ 48161</span>
+						<span>🔱 2278</span>
 					</div>
 				<div class="stars-today">⭐ 6153 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10531</span>
-						<span>🔱 1307</span>
+						<span>⭐ 10655</span>
+						<span>🔱 1315</span>
 					</div>
 				<div class="stars-today">⭐ 4584 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18483</span>
-						<span>🔱 2238</span>
+						<span>⭐ 18489</span>
+						<span>🔱 2239</span>
 					</div>
 				<div class="stars-today">⭐ 1826 stars this week</div>
 				</div>
@@ -96,32 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3403</span>
-						<span>🔱 470</span>
+						<span>⭐ 3414</span>
+						<span>🔱 474</span>
 					</div>
 				<div class="stars-today">⭐ 870 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        elie222 /
+        microsoft /
 
-      inbox-zero</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      AI personal assistant for email. Open source app to help you reach inbox zero fast.
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5455</span>
-						<span>🔱 582</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12879</span>
+						<span>🔱 3189</span>
 					</div>
-				<div class="stars-today">⭐ 609 stars this week</div>
+				<div class="stars-today">⭐ 2480 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3015</span>
+						<span>🔱 244</span>
+					</div>
+				<div class="stars-today">⭐ 921 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12248</span>
+						<span>⭐ 12251</span>
 						<span>🔱 1595</span>
 					</div>
 				<div class="stars-today">⭐ 520 stars this week</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 20235</span>
+						<span>⭐ 20244</span>
 						<span>🔱 1374</span>
 					</div>
 				<div class="stars-today">⭐ 429 stars this week</div>
@@ -170,112 +192,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
     
 
 
       
-        mark3labs /
+        elie222 /
 
-      mcp-go</a></p>
+      inbox-zero</a></p>
 				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+      AI personal assistant for email. Open source app to help you reach inbox zero fast.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3011</span>
-						<span>🔱 243</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5461</span>
+						<span>🔱 583</span>
 					</div>
-				<div class="stars-today">⭐ 921 stars this week</div>
+				<div class="stars-today">⭐ 609 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fleetdm/fleet" target="_blank">
+				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
     
 
 
       
-        fleetdm /
+        dgtlmoon /
 
-      fleet</a></p>
+      changedetection.io</a></p>
 				<p>
-      Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4789</span>
-						<span>🔱 544</span>
-					</div>
-				<div class="stars-today">⭐ 735 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
-    
-
-
-      
-        twbs /
-
-      bootstrap</a></p>
-				<p>
-      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 172156</span>
-						<span>🔱 79074</span>
-					</div>
-				<div class="stars-today">⭐ 321 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
+      The best and simplest free open source web page change detection, website watcher, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change notification
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5054</span>
-						<span>🔱 757</span>
+						<span>⭐ 23361</span>
+						<span>🔱 1274</span>
 					</div>
-				<div class="stars-today">⭐ 211 stars this week</div>
+				<div class="stars-today">⭐ 381 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/coder/code-server" target="_blank">
     
 
 
       
-        getzep /
+        coder /
 
-      graphiti</a></p>
+      code-server</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      VS Code in the browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 70787</span>
+						<span>🔱 5860</span>
+					</div>
+				<div class="stars-today">⭐ 200 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3781</span>
-						<span>🔱 286</span>
+						<span>⭐ 2147</span>
+						<span>🔱 239</span>
 					</div>
-				<div class="stars-today">⭐ 469 stars this week</div>
+				<div class="stars-today">⭐ 613 stars this week</div>
 				</div>
 			</div>
 	

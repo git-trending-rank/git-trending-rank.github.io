@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-12T09:58:43Z
+date: 2025-04-12T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 36164</span>
-						<span>🔱 2534</span>
+						<span>⭐ 36208</span>
+						<span>🔱 2536</span>
 					</div>
 				<div class="stars-today">⭐ 28829 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10531</span>
-						<span>🔱 1307</span>
+						<span>⭐ 10655</span>
+						<span>🔱 1315</span>
 					</div>
 				<div class="stars-today">⭐ 7900 stars this month</div>
 				</div>
@@ -74,30 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22284</span>
+						<span>⭐ 22290</span>
 						<span>🔱 825</span>
 					</div>
 				<div class="stars-today">⭐ 10769 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
-    
-
-
-      
-        GuijiAI /
-
-      HeyGem.ai</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6316</span>
-						<span>🔱 1093</span>
-					</div>
-				<div class="stars-today">⭐ 5187 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,10 +96,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9219</span>
+						<span>⭐ 9226</span>
 						<span>🔱 604</span>
 					</div>
 				<div class="stars-today">⭐ 6474 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+    
+
+
+      
+        GuijiAI /
+
+      HeyGem.ai</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 6331</span>
+						<span>🔱 1094</span>
+					</div>
+				<div class="stars-today">⭐ 5187 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17994</span>
+						<span>⭐ 17997</span>
 						<span>🔱 934</span>
 					</div>
 				<div class="stars-today">⭐ 6846 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8492</span>
-						<span>🔱 2349</span>
-					</div>
-				<div class="stars-today">⭐ 4073 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50030</span>
+						<span>⭐ 50033</span>
 						<span>🔱 7400</span>
 					</div>
 				<div class="stars-today">⭐ 5638 stars this month</div>
@@ -190,46 +168,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        ourongxing /
 
-      awesome-llm-apps</a></p>
+      newsnow</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27883</span>
-						<span>🔱 3127</span>
-					</div>
-				<div class="stars-today">⭐ 8713 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+      Elegant reading of real-time and hottest news
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79159</span>
-						<span>🔱 21043</span>
+						<span>⭐ 8494</span>
+						<span>🔱 2353</span>
 					</div>
-				<div class="stars-today">⭐ 12755 stars this month</div>
+				<div class="stars-today">⭐ 4073 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12825</span>
-						<span>🔱 3181</span>
+						<span>⭐ 12879</span>
+						<span>🔱 3189</span>
 					</div>
 				<div class="stars-today">⭐ 7989 stars this month</div>
 				</div>
@@ -270,10 +226,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9948</span>
-						<span>🔱 1316</span>
+						<span>⭐ 9950</span>
+						<span>🔱 1317</span>
 					</div>
 				<div class="stars-today">⭐ 2252 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 79225</span>
+						<span>🔱 21053</span>
+					</div>
+				<div class="stars-today">⭐ 12755 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
+    
+
+
+      
+        executeautomation /
+
+      mcp-playwright</a></p>
+				<p>
+      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2688</span>
+						<span>🔱 203</span>
+					</div>
+				<div class="stars-today">⭐ 2237 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27890</span>
+						<span>🔱 3127</span>
+					</div>
+				<div class="stars-today">⭐ 8713 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3465</span>
+						<span>⭐ 3473</span>
 						<span>🔱 364</span>
 					</div>
 				<div class="stars-today">⭐ 2486 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agno-agi/agno" target="_blank">
+    
+
+
+      
+        agno-agi /
+
+      agno</a></p>
+				<p>
+      Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24751</span>
+						<span>🔱 3142</span>
+					</div>
+				<div class="stars-today">⭐ 4293 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21350</span>
-						<span>🔱 1603</span>
+						<span>⭐ 21361</span>
+						<span>🔱 1605</span>
 					</div>
 				<div class="stars-today">⭐ 7843 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40372</span>
-						<span>🔱 3595</span>
-					</div>
-				<div class="stars-today">⭐ 3762 stars this month</div>
 				</div>
 			</div>
 	
