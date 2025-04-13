@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-13T09:58:37Z
+date: 2025-04-13T11:58:32Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 36569</span>
-						<span>🔱 2572</span>
+						<span>⭐ 36613</span>
+						<span>🔱 2574</span>
 					</div>
 				<div class="stars-today">⭐ 28615 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11728</span>
-						<span>🔱 1446</span>
+						<span>⭐ 11893</span>
+						<span>🔱 1468</span>
 					</div>
 				<div class="stars-today">⭐ 8700 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/glanceapp/glance" target="_blank">
-    
-
-
-      
-        glanceapp /
-
-      glance</a></p>
-				<p>
-      A self-hosted dashboard that puts all your feeds in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22364</span>
-						<span>🔱 831</span>
-					</div>
-				<div class="stars-today">⭐ 10778 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9277</span>
+						<span>⭐ 9285</span>
 						<span>🔱 613</span>
 					</div>
 				<div class="stars-today">⭐ 6553 stars this month</div>
@@ -104,22 +82,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+				<p><a href="https://github.com/glanceapp/glance" target="_blank">
     
 
 
       
-        GuijiAI /
+        glanceapp /
 
-      HeyGem.ai</a></p>
-				<p></p>
+      glance</a></p>
+				<p>
+      A self-hosted dashboard that puts all your feeds in one place
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6517</span>
-						<span>🔱 1120</span>
+						<span>🔠 Go</span>
+						<span>⭐ 22374</span>
+						<span>🔱 832</span>
 					</div>
-				<div class="stars-today">⭐ 5072 stars this month</div>
+				<div class="stars-today">⭐ 10778 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
+    
+
+
+      
+        ageerle /
+
+      ruoyi-ai</a></p>
+				<p>
+      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2605</span>
+						<span>🔱 606</span>
+					</div>
+				<div class="stars-today">⭐ 2028 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,10 +140,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18058</span>
-						<span>🔱 934</span>
+						<span>⭐ 18070</span>
+						<span>🔱 935</span>
 					</div>
 				<div class="stars-today">⭐ 6895 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+    
+
+
+      
+        GuijiAI /
+
+      HeyGem.ai</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 6529</span>
+						<span>🔱 1121</span>
+					</div>
+				<div class="stars-today">⭐ 5072 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13418</span>
+						<span>🔱 3292</span>
+					</div>
+				<div class="stars-today">⭐ 8436 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50072</span>
-						<span>🔱 7413</span>
+						<span>⭐ 50077</span>
+						<span>🔱 7414</span>
 					</div>
 				<div class="stars-today">⭐ 5654 stars this month</div>
 				</div>
@@ -182,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8551</span>
-						<span>🔱 2374</span>
+						<span>⭐ 8556</span>
+						<span>🔱 2377</span>
 					</div>
 				<div class="stars-today">⭐ 4058 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13376</span>
-						<span>🔱 3289</span>
-					</div>
-				<div class="stars-today">⭐ 8436 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9972</span>
-						<span>🔱 1323</span>
+						<span>⭐ 9975</span>
+						<span>🔱 1324</span>
 					</div>
 				<div class="stars-today">⭐ 2269 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 79815</span>
-						<span>🔱 21214</span>
-					</div>
-				<div class="stars-today">⭐ 12951 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2723</span>
+						<span>⭐ 2727</span>
 						<span>🔱 205</span>
 					</div>
 				<div class="stars-today">⭐ 2228 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 79873</span>
+						<span>🔱 21229</span>
+					</div>
+				<div class="stars-today">⭐ 12951 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27950</span>
-						<span>🔱 3137</span>
+						<span>⭐ 27957</span>
+						<span>🔱 3138</span>
 					</div>
 				<div class="stars-today">⭐ 8660 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3508</span>
-						<span>🔱 372</span>
-					</div>
-				<div class="stars-today">⭐ 2496 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24832</span>
-						<span>🔱 3147</span>
+						<span>⭐ 24840</span>
+						<span>🔱 3150</span>
 					</div>
 				<div class="stars-today">⭐ 4315 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
     
 
 
       
-        PatrickJS /
+        lastmile-ai /
 
-      awesome-cursorrules</a></p>
+      mcp-agent</a></p>
 				<p>
-      📄 A curated list of awesome .cursorrules files
+      Build effective agents using Model Context Protocol and simple workflow patterns
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 21498</span>
-						<span>🔱 1620</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3514</span>
+						<span>🔱 372</span>
 					</div>
-				<div class="stars-today">⭐ 7408 stars this month</div>
+				<div class="stars-today">⭐ 2496 stars this month</div>
 				</div>
 			</div>
 	

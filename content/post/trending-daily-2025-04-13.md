@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-13
-date: 2025-04-13T09:58:38Z
+date: 2025-04-13T11:58:32Z
 categories:
 - daily
 keywords:
@@ -30,162 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11728</span>
-						<span>🔱 1446</span>
+						<span>⭐ 11893</span>
+						<span>🔱 1468</span>
 					</div>
 				<div class="stars-today">⭐ 1033 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/vercel/ai-chatbot" target="_blank">
     
 
 
       
-        microsoft /
+        vercel /
 
-      ai-agents-for-beginners</a></p>
+      ai-chatbot</a></p>
 				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13376</span>
-						<span>🔱 3289</span>
-					</div>
-				<div class="stars-today">⭐ 543 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
-    
-
-
-      
-        GuijiAI /
-
-      HeyGem.ai</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6517</span>
-						<span>🔱 1120</span>
-					</div>
-				<div class="stars-today">⭐ 117 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colinhacks/zod" target="_blank">
-    
-
-
-      
-        colinhacks /
-
-      zod</a></p>
-				<p>
-      TypeScript-first schema validation with static type inference
+      A full-featured, hackable Next.js AI chatbot built by Vercel
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36857</span>
-						<span>🔱 1330</span>
+						<span>⭐ 14864</span>
+						<span>🔱 3956</span>
 					</div>
-				<div class="stars-today">⭐ 86 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 79815</span>
-						<span>🔱 21214</span>
-					</div>
-				<div class="stars-today">⭐ 657 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm</a></p>
-				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44589</span>
-						<span>🔱 6804</span>
-					</div>
-				<div class="stars-today">⭐ 204 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/crestalnetwork/intentkit" target="_blank">
-    
-
-
-      
-        crestalnetwork /
-
-      intentkit</a></p>
-				<p>
-      An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5984</span>
-						<span>🔱 631</span>
-					</div>
-				<div class="stars-today">⭐ 168 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
-    
-
-
-      
-        funstory-ai /
-
-      BabelDOC</a></p>
-				<p>
-      Yet Another Document Translator
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1976</span>
-						<span>🔱 112</span>
-					</div>
-				<div class="stars-today">⭐ 165 stars today</div>
+				<div class="stars-today">⭐ 170 stars today</div>
 				</div>
 			</div>
 	
@@ -204,54 +74,274 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3045</span>
-						<span>🔱 226</span>
+						<span>⭐ 3088</span>
+						<span>🔱 230</span>
 					</div>
 				<div class="stars-today">⭐ 476 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        minio /
+        microsoft /
 
-      minio</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 51683</span>
-						<span>🔱 5766</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13418</span>
+						<span>🔱 3292</span>
+					</div>
+				<div class="stars-today">⭐ 543 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+    
+
+
+      
+        maybe-finance /
+
+      maybe</a></p>
+				<p>
+      The OS for your personal finances
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 42726</span>
+						<span>🔱 3083</span>
+					</div>
+				<div class="stars-today">⭐ 19 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
+    
+
+
+      
+        AUTOMATIC1111 /
+
+      stable-diffusion-webui</a></p>
+				<p>
+      Stable Diffusion web UI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 151048</span>
+						<span>🔱 28124</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1865</span>
+						<span>🔱 131</span>
+					</div>
+				<div class="stars-today">⭐ 132 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21063</span>
+						<span>🔱 3817</span>
+					</div>
+				<div class="stars-today">⭐ 66 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/colinhacks/zod" target="_blank">
+    
+
+
+      
+        colinhacks /
+
+      zod</a></p>
+				<p>
+      TypeScript-first schema validation with static type inference
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36870</span>
+						<span>🔱 1331</span>
+					</div>
+				<div class="stars-today">⭐ 86 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ocornut/imgui" target="_blank">
+    
+
+
+      
+        ocornut /
+
+      imgui</a></p>
+				<p>
+      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 64611</span>
+						<span>🔱 10761</span>
+					</div>
+				<div class="stars-today">⭐ 47 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73450</span>
+						<span>🔱 16353</span>
+					</div>
+				<div class="stars-today">⭐ 91 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freqtrade/freqtrade" target="_blank">
+    
+
+
+      
+        freqtrade /
+
+      freqtrade</a></p>
+				<p>
+      Free, open source crypto trading bot
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37894</span>
+						<span>🔱 7504</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BasedHardware/omi" target="_blank">
+    
+
+
+      
+        BasedHardware /
+
+      omi</a></p>
+				<p>
+      AI wearables. Put it on, speak, transcribe, automatically
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 4587</span>
+						<span>🔱 708</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvim-lua/kickstart.nvim" target="_blank">
+    
+
+
+      
+        nvim-lua /
+
+      kickstart.nvim</a></p>
+				<p>
+      A launch point for your personal nvim configuration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 23710</span>
+						<span>🔱 31846</span>
 					</div>
 				<div class="stars-today">⭐ 49 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/google-cloud-go" target="_blank">
+				<p><a href="https://github.com/stanfordnlp/dspy" target="_blank">
     
 
 
       
-        googleapis /
+        stanfordnlp /
 
-      google-cloud-go</a></p>
+      dspy</a></p>
 				<p>
-      Google Cloud Client Libraries for Go.
+      DSPy: The framework for programming—not prompting—language models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4236</span>
-						<span>🔱 1409</span>
+						<span>🔠 Python</span>
+						<span>⭐ 23270</span>
+						<span>🔱 1788</span>
 					</div>
-				<div class="stars-today">⭐ 69 stars today</div>
+				<div class="stars-today">⭐ 75 stars today</div>
 				</div>
 			</div>
 	
