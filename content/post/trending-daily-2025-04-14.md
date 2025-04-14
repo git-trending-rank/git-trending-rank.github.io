@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-14
-date: 2025-04-14T09:58:54Z
+date: 2025-04-14T11:58:34Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14278</span>
-						<span>🔱 1719</span>
+						<span>⭐ 14451</span>
+						<span>🔱 1738</span>
 					</div>
 				<div class="stars-today">⭐ 1266 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/ai-chatbot" target="_blank">
-    
-
-
-      
-        vercel /
-
-      ai-chatbot</a></p>
-				<p>
-      A full-featured, hackable Next.js AI chatbot built by Vercel
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15127</span>
-						<span>🔱 3981</span>
-					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	
@@ -74,98 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3708</span>
-						<span>🔱 272</span>
+						<span>⭐ 3758</span>
+						<span>🔱 275</span>
 					</div>
 				<div class="stars-today">⭐ 524 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14051</span>
-						<span>🔱 3406</span>
-					</div>
-				<div class="stars-today">⭐ 543 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
-    
-
-
-      
-        maybe-finance /
-
-      maybe</a></p>
-				<p>
-      The OS for your personal finances
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 42961</span>
-						<span>🔱 3097</span>
-					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
-    
-
-
-      
-        AUTOMATIC1111 /
-
-      stable-diffusion-webui</a></p>
-				<p>
-      Stable Diffusion web UI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 151182</span>
-						<span>🔱 28134</span>
-					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meeting-minutes</a></p>
-				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 2357</span>
-						<span>🔱 159</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21373</span>
-						<span>🔱 3862</span>
+						<span>⭐ 21415</span>
+						<span>🔱 3866</span>
 					</div>
 				<div class="stars-today">⭐ 79 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/colinhacks/zod" target="_blank">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
     
 
 
       
-        colinhacks /
+        funstory-ai /
 
-      zod</a></p>
+      BabelDOC</a></p>
 				<p>
-      TypeScript-first schema validation with static type inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37026</span>
-						<span>🔱 1338</span>
-					</div>
-				<div class="stars-today">⭐ 193 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocornut/imgui" target="_blank">
-    
-
-
-      
-        ocornut /
-
-      imgui</a></p>
-				<p>
-      Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 64710</span>
-						<span>🔱 10769</span>
-					</div>
-				<div class="stars-today">⭐ 57 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
-    
-
-
-      
-        bregman-arie /
-
-      devops-exercises</a></p>
-				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      Yet Another Document Translator
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73684</span>
-						<span>🔱 16383</span>
+						<span>⭐ 2144</span>
+						<span>🔱 123</span>
 					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freqtrade/freqtrade" target="_blank">
-    
-
-
-      
-        freqtrade /
-
-      freqtrade</a></p>
-				<p>
-      Free, open source crypto trading bot
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38095</span>
-						<span>🔱 7532</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
+				<div class="stars-today">⭐ 161 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +118,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 4945</span>
-						<span>🔱 723</span>
+						<span>⭐ 4964</span>
+						<span>🔱 724</span>
 					</div>
 				<div class="stars-today">⭐ 63 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvim-lua/kickstart.nvim" target="_blank">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
     
 
 
       
-        nvim-lua /
+        GuijiAI /
 
-      kickstart.nvim</a></p>
-				<p>
-      A launch point for your personal nvim configuration
-    </p>
+      HeyGem.ai</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 23805</span>
-						<span>🔱 31900</span>
+						<span>🔠 C</span>
+						<span>⭐ 6655</span>
+						<span>🔱 1141</span>
 					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
+				<div class="stars-today">⭐ 172 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stanfordnlp/dspy" target="_blank">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
     
 
 
       
-        stanfordnlp /
+        Zackriya-Solutions /
 
-      dspy</a></p>
+      meeting-minutes</a></p>
 				<p>
-      DSPy: The framework for programming—not prompting—language models
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 2383</span>
+						<span>🔱 160</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Pennyw0rth/NetExec" target="_blank">
+    
+
+
+      
+        Pennyw0rth /
+
+      NetExec</a></p>
+				<p>
+      The Network Execution Tool
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23456</span>
-						<span>🔱 1799</span>
+						<span>⭐ 3799</span>
+						<span>🔱 433</span>
 					</div>
-				<div class="stars-today">⭐ 82 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/neovim/nvim-lspconfig" target="_blank">
+    
+
+
+      
+        neovim /
+
+      nvim-lspconfig</a></p>
+				<p>
+      Quickstart configs for Nvim LSP
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 11566</span>
+						<span>🔱 2155</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14097</span>
+						<span>🔱 3415</span>
+					</div>
+				<div class="stars-today">⭐ 543 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freqtrade/freqtrade" target="_blank">
+    
+
+
+      
+        freqtrade /
+
+      freqtrade</a></p>
+				<p>
+      Free, open source crypto trading bot
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38115</span>
+						<span>🔱 7533</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 370913</span>
+						<span>🔱 34497</span>
+					</div>
+				<div class="stars-today">⭐ 277 stars today</div>
 				</div>
 			</div>
 	

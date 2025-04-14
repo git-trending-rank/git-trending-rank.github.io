@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第16周
-date: 2025-04-14T09:58:53Z
+date: 2025-04-14T11:58:34Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48719</span>
-						<span>🔱 2325</span>
-					</div>
-				<div class="stars-today">⭐ 6124 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14278</span>
-						<span>🔱 1719</span>
+						<span>⭐ 14451</span>
+						<span>🔱 1738</span>
 					</div>
 				<div class="stars-today">⭐ 6522 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48736</span>
+						<span>🔱 2327</span>
+					</div>
+				<div class="stars-today">⭐ 6124 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57102</span>
-						<span>🔱 3925</span>
+						<span>⭐ 57121</span>
+						<span>🔱 3926</span>
 					</div>
 				<div class="stars-today">⭐ 3633 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
-    
-
-
-      
-        jiji262 /
-
-      douyin-downloader</a></p>
-				<p>
-      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3536</span>
-						<span>🔱 498</span>
-					</div>
-				<div class="stars-today">⭐ 1045 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18633</span>
-						<span>🔱 2253</span>
+						<span>⭐ 18635</span>
+						<span>🔱 2254</span>
 					</div>
 				<div class="stars-today">⭐ 1749 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
     
 
 
       
-        funstory-ai /
+        jiji262 /
 
-      BabelDOC</a></p>
+      douyin-downloader</a></p>
 				<p>
-      Yet Another Document Translator
+      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2136</span>
-						<span>🔱 123</span>
+						<span>⭐ 3539</span>
+						<span>🔱 501</span>
 					</div>
-				<div class="stars-today">⭐ 1185 stars this week</div>
+				<div class="stars-today">⭐ 1045 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
+    
+
+
+      
+        meta-llama /
+
+      llama-models</a></p>
+				<p>
+      Utilities intended for use with Llama models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6768</span>
+						<span>🔱 1106</span>
+					</div>
+				<div class="stars-today">⭐ 532 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14051</span>
-						<span>🔱 3406</span>
+						<span>⭐ 14097</span>
+						<span>🔱 3415</span>
 					</div>
 				<div class="stars-today">⭐ 3018 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+    
+
+
+      
+        funstory-ai /
+
+      BabelDOC</a></p>
+				<p>
+      Yet Another Document Translator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2144</span>
+						<span>🔱 123</span>
+					</div>
+				<div class="stars-today">⭐ 1185 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13695</span>
-						<span>🔱 449</span>
+						<span>⭐ 13712</span>
+						<span>🔱 450</span>
 					</div>
 				<div class="stars-today">⭐ 2199 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3145</span>
-						<span>🔱 256</span>
-					</div>
-				<div class="stars-today">⭐ 814 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      LightRAG</a></p>
-				<p>
-      "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15003</span>
-						<span>🔱 2057</span>
-					</div>
-				<div class="stars-today">⭐ 1404 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15127</span>
-						<span>🔱 3981</span>
+						<span>⭐ 15148</span>
+						<span>🔱 3984</span>
 					</div>
 				<div class="stars-today">⭐ 420 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2283</span>
-						<span>🔱 245</span>
-					</div>
-				<div class="stars-today">⭐ 467 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 20341</span>
+						<span>⭐ 20344</span>
 						<span>🔱 1375</span>
 					</div>
 				<div class="stars-today">⭐ 489 stars this week</div>
@@ -302,24 +258,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coder/code-server" target="_blank">
+				<p><a href="https://github.com/NVIDIA-Omniverse/PhysX" target="_blank">
     
 
 
       
-        coder /
+        NVIDIA-Omniverse /
 
-      code-server</a></p>
+      PhysX</a></p>
 				<p>
-      VS Code in the browser
+      NVIDIA PhysX SDK
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 70935</span>
-						<span>🔱 5863</span>
+						<span>🔠 C++</span>
+						<span>⭐ 3739</span>
+						<span>🔱 482</span>
 					</div>
-				<div class="stars-today">⭐ 254 stars this week</div>
+				<div class="stars-today">⭐ 541 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 63415</span>
+						<span>⭐ 63417</span>
 						<span>🔱 4254</span>
 					</div>
 				<div class="stars-today">⭐ 669 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      LightRAG</a></p>
+				<p>
+      "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15015</span>
+						<span>🔱 2057</span>
+					</div>
+				<div class="stars-today">⭐ 1404 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3149</span>
+						<span>🔱 258</span>
+					</div>
+				<div class="stars-today">⭐ 814 stars this week</div>
 				</div>
 			</div>
 	
