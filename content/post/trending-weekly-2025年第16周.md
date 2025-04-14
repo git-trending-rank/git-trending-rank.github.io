@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第16周
-date: 2025-04-14T03:45:38Z
+date: 2025-04-14T03:59:37Z
 categories:
 - weekly
 keywords:
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13376</span>
-						<span>🔱 1616</span>
+						<span>⭐ 13410</span>
+						<span>🔱 1620</span>
 					</div>
 				<div class="stars-today">⭐ 6522 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57027</span>
+						<span>⭐ 57028</span>
 						<span>🔱 3922</span>
 					</div>
 				<div class="stars-today">⭐ 3633 stars this week</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2074</span>
+						<span>⭐ 2079</span>
 						<span>🔱 119</span>
 					</div>
 				<div class="stars-today">⭐ 1185 stars this week</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13851</span>
+						<span>⭐ 13858</span>
 						<span>🔱 3361</span>
 					</div>
 				<div class="stars-today">⭐ 3018 stars this week</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3115</span>
+						<span>⭐ 3117</span>
 						<span>🔱 253</span>
 					</div>
 				<div class="stars-today">⭐ 814 stars this week</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14962</span>
+						<span>⭐ 14961</span>
 						<span>🔱 2053</span>
 					</div>
 				<div class="stars-today">⭐ 1404 stars this week</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15026</span>
-						<span>🔱 3971</span>
+						<span>⭐ 15028</span>
+						<span>🔱 3972</span>
 					</div>
 				<div class="stars-today">⭐ 420 stars this week</div>
 				</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 20327</span>
+						<span>⭐ 20328</span>
 						<span>🔱 1374</span>
 					</div>
 				<div class="stars-today">⭐ 489 stars this week</div>
