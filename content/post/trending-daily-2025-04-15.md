@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-15
-date: 2025-04-15T19:58:45Z
+date: 2025-04-15T21:58:44Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22523</span>
-						<span>🔱 4010</span>
+						<span>⭐ 22635</span>
+						<span>🔱 4021</span>
 					</div>
 				<div class="stars-today">⭐ 590 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5569</span>
-						<span>🔱 566</span>
+						<span>⭐ 5573</span>
+						<span>🔱 568</span>
 					</div>
 				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15525</span>
-						<span>🔱 1400</span>
+						<span>⭐ 15540</span>
+						<span>🔱 1401</span>
 					</div>
 				<div class="stars-today">⭐ 168 stars today</div>
 				</div>
@@ -91,12 +91,12 @@ keywords:
 
       meeting-minutes</a></p>
 				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 2974</span>
+						<span>⭐ 2988</span>
 						<span>🔱 207</span>
 					</div>
 				<div class="stars-today">⭐ 445 stars today</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 10747</span>
-						<span>🔱 514</span>
+						<span>⭐ 10760</span>
+						<span>🔱 515</span>
 					</div>
 				<div class="stars-today">⭐ 445 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17030</span>
-						<span>🔱 2014</span>
+						<span>⭐ 17065</span>
+						<span>🔱 2017</span>
 					</div>
 				<div class="stars-today">⭐ 2242 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 74157</span>
-						<span>🔱 6045</span>
+						<span>⭐ 74166</span>
+						<span>🔱 6046</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 35992</span>
+						<span>⭐ 36002</span>
 						<span>🔱 1758</span>
 					</div>
 				<div class="stars-today">⭐ 43 stars today</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14877</span>
-						<span>🔱 3582</span>
+						<span>⭐ 14892</span>
+						<span>🔱 3584</span>
 					</div>
 				<div class="stars-today">⭐ 623 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5322</span>
-						<span>🔱 781</span>
+						<span>⭐ 5343</span>
+						<span>🔱 782</span>
 					</div>
 				<div class="stars-today">⭐ 102 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4354</span>
-						<span>🔱 258</span>
+						<span>⭐ 4371</span>
+						<span>🔱 259</span>
 					</div>
 				<div class="stars-today">⭐ 310 stars today</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4483</span>
+						<span>⭐ 4493</span>
 						<span>🔱 335</span>
 					</div>
 				<div class="stars-today">⭐ 628 stars today</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24122</span>
+						<span>⭐ 24140</span>
 						<span>🔱 1698</span>
 					</div>
 				<div class="stars-today">⭐ 99 stars today</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73819</span>
-						<span>🔱 16421</span>
+						<span>⭐ 73834</span>
+						<span>🔱 16423</span>
 					</div>
 				<div class="stars-today">⭐ 89 stars today</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9217</span>
-						<span>🔱 1691</span>
+						<span>⭐ 9229</span>
+						<span>🔱 1690</span>
 					</div>
 				<div class="stars-today">⭐ 358 stars today</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 62938</span>
-						<span>🔱 10214</span>
+						<span>⭐ 62951</span>
+						<span>🔱 10215</span>
 					</div>
 				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 43142</span>
-						<span>🔱 3112</span>
+						<span>⭐ 43162</span>
+						<span>🔱 3113</span>
 					</div>
 				<div class="stars-today">⭐ 91 stars today</div>
 				</div>
@@ -404,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dockerfile</span>
-						<span>⭐ 71114</span>
-						<span>🔱 8955</span>
+						<span>⭐ 71134</span>
+						<span>🔱 8957</span>
 					</div>
 				<div class="stars-today">⭐ 559 stars today</div>
 				</div>
