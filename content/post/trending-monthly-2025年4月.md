@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-15T09:58:35Z
+date: 2025-04-15T11:58:42Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 37858</span>
-						<span>🔱 2667</span>
+						<span>⭐ 37906</span>
+						<span>🔱 2676</span>
 					</div>
 				<div class="stars-today">⭐ 28678 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16593</span>
-						<span>🔱 1961</span>
+						<span>⭐ 16726</span>
+						<span>🔱 1978</span>
 					</div>
 				<div class="stars-today">⭐ 12348 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9466</span>
-						<span>🔱 624</span>
+						<span>⭐ 9476</span>
+						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 6685 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2670</span>
+						<span>⭐ 2672</span>
 						<span>🔱 611</span>
 					</div>
 				<div class="stars-today">⭐ 2038 stars this month</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18222</span>
+						<span>⭐ 18232</span>
 						<span>🔱 943</span>
 					</div>
 				<div class="stars-today">⭐ 7010 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8706</span>
-						<span>🔱 2417</span>
-					</div>
-				<div class="stars-today">⭐ 4103 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,30 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14670</span>
-						<span>🔱 3530</span>
+						<span>⭐ 14711</span>
+						<span>🔱 3544</span>
 					</div>
 				<div class="stars-today">⭐ 9628 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
     
 
 
       
-        GuijiAI /
+        ourongxing /
 
-      HeyGem.ai</a></p>
-				<p></p>
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6848</span>
-						<span>🔱 1164</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8709</span>
+						<span>🔱 2419</span>
 					</div>
-				<div class="stars-today">⭐ 4499 stars this month</div>
+				<div class="stars-today">⭐ 4103 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50189</span>
+						<span>⭐ 50191</span>
 						<span>🔱 7434</span>
 					</div>
 				<div class="stars-today">⭐ 5731 stars this month</div>
@@ -212,24 +192,66 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/glanceapp/glance" target="_blank">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
     
 
 
       
-        glanceapp /
+        GuijiAI /
 
-      glance</a></p>
+      HeyGem.ai</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 6862</span>
+						<span>🔱 1164</span>
+					</div>
+				<div class="stars-today">⭐ 4499 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
 				<p>
-      A self-hosted dashboard that puts all your feeds in one place
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28113</span>
+						<span>🔱 3158</span>
+					</div>
+				<div class="stars-today">⭐ 8662 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22516</span>
-						<span>🔱 834</span>
+						<span>⭐ 3242</span>
+						<span>🔱 267</span>
 					</div>
-				<div class="stars-today">⭐ 10412 stars this month</div>
+				<div class="stars-today">⭐ 2583 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 81091</span>
-						<span>🔱 21624</span>
+						<span>⭐ 81148</span>
+						<span>🔱 21634</span>
 					</div>
 				<div class="stars-today">⭐ 13738 stars this month</div>
 				</div>
@@ -270,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2847</span>
+						<span>⭐ 2851</span>
 						<span>🔱 215</span>
 					</div>
 				<div class="stars-today">⭐ 2106 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28104</span>
-						<span>🔱 3156</span>
-					</div>
-				<div class="stars-today">⭐ 8662 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25047</span>
-						<span>🔱 3176</span>
+						<span>⭐ 25057</span>
+						<span>🔱 3178</span>
 					</div>
 				<div class="stars-today">⭐ 4386 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DiceDB/dice" target="_blank">
+				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
     
 
 
       
-        DiceDB /
+        PatrickJS /
 
-      dice</a></p>
+      awesome-cursorrules</a></p>
 				<p>
-      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
+      📄 A curated list of awesome .cursorrules files
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10053</span>
-						<span>🔱 1328</span>
+						<span>🔠 </span>
+						<span>⭐ 21860</span>
+						<span>🔱 1649</span>
 					</div>
-				<div class="stars-today">⭐ 2332 stars this month</div>
+				<div class="stars-today">⭐ 6328 stars this month</div>
 				</div>
 			</div>
 	

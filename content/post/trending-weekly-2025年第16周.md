@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第16周
-date: 2025-04-15T09:58:35Z
+date: 2025-04-15T11:58:42Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16593</span>
-						<span>🔱 1961</span>
+						<span>⭐ 16726</span>
+						<span>🔱 1978</span>
 					</div>
 				<div class="stars-today">⭐ 9133 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48913</span>
-						<span>🔱 2342</span>
-					</div>
-				<div class="stars-today">⭐ 5167 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57339</span>
+						<span>⭐ 57362</span>
 						<span>🔱 3937</span>
 					</div>
 				<div class="stars-today">⭐ 2801 stars this week</div>
@@ -82,24 +60,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/llm-cookbook" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        datawhalechina /
+        microsoft /
 
-      llm-cookbook</a></p>
+      markitdown</a></p>
 				<p>
-      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48916</span>
+						<span>🔱 2343</span>
+					</div>
+				<div class="stars-today">⭐ 5167 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+    
+
+
+      
+        funstory-ai /
+
+      BabelDOC</a></p>
+				<p>
+      Yet Another Document Translator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2373</span>
+						<span>🔱 131</span>
+					</div>
+				<div class="stars-today">⭐ 1123 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18732</span>
-						<span>🔱 2260</span>
+						<span>⭐ 14711</span>
+						<span>🔱 3544</span>
 					</div>
-				<div class="stars-today">⭐ 1353 stars this week</div>
+				<div class="stars-today">⭐ 3502 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 2833</span>
+						<span>🔱 199</span>
+					</div>
+				<div class="stars-today">⭐ 915 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3587</span>
+						<span>⭐ 3591</span>
 						<span>🔱 505</span>
 					</div>
 				<div class="stars-today">⭐ 1040 stars this week</div>
@@ -148,50 +192,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14670</span>
-						<span>🔱 3530</span>
-					</div>
-				<div class="stars-today">⭐ 3502 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
-    
-
-
-      
-        funstory-ai /
-
-      BabelDOC</a></p>
-				<p>
-      Yet Another Document Translator
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2363</span>
-						<span>🔱 131</span>
-					</div>
-				<div class="stars-today">⭐ 1123 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
@@ -206,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13884</span>
+						<span>⭐ 13898</span>
 						<span>🔱 454</span>
 					</div>
 				<div class="stars-today">⭐ 2285 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
+    
+
+
+      
+        getmaxun /
+
+      maxun</a></p>
+				<p>
+      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11448</span>
+						<span>🔱 892</span>
+					</div>
+				<div class="stars-today">⭐ 1301 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/llm-cookbook" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      llm-cookbook</a></p>
+				<p>
+      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 18738</span>
+						<span>🔱 2260</span>
+					</div>
+				<div class="stars-today">⭐ 1353 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,120 +272,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15217</span>
-						<span>🔱 4008</span>
+						<span>⭐ 15221</span>
+						<span>🔱 4011</span>
 					</div>
 				<div class="stars-today">⭐ 700 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/koreader/koreader" target="_blank">
+				<p><a href="https://github.com/coder/code-server" target="_blank">
     
 
 
       
-        koreader /
+        coder /
 
-      koreader</a></p>
+      code-server</a></p>
 				<p>
-      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+      VS Code in the browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 20391</span>
-						<span>🔱 1375</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 70952</span>
+						<span>🔱 5864</span>
 					</div>
-				<div class="stars-today">⭐ 475 stars this week</div>
+				<div class="stars-today">⭐ 300 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-Omniverse/PhysX" target="_blank">
+				<p><a href="https://github.com/mit-han-lab/nunchaku" target="_blank">
     
 
 
       
-        NVIDIA-Omniverse /
+        mit-han-lab /
 
-      PhysX</a></p>
+      nunchaku</a></p>
 				<p>
-      NVIDIA PhysX SDK
+      [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3765</span>
-						<span>🔱 485</span>
+						<span>🔠 Cuda</span>
+						<span>⭐ 1372</span>
+						<span>🔱 82</span>
 					</div>
-				<div class="stars-today">⭐ 319 stars this week</div>
+				<div class="stars-today">⭐ 218 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/caddyserver/caddy" target="_blank">
+				<p><a href="https://github.com/VSCodium/vscodium" target="_blank">
     
 
 
       
-        caddyserver /
+        VSCodium /
 
-      caddy</a></p>
+      vscodium</a></p>
 				<p>
-      Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+      binary releases of VS Code without MS branding/telemetry/licensing
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 63483</span>
-						<span>🔱 4257</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 26995</span>
+						<span>🔱 1241</span>
 					</div>
-				<div class="stars-today">⭐ 744 stars this week</div>
+				<div class="stars-today">⭐ 122 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
+				<p><a href="https://github.com/xerrors/Yuxi-Know" target="_blank">
     
 
 
       
-        HKUDS /
+        xerrors /
 
-      LightRAG</a></p>
+      Yuxi-Know</a></p>
 				<p>
-      "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+      基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 1099</span>
+						<span>🔱 98</span>
+					</div>
+				<div class="stars-today">⭐ 258 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15114</span>
-						<span>🔱 2064</span>
+						<span>⭐ 5204</span>
+						<span>🔱 775</span>
 					</div>
-				<div class="stars-today">⭐ 1348 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3234</span>
-						<span>🔱 267</span>
-					</div>
-				<div class="stars-today">⭐ 697 stars this week</div>
+				<div class="stars-today">⭐ 209 stars this week</div>
 				</div>
 			</div>
 	
