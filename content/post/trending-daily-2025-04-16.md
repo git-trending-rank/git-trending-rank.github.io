@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-16
-date: 2025-04-16T19:58:43Z
+date: 2025-04-16T21:58:48Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23943</span>
-						<span>🔱 4172</span>
+						<span>⭐ 24021</span>
+						<span>🔱 4186</span>
 					</div>
 				<div class="stars-today">⭐ 1559 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dockerfile</span>
-						<span>⭐ 72431</span>
-						<span>🔱 9034</span>
+						<span>⭐ 72473</span>
+						<span>🔱 9039</span>
 					</div>
 				<div class="stars-today">⭐ 1103 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 3950</span>
+						<span>⭐ 3959</span>
 						<span>🔱 212</span>
 					</div>
 				<div class="stars-today">⭐ 166 stars today</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15930</span>
-						<span>🔱 1425</span>
+						<span>⭐ 15943</span>
+						<span>🔱 1426</span>
 					</div>
 				<div class="stars-today">⭐ 399 stars today</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4843</span>
+						<span>⭐ 4861</span>
 						<span>🔱 268</span>
 					</div>
 				<div class="stars-today">⭐ 548 stars today</div>
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26666</span>
-						<span>🔱 1056</span>
+						<span>⭐ 26687</span>
+						<span>🔱 1057</span>
 					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
+				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 10529</span>
-						<span>🔱 2547</span>
+						<span>⭐ 10545</span>
+						<span>🔱 2548</span>
 					</div>
 				<div class="stars-today">⭐ 24 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17905</span>
-						<span>🔱 2133</span>
+						<span>⭐ 17916</span>
+						<span>🔱 2134</span>
 					</div>
 				<div class="stars-today">⭐ 999 stars today</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3310</span>
+						<span>⭐ 3328</span>
 						<span>🔱 231</span>
 					</div>
 				<div class="stars-today">⭐ 372 stars today</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14401</span>
-						<span>🔱 1473</span>
+						<span>⭐ 14432</span>
+						<span>🔱 1474</span>
 					</div>
 				<div class="stars-today">⭐ 227 stars today</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40763</span>
+						<span>⭐ 40779</span>
 						<span>🔱 3634</span>
 					</div>
 				<div class="stars-today">⭐ 113 stars today</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5932</span>
+						<span>⭐ 5934</span>
 						<span>🔱 587</span>
 					</div>
 				<div class="stars-today">⭐ 392 stars today</div>
@@ -289,12 +289,12 @@ keywords:
 
       kestra</a></p>
 				<p>
-      ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+      ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 17062</span>
+						<span>⭐ 17086</span>
 						<span>🔱 1447</span>
 					</div>
 				<div class="stars-today">⭐ 60 stars today</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 11662</span>
+						<span>⭐ 11664</span>
 						<span>🔱 2171</span>
 					</div>
 				<div class="stars-today">⭐ 16 stars today</div>
@@ -338,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 14365</span>
+						<span>⭐ 14367</span>
 						<span>🔱 1371</span>
 					</div>
 				<div class="stars-today">⭐ 30 stars today</div>
