@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第16周
-date: 2025-04-16T09:58:38Z
+date: 2025-04-16T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,98 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17662</span>
-						<span>🔱 2102</span>
+						<span>⭐ 17727</span>
+						<span>🔱 2118</span>
 					</div>
 				<div class="stars-today">⭐ 11194 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
-    
-
-
-      
-        juliangarnier /
-
-      anime</a></p>
-				<p>
-      JavaScript animation engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 57544</span>
-						<span>🔱 3938</span>
-					</div>
-				<div class="stars-today">⭐ 2228 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49031</span>
-						<span>🔱 2351</span>
-					</div>
-				<div class="stars-today">⭐ 3351 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
-    
-
-
-      
-        funstory-ai /
-
-      BabelDOC</a></p>
-				<p>
-      Yet Another Document Translator
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2421</span>
-						<span>🔱 134</span>
-					</div>
-				<div class="stars-today">⭐ 1150 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15135</span>
-						<span>🔱 3631</span>
-					</div>
-				<div class="stars-today">⭐ 3873 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,76 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3192</span>
-						<span>🔱 220</span>
+						<span>⭐ 3223</span>
+						<span>🔱 223</span>
 					</div>
 				<div class="stars-today">⭐ 1326 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        jiji262 /
+        microsoft /
 
-      douyin-downloader</a></p>
+      markitdown</a></p>
 				<p>
-      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3637</span>
-						<span>🔱 509</span>
+						<span>⭐ 49044</span>
+						<span>🔱 2351</span>
 					</div>
-				<div class="stars-today">⭐ 792 stars this week</div>
+				<div class="stars-today">⭐ 3351 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
+				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
     
 
 
       
-        meta-llama /
+        juliangarnier /
 
-      llama-models</a></p>
+      anime</a></p>
 				<p>
-      Utilities intended for use with Llama models.
+      JavaScript animation engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6805</span>
-						<span>🔱 1110</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 57565</span>
+						<span>🔱 3939</span>
 					</div>
-				<div class="stars-today">⭐ 136 stars this week</div>
+				<div class="stars-today">⭐ 2228 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        clockworklabs /
+        microsoft /
 
-      SpacetimeDB</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Multiplayer at the speed of light
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14015</span>
-						<span>🔱 456</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15157</span>
+						<span>🔱 3637</span>
 					</div>
-				<div class="stars-today">⭐ 2096 stars this week</div>
+				<div class="stars-today">⭐ 3873 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11581</span>
-						<span>🔱 900</span>
+						<span>⭐ 11596</span>
+						<span>🔱 901</span>
 					</div>
 				<div class="stars-today">⭐ 1274 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/llm-cookbook" target="_blank">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
 
       
-        datawhalechina /
+        clockworklabs /
 
-      llm-cookbook</a></p>
+      SpacetimeDB</a></p>
 				<p>
-      面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+      Multiplayer at the speed of light
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18806</span>
-						<span>🔱 2264</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 14026</span>
+						<span>🔱 456</span>
 					</div>
-				<div class="stars-today">⭐ 1236 stars this week</div>
+				<div class="stars-today">⭐ 2096 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15278</span>
-						<span>🔱 4023</span>
+						<span>⭐ 15280</span>
+						<span>🔱 4024</span>
 					</div>
 				<div class="stars-today">⭐ 756 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
+    
+
+
+      
+        CVEProject /
+
+      cvelistV5</a></p>
+				<p>
+      CVE cache of the official CVE List in CVE JSON 5 format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 1119</span>
+						<span>🔱 328</span>
+					</div>
+				<div class="stars-today">⭐ 106 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+    
+
+
+      
+        funstory-ai /
+
+      BabelDOC</a></p>
+				<p>
+      Yet Another Document Translator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2425</span>
+						<span>🔱 134</span>
+					</div>
+				<div class="stars-today">⭐ 1150 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jiji262/douyin-downloader" target="_blank">
+    
+
+
+      
+        jiji262 /
+
+      douyin-downloader</a></p>
+				<p>
+      抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3640</span>
+						<span>🔱 509</span>
+					</div>
+				<div class="stars-today">⭐ 792 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+    
+
+
+      
+        kestra-io /
+
+      kestra</a></p>
+				<p>
+      ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 16946</span>
+						<span>🔱 1443</span>
+					</div>
+				<div class="stars-today">⭐ 175 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supabase-community/supabase-mcp" target="_blank">
+    
+
+
+      
+        supabase-community /
+
+      supabase-mcp</a></p>
+				<p>
+      Connect Supabase to your AI assistants
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1160</span>
+						<span>🔱 67</span>
+					</div>
+				<div class="stars-today">⭐ 444 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71005</span>
+						<span>⭐ 71007</span>
 						<span>🔱 5869</span>
 					</div>
 				<div class="stars-today">⭐ 301 stars this week</div>
@@ -302,90 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mit-han-lab/nunchaku" target="_blank">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
     
 
 
       
-        mit-han-lab /
+        maybe-finance /
 
-      nunchaku</a></p>
+      maybe</a></p>
 				<p>
-      [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
+      The OS for your personal finances
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Cuda</span>
-						<span>⭐ 1402</span>
-						<span>🔱 84</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 43286</span>
+						<span>🔱 3119</span>
 					</div>
-				<div class="stars-today">⭐ 217 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VSCodium/vscodium" target="_blank">
-    
-
-
-      
-        VSCodium /
-
-      vscodium</a></p>
-				<p>
-      binary releases of VS Code without MS branding/telemetry/licensing
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 27034</span>
-						<span>🔱 1242</span>
-					</div>
-				<div class="stars-today">⭐ 127 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xerrors/Yuxi-Know" target="_blank">
-    
-
-
-      
-        xerrors /
-
-      Yuxi-Know</a></p>
-				<p>
-      基于智能体 RAG 知识库的知识图谱问答系统。Langgraph + VueJS + Flask + Neo4j。大模型适配 OpenAI、Ollama、vLLM、国内主流大模型平台的模型调用。支持推理模型DeepSeek-R1、联网检索、工具调用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 1145</span>
-						<span>🔱 99</span>
-					</div>
-				<div class="stars-today">⭐ 238 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5492</span>
-						<span>🔱 789</span>
-					</div>
-				<div class="stars-today">⭐ 300 stars this week</div>
+				<div class="stars-today">⭐ 559 stars this week</div>
 				</div>
 			</div>
 	

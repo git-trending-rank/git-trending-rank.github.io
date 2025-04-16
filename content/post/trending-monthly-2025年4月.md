@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-16T09:58:38Z
+date: 2025-04-16T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 38434</span>
-						<span>🔱 2719</span>
-					</div>
-				<div class="stars-today">⭐ 28881 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17662</span>
-						<span>🔱 2102</span>
+						<span>⭐ 17727</span>
+						<span>🔱 2118</span>
 					</div>
 				<div class="stars-today">⭐ 14399 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers</a></p>
+				<p>
+      A collection of MCP servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 38473</span>
+						<span>🔱 2724</span>
+					</div>
+				<div class="stars-today">⭐ 28881 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9609</span>
+						<span>⭐ 9615</span>
 						<span>🔱 637</span>
 					</div>
 				<div class="stars-today">⭐ 6765 stars this month</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2703</span>
-						<span>🔱 614</span>
+						<span>⭐ 2704</span>
+						<span>🔱 615</span>
 					</div>
 				<div class="stars-today">⭐ 2067 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18297</span>
-						<span>🔱 951</span>
-					</div>
-				<div class="stars-today">⭐ 7085 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15135</span>
-						<span>🔱 3631</span>
+						<span>⭐ 15157</span>
+						<span>🔱 3637</span>
 					</div>
 				<div class="stars-today">⭐ 10214 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
     
 
 
       
-        ourongxing /
+        th-ch /
 
-      newsnow</a></p>
+      youtube-music</a></p>
 				<p>
-      Elegant reading of real-time and hottest news
+      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8762</span>
-						<span>🔱 2440</span>
+						<span>⭐ 18301</span>
+						<span>🔱 951</span>
 					</div>
-				<div class="stars-today">⭐ 4140 stars this month</div>
+				<div class="stars-today">⭐ 7085 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50243</span>
+						<span>⭐ 50244</span>
 						<span>🔱 7444</span>
 					</div>
 				<div class="stars-today">⭐ 5763 stars this month</div>
@@ -192,22 +170,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
     
 
 
       
-        GuijiAI /
+        ourongxing /
 
-      HeyGem.ai</a></p>
-				<p></p>
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6931</span>
-						<span>🔱 1180</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8766</span>
+						<span>🔱 2441</span>
 					</div>
-				<div class="stars-today">⭐ 4414 stars this month</div>
+				<div class="stars-today">⭐ 4140 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 81698</span>
+						<span>🔱 21808</span>
+					</div>
+				<div class="stars-today">⭐ 14028 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28203</span>
-						<span>🔱 3167</span>
+						<span>⭐ 28211</span>
+						<span>🔱 3168</span>
 					</div>
 				<div class="stars-today">⭐ 8664 stars this month</div>
 				</div>
@@ -248,32 +250,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3303</span>
-						<span>🔱 272</span>
+						<span>⭐ 3305</span>
+						<span>🔱 273</span>
 					</div>
 				<div class="stars-today">⭐ 2594 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
     
 
 
       
-        n8n-io /
+        GuijiAI /
 
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
+      HeyGem.ai</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 81657</span>
-						<span>🔱 21796</span>
+						<span>🔠 C</span>
+						<span>⭐ 6939</span>
+						<span>🔱 1180</span>
 					</div>
-				<div class="stars-today">⭐ 14028 stars this month</div>
+				<div class="stars-today">⭐ 4414 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,54 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2892</span>
+						<span>⭐ 2897</span>
 						<span>🔱 219</span>
 					</div>
 				<div class="stars-today">⭐ 2074 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agno-agi/agno" target="_blank">
-    
-
-
-      
-        agno-agi /
-
-      agno</a></p>
-				<p>
-      Lightweight framework for building Agents with memory, knowledge, tools and reasoning.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25135</span>
-						<span>🔱 3188</span>
-					</div>
-				<div class="stars-today">⭐ 4435 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
-    
-
-
-      
-        PatrickJS /
-
-      awesome-cursorrules</a></p>
-				<p>
-      📄 A curated list of awesome .cursorrules files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 22034</span>
-						<span>🔱 1660</span>
-					</div>
-				<div class="stars-today">⭐ 6321 stars this month</div>
 				</div>
 			</div>
 	
