@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-17
-date: 2025-04-17T09:58:44Z
+date: 2025-04-17T11:58:39Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
+    
+
+
+      
+        CVEProject /
+
+      cvelistV5</a></p>
+				<p>
+      CVE cache of the official CVE List in CVE JSON 5 format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 1257</span>
+						<span>🔱 387</span>
+					</div>
+				<div class="stars-today">⭐ 151 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24733</span>
-						<span>🔱 4268</span>
+						<span>⭐ 24808</span>
+						<span>🔱 4281</span>
 					</div>
 				<div class="stars-today">⭐ 1590 stars today</div>
 				</div>
@@ -52,164 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dockerfile</span>
-						<span>⭐ 74048</span>
-						<span>🔱 9142</span>
+						<span>⭐ 74154</span>
+						<span>🔱 9148</span>
 					</div>
 				<div class="stars-today">⭐ 1010 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anxcye/anx-reader" target="_blank">
-    
-
-
-      
-        Anxcye /
-
-      anx-reader</a></p>
-				<p>
-      Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 4196</span>
-						<span>🔱 222</span>
-					</div>
-				<div class="stars-today">⭐ 133 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
-    
-
-
-      
-        vanna-ai /
-
-      vanna</a></p>
-				<p>
-      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16155</span>
-						<span>🔱 1439</span>
-					</div>
-				<div class="stars-today">⭐ 404 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fuma-nama/fumadocs" target="_blank">
-    
-
-
-      
-        fuma-nama /
-
-      fumadocs</a></p>
-				<p>
-      The beautiful docs framework with Next.js.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5089</span>
-						<span>🔱 271</span>
-					</div>
-				<div class="stars-today">⭐ 574 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
-    
-
-
-      
-        DioxusLabs /
-
-      dioxus</a></p>
-				<p>
-      Fullstack app framework for web, desktop, mobile, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26839</span>
-						<span>🔱 1063</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opf/openproject" target="_blank">
-    
-
-
-      
-        opf /
-
-      openproject</a></p>
-				<p>
-      OpenProject is the leading open source project management software.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 10649</span>
-						<span>🔱 2551</span>
-					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18372</span>
-						<span>🔱 2204</span>
-					</div>
-				<div class="stars-today">⭐ 1032 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meeting-minutes</a></p>
-				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3482</span>
-						<span>🔱 243</span>
-					</div>
-				<div class="stars-today">⭐ 384 stars today</div>
 				</div>
 			</div>
 	
@@ -228,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14633</span>
-						<span>🔱 1486</span>
+						<span>⭐ 14678</span>
+						<span>🔱 1490</span>
 					</div>
 				<div class="stars-today">⭐ 252 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        vanna-ai /
 
-      OpenBB</a></p>
+      vanna</a></p>
 				<p>
-      Investment Research for Everyone, Everywhere.
+      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40900</span>
-						<span>🔱 3640</span>
+						<span>⭐ 16171</span>
+						<span>🔱 1440</span>
 					</div>
-				<div class="stars-today">⭐ 112 stars today</div>
+				<div class="stars-today">⭐ 404 stars today</div>
 				</div>
 			</div>
 	
@@ -272,76 +140,206 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6080</span>
-						<span>🔱 594</span>
+						<span>⭐ 6099</span>
+						<span>🔱 597</span>
 					</div>
 				<div class="stars-today">⭐ 394 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+				<p><a href="https://github.com/SigmaHQ/sigma" target="_blank">
     
 
 
       
-        kestra-io /
+        SigmaHQ /
 
-      kestra</a></p>
+      sigma</a></p>
 				<p>
-      ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
+      Main Sigma Rule Repository
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 17233</span>
-						<span>🔱 1450</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8927</span>
+						<span>🔱 2310</span>
 					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
+				<div class="stars-today">⭐ 7 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/neovim/nvim-lspconfig" target="_blank">
+				<p><a href="https://github.com/docmost/docmost" target="_blank">
     
 
 
       
-        neovim /
+        docmost /
 
-      nvim-lspconfig</a></p>
+      docmost</a></p>
 				<p>
-      Quickstart configs for Nvim LSP
+      Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 11683</span>
-						<span>🔱 2173</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13444</span>
+						<span>🔱 651</span>
 					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
+				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/scylladb/scylladb" target="_blank">
+				<p><a href="https://github.com/midday-ai/midday" target="_blank">
     
 
 
       
-        scylladb /
+        midday-ai /
 
-      scylladb</a></p>
+      midday</a></p>
 				<p>
-      NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7497</span>
+						<span>🔱 735</span>
+					</div>
+				<div class="stars-today">⭐ 10 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SimplifyJobs/New-Grad-Positions" target="_blank">
+    
+
+
+      
+        SimplifyJobs /
+
+      New-Grad-Positions</a></p>
+				<p>
+      A collection of full time roles in SWE, Quant, and PM for new grads.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 12452</span>
+						<span>🔱 1095</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elastic/detection-rules" target="_blank">
+    
+
+
+      
+        elastic /
+
+      detection-rules</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2120</span>
+						<span>🔱 550</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 372195</span>
+						<span>🔱 34624</span>
+					</div>
+				<div class="stars-today">⭐ 397 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 14394</span>
-						<span>🔱 1371</span>
+						<span>⭐ 13225</span>
+						<span>🔱 924</span>
 					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
+				<div class="stars-today">⭐ 147 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cline/cline" target="_blank">
+    
+
+
+      
+        cline /
+
+      cline</a></p>
+				<p>
+      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40447</span>
+						<span>🔱 4459</span>
+					</div>
+				<div class="stars-today">⭐ 207 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      stagehand</a></p>
+				<p>
+      An AI web browsing framework focused on simplicity and extensibility.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9992</span>
+						<span>🔱 554</span>
+					</div>
+				<div class="stars-today">⭐ 252 stars today</div>
 				</div>
 			</div>
 	
