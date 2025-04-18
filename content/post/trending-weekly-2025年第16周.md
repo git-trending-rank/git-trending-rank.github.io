@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第16周
-date: 2025-04-18T09:58:49Z
+date: 2025-04-18T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18888</span>
-						<span>🔱 2281</span>
+						<span>⭐ 18927</span>
+						<span>🔱 2285</span>
 					</div>
 				<div class="stars-today">⭐ 10342 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
-    
-
-
-      
-        krillinai /
-
-      KrillinAI</a></p>
-				<p>
-       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4971</span>
-						<span>🔱 366</span>
-					</div>
-				<div class="stars-today">⭐ 3379 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1753</span>
+						<span>⭐ 1763</span>
 						<span>🔱 432</span>
 					</div>
 				<div class="stars-today">⭐ 316 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meeting-minutes</a></p>
-				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3616</span>
-						<span>🔱 248</span>
-					</div>
-				<div class="stars-today">⭐ 1930 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/ai-chatbot" target="_blank">
-    
-
-
-      
-        vercel /
-
-      ai-chatbot</a></p>
-				<p>
-      A full-featured, hackable Next.js AI chatbot built by Vercel
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15409</span>
-						<span>🔱 4054</span>
-					</div>
-				<div class="stars-today">⭐ 764 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,76 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25605</span>
-						<span>🔱 4371</span>
+						<span>⭐ 25651</span>
+						<span>🔱 4376</span>
 					</div>
 				<div class="stars-today">⭐ 4135 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
     
 
 
       
-        microsoft /
+        krillinai /
 
-      ai-agents-for-beginners</a></p>
+      KrillinAI</a></p>
 				<p>
-      10 Lessons to Get Started Building AI Agents
+       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15589</span>
-						<span>🔱 3752</span>
+						<span>🔠 Go</span>
+						<span>⭐ 4984</span>
+						<span>🔱 367</span>
 					</div>
-				<div class="stars-today">⭐ 3699 stars this week</div>
+				<div class="stars-today">⭐ 3379 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
     
 
 
       
-        maybe-finance /
+        Zackriya-Solutions /
 
-      maybe</a></p>
+      meeting-minutes</a></p>
 				<p>
-      The OS for your personal finances
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 43398</span>
-						<span>🔱 3129</span>
+						<span>🔠 C++</span>
+						<span>⭐ 3625</span>
+						<span>🔱 248</span>
 					</div>
-				<div class="stars-today">⭐ 716 stars this week</div>
+				<div class="stars-today">⭐ 1930 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
     
 
 
       
-        funstory-ai /
+        getmaxun /
 
-      BabelDOC</a></p>
+      maxun</a></p>
 				<p>
-      Yet Another Document Translator
+      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11766</span>
+						<span>🔱 912</span>
+					</div>
+				<div class="stars-today">⭐ 946 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
+    
+
+
+      
+        jlowin /
+
+      fastmcp</a></p>
+				<p>
+      🚀 The fast, Pythonic way to build MCP servers and clients
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2535</span>
-						<span>🔱 140</span>
+						<span>⭐ 5498</span>
+						<span>🔱 275</span>
 					</div>
-				<div class="stars-today">⭐ 1159 stars this week</div>
+				<div class="stars-today">⭐ 1066 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 17294</span>
+						<span>⭐ 17297</span>
 						<span>🔱 1453</span>
 					</div>
 				<div class="stars-today">⭐ 500 stars this week</div>
@@ -236,46 +192,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/liam-hq/liam" target="_blank">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
     
 
 
       
-        liam-hq /
+        funstory-ai /
 
-      liam</a></p>
+      BabelDOC</a></p>
 				<p>
-      Automatically generates beautiful and easy-to-read ER diagrams from your database.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3461</span>
-						<span>🔱 125</span>
-					</div>
-				<div class="stars-today">⭐ 422 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cuda-python" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cuda-python</a></p>
-				<p>
-      CUDA Python: Performance meets Productivity
+      Yet Another Document Translator
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2325</span>
-						<span>🔱 139</span>
+						<span>⭐ 2544</span>
+						<span>🔱 140</span>
 					</div>
-				<div class="stars-today">⭐ 461 stars this week</div>
+				<div class="stars-today">⭐ 1159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+    
+
+
+      
+        maybe-finance /
+
+      maybe</a></p>
+				<p>
+      The OS for your personal finances
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 43402</span>
+						<span>🔱 3130</span>
+					</div>
+				<div class="stars-today">⭐ 716 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NirDiamant/RAG_Techniques" target="_blank">
+    
+
+
+      
+        NirDiamant /
+
+      RAG_Techniques</a></p>
+				<p>
+      This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15027</span>
+						<span>🔱 1509</span>
+					</div>
+				<div class="stars-today">⭐ 888 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15604</span>
+						<span>🔱 3755</span>
+					</div>
+				<div class="stars-today">⭐ 3699 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel/ai-chatbot" target="_blank">
+    
+
+
+      
+        vercel /
+
+      ai-chatbot</a></p>
+				<p>
+      A full-featured, hackable Next.js AI chatbot built by Vercel
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15417</span>
+						<span>🔱 4057</span>
+					</div>
+				<div class="stars-today">⭐ 764 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7691</span>
+						<span>⭐ 7696</span>
 						<span>🔱 436</span>
 					</div>
 				<div class="stars-today">⭐ 240 stars this week</div>
@@ -302,46 +324,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
     
 
 
       
-        firebase /
+        Anduin2017 /
 
-      genkit</a></p>
+      HowToCook</a></p>
 				<p>
-      An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1651</span>
-						<span>🔱 227</span>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 75259</span>
+						<span>🔱 9224</span>
 					</div>
-				<div class="stars-today">⭐ 185 stars this week</div>
+				<div class="stars-today">⭐ 4069 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/girafe-ai/ml-course" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        girafe-ai /
+        nautechsystems /
 
-      ml-course</a></p>
+      nautilus_trader</a></p>
 				<p>
-      Open Machine Learning course
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 3018</span>
-						<span>🔱 1212</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5584</span>
+						<span>🔱 795</span>
 					</div>
-				<div class="stars-today">⭐ 251 stars this week</div>
+				<div class="stars-today">⭐ 585 stars this week</div>
 				</div>
 			</div>
 	

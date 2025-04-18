@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-18
-date: 2025-04-18T09:58:49Z
+date: 2025-04-18T11:58:37Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
     
 
 
       
-        CVEProject /
+        Anduin2017 /
 
-      cvelistV5</a></p>
+      HowToCook</a></p>
 				<p>
-      CVE cache of the official CVE List in CVE JSON 5 format
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 1753</span>
-						<span>🔱 432</span>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 75259</span>
+						<span>🔱 9224</span>
 					</div>
-				<div class="stars-today">⭐ 179 stars today</div>
+				<div class="stars-today">⭐ 2247 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
+    
+
+
+      
+        jlowin /
+
+      fastmcp</a></p>
+				<p>
+      🚀 The fast, Pythonic way to build MCP servers and clients
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5498</span>
+						<span>🔱 275</span>
+					</div>
+				<div class="stars-today">⭐ 232 stars today</div>
 				</div>
 			</div>
 	
@@ -52,228 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25605</span>
-						<span>🔱 4371</span>
+						<span>⭐ 25651</span>
+						<span>🔱 4376</span>
 					</div>
 				<div class="stars-today">⭐ 1341 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 75000</span>
-						<span>🔱 9200</span>
-					</div>
-				<div class="stars-today">⭐ 2247 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NirDiamant/RAG_Techniques" target="_blank">
-    
-
-
-      
-        NirDiamant /
-
-      RAG_Techniques</a></p>
-				<p>
-      This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15004</span>
-						<span>🔱 1508</span>
-					</div>
-				<div class="stars-today">⭐ 410 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
-    
-
-
-      
-        vanna-ai /
-
-      vanna</a></p>
-				<p>
-      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16539</span>
-						<span>🔱 1463</span>
-					</div>
-				<div class="stars-today">⭐ 376 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
-    
-
-
-      
-        svcvit /
-
-      Awesome-Dify-Workflow</a></p>
-				<p>
-      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 6278</span>
-						<span>🔱 608</span>
-					</div>
-				<div class="stars-today">⭐ 217 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SigmaHQ/sigma" target="_blank">
-    
-
-
-      
-        SigmaHQ /
-
-      sigma</a></p>
-				<p>
-      Main Sigma Rule Repository
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9027</span>
-						<span>🔱 2314</span>
-					</div>
-				<div class="stars-today">⭐ 20 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/docmost/docmost" target="_blank">
-    
-
-
-      
-        docmost /
-
-      docmost</a></p>
-				<p>
-      Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13834</span>
-						<span>🔱 670</span>
-					</div>
-				<div class="stars-today">⭐ 97 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
-    
-
-
-      
-        midday-ai /
-
-      midday</a></p>
-				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7698</span>
-						<span>🔱 746</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SimplifyJobs/New-Grad-Positions" target="_blank">
-    
-
-
-      
-        SimplifyJobs /
-
-      New-Grad-Positions</a></p>
-				<p>
-      A collection of full time roles in SWE, Quant, and PM for new grads.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 12559</span>
-						<span>🔱 1100</span>
-					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elastic/detection-rules" target="_blank">
-    
-
-
-      
-        elastic /
-
-      detection-rules</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2242</span>
-						<span>🔱 554</span>
-					</div>
-				<div class="stars-today">⭐ 25 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 372632</span>
-						<span>🔱 34661</span>
-					</div>
-				<div class="stars-today">⭐ 387 stars today</div>
 				</div>
 			</div>
 	
@@ -292,32 +96,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 13587</span>
-						<span>🔱 945</span>
+						<span>⭐ 13622</span>
+						<span>🔱 950</span>
 					</div>
 				<div class="stars-today">⭐ 250 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
+				<p><a href="https://github.com/linera-io/linera-protocol" target="_blank">
     
 
 
       
-        cline /
+        linera-io /
 
-      cline</a></p>
+      linera-protocol</a></p>
 				<p>
-      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+      Main repository for the Linera protocol
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 22635</span>
+						<span>🔱 1389</span>
+					</div>
+				<div class="stars-today">⭐ 1401 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/docmost/docmost" target="_blank">
+    
+
+
+      
+        docmost /
+
+      docmost</a></p>
+				<p>
+      Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40773</span>
-						<span>🔱 4496</span>
+						<span>⭐ 13859</span>
+						<span>🔱 670</span>
 					</div>
-				<div class="stars-today">⭐ 173 stars today</div>
+				<div class="stars-today">⭐ 97 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
+    
+
+
+      
+        CVEProject /
+
+      cvelistV5</a></p>
+				<p>
+      CVE cache of the official CVE List in CVE JSON 5 format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 1763</span>
+						<span>🔱 432</span>
+					</div>
+				<div class="stars-today">⭐ 179 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NirDiamant/RAG_Techniques" target="_blank">
+    
+
+
+      
+        NirDiamant /
+
+      RAG_Techniques</a></p>
+				<p>
+      This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15027</span>
+						<span>🔱 1509</span>
+					</div>
+				<div class="stars-today">⭐ 410 stars today</div>
 				</div>
 			</div>
 	
@@ -336,10 +206,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10291</span>
-						<span>🔱 568</span>
+						<span>⭐ 10308</span>
+						<span>🔱 570</span>
 					</div>
 				<div class="stars-today">⭐ 135 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opf/openproject" target="_blank">
+    
+
+
+      
+        opf /
+
+      openproject</a></p>
+				<p>
+      OpenProject is the leading open source project management software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 10668</span>
+						<span>🔱 2555</span>
+					</div>
+				<div class="stars-today">⭐ 111 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1Panel-dev/1Panel" target="_blank">
+    
+
+
+      
+        1Panel-dev /
+
+      1Panel</a></p>
+				<p>
+      🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26935</span>
+						<span>🔱 2368</span>
+					</div>
+				<div class="stars-today">⭐ 284 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anxcye/anx-reader" target="_blank">
+    
+
+
+      
+        Anxcye /
+
+      anx-reader</a></p>
+				<p>
+      Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 集成多种 AI 能力，支持丰富的电子书格式，让阅读更智能、更专注。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 4287</span>
+						<span>🔱 226</span>
+					</div>
+				<div class="stars-today">⭐ 273 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
+    
+
+
+      
+        nocobase /
+
+      nocobase</a></p>
+				<p>
+      NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14192</span>
+						<span>🔱 1609</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/potpie-ai/potpie" target="_blank">
+    
+
+
+      
+        potpie-ai /
+
+      potpie</a></p>
+				<p>
+      Prompt-To-Agent : Create custom engineering agents for your codebase
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3654</span>
+						<span>🔱 349</span>
+					</div>
+				<div class="stars-today">⭐ 117 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
+    
+
+
+      
+        All-Hands-AI /
+
+      OpenHands</a></p>
+				<p>
+      🙌 OpenHands: Code Less, Make More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 52998</span>
+						<span>🔱 5907</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-18T09:58:49Z
+date: 2025-04-18T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18888</span>
-						<span>🔱 2281</span>
+						<span>⭐ 18927</span>
+						<span>🔱 2285</span>
 					</div>
 				<div class="stars-today">⭐ 15605 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 39366</span>
-						<span>🔱 2804</span>
+						<span>⭐ 39398</span>
+						<span>🔱 2806</span>
 					</div>
 				<div class="stars-today">⭐ 28634 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9789</span>
-						<span>🔱 649</span>
+						<span>⭐ 9797</span>
+						<span>🔱 650</span>
 					</div>
 				<div class="stars-today">⭐ 6994 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15589</span>
-						<span>🔱 3752</span>
-					</div>
-				<div class="stars-today">⭐ 10796 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18423</span>
+						<span>⭐ 18428</span>
 						<span>🔱 953</span>
 					</div>
 				<div class="stars-today">⭐ 7193 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15604</span>
+						<span>🔱 3755</span>
+					</div>
+				<div class="stars-today">⭐ 10796 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2760</span>
+						<span>⭐ 2761</span>
 						<span>🔱 627</span>
 					</div>
 				<div class="stars-today">⭐ 2105 stars this month</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50381</span>
-						<span>🔱 7463</span>
+						<span>⭐ 50385</span>
+						<span>🔱 7466</span>
 					</div>
 				<div class="stars-today">⭐ 5867 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8901</span>
-						<span>🔱 2470</span>
-					</div>
-				<div class="stars-today">⭐ 4193 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 82622</span>
-						<span>🔱 22111</span>
+						<span>⭐ 82675</span>
+						<span>🔱 22128</span>
 					</div>
 				<div class="stars-today">⭐ 14588 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8908</span>
+						<span>🔱 2472</span>
+					</div>
+				<div class="stars-today">⭐ 4193 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28411</span>
-						<span>🔱 3195</span>
+						<span>⭐ 28425</span>
+						<span>🔱 3199</span>
 					</div>
 				<div class="stars-today">⭐ 8685 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3473</span>
-						<span>🔱 283</span>
+						<span>⭐ 3479</span>
+						<span>🔱 285</span>
 					</div>
 				<div class="stars-today">⭐ 2622 stars this month</div>
 				</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2988</span>
+						<span>⭐ 2992</span>
 						<span>🔱 224</span>
 					</div>
 				<div class="stars-today">⭐ 2052 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3757</span>
-						<span>🔱 426</span>
-					</div>
-				<div class="stars-today">⭐ 2490 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22323</span>
+						<span>⭐ 22337</span>
 						<span>🔱 1685</span>
 					</div>
 				<div class="stars-today">⭐ 6104 stars this month</div>
@@ -324,22 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GuijiAI/HeyGem.ai" target="_blank">
+				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
     
 
 
       
-        GuijiAI /
+        CVEProject /
 
-      HeyGem.ai</a></p>
-				<p></p>
+      cvelistV5</a></p>
+				<p>
+      CVE cache of the official CVE List in CVE JSON 5 format
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 7113</span>
-						<span>🔱 1204</span>
+						<span>🔠 </span>
+						<span>⭐ 1763</span>
+						<span>🔱 432</span>
 					</div>
-				<div class="stars-today">⭐ 4025 stars this month</div>
+				<div class="stars-today">⭐ 585 stars this month</div>
 				</div>
 			</div>
 	
