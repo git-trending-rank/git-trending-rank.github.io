@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-20T09:58:59Z
+date: 2025-04-20T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19714</span>
-						<span>🔱 2414</span>
+						<span>⭐ 19748</span>
+						<span>🔱 2417</span>
 					</div>
 				<div class="stars-today">⭐ 16037 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 40334</span>
-						<span>🔱 2882</span>
+						<span>⭐ 40364</span>
+						<span>🔱 2885</span>
 					</div>
 				<div class="stars-today">⭐ 28105 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11931</span>
-						<span>🔱 944</span>
+						<span>⭐ 11941</span>
+						<span>🔱 945</span>
 					</div>
 				<div class="stars-today">⭐ 8763 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9918</span>
+						<span>⭐ 9921</span>
 						<span>🔱 657</span>
 					</div>
 				<div class="stars-today">⭐ 7121 stars this month</div>
@@ -104,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
     
 
 
       
-        microsoft /
+        jlowin /
 
-      ai-agents-for-beginners</a></p>
+      fastmcp</a></p>
 				<p>
-      10 Lessons to Get Started Building AI Agents
+      🚀 The fast, Pythonic way to build MCP servers and clients
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15921</span>
-						<span>🔱 3885</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6267</span>
+						<span>🔱 327</span>
 					</div>
-				<div class="stars-today">⭐ 11106 stars this month</div>
+				<div class="stars-today">⭐ 4661 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18529</span>
+						<span>⭐ 18536</span>
 						<span>🔱 960</span>
 					</div>
 				<div class="stars-today">⭐ 7261 stars this month</div>
@@ -148,68 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        ourongxing /
+        microsoft /
 
-      newsnow</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Elegant reading of real-time and hottest news
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8989</span>
-						<span>🔱 2495</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15939</span>
+						<span>🔱 3887</span>
 					</div>
-				<div class="stars-today">⭐ 4229 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50477</span>
-						<span>🔱 7488</span>
-					</div>
-				<div class="stars-today">⭐ 5958 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
-    
-
-
-      
-        ageerle /
-
-      ruoyi-ai</a></p>
-				<p>
-      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2788</span>
-						<span>🔱 633</span>
-					</div>
-				<div class="stars-today">⭐ 2105 stars this month</div>
+				<div class="stars-today">⭐ 11106 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 83471</span>
-						<span>🔱 22399</span>
+						<span>⭐ 83509</span>
+						<span>🔱 22413</span>
 					</div>
 				<div class="stars-today">⭐ 14802 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8998</span>
+						<span>🔱 2496</span>
+					</div>
+				<div class="stars-today">⭐ 4229 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      spring-ai-alibaba</a></p>
+				<p>
+      Agentic AI Framework for Java Developers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2366</span>
+						<span>🔱 454</span>
+					</div>
+				<div class="stars-today">⭐ 1217 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28691</span>
-						<span>🔱 3230</span>
+						<span>⭐ 28710</span>
+						<span>🔱 3232</span>
 					</div>
 				<div class="stars-today">⭐ 8798 stars this month</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3572</span>
+						<span>⭐ 3575</span>
 						<span>🔱 296</span>
 					</div>
 				<div class="stars-today">⭐ 2671 stars this month</div>
@@ -302,6 +302,50 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50479</span>
+						<span>🔱 7489</span>
+					</div>
+				<div class="stars-today">⭐ 5958 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
+    
+
+
+      
+        ageerle /
+
+      ruoyi-ai</a></p>
+				<p>
+      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2790</span>
+						<span>🔱 633</span>
+					</div>
+				<div class="stars-today">⭐ 2105 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
     
 
@@ -316,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3062</span>
-						<span>🔱 231</span>
+						<span>⭐ 3065</span>
+						<span>🔱 232</span>
 					</div>
 				<div class="stars-today">⭐ 2000 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
-    
-
-
-      
-        PatrickJS /
-
-      awesome-cursorrules</a></p>
-				<p>
-      📄 A curated list of awesome .cursorrules files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 22541</span>
-						<span>🔱 1715</span>
-					</div>
-				<div class="stars-today">⭐ 5846 stars this month</div>
 				</div>
 			</div>
 	

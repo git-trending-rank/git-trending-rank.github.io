@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第16周
-date: 2025-04-20T09:58:59Z
+date: 2025-04-20T11:58:35Z
 categories:
 - weekly
 keywords:
@@ -38,28 +38,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19714</span>
-						<span>🔱 2414</span>
-					</div>
-				<div class="stars-today">⭐ 8715 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25956</span>
+						<span>⭐ 25960</span>
 						<span>🔱 4440</span>
 					</div>
 				<div class="stars-today">⭐ 4965 stars this week</div>
@@ -82,24 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
     
 
 
       
-        krillinai /
+        yeongpin /
 
-      KrillinAI</a></p>
+      cursor-free-vip</a></p>
 				<p>
-       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+      [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5344</span>
-						<span>🔱 387</span>
+						<span>🔠 Python</span>
+						<span>⭐ 19748</span>
+						<span>🔱 2417</span>
 					</div>
-				<div class="stars-today">⭐ 2436 stars this week</div>
+				<div class="stars-today">⭐ 8715 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3875</span>
-						<span>🔱 264</span>
+						<span>⭐ 3903</span>
+						<span>🔱 265</span>
 					</div>
 				<div class="stars-today">⭐ 1949 stars this week</div>
 				</div>
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6236</span>
-						<span>🔱 326</span>
+						<span>⭐ 6267</span>
+						<span>🔱 327</span>
 					</div>
 				<div class="stars-today">⭐ 1612 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+    
+
+
+      
+        krillinai /
+
+      KrillinAI</a></p>
+				<p>
+       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5381</span>
+						<span>🔱 389</span>
+					</div>
+				<div class="stars-today">⭐ 2436 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15418</span>
+						<span>⭐ 15427</span>
 						<span>🔱 1532</span>
 					</div>
 				<div class="stars-today">⭐ 1318 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
-    
-
-
-      
-        maybe-finance /
-
-      maybe</a></p>
-				<p>
-      The OS for your personal finances
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 43496</span>
-						<span>🔱 3137</span>
-					</div>
-				<div class="stars-today">⭐ 803 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14385</span>
-						<span>🔱 690</span>
+						<span>⭐ 14400</span>
+						<span>🔱 691</span>
 					</div>
 				<div class="stars-today">⭐ 920 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
+				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
     
 
 
       
-        getmaxun /
+        nocobase /
 
-      maxun</a></p>
+      nocobase</a></p>
 				<p>
-      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+      NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11894</span>
-						<span>🔱 918</span>
+						<span>⭐ 14688</span>
+						<span>🔱 1625</span>
 					</div>
-				<div class="stars-today">⭐ 785 stars this week</div>
+				<div class="stars-today">⭐ 436 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,54 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 83471</span>
-						<span>🔱 22399</span>
+						<span>⭐ 83509</span>
+						<span>🔱 22413</span>
 					</div>
 				<div class="stars-today">⭐ 3895 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
     
 
 
       
-        kestra-io /
+        getmaxun /
 
-      kestra</a></p>
+      maxun</a></p>
 				<p>
-      ⚡ Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 17391</span>
-						<span>🔱 1452</span>
-					</div>
-				<div class="stars-today">⭐ 592 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
-    
-
-
-      
-        CapSoftware /
-
-      Cap</a></p>
-				<p>
-      Open source Loom alternative. Beautiful, shareable screen recordings.
+      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7801</span>
-						<span>🔱 439</span>
+						<span>⭐ 11901</span>
+						<span>🔱 920</span>
 					</div>
-				<div class="stars-today">⭐ 353 stars this week</div>
+				<div class="stars-today">⭐ 785 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+    
+
+
+      
+        funstory-ai /
+
+      BabelDOC</a></p>
+				<p>
+      Yet Another Document Translator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2627</span>
+						<span>🔱 146</span>
+					</div>
+				<div class="stars-today">⭐ 784 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 40706</span>
+						<span>⭐ 40711</span>
 						<span>🔱 4385</span>
 					</div>
 				<div class="stars-today">⭐ 243 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      stagehand</a></p>
+				<p>
+      An AI web browsing framework focused on simplicity and extensibility.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10733</span>
+						<span>🔱 586</span>
+					</div>
+				<div class="stars-today">⭐ 1082 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+    
+
+
+      
+        maybe-finance /
+
+      maybe</a></p>
+				<p>
+      The OS for your personal finances
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 43499</span>
+						<span>🔱 3138</span>
+					</div>
+				<div class="stars-today">⭐ 803 stars this week</div>
 				</div>
 			</div>
 	
