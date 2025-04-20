@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第16周
-date: 2025-04-20T11:58:35Z
+date: 2025-04-20T13:58:52Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1831</span>
+						<span>⭐ 1832</span>
 						<span>🔱 435</span>
 					</div>
 				<div class="stars-today">⭐ 821 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25960</span>
-						<span>🔱 4440</span>
+						<span>⭐ 25971</span>
+						<span>🔱 4441</span>
 					</div>
 				<div class="stars-today">⭐ 4965 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19748</span>
-						<span>🔱 2417</span>
+						<span>⭐ 19793</span>
+						<span>🔱 2424</span>
 					</div>
 				<div class="stars-today">⭐ 8715 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3903</span>
-						<span>🔱 265</span>
+						<span>⭐ 3948</span>
+						<span>🔱 266</span>
 					</div>
 				<div class="stars-today">⭐ 1949 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6267</span>
-						<span>🔱 327</span>
+						<span>⭐ 6290</span>
+						<span>🔱 329</span>
 					</div>
 				<div class="stars-today">⭐ 1612 stars this week</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5381</span>
-						<span>🔱 389</span>
+						<span>⭐ 5423</span>
+						<span>🔱 390</span>
 					</div>
 				<div class="stars-today">⭐ 2436 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NirDiamant/RAG_Techniques" target="_blank">
-    
-
-
-      
-        NirDiamant /
-
-      RAG_Techniques</a></p>
-				<p>
-      This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15427</span>
-						<span>🔱 1532</span>
-					</div>
-				<div class="stars-today">⭐ 1318 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14400</span>
-						<span>🔱 691</span>
+						<span>⭐ 14410</span>
+						<span>🔱 692</span>
 					</div>
 				<div class="stars-today">⭐ 920 stars this week</div>
 				</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14688</span>
+						<span>⭐ 14703</span>
 						<span>🔱 1625</span>
 					</div>
 				<div class="stars-today">⭐ 436 stars this week</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 83509</span>
-						<span>🔱 22413</span>
+						<span>⭐ 83546</span>
+						<span>🔱 22427</span>
 					</div>
 				<div class="stars-today">⭐ 3895 stars this week</div>
 				</div>
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11901</span>
+						<span>⭐ 11910</span>
 						<span>🔱 920</span>
 					</div>
 				<div class="stars-today">⭐ 785 stars this week</div>
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2627</span>
-						<span>🔱 146</span>
+						<span>⭐ 2636</span>
+						<span>🔱 147</span>
 					</div>
 				<div class="stars-today">⭐ 784 stars this week</div>
 				</div>
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 40711</span>
-						<span>🔱 4385</span>
+						<span>⭐ 40713</span>
+						<span>🔱 4387</span>
 					</div>
 				<div class="stars-today">⭐ 243 stars this week</div>
 				</div>
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10733</span>
-						<span>🔱 586</span>
+						<span>⭐ 10752</span>
+						<span>🔱 587</span>
 					</div>
 				<div class="stars-today">⭐ 1082 stars this week</div>
 				</div>
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 43499</span>
+						<span>⭐ 43504</span>
 						<span>🔱 3138</span>
 					</div>
 				<div class="stars-today">⭐ 803 stars this week</div>
