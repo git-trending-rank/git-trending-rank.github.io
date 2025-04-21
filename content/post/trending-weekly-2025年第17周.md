@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第17周
-date: 2025-04-21T09:58:39Z
+date: 2025-04-21T11:58:44Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1848</span>
+						<span>⭐ 1847</span>
 						<span>🔱 435</span>
 					</div>
 				<div class="stars-today">⭐ 836 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26091</span>
-						<span>🔱 4471</span>
+						<span>⭐ 26096</span>
+						<span>🔱 4472</span>
 					</div>
 				<div class="stars-today">⭐ 4980 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20173</span>
-						<span>🔱 2483</span>
+						<span>⭐ 20216</span>
+						<span>🔱 2486</span>
 					</div>
 				<div class="stars-today">⭐ 7699 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4224</span>
+						<span>⭐ 4241</span>
 						<span>🔱 286</span>
 					</div>
 				<div class="stars-today">⭐ 2047 stars this week</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6648</span>
-						<span>🔱 346</span>
+						<span>⭐ 6676</span>
+						<span>🔱 347</span>
 					</div>
 				<div class="stars-today">⭐ 1797 stars this week</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5678</span>
-						<span>🔱 403</span>
+						<span>⭐ 5697</span>
+						<span>🔱 405</span>
 					</div>
 				<div class="stars-today">⭐ 2310 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/docmost/docmost" target="_blank">
-    
-
-
-      
-        docmost /
-
-      docmost</a></p>
-				<p>
-      Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14503</span>
-						<span>🔱 698</span>
-					</div>
-				<div class="stars-today">⭐ 1137 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,120 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14904</span>
-						<span>🔱 1638</span>
+						<span>⭐ 14926</span>
+						<span>🔱 1641</span>
 					</div>
 				<div class="stars-today">⭐ 651 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+				<p><a href="https://github.com/docmost/docmost" target="_blank">
     
 
 
       
-        n8n-io /
+        docmost /
 
-      n8n</a></p>
+      docmost</a></p>
 				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+      Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 83946</span>
-						<span>🔱 22576</span>
+						<span>⭐ 14514</span>
+						<span>🔱 698</span>
 					</div>
-				<div class="stars-today">⭐ 3703 stars this week</div>
+				<div class="stars-today">⭐ 1137 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
     
 
 
       
-        getmaxun /
+        elie222 /
 
-      maxun</a></p>
+      inbox-zero</a></p>
 				<p>
-      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+      AI personal assistant for email. Open source app to help you reach inbox zero fast.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11994</span>
-						<span>🔱 930</span>
+						<span>⭐ 6477</span>
+						<span>🔱 668</span>
 					</div>
-				<div class="stars-today">⭐ 720 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
-    
-
-
-      
-        funstory-ai /
-
-      BabelDOC</a></p>
-				<p>
-      Yet Another Document Translator
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2705</span>
-						<span>🔱 152</span>
-					</div>
-				<div class="stars-today">⭐ 654 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/termux/termux-app" target="_blank">
-    
-
-
-      
-        termux /
-
-      termux-app</a></p>
-				<p>
-      Termux - a terminal emulator application for Android OS extendible by variety of packages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 40749</span>
-						<span>🔱 4395</span>
-					</div>
-				<div class="stars-today">⭐ 240 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
-    
-
-
-      
-        browserbase /
-
-      stagehand</a></p>
-				<p>
-      An AI web browsing framework focused on simplicity and extensibility.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10877</span>
-						<span>🔱 595</span>
-					</div>
-				<div class="stars-today">⭐ 1233 stars this week</div>
+				<div class="stars-today">⭐ 771 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +228,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 43562</span>
-						<span>🔱 3143</span>
+						<span>⭐ 43569</span>
+						<span>🔱 3142</span>
 					</div>
 				<div class="stars-today">⭐ 797 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
+    
+
+
+      
+        getmaxun /
+
+      maxun</a></p>
+				<p>
+      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12003</span>
+						<span>🔱 930</span>
+					</div>
+				<div class="stars-today">⭐ 720 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/spring-projects/spring-ai" target="_blank">
+    
+
+
+      
+        spring-projects /
+
+      spring-ai</a></p>
+				<p>
+      An Application Framework for AI Engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 4753</span>
+						<span>🔱 1301</span>
+					</div>
+				<div class="stars-today">⭐ 134 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
+    
+
+
+      
+        svcvit /
+
+      Awesome-Dify-Workflow</a></p>
+				<p>
+      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 6385</span>
+						<span>🔱 618</span>
+					</div>
+				<div class="stars-today">⭐ 978 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
+    
+
+
+      
+        paperless-ngx /
+
+      paperless-ngx</a></p>
+				<p>
+      A community-supported supercharged version of paperless: scan, index and archive all your physical documents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26489</span>
+						<span>🔱 1549</span>
+					</div>
+				<div class="stars-today">⭐ 153 stars this week</div>
 				</div>
 			</div>
 	

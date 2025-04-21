@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-21T09:58:39Z
+date: 2025-04-21T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20173</span>
-						<span>🔱 2483</span>
+						<span>⭐ 20216</span>
+						<span>🔱 2486</span>
 					</div>
 				<div class="stars-today">⭐ 16315 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 40859</span>
-						<span>🔱 2943</span>
+						<span>⭐ 40903</span>
+						<span>🔱 2947</span>
 					</div>
 				<div class="stars-today">⭐ 27632 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12075</span>
-						<span>🔱 953</span>
+						<span>⭐ 12088</span>
+						<span>🔱 954</span>
 					</div>
 				<div class="stars-today">⭐ 8860 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
-    
-
-
-      
-        ahmedkhaleel2004 /
-
-      gitdiagram</a></p>
-				<p>
-      Free, simple, fast interactive diagrams for any GitHub repository
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10033</span>
-						<span>🔱 659</span>
-					</div>
-				<div class="stars-today">⭐ 7189 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
-    
-
-
-      
-        jlowin /
-
-      fastmcp</a></p>
-				<p>
-      🚀 The fast, Pythonic way to build MCP servers and clients
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6648</span>
-						<span>🔱 346</span>
-					</div>
-				<div class="stars-today">⭐ 4699 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18604</span>
+						<span>⭐ 18609</span>
 						<span>🔱 962</span>
 					</div>
 				<div class="stars-today">⭐ 7313 stars this month</div>
@@ -162,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16177</span>
-						<span>🔱 3970</span>
+						<span>⭐ 16188</span>
+						<span>🔱 3975</span>
 					</div>
 				<div class="stars-today">⭐ 11243 stars this month</div>
 				</div>
@@ -184,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 83946</span>
-						<span>🔱 22576</span>
+						<span>⭐ 83995</span>
+						<span>🔱 22592</span>
 					</div>
 				<div class="stars-today">⭐ 14887 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9044</span>
-						<span>🔱 2511</span>
-					</div>
-				<div class="stars-today">⭐ 4253 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2389</span>
+						<span>⭐ 2390</span>
 						<span>🔱 459</span>
 					</div>
 				<div class="stars-today">⭐ 1217 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28986</span>
-						<span>🔱 3252</span>
-					</div>
-				<div class="stars-today">⭐ 8862 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3637</span>
-						<span>🔱 300</span>
-					</div>
-				<div class="stars-today">⭐ 2680 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1848</span>
+						<span>⭐ 1847</span>
 						<span>🔱 435</span>
 					</div>
 				<div class="stars-today">⭐ 879 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29022</span>
+						<span>🔱 3255</span>
+					</div>
+				<div class="stars-today">⭐ 8862 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9050</span>
+						<span>🔱 2513</span>
+					</div>
+				<div class="stars-today">⭐ 4253 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3640</span>
+						<span>🔱 300</span>
+					</div>
+				<div class="stars-today">⭐ 2680 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+    
+
+
+      
+        wonderwhy-er /
+
+      DesktopCommanderMCP</a></p>
+				<p>
+      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1833</span>
+						<span>🔱 190</span>
+					</div>
+				<div class="stars-today">⭐ 1653 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50522</span>
+						<span>⭐ 50531</span>
 						<span>🔱 7493</span>
 					</div>
 				<div class="stars-today">⭐ 5986 stars this month</div>
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2815</span>
+						<span>⭐ 2818</span>
 						<span>🔱 637</span>
 					</div>
 				<div class="stars-today">⭐ 2115 stars this month</div>
@@ -346,24 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
+				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
     
 
 
       
-        executeautomation /
+        PatrickJS /
 
-      mcp-playwright</a></p>
+      awesome-cursorrules</a></p>
 				<p>
-      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+      📄 A curated list of awesome .cursorrules files
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3115</span>
-						<span>🔱 242</span>
+						<span>🔠 </span>
+						<span>⭐ 22703</span>
+						<span>🔱 1728</span>
 					</div>
-				<div class="stars-today">⭐ 1931 stars this month</div>
+				<div class="stars-today">⭐ 5745 stars this month</div>
 				</div>
 			</div>
 	

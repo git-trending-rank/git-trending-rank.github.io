@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-21
-date: 2025-04-21T09:58:39Z
+date: 2025-04-21T11:58:44Z
 categories:
 - daily
 keywords:
@@ -14,204 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15177</span>
-						<span>🔱 1067</span>
-					</div>
-				<div class="stars-today">⭐ 593 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21014</span>
-						<span>🔱 1771</span>
-					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 336974</span>
-						<span>🔱 35612</span>
-					</div>
-				<div class="stars-today">⭐ 455 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 79028</span>
-						<span>🔱 9514</span>
-					</div>
-				<div class="stars-today">⭐ 878 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28986</span>
-						<span>🔱 3252</span>
-					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
-    
-
-
-      
-        jlowin /
-
-      fastmcp</a></p>
-				<p>
-      🚀 The fast, Pythonic way to build MCP servers and clients
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6648</span>
-						<span>🔱 346</span>
-					</div>
-				<div class="stars-today">⭐ 354 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1Panel-dev/1Panel" target="_blank">
-    
-
-
-      
-        1Panel-dev /
-
-      1Panel</a></p>
-				<p>
-      🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 27775</span>
-						<span>🔱 2415</span>
-					</div>
-				<div class="stars-today">⭐ 233 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
-    
-
-
-      
-        nocobase /
-
-      nocobase</a></p>
-				<p>
-      NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14904</span>
-						<span>🔱 1638</span>
-					</div>
-				<div class="stars-today">⭐ 232 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
-    
-
-
-      
-        yt-dlp /
-
-      yt-dlp</a></p>
-				<p>
-      A feature-rich command-line audio/video downloader
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 108501</span>
-						<span>🔱 8521</span>
-					</div>
-				<div class="stars-today">⭐ 106 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
@@ -228,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50891</span>
-						<span>🔱 2471</span>
+						<span>⭐ 50967</span>
+						<span>🔱 2476</span>
 					</div>
-				<div class="stars-today">⭐ 483 stars today</div>
+				<div class="stars-today">⭐ 1030 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 15244</span>
+						<span>🔱 1077</span>
+					</div>
+				<div class="stars-today">⭐ 690 stars today</div>
 				</div>
 			</div>
 	
@@ -250,76 +74,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6448</span>
-						<span>🔱 666</span>
+						<span>⭐ 6477</span>
+						<span>🔱 668</span>
 					</div>
-				<div class="stars-today">⭐ 226 stars today</div>
+				<div class="stars-today">⭐ 250 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ashvardanian/less_slow.cpp" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        ashvardanian /
+        Shubhamsaboo /
 
-      less_slow.cpp</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Playing around "Less Slow" coding practices in C++ 20, C, CUDA, PTX, & Assembly, from numerics & SIMD to coroutines, ranges, exception handling, networking and user-space IO
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1480</span>
-						<span>🔱 55</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29022</span>
+						<span>🔱 3255</span>
 					</div>
-				<div class="stars-today">⭐ 140 stars today</div>
+				<div class="stars-today">⭐ 314 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wandb/openui" target="_blank">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
     
 
 
       
-        wandb /
+        allenai /
 
-      openui</a></p>
+      olmocr</a></p>
 				<p>
-      OpenUI let's you describe UI using your imagination, then see it rendered live.
+      Toolkit for linearizing PDFs for LLM datasets/training
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11548</span>
+						<span>🔱 779</span>
+					</div>
+				<div class="stars-today">⭐ 236 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+    
+
+
+      
+        yt-dlp /
+
+      yt-dlp</a></p>
+				<p>
+      A feature-rich command-line audio/video downloader
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 108522</span>
+						<span>🔱 8526</span>
+					</div>
+				<div class="stars-today">⭐ 331 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 27199</span>
+						<span>🔱 1930</span>
+					</div>
+				<div class="stars-today">⭐ 90 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
+    
+
+
+      
+        nocobase /
+
+      nocobase</a></p>
+				<p>
+      NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20767</span>
-						<span>🔱 1934</span>
+						<span>⭐ 14926</span>
+						<span>🔱 1641</span>
 					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
+				<div class="stars-today">⭐ 243 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linera-io/linera-protocol" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        linera-io /
+        public-apis /
 
-      linera-protocol</a></p>
+      public-apis</a></p>
 				<p>
-      Main repository for the Linera protocol
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24303</span>
-						<span>🔱 1505</span>
+						<span>🔠 Python</span>
+						<span>⭐ 337012</span>
+						<span>🔱 35615</span>
 					</div>
-				<div class="stars-today">⭐ 474 stars today</div>
+				<div class="stars-today">⭐ 616 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 315040</span>
+						<span>🔱 78486</span>
+					</div>
+				<div class="stars-today">⭐ 295 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
+    
+
+
+      
+        Byaidu /
+
+      PDFMathTranslate</a></p>
+				<p>
+      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21048</span>
+						<span>🔱 1780</span>
+					</div>
+				<div class="stars-today">⭐ 478 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/007revad/Synology_HDD_db" target="_blank">
+    
+
+
+      
+        007revad /
+
+      Synology_HDD_db</a></p>
+				<p>
+      Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 3495</span>
+						<span>🔱 223</span>
+					</div>
+				<div class="stars-today">⭐ 101 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jumpserver/jumpserver" target="_blank">
+    
+
+
+      
+        jumpserver /
+
+      jumpserver</a></p>
+				<p>
+      JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26859</span>
+						<span>🔱 5444</span>
+					</div>
+				<div class="stars-today">⭐ 160 stars today</div>
 				</div>
 			</div>
 	
