@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第17周
-date: 2025-04-22T09:58:34Z
+date: 2025-04-22T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1872</span>
-						<span>🔱 437</span>
+						<span>⭐ 1871</span>
+						<span>🔱 438</span>
 					</div>
 				<div class="stars-today">⭐ 854 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26211</span>
-						<span>🔱 4497</span>
+						<span>⭐ 26224</span>
+						<span>🔱 4500</span>
 					</div>
 				<div class="stars-today">⭐ 4759 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20597</span>
-						<span>🔱 2540</span>
+						<span>⭐ 20620</span>
+						<span>🔱 2547</span>
 					</div>
 				<div class="stars-today">⭐ 5816 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meeting-minutes</a></p>
-				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4372</span>
-						<span>🔱 293</span>
-					</div>
-				<div class="stars-today">⭐ 1865 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6905</span>
-						<span>🔱 357</span>
+						<span>⭐ 6929</span>
+						<span>🔱 359</span>
 					</div>
 				<div class="stars-today">⭐ 2026 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
     
 
 
       
-        krillinai /
+        vanna-ai /
 
-      KrillinAI</a></p>
+      vanna</a></p>
 				<p>
-       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5864</span>
-						<span>🔱 425</span>
+						<span>🔠 Python</span>
+						<span>⭐ 16807</span>
+						<span>🔱 1493</span>
 					</div>
-				<div class="stars-today">⭐ 1941 stars this week</div>
+				<div class="stars-today">⭐ 1482 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4383</span>
+						<span>🔱 294</span>
+					</div>
+				<div class="stars-today">⭐ 1865 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15124</span>
+						<span>⭐ 15132</span>
 						<span>🔱 1657</span>
 					</div>
 				<div class="stars-today">⭐ 866 stars this week</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14592</span>
+						<span>⭐ 14595</span>
 						<span>🔱 702</span>
 					</div>
 				<div class="stars-today">⭐ 1221 stars this week</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6720</span>
+						<span>⭐ 6740</span>
 						<span>🔱 688</span>
 					</div>
 				<div class="stars-today">⭐ 973 stars this week</div>
@@ -214,90 +214,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
     
 
 
       
-        maybe-finance /
+        browserbase /
 
-      maybe</a></p>
+      stagehand</a></p>
 				<p>
-      The OS for your personal finances
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 43614</span>
-						<span>🔱 3143</span>
-					</div>
-				<div class="stars-today">⭐ 629 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getmaxun/maxun" target="_blank">
-    
-
-
-      
-        getmaxun /
-
-      maxun</a></p>
-				<p>
-      🔥 Open Source No Code Web Data Extraction Platform. Turn Websites To APIs & Spreadsheets With No-Code Robots In Minutes 🔥
+      An AI web browsing framework focused on simplicity and extensibility.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12115</span>
-						<span>🔱 935</span>
+						<span>⭐ 10998</span>
+						<span>🔱 601</span>
 					</div>
-				<div class="stars-today">⭐ 695 stars this week</div>
+				<div class="stars-today">⭐ 1352 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/spring-projects/spring-ai" target="_blank">
+				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
     
 
 
       
-        spring-projects /
+        Byaidu /
 
-      spring-ai</a></p>
+      PDFMathTranslate</a></p>
 				<p>
-      An Application Framework for AI Engineering
+      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 4790</span>
-						<span>🔱 1308</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21307</span>
+						<span>🔱 1805</span>
 					</div>
-				<div class="stars-today">⭐ 135 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/svcvit/Awesome-Dify-Workflow" target="_blank">
-    
-
-
-      
-        svcvit /
-
-      Awesome-Dify-Workflow</a></p>
-				<p>
-      分享一些好用的 Dify DSL 工作流程，自用、学习两相宜。 Sharing some Dify workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 6448</span>
-						<span>🔱 621</span>
-					</div>
-				<div class="stars-today">⭐ 975 stars this week</div>
+				<div class="stars-today">⭐ 898 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26581</span>
+						<span>⭐ 26592</span>
 						<span>🔱 1550</span>
 					</div>
 				<div class="stars-today">⭐ 178 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 314818</span>
+						<span>🔱 40929</span>
+					</div>
+				<div class="stars-today">⭐ 951 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+    
+
+
+      
+        krillinai /
+
+      KrillinAI</a></p>
+				<p>
+       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5876</span>
+						<span>🔱 428</span>
+					</div>
+				<div class="stars-today">⭐ 1941 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 315356</span>
+						<span>🔱 78525</span>
+					</div>
+				<div class="stars-today">⭐ 961 stars this week</div>
 				</div>
 			</div>
 	

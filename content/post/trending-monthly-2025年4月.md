@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-22T09:58:34Z
+date: 2025-04-22T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20597</span>
-						<span>🔱 2540</span>
+						<span>⭐ 20620</span>
+						<span>🔱 2547</span>
 					</div>
 				<div class="stars-today">⭐ 16598 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 41401</span>
-						<span>🔱 2989</span>
+						<span>⭐ 41431</span>
+						<span>🔱 2992</span>
 					</div>
 				<div class="stars-today">⭐ 27670 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12219</span>
-						<span>🔱 966</span>
-					</div>
-				<div class="stars-today">⭐ 8351 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18676</span>
+						<span>⭐ 18681</span>
 						<span>🔱 965</span>
 					</div>
 				<div class="stars-today">⭐ 7369 stars this month</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16406</span>
-						<span>🔱 4057</span>
+						<span>⭐ 16419</span>
+						<span>🔱 4066</span>
 					</div>
 				<div class="stars-today">⭐ 11378 stars this month</div>
 				</div>
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84433</span>
-						<span>🔱 22740</span>
+						<span>⭐ 84461</span>
+						<span>🔱 22752</span>
 					</div>
 				<div class="stars-today">⭐ 15039 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
     
 
 
       
-        alibaba /
+        bytedance /
 
-      spring-ai-alibaba</a></p>
+      UI-TARS-desktop</a></p>
 				<p>
-      Agentic AI Framework for Java Developers
+      A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2419</span>
-						<span>🔱 461</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12237</span>
+						<span>🔱 966</span>
 					</div>
-				<div class="stars-today">⭐ 1225 stars this month</div>
+				<div class="stars-today">⭐ 8351 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1872</span>
-						<span>🔱 437</span>
+						<span>⭐ 1871</span>
+						<span>🔱 438</span>
 					</div>
 				<div class="stars-today">⭐ 894 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29417</span>
-						<span>🔱 3286</span>
-					</div>
-				<div class="stars-today">⭐ 9102 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9104</span>
-						<span>🔱 2530</span>
+						<span>⭐ 9110</span>
+						<span>🔱 2533</span>
 					</div>
 				<div class="stars-today">⭐ 4269 stars this month</div>
 				</div>
@@ -250,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3707</span>
+						<span>⭐ 3715</span>
 						<span>🔱 304</span>
 					</div>
 				<div class="stars-today">⭐ 2699 stars this month</div>
@@ -258,68 +214,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        wonderwhy-er /
+        Shubhamsaboo /
 
-      DesktopCommanderMCP</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1875</span>
-						<span>🔱 194</span>
-					</div>
-				<div class="stars-today">⭐ 1618 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50584</span>
-						<span>🔱 7503</span>
+						<span>⭐ 29436</span>
+						<span>🔱 3288</span>
 					</div>
-				<div class="stars-today">⭐ 6001 stars this month</div>
+				<div class="stars-today">⭐ 9102 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ageerle/ruoyi-ai" target="_blank">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
     
 
 
       
-        ageerle /
+        alibaba /
 
-      ruoyi-ai</a></p>
+      spring-ai-alibaba</a></p>
 				<p>
-      RuoYi AI 是一个全栈式 AI 开发平台，旨在帮助开发者快速构建和部署个性化的 AI 应用。
+      Agentic AI Framework for Java Developers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2864</span>
-						<span>🔱 645</span>
+						<span>⭐ 2421</span>
+						<span>🔱 461</span>
 					</div>
-				<div class="stars-today">⭐ 2129 stars this month</div>
+				<div class="stars-today">⭐ 1225 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22858</span>
-						<span>🔱 1739</span>
+						<span>⭐ 22865</span>
+						<span>🔱 1743</span>
 					</div>
 				<div class="stars-today">⭐ 5745 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
+    
+
+
+      
+        executeautomation /
+
+      mcp-playwright</a></p>
+				<p>
+      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3154</span>
+						<span>🔱 249</span>
+					</div>
+				<div class="stars-today">⭐ 1868 stars this month</div>
 				</div>
 			</div>
 	
