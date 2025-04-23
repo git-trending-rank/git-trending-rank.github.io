@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第17周
-date: 2025-04-23T09:58:58Z
+date: 2025-04-23T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 79868</span>
+						<span>🔱 9595</span>
+					</div>
+				<div class="stars-today">⭐ 8638 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
@@ -30,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1887</span>
+						<span>⭐ 1889</span>
 						<span>🔱 441</span>
 					</div>
 				<div class="stars-today">⭐ 876 stars this week</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26331</span>
-						<span>🔱 4520</span>
+						<span>⭐ 26336</span>
+						<span>🔱 4522</span>
 					</div>
 				<div class="stars-today">⭐ 4344 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20938</span>
-						<span>🔱 2606</span>
-					</div>
-				<div class="stars-today">⭐ 4013 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,186 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7114</span>
+						<span>⭐ 7129</span>
 						<span>🔱 368</span>
 					</div>
 				<div class="stars-today">⭐ 2069 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
-    
-
-
-      
-        vanna-ai /
-
-      vanna</a></p>
-				<p>
-      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16896</span>
-						<span>🔱 1495</span>
-					</div>
-				<div class="stars-today">⭐ 1422 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meeting-minutes</a></p>
-				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4467</span>
-						<span>🔱 305</span>
-					</div>
-				<div class="stars-today">⭐ 1553 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
-    
-
-
-      
-        nocobase /
-
-      nocobase</a></p>
-				<p>
-      NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15193</span>
-						<span>🔱 1662</span>
-					</div>
-				<div class="stars-today">⭐ 1060 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/docmost/docmost" target="_blank">
-    
-
-
-      
-        docmost /
-
-      docmost</a></p>
-				<p>
-      Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14687</span>
-						<span>🔱 710</span>
-					</div>
-				<div class="stars-today">⭐ 1270 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
-    
-
-
-      
-        elie222 /
-
-      inbox-zero</a></p>
-				<p>
-      AI personal assistant for email. Open source app to help you reach inbox zero fast.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6821</span>
-						<span>🔱 692</span>
-					</div>
-				<div class="stars-today">⭐ 1210 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
-    
-
-
-      
-        browserbase /
-
-      stagehand</a></p>
-				<p>
-      An AI web browsing framework focused on simplicity and extensibility.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11126</span>
-						<span>🔱 610</span>
-					</div>
-				<div class="stars-today">⭐ 1402 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21610</span>
-						<span>🔱 1831</span>
-					</div>
-				<div class="stars-today">⭐ 1070 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
-    
-
-
-      
-        paperless-ngx /
-
-      paperless-ngx</a></p>
-				<p>
-      A community-supported supercharged version of paperless: scan, index and archive all your physical documents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26689</span>
-						<span>🔱 1555</span>
-					</div>
-				<div class="stars-today">⭐ 257 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +118,274 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 315235</span>
-						<span>🔱 40948</span>
+						<span>⭐ 315269</span>
+						<span>🔱 40952</span>
 					</div>
 				<div class="stars-today">⭐ 1208 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
     
 
 
       
-        krillinai /
+        elie222 /
 
-      KrillinAI</a></p>
+      inbox-zero</a></p>
 				<p>
-       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+      AI personal assistant for email. Open source app to help you reach inbox zero fast.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5997</span>
-						<span>🔱 436</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6826</span>
+						<span>🔱 693</span>
 					</div>
-				<div class="stars-today">⭐ 1488 stars this week</div>
+				<div class="stars-today">⭐ 1210 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+				<p><a href="https://github.com/Anxcye/anx-reader" target="_blank">
     
 
 
       
-        jwasham /
+        Anxcye /
 
-      coding-interview-university</a></p>
+      anx-reader</a></p>
 				<p>
-      A complete computer science study plan to become a software engineer.
+      Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 315596</span>
-						<span>🔱 78547</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 4500</span>
+						<span>🔱 249</span>
 					</div>
-				<div class="stars-today">⭐ 1114 stars this week</div>
+				<div class="stars-today">⭐ 730 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
+    
+
+
+      
+        vanna-ai /
+
+      vanna</a></p>
+				<p>
+      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16906</span>
+						<span>🔱 1496</span>
+					</div>
+				<div class="stars-today">⭐ 1422 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.48.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20965</span>
+						<span>🔱 2611</span>
+					</div>
+				<div class="stars-today">⭐ 4013 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
+    
+
+
+      
+        nocobase /
+
+      nocobase</a></p>
+				<p>
+      NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15201</span>
+						<span>🔱 1662</span>
+					</div>
+				<div class="stars-today">⭐ 1060 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 52742</span>
+						<span>🔱 2604</span>
+					</div>
+				<div class="stars-today">⭐ 3243 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/docmost/docmost" target="_blank">
+    
+
+
+      
+        docmost /
+
+      docmost</a></p>
+				<p>
+      Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14693</span>
+						<span>🔱 710</span>
+					</div>
+				<div class="stars-today">⭐ 1270 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
+    
+
+
+      
+        Byaidu /
+
+      PDFMathTranslate</a></p>
+				<p>
+      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21627</span>
+						<span>🔱 1832</span>
+					</div>
+				<div class="stars-today">⭐ 1070 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4478</span>
+						<span>🔱 305</span>
+					</div>
+				<div class="stars-today">⭐ 1553 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
+    
+
+
+      
+        allenai /
+
+      olmocr</a></p>
+				<p>
+      Toolkit for linearizing PDFs for LLM datasets/training
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11831</span>
+						<span>🔱 805</span>
+					</div>
+				<div class="stars-today">⭐ 678 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      stagehand</a></p>
+				<p>
+      An AI web browsing framework focused on simplicity and extensibility.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11132</span>
+						<span>🔱 611</span>
+					</div>
+				<div class="stars-today">⭐ 1402 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hydralauncher/hydra" target="_blank">
+    
+
+
+      
+        hydralauncher /
+
+      hydra</a></p>
+				<p>
+      Hydra is a game launcher with its own embedded bittorrent client
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12498</span>
+						<span>🔱 3521</span>
+					</div>
+				<div class="stars-today">⭐ 198 stars this week</div>
 				</div>
 			</div>
 	

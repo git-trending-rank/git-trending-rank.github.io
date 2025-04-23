@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-23T09:58:57Z
+date: 2025-04-23T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20938</span>
-						<span>🔱 2606</span>
+						<span>⭐ 20965</span>
+						<span>🔱 2611</span>
 					</div>
 				<div class="stars-today">⭐ 16924 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 41900</span>
-						<span>🔱 3032</span>
+						<span>⭐ 41945</span>
+						<span>🔱 3037</span>
 					</div>
 				<div class="stars-today">⭐ 27827 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18737</span>
+						<span>⭐ 18741</span>
 						<span>🔱 970</span>
 					</div>
 				<div class="stars-today">⭐ 7428 stars this month</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16612</span>
-						<span>🔱 4137</span>
+						<span>⭐ 16631</span>
+						<span>🔱 4141</span>
 					</div>
 				<div class="stars-today">⭐ 11578 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84863</span>
-						<span>🔱 22914</span>
+						<span>⭐ 84916</span>
+						<span>🔱 22927</span>
 					</div>
 				<div class="stars-today">⭐ 15271 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12399</span>
-						<span>🔱 985</span>
-					</div>
-				<div class="stars-today">⭐ 8221 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1887</span>
+						<span>⭐ 1889</span>
 						<span>🔱 441</span>
 					</div>
 				<div class="stars-today">⭐ 917 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9158</span>
-						<span>🔱 2548</span>
-					</div>
-				<div class="stars-today">⭐ 4301 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3773</span>
-						<span>🔱 306</span>
-					</div>
-				<div class="stars-today">⭐ 2749 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29593</span>
+						<span>⭐ 29601</span>
 						<span>🔱 3305</span>
 					</div>
 				<div class="stars-today">⭐ 9442 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3777</span>
+						<span>🔱 306</span>
+					</div>
+				<div class="stars-today">⭐ 2749 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9162</span>
+						<span>🔱 2548</span>
+					</div>
+				<div class="stars-today">⭐ 4301 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 23016</span>
-						<span>🔱 1758</span>
+						<span>⭐ 23027</span>
+						<span>🔱 1759</span>
 					</div>
 				<div class="stars-today">⭐ 5775 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/executeautomation/mcp-playwright" target="_blank">
-    
-
-
-      
-        executeautomation /
-
-      mcp-playwright</a></p>
-				<p>
-      Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3203</span>
-						<span>🔱 252</span>
-					</div>
-				<div class="stars-today">⭐ 1856 stars this month</div>
 				</div>
 			</div>
 	

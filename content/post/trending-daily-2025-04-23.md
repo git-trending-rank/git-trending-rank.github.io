@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-23
-date: 2025-04-23T09:58:58Z
+date: 2025-04-23T11:58:37Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52680</span>
-						<span>🔱 2603</span>
+						<span>⭐ 52742</span>
+						<span>🔱 2604</span>
 					</div>
 				<div class="stars-today">⭐ 980 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/hydralauncher/hydra" target="_blank">
     
 
 
       
-        microsoft /
+        hydralauncher /
 
-      BitNet</a></p>
+      hydra</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      Hydra is a game launcher with its own embedded bittorrent client
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 16457</span>
-						<span>🔱 1183</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12498</span>
+						<span>🔱 3521</span>
 					</div>
-				<div class="stars-today">⭐ 730 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21610</span>
-						<span>🔱 1831</span>
-					</div>
-				<div class="stars-today">⭐ 272 stars today</div>
+				<div class="stars-today">⭐ 112 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 45924</span>
-						<span>🔱 2256</span>
+						<span>⭐ 45949</span>
+						<span>🔱 2257</span>
 					</div>
 				<div class="stars-today">⭐ 92 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4409</span>
+						<span>🔱 294</span>
+					</div>
+				<div class="stars-today">⭐ 96 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      courses</a></p>
+				<p>
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 10487</span>
+						<span>🔱 953</span>
+					</div>
+				<div class="stars-today">⭐ 383 stars today</div>
 				</div>
 			</div>
 	
@@ -118,54 +138,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 27692</span>
-						<span>🔱 1951</span>
+						<span>⭐ 27715</span>
+						<span>🔱 1953</span>
 					</div>
 				<div class="stars-today">⭐ 256 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
     
 
 
       
-        microsoft /
+        jwasham /
 
-      generative-ai-for-beginners</a></p>
+      coding-interview-university</a></p>
 				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+      A complete computer science study plan to become a software engineer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 79090</span>
-						<span>🔱 41027</span>
+						<span>🔠 </span>
+						<span>⭐ 315630</span>
+						<span>🔱 78549</span>
 					</div>
-				<div class="stars-today">⭐ 139 stars today</div>
+				<div class="stars-today">⭐ 335 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CoatiSoftware/Sourcetrail" target="_blank">
+				<p><a href="https://github.com/PKUFlyingPig/cs-self-learning" target="_blank">
     
 
 
       
-        CoatiSoftware /
+        PKUFlyingPig /
 
-      Sourcetrail</a></p>
+      cs-self-learning</a></p>
 				<p>
-      Sourcetrail - free and open-source interactive source explorer
+      计算机自学指南
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15914</span>
-						<span>🔱 1529</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 62603</span>
+						<span>🔱 7274</span>
 					</div>
-				<div class="stars-today">⭐ 55 stars today</div>
+				<div class="stars-today">⭐ 182 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 315235</span>
-						<span>🔱 40948</span>
+						<span>⭐ 315269</span>
+						<span>🔱 40952</span>
 					</div>
 				<div class="stars-today">⭐ 337 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
     
 
 
       
-        yt-dlp /
+        microsoft /
 
-      yt-dlp</a></p>
+      BitNet</a></p>
 				<p>
-      A feature-rich command-line audio/video downloader
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 109051</span>
-						<span>🔱 8565</span>
-					</div>
-				<div class="stars-today">⭐ 297 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WerWolv/ImHex" target="_blank">
-    
-
-
-      
-        WerWolv /
-
-      ImHex</a></p>
-				<p>
-      🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 48576</span>
-						<span>🔱 2103</span>
+						<span>⭐ 16502</span>
+						<span>🔱 1186</span>
 					</div>
-				<div class="stars-today">⭐ 97 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications</a></p>
-				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 29816</span>
-						<span>🔱 2189</span>
-					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RVC-Boss/GPT-SoVITS" target="_blank">
-    
-
-
-      
-        RVC-Boss /
-
-      GPT-SoVITS</a></p>
-				<p>
-      1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44837</span>
-						<span>🔱 4983</span>
-					</div>
-				<div class="stars-today">⭐ 116 stars today</div>
+				<div class="stars-today">⭐ 730 stars today</div>
 				</div>
 			</div>
 	
