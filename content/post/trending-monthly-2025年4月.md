@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-24T11:58:52Z
+date: 2025-04-24T13:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21305</span>
-						<span>🔱 2647</span>
+						<span>⭐ 21340</span>
+						<span>🔱 2652</span>
 					</div>
 				<div class="stars-today">⭐ 17196 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 42490</span>
-						<span>🔱 3073</span>
+						<span>⭐ 42533</span>
+						<span>🔱 3075</span>
 					</div>
 				<div class="stars-today">⭐ 28003 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18808</span>
+						<span>⭐ 18812</span>
 						<span>🔱 976</span>
 					</div>
 				<div class="stars-today">⭐ 7468 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16873</span>
-						<span>🔱 4203</span>
-					</div>
-				<div class="stars-today">⭐ 11687 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85384</span>
-						<span>🔱 23076</span>
+						<span>⭐ 85432</span>
+						<span>🔱 23085</span>
 					</div>
 				<div class="stars-today">⭐ 15536 stars this month</div>
 				</div>
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1904</span>
+						<span>⭐ 1906</span>
 						<span>🔱 440</span>
 					</div>
 				<div class="stars-today">⭐ 933 stars this month</div>
@@ -148,24 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        microsoft /
 
-      awesome-llm-apps</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29749</span>
-						<span>🔱 3323</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16908</span>
+						<span>🔱 4213</span>
 					</div>
-				<div class="stars-today">⭐ 9487 stars this month</div>
+				<div class="stars-today">⭐ 11687 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,54 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3878</span>
-						<span>🔱 315</span>
+						<span>⭐ 3887</span>
+						<span>🔱 316</span>
 					</div>
 				<div class="stars-today">⭐ 2777 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        ourongxing /
+        Shubhamsaboo /
 
-      newsnow</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Elegant reading of real-time and hottest news
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9240</span>
-						<span>🔱 2574</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29766</span>
+						<span>🔱 3324</span>
 					</div>
-				<div class="stars-today">⭐ 4312 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      spring-ai-alibaba</a></p>
-				<p>
-      Agentic AI Framework for Java Developers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2490</span>
-						<span>🔱 473</span>
-					</div>
-				<div class="stars-today">⭐ 1263 stars this month</div>
+				<div class="stars-today">⭐ 9487 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 23241</span>
+						<span>⭐ 23258</span>
 						<span>🔱 1774</span>
 					</div>
 				<div class="stars-today">⭐ 5837 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9249</span>
+						<span>🔱 2574</span>
+					</div>
+				<div class="stars-today">⭐ 4312 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4235</span>
+						<span>🔱 336</span>
+					</div>
+				<div class="stars-today">⭐ 1643 stars this month</div>
 				</div>
 			</div>
 	

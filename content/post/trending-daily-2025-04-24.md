@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-24
-date: 2025-04-24T11:58:52Z
+date: 2025-04-24T13:58:37Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,68 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
     
 
 
       
-        microsoft /
+        kortix-ai /
 
-      markitdown</a></p>
+      suna</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53460</span>
-						<span>🔱 2653</span>
-					</div>
-				<div class="stars-today">⭐ 822 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hydralauncher/hydra" target="_blank">
-    
-
-
-      
-        hydralauncher /
-
-      hydra</a></p>
-				<p>
-      Hydra is a game launcher with its own embedded bittorrent client
+      Suna - Open Source Generalist AI Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12888</span>
-						<span>🔱 3578</span>
+						<span>⭐ 2871</span>
+						<span>🔱 395</span>
 					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
+				<div class="stars-today">⭐ 1103 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
+				<p><a href="https://github.com/RVC-Boss/GPT-SoVITS" target="_blank">
     
 
 
       
-        pocketbase /
+        RVC-Boss /
 
-      pocketbase</a></p>
+      GPT-SoVITS</a></p>
 				<p>
-      Open Source realtime backend in 1 file
+      1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 46361</span>
-						<span>🔱 2277</span>
+						<span>🔠 Python</span>
+						<span>⭐ 44991</span>
+						<span>🔱 4990</span>
 					</div>
-				<div class="stars-today">⭐ 393 stars today</div>
+				<div class="stars-today">⭐ 323 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
+    
+
+
+      
+        cloudcommunity /
+
+      Free-Certifications</a></p>
+				<p>
+      A curated list of free courses with certifications. Also available at https://free-certifications.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 30885</span>
+						<span>🔱 2229</span>
+					</div>
+				<div class="stars-today">⭐ 822 stars today</div>
 				</div>
 			</div>
 	
@@ -94,142 +94,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4817</span>
-						<span>🔱 328</span>
+						<span>⭐ 4846</span>
+						<span>🔱 331</span>
 					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
+				<div class="stars-today">⭐ 413 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10960</span>
-						<span>🔱 993</span>
-					</div>
-				<div class="stars-today">⭐ 267 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 28058</span>
-						<span>🔱 1978</span>
-					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
-    
-
-
-      
-        jwasham /
-
-      coding-interview-university</a></p>
-				<p>
-      A complete computer science study plan to become a software engineer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 316019</span>
-						<span>🔱 78583</span>
-					</div>
-				<div class="stars-today">⭐ 286 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PKUFlyingPig/cs-self-learning" target="_blank">
-    
-
-
-      
-        PKUFlyingPig /
-
-      cs-self-learning</a></p>
-				<p>
-      计算机自学指南
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 62853</span>
-						<span>🔱 7294</span>
-					</div>
-				<div class="stars-today">⭐ 155 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 315644</span>
-						<span>🔱 40964</span>
-					</div>
-				<div class="stars-today">⭐ 477 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      BitNet</a></p>
+      generative-ai-for-beginners</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 79320</span>
+						<span>🔱 41157</span>
+					</div>
+				<div class="stars-today">⭐ 297 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 2578</span>
+						<span>🔱 373</span>
+					</div>
+				<div class="stars-today">⭐ 54 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/khoj-ai/khoj" target="_blank">
+    
+
+
+      
+        khoj-ai /
+
+      khoj</a></p>
+				<p>
+      Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28866</span>
+						<span>🔱 1611</span>
+					</div>
+				<div class="stars-today">⭐ 39 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/dinov2" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      dinov2</a></p>
+				<p>
+      PyTorch code and models for the DINOv2 self-supervised learning method.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 10340</span>
+						<span>🔱 937</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
+    
+
+
+      
+        tensorflow /
+
+      tensorflow</a></p>
+				<p>
+      An Open Source Machine Learning Framework for Everyone
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 16978</span>
-						<span>🔱 1215</span>
+						<span>⭐ 189525</span>
+						<span>🔱 74645</span>
 					</div>
-				<div class="stars-today">⭐ 541 stars today</div>
+				<div class="stars-today">⭐ 43 stars today</div>
 				</div>
 			</div>
 	
