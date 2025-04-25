@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第17周
-date: 2025-04-25T09:59:01Z
+date: 2025-04-25T11:58:52Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 17175</span>
+						<span>🔱 1237</span>
+					</div>
+				<div class="stars-today">⭐ 3751 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dockerfile</span>
-						<span>⭐ 80495</span>
-						<span>🔱 9655</span>
+						<span>⭐ 80535</span>
+						<span>🔱 9658</span>
 					</div>
 				<div class="stars-today">⭐ 6172 stars this week</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53853</span>
-						<span>🔱 2685</span>
+						<span>⭐ 53895</span>
+						<span>🔱 2689</span>
 					</div>
 				<div class="stars-today">⭐ 4429 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
-    
-
-
-      
-        jlowin /
-
-      fastmcp</a></p>
-				<p>
-      🚀 The fast, Pythonic way to build MCP servers and clients
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7464</span>
-						<span>🔱 382</span>
-					</div>
-				<div class="stars-today">⭐ 2039 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 315800</span>
+						<span>⭐ 315809</span>
 						<span>🔱 40986</span>
 					</div>
 				<div class="stars-today">⭐ 1976 stars this week</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21856</span>
+						<span>⭐ 21861</span>
 						<span>🔱 1860</span>
 					</div>
 				<div class="stars-today">⭐ 1434 stars this week</div>
@@ -126,68 +126,110 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NirDiamant/RAG_Techniques" target="_blank">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
     
 
 
       
-        NirDiamant /
+        jujumilk3 /
 
-      RAG_Techniques</a></p>
+      leaked-system-prompts</a></p>
 				<p>
-      This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. RAG systems combine information retrieval with generative models to provide accurate and contextually rich responses.
+      Collection of leaked system prompts
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15642</span>
-						<span>🔱 1551</span>
+						<span>🔠 </span>
+						<span>⭐ 3202</span>
+						<span>🔱 413</span>
 					</div>
-				<div class="stars-today">⭐ 849 stars this week</div>
+				<div class="stars-today">⭐ 496 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/docmost/docmost" target="_blank">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
     
 
 
       
-        docmost /
+        jwasham /
 
-      docmost</a></p>
+      coding-interview-university</a></p>
 				<p>
-      Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
+      A complete computer science study plan to become a software engineer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14822</span>
-						<span>🔱 716</span>
+						<span>🔠 </span>
+						<span>⭐ 316145</span>
+						<span>🔱 78594</span>
 					</div>
-				<div class="stars-today">⭐ 1287 stars this week</div>
+				<div class="stars-today">⭐ 1771 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
     
 
 
       
-        elie222 /
+        jlowin /
 
-      inbox-zero</a></p>
+      fastmcp</a></p>
 				<p>
-      AI personal assistant for email. Open source app to help you reach inbox zero fast.
+      🚀 The fast, Pythonic way to build MCP servers and clients
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6963</span>
-						<span>🔱 703</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7471</span>
+						<span>🔱 383</span>
 					</div>
-				<div class="stars-today">⭐ 1242 stars this week</div>
+				<div class="stars-today">⭐ 2039 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5079</span>
+						<span>🔱 344</span>
+					</div>
+				<div class="stars-today">⭐ 899 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plandex-ai/plandex" target="_blank">
+    
+
+
+      
+        plandex-ai /
+
+      plandex</a></p>
+				<p>
+      Open source AI coding agent. Designed for large projects and real world tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 12592</span>
+						<span>🔱 837</span>
+					</div>
+				<div class="stars-today">⭐ 614 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11937</span>
+						<span>⭐ 11942</span>
 						<span>🔱 812</span>
 					</div>
 				<div class="stars-today">⭐ 748 stars this week</div>
@@ -228,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12962</span>
-						<span>🔱 3608</span>
+						<span>⭐ 12967</span>
+						<span>🔱 3611</span>
 					</div>
 				<div class="stars-today">⭐ 669 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+    
+
+
+      
+        elie222 /
+
+      inbox-zero</a></p>
+				<p>
+      AI personal assistant for email. Open source app to help you reach inbox zero fast.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6968</span>
+						<span>🔱 703</span>
+					</div>
+				<div class="stars-today">⭐ 1242 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,76 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15310</span>
+						<span>⭐ 15317</span>
 						<span>🔱 1667</span>
 					</div>
 				<div class="stars-today">⭐ 1134 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26507</span>
-						<span>🔱 4545</span>
-					</div>
-				<div class="stars-today">⭐ 1506 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 337738</span>
-						<span>🔱 35662</span>
-					</div>
-				<div class="stars-today">⭐ 2032 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anxcye/anx-reader" target="_blank">
-    
-
-
-      
-        Anxcye /
-
-      anx-reader</a></p>
-				<p>
-      Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 4624</span>
-						<span>🔱 254</span>
-					</div>
-				<div class="stars-today">⭐ 353 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 46473</span>
+						<span>⭐ 46482</span>
 						<span>🔱 2288</span>
 					</div>
 				<div class="stars-today">⭐ 1050 stars this week</div>

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-25
-date: 2025-04-25T09:59:01Z
+date: 2025-04-25T11:58:52Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4746</span>
-						<span>🔱 531</span>
+						<span>⭐ 4910</span>
+						<span>🔱 540</span>
 					</div>
 				<div class="stars-today">⭐ 1105 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RVC-Boss/GPT-SoVITS" target="_blank">
-    
-
-
-      
-        RVC-Boss /
-
-      GPT-SoVITS</a></p>
-				<p>
-      1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45320</span>
-						<span>🔱 5016</span>
-					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications</a></p>
-				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 31520</span>
-						<span>🔱 2257</span>
-					</div>
-				<div class="stars-today">⭐ 894 stars today</div>
 				</div>
 			</div>
 	
@@ -94,32 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5062</span>
-						<span>🔱 342</span>
+						<span>⭐ 5079</span>
+						<span>🔱 344</span>
 					</div>
 				<div class="stars-today">⭐ 410 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 79668</span>
-						<span>🔱 41233</span>
-					</div>
-				<div class="stars-today">⭐ 212 stars today</div>
 				</div>
 			</div>
 	
@@ -138,10 +72,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 3152</span>
-						<span>🔱 411</span>
+						<span>⭐ 3202</span>
+						<span>🔱 413</span>
 					</div>
 				<div class="stars-today">⭐ 55 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
+    
+
+
+      
+        cloudcommunity /
+
+      Free-Certifications</a></p>
+				<p>
+      A curated list of free courses with certifications. Also available at https://free-certifications.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 31573</span>
+						<span>🔱 2260</span>
+					</div>
+				<div class="stars-today">⭐ 894 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 74439</span>
+						<span>🔱 16608</span>
+					</div>
+				<div class="stars-today">⭐ 257 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners</a></p>
+				<p>
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 79703</span>
+						<span>🔱 41243</span>
+					</div>
+				<div class="stars-today">⭐ 212 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/go-playground/validator" target="_blank">
+    
+
+
+      
+        go-playground /
+
+      validator</a></p>
+				<p>
+      💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 18122</span>
+						<span>🔱 1365</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fastrepl/hyprnote" target="_blank">
+    
+
+
+      
+        fastrepl /
+
+      hyprnote</a></p>
+				<p>
+      AI Notepad for back-to-back meetings. Local-first & Extensible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 789</span>
+						<span>🔱 47</span>
+					</div>
+				<div class="stars-today">⭐ 133 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4740</span>
+						<span>🔱 365</span>
+					</div>
+				<div class="stars-today">⭐ 514 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 25620</span>
+						<span>🔱 2508</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 28143</span>
+						<span>🔱 1985</span>
+					</div>
+				<div class="stars-today">⭐ 350 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/joho/godotenv" target="_blank">
+    
+
+
+      
+        joho /
+
+      godotenv</a></p>
+				<p>
+      A Go port of Ruby's dotenv library (Loads environment variables from .env files)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9110</span>
+						<span>🔱 426</span>
+					</div>
+				<div class="stars-today">⭐ 4 stars today</div>
 				</div>
 			</div>
 	
@@ -160,54 +292,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29164</span>
-						<span>🔱 1627</span>
+						<span>⭐ 29192</span>
+						<span>🔱 1628</span>
 					</div>
 				<div class="stars-today">⭐ 42 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/dinov2" target="_blank">
+				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
     
 
 
       
-        facebookresearch /
+        tracel-ai /
 
-      dinov2</a></p>
+      burn</a></p>
 				<p>
-      PyTorch code and models for the DINOv2 self-supervised learning method.
+      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10453</span>
-						<span>🔱 941</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 10401</span>
+						<span>🔱 540</span>
 					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
+				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
+				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
     
 
 
       
-        tensorflow /
+        BerriAI /
 
-      tensorflow</a></p>
+      litellm</a></p>
 				<p>
-      An Open Source Machine Learning Framework for Everyone
+      Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 189624</span>
-						<span>🔱 74652</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21344</span>
+						<span>🔱 2712</span>
 					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
+				<div class="stars-today">⭐ 86 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF</a></p>
+				<p>
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 56521</span>
+						<span>🔱 4732</span>
+					</div>
+				<div class="stars-today">⭐ 100 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FortAwesome/Font-Awesome" target="_blank">
+    
+
+
+      
+        FortAwesome /
+
+      Font-Awesome</a></p>
+				<p>
+      The iconic SVG, font, and CSS toolkit
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 74986</span>
+						<span>🔱 12201</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	

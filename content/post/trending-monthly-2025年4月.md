@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-25T09:59:01Z
+date: 2025-04-25T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21573</span>
-						<span>🔱 2692</span>
+						<span>⭐ 21590</span>
+						<span>🔱 2694</span>
 					</div>
 				<div class="stars-today">⭐ 17401 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 42987</span>
-						<span>🔱 3114</span>
+						<span>⭐ 43023</span>
+						<span>🔱 3116</span>
 					</div>
 				<div class="stars-today">⭐ 28008 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18868</span>
+						<span>⭐ 18873</span>
 						<span>🔱 977</span>
 					</div>
 				<div class="stars-today">⭐ 7514 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 85783</span>
-						<span>🔱 23194</span>
-					</div>
-				<div class="stars-today">⭐ 15619 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1912</span>
+						<span>⭐ 1913</span>
 						<span>🔱 440</span>
 					</div>
 				<div class="stars-today">⭐ 948 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 85817</span>
+						<span>🔱 23202</span>
+					</div>
+				<div class="stars-today">⭐ 15619 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17151</span>
-						<span>🔱 4274</span>
+						<span>⭐ 17166</span>
+						<span>🔱 4278</span>
 					</div>
 				<div class="stars-today">⭐ 11162 stars this month</div>
 				</div>
@@ -162,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3978</span>
-						<span>🔱 321</span>
+						<span>⭐ 3985</span>
+						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 2825 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29887</span>
-						<span>🔱 3339</span>
-					</div>
-				<div class="stars-today">⭐ 9207 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
-    
-
-
-      
-        PatrickJS /
-
-      awesome-cursorrules</a></p>
-				<p>
-      📄 A curated list of awesome .cursorrules files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 23394</span>
-						<span>🔱 1787</span>
-					</div>
-				<div class="stars-today">⭐ 5858 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9299</span>
-						<span>🔱 2585</span>
-					</div>
-				<div class="stars-today">⭐ 4305 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4687</span>
-						<span>🔱 362</span>
+						<span>⭐ 4740</span>
+						<span>🔱 365</span>
 					</div>
 				<div class="stars-today">⭐ 1624 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
+    
+
+
+      
+        PatrickJS /
+
+      awesome-cursorrules</a></p>
+				<p>
+      📄 A curated list of awesome .cursorrules files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 23402</span>
+						<span>🔱 1788</span>
+					</div>
+				<div class="stars-today">⭐ 5858 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4622</span>
+						<span>🔱 317</span>
+					</div>
+				<div class="stars-today">⭐ 3384 stars this month</div>
 				</div>
 			</div>
 	
