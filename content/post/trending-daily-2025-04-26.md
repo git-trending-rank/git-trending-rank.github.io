@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-26
-date: 2025-04-26T09:58:38Z
+date: 2025-04-26T11:58:48Z
 categories:
 - daily
 keywords:
@@ -30,74 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6057</span>
-						<span>🔱 675</span>
+						<span>⭐ 6139</span>
+						<span>🔱 687</span>
 					</div>
 				<div class="stars-today">⭐ 2126 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
     
 
 
       
-        bytedance /
+        lapce /
 
-      UI-TARS</a></p>
-				<p></p>
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 35239</span>
+						<span>🔱 1084</span>
+					</div>
+				<div class="stars-today">⭐ 35 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
+    
+
+
+      
+        ocrmypdf /
+
+      OCRmyPDF</a></p>
+				<p>
+      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5236</span>
-						<span>🔱 348</span>
+						<span>⭐ 28143</span>
+						<span>🔱 1901</span>
 					</div>
-				<div class="stars-today">⭐ 267 stars today</div>
+				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
     
 
 
       
-        jujumilk3 /
+        aquasecurity /
 
-      leaked-system-prompts</a></p>
+      trivy</a></p>
 				<p>
-      Collection of leaked system prompts
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 3693</span>
-						<span>🔱 443</span>
+						<span>🔠 Go</span>
+						<span>⭐ 25763</span>
+						<span>🔱 2511</span>
 					</div>
-				<div class="stars-today">⭐ 636 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications</a></p>
-				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 31926</span>
-						<span>🔱 2275</span>
-					</div>
-				<div class="stars-today">⭐ 750 stars today</div>
+				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
 			</div>
 	
@@ -116,10 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74679</span>
-						<span>🔱 16662</span>
+						<span>⭐ 74689</span>
+						<span>🔱 16666</span>
 					</div>
 				<div class="stars-today">⭐ 265 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
+    
+
+
+      
+        trimstray /
+
+      the-book-of-secret-knowledge</a></p>
+				<p>
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 165283</span>
+						<span>🔱 10348</span>
+					</div>
+				<div class="stars-today">⭐ 1200 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 3720</span>
+						<span>🔱 445</span>
+					</div>
+				<div class="stars-today">⭐ 636 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AmruthPillai/Reactive-Resume" target="_blank">
+    
+
+
+      
+        AmruthPillai /
+
+      Reactive-Resume</a></p>
+				<p>
+      A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30737</span>
+						<span>🔱 3181</span>
+					</div>
+				<div class="stars-today">⭐ 82 stars today</div>
 				</div>
 			</div>
 	
@@ -138,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 79956</span>
-						<span>🔱 41316</span>
+						<span>⭐ 79971</span>
+						<span>🔱 41326</span>
 					</div>
 				<div class="stars-today">⭐ 423 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/go-playground/validator" target="_blank">
-    
-
-
-      
-        go-playground /
-
-      validator</a></p>
-				<p>
-      💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 18190</span>
-						<span>🔱 1366</span>
-					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
 				</div>
 			</div>
 	
@@ -182,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1080</span>
+						<span>⭐ 1094</span>
 						<span>🔱 53</span>
 					</div>
 				<div class="stars-today">⭐ 150 stars today</div>
@@ -204,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5227</span>
-						<span>🔱 391</span>
+						<span>⭐ 5256</span>
+						<span>🔱 393</span>
 					</div>
 				<div class="stars-today">⭐ 549 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 25754</span>
-						<span>🔱 2510</span>
-					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 28291</span>
-						<span>🔱 1993</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/joho/godotenv" target="_blank">
-    
-
-
-      
-        joho /
-
-      godotenv</a></p>
-				<p>
-      A Go port of Ruby's dotenv library (Loads environment variables from .env files)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9169</span>
-						<span>🔱 426</span>
-					</div>
-				<div class="stars-today">⭐ 6 stars today</div>
 				</div>
 			</div>
 	
@@ -292,98 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29396</span>
-						<span>🔱 1638</span>
+						<span>⭐ 29411</span>
+						<span>🔱 1641</span>
 					</div>
 				<div class="stars-today">⭐ 343 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
+				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
     
 
 
       
-        tracel-ai /
+        ruanyf /
 
-      burn</a></p>
+      weekly</a></p>
 				<p>
-      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+      科技爱好者周刊，每周五发布
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10561</span>
-						<span>🔱 541</span>
+						<span>🔠 </span>
+						<span>⭐ 54387</span>
+						<span>🔱 3191</span>
 					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
+				<div class="stars-today">⭐ 39 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
     
 
 
       
-        BerriAI /
+        langgenius /
 
-      litellm</a></p>
+      dify</a></p>
 				<p>
-      Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 94187</span>
+						<span>🔱 14080</span>
+					</div>
+				<div class="stars-today">⭐ 233 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RVC-Boss/GPT-SoVITS" target="_blank">
+    
+
+
+      
+        RVC-Boss /
+
+      GPT-SoVITS</a></p>
+				<p>
+      1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21471</span>
-						<span>🔱 2722</span>
+						<span>⭐ 45386</span>
+						<span>🔱 5019</span>
 					</div>
-				<div class="stars-today">⭐ 96 stars today</div>
+				<div class="stars-today">⭐ 47 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+				<p><a href="https://github.com/skypilot-org/skypilot" target="_blank">
     
 
 
       
-        Stirling-Tools /
+        skypilot-org /
 
-      Stirling-PDF</a></p>
+      skypilot</a></p>
 				<p>
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
+      SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 56697</span>
-						<span>🔱 4749</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7731</span>
+						<span>🔱 622</span>
 					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FortAwesome/Font-Awesome" target="_blank">
-    
-
-
-      
-        FortAwesome /
-
-      Font-Awesome</a></p>
-				<p>
-      The iconic SVG, font, and CSS toolkit
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 75131</span>
-						<span>🔱 12208</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第17周
-date: 2025-04-26T09:58:38Z
+date: 2025-04-26T11:58:48Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 17308</span>
-						<span>🔱 1248</span>
+						<span>⭐ 17330</span>
+						<span>🔱 1249</span>
 					</div>
 				<div class="stars-today">⭐ 3588 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 80757</span>
-						<span>🔱 9673</span>
-					</div>
-				<div class="stars-today">⭐ 5368 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54210</span>
+						<span>⭐ 54227</span>
 						<span>🔱 2709</span>
 					</div>
 				<div class="stars-today">⭐ 4742 stars this week</div>
@@ -82,46 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
     
 
 
       
-        kamranahmedse /
+        Anduin2017 /
 
-      developer-roadmap</a></p>
+      HowToCook</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 315915</span>
-						<span>🔱 41004</span>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 80795</span>
+						<span>🔱 9674</span>
 					</div>
-				<div class="stars-today">⭐ 2082 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21927</span>
-						<span>🔱 1869</span>
-					</div>
-				<div class="stars-today">⭐ 1480 stars this week</div>
+				<div class="stars-today">⭐ 5368 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,74 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 3693</span>
-						<span>🔱 443</span>
+						<span>⭐ 3720</span>
+						<span>🔱 445</span>
 					</div>
 				<div class="stars-today">⭐ 868 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
     
 
 
       
-        jwasham /
+        Byaidu /
 
-      coding-interview-university</a></p>
+      PDFMathTranslate</a></p>
 				<p>
-      A complete computer science study plan to become a software engineer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 316256</span>
-						<span>🔱 78612</span>
-					</div>
-				<div class="stars-today">⭐ 1812 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
-    
-
-
-      
-        jlowin /
-
-      fastmcp</a></p>
-				<p>
-      🚀 The fast, Pythonic way to build MCP servers and clients
+      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7566</span>
-						<span>🔱 390</span>
+						<span>⭐ 21938</span>
+						<span>🔱 1871</span>
 					</div>
-				<div class="stars-today">⭐ 1983 stars this week</div>
+				<div class="stars-today">⭐ 1480 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
     
 
 
       
-        bytedance /
+        kamranahmedse /
 
-      UI-TARS</a></p>
-				<p></p>
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5236</span>
-						<span>🔱 348</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 315924</span>
+						<span>🔱 41005</span>
 					</div>
-				<div class="stars-today">⭐ 995 stars this week</div>
+				<div class="stars-today">⭐ 2082 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 12691</span>
+						<span>⭐ 12696</span>
 						<span>🔱 839</span>
 					</div>
 				<div class="stars-today">⭐ 558 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      courses</a></p>
+				<p>
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11069</span>
+						<span>🔱 1006</span>
+					</div>
+				<div class="stars-today">⭐ 1145 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12004</span>
+						<span>⭐ 12007</span>
 						<span>🔱 815</span>
 					</div>
 				<div class="stars-today">⭐ 785 stars this week</div>
@@ -270,54 +228,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13012</span>
-						<span>🔱 3628</span>
+						<span>⭐ 13017</span>
+						<span>🔱 3629</span>
 					</div>
 				<div class="stars-today">⭐ 711 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
     
 
 
       
-        elie222 /
+        bytedance /
 
-      inbox-zero</a></p>
-				<p>
-      AI personal assistant for email. Open source app to help you reach inbox zero fast.
-    </p>
+      UI-TARS</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7026</span>
-						<span>🔱 709</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5241</span>
+						<span>🔱 348</span>
 					</div>
-				<div class="stars-today">⭐ 1241 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
-    
-
-
-      
-        nocobase /
-
-      nocobase</a></p>
-				<p>
-      NocoBase is an extensibility-first, open-source no-code/low-code platform for building business applications and enterprise solutions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15356</span>
-						<span>🔱 1670</span>
-					</div>
-				<div class="stars-today">⭐ 1146 stars this week</div>
+				<div class="stars-today">⭐ 995 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 46548</span>
+						<span>⭐ 46553</span>
 						<span>🔱 2291</span>
 					</div>
 				<div class="stars-today">⭐ 1125 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 337812</span>
+						<span>🔱 35669</span>
+					</div>
+				<div class="stars-today">⭐ 2026 stars this week</div>
 				</div>
 			</div>
 	

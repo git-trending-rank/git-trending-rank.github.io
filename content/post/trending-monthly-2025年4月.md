@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-26T09:58:37Z
+date: 2025-04-26T11:58:48Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21753</span>
-						<span>🔱 2715</span>
+						<span>⭐ 21774</span>
+						<span>🔱 2716</span>
 					</div>
 				<div class="stars-today">⭐ 17541 stars this month</div>
 				</div>
@@ -52,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 43301</span>
-						<span>🔱 3142</span>
+						<span>⭐ 43325</span>
+						<span>🔱 3144</span>
 					</div>
 				<div class="stars-today">⭐ 28096 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
+    
+
+
+      
+        jlowin /
+
+      fastmcp</a></p>
+				<p>
+      🚀 The fast, Pythonic way to build MCP servers and clients
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7573</span>
+						<span>🔱 391</span>
+					</div>
+				<div class="stars-today">⭐ 5757 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
+    
+
+
+      
+        ahmedkhaleel2004 /
+
+      gitdiagram</a></p>
+				<p>
+      Free, simple, fast interactive diagrams for any GitHub repository
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10706</span>
+						<span>🔱 714</span>
+					</div>
+				<div class="stars-today">⭐ 7918 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18921</span>
+						<span>⭐ 18924</span>
 						<span>🔱 981</span>
 					</div>
 				<div class="stars-today">⭐ 7562 stars this month</div>
@@ -118,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86099</span>
-						<span>🔱 23316</span>
+						<span>⭐ 86120</span>
+						<span>🔱 23324</span>
 					</div>
 				<div class="stars-today">⭐ 15659 stars this month</div>
 				</div>
@@ -140,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17265</span>
-						<span>🔱 4320</span>
+						<span>⭐ 17272</span>
+						<span>🔱 4325</span>
 					</div>
 				<div class="stars-today">⭐ 10787 stars this month</div>
 				</div>
@@ -162,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4032</span>
+						<span>⭐ 4037</span>
 						<span>🔱 325</span>
 					</div>
 				<div class="stars-today">⭐ 2842 stars this month</div>
@@ -184,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5227</span>
-						<span>🔱 391</span>
+						<span>⭐ 5256</span>
+						<span>🔱 393</span>
 					</div>
 				<div class="stars-today">⭐ 2045 stars this month</div>
 				</div>
@@ -206,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 23504</span>
-						<span>🔱 1794</span>
+						<span>⭐ 23513</span>
+						<span>🔱 1795</span>
 					</div>
 				<div class="stars-today">⭐ 5836 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54227</span>
+						<span>🔱 2709</span>
+					</div>
+				<div class="stars-today">⭐ 12852 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4751</span>
+						<span>⭐ 4754</span>
 						<span>🔱 321</span>
 					</div>
 				<div class="stars-today">⭐ 3412 stars this month</div>
