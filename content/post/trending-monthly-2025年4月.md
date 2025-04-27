@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-27T09:58:36Z
+date: 2025-04-27T11:58:54Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22005</span>
-						<span>🔱 2752</span>
+						<span>⭐ 22025</span>
+						<span>🔱 2753</span>
 					</div>
 				<div class="stars-today">⭐ 17598 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 43759</span>
-						<span>🔱 3182</span>
+						<span>⭐ 43806</span>
+						<span>🔱 3184</span>
 					</div>
 				<div class="stars-today">⭐ 27958 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7671</span>
-						<span>🔱 395</span>
+						<span>⭐ 7682</span>
+						<span>🔱 397</span>
 					</div>
 				<div class="stars-today">⭐ 5759 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
-    
-
-
-      
-        ahmedkhaleel2004 /
-
-      gitdiagram</a></p>
-				<p>
-      Free, simple, fast interactive diagrams for any GitHub repository
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10783</span>
-						<span>🔱 724</span>
-					</div>
-				<div class="stars-today">⭐ 7948 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18974</span>
+						<span>⭐ 18980</span>
 						<span>🔱 984</span>
 					</div>
 				<div class="stars-today">⭐ 7601 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
+    
+
+
+      
+        ahmedkhaleel2004 /
+
+      gitdiagram</a></p>
+				<p>
+      Free, simple, fast interactive diagrams for any GitHub repository
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10787</span>
+						<span>🔱 726</span>
+					</div>
+				<div class="stars-today">⭐ 7948 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86398</span>
-						<span>🔱 23399</span>
+						<span>⭐ 86432</span>
+						<span>🔱 23410</span>
 					</div>
 				<div class="stars-today">⭐ 15562 stars this month</div>
 				</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17403</span>
-						<span>🔱 4352</span>
+						<span>⭐ 17413</span>
+						<span>🔱 4354</span>
 					</div>
 				<div class="stars-today">⭐ 10669 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4099</span>
-						<span>🔱 327</span>
-					</div>
-				<div class="stars-today">⭐ 2815 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5625</span>
-						<span>🔱 407</span>
+						<span>⭐ 5702</span>
+						<span>🔱 409</span>
 					</div>
 				<div class="stars-today">⭐ 2550 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4103</span>
+						<span>🔱 328</span>
+					</div>
+				<div class="stars-today">⭐ 2815 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 23603</span>
-						<span>🔱 1807</span>
+						<span>⭐ 23609</span>
+						<span>🔱 1808</span>
 					</div>
 				<div class="stars-today">⭐ 5763 stars this month</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54575</span>
+						<span>⭐ 54596</span>
 						<span>🔱 2740</span>
 					</div>
 				<div class="stars-today">⭐ 13054 stars this month</div>
@@ -280,24 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
     
 
 
       
-        Zackriya-Solutions /
+        meta-llama /
 
-      meeting-minutes</a></p>
+      llama-models</a></p>
 				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+      Utilities intended for use with Llama models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4830</span>
-						<span>🔱 326</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6865</span>
+						<span>🔱 1120</span>
 					</div>
-				<div class="stars-today">⭐ 3539 stars this month</div>
+				<div class="stars-today">⭐ 926 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-27
-date: 2025-04-27T09:58:36Z
+date: 2025-04-27T11:58:54Z
 categories:
 - daily
 keywords:
@@ -16,200 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
 
       
-        kortix-ai /
+        getzep /
 
-      suna</a></p>
+      graphiti</a></p>
 				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7490</span>
-						<span>🔱 828</span>
-					</div>
-				<div class="stars-today">⭐ 1304 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 35470</span>
-						<span>🔱 1099</span>
-					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      AI-powered multi-agent builder
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1673</span>
-						<span>🔱 134</span>
-					</div>
-				<div class="stars-today">⭐ 499 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
-    
-
-
-      
-        ocrmypdf /
-
-      OCRmyPDF</a></p>
-				<p>
-      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28404</span>
-						<span>🔱 1923</span>
+						<span>⭐ 5702</span>
+						<span>🔱 409</span>
 					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 25894</span>
-						<span>🔱 2516</span>
-					</div>
-				<div class="stars-today">⭐ 145 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
-    
-
-
-      
-        bregman-arie /
-
-      devops-exercises</a></p>
-				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 74953</span>
-						<span>🔱 16703</span>
-					</div>
-				<div class="stars-today">⭐ 255 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
-    
-
-
-      
-        trimstray /
-
-      the-book-of-secret-knowledge</a></p>
-				<p>
-      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 166493</span>
-						<span>🔱 10422</span>
-					</div>
-				<div class="stars-today">⭐ 1399 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
-    
-
-
-      
-        jujumilk3 /
-
-      leaked-system-prompts</a></p>
-				<p>
-      Collection of leaked system prompts
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4209</span>
-						<span>🔱 488</span>
-					</div>
-				<div class="stars-today">⭐ 510 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AmruthPillai/Reactive-Resume" target="_blank">
-    
-
-
-      
-        AmruthPillai /
-
-      Reactive-Resume</a></p>
-				<p>
-      A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30991</span>
-						<span>🔱 3201</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
+				<div class="stars-today">⭐ 514 stars today</div>
 				</div>
 			</div>
 	
@@ -228,54 +52,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 80207</span>
-						<span>🔱 41394</span>
+						<span>⭐ 80231</span>
+						<span>🔱 41401</span>
 					</div>
 				<div class="stars-today">⭐ 271 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fastrepl/hyprnote" target="_blank">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
     
 
 
       
-        fastrepl /
+        rowboatlabs /
 
-      hyprnote</a></p>
+      rowboat</a></p>
 				<p>
-      AI Notepad for back-to-back meetings. Local-first & Extensible.
+      AI-powered multi-agent builder
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1370</span>
-						<span>🔱 61</span>
+						<span>⭐ 1700</span>
+						<span>🔱 137</span>
 					</div>
-				<div class="stars-today">⭐ 305 stars today</div>
+				<div class="stars-today">⭐ 499 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
     
 
 
       
-        getzep /
+        bregman-arie /
 
-      graphiti</a></p>
+      devops-exercises</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5625</span>
-						<span>🔱 407</span>
+						<span>⭐ 74974</span>
+						<span>🔱 16710</span>
 					</div>
-				<div class="stars-today">⭐ 514 stars today</div>
+				<div class="stars-today">⭐ 255 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF</a></p>
+				<p>
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 56800</span>
+						<span>🔱 4763</span>
+					</div>
+				<div class="stars-today">⭐ 168 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
+    
+
+
+      
+        tracel-ai /
+
+      burn</a></p>
+				<p>
+      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 10613</span>
+						<span>🔱 543</span>
+					</div>
+				<div class="stars-today">⭐ 139 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
+    
+
+
+      
+        trimstray /
+
+      the-book-of-secret-knowledge</a></p>
+				<p>
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 166573</span>
+						<span>🔱 10426</span>
+					</div>
+				<div class="stars-today">⭐ 1399 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/0xk1h0/ChatGPT_DAN" target="_blank">
+    
+
+
+      
+        0xk1h0 /
+
+      ChatGPT_DAN</a></p>
+				<p>
+      ChatGPT DAN, Jailbreaks prompt
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 7488</span>
+						<span>🔱 684</span>
+					</div>
+				<div class="stars-today">⭐ 219 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 375039</span>
+						<span>🔱 34916</span>
+					</div>
+				<div class="stars-today">⭐ 240 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2730</span>
+						<span>🔱 296</span>
+					</div>
+				<div class="stars-today">⭐ 101 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/2dust/v2rayN" target="_blank">
+    
+
+
+      
+        2dust /
+
+      v2rayN</a></p>
+				<p>
+      A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 78770</span>
+						<span>🔱 12535</span>
+					</div>
+				<div class="stars-today">⭐ 77 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 35488</span>
+						<span>🔱 1099</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/exa-labs/exa-mcp-server" target="_blank">
+    
+
+
+      
+        exa-labs /
+
+      exa-mcp-server</a></p>
+				<p>
+      Claude can perform Web Search | Exa with MCP (Model Context Protocol)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1213</span>
+						<span>🔱 104</span>
+					</div>
+				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
 			</div>
 	
@@ -294,98 +316,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29603</span>
-						<span>🔱 1648</span>
+						<span>⭐ 29617</span>
+						<span>🔱 1649</span>
 					</div>
 				<div class="stars-today">⭐ 229 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
+				<p><a href="https://github.com/nikitabobko/AeroSpace" target="_blank">
     
 
 
       
-        ruanyf /
+        nikitabobko /
 
-      weekly</a></p>
+      AeroSpace</a></p>
 				<p>
-      科技爱好者周刊，每周五发布
+      AeroSpace is an i3-like tiling window manager for macOS
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 54631</span>
-						<span>🔱 3203</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 11812</span>
+						<span>🔱 233</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
+				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
     
 
 
       
-        langgenius /
+        Raphire /
 
-      dify</a></p>
+      Win11Debloat</a></p>
 				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+      A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 19191</span>
+						<span>🔱 823</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/terminal" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      terminal</a></p>
+				<p>
+      The new Windows Terminal and the original Windows console host, all in the same place!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 97834</span>
+						<span>🔱 8535</span>
+					</div>
+				<div class="stars-today">⭐ 19 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+    
+
+
+      
+        kortix-ai /
+
+      suna</a></p>
+				<p>
+      Suna - Open Source Generalist AI Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 94500</span>
-						<span>🔱 14112</span>
+						<span>⭐ 7572</span>
+						<span>🔱 840</span>
 					</div>
-				<div class="stars-today">⭐ 133 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RVC-Boss/GPT-SoVITS" target="_blank">
-    
-
-
-      
-        RVC-Boss /
-
-      GPT-SoVITS</a></p>
-				<p>
-      1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45516</span>
-						<span>🔱 5025</span>
-					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/skypilot-org/skypilot" target="_blank">
-    
-
-
-      
-        skypilot-org /
-
-      skypilot</a></p>
-				<p>
-      SkyPilot: Run AI and batch jobs on any infra (Kubernetes or 16+ clouds). Get unified execution, cost savings, and high GPU availability via a simple interface.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7883</span>
-						<span>🔱 631</span>
-					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
+				<div class="stars-today">⭐ 1304 stars today</div>
 				</div>
 			</div>
 	
