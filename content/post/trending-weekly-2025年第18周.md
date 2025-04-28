@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第18周
-date: 2025-04-28T08:28:57Z
+date: 2025-04-28T11:00:51Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 17612</span>
+						<span>⭐ 17630</span>
 						<span>🔱 1266</span>
 					</div>
 				<div class="stars-today">⭐ 2900 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54858</span>
-						<span>🔱 2752</span>
-					</div>
-				<div class="stars-today">⭐ 4675 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4429</span>
-						<span>🔱 516</span>
+						<span>⭐ 4462</span>
+						<span>🔱 521</span>
 					</div>
 				<div class="stars-today">⭐ 1898 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        Anduin2017 /
+        microsoft /
 
-      HowToCook</a></p>
+      markitdown</a></p>
 				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 81338</span>
-						<span>🔱 9716</span>
+						<span>🔠 Python</span>
+						<span>⭐ 54903</span>
+						<span>🔱 2755</span>
 					</div>
-				<div class="stars-today">⭐ 3014 stars this week</div>
+				<div class="stars-today">⭐ 4675 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 28892</span>
-						<span>🔱 2026</span>
+						<span>⭐ 28927</span>
+						<span>🔱 2027</span>
 					</div>
 				<div class="stars-today">⭐ 1619 stars this week</div>
 				</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 316310</span>
-						<span>🔱 41053</span>
+						<span>⭐ 316341</span>
+						<span>🔱 41056</span>
 					</div>
 				<div class="stars-today">⭐ 1985 stars this week</div>
 				</div>
@@ -162,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11199</span>
+						<span>⭐ 11208</span>
 						<span>🔱 1015</span>
 					</div>
 				<div class="stars-today">⭐ 1231 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22102</span>
-						<span>🔱 1880</span>
-					</div>
-				<div class="stars-today">⭐ 1452 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,76 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13102</span>
-						<span>🔱 3657</span>
+						<span>⭐ 13110</span>
+						<span>🔱 3659</span>
 					</div>
 				<div class="stars-today">⭐ 794 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jumpserver/jumpserver" target="_blank">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
     
 
 
       
-        jumpserver /
+        Anduin2017 /
 
-      jumpserver</a></p>
+      HowToCook</a></p>
 				<p>
-      JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27371</span>
-						<span>🔱 5462</span>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 81372</span>
+						<span>🔱 9716</span>
 					</div>
-				<div class="stars-today">⭐ 614 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/allenai/olmocr" target="_blank">
-    
-
-
-      
-        allenai /
-
-      olmocr</a></p>
-				<p>
-      Toolkit for linearizing PDFs for LLM datasets/training
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12101</span>
-						<span>🔱 820</span>
-					</div>
-				<div class="stars-today">⭐ 653 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
-    
-
-
-      
-        jwasham /
-
-      coding-interview-university</a></p>
-				<p>
-      A complete computer science study plan to become a software engineer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 316437</span>
-						<span>🔱 78627</span>
-					</div>
-				<div class="stars-today">⭐ 1654 stars this week</div>
+				<div class="stars-today">⭐ 3014 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +204,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5371</span>
+						<span>⭐ 5386</span>
 						<span>🔱 362</span>
 					</div>
 				<div class="stars-today">⭐ 1159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plandex-ai/plandex" target="_blank">
+    
+
+
+      
+        plandex-ai /
+
+      plandex</a></p>
+				<p>
+      Open source AI coding agent. Designed for large projects and real world tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 12881</span>
+						<span>🔱 849</span>
+					</div>
+				<div class="stars-today">⭐ 543 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
+    
+
+
+      
+        Byaidu /
+
+      PDFMathTranslate</a></p>
+				<p>
+      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22119</span>
+						<span>🔱 1880</span>
+					</div>
+				<div class="stars-today">⭐ 1452 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 35664</span>
+						<span>🔱 1105</span>
+					</div>
+				<div class="stars-today">⭐ 414 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 46661</span>
-						<span>🔱 2293</span>
+						<span>⭐ 46670</span>
+						<span>🔱 2294</span>
 					</div>
 				<div class="stars-today">⭐ 1210 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 316448</span>
+						<span>🔱 78628</span>
+					</div>
+				<div class="stars-today">⭐ 1654 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 75288</span>
+						<span>🔱 16739</span>
+					</div>
+				<div class="stars-today">⭐ 1271 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-28T08:28:56Z
+date: 2025-04-28T11:00:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22231</span>
-						<span>🔱 2783</span>
+						<span>⭐ 22274</span>
+						<span>🔱 2790</span>
 					</div>
 				<div class="stars-today">⭐ 17736 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 44181</span>
-						<span>🔱 3214</span>
+						<span>⭐ 44241</span>
+						<span>🔱 3215</span>
 					</div>
 				<div class="stars-today">⭐ 27715 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7786</span>
+						<span>⭐ 7801</span>
 						<span>🔱 407</span>
 					</div>
 				<div class="stars-today">⭐ 5838 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19041</span>
-						<span>🔱 986</span>
-					</div>
-				<div class="stars-today">⭐ 7644 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
-    
-
-
-      
-        ahmedkhaleel2004 /
-
-      gitdiagram</a></p>
-				<p>
-      Free, simple, fast interactive diagrams for any GitHub repository
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10846</span>
-						<span>🔱 729</span>
-					</div>
-				<div class="stars-today">⭐ 8038 stars this month</div>
 				</div>
 			</div>
 	
@@ -148,6 +104,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
+    
+
+
+      
+        th-ch /
+
+      youtube-music</a></p>
+				<p>
+      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19048</span>
+						<span>🔱 986</span>
+					</div>
+				<div class="stars-today">⭐ 7644 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
     
 
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86690</span>
-						<span>🔱 23513</span>
+						<span>⭐ 86736</span>
+						<span>🔱 23531</span>
 					</div>
 				<div class="stars-today">⭐ 15364 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
     
 
 
       
-        microsoft /
+        ahmedkhaleel2004 /
 
-      ai-agents-for-beginners</a></p>
+      gitdiagram</a></p>
 				<p>
-      10 Lessons to Get Started Building AI Agents
+      Free, simple, fast interactive diagrams for any GitHub repository
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17535</span>
-						<span>🔱 4398</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10853</span>
+						<span>🔱 730</span>
 					</div>
-				<div class="stars-today">⭐ 9192 stars this month</div>
+				<div class="stars-today">⭐ 8038 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6869</span>
-						<span>🔱 453</span>
+						<span>⭐ 7065</span>
+						<span>🔱 461</span>
 					</div>
 				<div class="stars-today">⭐ 3118 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17557</span>
+						<span>🔱 4403</span>
+					</div>
+				<div class="stars-today">⭐ 9192 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4164</span>
-						<span>🔱 333</span>
+						<span>⭐ 4176</span>
+						<span>🔱 335</span>
 					</div>
 				<div class="stars-today">⭐ 2765 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
     
 
 
       
-        PatrickJS /
+        jujumilk3 /
 
-      awesome-cursorrules</a></p>
+      leaked-system-prompts</a></p>
 				<p>
-      📄 A curated list of awesome .cursorrules files
+      Collection of leaked system prompts
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 23727</span>
-						<span>🔱 1820</span>
+						<span>⭐ 4462</span>
+						<span>🔱 521</span>
 					</div>
-				<div class="stars-today">⭐ 5705 stars this month</div>
+				<div class="stars-today">⭐ 2301 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54858</span>
-						<span>🔱 2752</span>
+						<span>⭐ 54903</span>
+						<span>🔱 2755</span>
 					</div>
 				<div class="stars-today">⭐ 13379 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
+				<p><a href="https://github.com/PatrickJS/awesome-cursorrules" target="_blank">
     
 
 
       
-        meta-llama /
+        PatrickJS /
 
-      llama-models</a></p>
+      awesome-cursorrules</a></p>
 				<p>
-      Utilities intended for use with Llama models.
+      📄 A curated list of awesome .cursorrules files
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6887</span>
-						<span>🔱 1122</span>
+						<span>🔠 </span>
+						<span>⭐ 23749</span>
+						<span>🔱 1820</span>
 					</div>
-				<div class="stars-today">⭐ 930 stars this month</div>
+				<div class="stars-today">⭐ 5705 stars this month</div>
 				</div>
 			</div>
 	
