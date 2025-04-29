@@ -6,7 +6,399 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 28 Apr 2025 23:58:47 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 29 Apr 2025 03:00:24 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-04-29</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-04-29/</link>
+        <pubDate>Tue, 29 Apr 2025 03:00:24 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-04-29/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hacksider/Deep-Live-Cam&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      real time face swap and one-click video deepfake with only a single image
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 51883&lt;/span&gt;
+						&lt;span&gt;🔱 7654&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 380 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lapce/lapce&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lapce /
+
+      lapce&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Lightning-fast and Powerful Code Editor written in Rust
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 35796&lt;/span&gt;
+						&lt;span&gt;🔱 1109&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 189 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/getzep/graphiti&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        getzep /
+
+      graphiti&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Build Real-Time Knowledge Graphs for AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7285&lt;/span&gt;
+						&lt;span&gt;🔱 481&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1336 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jujumilk3/leaked-system-prompts&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of leaked system prompts
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 4761&lt;/span&gt;
+						&lt;span&gt;🔱 554&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 251 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/drawdb-io/drawdb&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        drawdb-io /
+
+      drawdb&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 29103&lt;/span&gt;
+						&lt;span&gt;🔱 2038&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 293 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/generative-ai-for-beginners&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 80864&lt;/span&gt;
+						&lt;span&gt;🔱 41634&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 427 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Tencent/Hunyuan3D-2&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Tencent /
+
+      Hunyuan3D-2&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9040&lt;/span&gt;
+						&lt;span&gt;🔱 761&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 95 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/kortix-ai/suna&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        kortix-ai /
+
+      suna&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Suna - Open Source Generalist AI Agent
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 8582&lt;/span&gt;
+						&lt;span&gt;🔱 986&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 767 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trimstray/the-book-of-secret-knowledge&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trimstray /
+
+      the-book-of-secret-knowledge&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 167414&lt;/span&gt;
+						&lt;span&gt;🔱 10473&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 553 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langgenius/dify&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langgenius /
+
+      dify&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 94911&lt;/span&gt;
+						&lt;span&gt;🔱 14179&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 234 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/codecrafters-io/build-your-own-x&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Master programming by recreating your favorite technologies from scratch.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Markdown&lt;/span&gt;
+						&lt;span&gt;⭐ 376249&lt;/span&gt;
+						&lt;span&gt;🔱 35029&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 908 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/patchy631/ai-engineering-hub&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 8404&lt;/span&gt;
+						&lt;span&gt;🔱 1432&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 72 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lobehub/lobe-chat&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lobehub /
+
+      lobe-chat&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 59600&lt;/span&gt;
+						&lt;span&gt;🔱 12614&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 84 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rowboatlabs/rowboat&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI-powered multi-agent builder
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2184&lt;/span&gt;
+						&lt;span&gt;🔱 164&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 341 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nikitabobko/AeroSpace&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nikitabobko /
+
+      AeroSpace&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AeroSpace is an i3-like tiling window manager for macOS
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 11999&lt;/span&gt;
+						&lt;span&gt;🔱 236&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 133 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bgstaal/multipleWindow3dScene&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        bgstaal /
+
+      multipleWindow3dScene&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 17749&lt;/span&gt;
+						&lt;span&gt;🔱 2735&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 227 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/0xk1h0/ChatGPT_DAN&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        0xk1h0 /
+
+      ChatGPT_DAN&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ChatGPT DAN, Jailbreaks prompt
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 8249&lt;/span&gt;
+						&lt;span&gt;🔱 733&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 544 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-04-28</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-04-28/</link>
         <pubDate>Mon, 28 Apr 2025 23:58:47 +0000</pubDate>
