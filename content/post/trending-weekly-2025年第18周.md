@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第18周
-date: 2025-04-29T09:59:00Z
+date: 2025-04-29T11:58:55Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 17768</span>
-						<span>🔱 1279</span>
-					</div>
-				<div class="stars-today">⭐ 2358 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
@@ -52,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4946</span>
-						<span>🔱 564</span>
+						<span>⭐ 4993</span>
+						<span>🔱 568</span>
 					</div>
 				<div class="stars-today">⭐ 2128 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
     
 
 
       
         microsoft /
 
-      markitdown</a></p>
+      BitNet</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55105</span>
-						<span>🔱 2773</span>
+						<span>🔠 C++</span>
+						<span>⭐ 17776</span>
+						<span>🔱 1280</span>
 					</div>
-				<div class="stars-today">⭐ 3941 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 29203</span>
-						<span>🔱 2041</span>
-					</div>
-				<div class="stars-today">⭐ 1797 stars this week</div>
+				<div class="stars-today">⭐ 2358 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 316520</span>
-						<span>🔱 41073</span>
+						<span>⭐ 316539</span>
+						<span>🔱 41074</span>
 					</div>
 				<div class="stars-today">⭐ 1984 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5454</span>
+						<span>🔱 367</span>
+					</div>
+				<div class="stars-today">⭐ 1182 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 29216</span>
+						<span>🔱 2041</span>
+					</div>
+				<div class="stars-today">⭐ 1797 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55123</span>
+						<span>🔱 2774</span>
+					</div>
+				<div class="stars-today">⭐ 3941 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11256</span>
+						<span>⭐ 11259</span>
 						<span>🔱 1018</span>
 					</div>
 				<div class="stars-today">⭐ 1297 stars this week</div>
@@ -162,118 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13157</span>
-						<span>🔱 3679</span>
+						<span>⭐ 13163</span>
+						<span>🔱 3681</span>
 					</div>
 				<div class="stars-today">⭐ 838 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 81582</span>
-						<span>🔱 9746</span>
-					</div>
-				<div class="stars-today">⭐ 2314 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5449</span>
-						<span>🔱 366</span>
-					</div>
-				<div class="stars-today">⭐ 1182 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plandex-ai/plandex" target="_blank">
-    
-
-
-      
-        plandex-ai /
-
-      plandex</a></p>
-				<p>
-      Open source AI coding agent. Designed for large projects and real world tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12987</span>
-						<span>🔱 856</span>
-					</div>
-				<div class="stars-today">⭐ 565 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22203</span>
-						<span>🔱 1887</span>
-					</div>
-				<div class="stars-today">⭐ 1084 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 35869</span>
-						<span>🔱 1113</span>
-					</div>
-				<div class="stars-today">⭐ 590 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 46733</span>
+						<span>⭐ 46740</span>
 						<span>🔱 2296</span>
 					</div>
 				<div class="stars-today">⭐ 1223 stars this week</div>
@@ -300,46 +212,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
     
 
 
       
-        jwasham /
+        aquasecurity /
 
-      coding-interview-university</a></p>
+      trivy</a></p>
 				<p>
-      A complete computer science study plan to become a software engineer.
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 316521</span>
-						<span>🔱 78634</span>
+						<span>🔠 Go</span>
+						<span>⭐ 25951</span>
+						<span>🔱 2517</span>
 					</div>
-				<div class="stars-today">⭐ 1509 stars this week</div>
+				<div class="stars-today">⭐ 394 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
 
       
-        bregman-arie /
+        simular-ai /
 
-      devops-exercises</a></p>
+      Agent-S</a></p>
 				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      Agent S: an open agentic framework that uses computers like a human
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 75411</span>
-						<span>🔱 16769</span>
+						<span>⭐ 3106</span>
+						<span>🔱 325</span>
 					</div>
-				<div class="stars-today">⭐ 1292 stars this week</div>
+				<div class="stars-today">⭐ 627 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年4月
-date: 2025-04-29T09:59:00Z
+date: 2025-04-29T11:58:56Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22523</span>
-						<span>🔱 2819</span>
+						<span>⭐ 22542</span>
+						<span>🔱 2820</span>
 					</div>
 				<div class="stars-today">⭐ 17922 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
+    
+
+
+      
+        CVEProject /
+
+      cvelistV5</a></p>
+				<p>
+      CVE cache of the official CVE List in CVE JSON 5 format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 1934</span>
+						<span>🔱 445</span>
+					</div>
+				<div class="stars-today">⭐ 964 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 44648</span>
-						<span>🔱 3251</span>
+						<span>⭐ 44692</span>
+						<span>🔱 3255</span>
 					</div>
 				<div class="stars-today">⭐ 26727 stars this month</div>
 				</div>
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7935</span>
-						<span>🔱 416</span>
+						<span>⭐ 7952</span>
+						<span>🔱 415</span>
 					</div>
 				<div class="stars-today">⭐ 5888 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
-    
-
-
-      
-        CVEProject /
-
-      cvelistV5</a></p>
-				<p>
-      CVE cache of the official CVE List in CVE JSON 5 format
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 1933</span>
-						<span>🔱 445</span>
-					</div>
-				<div class="stars-today">⭐ 964 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19130</span>
-						<span>🔱 987</span>
-					</div>
-				<div class="stars-today">⭐ 7708 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 87111</span>
-						<span>🔱 23633</span>
+						<span>⭐ 87143</span>
+						<span>🔱 23644</span>
 					</div>
 				<div class="stars-today">⭐ 15125 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
-    
-
-
-      
-        ahmedkhaleel2004 /
-
-      gitdiagram</a></p>
-				<p>
-      Free, simple, fast interactive diagrams for any GitHub repository
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10931</span>
-						<span>🔱 734</span>
-					</div>
-				<div class="stars-today">⭐ 7656 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7355</span>
-						<span>🔱 489</span>
-					</div>
-				<div class="stars-today">⭐ 4382 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17667</span>
-						<span>🔱 4448</span>
-					</div>
-				<div class="stars-today">⭐ 9012 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4218</span>
-						<span>🔱 340</span>
-					</div>
-				<div class="stars-today">⭐ 2742 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4946</span>
-						<span>🔱 564</span>
+						<span>⭐ 4993</span>
+						<span>🔱 568</span>
 					</div>
 				<div class="stars-today">⭐ 2509 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7371</span>
+						<span>🔱 489</span>
+					</div>
+				<div class="stars-today">⭐ 4382 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55105</span>
-						<span>🔱 2773</span>
+						<span>⭐ 55123</span>
+						<span>🔱 2774</span>
 					</div>
 				<div class="stars-today">⭐ 13630 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4222</span>
+						<span>🔱 340</span>
+					</div>
+				<div class="stars-today">⭐ 2742 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
+    
+
+
+      
+        th-ch /
+
+      youtube-music</a></p>
+				<p>
+      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19136</span>
+						<span>🔱 987</span>
+					</div>
+				<div class="stars-today">⭐ 7708 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17679</span>
+						<span>🔱 4449</span>
+					</div>
+				<div class="stars-today">⭐ 9012 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
+    
+
+
+      
+        meta-llama /
+
+      llama-models</a></p>
+				<p>
+      Utilities intended for use with Llama models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6898</span>
+						<span>🔱 1125</span>
+					</div>
+				<div class="stars-today">⭐ 949 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
+    
+
+
+      
+        ahmedkhaleel2004 /
+
+      gitdiagram</a></p>
+				<p>
+      Free, simple, fast interactive diagrams for any GitHub repository
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10944</span>
+						<span>🔱 734</span>
+					</div>
+				<div class="stars-today">⭐ 7656 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 23898</span>
+						<span>⭐ 23914</span>
 						<span>🔱 1835</span>
 					</div>
 				<div class="stars-today">⭐ 5700 stars this month</div>

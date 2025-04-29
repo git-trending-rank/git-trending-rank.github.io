@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-04-29
-date: 2025-04-29T09:59:00Z
+date: 2025-04-29T11:58:55Z
 categories:
 - daily
 keywords:
@@ -30,318 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52391</span>
-						<span>🔱 7701</span>
+						<span>⭐ 52533</span>
+						<span>🔱 7710</span>
 					</div>
 				<div class="stars-today">⭐ 380 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 35869</span>
-						<span>🔱 1113</span>
-					</div>
-				<div class="stars-today">⭐ 189 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7355</span>
-						<span>🔱 489</span>
-					</div>
-				<div class="stars-today">⭐ 1336 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
-    
-
-
-      
-        jujumilk3 /
-
-      leaked-system-prompts</a></p>
-				<p>
-      Collection of leaked system prompts
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4946</span>
-						<span>🔱 564</span>
-					</div>
-				<div class="stars-today">⭐ 251 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 29203</span>
-						<span>🔱 2041</span>
-					</div>
-				<div class="stars-today">⭐ 293 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 80999</span>
-						<span>🔱 41694</span>
-					</div>
-				<div class="stars-today">⭐ 427 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/Hunyuan3D-2" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      Hunyuan3D-2</a></p>
-				<p>
-      High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9133</span>
-						<span>🔱 766</span>
-					</div>
-				<div class="stars-today">⭐ 95 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8731</span>
-						<span>🔱 1002</span>
-					</div>
-				<div class="stars-today">⭐ 767 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
-    
-
-
-      
-        trimstray /
-
-      the-book-of-secret-knowledge</a></p>
-				<p>
-      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 167545</span>
-						<span>🔱 10487</span>
-					</div>
-				<div class="stars-today">⭐ 553 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
-    
-
-
-      
-        langgenius /
-
-      dify</a></p>
-				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 95051</span>
-						<span>🔱 14198</span>
-					</div>
-				<div class="stars-today">⭐ 234 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 376396</span>
-						<span>🔱 35044</span>
-					</div>
-				<div class="stars-today">⭐ 908 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 8474</span>
-						<span>🔱 1444</span>
-					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lobehub/lobe-chat" target="_blank">
-    
-
-
-      
-        lobehub /
-
-      lobe-chat</a></p>
-				<p>
-      🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 59677</span>
-						<span>🔱 12624</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      AI-powered multi-agent builder
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2262</span>
-						<span>🔱 171</span>
-					</div>
-				<div class="stars-today">⭐ 341 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nikitabobko/AeroSpace" target="_blank">
-    
-
-
-      
-        nikitabobko /
-
-      AeroSpace</a></p>
-				<p>
-      AeroSpace is an i3-like tiling window manager for macOS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 12038</span>
-						<span>🔱 238</span>
-					</div>
-				<div class="stars-today">⭐ 133 stars today</div>
 				</div>
 			</div>
 	
@@ -360,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17792</span>
-						<span>🔱 2739</span>
+						<span>⭐ 17801</span>
+						<span>🔱 2744</span>
 					</div>
 				<div class="stars-today">⭐ 227 stars today</div>
 				</div>
@@ -382,10 +74,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8330</span>
+						<span>⭐ 8357</span>
 						<span>🔱 739</span>
 					</div>
 				<div class="stars-today">⭐ 544 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners</a></p>
+				<p>
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 81063</span>
+						<span>🔱 41713</span>
+					</div>
+				<div class="stars-today">⭐ 427 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/practical-tutorials/project-based-learning" target="_blank">
+    
+
+
+      
+        practical-tutorials /
+
+      project-based-learning</a></p>
+				<p>
+      Curated list of project-based tutorials
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 225763</span>
+						<span>🔱 29510</span>
+					</div>
+				<div class="stars-today">⭐ 179 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 37681</span>
+						<span>🔱 1568</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jackfrued/Python-100-Days" target="_blank">
+    
+
+
+      
+        jackfrued /
+
+      Python-100-Days</a></p>
+				<p>
+      Python - 100天从新手到大师
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 164915</span>
+						<span>🔱 53605</span>
+					</div>
+				<div class="stars-today">⭐ 111 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 16334</span>
+						<span>🔱 1795</span>
+					</div>
+				<div class="stars-today">⭐ 307 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3106</span>
+						<span>🔱 325</span>
+					</div>
+				<div class="stars-today">⭐ 262 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 376426</span>
+						<span>🔱 35047</span>
+					</div>
+				<div class="stars-today">⭐ 908 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/carykh/jes" target="_blank">
+    
+
+
+      
+        carykh /
+
+      jes</a></p>
+				<p>
+      Jelly Evolution Simulator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54</span>
+						<span>🔱 37</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4993</span>
+						<span>🔱 568</span>
+					</div>
+				<div class="stars-today">⭐ 251 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lobehub/lobe-chat" target="_blank">
+    
+
+
+      
+        lobehub /
+
+      lobe-chat</a></p>
+				<p>
+      🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 59699</span>
+						<span>🔱 12626</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars today</div>
 				</div>
 			</div>
 	
