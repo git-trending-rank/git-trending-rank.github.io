@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 30 Apr 2025 09:58:50 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 30 Apr 2025 11:58:57 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-04-30</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-04-30/</link>
-        <pubDate>Wed, 30 Apr 2025 09:58:50 +0000</pubDate>
+        <pubDate>Wed, 30 Apr 2025 11:58:57 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-04-30/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,142 +33,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 54042&lt;/span&gt;
-						&lt;span&gt;🔱 7829&lt;/span&gt;
+						&lt;span&gt;⭐ 54187&lt;/span&gt;
+						&lt;span&gt;🔱 7839&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1498 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bgstaal/multipleWindow3dScene&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/patchy631/ai-engineering-hub&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        bgstaal /
+        patchy631 /
 
-      multipleWindow3dScene&lt;/a&gt;&lt;/p&gt;
+      ai-engineering-hub&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A quick example of how one can &#34;synchronize&#34; a 3d scene across multiple windows using three.js and localStorage
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17949&lt;/span&gt;
-						&lt;span&gt;🔱 2759&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 137 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/0xk1h0/ChatGPT_DAN&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        0xk1h0 /
-
-      ChatGPT_DAN&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      ChatGPT DAN, Jailbreaks prompt
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 8686&lt;/span&gt;
-						&lt;span&gt;🔱 765&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 337 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/generative-ai-for-beginners&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 81492&lt;/span&gt;
-						&lt;span&gt;🔱 41883&lt;/span&gt;
+						&lt;span&gt;⭐ 8530&lt;/span&gt;
+						&lt;span&gt;🔱 1453&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 429 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 185 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/practical-tutorials/project-based-learning&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen-Agent&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        practical-tutorials /
+        QwenLM /
 
-      project-based-learning&lt;/a&gt;&lt;/p&gt;
+      Qwen-Agent&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Curated list of project-based tutorials
+      Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 226084&lt;/span&gt;
-						&lt;span&gt;🔱 29540&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7251&lt;/span&gt;
+						&lt;span&gt;🔱 632&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 206 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 191 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen3&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        LadybirdBrowser /
+        QwenLM /
 
-      ladybird&lt;/a&gt;&lt;/p&gt;
+      Qwen3&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Truly independent web browser
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 37890&lt;/span&gt;
-						&lt;span&gt;🔱 1574&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 19400&lt;/span&gt;
+						&lt;span&gt;🔱 1279&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 105 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jackfrued/Python-100-Days&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        jackfrued /
-
-      Python-100-Days&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Python - 100天从新手到大师
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 165187&lt;/span&gt;
-						&lt;span&gt;🔱 53639&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 97 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2182 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,10 +121,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 16571&lt;/span&gt;
-						&lt;span&gt;🔱 1857&lt;/span&gt;
+						&lt;span&gt;⭐ 16600&lt;/span&gt;
+						&lt;span&gt;🔱 1862&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 466 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/daytonaio/daytona&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        daytonaio /
+
+      daytona&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 16834&lt;/span&gt;
+						&lt;span&gt;🔱 1668&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 741 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vllm-project/vllm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vllm-project /
+
+      vllm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A high-throughput and memory-efficient inference and serving engine for LLMs
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 46214&lt;/span&gt;
+						&lt;span&gt;🔱 7170&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 128 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,7 +187,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3406&lt;/span&gt;
+						&lt;span&gt;⭐ 3423&lt;/span&gt;
 						&lt;span&gt;🔱 349&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 97 stars today&lt;/div&gt;
@@ -217,90 +195,134 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/codecrafters-io/build-your-own-x&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/generative-ai-for-beginners&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        codecrafters-io /
+        microsoft /
 
-      build-your-own-x&lt;/a&gt;&lt;/p&gt;
+      generative-ai-for-beginners&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Master programming by recreating your favorite technologies from scratch.
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Markdown&lt;/span&gt;
-						&lt;span&gt;⭐ 376790&lt;/span&gt;
-						&lt;span&gt;🔱 35084&lt;/span&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 81531&lt;/span&gt;
+						&lt;span&gt;🔱 41889&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 553 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 429 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/carykh/jes&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        carykh /
+        LadybirdBrowser /
 
-      jes&lt;/a&gt;&lt;/p&gt;
+      ladybird&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Jelly Evolution Simulator
+      Truly independent web browser
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 37901&lt;/span&gt;
+						&lt;span&gt;🔱 1574&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 105 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ml-explore/mlx-swift-examples&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ml-explore /
+
+      mlx-swift-examples&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Examples using MLX Swift
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 1703&lt;/span&gt;
+						&lt;span&gt;🔱 212&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hiyouga/LLaMA-Factory&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hiyouga /
+
+      LLaMA-Factory&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024)
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 106&lt;/span&gt;
-						&lt;span&gt;🔱 42&lt;/span&gt;
+						&lt;span&gt;⭐ 47948&lt;/span&gt;
+						&lt;span&gt;🔱 5859&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 77 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jujumilk3/leaked-system-prompts&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/AutoMQ/automq&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        jujumilk3 /
+        AutoMQ /
 
-      leaked-system-prompts&lt;/a&gt;&lt;/p&gt;
+      automq&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Collection of leaked system prompts
+      AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 5392&lt;/span&gt;
-						&lt;span&gt;🔱 599&lt;/span&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 5908&lt;/span&gt;
+						&lt;span&gt;🔱 399&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 514 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 43 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lobehub/lobe-chat&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bitcoin/bitcoin&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        lobehub /
+        bitcoin /
 
-      lobe-chat&lt;/a&gt;&lt;/p&gt;
+      bitcoin&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+      Bitcoin Core integration/staging tree
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 59963&lt;/span&gt;
-						&lt;span&gt;🔱 12650&lt;/span&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 83127&lt;/span&gt;
+						&lt;span&gt;🔱 37132&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 298 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 46 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
