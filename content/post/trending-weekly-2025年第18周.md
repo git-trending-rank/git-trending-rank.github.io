@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第18周
-date: 2025-04-30T09:58:50Z
+date: 2025-04-30T11:58:57Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5392</span>
-						<span>🔱 599</span>
+						<span>⭐ 5412</span>
+						<span>🔱 600</span>
 					</div>
 				<div class="stars-today">⭐ 2584 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54187</span>
+						<span>🔱 7839</span>
+					</div>
+				<div class="stars-today">⭐ 3587 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +74,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 17852</span>
-						<span>🔱 1284</span>
+						<span>⭐ 17859</span>
+						<span>🔱 1285</span>
 					</div>
 				<div class="stars-today">⭐ 1780 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5502</span>
+						<span>🔱 370</span>
+					</div>
+				<div class="stars-today">⭐ 1159 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,30 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 316706</span>
-						<span>🔱 41092</span>
+						<span>⭐ 316714</span>
+						<span>🔱 41094</span>
 					</div>
 				<div class="stars-today">⭐ 1837 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5499</span>
-						<span>🔱 370</span>
-					</div>
-				<div class="stars-today">⭐ 1159 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29321</span>
+						<span>⭐ 29326</span>
 						<span>🔱 2048</span>
 					</div>
 				<div class="stars-today">⭐ 1798 stars this week</div>
@@ -124,24 +146,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      markitdown</a></p>
+      generative-ai-for-beginners</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55319</span>
-						<span>🔱 2785</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 81531</span>
+						<span>🔱 41889</span>
 					</div>
-				<div class="stars-today">⭐ 3165 stars this week</div>
+				<div class="stars-today">⭐ 2415 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 35902</span>
+						<span>🔱 1114</span>
+					</div>
+				<div class="stars-today">⭐ 774 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,54 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11313</span>
+						<span>⭐ 11314</span>
 						<span>🔱 1018</span>
 					</div>
 				<div class="stars-today">⭐ 1011 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hydralauncher/hydra" target="_blank">
-    
-
-
-      
-        hydralauncher /
-
-      hydra</a></p>
-				<p>
-      Hydra is a game launcher with its own embedded bittorrent client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13203</span>
-						<span>🔱 3688</span>
-					</div>
-				<div class="stars-today">⭐ 776 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
-    
-
-
-      
-        pocketbase /
-
-      pocketbase</a></p>
-				<p>
-      Open Source realtime backend in 1 file
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 46797</span>
-						<span>🔱 2301</span>
-					</div>
-				<div class="stars-today">⭐ 1166 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,32 +226,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 25998</span>
-						<span>🔱 2519</span>
+						<span>⭐ 26004</span>
+						<span>🔱 2520</span>
 					</div>
 				<div class="stars-today">⭐ 414 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        simular-ai /
+        microsoft /
 
-      Agent-S</a></p>
+      markitdown</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3406</span>
-						<span>🔱 349</span>
+						<span>⭐ 55331</span>
+						<span>🔱 2788</span>
 					</div>
-				<div class="stars-today">⭐ 738 stars this week</div>
+				<div class="stars-today">⭐ 3165 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7516</span>
+						<span>🔱 503</span>
+					</div>
+				<div class="stars-today">⭐ 3409 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF</a></p>
+				<p>
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 57241</span>
+						<span>🔱 4809</span>
+					</div>
+				<div class="stars-today">⭐ 986 stars this week</div>
 				</div>
 			</div>
 	
