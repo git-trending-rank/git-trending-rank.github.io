@@ -6,7 +6,333 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 30 Apr 2025 23:58:41 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 01 May 2025 03:09:51 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025年5月</title>
+        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B45%E6%9C%88/</link>
+        <pubDate>Thu, 01 May 2025 03:09:51 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B45%E6%9C%88/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/yeongpin/cursor-free-vip&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      [Support 0.49.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You&#39;ve reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 22828&lt;/span&gt;
+						&lt;span&gt;🔱 2840&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18063 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CVEProject/cvelistV5&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CVEProject /
+
+      cvelistV5&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      CVE cache of the official CVE List in CVE JSON 5 format
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 1945&lt;/span&gt;
+						&lt;span&gt;🔱 444&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 976 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/agent-starter-pack&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      agent-starter-pack&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of production-ready Generative AI Agent templates built for Google Cloud. It accelerates development by providing a holistic, production-ready solution, addressing common challenges (Deployment &amp; Operations, Evaluation, Customization, Observability) in building and deploying GenAI agents.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 1548&lt;/span&gt;
+						&lt;span&gt;🔱 514&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1265 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jujumilk3/leaked-system-prompts&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of leaked system prompts
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 5512&lt;/span&gt;
+						&lt;span&gt;🔱 607&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3348 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/n8n-io/n8n&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        n8n-io /
+
+      n8n&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 87742&lt;/span&gt;
+						&lt;span&gt;🔱 23833&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14755 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jlowin/fastmcp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jlowin /
+
+      fastmcp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀 The fast, Pythonic way to build MCP servers and clients
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 8166&lt;/span&gt;
+						&lt;span&gt;🔱 426&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5372 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/punkpeye/awesome-mcp-servers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of MCP servers.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 45217&lt;/span&gt;
+						&lt;span&gt;🔱 3308&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22311 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/markitdown&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      markitdown&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Python tool for converting files and office documents to Markdown.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 55436&lt;/span&gt;
+						&lt;span&gt;🔱 2798&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13849 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/getzep/graphiti&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        getzep /
+
+      graphiti&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Build Real-Time Knowledge Graphs for AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7605&lt;/span&gt;
+						&lt;span&gt;🔱 506&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4624 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mark3labs/mcp-go&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mark3labs /
+
+      mcp-go&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 4303&lt;/span&gt;
+						&lt;span&gt;🔱 346&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2647 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/simular-ai/Agent-S&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        simular-ai /
+
+      Agent-S&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Agent S: an open agentic framework that uses computers like a human
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3551&lt;/span&gt;
+						&lt;span&gt;🔱 359&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2063 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trycua/cua&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trycua /
+
+      cua&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      c/ua is the Docker Container for Computer-Use AI Agents.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 5282&lt;/span&gt;
+						&lt;span&gt;🔱 205&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2207 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      10 Lessons to Get Started Building AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 17845&lt;/span&gt;
+						&lt;span&gt;🔱 4526&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8895 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Zackriya-Solutions/meeting-minutes&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 4972&lt;/span&gt;
+						&lt;span&gt;🔱 339&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3556 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025年4月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B44%E6%9C%88/</link>
         <pubDate>Wed, 30 Apr 2025 23:58:41 +0000</pubDate>

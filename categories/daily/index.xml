@@ -6,7 +6,333 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 30 Apr 2025 23:58:41 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 01 May 2025 03:09:51 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-05-01</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-05-01/</link>
+        <pubDate>Thu, 01 May 2025 03:09:51 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-05-01/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hacksider/Deep-Live-Cam&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      real time face swap and one-click video deepfake with only a single image
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 55056&lt;/span&gt;
+						&lt;span&gt;🔱 7914&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1686 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/patchy631/ai-engineering-hub&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 8683&lt;/span&gt;
+						&lt;span&gt;🔱 1465&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 54 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen-Agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7393&lt;/span&gt;
+						&lt;span&gt;🔱 638&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 188 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen3&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        QwenLM /
+
+      Qwen3&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 19613&lt;/span&gt;
+						&lt;span&gt;🔱 1288&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 673 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/juspay/hyperswitch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        juspay /
+
+      hyperswitch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 16937&lt;/span&gt;
+						&lt;span&gt;🔱 1963&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 274 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/daytonaio/daytona&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        daytonaio /
+
+      daytona&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 17201&lt;/span&gt;
+						&lt;span&gt;🔱 1764&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 418 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vllm-project/vllm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vllm-project /
+
+      vllm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A high-throughput and memory-efficient inference and serving engine for LLMs
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 46308&lt;/span&gt;
+						&lt;span&gt;🔱 7183&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 126 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/simular-ai/Agent-S&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        simular-ai /
+
+      Agent-S&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Agent S: an open agentic framework that uses computers like a human
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3551&lt;/span&gt;
+						&lt;span&gt;🔱 359&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 317 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/generative-ai-for-beginners&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 81745&lt;/span&gt;
+						&lt;span&gt;🔱 41965&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 474 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Truly independent web browser
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 38006&lt;/span&gt;
+						&lt;span&gt;🔱 1578&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 231 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ml-explore/mlx-swift-examples&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ml-explore /
+
+      mlx-swift-examples&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Examples using MLX Swift
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 1728&lt;/span&gt;
+						&lt;span&gt;🔱 214&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hiyouga/LLaMA-Factory&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hiyouga /
+
+      LLaMA-Factory&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 48060&lt;/span&gt;
+						&lt;span&gt;🔱 5866&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 84 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/AutoMQ/automq&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        AutoMQ /
+
+      automq&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 6009&lt;/span&gt;
+						&lt;span&gt;🔱 402&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 52 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bitcoin/bitcoin&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        bitcoin /
+
+      bitcoin&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Bitcoin Core integration/staging tree
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 83200&lt;/span&gt;
+						&lt;span&gt;🔱 37140&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 49 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-04-30</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-04-30/</link>
         <pubDate>Wed, 30 Apr 2025 23:58:41 +0000</pubDate>
