@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第18周
-date: 2025-05-01T09:58:36Z
+date: 2025-05-01T11:58:45Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+    
+
+
+      
+        kortix-ai /
+
+      suna</a></p>
+				<p>
+      Suna - Open Source Generalist AI Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9149</span>
+						<span>🔱 1112</span>
+					</div>
+				<div class="stars-today">⭐ 6627 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
@@ -30,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5556</span>
+						<span>⭐ 5565</span>
 						<span>🔱 615</span>
 					</div>
 				<div class="stars-today">⭐ 2923 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      AI-powered multi-agent builder
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2353</span>
+						<span>🔱 176</span>
+					</div>
+				<div class="stars-today">⭐ 1787 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,74 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55381</span>
-						<span>🔱 7949</span>
+						<span>⭐ 55479</span>
+						<span>🔱 7957</span>
 					</div>
 				<div class="stars-today">⭐ 3895 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
 
       
-        microsoft /
+        simular-ai /
 
-      BitNet</a></p>
+      Agent-S</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      Agent S: an open agentic framework that uses computers like a human
     </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 17925</span>
-						<span>🔱 1293</span>
-					</div>
-				<div class="stars-today">⭐ 1328 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS</a></p>
-				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5544</span>
-						<span>🔱 370</span>
+						<span>⭐ 3653</span>
+						<span>🔱 363</span>
 					</div>
-				<div class="stars-today">⭐ 1074 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 316838</span>
-						<span>🔱 41111</span>
-					</div>
-				<div class="stars-today">⭐ 1544 stars this week</div>
+				<div class="stars-today">⭐ 1051 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29382</span>
+						<span>⭐ 29392</span>
 						<span>🔱 2050</span>
 					</div>
 				<div class="stars-today">⭐ 1618 stars this week</div>
@@ -160,98 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 81839</span>
-						<span>🔱 41985</span>
+						<span>⭐ 81858</span>
+						<span>🔱 41991</span>
 					</div>
 				<div class="stars-today">⭐ 2530 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 35933</span>
-						<span>🔱 1114</span>
-					</div>
-				<div class="stars-today">⭐ 787 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11341</span>
-						<span>🔱 1020</span>
-					</div>
-				<div class="stars-today">⭐ 785 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 26043</span>
-						<span>🔱 2523</span>
-					</div>
-				<div class="stars-today">⭐ 453 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55465</span>
-						<span>🔱 2803</span>
-					</div>
-				<div class="stars-today">⭐ 2579 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +184,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7643</span>
+						<span>⭐ 7652</span>
 						<span>🔱 510</span>
 					</div>
 				<div class="stars-today">⭐ 3543 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 316850</span>
+						<span>🔱 41112</span>
+					</div>
+				<div class="stars-today">⭐ 1544 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5549</span>
+						<span>🔱 370</span>
+					</div>
+				<div class="stars-today">⭐ 1074 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 35939</span>
+						<span>🔱 1114</span>
+					</div>
+				<div class="stars-today">⭐ 787 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 57305</span>
-						<span>🔱 4812</span>
+						<span>⭐ 57314</span>
+						<span>🔱 4815</span>
 					</div>
 				<div class="stars-today">⭐ 992 stars this week</div>
 				</div>
