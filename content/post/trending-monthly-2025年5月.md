@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-02T09:58:56Z
+date: 2025-05-02T11:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23006</span>
-						<span>🔱 2863</span>
+						<span>⭐ 23017</span>
+						<span>🔱 2864</span>
 					</div>
 				<div class="stars-today">⭐ 18110 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5688</span>
-						<span>🔱 624</span>
+						<span>⭐ 5696</span>
+						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 3474 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1956</span>
+						<span>⭐ 1957</span>
 						<span>🔱 446</span>
 					</div>
 				<div class="stars-today">⭐ 982 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 88095</span>
-						<span>🔱 23996</span>
-					</div>
-				<div class="stars-today">⭐ 14603 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55606</span>
-						<span>🔱 2815</span>
-					</div>
-				<div class="stars-today">⭐ 13947 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7765</span>
+						<span>⭐ 7772</span>
 						<span>🔱 518</span>
 					</div>
 				<div class="stars-today">⭐ 4714 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55619</span>
+						<span>🔱 2815</span>
+					</div>
+				<div class="stars-today">⭐ 13947 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8257</span>
+						<span>⭐ 8263</span>
 						<span>🔱 430</span>
 					</div>
 				<div class="stars-today">⭐ 5122 stars this month</div>
@@ -170,24 +148,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
     
 
 
       
-        punkpeye /
+        n8n-io /
 
-      awesome-mcp-servers</a></p>
+      n8n</a></p>
 				<p>
-      A collection of MCP servers.
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 45467</span>
-						<span>🔱 3335</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 88113</span>
+						<span>🔱 24009</span>
 					</div>
-				<div class="stars-today">⭐ 19257 stars this month</div>
+				<div class="stars-today">⭐ 14603 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56928</span>
+						<span>🔱 8115</span>
+					</div>
+				<div class="stars-today">⭐ 6789 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+    
+
+
+      
+        elie222 /
+
+      inbox-zero</a></p>
+				<p>
+      AI personal assistant for email. Open source app to help you reach inbox zero fast.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7208</span>
+						<span>🔱 736</span>
+					</div>
+				<div class="stars-today">⭐ 3306 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3863</span>
-						<span>🔱 377</span>
+						<span>⭐ 3875</span>
+						<span>🔱 378</span>
 					</div>
 				<div class="stars-today">⭐ 2300 stars this month</div>
 				</div>
@@ -228,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5349</span>
+						<span>⭐ 5352</span>
 						<span>🔱 209</span>
 					</div>
 				<div class="stars-today">⭐ 2092 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17973</span>
-						<span>🔱 4582</span>
-					</div>
-				<div class="stars-today">⭐ 8816 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56795</span>
-						<span>🔱 8098</span>
-					</div>
-				<div class="stars-today">⭐ 6789 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4346</span>
-						<span>🔱 350</span>
-					</div>
-				<div class="stars-today">⭐ 2585 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29460</span>
+						<span>⭐ 29462</span>
 						<span>🔱 2056</span>
 					</div>
 				<div class="stars-today">⭐ 3152 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4352</span>
+						<span>🔱 350</span>
+					</div>
+				<div class="stars-today">⭐ 2585 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14309</span>
+						<span>⭐ 14310</span>
 						<span>🔱 1866</span>
 					</div>
 				<div class="stars-today">⭐ 1892 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17982</span>
+						<span>🔱 4588</span>
+					</div>
+				<div class="stars-today">⭐ 8816 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 19938</span>
+						<span>🔱 1301</span>
+					</div>
+				<div class="stars-today">⭐ 3453 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers</a></p>
+				<p>
+      A collection of MCP servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 45489</span>
+						<span>🔱 3337</span>
+					</div>
+				<div class="stars-today">⭐ 19257 stars this month</div>
 				</div>
 			</div>
 	
