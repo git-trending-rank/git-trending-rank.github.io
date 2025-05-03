@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-03T09:58:35Z
+date: 2025-05-03T11:58:55Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23110</span>
-						<span>🔱 2878</span>
+						<span>⭐ 23118</span>
+						<span>🔱 2880</span>
 					</div>
 				<div class="stars-today">⭐ 18138 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
-    
-
-
-      
-        jujumilk3 /
-
-      leaked-system-prompts</a></p>
-				<p>
-      Collection of leaked system prompts
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 5805</span>
-						<span>🔱 644</span>
-					</div>
-				<div class="stars-today">⭐ 3603 stars this month</div>
 				</div>
 			</div>
 	
@@ -82,24 +60,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
     
 
 
       
-        getzep /
+        jujumilk3 /
 
-      graphiti</a></p>
+      leaked-system-prompts</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 5814</span>
+						<span>🔱 646</span>
+					</div>
+				<div class="stars-today">⭐ 3603 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7848</span>
-						<span>🔱 522</span>
+						<span>⭐ 58420</span>
+						<span>🔱 8249</span>
 					</div>
-				<div class="stars-today">⭐ 4791 stars this month</div>
+				<div class="stars-today">⭐ 8147 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55782</span>
+						<span>⭐ 55789</span>
 						<span>🔱 2826</span>
 					</div>
 				<div class="stars-today">⭐ 14024 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8350</span>
-						<span>🔱 436</span>
+						<span>⭐ 8361</span>
+						<span>🔱 437</span>
 					</div>
 				<div class="stars-today">⭐ 4864 stars this month</div>
 				</div>
@@ -162,54 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 88332</span>
-						<span>🔱 24094</span>
+						<span>⭐ 88355</span>
+						<span>🔱 24099</span>
 					</div>
 				<div class="stars-today">⭐ 14439 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
 
       
-        hacksider /
+        getzep /
 
-      Deep-Live-Cam</a></p>
+      graphiti</a></p>
 				<p>
-      real time face swap and one-click video deepfake with only a single image
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58194</span>
-						<span>🔱 8233</span>
+						<span>⭐ 7857</span>
+						<span>🔱 522</span>
 					</div>
-				<div class="stars-today">⭐ 8147 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
-    
-
-
-      
-        elie222 /
-
-      inbox-zero</a></p>
-				<p>
-      AI personal assistant for email. Open source app to help you reach inbox zero fast.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7232</span>
-						<span>🔱 740</span>
-					</div>
-				<div class="stars-today">⭐ 3040 stars this month</div>
+				<div class="stars-today">⭐ 4791 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3947</span>
+						<span>⭐ 3951</span>
 						<span>🔱 384</span>
 					</div>
 				<div class="stars-today">⭐ 2452 stars this month</div>
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5408</span>
+						<span>⭐ 5414</span>
 						<span>🔱 212</span>
 					</div>
 				<div class="stars-today">⭐ 2032 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+    
+
+
+      
+        elie222 /
+
+      inbox-zero</a></p>
+				<p>
+      AI personal assistant for email. Open source app to help you reach inbox zero fast.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7235</span>
+						<span>🔱 740</span>
+					</div>
+				<div class="stars-today">⭐ 3040 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29505</span>
+						<span>⭐ 29511</span>
 						<span>🔱 2064</span>
 					</div>
 				<div class="stars-today">⭐ 3206 stars this month</div>
@@ -294,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4390</span>
+						<span>⭐ 4394</span>
 						<span>🔱 353</span>
 					</div>
 				<div class="stars-today">⭐ 2543 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
-    
-
-
-      
-        activepieces /
-
-      activepieces</a></p>
-				<p>
-      AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14349</span>
-						<span>🔱 1871</span>
-					</div>
-				<div class="stars-today">⭐ 1926 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18074</span>
-						<span>🔱 4623</span>
-					</div>
-				<div class="stars-today">⭐ 8716 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20023</span>
+						<span>⭐ 20029</span>
 						<span>🔱 1306</span>
 					</div>
 				<div class="stars-today">⭐ 3587 stars this month</div>
@@ -368,24 +324,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        punkpeye /
+        microsoft /
 
-      awesome-mcp-servers</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      A collection of MCP servers.
+      10 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 45662</span>
-						<span>🔱 3353</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 18088</span>
+						<span>🔱 4625</span>
 					</div>
-				<div class="stars-today">⭐ 17433 stars this month</div>
+				<div class="stars-today">⭐ 8716 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
+    
+
+
+      
+        meta-llama /
+
+      llama-models</a></p>
+				<p>
+      Utilities intended for use with Llama models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6933</span>
+						<span>🔱 1134</span>
+					</div>
+				<div class="stars-today">⭐ 967 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
+    
+
+
+      
+        activepieces /
+
+      activepieces</a></p>
+				<p>
+      AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14351</span>
+						<span>🔱 1871</span>
+					</div>
+				<div class="stars-today">⭐ 1926 stars this month</div>
 				</div>
 			</div>
 	

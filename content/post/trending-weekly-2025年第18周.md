@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第18周
-date: 2025-05-03T09:58:35Z
+date: 2025-05-03T11:58:55Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58194</span>
-						<span>🔱 8233</span>
+						<span>⭐ 58420</span>
+						<span>🔱 8249</span>
 					</div>
 				<div class="stars-today">⭐ 6689 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9516</span>
-						<span>🔱 1181</span>
-					</div>
-				<div class="stars-today">⭐ 4443 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5805</span>
-						<span>🔱 644</span>
+						<span>⭐ 5814</span>
+						<span>🔱 646</span>
 					</div>
 				<div class="stars-today">⭐ 2422 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+    
+
+
+      
+        kortix-ai /
+
+      suna</a></p>
+				<p>
+      Suna - Open Source Generalist AI Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9531</span>
+						<span>🔱 1183</span>
+					</div>
+				<div class="stars-today">⭐ 4443 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2459</span>
+						<span>⭐ 2463</span>
 						<span>🔱 182</span>
 					</div>
 				<div class="stars-today">⭐ 1530 stars this week</div>
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3947</span>
+						<span>⭐ 3951</span>
 						<span>🔱 384</span>
 					</div>
 				<div class="stars-today">⭐ 1448 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fastrepl/hyprnote" target="_blank">
-    
-
-
-      
-        fastrepl /
-
-      hyprnote</a></p>
-				<p>
-      AI Notepad for back-to-back meetings. Local-first & Extensible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1733</span>
-						<span>🔱 79</span>
-					</div>
-				<div class="stars-today">⭐ 850 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36007</span>
-						<span>🔱 1119</span>
-					</div>
-				<div class="stars-today">⭐ 826 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,98 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82062</span>
-						<span>🔱 42129</span>
+						<span>⭐ 82071</span>
+						<span>🔱 42134</span>
 					</div>
 				<div class="stars-today">⭐ 2304 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
     
 
 
       
-        drawdb-io /
+        lapce /
 
-      drawdb</a></p>
+      lapce</a></p>
 				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
+      Lightning-fast and Powerful Code Editor written in Rust
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 29505</span>
-						<span>🔱 2064</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 36008</span>
+						<span>🔱 1119</span>
 					</div>
-				<div class="stars-today">⭐ 1307 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
-    
-
-
-      
-        bregman-arie /
-
-      devops-exercises</a></p>
-				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 75550</span>
-						<span>🔱 16824</span>
-					</div>
-				<div class="stars-today">⭐ 1082 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7848</span>
-						<span>🔱 522</span>
-					</div>
-				<div class="stars-today">⭐ 3128 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 26096</span>
-						<span>🔱 2528</span>
-					</div>
-				<div class="stars-today">⭐ 442 stars this week</div>
+				<div class="stars-today">⭐ 826 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 38172</span>
-						<span>🔱 1585</span>
+						<span>⭐ 38187</span>
+						<span>🔱 1586</span>
 					</div>
 				<div class="stars-today">⭐ 635 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 29511</span>
+						<span>🔱 2064</span>
+					</div>
+				<div class="stars-today">⭐ 1307 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fastrepl/hyprnote" target="_blank">
+    
+
+
+      
+        fastrepl /
+
+      hyprnote</a></p>
+				<p>
+      AI Notepad for back-to-back meetings. Local-first & Extensible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1740</span>
+						<span>🔱 79</span>
+					</div>
+				<div class="stars-today">⭐ 850 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/Hunyuan3D-2" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      Hunyuan3D-2</a></p>
+				<p>
+      High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9281</span>
+						<span>🔱 781</span>
+					</div>
+				<div class="stars-today">⭐ 570 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7857</span>
+						<span>🔱 522</span>
+					</div>
+				<div class="stars-today">⭐ 3128 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17599</span>
+						<span>🔱 2142</span>
+					</div>
+				<div class="stars-today">⭐ 1582 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 317114</span>
+						<span>⭐ 317128</span>
 						<span>🔱 41139</span>
 					</div>
 				<div class="stars-today">⭐ 1306 stars this week</div>
@@ -324,46 +324,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
     
 
 
       
-        PowerShell /
+        bregman-arie /
 
-      PowerShell</a></p>
+      devops-exercises</a></p>
 				<p>
-      PowerShell for every system!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 47232</span>
-						<span>🔱 7621</span>
-					</div>
-				<div class="stars-today">⭐ 137 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28461</span>
-						<span>🔱 2713</span>
+						<span>⭐ 75553</span>
+						<span>🔱 16825</span>
 					</div>
-				<div class="stars-today">⭐ 517 stars this week</div>
+				<div class="stars-today">⭐ 1082 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26099</span>
+						<span>🔱 2528</span>
+					</div>
+				<div class="stars-today">⭐ 442 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dockur/windows" target="_blank">
+    
+
+
+      
+        dockur /
+
+      windows</a></p>
+				<p>
+      Windows inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 34846</span>
+						<span>🔱 2491</span>
+					</div>
+				<div class="stars-today">⭐ 454 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-03
-date: 2025-05-03T09:58:35Z
+date: 2025-05-03T11:58:56Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58194</span>
-						<span>🔱 8233</span>
-					</div>
-				<div class="stars-today">⭐ 1524 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
@@ -52,118 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1620</span>
-						<span>🔱 111</span>
+						<span>⭐ 1674</span>
+						<span>🔱 117</span>
 					</div>
 				<div class="stars-today">⭐ 244 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2056</span>
-						<span>🔱 161</span>
-					</div>
-				<div class="stars-today">⭐ 85 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/mcp-server-cloudflare" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      mcp-server-cloudflare</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1627</span>
-						<span>🔱 124</span>
-					</div>
-				<div class="stars-today">⭐ 69 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP" target="_blank">
-    
-
-
-      
-        wonderwhy-er /
-
-      DesktopCommanderMCP</a></p>
-				<p>
-      This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2364</span>
-						<span>🔱 248</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17459</span>
-						<span>🔱 2087</span>
-					</div>
-				<div class="stars-today">⭐ 249 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Atmosphere-NX/Atmosphere" target="_blank">
-    
-
-
-      
-        Atmosphere-NX /
-
-      Atmosphere</a></p>
-				<p>
-      Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15864</span>
-						<span>🔱 1269</span>
-					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
 				</div>
 			</div>
 	
@@ -182,184 +52,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 56436</span>
-						<span>🔱 2833</span>
+						<span>⭐ 56483</span>
+						<span>🔱 2834</span>
 					</div>
 				<div class="stars-today">⭐ 375 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/agents" target="_blank">
+				<p><a href="https://github.com/Atmosphere-NX/Atmosphere" target="_blank">
+    
+
+
+      
+        Atmosphere-NX /
+
+      Atmosphere</a></p>
+				<p>
+      Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 15875</span>
+						<span>🔱 1269</span>
+					</div>
+				<div class="stars-today">⭐ 47 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58420</span>
+						<span>🔱 8249</span>
+					</div>
+				<div class="stars-today">⭐ 1524 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/mcp-server-cloudflare" target="_blank">
     
 
 
       
         cloudflare /
 
-      agents</a></p>
-				<p>
-      Build and deploy AI Agents on Cloudflare 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1829</span>
-						<span>🔱 122</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DiceDB/dice" target="_blank">
-    
-
-
-      
-        DiceDB /
-
-      dice</a></p>
-				<p>
-      DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10340</span>
-						<span>🔱 1362</span>
-					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
+      mcp-server-cloudflare</a></p>
 				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 12588</span>
-						<span>🔱 838</span>
-					</div>
-				<div class="stars-today">⭐ 34 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7767</span>
-						<span>🔱 660</span>
-					</div>
-				<div class="stars-today">⭐ 192 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 297865</span>
-						<span>🔱 49501</span>
-					</div>
-				<div class="stars-today">⭐ 122 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/open-webui/open-webui" target="_blank">
-    
-
-
-      
-        open-webui /
-
-      open-webui</a></p>
-				<p>
-      User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 92904</span>
-						<span>🔱 11768</span>
-					</div>
-				<div class="stars-today">⭐ 376 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langwatch/langwatch" target="_blank">
-    
-
-
-      
-        langwatch /
-
-      langwatch</a></p>
-				<p>
-      The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
-    </p>
-				<div class="repo-stats">
-					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1738</span>
-						<span>🔱 130</span>
+						<span>⭐ 1642</span>
+						<span>🔱 124</span>
 					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
-    
-
-
-      
-        bitcoin /
-
-      bitcoin</a></p>
-				<p>
-      Bitcoin Core integration/staging tree
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 83324</span>
-						<span>🔱 37162</span>
-					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 69 stars today</div>
 				</div>
 			</div>
 	
@@ -378,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2350</span>
+						<span>⭐ 2352</span>
 						<span>🔱 904</span>
 					</div>
 				<div class="stars-today">⭐ 15 stars today</div>
@@ -386,24 +146,310 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheRobotStudio/SO-ARM100" target="_blank">
+				<p><a href="https://github.com/ChrisTitusTech/winutil" target="_blank">
     
 
 
       
-        TheRobotStudio /
+        ChrisTitusTech /
 
-      SO-ARM100</a></p>
+      winutil</a></p>
 				<p>
-      Standard Open Arm 100
+      Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 CMake</span>
-						<span>⭐ 1852</span>
-						<span>🔱 120</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 33517</span>
+						<span>🔱 1879</span>
 					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
+				<div class="stars-today">⭐ 143 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jackfrued/Python-100-Days" target="_blank">
+    
+
+
+      
+        jackfrued /
+
+      Python-100-Days</a></p>
+				<p>
+      Python - 100天从新手到大师
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 165595</span>
+						<span>🔱 53690</span>
+					</div>
+				<div class="stars-today">⭐ 212 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juanfont/headscale" target="_blank">
+    
+
+
+      
+        juanfont /
+
+      headscale</a></p>
+				<p>
+      An open source, self-hosted implementation of the Tailscale control server
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 27575</span>
+						<span>🔱 1485</span>
+					</div>
+				<div class="stars-today">⭐ 20 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koreader/koreader" target="_blank">
+    
+
+
+      
+        koreader /
+
+      koreader</a></p>
+				<p>
+      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 20855</span>
+						<span>🔱 1417</span>
+					</div>
+				<div class="stars-today">⭐ 47 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jj-vcs/jj" target="_blank">
+    
+
+
+      
+        jj-vcs /
+
+      jj</a></p>
+				<p>
+      A Git-compatible VCS that is both simple and powerful
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12890</span>
+						<span>🔱 468</span>
+					</div>
+				<div class="stars-today">⭐ 98 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Mail-0/Zero" target="_blank">
+    
+
+
+      
+        Mail-0 /
+
+      Zero</a></p>
+				<p>
+      Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first (coming soon). Join the discord: https://discord.gg/0email
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5532</span>
+						<span>🔱 454</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 297876</span>
+						<span>🔱 49501</span>
+					</div>
+				<div class="stars-today">⭐ 122 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/MNN" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      MNN</a></p>
+				<p>
+      MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 10552</span>
+						<span>🔱 1831</span>
+					</div>
+				<div class="stars-today">⭐ 98 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pydantic/pydantic" target="_blank">
+    
+
+
+      
+        pydantic /
+
+      pydantic</a></p>
+				<p>
+      Data validation using Python type hints
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23509</span>
+						<span>🔱 2104</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alacritty/alacritty" target="_blank">
+    
+
+
+      
+        alacritty /
+
+      alacritty</a></p>
+				<p>
+      A cross-platform, OpenGL terminal emulator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 58549</span>
+						<span>🔱 3102</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/filamentphp/filament" target="_blank">
+    
+
+
+      
+        filamentphp /
+
+      filament</a></p>
+				<p>
+      A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 23107</span>
+						<span>🔱 3388</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/htr-tech/zphisher" target="_blank">
+    
+
+
+      
+        htr-tech /
+
+      zphisher</a></p>
+				<p>
+      An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 12599</span>
+						<span>🔱 4621</span>
+					</div>
+				<div class="stars-today">⭐ 10 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/littlefs-project/littlefs" target="_blank">
+    
+
+
+      
+        littlefs-project /
+
+      littlefs</a></p>
+				<p>
+      A little fail-safe filesystem designed for microcontrollers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 5700</span>
+						<span>🔱 855</span>
+					</div>
+				<div class="stars-today">⭐ 118 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sunnypilot/sunnypilot" target="_blank">
+    
+
+
+      
+        sunnypilot /
+
+      sunnypilot</a></p>
+				<p>
+      sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1052</span>
+						<span>🔱 850</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
 				</div>
 			</div>
 	
