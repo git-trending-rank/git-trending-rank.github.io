@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第18周
-date: 2025-05-04T09:58:57Z
+date: 2025-05-04T11:58:58Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59821</span>
-						<span>🔱 8395</span>
+						<span>⭐ 59946</span>
+						<span>🔱 8407</span>
 					</div>
 				<div class="stars-today">⭐ 8191 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5915</span>
-						<span>🔱 654</span>
+						<span>⭐ 5922</span>
+						<span>🔱 655</span>
 					</div>
 				<div class="stars-today">⭐ 2073 stars this week</div>
 				</div>
@@ -74,98 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9655</span>
-						<span>🔱 1207</span>
+						<span>⭐ 9672</span>
+						<span>🔱 1210</span>
 					</div>
 				<div class="stars-today">⭐ 3427 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      AI-powered multi-agent builder
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2508</span>
-						<span>🔱 183</span>
-					</div>
-				<div class="stars-today">⭐ 1096 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4013</span>
-						<span>🔱 391</span>
-					</div>
-				<div class="stars-today">⭐ 1348 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82176</span>
-						<span>🔱 42189</span>
-					</div>
-				<div class="stars-today">⭐ 2158 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36024</span>
-						<span>🔱 1119</span>
-					</div>
-				<div class="stars-today">⭐ 794 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 38296</span>
-						<span>🔱 1594</span>
+						<span>⭐ 38314</span>
+						<span>🔱 1595</span>
 					</div>
 				<div class="stars-today">⭐ 713 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
     
 
 
       
-        drawdb-io /
+        rowboatlabs /
 
-      drawdb</a></p>
+      rowboat</a></p>
 				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 29551</span>
-						<span>🔱 2066</span>
-					</div>
-				<div class="stars-today">⭐ 1217 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fastrepl/hyprnote" target="_blank">
-    
-
-
-      
-        fastrepl /
-
-      hyprnote</a></p>
-				<p>
-      AI Notepad for back-to-back meetings. Local-first & Extensible.
+      AI-powered multi-agent builder
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1784</span>
-						<span>🔱 79</span>
+						<span>⭐ 2510</span>
+						<span>🔱 183</span>
 					</div>
-				<div class="stars-today">⭐ 625 stars this week</div>
+				<div class="stars-today">⭐ 1096 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36025</span>
+						<span>🔱 1119</span>
+					</div>
+				<div class="stars-today">⭐ 794 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4019</span>
+						<span>🔱 393</span>
+					</div>
+				<div class="stars-today">⭐ 1348 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9314</span>
-						<span>🔱 782</span>
+						<span>⭐ 9320</span>
+						<span>🔱 783</span>
 					</div>
 				<div class="stars-today">⭐ 565 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7945</span>
-						<span>🔱 529</span>
-					</div>
-				<div class="stars-today">⭐ 2732 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17776</span>
+						<span>⭐ 17775</span>
 						<span>🔱 2217</span>
 					</div>
 				<div class="stars-today">⭐ 1910 stars this week</div>
@@ -316,32 +228,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 317264</span>
-						<span>🔱 41159</span>
+						<span>⭐ 317278</span>
+						<span>🔱 41162</span>
 					</div>
 				<div class="stars-today">⭐ 1300 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
     
 
 
       
-        bregman-arie /
+        microsoft /
 
-      devops-exercises</a></p>
+      generative-ai-for-beginners</a></p>
 				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 82191</span>
+						<span>🔱 42194</span>
+					</div>
+				<div class="stars-today">⭐ 2158 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 29554</span>
+						<span>🔱 2066</span>
+					</div>
+				<div class="stars-today">⭐ 1217 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jackfrued/Python-100-Days" target="_blank">
+    
+
+
+      
+        jackfrued /
+
+      Python-100-Days</a></p>
+				<p>
+      Python - 100天从新手到大师
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 165722</span>
+						<span>🔱 53698</span>
+					</div>
+				<div class="stars-today">⭐ 1047 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Freika/dawarich" target="_blank">
+    
+
+
+      
+        Freika /
+
+      dawarich</a></p>
+				<p>
+      Self-hostable alternative to Google Location History (Google Maps Timeline)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 4718</span>
+						<span>🔱 132</span>
+					</div>
+				<div class="stars-today">⭐ 104 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/terminal" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      terminal</a></p>
+				<p>
+      The new Windows Terminal and the original Windows console host, all in the same place!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 97981</span>
+						<span>🔱 8551</span>
+					</div>
+				<div class="stars-today">⭐ 213 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
+    
+
+
+      
+        louislam /
+
+      uptime-kuma</a></p>
+				<p>
+      A fancy self-hosted monitoring tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 68671</span>
+						<span>🔱 6030</span>
+					</div>
+				<div class="stars-today">⭐ 943 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 75603</span>
-						<span>🔱 16835</span>
+						<span>⭐ 7948</span>
+						<span>🔱 530</span>
 					</div>
-				<div class="stars-today">⭐ 894 stars this week</div>
+				<div class="stars-today">⭐ 2732 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranaroussi/yfinance" target="_blank">
+    
+
+
+      
+        ranaroussi /
+
+      yfinance</a></p>
+				<p>
+      Download market data from Yahoo! Finance's API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16951</span>
+						<span>🔱 2633</span>
+					</div>
+				<div class="stars-today">⭐ 107 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 26126</span>
+						<span>⭐ 26125</span>
 						<span>🔱 2529</span>
 					</div>
 				<div class="stars-today">⭐ 327 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/windows" target="_blank">
-    
-
-
-      
-        dockur /
-
-      windows</a></p>
-				<p>
-      Windows inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 34903</span>
-						<span>🔱 2491</span>
-					</div>
-				<div class="stars-today">⭐ 409 stars this week</div>
 				</div>
 			</div>
 	

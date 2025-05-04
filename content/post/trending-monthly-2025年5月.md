@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-04T09:58:57Z
+date: 2025-05-04T11:58:58Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23251</span>
+						<span>⭐ 23268</span>
 						<span>🔱 2899</span>
 					</div>
 				<div class="stars-today">⭐ 18147 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 59946</span>
+						<span>🔱 8407</span>
+					</div>
+				<div class="stars-today">⭐ 9615 stars this month</div>
 				</div>
 			</div>
 	
@@ -53,7 +75,7 @@ keywords:
 					<div>
 						<span>🔠 </span>
 						<span>⭐ 1972</span>
-						<span>🔱 449</span>
+						<span>🔱 450</span>
 					</div>
 				<div class="stars-today">⭐ 991 stars this month</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5915</span>
-						<span>🔱 654</span>
+						<span>⭐ 5922</span>
+						<span>🔱 655</span>
 					</div>
 				<div class="stars-today">⭐ 3709 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59821</span>
-						<span>🔱 8395</span>
-					</div>
-				<div class="stars-today">⭐ 9615 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55911</span>
-						<span>🔱 2837</span>
+						<span>⭐ 55920</span>
+						<span>🔱 2838</span>
 					</div>
 				<div class="stars-today">⭐ 14113 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
-    
-
-
-      
-        jlowin /
-
-      fastmcp</a></p>
-				<p>
-      🚀 The fast, Pythonic way to build MCP servers and clients
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8449</span>
-						<span>🔱 439</span>
-					</div>
-				<div class="stars-today">⭐ 4845 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 88625</span>
-						<span>🔱 24225</span>
+						<span>⭐ 88639</span>
+						<span>🔱 24232</span>
 					</div>
 				<div class="stars-today">⭐ 14302 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7945</span>
-						<span>🔱 529</span>
-					</div>
-				<div class="stars-today">⭐ 4823 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4013</span>
-						<span>🔱 391</span>
+						<span>⭐ 4019</span>
+						<span>🔱 393</span>
 					</div>
 				<div class="stars-today">⭐ 2495 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
+    
+
+
+      
+        jlowin /
+
+      fastmcp</a></p>
+				<p>
+      🚀 The fast, Pythonic way to build MCP servers and clients
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8457</span>
+						<span>🔱 439</span>
+					</div>
+				<div class="stars-today">⭐ 4845 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7948</span>
+						<span>🔱 530</span>
+					</div>
+				<div class="stars-today">⭐ 4823 stars this month</div>
 				</div>
 			</div>
 	
@@ -236,28 +236,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
-    
-
-
-      
-        elie222 /
-
-      inbox-zero</a></p>
-				<p>
-      AI personal assistant for email. Open source app to help you reach inbox zero fast.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7280</span>
-						<span>🔱 746</span>
-					</div>
-				<div class="stars-today">⭐ 2746 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
     
 
@@ -272,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29551</span>
+						<span>⭐ 29554</span>
 						<span>🔱 2066</span>
 					</div>
 				<div class="stars-today">⭐ 3247 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4413</span>
-						<span>🔱 355</span>
-					</div>
-				<div class="stars-today">⭐ 2456 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20118</span>
+						<span>⭐ 20125</span>
 						<span>🔱 1316</span>
 					</div>
 				<div class="stars-today">⭐ 3657 stars this month</div>
@@ -324,68 +280,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
     
 
 
       
-        microsoft /
+        elie222 /
 
-      ai-agents-for-beginners</a></p>
+      inbox-zero</a></p>
 				<p>
-      10 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18258</span>
-						<span>🔱 4675</span>
-					</div>
-				<div class="stars-today">⭐ 8471 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meta-llama/llama-models" target="_blank">
-    
-
-
-      
-        meta-llama /
-
-      llama-models</a></p>
-				<p>
-      Utilities intended for use with Llama models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6950</span>
-						<span>🔱 1138</span>
-					</div>
-				<div class="stars-today">⭐ 969 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
-    
-
-
-      
-        activepieces /
-
-      activepieces</a></p>
-				<p>
-      AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+      AI personal assistant for email. Open source app to help you reach inbox zero fast.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14407</span>
-						<span>🔱 1875</span>
+						<span>⭐ 7281</span>
+						<span>🔱 746</span>
 					</div>
-				<div class="stars-today">⭐ 1943 stars this month</div>
+				<div class="stars-today">⭐ 2746 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4418</span>
+						<span>🔱 355</span>
+					</div>
+				<div class="stars-today">⭐ 2456 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5111</span>
+						<span>🔱 349</span>
+					</div>
+				<div class="stars-today">⭐ 3608 stars this month</div>
 				</div>
 			</div>
 	
