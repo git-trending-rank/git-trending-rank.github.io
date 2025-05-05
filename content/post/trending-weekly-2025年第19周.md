@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第19周
-date: 2025-05-05T09:58:46Z
+date: 2025-05-05T11:58:50Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61602</span>
-						<span>🔱 8609</span>
+						<span>⭐ 61745</span>
+						<span>🔱 8623</span>
 					</div>
 				<div class="stars-today">⭐ 9654 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6021</span>
+						<span>⭐ 6030</span>
 						<span>🔱 673</span>
 					</div>
 				<div class="stars-today">⭐ 1665 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9795</span>
-						<span>🔱 1242</span>
-					</div>
-				<div class="stars-today">⭐ 2199 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,98 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 38557</span>
-						<span>🔱 1605</span>
+						<span>⭐ 38588</span>
+						<span>🔱 1608</span>
 					</div>
 				<div class="stars-today">⭐ 851 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      AI-powered multi-agent builder
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2552</span>
-						<span>🔱 185</span>
-					</div>
-				<div class="stars-today">⭐ 802 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36047</span>
-						<span>🔱 1122</span>
-					</div>
-				<div class="stars-today">⭐ 553 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4078</span>
-						<span>🔱 399</span>
-					</div>
-				<div class="stars-today">⭐ 1270 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/Hunyuan3D-2" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      Hunyuan3D-2</a></p>
-				<p>
-      High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9367</span>
-						<span>🔱 784</span>
-					</div>
-				<div class="stars-today">⭐ 551 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17826</span>
+						<span>⭐ 17830</span>
 						<span>🔱 2221</span>
 					</div>
 				<div class="stars-today">⭐ 1946 stars this week</div>
@@ -214,90 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
 
       
-        kamranahmedse /
+        simular-ai /
 
-      developer-roadmap</a></p>
+      Agent-S</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      Agent S: an open agentic framework that uses computers like a human
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 317391</span>
-						<span>🔱 41175</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4092</span>
+						<span>🔱 403</span>
 					</div>
-				<div class="stars-today">⭐ 1252 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82346</span>
-						<span>🔱 42292</span>
-					</div>
-				<div class="stars-today">⭐ 2004 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 29603</span>
-						<span>🔱 2071</span>
-					</div>
-				<div class="stars-today">⭐ 862 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jackfrued/Python-100-Days" target="_blank">
-    
-
-
-      
-        jackfrued /
-
-      Python-100-Days</a></p>
-				<p>
-      Python - 100天从新手到大师
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 165786</span>
-						<span>🔱 53707</span>
-					</div>
-				<div class="stars-today">⭐ 1061 stars this week</div>
+				<div class="stars-today">⭐ 1270 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 4736</span>
+						<span>⭐ 4738</span>
 						<span>🔱 132</span>
 					</div>
 				<div class="stars-today">⭐ 109 stars this week</div>
@@ -324,24 +148,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/terminal" target="_blank">
+				<p><a href="https://github.com/jackfrued/Python-100-Days" target="_blank">
     
 
 
       
-        microsoft /
+        jackfrued /
 
-      terminal</a></p>
+      Python-100-Days</a></p>
 				<p>
-      The new Windows Terminal and the original Windows console host, all in the same place!
+      Python - 100天从新手到大师
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 98000</span>
-						<span>🔱 8553</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 165799</span>
+						<span>🔱 53708</span>
 					</div>
-				<div class="stars-today">⭐ 203 stars this week</div>
+				<div class="stars-today">⭐ 1061 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53348</span>
+						<span>🔱 9688</span>
+					</div>
+				<div class="stars-today">⭐ 142 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 68789</span>
+						<span>⭐ 68803</span>
 						<span>🔱 6038</span>
 					</div>
 				<div class="stars-today">⭐ 959 stars this week</div>
@@ -368,68 +214,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
     
 
 
       
-        getzep /
+        kortix-ai /
 
-      graphiti</a></p>
+      suna</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      Suna - Open Source Generalist AI Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8011</span>
-						<span>🔱 537</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9807</span>
+						<span>🔱 1243</span>
 					</div>
-				<div class="stars-today">⭐ 2174 stars this week</div>
+				<div class="stars-today">⭐ 2199 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ranaroussi/yfinance" target="_blank">
+				<p><a href="https://github.com/myhhub/stock" target="_blank">
     
 
 
       
-        ranaroussi /
+        myhhub /
 
-      yfinance</a></p>
+      stock</a></p>
 				<p>
-      Download market data from Yahoo! Finance's API
+      stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17017</span>
-						<span>🔱 2635</span>
+						<span>⭐ 8538</span>
+						<span>🔱 1682</span>
 					</div>
-				<div class="stars-today">⭐ 169 stars this week</div>
+				<div class="stars-today">⭐ 207 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
     
 
 
       
-        aquasecurity /
+        kamranahmedse /
 
-      trivy</a></p>
+      developer-roadmap</a></p>
 				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 26156</span>
-						<span>🔱 2532</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 317409</span>
+						<span>🔱 41175</span>
 					</div>
-				<div class="stars-today">⭐ 238 stars this week</div>
+				<div class="stars-today">⭐ 1252 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/Hunyuan3D-2" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      Hunyuan3D-2</a></p>
+				<p>
+      High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9369</span>
+						<span>🔱 789</span>
+					</div>
+				<div class="stars-today">⭐ 551 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners</a></p>
+				<p>
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 82364</span>
+						<span>🔱 42304</span>
+					</div>
+				<div class="stars-today">⭐ 2004 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 20212</span>
+						<span>🔱 1325</span>
+					</div>
+				<div class="stars-today">⭐ 3418 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-05T09:58:46Z
+date: 2025-05-05T11:58:50Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23421</span>
-						<span>🔱 2916</span>
+						<span>⭐ 23442</span>
+						<span>🔱 2918</span>
 					</div>
 				<div class="stars-today">⭐ 18219 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61602</span>
-						<span>🔱 8609</span>
+						<span>⭐ 61745</span>
+						<span>🔱 8623</span>
 					</div>
 				<div class="stars-today">⭐ 11054 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 6030</span>
+						<span>🔱 673</span>
+					</div>
+				<div class="stars-today">⭐ 3797 stars this month</div>
 				</div>
 			</div>
 	
@@ -82,46 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
     
 
 
       
-        jujumilk3 /
+        juliangarnier /
 
-      leaked-system-prompts</a></p>
+      anime</a></p>
 				<p>
-      Collection of leaked system prompts
+      JavaScript animation engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 6021</span>
-						<span>🔱 673</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 59609</span>
+						<span>🔱 4020</span>
 					</div>
-				<div class="stars-today">⭐ 3797 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56024</span>
-						<span>🔱 2841</span>
-					</div>
-				<div class="stars-today">⭐ 14195 stars this month</div>
+				<div class="stars-today">⭐ 7400 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 88876</span>
-						<span>🔱 24341</span>
+						<span>⭐ 88905</span>
+						<span>🔱 24362</span>
 					</div>
 				<div class="stars-today">⭐ 14306 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        simular-ai /
+        microsoft /
 
-      Agent-S</a></p>
+      markitdown</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4078</span>
-						<span>🔱 399</span>
+						<span>⭐ 56036</span>
+						<span>🔱 2842</span>
 					</div>
-				<div class="stars-today">⭐ 2541 stars this month</div>
+				<div class="stars-today">⭐ 14195 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8579</span>
-						<span>🔱 448</span>
+						<span>⭐ 8597</span>
+						<span>🔱 450</span>
 					</div>
 				<div class="stars-today">⭐ 4849 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8011</span>
-						<span>🔱 537</span>
+						<span>⭐ 8019</span>
+						<span>🔱 538</span>
 					</div>
 				<div class="stars-today">⭐ 4876 stars this month</div>
 				</div>
@@ -228,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5632</span>
+						<span>⭐ 5641</span>
 						<span>🔱 219</span>
 					</div>
 				<div class="stars-today">⭐ 2048 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4092</span>
+						<span>🔱 403</span>
+					</div>
+				<div class="stars-today">⭐ 2541 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+    
+
+
+      
+        funstory-ai /
+
+      BabelDOC</a></p>
+				<p>
+      Yet Another Document Translator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3256</span>
+						<span>🔱 199</span>
+					</div>
+				<div class="stars-today">⭐ 2653 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29603</span>
-						<span>🔱 2071</span>
+						<span>⭐ 29608</span>
+						<span>🔱 2072</span>
 					</div>
 				<div class="stars-today">⭐ 3288 stars this month</div>
 				</div>
@@ -272,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20206</span>
+						<span>⭐ 20212</span>
 						<span>🔱 1325</span>
 					</div>
 				<div class="stars-today">⭐ 3736 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5190</span>
+						<span>🔱 357</span>
+					</div>
+				<div class="stars-today">⭐ 3656 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7317</span>
-						<span>🔱 750</span>
+						<span>⭐ 7319</span>
+						<span>🔱 751</span>
 					</div>
 				<div class="stars-today">⭐ 2527 stars this month</div>
 				</div>
@@ -316,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4458</span>
-						<span>🔱 361</span>
+						<span>⭐ 4464</span>
+						<span>🔱 362</span>
 					</div>
 				<div class="stars-today">⭐ 2400 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meeting-minutes</a></p>
-				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 5185</span>
-						<span>🔱 356</span>
-					</div>
-				<div class="stars-today">⭐ 3656 stars this month</div>
 				</div>
 			</div>
 	

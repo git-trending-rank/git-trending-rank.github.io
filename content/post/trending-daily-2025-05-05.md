@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-05
-date: 2025-05-05T09:58:46Z
+date: 2025-05-05T11:58:51Z
 categories:
 - daily
 keywords:
@@ -30,184 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61602</span>
-						<span>🔱 8609</span>
+						<span>⭐ 61745</span>
+						<span>🔱 8623</span>
 					</div>
 				<div class="stars-today">⭐ 1484 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jj-vcs/jj" target="_blank">
-    
-
-
-      
-        jj-vcs /
-
-      jj</a></p>
-				<p>
-      A Git-compatible VCS that is both simple and powerful
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13553</span>
-						<span>🔱 487</span>
-					</div>
-				<div class="stars-today">⭐ 369 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
-    
-
-
-      
-        aipotheosis-labs /
-
-      aci</a></p>
-				<p>
-      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2358</span>
-						<span>🔱 171</span>
-					</div>
-				<div class="stars-today">⭐ 356 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 298249</span>
-						<span>🔱 49530</span>
-					</div>
-				<div class="stars-today">⭐ 176 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/mcp-server-cloudflare" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      mcp-server-cloudflare</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1928</span>
-						<span>🔱 134</span>
-					</div>
-				<div class="stars-today">⭐ 142 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">
-    
-
-
-      
-        521xueweihan /
-
-      HelloGitHub</a></p>
-				<p>
-       分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 103853</span>
-						<span>🔱 9934</span>
-					</div>
-				<div class="stars-today">⭐ 530 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unionlabs/union" target="_blank">
-    
-
-
-      
-        unionlabs /
-
-      union</a></p>
-				<p>
-      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 57496</span>
-						<span>🔱 2882</span>
-					</div>
-				<div class="stars-today">⭐ 521 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BasedHardware/omi" target="_blank">
-    
-
-
-      
-        BasedHardware /
-
-      omi</a></p>
-				<p>
-      AI wearables. Put it on, speak, transcribe, automatically
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 5661</span>
-						<span>🔱 790</span>
-					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
-    
-
-
-      
-        daytonaio /
-
-      daytona</a></p>
-				<p>
-      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19290</span>
-						<span>🔱 2048</span>
-					</div>
-				<div class="stars-today">⭐ 466 stars today</div>
 				</div>
 			</div>
 	
@@ -226,98 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 38557</span>
-						<span>🔱 1605</span>
+						<span>⭐ 38588</span>
+						<span>🔱 1608</span>
 					</div>
 				<div class="stars-today">⭐ 140 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nodejs/node" target="_blank">
-    
-
-
-      
-        nodejs /
-
-      node</a></p>
-				<p>
-      Node.js JavaScript runtime ✨🐢🚀✨
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 111077</span>
-						<span>🔱 31458</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2332</span>
-						<span>🔱 182</span>
-					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Klipper3d/klipper" target="_blank">
-    
-
-
-      
-        Klipper3d /
-
-      klipper</a></p>
-				<p>
-      Klipper is a 3d-printer firmware
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 10270</span>
-						<span>🔱 5527</span>
-					</div>
-				<div class="stars-today">⭐ 22 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FreeCAD/FreeCAD" target="_blank">
-    
-
-
-      
-        FreeCAD /
-
-      FreeCAD</a></p>
-				<p>
-      This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 24332</span>
-						<span>🔱 4526</span>
-					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
 			</div>
 	
@@ -336,32 +74,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 356386</span>
-						<span>🔱 63290</span>
+						<span>⭐ 356419</span>
+						<span>🔱 63291</span>
 					</div>
 				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Koenkk/zigbee2mqtt" target="_blank">
+				<p><a href="https://github.com/koreader/koreader" target="_blank">
     
 
 
       
-        Koenkk /
+        koreader /
 
-      zigbee2mqtt</a></p>
+      koreader</a></p>
 				<p>
-      Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+      An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13430</span>
-						<span>🔱 1778</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 21000</span>
+						<span>🔱 1422</span>
 					</div>
-				<div class="stars-today">⭐ 13 stars today</div>
+				<div class="stars-today">⭐ 114 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      10 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 18395</span>
+						<span>🔱 4736</span>
+					</div>
+				<div class="stars-today">⭐ 159 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      kubectl-ai</a></p>
+				<p>
+      AI powered Kubernetes Assistant
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 613</span>
+						<span>🔱 62</span>
+					</div>
+				<div class="stars-today">⭐ 88 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Atmosphere-NX/Atmosphere" target="_blank">
+    
+
+
+      
+        Atmosphere-NX /
+
+      Atmosphere</a></p>
+				<p>
+      Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 15987</span>
+						<span>🔱 1277</span>
+					</div>
+				<div class="stars-today">⭐ 77 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unionlabs/union" target="_blank">
+    
+
+
+      
+        unionlabs /
+
+      union</a></p>
+				<p>
+      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 57550</span>
+						<span>🔱 2884</span>
+					</div>
+				<div class="stars-today">⭐ 521 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30682</span>
+						<span>🔱 3458</span>
+					</div>
+				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
 			</div>
 	
@@ -380,10 +228,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 27880</span>
-						<span>🔱 1501</span>
+						<span>⭐ 27892</span>
+						<span>🔱 1503</span>
 					</div>
 				<div class="stars-today">⭐ 159 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
+    
+
+
+      
+        aipotheosis-labs /
+
+      aci</a></p>
+				<p>
+      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2385</span>
+						<span>🔱 173</span>
+					</div>
+				<div class="stars-today">⭐ 356 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
+    
+
+
+      
+        CapSoftware /
+
+      Cap</a></p>
+				<p>
+      Open source Loom alternative. Beautiful, shareable screen recordings.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8136</span>
+						<span>🔱 465</span>
+					</div>
+				<div class="stars-today">⭐ 105 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iluwatar/java-design-patterns" target="_blank">
+    
+
+
+      
+        iluwatar /
+
+      java-design-patterns</a></p>
+				<p>
+      Design patterns implemented in Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 91494</span>
+						<span>🔱 26950</span>
+					</div>
+				<div class="stars-today">⭐ 23 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 298267</span>
+						<span>🔱 49533</span>
+					</div>
+				<div class="stars-today">⭐ 176 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53348</span>
+						<span>🔱 9688</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF</a></p>
+				<p>
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 57613</span>
+						<span>🔱 4841</span>
+					</div>
+				<div class="stars-today">⭐ 90 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sunnypilot/sunnypilot" target="_blank">
+    
+
+
+      
+        sunnypilot /
+
+      sunnypilot</a></p>
+				<p>
+      sunnypilot is an open source driver assistance system. sunnypilot offers the user a unique driving experience for over 300 supported car makes and models with modified behaviors of driving assist engagements. sunnypilot complies with the safety policy from comma.ai's openpilot as accurately as possible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1191</span>
+						<span>🔱 856</span>
+					</div>
+				<div class="stars-today">⭐ 99 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/core" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      core</a></p>
+				<p>
+      🏡 Open source home automation that puts local control and privacy first.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 78472</span>
+						<span>🔱 33517</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
 				</div>
 			</div>
 	
