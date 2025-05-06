@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第19周
-date: 2025-05-06T09:58:53Z
+date: 2025-05-06T11:59:00Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63561</span>
-						<span>🔱 8806</span>
+						<span>⭐ 63688</span>
+						<span>🔱 8823</span>
 					</div>
 				<div class="stars-today">⭐ 10900 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
     
 
 
       
-        jujumilk3 /
+        QwenLM /
 
-      leaked-system-prompts</a></p>
+      Qwen3</a></p>
 				<p>
-      Collection of leaked system prompts
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 6162</span>
-						<span>🔱 694</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 20360</span>
+						<span>🔱 1332</span>
 					</div>
-				<div class="stars-today">⭐ 1524 stars this week</div>
+				<div class="stars-today">⭐ 3459 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
+    
+
+
+      
+        aipotheosis-labs /
+
+      aci</a></p>
+				<p>
+      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2750</span>
+						<span>🔱 189</span>
+					</div>
+				<div class="stars-today">⭐ 2163 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 38995</span>
-						<span>🔱 1630</span>
+						<span>⭐ 39069</span>
+						<span>🔱 1631</span>
 					</div>
 				<div class="stars-today">⭐ 1076 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 6175</span>
+						<span>🔱 694</span>
+					</div>
+				<div class="stars-today">⭐ 1524 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17853</span>
+						<span>⭐ 17855</span>
 						<span>🔱 2226</span>
 					</div>
 				<div class="stars-today">⭐ 1749 stars this week</div>
@@ -104,68 +148,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/Tencent/Hunyuan3D-2" target="_blank">
     
 
 
       
-        simular-ai /
+        Tencent /
 
-      Agent-S</a></p>
+      Hunyuan3D-2</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+      High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4241</span>
-						<span>🔱 416</span>
+						<span>⭐ 9437</span>
+						<span>🔱 793</span>
 					</div>
-				<div class="stars-today">⭐ 1109 stars this week</div>
+				<div class="stars-today">⭐ 497 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Freika/dawarich" target="_blank">
+				<p><a href="https://github.com/ibnaleem/gosearch" target="_blank">
     
 
 
       
-        Freika /
+        ibnaleem /
 
-      dawarich</a></p>
+      gosearch</a></p>
 				<p>
-      Self-hostable alternative to Google Location History (Google Maps Timeline)
+      🔍 Search anyone's digital footprint across 300+ websites
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 4785</span>
-						<span>🔱 132</span>
+						<span>🔠 Go</span>
+						<span>⭐ 1692</span>
+						<span>🔱 181</span>
 					</div>
-				<div class="stars-today">⭐ 112 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jackfrued/Python-100-Days" target="_blank">
-    
-
-
-      
-        jackfrued /
-
-      Python-100-Days</a></p>
-				<p>
-      Python - 100天从新手到大师
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 165920</span>
-						<span>🔱 53717</span>
-					</div>
-				<div class="stars-today">⭐ 1038 stars this week</div>
+				<div class="stars-today">⭐ 500 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53542</span>
+						<span>⭐ 53556</span>
 						<span>🔱 9702</span>
 					</div>
 				<div class="stars-today">⭐ 188 stars this week</div>
@@ -206,142 +228,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 68924</span>
-						<span>🔱 6041</span>
+						<span>⭐ 68934</span>
+						<span>🔱 6040</span>
 					</div>
 				<div class="stars-today">⭐ 1034 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
 
       
-        kortix-ai /
+        simular-ai /
 
-      suna</a></p>
+      Agent-S</a></p>
 				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9984</span>
-						<span>🔱 1280</span>
-					</div>
-				<div class="stars-today">⭐ 1573 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/myhhub/stock" target="_blank">
-    
-
-
-      
-        myhhub /
-
-      stock</a></p>
-				<p>
-      stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
+      Agent S: an open agentic framework that uses computers like a human
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8619</span>
-						<span>🔱 1693</span>
+						<span>⭐ 4246</span>
+						<span>🔱 416</span>
 					</div>
-				<div class="stars-today">⭐ 209 stars this week</div>
+				<div class="stars-today">⭐ 1109 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 317562</span>
-						<span>🔱 41199</span>
-					</div>
-				<div class="stars-today">⭐ 1151 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/Hunyuan3D-2" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      Hunyuan3D-2</a></p>
-				<p>
-      High-Resolution 3D Assets Generation with Large Scale Hunyuan3D Diffusion Models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9431</span>
-						<span>🔱 793</span>
-					</div>
-				<div class="stars-today">⭐ 497 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82543</span>
-						<span>🔱 42445</span>
-					</div>
-				<div class="stars-today">⭐ 1764 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
     
 
 
       
         QwenLM /
 
-      Qwen3</a></p>
+      Qwen-Agent</a></p>
 				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 20351</span>
-						<span>🔱 1332</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7930</span>
+						<span>🔱 675</span>
 					</div>
-				<div class="stars-today">⭐ 3459 stars this week</div>
+				<div class="stars-today">⭐ 1248 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2392</span>
+						<span>🔱 185</span>
+					</div>
+				<div class="stars-today">⭐ 837 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheRobotStudio/SO-ARM100" target="_blank">
+    
+
+
+      
+        TheRobotStudio /
+
+      SO-ARM100</a></p>
+				<p>
+      Standard Open Arm 100
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CMake</span>
+						<span>⭐ 1938</span>
+						<span>🔱 129</span>
+					</div>
+				<div class="stars-today">⭐ 418 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      kubectl-ai</a></p>
+				<p>
+      AI powered Kubernetes Assistant
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1047</span>
+						<span>🔱 85</span>
+					</div>
+				<div class="stars-today">⭐ 469 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LawnchairLauncher/lawnchair" target="_blank">
+    
+
+
+      
+        LawnchairLauncher /
+
+      lawnchair</a></p>
+				<p>
+      No clever tagline needed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 10191</span>
+						<span>🔱 1283</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28654</span>
+						<span>🔱 2739</span>
+					</div>
+				<div class="stars-today">⭐ 610 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 83402</span>
+						<span>🔱 37177</span>
+					</div>
+				<div class="stars-today">⭐ 359 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/teableio/teable" target="_blank">
+    
+
+
+      
+        teableio /
+
+      teable</a></p>
+				<p>
+      ✨ The Next Gen Airtable Alternative: No-Code Postgres
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18164</span>
+						<span>🔱 895</span>
+					</div>
+				<div class="stars-today">⭐ 549 stars this week</div>
 				</div>
 			</div>
 	
