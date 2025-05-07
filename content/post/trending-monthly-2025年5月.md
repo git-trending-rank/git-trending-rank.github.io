@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-07T09:58:46Z
+date: 2025-05-07T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23948</span>
-						<span>🔱 2984</span>
+						<span>⭐ 23972</span>
+						<span>🔱 2986</span>
 					</div>
 				<div class="stars-today">⭐ 18457 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64523</span>
-						<span>🔱 8920</span>
+						<span>⭐ 64575</span>
+						<span>🔱 8927</span>
 					</div>
 				<div class="stars-today">⭐ 14642 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6335</span>
+						<span>⭐ 6351</span>
 						<span>🔱 704</span>
 					</div>
 				<div class="stars-today">⭐ 4050 stars this month</div>
@@ -96,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 1989</span>
+						<span>⭐ 1990</span>
 						<span>🔱 451</span>
 					</div>
 				<div class="stars-today">⭐ 1007 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8232</span>
-						<span>🔱 552</span>
-					</div>
-				<div class="stars-today">⭐ 4993 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
-    
-
-
-      
-        juliangarnier /
-
-      anime</a></p>
-				<p>
-      JavaScript animation engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 59899</span>
-						<span>🔱 4027</span>
-					</div>
-				<div class="stars-today">⭐ 6499 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8950</span>
-						<span>🔱 477</span>
+						<span>⭐ 8967</span>
+						<span>🔱 478</span>
 					</div>
 				<div class="stars-today">⭐ 5029 stars this month</div>
 				</div>
@@ -184,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 89873</span>
-						<span>🔱 24644</span>
+						<span>⭐ 89911</span>
+						<span>🔱 24658</span>
 					</div>
 				<div class="stars-today">⭐ 14284 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8241</span>
+						<span>🔱 553</span>
+					</div>
+				<div class="stars-today">⭐ 4993 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4334</span>
-						<span>🔱 427</span>
+						<span>⭐ 4338</span>
+						<span>🔱 428</span>
 					</div>
 				<div class="stars-today">⭐ 2506 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
+    
+
+
+      
+        juliangarnier /
+
+      anime</a></p>
+				<p>
+      JavaScript animation engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 59907</span>
+						<span>🔱 4028</span>
+					</div>
+				<div class="stars-today">⭐ 6499 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20482</span>
-						<span>🔱 1337</span>
+						<span>⭐ 20495</span>
+						<span>🔱 1340</span>
 					</div>
 				<div class="stars-today">⭐ 3969 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29729</span>
+						<span>⭐ 29731</span>
 						<span>🔱 2081</span>
 					</div>
 				<div class="stars-today">⭐ 3366 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      c/ua is the Docker Container for Computer-Use AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5808</span>
-						<span>🔱 228</span>
-					</div>
-				<div class="stars-today">⭐ 2217 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 5352</span>
-						<span>🔱 363</span>
+						<span>⭐ 5358</span>
+						<span>🔱 364</span>
 					</div>
 				<div class="stars-today">⭐ 3785 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
     
 
 
       
-        microsoft /
+        trycua /
 
-      markitdown</a></p>
+      cua</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      c/ua is the Docker Container for Computer-Use AI Agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56301</span>
-						<span>🔱 2858</span>
+						<span>⭐ 5814</span>
+						<span>🔱 229</span>
 					</div>
-				<div class="stars-today">⭐ 13856 stars this month</div>
+				<div class="stars-today">⭐ 2217 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
     
 
 
       
-        kamranahmedse /
+        funstory-ai /
 
-      developer-roadmap</a></p>
+      BabelDOC</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      Yet Another Document Translator
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 317726</span>
-						<span>🔱 41209</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3380</span>
+						<span>🔱 211</span>
 					</div>
-				<div class="stars-today">⭐ 4842 stars this month</div>
+				<div class="stars-today">⭐ 2371 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +338,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7389</span>
-						<span>🔱 756</span>
+						<span>⭐ 7391</span>
+						<span>🔱 757</span>
 					</div>
 				<div class="stars-today">⭐ 2300 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 317737</span>
+						<span>🔱 41209</span>
+					</div>
+				<div class="stars-today">⭐ 4842 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 317069</span>
+						<span>🔱 78701</span>
+					</div>
+				<div class="stars-today">⭐ 3383 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36077</span>
+						<span>🔱 1123</span>
+					</div>
+				<div class="stars-today">⭐ 1101 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
+    
+
+
+      
+        mark3labs /
+
+      mcp-go</a></p>
+				<p>
+      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4564</span>
+						<span>🔱 372</span>
+					</div>
+				<div class="stars-today">⭐ 2235 stars this month</div>
 				</div>
 			</div>
 	
