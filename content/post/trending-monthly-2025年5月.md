@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-07T15:59:03Z
+date: 2025-05-07T17:58:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24021</span>
-						<span>🔱 2992</span>
+						<span>⭐ 24032</span>
+						<span>🔱 2994</span>
 					</div>
 				<div class="stars-today">⭐ 18457 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64655</span>
-						<span>🔱 8943</span>
+						<span>⭐ 64695</span>
+						<span>🔱 8946</span>
 					</div>
 				<div class="stars-today">⭐ 14642 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6379</span>
-						<span>🔱 705</span>
+						<span>⭐ 6389</span>
+						<span>🔱 710</span>
 					</div>
 				<div class="stars-today">⭐ 4050 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8999</span>
-						<span>🔱 480</span>
+						<span>⭐ 9007</span>
+						<span>🔱 481</span>
 					</div>
 				<div class="stars-today">⭐ 5029 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 90036</span>
-						<span>🔱 24688</span>
+						<span>⭐ 90087</span>
+						<span>🔱 24696</span>
 					</div>
 				<div class="stars-today">⭐ 14284 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8258</span>
+						<span>⭐ 8259</span>
 						<span>🔱 555</span>
 					</div>
 				<div class="stars-today">⭐ 4993 stars this month</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4353</span>
+						<span>⭐ 4358</span>
 						<span>🔱 428</span>
 					</div>
 				<div class="stars-today">⭐ 2506 stars this month</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 59926</span>
+						<span>⭐ 59938</span>
 						<span>🔱 4028</span>
 					</div>
 				<div class="stars-today">⭐ 6499 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20515</span>
-						<span>🔱 1340</span>
+						<span>⭐ 20523</span>
+						<span>🔱 1341</span>
 					</div>
 				<div class="stars-today">⭐ 3969 stars this month</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29734</span>
+						<span>⭐ 29736</span>
 						<span>🔱 2080</span>
 					</div>
 				<div class="stars-today">⭐ 3366 stars this month</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 5381</span>
+						<span>⭐ 5389</span>
 						<span>🔱 364</span>
 					</div>
 				<div class="stars-today">⭐ 3785 stars this month</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5829</span>
+						<span>⭐ 5837</span>
 						<span>🔱 229</span>
 					</div>
 				<div class="stars-today">⭐ 2217 stars this month</div>
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3399</span>
+						<span>⭐ 3404</span>
 						<span>🔱 211</span>
 					</div>
 				<div class="stars-today">⭐ 2371 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/modelcontextprotocol" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      modelcontextprotocol</a></p>
+				<p>
+      Specification and documentation for the Model Context Protocol
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2787</span>
+						<span>🔱 397</span>
+					</div>
+				<div class="stars-today">⭐ 1364 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7398</span>
+						<span>⭐ 7401</span>
 						<span>🔱 758</span>
 					</div>
 				<div class="stars-today">⭐ 2300 stars this month</div>
@@ -360,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 317771</span>
-						<span>🔱 41210</span>
+						<span>⭐ 317790</span>
+						<span>🔱 41208</span>
 					</div>
 				<div class="stars-today">⭐ 4842 stars this month</div>
 				</div>
@@ -382,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 317085</span>
-						<span>🔱 78702</span>
+						<span>⭐ 317097</span>
+						<span>🔱 78704</span>
 					</div>
 				<div class="stars-today">⭐ 3383 stars this month</div>
 				</div>
@@ -404,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36079</span>
+						<span>⭐ 36080</span>
 						<span>🔱 1123</span>
 					</div>
 				<div class="stars-today">⭐ 1101 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/inspector" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      inspector</a></p>
+				<p>
+      Visual testing tool for MCP servers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2749</span>
+						<span>🔱 376</span>
+					</div>
+				<div class="stars-today">⭐ 1129 stars this month</div>
 				</div>
 			</div>
 	
@@ -427,7 +471,7 @@ keywords:
 					<div>
 						<span>🔠 Go</span>
 						<span>⭐ 4573</span>
-						<span>🔱 373</span>
+						<span>🔱 375</span>
 					</div>
 				<div class="stars-today">⭐ 2235 stars this month</div>
 				</div>
