@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-08T09:58:55Z
+date: 2025-05-08T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24241</span>
-						<span>🔱 3016</span>
-					</div>
-				<div class="stars-today">⭐ 18578 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64935</span>
-						<span>🔱 8987</span>
+						<span>⭐ 64968</span>
+						<span>🔱 8992</span>
 					</div>
 				<div class="stars-today">⭐ 15370 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24260</span>
+						<span>🔱 3024</span>
+					</div>
+				<div class="stars-today">⭐ 18578 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6472</span>
-						<span>🔱 720</span>
+						<span>⭐ 6487</span>
+						<span>🔱 724</span>
 					</div>
 				<div class="stars-today">⭐ 4192 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9102</span>
-						<span>🔱 485</span>
+						<span>⭐ 9112</span>
+						<span>🔱 486</span>
 					</div>
 				<div class="stars-today">⭐ 5078 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 90457</span>
-						<span>🔱 24782</span>
+						<span>⭐ 90498</span>
+						<span>🔱 24795</span>
 					</div>
 				<div class="stars-today">⭐ 14279 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8296</span>
+						<span>⭐ 8300</span>
 						<span>🔱 557</span>
 					</div>
 				<div class="stars-today">⭐ 5028 stars this month</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4411</span>
+						<span>⭐ 4418</span>
 						<span>🔱 431</span>
 					</div>
 				<div class="stars-today">⭐ 2461 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
-    
-
-
-      
-        juliangarnier /
-
-      anime</a></p>
-				<p>
-      JavaScript animation engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 60020</span>
-						<span>🔱 4030</span>
-					</div>
-				<div class="stars-today">⭐ 5612 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20590</span>
-						<span>🔱 1346</span>
+						<span>⭐ 20593</span>
+						<span>🔱 1348</span>
 					</div>
 				<div class="stars-today">⭐ 4082 stars this month</div>
 				</div>
@@ -250,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29769</span>
-						<span>🔱 2081</span>
+						<span>⭐ 29774</span>
+						<span>🔱 2082</span>
 					</div>
 				<div class="stars-today">⭐ 3422 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
+    
+
+
+      
+        funstory-ai /
+
+      BabelDOC</a></p>
+				<p>
+      Yet Another Document Translator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3462</span>
+						<span>🔱 216</span>
+					</div>
+				<div class="stars-today">⭐ 2351 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      c/ua is the Docker Container for Computer-Use AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5874</span>
+						<span>🔱 229</span>
+					</div>
+				<div class="stars-today">⭐ 2184 stars this month</div>
 				</div>
 			</div>
 	
@@ -280,68 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
     
 
 
       
-        trycua /
+        kamranahmedse /
 
-      cua</a></p>
+      developer-roadmap</a></p>
 				<p>
-      c/ua is the Docker Container for Computer-Use AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5870</span>
-						<span>🔱 229</span>
-					</div>
-				<div class="stars-today">⭐ 2184 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/funstory-ai/BabelDOC" target="_blank">
-    
-
-
-      
-        funstory-ai /
-
-      BabelDOC</a></p>
-				<p>
-      Yet Another Document Translator
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3460</span>
-						<span>🔱 216</span>
-					</div>
-				<div class="stars-today">⭐ 2351 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/modelcontextprotocol" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      modelcontextprotocol</a></p>
-				<p>
-      Specification and documentation for the Model Context Protocol
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2834</span>
-						<span>🔱 403</span>
+						<span>⭐ 317882</span>
+						<span>🔱 41219</span>
 					</div>
-				<div class="stars-today">⭐ 1364 stars this month</div>
+				<div class="stars-today">⭐ 4921 stars this month</div>
 				</div>
 			</div>
 	
@@ -368,24 +346,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/modelcontextprotocol/modelcontextprotocol" target="_blank">
     
 
 
       
-        kamranahmedse /
+        modelcontextprotocol /
 
-      developer-roadmap</a></p>
+      modelcontextprotocol</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      Specification and documentation for the Model Context Protocol
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 317875</span>
-						<span>🔱 41217</span>
+						<span>⭐ 2839</span>
+						<span>🔱 403</span>
 					</div>
-				<div class="stars-today">⭐ 4921 stars this month</div>
+				<div class="stars-today">⭐ 1364 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 317151</span>
+						<span>⭐ 317156</span>
 						<span>🔱 78706</span>
 					</div>
 				<div class="stars-today">⭐ 3408 stars this month</div>
@@ -426,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36098</span>
+						<span>⭐ 36096</span>
 						<span>🔱 1123</span>
 					</div>
 				<div class="stars-today">⭐ 1111 stars this month</div>
@@ -434,46 +412,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/inspector" target="_blank">
+				<p><a href="https://github.com/hydralauncher/hydra" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        hydralauncher /
 
-      inspector</a></p>
+      hydra</a></p>
 				<p>
-      Visual testing tool for MCP servers
+      Hydra Launcher is an open-source gaming platform created to be the single tool that you need
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2790</span>
-						<span>🔱 377</span>
+						<span>⭐ 13319</span>
+						<span>🔱 3709</span>
 					</div>
-				<div class="stars-today">⭐ 1129 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mark3labs/mcp-go" target="_blank">
-    
-
-
-      
-        mark3labs /
-
-      mcp-go</a></p>
-				<p>
-      A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4622</span>
-						<span>🔱 378</span>
-					</div>
-				<div class="stars-today">⭐ 2118 stars this month</div>
+				<div class="stars-today">⭐ 1179 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-08
-date: 2025-05-08T09:58:54Z
+date: 2025-05-08T11:58:46Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3789</span>
-						<span>🔱 246</span>
+						<span>⭐ 3854</span>
+						<span>🔱 250</span>
 					</div>
 				<div class="stars-today">⭐ 1522 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/awslabs/agent-squad" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        awslabs /
 
-      ladybird</a></p>
+      agent-squad</a></p>
 				<p>
-      Truly independent web browser
+      Flexible and powerful framework for managing multiple AI agents and handling complex conversations
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 41108</span>
-						<span>🔱 1698</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5285</span>
+						<span>🔱 440</span>
 					</div>
-				<div class="stars-today">⭐ 1122 stars today</div>
+				<div class="stars-today">⭐ 231 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
     
 
 
       
-        microsoft /
+        78 /
 
-      ai-agents-for-beginners</a></p>
+      xiaozhi-esp32</a></p>
 				<p>
-      10 Lessons to Get Started Building AI Agents
+      Build your own AI friend
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20140</span>
-						<span>🔱 5049</span>
+						<span>🔠 C++</span>
+						<span>⭐ 12543</span>
+						<span>🔱 2462</span>
 					</div>
-				<div class="stars-today">⭐ 487 stars today</div>
+				<div class="stars-today">⭐ 47 stars today</div>
 				</div>
 			</div>
 	
@@ -96,162 +96,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 59709</span>
-						<span>🔱 3294</span>
+						<span>⭐ 59814</span>
+						<span>🔱 3296</span>
 					</div>
 				<div class="stars-today">⭐ 1246 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+				<p><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">
     
 
 
       
-        n8n-io /
+        521xueweihan /
 
-      n8n</a></p>
+      HelloGitHub</a></p>
 				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 90457</span>
-						<span>🔱 24782</span>
-					</div>
-				<div class="stars-today">⭐ 600 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/crewAIInc/crewAI" target="_blank">
-    
-
-
-      
-        crewAIInc /
-
-      crewAI</a></p>
-				<p>
-      Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+       分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31262</span>
-						<span>🔱 4178</span>
+						<span>⭐ 106672</span>
+						<span>🔱 9967</span>
 					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 1158 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
+				<p><a href="https://github.com/zed-industries/zed" target="_blank">
     
 
 
       
-        voideditor /
+        zed-industries /
 
-      void</a></p>
-				<p></p>
+      zed</a></p>
+				<p>
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 58362</span>
+						<span>🔱 4058</span>
+					</div>
+				<div class="stars-today">⭐ 134 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12885</span>
-						<span>🔱 823</span>
+						<span>⭐ 2940</span>
+						<span>🔱 214</span>
 					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
+				<div class="stars-today">⭐ 293 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/evroon/bracket" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        evroon /
+        LadybirdBrowser /
 
-      bracket</a></p>
+      ladybird</a></p>
 				<p>
-      Selfhosted tournament system
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 41163</span>
+						<span>🔱 1703</span>
+					</div>
+				<div class="stars-today">⭐ 1122 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
+    
+
+
+      
+        Blaizzy /
+
+      mlx-audio</a></p>
+				<p>
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1003</span>
-						<span>🔱 85</span>
+						<span>⭐ 950</span>
+						<span>🔱 78</span>
 					</div>
-				<div class="stars-today">⭐ 57 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yuaotian/go-cursor-help" target="_blank">
-    
-
-
-      
-        yuaotian /
-
-      go-cursor-help</a></p>
-				<p>
-      解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 20864</span>
-						<span>🔱 2581</span>
-					</div>
-				<div class="stars-today">⭐ 94 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/beekeeper-studio/beekeeper-studio" target="_blank">
-    
-
-
-      
-        beekeeper-studio /
-
-      beekeeper-studio</a></p>
-				<p>
-      Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19019</span>
-						<span>🔱 1212</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/compose-multiplatform" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      compose-multiplatform</a></p>
-				<p>
-      Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 17383</span>
-						<span>🔱 1247</span>
-					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
+				<div class="stars-today">⭐ 93 stars today</div>
 				</div>
 			</div>
 	
@@ -270,98 +228,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27481</span>
-						<span>🔱 4057</span>
+						<span>⭐ 27533</span>
+						<span>🔱 4061</span>
 					</div>
 				<div class="stars-today">⭐ 177 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linera-io/linera-protocol" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
     
 
 
       
-        linera-io /
+        voideditor /
 
-      linera-protocol</a></p>
-				<p>
-      Main repository for the Linera protocol
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26205</span>
-						<span>🔱 1686</span>
-					</div>
-				<div class="stars-today">⭐ 154 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/agents-course" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      agents-course</a></p>
-				<p>
-      This repository contains the Hugging Face Agents Course. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17956</span>
-						<span>🔱 1167</span>
-					</div>
-				<div class="stars-today">⭐ 356 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
-    
-
-
-      
-        cline /
-
-      cline</a></p>
-				<p>
-      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    </p>
+      void</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43041</span>
-						<span>🔱 4945</span>
+						<span>⭐ 12917</span>
+						<span>🔱 823</span>
 					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
+				<div class="stars-today">⭐ 98 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heroiclabs/nakama" target="_blank">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
     
 
 
       
-        heroiclabs /
+        LazyVim /
 
-      nakama</a></p>
+      LazyVim</a></p>
 				<p>
-      Distributed server for social and realtime games and apps.
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 20456</span>
+						<span>🔱 1449</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/NeMo" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      NeMo</a></p>
+				<p>
+      A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13896</span>
+						<span>🔱 2816</span>
+					</div>
+				<div class="stars-today">⭐ 34 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rzane/docker2exe" target="_blank">
+    
+
+
+      
+        rzane /
+
+      docker2exe</a></p>
+				<p>
+      Convert a Docker image to an executable
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10482</span>
-						<span>🔱 1195</span>
+						<span>⭐ 1002</span>
+						<span>🔱 46</span>
 					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
+				<div class="stars-today">⭐ 288 stars today</div>
 				</div>
 			</div>
 	

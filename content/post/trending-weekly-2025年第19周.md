@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第19周
-date: 2025-05-08T09:58:54Z
+date: 2025-05-08T11:58:46Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64935</span>
-						<span>🔱 8987</span>
+						<span>⭐ 64968</span>
+						<span>🔱 8992</span>
 					</div>
 				<div class="stars-today">⭐ 10439 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 41108</span>
-						<span>🔱 1698</span>
+						<span>⭐ 41163</span>
+						<span>🔱 1703</span>
 					</div>
 				<div class="stars-today">⭐ 2481 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
-    
-
-
-      
-        aipotheosis-labs /
-
-      aci</a></p>
-				<p>
-      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2995</span>
-						<span>🔱 205</span>
-					</div>
-				<div class="stars-today">⭐ 2304 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2896</span>
-						<span>🔱 211</span>
+						<span>⭐ 2940</span>
+						<span>🔱 214</span>
 					</div>
 				<div class="stars-today">⭐ 1008 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
+    
+
+
+      
+        aipotheosis-labs /
+
+      aci</a></p>
+				<p>
+      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3000</span>
+						<span>🔱 204</span>
+					</div>
+				<div class="stars-today">⭐ 2304 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
     
 
 
       
         QwenLM /
 
-      Qwen3</a></p>
+      Qwen-Agent</a></p>
 				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 20590</span>
-						<span>🔱 1346</span>
-					</div>
-				<div class="stars-today">⭐ 1071 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
-    
-
-
-      
-        commaai /
-
-      openpilot</a></p>
-				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53658</span>
-						<span>🔱 9711</span>
+						<span>⭐ 8139</span>
+						<span>🔱 688</span>
 					</div>
-				<div class="stars-today">⭐ 438 stars this week</div>
+				<div class="stars-today">⭐ 780 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
+    
+
+
+      
+        CapSoftware /
+
+      Cap</a></p>
+				<p>
+      Open source Loom alternative. Beautiful, shareable screen recordings.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9195</span>
+						<span>🔱 497</span>
+					</div>
+				<div class="stars-today">⭐ 1161 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranaroussi/yfinance" target="_blank">
+    
+
+
+      
+        ranaroussi /
+
+      yfinance</a></p>
+				<p>
+      Download market data from Yahoo! Finance's API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17104</span>
+						<span>🔱 2645</span>
+					</div>
+				<div class="stars-today">⭐ 254 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28174</span>
+						<span>⭐ 28177</span>
 						<span>🔱 1516</span>
 					</div>
 				<div class="stars-today">⭐ 637 stars this week</div>
@@ -170,24 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
     
 
 
       
-        simular-ai /
+        commaai /
 
-      Agent-S</a></p>
+      openpilot</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4411</span>
-						<span>🔱 431</span>
+						<span>⭐ 53659</span>
+						<span>🔱 9713</span>
 					</div>
-				<div class="stars-today">⭐ 916 stars this week</div>
+				<div class="stars-today">⭐ 438 stars this week</div>
 				</div>
 			</div>
 	
@@ -214,138 +236,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
-    
-
-
-      
-        louislam /
-
-      uptime-kuma</a></p>
-				<p>
-      A fancy self-hosted monitoring tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 69143</span>
-						<span>🔱 6060</span>
-					</div>
-				<div class="stars-today">⭐ 1039 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18446</span>
-						<span>🔱 2475</span>
-					</div>
-				<div class="stars-today">⭐ 1817 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
-    
-
-
-      
-        CapSoftware /
-
-      Cap</a></p>
-				<p>
-      Open source Loom alternative. Beautiful, shareable screen recordings.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9185</span>
-						<span>🔱 497</span>
-					</div>
-				<div class="stars-today">⭐ 1161 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      kubectl-ai</a></p>
-				<p>
-      AI powered Kubernetes Assistant
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3789</span>
-						<span>🔱 246</span>
-					</div>
-				<div class="stars-today">⭐ 2535 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8131</span>
-						<span>🔱 688</span>
-					</div>
-				<div class="stars-today">⭐ 780 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jj-vcs/jj" target="_blank">
-    
-
-
-      
-        jj-vcs /
-
-      jj</a></p>
-				<p>
-      A Git-compatible VCS that is both simple and powerful
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14094</span>
-						<span>🔱 496</span>
-					</div>
-				<div class="stars-today">⭐ 1519 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/htr-tech/zphisher" target="_blank">
     
 
@@ -360,54 +250,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 13071</span>
-						<span>🔱 4665</span>
+						<span>⭐ 13077</span>
+						<span>🔱 4664</span>
 					</div>
 				<div class="stars-today">⭐ 463 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">
+				<p><a href="https://github.com/FreeTubeApp/FreeTube" target="_blank">
     
 
 
       
-        521xueweihan /
+        FreeTubeApp /
 
-      HelloGitHub</a></p>
+      FreeTube</a></p>
 				<p>
-       分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+      An Open Source YouTube app for privacy
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 106597</span>
-						<span>🔱 9965</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 17733</span>
+						<span>🔱 1154</span>
 					</div>
-				<div class="stars-today">⭐ 4037 stars this week</div>
+				<div class="stars-today">⭐ 118 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/unionlabs/union" target="_blank">
+				<p><a href="https://github.com/cloudflare/mcp-server-cloudflare" target="_blank">
     
 
 
       
-        unionlabs /
+        cloudflare /
 
-      union</a></p>
-				<p>
-      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
-    </p>
+      mcp-server-cloudflare</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 59072</span>
-						<span>🔱 2934</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2006</span>
+						<span>🔱 142</span>
 					</div>
-				<div class="stars-today">⭐ 3516 stars this week</div>
+				<div class="stars-today">⭐ 588 stars this week</div>
 				</div>
 			</div>
 	
@@ -421,15 +309,81 @@ keywords:
 
       FreeCAD</a></p>
 				<p>
-      This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+      Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 24436</span>
-						<span>🔱 4534</span>
+						<span>⭐ 24440</span>
+						<span>🔱 4533</span>
 					</div>
 				<div class="stars-today">⭐ 291 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/glanceapp/glance" target="_blank">
+    
+
+
+      
+        glanceapp /
+
+      glance</a></p>
+				<p>
+      A self-hosted dashboard that puts all your feeds in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 23808</span>
+						<span>🔱 897</span>
+					</div>
+				<div class="stars-today">⭐ 833 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
+    
+
+
+      
+        ruanyf /
+
+      weekly</a></p>
+				<p>
+      科技爱好者周刊，每周五发布
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 59814</span>
+						<span>🔱 3296</span>
+					</div>
+				<div class="stars-today">⭐ 4220 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3964</span>
+						<span>🔱 328</span>
+					</div>
+				<div class="stars-today">⭐ 373 stars this week</div>
 				</div>
 			</div>
 	
