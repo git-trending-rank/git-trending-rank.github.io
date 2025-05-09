@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-09
-date: 2025-05-09T04:01:29Z
+date: 2025-05-09T05:58:39Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4104</span>
-						<span>🔱 270</span>
+						<span>⭐ 4132</span>
+						<span>🔱 272</span>
 					</div>
 				<div class="stars-today">⭐ 1268 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5430</span>
-						<span>🔱 446</span>
+						<span>⭐ 5448</span>
+						<span>🔱 448</span>
 					</div>
 				<div class="stars-today">⭐ 79 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 12699</span>
-						<span>🔱 2473</span>
+						<span>⭐ 12724</span>
+						<span>🔱 2478</span>
 					</div>
 				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 60195</span>
-						<span>🔱 3307</span>
+						<span>⭐ 60255</span>
+						<span>🔱 3311</span>
 					</div>
 				<div class="stars-today">⭐ 1125 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 107064</span>
-						<span>🔱 9980</span>
+						<span>⭐ 107149</span>
+						<span>🔱 9986</span>
 					</div>
 				<div class="stars-today">⭐ 735 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 58566</span>
-						<span>🔱 4082</span>
+						<span>⭐ 58584</span>
+						<span>🔱 4081</span>
 					</div>
 				<div class="stars-today">⭐ 259 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3213</span>
-						<span>🔱 227</span>
+						<span>⭐ 3257</span>
+						<span>🔱 230</span>
 					</div>
 				<div class="stars-today">⭐ 303 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 41399</span>
-						<span>🔱 1716</span>
+						<span>⭐ 41422</span>
+						<span>🔱 1718</span>
 					</div>
 				<div class="stars-today">⭐ 974 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1119</span>
-						<span>🔱 84</span>
+						<span>⭐ 1141</span>
+						<span>🔱 85</span>
 					</div>
 				<div class="stars-today">⭐ 101 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27754</span>
-						<span>🔱 4093</span>
+						<span>⭐ 27781</span>
+						<span>🔱 4092</span>
 					</div>
 				<div class="stars-today">⭐ 610 stars today</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14139</span>
-						<span>🔱 860</span>
+						<span>⭐ 14285</span>
+						<span>🔱 864</span>
 					</div>
 				<div class="stars-today">⭐ 434 stars today</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 20572</span>
-						<span>🔱 1451</span>
+						<span>⭐ 20586</span>
+						<span>🔱 1453</span>
 					</div>
 				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14025</span>
-						<span>🔱 2820</span>
+						<span>⭐ 14037</span>
+						<span>🔱 2821</span>
 					</div>
 				<div class="stars-today">⭐ 50 stars today</div>
 				</div>
@@ -314,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1236</span>
+						<span>⭐ 1270</span>
 						<span>🔱 54</span>
 					</div>
 				<div class="stars-today">⭐ 221 stars today</div>
