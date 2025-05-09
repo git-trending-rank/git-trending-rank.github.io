@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第19周
-date: 2025-05-09T09:58:49Z
+date: 2025-05-09T11:58:47Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 65298</span>
-						<span>🔱 9044</span>
+						<span>⭐ 65335</span>
+						<span>🔱 9048</span>
 					</div>
 				<div class="stars-today">⭐ 9615 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 41485</span>
-						<span>🔱 1722</span>
+						<span>⭐ 41509</span>
+						<span>🔱 1723</span>
 					</div>
 				<div class="stars-today">⭐ 3213 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3328</span>
-						<span>🔱 238</span>
+						<span>⭐ 3346</span>
+						<span>🔱 239</span>
 					</div>
 				<div class="stars-today">⭐ 1232 stars this week</div>
 				</div>
@@ -96,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3067</span>
-						<span>🔱 209</span>
+						<span>⭐ 3069</span>
+						<span>🔱 208</span>
 					</div>
 				<div class="stars-today">⭐ 2249 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8230</span>
-						<span>🔱 690</span>
-					</div>
-				<div class="stars-today">⭐ 675 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
-    
-
-
-      
-        CapSoftware /
-
-      Cap</a></p>
-				<p>
-      Open source Loom alternative. Beautiful, shareable screen recordings.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9284</span>
-						<span>🔱 504</span>
-					</div>
-				<div class="stars-today">⭐ 1277 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ranaroussi/yfinance" target="_blank">
-    
-
-
-      
-        ranaroussi /
-
-      yfinance</a></p>
-				<p>
-      Download market data from Yahoo! Finance's API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17172</span>
-						<span>🔱 2648</span>
-					</div>
-				<div class="stars-today">⭐ 275 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28225</span>
+						<span>⭐ 28230</span>
 						<span>🔱 1517</span>
 					</div>
 				<div class="stars-today">⭐ 672 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ranaroussi/yfinance" target="_blank">
+    
+
+
+      
+        ranaroussi /
+
+      yfinance</a></p>
+				<p>
+      Download market data from Yahoo! Finance's API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17180</span>
+						<span>🔱 2648</span>
+					</div>
+				<div class="stars-today">⭐ 275 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4133</span>
+						<span>🔱 340</span>
+					</div>
+				<div class="stars-today">⭐ 414 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
+    
+
+
+      
+        CapSoftware /
+
+      Cap</a></p>
+				<p>
+      Open source Loom alternative. Beautiful, shareable screen recordings.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9290</span>
+						<span>🔱 504</span>
+					</div>
+				<div class="stars-today">⭐ 1277 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53690</span>
+						<span>⭐ 53691</span>
 						<span>🔱 9717</span>
 					</div>
 				<div class="stars-today">⭐ 443 stars this week</div>
@@ -228,118 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 23987</span>
+						<span>⭐ 23989</span>
 						<span>🔱 2608</span>
 					</div>
 				<div class="stars-today">⭐ 72 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/htr-tech/zphisher" target="_blank">
-    
-
-
-      
-        htr-tech /
-
-      zphisher</a></p>
-				<p>
-      An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 13125</span>
-						<span>🔱 4675</span>
-					</div>
-				<div class="stars-today">⭐ 537 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FreeTubeApp/FreeTube" target="_blank">
-    
-
-
-      
-        FreeTubeApp /
-
-      FreeTube</a></p>
-				<p>
-      An Open Source YouTube app for privacy
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 17768</span>
-						<span>🔱 1155</span>
-					</div>
-				<div class="stars-today">⭐ 115 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/mcp-server-cloudflare" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      mcp-server-cloudflare</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2039</span>
-						<span>🔱 144</span>
-					</div>
-				<div class="stars-today">⭐ 587 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FreeCAD/FreeCAD" target="_blank">
-    
-
-
-      
-        FreeCAD /
-
-      FreeCAD</a></p>
-				<p>
-      Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 24490</span>
-						<span>🔱 4536</span>
-					</div>
-				<div class="stars-today">⭐ 330 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/glanceapp/glance" target="_blank">
-    
-
-
-      
-        glanceapp /
-
-      glance</a></p>
-				<p>
-      A self-hosted dashboard that puts all your feeds in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 23882</span>
-						<span>🔱 898</span>
-					</div>
-				<div class="stars-today">⭐ 862 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 60453</span>
+						<span>⭐ 60505</span>
 						<span>🔱 3314</span>
 					</div>
 				<div class="stars-today">⭐ 5118 stars this week</div>
@@ -366,24 +258,178 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+				<p><a href="https://github.com/htr-tech/zphisher" target="_blank">
     
 
 
       
-        Lightricks /
+        htr-tech /
 
-      LTX-Video</a></p>
+      zphisher</a></p>
 				<p>
-      Official repository for LTX-Video
+      An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 13127</span>
+						<span>🔱 4675</span>
+					</div>
+				<div class="stars-today">⭐ 537 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent</a></p>
+				<p>
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4112</span>
-						<span>🔱 337</span>
+						<span>⭐ 8237</span>
+						<span>🔱 691</span>
 					</div>
-				<div class="stars-today">⭐ 414 stars this week</div>
+				<div class="stars-today">⭐ 675 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
+    
+
+
+      
+        daytonaio /
+
+      daytona</a></p>
+				<p>
+      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19999</span>
+						<span>🔱 2312</span>
+					</div>
+				<div class="stars-today">⭐ 2522 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iperov/DeepFaceLab" target="_blank">
+    
+
+
+      
+        iperov /
+
+      DeepFaceLab</a></p>
+				<p>
+      DeepFaceLab is the leading software for creating deepfakes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17750</span>
+						<span>🔱 442</span>
+					</div>
+				<div class="stars-today">⭐ 179 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/glanceapp/glance" target="_blank">
+    
+
+
+      
+        glanceapp /
+
+      glance</a></p>
+				<p>
+      A self-hosted dashboard that puts all your feeds in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 23889</span>
+						<span>🔱 898</span>
+					</div>
+				<div class="stars-today">⭐ 862 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/expo/expo" target="_blank">
+    
+
+
+      
+        expo /
+
+      expo</a></p>
+				<p>
+      An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39986</span>
+						<span>🔱 6849</span>
+					</div>
+				<div class="stars-today">⭐ 462 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 298740</span>
+						<span>🔱 49590</span>
+					</div>
+				<div class="stars-today">⭐ 1148 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      kubectl-ai</a></p>
+				<p>
+      AI powered Kubernetes Assistant
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4240</span>
+						<span>🔱 286</span>
+					</div>
+				<div class="stars-today">⭐ 3633 stars this week</div>
 				</div>
 			</div>
 	

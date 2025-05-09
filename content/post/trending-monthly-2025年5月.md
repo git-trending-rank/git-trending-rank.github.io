@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-09T09:58:49Z
+date: 2025-05-09T11:58:47Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 65298</span>
-						<span>🔱 9044</span>
+						<span>⭐ 65335</span>
+						<span>🔱 9048</span>
 					</div>
 				<div class="stars-today">⭐ 15670 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24509</span>
-						<span>🔱 3053</span>
+						<span>⭐ 24529</span>
+						<span>🔱 3056</span>
 					</div>
 				<div class="stars-today">⭐ 18702 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6594</span>
-						<span>🔱 737</span>
+						<span>⭐ 6597</span>
+						<span>🔱 738</span>
 					</div>
 				<div class="stars-today">⭐ 4307 stars this month</div>
 				</div>
@@ -104,6 +104,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+    
+
+
+      
+        krillinai /
+
+      KrillinAI</a></p>
+				<p>
+       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6805</span>
+						<span>🔱 509</span>
+					</div>
+				<div class="stars-today">⭐ 5682 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
     
 
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9236</span>
+						<span>⭐ 9246</span>
 						<span>🔱 497</span>
 					</div>
 				<div class="stars-today">⭐ 5109 stars this month</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 90878</span>
-						<span>🔱 24911</span>
+						<span>⭐ 90906</span>
+						<span>🔱 24913</span>
 					</div>
 				<div class="stars-today">⭐ 14285 stars this month</div>
 				</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8364</span>
+						<span>⭐ 8368</span>
 						<span>🔱 559</span>
 					</div>
 				<div class="stars-today">⭐ 5017 stars this month</div>
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4458</span>
+						<span>⭐ 4466</span>
 						<span>🔱 437</span>
 					</div>
 				<div class="stars-today">⭐ 2494 stars this month</div>
@@ -206,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20652</span>
-						<span>🔱 1351</span>
+						<span>⭐ 20659</span>
+						<span>🔱 1352</span>
 					</div>
 				<div class="stars-today">⭐ 4155 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5512</span>
+						<span>🔱 369</span>
+					</div>
+				<div class="stars-today">⭐ 3912 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      c/ua is the Docker Container for Computer-Use AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5974</span>
+						<span>🔱 236</span>
+					</div>
+				<div class="stars-today">⭐ 2144 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29822</span>
+						<span>⭐ 29824</span>
 						<span>🔱 2091</span>
 					</div>
 				<div class="stars-today">⭐ 3454 stars this month</div>
@@ -250,54 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3519</span>
-						<span>🔱 218</span>
+						<span>⭐ 3525</span>
+						<span>🔱 219</span>
 					</div>
 				<div class="stars-today">⭐ 2242 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      c/ua is the Docker Container for Computer-Use AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5966</span>
-						<span>🔱 236</span>
-					</div>
-				<div class="stars-today">⭐ 2144 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
-    
-
-
-      
-        Zackriya-Solutions /
-
-      meeting-minutes</a></p>
-				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 5511</span>
-						<span>🔱 369</span>
-					</div>
-				<div class="stars-today">⭐ 3912 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 317999</span>
-						<span>🔱 41225</span>
+						<span>⭐ 318056</span>
+						<span>🔱 41229</span>
 					</div>
 				<div class="stars-today">⭐ 4980 stars this month</div>
 				</div>
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7458</span>
-						<span>🔱 760</span>
+						<span>⭐ 7462</span>
+						<span>🔱 761</span>
 					</div>
 				<div class="stars-today">⭐ 2184 stars this month</div>
 				</div>
@@ -360,76 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2890</span>
-						<span>🔱 408</span>
+						<span>⭐ 2894</span>
+						<span>🔱 410</span>
 					</div>
 				<div class="stars-today">⭐ 1391 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
-    
-
-
-      
-        jwasham /
-
-      coding-interview-university</a></p>
-				<p>
-      A complete computer science study plan to become a software engineer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 317236</span>
-						<span>🔱 78716</span>
-					</div>
-				<div class="stars-today">⭐ 3464 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36122</span>
-						<span>🔱 1128</span>
-					</div>
-				<div class="stars-today">⭐ 1136 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hydralauncher/hydra" target="_blank">
-    
-
-
-      
-        hydralauncher /
-
-      hydra</a></p>
-				<p>
-      Hydra Launcher is an open-source gaming platform created to be the single tool that you need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13345</span>
-						<span>🔱 3707</span>
-					</div>
-				<div class="stars-today">⭐ 1192 stars this month</div>
 				</div>
 			</div>
 	
