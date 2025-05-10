@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第19周
-date: 2025-05-10T09:58:43Z
+date: 2025-05-10T11:58:33Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 65737</span>
-						<span>🔱 9131</span>
-					</div>
-				<div class="stars-today">⭐ 8480 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
@@ -52,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 41691</span>
-						<span>🔱 1735</span>
+						<span>⭐ 41709</span>
+						<span>🔱 1734</span>
 					</div>
 				<div class="stars-today">⭐ 3506 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 65771</span>
+						<span>🔱 9139</span>
+					</div>
+				<div class="stars-today">⭐ 8480 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
+    
+
+
+      
+        Blaizzy /
+
+      mlx-audio</a></p>
+				<p>
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1369</span>
+						<span>🔱 94</span>
+					</div>
+				<div class="stars-today">⭐ 509 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,76 +96,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3445</span>
-						<span>🔱 244</span>
+						<span>⭐ 3452</span>
+						<span>🔱 245</span>
 					</div>
 				<div class="stars-today">⭐ 1521 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
     
 
 
       
-        aipotheosis-labs /
+        voideditor /
 
-      aci</a></p>
-				<p>
-      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-    </p>
+      void</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3124</span>
-						<span>🔱 222</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15942</span>
+						<span>🔱 925</span>
 					</div>
-				<div class="stars-today">⭐ 2076 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juanfont/headscale" target="_blank">
-    
-
-
-      
-        juanfont /
-
-      headscale</a></p>
-				<p>
-      An open source, self-hosted implementation of the Tailscale control server
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 28265</span>
-						<span>🔱 1519</span>
-					</div>
-				<div class="stars-today">⭐ 702 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ranaroussi/yfinance" target="_blank">
-    
-
-
-      
-        ranaroussi /
-
-      yfinance</a></p>
-				<p>
-      Download market data from Yahoo! Finance's API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17226</span>
-						<span>🔱 2649</span>
-					</div>
-				<div class="stars-today">⭐ 315 stars this week</div>
+				<div class="stars-today">⭐ 2787 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +138,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4375</span>
+						<span>⭐ 4397</span>
 						<span>🔱 360</span>
 					</div>
 				<div class="stars-today">⭐ 597 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zed-industries/zed" target="_blank">
+    
+
+
+      
+        zed-industries /
+
+      zed</a></p>
+				<p>
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 58924</span>
+						<span>🔱 4120</span>
+					</div>
+				<div class="stars-today">⭐ 935 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
+    
+
+
+      
+        ruanyf /
+
+      weekly</a></p>
+				<p>
+      科技爱好者周刊，每周五发布
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 60954</span>
+						<span>🔱 3323</span>
+					</div>
+				<div class="stars-today">⭐ 5515 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9355</span>
+						<span>⭐ 9358</span>
 						<span>🔱 509</span>
 					</div>
 				<div class="stars-today">⭐ 1343 stars this week</div>
@@ -206,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53724</span>
+						<span>⭐ 53725</span>
 						<span>🔱 9720</span>
 					</div>
 				<div class="stars-today">⭐ 443 stars this week</div>
@@ -214,134 +234,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
+				<p><a href="https://github.com/FreeCAD/FreeCAD" target="_blank">
     
 
 
       
-        modular /
+        FreeCAD /
 
-      modular</a></p>
+      FreeCAD</a></p>
 				<p>
-      The Modular Platform (includes MAX & Mojo)
+      Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 24004</span>
-						<span>🔱 2612</span>
+						<span>🔠 C++</span>
+						<span>⭐ 24511</span>
+						<span>🔱 4538</span>
 					</div>
-				<div class="stars-today">⭐ 93 stars this week</div>
+				<div class="stars-today">⭐ 361 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
+				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
     
 
 
       
-        ruanyf /
+        aipotheosis-labs /
 
-      weekly</a></p>
+      aci</a></p>
 				<p>
-      科技爱好者周刊，每周五发布
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 60920</span>
-						<span>🔱 3323</span>
-					</div>
-				<div class="stars-today">⭐ 5515 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/htr-tech/zphisher" target="_blank">
-    
-
-
-      
-        htr-tech /
-
-      zphisher</a></p>
-				<p>
-      An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 13175</span>
-						<span>🔱 4679</span>
-					</div>
-				<div class="stars-today">⭐ 577 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8272</span>
-						<span>🔱 696</span>
+						<span>⭐ 3127</span>
+						<span>🔱 222</span>
 					</div>
-				<div class="stars-today">⭐ 579 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
-    
-
-
-      
-        daytonaio /
-
-      daytona</a></p>
-				<p>
-      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20046</span>
-						<span>🔱 2317</span>
-					</div>
-				<div class="stars-today">⭐ 2231 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iperov/DeepFaceLab" target="_blank">
-    
-
-
-      
-        iperov /
-
-      DeepFaceLab</a></p>
-				<p>
-      DeepFaceLab is the leading software for creating deepfakes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17795</span>
-						<span>🔱 446</span>
-					</div>
-				<div class="stars-today">⭐ 185 stars this week</div>
+				<div class="stars-today">⭐ 2076 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 23937</span>
+						<span>⭐ 23941</span>
 						<span>🔱 899</span>
 					</div>
 				<div class="stars-today">⭐ 930 stars this week</div>
@@ -368,46 +300,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/expo/expo" target="_blank">
+				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
     
 
 
       
-        expo /
+        daytonaio /
 
-      expo</a></p>
+      daytona</a></p>
 				<p>
-      An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40042</span>
-						<span>🔱 6860</span>
+						<span>⭐ 20050</span>
+						<span>🔱 2317</span>
 					</div>
-				<div class="stars-today">⭐ 455 stars this week</div>
+				<div class="stars-today">⭐ 2231 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+				<p><a href="https://github.com/juanfont/headscale" target="_blank">
     
 
 
       
-        donnemartin /
+        juanfont /
 
-      system-design-primer</a></p>
+      headscale</a></p>
 				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      An open source, self-hosted implementation of the Tailscale control server
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 28268</span>
+						<span>🔱 1519</span>
+					</div>
+				<div class="stars-today">⭐ 702 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iperov/DeepFaceLab" target="_blank">
+    
+
+
+      
+        iperov /
+
+      DeepFaceLab</a></p>
+				<p>
+      DeepFaceLab is the leading software for creating deepfakes.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 298806</span>
-						<span>🔱 49599</span>
+						<span>⭐ 17798</span>
+						<span>🔱 446</span>
 					</div>
-				<div class="stars-today">⭐ 1112 stars this week</div>
+				<div class="stars-today">⭐ 185 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/NeMo" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      NeMo</a></p>
+				<p>
+      A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14186</span>
+						<span>🔱 2839</span>
+					</div>
+				<div class="stars-today">⭐ 346 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent</a></p>
+				<p>
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8275</span>
+						<span>🔱 696</span>
+					</div>
+				<div class="stars-today">⭐ 579 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,10 +424,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4447</span>
-						<span>🔱 310</span>
+						<span>⭐ 4457</span>
+						<span>🔱 311</span>
 					</div>
 				<div class="stars-today">⭐ 3927 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/core" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      core</a></p>
+				<p>
+      🏡 Open source home automation that puts local control and privacy first.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 78824</span>
+						<span>🔱 33603</span>
+					</div>
+				<div class="stars-today">⭐ 446 stars this week</div>
 				</div>
 			</div>
 	

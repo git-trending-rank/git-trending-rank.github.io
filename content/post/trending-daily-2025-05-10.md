@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-10
-date: 2025-05-10T09:58:43Z
+date: 2025-05-10T11:58:33Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
-    
-
-
-      
-        longbridge /
-
-      gpui-component</a></p>
-				<p>
-      UI components for building fantastic desktop application by using GPUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 1911</span>
-						<span>🔱 95</span>
-					</div>
-				<div class="stars-today">⭐ 174 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
@@ -52,228 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28306</span>
-						<span>🔱 4164</span>
+						<span>⭐ 28359</span>
+						<span>🔱 4170</span>
 					</div>
 				<div class="stars-today">⭐ 434 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      kubectl-ai</a></p>
-				<p>
-      AI powered Kubernetes Assistant
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4447</span>
-						<span>🔱 310</span>
-					</div>
-				<div class="stars-today">⭐ 400 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/NeMo" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      NeMo</a></p>
-				<p>
-      A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14183</span>
-						<span>🔱 2839</span>
-					</div>
-				<div class="stars-today">⭐ 197 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15841</span>
-						<span>🔱 919</span>
-					</div>
-				<div class="stars-today">⭐ 1879 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23112</span>
-						<span>🔱 1977</span>
-					</div>
-				<div class="stars-today">⭐ 124 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ultralytics/ultralytics" target="_blank">
-    
-
-
-      
-        ultralytics /
-
-      ultralytics</a></p>
-				<p>
-      Ultralytics YOLO11 🚀
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40577</span>
-						<span>🔱 7843</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
-    
-
-
-      
-        ruanyf /
-
-      weekly</a></p>
-				<p>
-      科技爱好者周刊，每周五发布
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 60920</span>
-						<span>🔱 3323</span>
-					</div>
-				<div class="stars-today">⭐ 702 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4375</span>
-						<span>🔱 360</span>
-					</div>
-				<div class="stars-today">⭐ 179 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/element-plus/element-plus" target="_blank">
-    
-
-
-      
-        element-plus /
-
-      element-plus</a></p>
-				<p>
-      🎉 A Vue.js 3 UI Library made by Element team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25815</span>
-						<span>🔱 18393</span>
-					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zed-industries/zed" target="_blank">
-    
-
-
-      
-        zed-industries /
-
-      zed</a></p>
-				<p>
-      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 58903</span>
-						<span>🔱 4118</span>
-					</div>
-				<div class="stars-today">⭐ 345 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mason-org/mason.nvim" target="_blank">
-    
-
-
-      
-        mason-org /
-
-      mason.nvim</a></p>
-				<p>
-      Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 8904</span>
-						<span>🔱 307</span>
-					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
 				</div>
 			</div>
 	
@@ -292,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1357</span>
+						<span>⭐ 1369</span>
 						<span>🔱 94</span>
 					</div>
 				<div class="stars-today">⭐ 251 stars today</div>
@@ -300,46 +60,198 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/ComfyUI-LTXVideo" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15942</span>
+						<span>🔱 925</span>
+					</div>
+				<div class="stars-today">⭐ 1879 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zed-industries/zed" target="_blank">
+    
+
+
+      
+        zed-industries /
+
+      zed</a></p>
+				<p>
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 58924</span>
+						<span>🔱 4120</span>
+					</div>
+				<div class="stars-today">⭐ 345 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Peterande/D-FINE" target="_blank">
+    
+
+
+      
+        Peterande /
+
+      D-FINE</a></p>
+				<p>
+      D-FINE: Redefine Regression Task of DETRs as Fine-grained Distribution Refinement [ICLR 2025 Spotlight]
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2099</span>
+						<span>🔱 176</span>
+					</div>
+				<div class="stars-today">⭐ 23 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shane-mason/FieldStation42" target="_blank">
+    
+
+
+      
+        shane-mason /
+
+      FieldStation42</a></p>
+				<p>
+      Broadcast TV simulator
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 389</span>
+						<span>🔱 18</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wolfpld/tracy" target="_blank">
+    
+
+
+      
+        wolfpld /
+
+      tracy</a></p>
+				<p>
+      Frame profiler
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 11457</span>
+						<span>🔱 786</span>
+					</div>
+				<div class="stars-today">⭐ 35 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
     
 
 
       
         Lightricks /
 
-      ComfyUI-LTXVideo</a></p>
+      LTX-Video</a></p>
 				<p>
-      LTX-Video Support for ComfyUI
+      Official repository for LTX-Video
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1359</span>
-						<span>🔱 107</span>
+						<span>⭐ 4397</span>
+						<span>🔱 360</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 179 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/heroiclabs/nakama" target="_blank">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
     
 
 
       
-        heroiclabs /
+        punkpeye /
 
-      nakama</a></p>
+      awesome-mcp-servers</a></p>
 				<p>
-      Distributed server for social and realtime games and apps.
+      A collection of MCP servers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10755</span>
-						<span>🔱 1207</span>
+						<span>🔠 </span>
+						<span>⭐ 47357</span>
+						<span>🔱 3492</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 193 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
+    
+
+
+      
+        longbridge /
+
+      gpui-component</a></p>
+				<p>
+      UI components for building fantastic desktop application by using GPUI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1936</span>
+						<span>🔱 95</span>
+					</div>
+				<div class="stars-today">⭐ 174 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
+    
+
+
+      
+        panaversity /
+
+      learn-agentic-ai</a></p>
+				<p>
+      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 1430</span>
+						<span>🔱 435</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
