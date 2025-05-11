@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-11T09:58:50Z
+date: 2025-05-11T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66028</span>
-						<span>🔱 9186</span>
+						<span>⭐ 66049</span>
+						<span>🔱 9189</span>
 					</div>
 				<div class="stars-today">⭐ 16313 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6772</span>
+						<span>⭐ 6777</span>
 						<span>🔱 760</span>
 					</div>
 				<div class="stars-today">⭐ 4471 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24855</span>
-						<span>🔱 3101</span>
-					</div>
-				<div class="stars-today">⭐ 16688 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 2024</span>
+						<span>⭐ 2025</span>
 						<span>🔱 453</span>
 					</div>
 				<div class="stars-today">⭐ 1041 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24869</span>
+						<span>🔱 3103</span>
+					</div>
+				<div class="stars-today">⭐ 16688 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9402</span>
-						<span>🔱 508</span>
+						<span>⭐ 9409</span>
+						<span>🔱 509</span>
 					</div>
 				<div class="stars-today">⭐ 5134 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8485</span>
+						<span>⭐ 8491</span>
 						<span>🔱 569</span>
 					</div>
 				<div class="stars-today">⭐ 4974 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
-    
-
-
-      
-        krillinai /
-
-      KrillinAI</a></p>
-				<p>
-       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6930</span>
-						<span>🔱 515</span>
-					</div>
-				<div class="stars-today">⭐ 5417 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 91410</span>
-						<span>🔱 25117</span>
+						<span>⭐ 91438</span>
+						<span>🔱 25126</span>
 					</div>
 				<div class="stars-today">⭐ 13834 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
     
 
 
       
-        simular-ai /
+        krillinai /
 
-      Agent-S</a></p>
+      KrillinAI</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4558</span>
-						<span>🔱 444</span>
+						<span>🔠 Go</span>
+						<span>⭐ 6933</span>
+						<span>🔱 515</span>
 					</div>
-				<div class="stars-today">⭐ 2487 stars this month</div>
+				<div class="stars-today">⭐ 5417 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20765</span>
+						<span>⭐ 20769</span>
 						<span>🔱 1360</span>
 					</div>
 				<div class="stars-today">⭐ 4247 stars this month</div>
@@ -236,24 +214,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
 
       
-        Zackriya-Solutions /
+        simular-ai /
 
-      meeting-minutes</a></p>
+      Agent-S</a></p>
 				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+      Agent S: an open agentic framework that uses computers like a human
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 5651</span>
-						<span>🔱 378</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4560</span>
+						<span>🔱 444</span>
 					</div>
-				<div class="stars-today">⭐ 4014 stars this month</div>
+				<div class="stars-today">⭐ 2487 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 318950</span>
-						<span>🔱 41310</span>
+						<span>⭐ 318988</span>
+						<span>🔱 41313</span>
 					</div>
 				<div class="stars-today">⭐ 5643 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+    
+
+
+      
+        Zackriya-Solutions /
+
+      meeting-minutes</a></p>
+				<p>
+      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5654</span>
+						<span>🔱 378</span>
+					</div>
+				<div class="stars-today">⭐ 4014 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29892</span>
+						<span>⭐ 29896</span>
 						<span>🔱 2095</span>
 					</div>
 				<div class="stars-today">⭐ 3248 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      c/ua is the Docker Container for Computer-Use AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6133</span>
-						<span>🔱 242</span>
-					</div>
-				<div class="stars-today">⭐ 2215 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
-    
-
-
-      
-        elie222 /
-
-      inbox-zero</a></p>
-				<p>
-      AI personal assistant for email. Open source app to help you reach inbox zero fast.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7541</span>
-						<span>🔱 766</span>
-					</div>
-				<div class="stars-today">⭐ 2147 stars this month</div>
 				</div>
 			</div>
 	
@@ -364,6 +320,48 @@ keywords:
 						<span>🔱 1129</span>
 					</div>
 				<div class="stars-today">⭐ 1162 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      c/ua is the Docker Container for Computer-Use AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6139</span>
+						<span>🔱 242</span>
+					</div>
+				<div class="stars-today">⭐ 2215 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5791</span>
+						<span>🔱 385</span>
+					</div>
+				<div class="stars-today">⭐ 1938 stars this month</div>
 				</div>
 			</div>
 	
