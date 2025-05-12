@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-12T09:58:37Z
+date: 2025-05-12T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66335</span>
-						<span>🔱 9226</span>
+						<span>⭐ 66364</span>
+						<span>🔱 9233</span>
 					</div>
 				<div class="stars-today">⭐ 16526 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6908</span>
-						<span>🔱 790</span>
+						<span>⭐ 6924</span>
+						<span>🔱 793</span>
 					</div>
 				<div class="stars-today">⭐ 4551 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25018</span>
-						<span>🔱 3126</span>
+						<span>⭐ 25040</span>
+						<span>🔱 3128</span>
 					</div>
 				<div class="stars-today">⭐ 15402 stars this month</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9484</span>
+						<span>⭐ 9493</span>
 						<span>🔱 515</span>
 					</div>
 				<div class="stars-today">⭐ 5155 stars this month</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8556</span>
-						<span>🔱 575</span>
+						<span>⭐ 8560</span>
+						<span>🔱 576</span>
 					</div>
 				<div class="stars-today">⭐ 4964 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56665</span>
+						<span>🔱 2887</span>
+					</div>
+				<div class="stars-today">⭐ 8719 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 91748</span>
-						<span>🔱 25224</span>
+						<span>⭐ 91787</span>
+						<span>🔱 25238</span>
 					</div>
 				<div class="stars-today">⭐ 13078 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
-    
-
-
-      
-        krillinai /
-
-      KrillinAI</a></p>
-				<p>
-       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6990</span>
-						<span>🔱 516</span>
-					</div>
-				<div class="stars-today">⭐ 4814 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 20819</span>
-						<span>🔱 1368</span>
+						<span>⭐ 20825</span>
+						<span>🔱 1369</span>
 					</div>
 				<div class="stars-today">⭐ 4286 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4636</span>
-						<span>🔱 451</span>
-					</div>
-				<div class="stars-today">⭐ 2470 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 319433</span>
-						<span>🔱 41352</span>
+						<span>⭐ 319479</span>
+						<span>🔱 41356</span>
 					</div>
 				<div class="stars-today">⭐ 5990 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4641</span>
+						<span>🔱 451</span>
+					</div>
+				<div class="stars-today">⭐ 2470 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+    
+
+
+      
+        krillinai /
+
+      KrillinAI</a></p>
+				<p>
+       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6995</span>
+						<span>🔱 516</span>
+					</div>
+				<div class="stars-today">⭐ 4814 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36168</span>
+						<span>🔱 1130</span>
+					</div>
+				<div class="stars-today">⭐ 1184 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 5717</span>
-						<span>🔱 382</span>
+						<span>⭐ 5728</span>
+						<span>🔱 384</span>
 					</div>
 				<div class="stars-today">⭐ 4045 stars this month</div>
 				</div>
@@ -294,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29935</span>
-						<span>🔱 2098</span>
+						<span>⭐ 29936</span>
+						<span>🔱 2099</span>
 					</div>
 				<div class="stars-today">⭐ 3247 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36170</span>
-						<span>🔱 1130</span>
-					</div>
-				<div class="stars-today">⭐ 1184 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,30 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6209</span>
+						<span>⭐ 6214</span>
 						<span>🔱 247</span>
 					</div>
 				<div class="stars-today">⭐ 2273 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5844</span>
-						<span>🔱 386</span>
-					</div>
-				<div class="stars-today">⭐ 1970 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-12
-date: 2025-05-12T09:58:37Z
+date: 2025-05-12T11:58:41Z
 categories:
 - daily
 keywords:
@@ -30,250 +30,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30510</span>
-						<span>🔱 4376</span>
+						<span>⭐ 30644</span>
+						<span>🔱 4388</span>
 					</div>
 				<div class="stars-today">⭐ 894 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
+				<p><a href="https://github.com/i-am-alice/3rd-devs" target="_blank">
     
 
 
       
-        voideditor /
+        i-am-alice /
 
-      void</a></p>
+      3rd-devs</a></p>
 				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17615</span>
-						<span>🔱 1040</span>
+						<span>⭐ 264</span>
+						<span>🔱 235</span>
 					</div>
-				<div class="stars-today">⭐ 787 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5048</span>
-						<span>🔱 404</span>
-					</div>
-				<div class="stars-today">⭐ 328 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
-    
-
-
-      
-        longbridge /
-
-      gpui-component</a></p>
-				<p>
-      UI components for building fantastic desktop application by using GPUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2539</span>
-						<span>🔱 115</span>
-					</div>
-				<div class="stars-today">⭐ 299 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
-    
-
-
-      
-        ggml-org /
-
-      llama.cpp</a></p>
-				<p>
-      LLM inference in C/C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 79743</span>
-						<span>🔱 11696</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/isledecomp/isle" target="_blank">
-    
-
-
-      
-        isledecomp /
-
-      isle</a></p>
-				<p>
-      A functionally complete decompilation of LEGO Island (1997)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 2959</span>
-						<span>🔱 130</span>
-					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zed-industries/zed" target="_blank">
-    
-
-
-      
-        zed-industries /
-
-      zed</a></p>
-				<p>
-      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 59341</span>
-						<span>🔱 4162</span>
-					</div>
-				<div class="stars-today">⭐ 223 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 319433</span>
-						<span>🔱 41352</span>
-					</div>
-				<div class="stars-today">⭐ 382 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Mail-0/Zero" target="_blank">
-    
-
-
-      
-        Mail-0 /
-
-      Zero</a></p>
-				<p>
-      Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7058</span>
-						<span>🔱 583</span>
-					</div>
-				<div class="stars-today">⭐ 320 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/solidtime-io/solidtime" target="_blank">
-    
-
-
-      
-        solidtime-io /
-
-      solidtime</a></p>
-				<p>
-      Modern open-source time-tracking app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 6684</span>
-						<span>🔱 331</span>
-					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
-    
-
-
-      
-        panaversity /
-
-      learn-agentic-ai</a></p>
-				<p>
-      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 1875</span>
-						<span>🔱 470</span>
-					</div>
-				<div class="stars-today">⭐ 211 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/ComfyUI-LTXVideo" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      ComfyUI-LTXVideo</a></p>
-				<p>
-      LTX-Video Support for ComfyUI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1572</span>
-						<span>🔱 127</span>
-					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	
@@ -292,10 +72,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1778</span>
-						<span>🔱 124</span>
+						<span>⭐ 1802</span>
+						<span>🔱 126</span>
 					</div>
 				<div class="stars-today">⭐ 203 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 319479</span>
+						<span>🔱 41356</span>
+					</div>
+				<div class="stars-today">⭐ 382 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lobehub/lobe-chat" target="_blank">
+    
+
+
+      
+        lobehub /
+
+      lobe-chat</a></p>
+				<p>
+      🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 60382</span>
+						<span>🔱 12707</span>
+					</div>
+				<div class="stars-today">⭐ 57 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/ComfyUI-LTXVideo" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      ComfyUI-LTXVideo</a></p>
+				<p>
+      LTX-Video Support for ComfyUI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1580</span>
+						<span>🔱 128</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 93226</span>
+						<span>🔱 3477</span>
+					</div>
+				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop</a></p>
+				<p>
+      A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13440</span>
+						<span>🔱 1088</span>
+					</div>
+				<div class="stars-today">⭐ 81 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Mail-0/Zero" target="_blank">
+    
+
+
+      
+        Mail-0 /
+
+      Zero</a></p>
+				<p>
+      Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7085</span>
+						<span>🔱 584</span>
+					</div>
+				<div class="stars-today">⭐ 320 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
+    
+
+
+      
+        panaversity /
+
+      learn-agentic-ai</a></p>
+				<p>
+      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 1892</span>
+						<span>🔱 471</span>
+					</div>
+				<div class="stars-today">⭐ 211 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Akkudoktor-EOS/EOS" target="_blank">
+    
+
+
+      
+        Akkudoktor-EOS /
+
+      EOS</a></p>
+				<p>
+      This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1148</span>
+						<span>🔱 92</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
+    
+
+
+      
+        ahmedkhaleel2004 /
+
+      gitdiagram</a></p>
+				<p>
+      Free, simple, fast interactive diagrams for any GitHub repository
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11549</span>
+						<span>🔱 807</span>
+					</div>
+				<div class="stars-today">⭐ 298 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/comet-ml/opik" target="_blank">
+    
+
+
+      
+        comet-ml /
+
+      opik</a></p>
+				<p>
+      Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7532</span>
+						<span>🔱 521</span>
+					</div>
+				<div class="stars-today">⭐ 100 stars today</div>
 				</div>
 			</div>
 	
