@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-13T09:58:47Z
+date: 2025-05-13T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66598</span>
+						<span>⭐ 66611</span>
 						<span>🔱 9275</span>
 					</div>
 				<div class="stars-today">⭐ 16807 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7084</span>
-						<span>🔱 833</span>
+						<span>⭐ 7095</span>
+						<span>🔱 837</span>
 					</div>
 				<div class="stars-today">⭐ 4710 stars this month</div>
 				</div>
@@ -82,50 +82,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25218</span>
-						<span>🔱 3146</span>
-					</div>
-				<div class="stars-today">⭐ 14509 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
-    
-
-
-      
-        jlowin /
-
-      fastmcp</a></p>
-				<p>
-      🚀 The fast, Pythonic way to build MCP servers and clients
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9612</span>
-						<span>🔱 523</span>
-					</div>
-				<div class="stars-today">⭐ 5182 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
@@ -140,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8633</span>
+						<span>⭐ 8639</span>
 						<span>🔱 584</span>
 					</div>
 				<div class="stars-today">⭐ 4969 stars this month</div>
@@ -162,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56764</span>
-						<span>🔱 2891</span>
+						<span>⭐ 56770</span>
+						<span>🔱 2892</span>
 					</div>
 				<div class="stars-today">⭐ 8649 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 92114</span>
-						<span>🔱 25362</span>
-					</div>
-				<div class="stars-today">⭐ 12783 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3</a></p>
-				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 20884</span>
-						<span>🔱 1376</span>
-					</div>
-				<div class="stars-today">⭐ 4336 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 320021</span>
+						<span>⭐ 320059</span>
 						<span>🔱 41395</span>
 					</div>
 				<div class="stars-today">⭐ 6477 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
+    
+
+
+      
+        jlowin /
+
+      fastmcp</a></p>
+				<p>
+      🚀 The fast, Pythonic way to build MCP servers and clients
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9617</span>
+						<span>🔱 523</span>
+					</div>
+				<div class="stars-today">⭐ 5182 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 20887</span>
+						<span>🔱 1376</span>
+					</div>
+				<div class="stars-today">⭐ 4336 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4694</span>
+						<span>⭐ 4695</span>
 						<span>🔱 456</span>
 					</div>
 				<div class="stars-today">⭐ 2514 stars this month</div>
@@ -258,24 +214,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/krillinai/KrillinAI" target="_blank">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
     
 
 
       
-        krillinai /
+        yeongpin /
 
-      KrillinAI</a></p>
+      cursor-free-vip</a></p>
 				<p>
-       A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7073</span>
-						<span>🔱 520</span>
+						<span>🔠 Python</span>
+						<span>⭐ 25237</span>
+						<span>🔱 3149</span>
 					</div>
-				<div class="stars-today">⭐ 4348 stars this month</div>
+				<div class="stars-today">⭐ 14509 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 92155</span>
+						<span>🔱 25368</span>
+					</div>
+				<div class="stars-today">⭐ 12783 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36173</span>
+						<span>⭐ 36175</span>
 						<span>🔱 1131</span>
 					</div>
 				<div class="stars-today">⭐ 1202 stars this month</div>
@@ -302,24 +280,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Zackriya-Solutions/meeting-minutes" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
     
 
 
       
-        Zackriya-Solutions /
+        bytedance /
 
-      meeting-minutes</a></p>
-				<p>
-      A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
-    </p>
+      UI-TARS</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 5800</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5868</span>
 						<span>🔱 384</span>
 					</div>
-				<div class="stars-today">⭐ 3967 stars this month</div>
+				<div class="stars-today">⭐ 2012 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29985</span>
+						<span>⭐ 29991</span>
 						<span>🔱 2103</span>
 					</div>
 				<div class="stars-today">⭐ 3247 stars this month</div>
@@ -346,24 +322,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
+				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
     
 
 
       
-        trycua /
+        Byaidu /
 
-      cua</a></p>
+      PDFMathTranslate</a></p>
 				<p>
-      c/ua is the Docker Container for Computer-Use AI Agents.
+      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6257</span>
-						<span>🔱 248</span>
+						<span>⭐ 23325</span>
+						<span>🔱 2004</span>
 					</div>
-				<div class="stars-today">⭐ 2303 stars this month</div>
+				<div class="stars-today">⭐ 3227 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32048</span>
+						<span>🔱 4520</span>
+					</div>
+				<div class="stars-today">⭐ 6073 stars this month</div>
 				</div>
 			</div>
 	

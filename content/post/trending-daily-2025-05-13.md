@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-13
-date: 2025-05-13T09:58:47Z
+date: 2025-05-13T11:58:46Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xming521/WeClone" target="_blank">
+    
+
+
+      
+        xming521 /
+
+      WeClone</a></p>
+				<p>
+      欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4917</span>
+						<span>🔱 382</span>
+					</div>
+				<div class="stars-today">⭐ 970 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31975</span>
-						<span>🔱 4510</span>
+						<span>⭐ 32048</span>
+						<span>🔱 4520</span>
 					</div>
 				<div class="stars-today">⭐ 1456 stars today</div>
 				</div>
@@ -50,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 328</span>
+						<span>⭐ 329</span>
 						<span>🔱 248</span>
 					</div>
 				<div class="stars-today">⭐ 19 stars today</div>
@@ -58,68 +80,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
     
 
 
       
-        Blaizzy /
+        alibaba /
 
-      mlx-audio</a></p>
+      spring-ai-alibaba</a></p>
 				<p>
-      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+      Agentic AI Framework for Java Developers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2030</span>
-						<span>🔱 136</span>
+						<span>🔠 Java</span>
+						<span>⭐ 2856</span>
+						<span>🔱 566</span>
 					</div>
-				<div class="stars-today">⭐ 240 stars today</div>
+				<div class="stars-today">⭐ 138 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
     
 
 
       
-        kamranahmedse /
+        mlabonne /
 
-      developer-roadmap</a></p>
+      llm-course</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 320021</span>
-						<span>🔱 41395</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 50456</span>
+						<span>🔱 5436</span>
 					</div>
-				<div class="stars-today">⭐ 511 stars today</div>
+				<div class="stars-today">⭐ 153 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lobehub/lobe-chat" target="_blank">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
     
 
 
       
-        lobehub /
+        microsoft /
 
-      lobe-chat</a></p>
+      BitNet</a></p>
 				<p>
-      🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 60668</span>
-						<span>🔱 12737</span>
+						<span>🔠 C++</span>
+						<span>⭐ 18871</span>
+						<span>🔱 1384</span>
 					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
+				<div class="stars-today">⭐ 428 stars today</div>
 				</div>
 			</div>
 	
@@ -138,142 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1679</span>
+						<span>⭐ 1686</span>
 						<span>🔱 134</span>
 					</div>
 				<div class="stars-today">⭐ 140 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 93548</span>
-						<span>🔱 3497</span>
-					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13711</span>
-						<span>🔱 1104</span>
-					</div>
-				<div class="stars-today">⭐ 92 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Mail-0/Zero" target="_blank">
-    
-
-
-      
-        Mail-0 /
-
-      Zero</a></p>
-				<p>
-      Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7331</span>
-						<span>🔱 600</span>
-					</div>
-				<div class="stars-today">⭐ 389 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
-    
-
-
-      
-        panaversity /
-
-      learn-agentic-ai</a></p>
-				<p>
-      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2076</span>
-						<span>🔱 491</span>
-					</div>
-				<div class="stars-today">⭐ 260 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Akkudoktor-EOS/EOS" target="_blank">
-    
-
-
-      
-        Akkudoktor-EOS /
-
-      EOS</a></p>
-				<p>
-      This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1248</span>
-						<span>🔱 97</span>
-					</div>
-				<div class="stars-today">⭐ 20 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ahmedkhaleel2004/gitdiagram" target="_blank">
-    
-
-
-      
-        ahmedkhaleel2004 /
-
-      gitdiagram</a></p>
-				<p>
-      Free, simple, fast interactive diagrams for any GitHub repository
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11870</span>
-						<span>🔱 834</span>
-					</div>
-				<div class="stars-today">⭐ 293 stars today</div>
 				</div>
 			</div>
 	
@@ -292,10 +182,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7767</span>
+						<span>⭐ 7787</span>
 						<span>🔱 532</span>
 					</div>
 				<div class="stars-today">⭐ 116 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26395</span>
+						<span>🔱 2539</span>
+					</div>
+				<div class="stars-today">⭐ 48 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 320059</span>
+						<span>🔱 41395</span>
+					</div>
+				<div class="stars-today">⭐ 511 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvim-lua/kickstart.nvim" target="_blank">
+    
+
+
+      
+        nvim-lua /
+
+      kickstart.nvim</a></p>
+				<p>
+      A launch point for your personal nvim configuration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 24510</span>
+						<span>🔱 33509</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5191</span>
+						<span>🔱 413</span>
+					</div>
+				<div class="stars-today">⭐ 332 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pytorch/torchtitan" target="_blank">
+    
+
+
+      
+        pytorch /
+
+      torchtitan</a></p>
+				<p>
+      A PyTorch native library for large-scale model training
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3692</span>
+						<span>🔱 359</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	

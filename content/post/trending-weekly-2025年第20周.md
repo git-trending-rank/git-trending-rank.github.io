@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第20周
-date: 2025-05-13T09:58:47Z
+date: 2025-05-13T11:58:46Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32048</span>
+						<span>🔱 4520</span>
+					</div>
+				<div class="stars-today">⭐ 4245 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
@@ -30,10 +52,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4880</span>
-						<span>🔱 349</span>
+						<span>⭐ 4889</span>
+						<span>🔱 351</span>
 					</div>
 				<div class="stars-today">⭐ 4181 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18227</span>
+						<span>🔱 1078</span>
+					</div>
+				<div class="stars-today">⭐ 5552 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,30 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 42042</span>
-						<span>🔱 1748</span>
+						<span>⭐ 42057</span>
+						<span>🔱 1749</span>
 					</div>
 				<div class="stars-today">⭐ 3399 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18202</span>
-						<span>🔱 1075</span>
-					</div>
-				<div class="stars-today">⭐ 5552 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,32 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5179</span>
+						<span>⭐ 5191</span>
 						<span>🔱 413</span>
 					</div>
 				<div class="stars-today">⭐ 1512 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 66598</span>
-						<span>🔱 9275</span>
-					</div>
-				<div class="stars-today">⭐ 4598 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 59470</span>
-						<span>🔱 4174</span>
+						<span>⭐ 59481</span>
+						<span>🔱 4175</span>
 					</div>
 				<div class="stars-today">⭐ 1487 stars this week</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3765</span>
-						<span>🔱 266</span>
+						<span>⭐ 3768</span>
+						<span>🔱 265</span>
 					</div>
 				<div class="stars-today">⭐ 1337 stars this week</div>
 				</div>
@@ -182,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 61916</span>
-						<span>🔱 3336</span>
+						<span>⭐ 61950</span>
+						<span>🔱 3337</span>
 					</div>
 				<div class="stars-today">⭐ 5071 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 66611</span>
+						<span>🔱 9275</span>
+					</div>
+				<div class="stars-today">⭐ 4598 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8475</span>
+						<span>⭐ 8479</span>
 						<span>🔱 710</span>
 					</div>
 				<div class="stars-today">⭐ 564 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+    
+
+
+      
+        LazyVim /
+
+      LazyVim</a></p>
+				<p>
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 20725</span>
+						<span>🔱 1466</span>
+					</div>
+				<div class="stars-today">⭐ 357 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 50456</span>
+						<span>🔱 5436</span>
+					</div>
+				<div class="stars-today">⭐ 397 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14318</span>
+						<span>⭐ 14319</span>
 						<span>🔱 2854</span>
 					</div>
 				<div class="stars-today">⭐ 503 stars this week</div>
@@ -234,68 +300,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/glanceapp/glance" target="_blank">
+				<p><a href="https://github.com/gosom/google-maps-scraper" target="_blank">
     
 
 
       
-        glanceapp /
+        gosom /
 
-      glance</a></p>
+      google-maps-scraper</a></p>
 				<p>
-      A self-hosted dashboard that puts all your feeds in one place
+      scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 24136</span>
-						<span>🔱 911</span>
+						<span>⭐ 1918</span>
+						<span>🔱 222</span>
 					</div>
-				<div class="stars-today">⭐ 927 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iperov/DeepFaceLab" target="_blank">
-    
-
-
-      
-        iperov /
-
-      DeepFaceLab</a></p>
-				<p>
-      DeepFaceLab is the leading software for creating deepfakes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17911</span>
-						<span>🔱 458</span>
-					</div>
-				<div class="stars-today">⭐ 283 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
-    
-
-
-      
-        CapSoftware /
-
-      Cap</a></p>
-				<p>
-      Open source Loom alternative. Beautiful, shareable screen recordings.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9546</span>
-						<span>🔱 518</span>
-					</div>
-				<div class="stars-today">⭐ 1334 stars this week</div>
+				<div class="stars-today">⭐ 372 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,98 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17383</span>
+						<span>⭐ 17388</span>
 						<span>🔱 2653</span>
 					</div>
 				<div class="stars-today">⭐ 296 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
-    
-
-
-      
-        commaai /
-
-      openpilot</a></p>
-				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53792</span>
-						<span>🔱 9730</span>
-					</div>
-				<div class="stars-today">⭐ 429 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/core" target="_blank">
-    
-
-
-      
-        home-assistant /
-
-      core</a></p>
-				<p>
-      🏡 Open source home automation that puts local control and privacy first.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 78973</span>
-						<span>🔱 33634</span>
-					</div>
-				<div class="stars-today">⭐ 487 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31975</span>
-						<span>🔱 4510</span>
-					</div>
-				<div class="stars-today">⭐ 4245 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">
-    
-
-
-      
-        521xueweihan /
-
-      HelloGitHub</a></p>
-				<p>
-       分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 109029</span>
-						<span>🔱 10077</span>
-					</div>
-				<div class="stars-today">⭐ 4823 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,10 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 16212</span>
+						<span>⭐ 16213</span>
 						<span>🔱 1286</span>
 					</div>
 				<div class="stars-today">⭐ 210 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xming521/WeClone" target="_blank">
+    
+
+
+      
+        xming521 /
+
+      WeClone</a></p>
+				<p>
+      欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4917</span>
+						<span>🔱 382</span>
+					</div>
+				<div class="stars-today">⭐ 1816 stars this week</div>
 				</div>
 			</div>
 	
@@ -446,10 +402,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2030</span>
-						<span>🔱 136</span>
+						<span>⭐ 2041</span>
+						<span>🔱 137</span>
 					</div>
 				<div class="stars-today">⭐ 1113 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/521xueweihan/HelloGitHub" target="_blank">
+    
+
+
+      
+        521xueweihan /
+
+      HelloGitHub</a></p>
+				<p>
+       分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 109073</span>
+						<span>🔱 10079</span>
+					</div>
+				<div class="stars-today">⭐ 4823 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/ComfyUI-LTXVideo" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      ComfyUI-LTXVideo</a></p>
+				<p>
+      LTX-Video Support for ComfyUI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1686</span>
+						<span>🔱 134</span>
+					</div>
+				<div class="stars-today">⭐ 503 stars this week</div>
 				</div>
 			</div>
 	
