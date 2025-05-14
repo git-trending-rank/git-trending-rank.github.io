@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第20周
-date: 2025-05-13T23:58:33Z
+date: 2025-05-14T03:04:10Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32219</span>
-						<span>🔱 4542</span>
+						<span>⭐ 32317</span>
+						<span>🔱 4551</span>
 					</div>
-				<div class="stars-today">⭐ 4245 stars this week</div>
+				<div class="stars-today">⭐ 5429 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4951</span>
-						<span>🔱 360</span>
+						<span>⭐ 4964</span>
+						<span>🔱 367</span>
 					</div>
-				<div class="stars-today">⭐ 4181 stars this week</div>
+				<div class="stars-today">⭐ 3739 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,10 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18536</span>
-						<span>🔱 1096</span>
+						<span>⭐ 18628</span>
+						<span>🔱 1103</span>
 					</div>
-				<div class="stars-today">⭐ 5552 stars this week</div>
+				<div class="stars-today">⭐ 5950 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,10 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 42116</span>
-						<span>🔱 1751</span>
+						<span>⭐ 42128</span>
+						<span>🔱 1752</span>
 					</div>
-				<div class="stars-today">⭐ 3399 stars this week</div>
+				<div class="stars-today">⭐ 2938 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,10 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5294</span>
+						<span>⭐ 5321</span>
 						<span>🔱 416</span>
 					</div>
-				<div class="stars-today">⭐ 1512 stars this week</div>
+				<div class="stars-today">⭐ 1622 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,10 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 59561</span>
-						<span>🔱 4185</span>
+						<span>⭐ 59575</span>
+						<span>🔱 4189</span>
 					</div>
-				<div class="stars-today">⭐ 1487 stars this week</div>
+				<div class="stars-today">⭐ 1561 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,10 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3839</span>
-						<span>🔱 271</span>
+						<span>⭐ 3856</span>
+						<span>🔱 272</span>
 					</div>
-				<div class="stars-today">⭐ 1337 stars this week</div>
+				<div class="stars-today">⭐ 1385 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,10 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 62064</span>
+						<span>⭐ 62100</span>
 						<span>🔱 3340</span>
 					</div>
-				<div class="stars-today">⭐ 5071 stars this week</div>
+				<div class="stars-today">⭐ 4430 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66735</span>
-						<span>🔱 9310</span>
+						<span>⭐ 66764</span>
+						<span>🔱 9318</span>
 					</div>
-				<div class="stars-today">⭐ 4598 stars this week</div>
+				<div class="stars-today">⭐ 2943 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,10 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8500</span>
+						<span>⭐ 8509</span>
 						<span>🔱 711</span>
 					</div>
-				<div class="stars-today">⭐ 564 stars this week</div>
+				<div class="stars-today">⭐ 559 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,10 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 20750</span>
-						<span>🔱 1467</span>
+						<span>⭐ 20756</span>
+						<span>🔱 1468</span>
 					</div>
-				<div class="stars-today">⭐ 357 stars this week</div>
+				<div class="stars-today">⭐ 362 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 50659</span>
-						<span>🔱 5450</span>
+						<span>⭐ 50736</span>
+						<span>🔱 5456</span>
 					</div>
-				<div class="stars-today">⭐ 397 stars this week</div>
+				<div class="stars-today">⭐ 527 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14336</span>
-						<span>🔱 2857</span>
+						<span>⭐ 14344</span>
+						<span>🔱 2858</span>
 					</div>
-				<div class="stars-today">⭐ 503 stars this week</div>
+				<div class="stars-today">⭐ 510 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1969</span>
-						<span>🔱 223</span>
+						<span>⭐ 1982</span>
+						<span>🔱 224</span>
 					</div>
-				<div class="stars-today">⭐ 372 stars this week</div>
+				<div class="stars-today">⭐ 225 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17421</span>
-						<span>🔱 2653</span>
+						<span>⭐ 17427</span>
+						<span>🔱 2654</span>
 					</div>
-				<div class="stars-today">⭐ 296 stars this week</div>
+				<div class="stars-today">⭐ 364 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,10 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 16225</span>
+						<span>⭐ 16226</span>
 						<span>🔱 1286</span>
 					</div>
-				<div class="stars-today">⭐ 210 stars this week</div>
+				<div class="stars-today">⭐ 136 stars this week</div>
 				</div>
 			</div>
 	
@@ -375,15 +375,15 @@ keywords:
 
       WeClone</a></p>
 				<p>
-      🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+      🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5516</span>
-						<span>🔱 423</span>
+						<span>⭐ 6005</span>
+						<span>🔱 465</span>
 					</div>
-				<div class="stars-today">⭐ 1816 stars this week</div>
+				<div class="stars-today">⭐ 2126 stars this week</div>
 				</div>
 			</div>
 	
@@ -402,10 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2065</span>
-						<span>🔱 139</span>
+						<span>⭐ 2072</span>
+						<span>🔱 140</span>
 					</div>
-				<div class="stars-today">⭐ 1113 stars this week</div>
+				<div class="stars-today">⭐ 1324 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,10 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 109209</span>
-						<span>🔱 10081</span>
+						<span>⭐ 109263</span>
+						<span>🔱 10086</span>
 					</div>
-				<div class="stars-today">⭐ 4823 stars this week</div>
+				<div class="stars-today">⭐ 4335 stars this week</div>
 				</div>
 			</div>
 	
@@ -446,10 +446,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1731</span>
+						<span>⭐ 1740</span>
 						<span>🔱 139</span>
 					</div>
-				<div class="stars-today">⭐ 503 stars this week</div>
+				<div class="stars-today">⭐ 602 stars this week</div>
 				</div>
 			</div>
 	
