@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第20周
-date: 2025-05-15T09:58:36Z
+date: 2025-05-15T11:58:35Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32917</span>
-						<span>🔱 4627</span>
+						<span>⭐ 32944</span>
+						<span>🔱 4630</span>
 					</div>
 				<div class="stars-today">⭐ 5740 stars this week</div>
 				</div>
@@ -50,186 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19304</span>
-						<span>🔱 1157</span>
+						<span>⭐ 19342</span>
+						<span>🔱 1162</span>
 					</div>
 				<div class="stars-today">⭐ 6443 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      kubectl-ai</a></p>
-				<p>
-      AI powered Kubernetes Assistant
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5106</span>
-						<span>🔱 389</span>
-					</div>
-				<div class="stars-today">⭐ 2368 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5535</span>
-						<span>🔱 427</span>
-					</div>
-				<div class="stars-today">⭐ 1645 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
-    
-
-
-      
-        Blaizzy /
-
-      mlx-audio</a></p>
-				<p>
-      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2122</span>
-						<span>🔱 141</span>
-					</div>
-				<div class="stars-today">⭐ 1233 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 42245</span>
-						<span>🔱 1762</span>
-					</div>
-				<div class="stars-today">⭐ 1964 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3989</span>
-						<span>🔱 280</span>
-					</div>
-				<div class="stars-today">⭐ 1242 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zed-industries/zed" target="_blank">
-    
-
-
-      
-        zed-industries /
-
-      zed</a></p>
-				<p>
-      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 59701</span>
-						<span>🔱 4204</span>
-					</div>
-				<div class="stars-today">⭐ 1595 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
-    
-
-
-      
-        ruanyf /
-
-      weekly</a></p>
-				<p>
-      科技爱好者周刊，每周五发布
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 62451</span>
-						<span>🔱 3348</span>
-					</div>
-				<div class="stars-today">⭐ 3488 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 24022</span>
-						<span>🔱 2608</span>
-					</div>
-				<div class="stars-today">⭐ 101 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,32 +72,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7950</span>
-						<span>🔱 627</span>
+						<span>⭐ 8004</span>
+						<span>🔱 633</span>
 					</div>
 				<div class="stars-today">⭐ 4047 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
     
 
 
       
-        LazyVim /
+        mem0ai /
 
-      LazyVim</a></p>
+      mem0</a></p>
 				<p>
-      Neovim config for the lazy
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 20803</span>
-						<span>🔱 1472</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30180</span>
+						<span>🔱 2909</span>
 					</div>
-				<div class="stars-today">⭐ 383 stars this week</div>
+				<div class="stars-today">⭐ 832 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
+    
+
+
+      
+        longbridge /
+
+      gpui-component</a></p>
+				<p>
+      UI components for building fantastic desktop application by using GPUI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2699</span>
+						<span>🔱 121</span>
+					</div>
+				<div class="stars-today">⭐ 1444 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5544</span>
+						<span>🔱 427</span>
+					</div>
+				<div class="stars-today">⭐ 1645 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zed-industries/zed" target="_blank">
+    
+
+
+      
+        zed-industries /
+
+      zed</a></p>
+				<p>
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 59713</span>
+						<span>🔱 4206</span>
+					</div>
+				<div class="stars-today">⭐ 1595 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 3131</span>
+						<span>⭐ 3138</span>
 						<span>🔱 599</span>
 					</div>
 				<div class="stars-today">⭐ 388 stars this week</div>
@@ -300,68 +190,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
     
 
 
       
-        QwenLM /
+        GoogleCloudPlatform /
 
-      Qwen-Agent</a></p>
+      kubectl-ai</a></p>
 				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+      AI powered Kubernetes Assistant
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8589</span>
-						<span>🔱 714</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5115</span>
+						<span>🔱 390</span>
 					</div>
-				<div class="stars-today">⭐ 483 stars this week</div>
+				<div class="stars-today">⭐ 2368 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/NeMo" target="_blank">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
     
 
 
       
-        NVIDIA /
+        MODSetter /
 
-      NeMo</a></p>
+      SurfSense</a></p>
 				<p>
-      A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14395</span>
-						<span>🔱 2863</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4007</span>
+						<span>🔱 281</span>
 					</div>
-				<div class="stars-today">⭐ 508 stars this week</div>
+				<div class="stars-today">⭐ 1242 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ranaroussi/yfinance" target="_blank">
+				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
     
 
 
       
-        ranaroussi /
+        ruanyf /
 
-      yfinance</a></p>
+      weekly</a></p>
 				<p>
-      Download market data from Yahoo! Finance's API
+      科技爱好者周刊，每周五发布
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17493</span>
-						<span>🔱 2656</span>
+						<span>🔠 </span>
+						<span>⭐ 62473</span>
+						<span>🔱 3348</span>
 					</div>
-				<div class="stars-today">⭐ 376 stars this week</div>
+				<div class="stars-today">⭐ 3488 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+    
+
+
+      
+        LazyVim /
+
+      LazyVim</a></p>
+				<p>
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 20805</span>
+						<span>🔱 1472</span>
+					</div>
+				<div class="stars-today">⭐ 383 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51224</span>
+						<span>⭐ 51244</span>
 						<span>🔱 5493</span>
 					</div>
 				<div class="stars-today">⭐ 950 stars this week</div>
@@ -388,24 +300,156 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+				<p><a href="https://github.com/JetBrains/compose-multiplatform" target="_blank">
     
 
 
       
-        iptv-org /
+        JetBrains /
 
-      iptv</a></p>
+      compose-multiplatform</a></p>
 				<p>
-      Collection of publicly available IPTV channels from all over the world
+      Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 93682</span>
-						<span>🔱 3502</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 17490</span>
+						<span>🔱 1252</span>
 					</div>
-				<div class="stars-today">⭐ 604 stars this week</div>
+				<div class="stars-today">⭐ 219 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 42255</span>
+						<span>🔱 1762</span>
+					</div>
+				<div class="stars-today">⭐ 1964 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/NeMo" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      NeMo</a></p>
+				<p>
+      A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14399</span>
+						<span>🔱 2864</span>
+					</div>
+				<div class="stars-today">⭐ 508 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modular/modular" target="_blank">
+    
+
+
+      
+        modular /
+
+      modular</a></p>
+				<p>
+      The Modular Platform (includes MAX & Mojo)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Mojo</span>
+						<span>⭐ 24023</span>
+						<span>🔱 2608</span>
+					</div>
+				<div class="stars-today">⭐ 101 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/awslabs/agent-squad" target="_blank">
+    
+
+
+      
+        awslabs /
+
+      agent-squad</a></p>
+				<p>
+      Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5643</span>
+						<span>🔱 475</span>
+					</div>
+				<div class="stars-today">⭐ 413 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/comet-ml/opik" target="_blank">
+    
+
+
+      
+        comet-ml /
+
+      opik</a></p>
+				<p>
+      Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8067</span>
+						<span>🔱 541</span>
+					</div>
+				<div class="stars-today">⭐ 723 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent</a></p>
+				<p>
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8593</span>
+						<span>🔱 714</span>
+					</div>
+				<div class="stars-today">⭐ 483 stars this week</div>
 				</div>
 			</div>
 	

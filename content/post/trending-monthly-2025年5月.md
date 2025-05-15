@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-15T09:58:36Z
+date: 2025-05-15T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67070</span>
-						<span>🔱 9374</span>
+						<span>⭐ 67103</span>
+						<span>🔱 9384</span>
 					</div>
 				<div class="stars-today">⭐ 17163 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 84483</span>
+						<span>🔱 9935</span>
+					</div>
+				<div class="stars-today">⭐ 14126 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7363</span>
-						<span>🔱 877</span>
+						<span>⭐ 7376</span>
+						<span>🔱 879</span>
 					</div>
 				<div class="stars-today">⭐ 4989 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CVEProject/cvelistV5" target="_blank">
-    
-
-
-      
-        CVEProject /
-
-      cvelistV5</a></p>
-				<p>
-      CVE cache of the official CVE List in CVE JSON 5 format
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 2050</span>
-						<span>🔱 457</span>
-					</div>
-				<div class="stars-today">⭐ 1071 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32917</span>
-						<span>🔱 4627</span>
+						<span>⭐ 32944</span>
+						<span>🔱 4630</span>
 					</div>
 				<div class="stars-today">⭐ 6617 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 320739</span>
-						<span>🔱 41452</span>
-					</div>
-				<div class="stars-today">⭐ 7347 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8906</span>
+						<span>⭐ 8911</span>
 						<span>🔱 612</span>
 					</div>
 				<div class="stars-today">⭐ 5060 stars this month</div>
@@ -148,24 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
     
 
 
       
-        microsoft /
+        kamranahmedse /
 
-      markitdown</a></p>
+      developer-roadmap</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57111</span>
-						<span>🔱 2913</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 320760</span>
+						<span>🔱 41454</span>
 					</div>
-				<div class="stars-today">⭐ 8426 stars this month</div>
+				<div class="stars-today">⭐ 7347 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21123</span>
+						<span>⭐ 21130</span>
 						<span>🔱 1391</span>
 					</div>
 				<div class="stars-today">⭐ 4508 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57119</span>
+						<span>🔱 2915</span>
+					</div>
+				<div class="stars-today">⭐ 8426 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4805</span>
+						<span>⭐ 4809</span>
 						<span>🔱 465</span>
 					</div>
 				<div class="stars-today">⭐ 2499 stars this month</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9841</span>
+						<span>⭐ 9850</span>
 						<span>🔱 536</span>
 					</div>
 				<div class="stars-today">⭐ 5111 stars this month</div>
@@ -248,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5941</span>
+						<span>⭐ 5944</span>
 						<span>🔱 388</span>
 					</div>
 				<div class="stars-today">⭐ 2017 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36214</span>
-						<span>🔱 1129</span>
-					</div>
-				<div class="stars-today">⭐ 1231 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 93681</span>
-						<span>🔱 25656</span>
+						<span>⭐ 93729</span>
+						<span>🔱 25668</span>
 					</div>
 				<div class="stars-today">⭐ 12684 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30075</span>
-						<span>🔱 2108</span>
-					</div>
-				<div class="stars-today">⭐ 3274 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,54 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23497</span>
-						<span>🔱 2013</span>
+						<span>⭐ 23502</span>
+						<span>🔱 2014</span>
 					</div>
 				<div class="stars-today">⭐ 3306 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
     
 
 
       
-        trycua /
+        drawdb-io /
 
-      cua</a></p>
+      drawdb</a></p>
 				<p>
-      c/ua is the Docker Container for Computer-Use AI Agents.
+      Free, simple, and intuitive online database diagram editor and SQL generator.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6533</span>
-						<span>🔱 262</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30078</span>
+						<span>🔱 2108</span>
 					</div>
-				<div class="stars-today">⭐ 2307 stars this month</div>
+				<div class="stars-today">⭐ 3274 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elie222/inbox-zero" target="_blank">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
     
 
 
       
-        elie222 /
+        lapce /
 
-      inbox-zero</a></p>
+      lapce</a></p>
 				<p>
-      The world's best AI personal assistant for email. Open source app to help you reach inbox zero fast.
+      Lightning-fast and Powerful Code Editor written in Rust
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7638</span>
-						<span>🔱 780</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 36215</span>
+						<span>🔱 1129</span>
 					</div>
-				<div class="stars-today">⭐ 2112 stars this month</div>
+				<div class="stars-today">⭐ 1231 stars this month</div>
 				</div>
 			</div>
 	
