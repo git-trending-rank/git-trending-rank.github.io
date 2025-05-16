@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-16T09:58:51Z
+date: 2025-05-16T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67390</span>
-						<span>🔱 9440</span>
+						<span>⭐ 67406</span>
+						<span>🔱 9448</span>
 					</div>
 				<div class="stars-today">⭐ 17387 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 84624</span>
-						<span>🔱 9942</span>
-					</div>
-				<div class="stars-today">⭐ 13745 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7497</span>
+						<span>⭐ 7505</span>
 						<span>🔱 907</span>
 					</div>
 				<div class="stars-today">⭐ 5103 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xming521/WeClone" target="_blank">
+    
+
+
+      
+        xming521 /
+
+      WeClone</a></p>
+				<p>
+      🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9355</span>
+						<span>🔱 728</span>
+					</div>
+				<div class="stars-today">⭐ 6437 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 84629</span>
+						<span>🔱 9942</span>
+					</div>
+				<div class="stars-today">⭐ 13745 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33186</span>
-						<span>🔱 4667</span>
+						<span>⭐ 33200</span>
+						<span>🔱 4666</span>
 					</div>
 				<div class="stars-today">⭐ 6983 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 21194</span>
+						<span>🔱 1395</span>
+					</div>
+				<div class="stars-today">⭐ 4597 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9019</span>
-						<span>🔱 620</span>
+						<span>⭐ 9025</span>
+						<span>🔱 621</span>
 					</div>
 				<div class="stars-today">⭐ 5180 stars this month</div>
 				</div>
@@ -140,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 320931</span>
-						<span>🔱 41473</span>
+						<span>⭐ 320948</span>
+						<span>🔱 41474</span>
 					</div>
 				<div class="stars-today">⭐ 7548 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3</a></p>
-				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 21190</span>
-						<span>🔱 1395</span>
-					</div>
-				<div class="stars-today">⭐ 4597 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57228</span>
+						<span>⭐ 57236</span>
 						<span>🔱 2922</span>
 					</div>
 				<div class="stars-today">⭐ 8393 stars this month</div>
@@ -206,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4853</span>
+						<span>⭐ 4858</span>
 						<span>🔱 468</span>
 					</div>
 				<div class="stars-today">⭐ 2546 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 94308</span>
+						<span>🔱 25842</span>
+					</div>
+				<div class="stars-today">⭐ 12876 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9953</span>
+						<span>⭐ 9964</span>
 						<span>🔱 548</span>
 					</div>
 				<div class="stars-today">⭐ 5013 stars this month</div>
@@ -248,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5970</span>
+						<span>⭐ 5974</span>
 						<span>🔱 389</span>
 					</div>
 				<div class="stars-today">⭐ 2036 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 94265</span>
-						<span>🔱 25827</span>
-					</div>
-				<div class="stars-today">⭐ 12876 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23582</span>
+						<span>⭐ 23587</span>
 						<span>🔱 2020</span>
 					</div>
 				<div class="stars-today">⭐ 3338 stars this month</div>
@@ -300,46 +322,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
     
 
 
       
-        drawdb-io /
+        mem0ai /
 
-      drawdb</a></p>
+      mem0</a></p>
 				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30115</span>
-						<span>🔱 2112</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30773</span>
+						<span>🔱 2967</span>
 					</div>
-				<div class="stars-today">⭐ 3228 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36237</span>
-						<span>🔱 1130</span>
-					</div>
-				<div class="stars-today">⭐ 1249 stars this month</div>
+				<div class="stars-today">⭐ 2837 stars this month</div>
 				</div>
 			</div>
 	

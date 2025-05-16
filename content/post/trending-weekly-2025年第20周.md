@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第20周
-date: 2025-05-16T09:58:51Z
+date: 2025-05-16T11:58:52Z
 categories:
 - weekly
 keywords:
@@ -30,30 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33186</span>
-						<span>🔱 4667</span>
+						<span>⭐ 33200</span>
+						<span>🔱 4666</span>
 					</div>
 				<div class="stars-today">⭐ 5515 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19900</span>
-						<span>🔱 1210</span>
-					</div>
-				<div class="stars-today">⭐ 6494 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,10 +52,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9277</span>
-						<span>🔱 723</span>
+						<span>⭐ 9355</span>
+						<span>🔱 728</span>
 					</div>
 				<div class="stars-today">⭐ 4998 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19935</span>
+						<span>🔱 1214</span>
+					</div>
+				<div class="stars-today">⭐ 6494 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,76 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30729</span>
-						<span>🔱 2962</span>
+						<span>⭐ 30773</span>
+						<span>🔱 2967</span>
 					</div>
 				<div class="stars-today">⭐ 1436 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
-    
-
-
-      
-        longbridge /
-
-      gpui-component</a></p>
-				<p>
-      UI components for building fantastic desktop application by using GPUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2761</span>
-						<span>🔱 121</span>
-					</div>
-				<div class="stars-today">⭐ 1433 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5610</span>
-						<span>🔱 432</span>
-					</div>
-				<div class="stars-today">⭐ 1584 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zed-industries/zed" target="_blank">
-    
-
-
-      
-        zed-industries /
-
-      zed</a></p>
-				<p>
-      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 59806</span>
-						<span>🔱 4222</span>
-					</div>
-				<div class="stars-today">⭐ 1426 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,32 +116,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 3250</span>
-						<span>🔱 607</span>
+						<span>⭐ 3256</span>
+						<span>🔱 608</span>
 					</div>
 				<div class="stars-today">⭐ 506 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
+				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
     
 
 
       
-        GoogleCloudPlatform /
+        Blaizzy /
 
-      kubectl-ai</a></p>
+      mlx-audio</a></p>
 				<p>
-      AI powered Kubernetes Assistant
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5174</span>
-						<span>🔱 396</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2135</span>
+						<span>🔱 143</span>
 					</div>
-				<div class="stars-today">⭐ 1233 stars this week</div>
+				<div class="stars-today">⭐ 1142 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5614</span>
+						<span>🔱 433</span>
+					</div>
+				<div class="stars-today">⭐ 1584 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
+    
+
+
+      
+        longbridge /
+
+      gpui-component</a></p>
+				<p>
+      UI components for building fantastic desktop application by using GPUI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2769</span>
+						<span>🔱 121</span>
+					</div>
+				<div class="stars-today">⭐ 1433 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zed-industries/zed" target="_blank">
+    
+
+
+      
+        zed-industries /
+
+      zed</a></p>
+				<p>
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 59814</span>
+						<span>🔱 4222</span>
+					</div>
+				<div class="stars-today">⭐ 1426 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 51549</span>
+						<span>🔱 5518</span>
+					</div>
+				<div class="stars-today">⭐ 1256 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4156</span>
+						<span>⭐ 4162</span>
 						<span>🔱 288</span>
 					</div>
 				<div class="stars-today">⭐ 1055 stars this week</div>
@@ -248,164 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 62690</span>
+						<span>⭐ 62708</span>
 						<span>🔱 3353</span>
 					</div>
 				<div class="stars-today">⭐ 2646 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
-    
-
-
-      
-        LazyVim /
-
-      LazyVim</a></p>
-				<p>
-      Neovim config for the lazy
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 20825</span>
-						<span>🔱 1471</span>
-					</div>
-				<div class="stars-today">⭐ 351 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51540</span>
-						<span>🔱 5514</span>
-					</div>
-				<div class="stars-today">⭐ 1256 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/compose-multiplatform" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      compose-multiplatform</a></p>
-				<p>
-      Compose Multiplatform, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 17527</span>
-						<span>🔱 1252</span>
-					</div>
-				<div class="stars-today">⭐ 107 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 42329</span>
-						<span>🔱 1766</span>
-					</div>
-				<div class="stars-today">⭐ 1109 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/NeMo" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      NeMo</a></p>
-				<p>
-      A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14422</span>
-						<span>🔱 2865</span>
-					</div>
-				<div class="stars-today">⭐ 496 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 24028</span>
-						<span>🔱 2608</span>
-					</div>
-				<div class="stars-today">⭐ 103 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/awslabs/agent-squad" target="_blank">
-    
-
-
-      
-        awslabs /
-
-      agent-squad</a></p>
-				<p>
-      Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5668</span>
-						<span>🔱 478</span>
-					</div>
-				<div class="stars-today">⭐ 347 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8127</span>
+						<span>⭐ 8132</span>
 						<span>🔱 544</span>
 					</div>
 				<div class="stars-today">⭐ 764 stars this week</div>
@@ -432,24 +300,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        QwenLM /
+        modular /
 
-      Qwen-Agent</a></p>
+      modular</a></p>
 				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8640</span>
-						<span>🔱 717</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 24029</span>
+						<span>🔱 2608</span>
 					</div>
-				<div class="stars-today">⭐ 461 stars this week</div>
+				<div class="stars-today">⭐ 103 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 320948</span>
+						<span>🔱 41474</span>
+					</div>
+				<div class="stars-today">⭐ 3034 stars this week</div>
 				</div>
 			</div>
 	
