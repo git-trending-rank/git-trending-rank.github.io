@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-17T09:58:57Z
+date: 2025-05-17T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67574</span>
-						<span>🔱 9480</span>
+						<span>⭐ 67591</span>
+						<span>🔱 9482</span>
 					</div>
 				<div class="stars-today">⭐ 17607 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7595</span>
-						<span>🔱 916</span>
+						<span>⭐ 7603</span>
+						<span>🔱 917</span>
 					</div>
 				<div class="stars-today">⭐ 5218 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9948</span>
-						<span>🔱 764</span>
+						<span>⭐ 9982</span>
+						<span>🔱 767</span>
 					</div>
 				<div class="stars-today">⭐ 7509 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 84731</span>
-						<span>🔱 9945</span>
-					</div>
-				<div class="stars-today">⭐ 12943 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33323</span>
-						<span>🔱 4687</span>
+						<span>⭐ 33339</span>
+						<span>🔱 4691</span>
 					</div>
 				<div class="stars-today">⭐ 7206 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 84737</span>
+						<span>🔱 9946</span>
+					</div>
+				<div class="stars-today">⭐ 12943 stars this month</div>
 				</div>
 			</div>
 	
@@ -141,7 +141,7 @@ keywords:
 					<div>
 						<span>🔠 Shell</span>
 						<span>⭐ 21239</span>
-						<span>🔱 1397</span>
+						<span>🔱 1398</span>
 					</div>
 				<div class="stars-today">⭐ 4635 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9075</span>
+						<span>⭐ 9078</span>
 						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 5251 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 321091</span>
-						<span>🔱 41495</span>
+						<span>⭐ 321104</span>
+						<span>🔱 41497</span>
 					</div>
 				<div class="stars-today">⭐ 7676 stars this month</div>
 				</div>
@@ -206,140 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57311</span>
-						<span>🔱 2928</span>
+						<span>⭐ 57322</span>
+						<span>🔱 2930</span>
 					</div>
 				<div class="stars-today">⭐ 8382 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4885</span>
-						<span>🔱 473</span>
-					</div>
-				<div class="stars-today">⭐ 2580 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      flowgram.ai</a></p>
-				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3105</span>
-						<span>🔱 223</span>
-					</div>
-				<div class="stars-today">⭐ 1965 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 94841</span>
-						<span>🔱 25973</span>
-					</div>
-				<div class="stars-today">⭐ 12915 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
-    
-
-
-      
-        jlowin /
-
-      fastmcp</a></p>
-				<p>
-      🚀 The fast, Pythonic way to build MCP servers and clients
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10046</span>
-						<span>🔱 549</span>
-					</div>
-				<div class="stars-today">⭐ 4956 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5996</span>
-						<span>🔱 391</span>
-					</div>
-				<div class="stars-today">⭐ 2048 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23643</span>
-						<span>🔱 2022</span>
-					</div>
-				<div class="stars-today">⭐ 3367 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +228,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31036</span>
-						<span>🔱 2998</span>
+						<span>⭐ 31048</span>
+						<span>🔱 3004</span>
 					</div>
 				<div class="stars-today">⭐ 3291 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      flowgram.ai</a></p>
+				<p>
+      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3111</span>
+						<span>🔱 223</span>
+					</div>
+				<div class="stars-today">⭐ 1965 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4889</span>
+						<span>🔱 473</span>
+					</div>
+				<div class="stars-today">⭐ 2580 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
+    
+
+
+      
+        Byaidu /
+
+      PDFMathTranslate</a></p>
+				<p>
+      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23647</span>
+						<span>🔱 2023</span>
+					</div>
+				<div class="stars-today">⭐ 3367 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 94880</span>
+						<span>🔱 25990</span>
+					</div>
+				<div class="stars-today">⭐ 12915 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5998</span>
+						<span>🔱 391</span>
+					</div>
+				<div class="stars-today">⭐ 2048 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
+    
+
+
+      
+        jlowin /
+
+      fastmcp</a></p>
+				<p>
+      🚀 The fast, Pythonic way to build MCP servers and clients
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10052</span>
+						<span>🔱 549</span>
+					</div>
+				<div class="stars-today">⭐ 4956 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30130</span>
+						<span>🔱 2114</span>
+					</div>
+				<div class="stars-today">⭐ 3229 stars this month</div>
 				</div>
 			</div>
 	

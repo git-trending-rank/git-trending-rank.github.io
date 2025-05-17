@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第20周
-date: 2025-05-17T09:58:57Z
+date: 2025-05-17T11:58:39Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33323</span>
-						<span>🔱 4687</span>
+						<span>⭐ 33339</span>
+						<span>🔱 4691</span>
 					</div>
 				<div class="stars-today">⭐ 5360 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9948</span>
-						<span>🔱 764</span>
+						<span>⭐ 9982</span>
+						<span>🔱 767</span>
 					</div>
 				<div class="stars-today">⭐ 6161 stars this week</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20155</span>
-						<span>🔱 1239</span>
+						<span>⭐ 20175</span>
+						<span>🔱 1241</span>
 					</div>
 				<div class="stars-today">⭐ 5206 stars this week</div>
 				</div>
@@ -94,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31036</span>
-						<span>🔱 2998</span>
+						<span>⭐ 31048</span>
+						<span>🔱 3004</span>
 					</div>
 				<div class="stars-today">⭐ 1930 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      flowgram.ai</a></p>
+				<p>
+      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3111</span>
+						<span>🔱 223</span>
+					</div>
+				<div class="stars-today">⭐ 1045 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 3331</span>
+						<span>⭐ 3334</span>
 						<span>🔱 617</span>
 					</div>
 				<div class="stars-today">⭐ 602 stars this week</div>
@@ -124,46 +146,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
     
 
 
       
-        Blaizzy /
+        mlabonne /
 
-      mlx-audio</a></p>
+      llm-course</a></p>
 				<p>
-      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2171</span>
-						<span>🔱 146</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 51629</span>
+						<span>🔱 5519</span>
 					</div>
-				<div class="stars-today">⭐ 948 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5664</span>
-						<span>🔱 439</span>
-					</div>
-				<div class="stars-today">⭐ 1485 stars this week</div>
+				<div class="stars-today">⭐ 1483 stars this week</div>
 				</div>
 			</div>
 	
@@ -190,90 +190,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zed-industries/zed" target="_blank">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
     
 
 
       
-        zed-industries /
+        Lightricks /
 
-      zed</a></p>
+      LTX-Video</a></p>
 				<p>
-      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+      Official repository for LTX-Video
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 59887</span>
-						<span>🔱 4236</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5668</span>
+						<span>🔱 439</span>
 					</div>
-				<div class="stars-today">⭐ 1211 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51626</span>
-						<span>🔱 5520</span>
-					</div>
-				<div class="stars-today">⭐ 1483 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4235</span>
-						<span>🔱 292</span>
-					</div>
-				<div class="stars-today">⭐ 827 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
-    
-
-
-      
-        ruanyf /
-
-      weekly</a></p>
-				<p>
-      科技爱好者周刊，每周五发布
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 62901</span>
-						<span>🔱 3358</span>
-					</div>
-				<div class="stars-today">⭐ 2246 stars this week</div>
+				<div class="stars-today">⭐ 1485 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8186</span>
+						<span>⭐ 8193</span>
 						<span>🔱 546</span>
 					</div>
 				<div class="stars-today">⭐ 812 stars this week</div>
@@ -300,46 +234,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
     
 
 
       
-        modular /
+        MODSetter /
 
-      modular</a></p>
+      SurfSense</a></p>
 				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 24041</span>
-						<span>🔱 2609</span>
-					</div>
-				<div class="stars-today">⭐ 93 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 321091</span>
-						<span>🔱 41495</span>
+						<span>⭐ 4241</span>
+						<span>🔱 292</span>
 					</div>
-				<div class="stars-today">⭐ 3017 stars this week</div>
+				<div class="stars-today">⭐ 827 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
+    
+
+
+      
+        Blaizzy /
+
+      mlx-audio</a></p>
+				<p>
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2174</span>
+						<span>🔱 146</span>
+					</div>
+				<div class="stars-today">⭐ 948 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+    
+
+
+      
+        LazyVim /
+
+      LazyVim</a></p>
+				<p>
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 20836</span>
+						<span>🔱 1473</span>
+					</div>
+				<div class="stars-today">⭐ 207 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26675</span>
+						<span>🔱 2551</span>
+					</div>
+				<div class="stars-today">⭐ 428 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/neondatabase/neon" target="_blank">
+    
+
+
+      
+        neondatabase /
+
+      neon</a></p>
+				<p>
+      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17668</span>
+						<span>🔱 610</span>
+					</div>
+				<div class="stars-today">⭐ 341 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 88376</span>
+						<span>🔱 12613</span>
+					</div>
+				<div class="stars-today">⭐ 496 stars this week</div>
 				</div>
 			</div>
 	
