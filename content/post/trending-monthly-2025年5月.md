@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-18T09:58:50Z
+date: 2025-05-18T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 19587</span>
+						<span>🔱 1454</span>
+					</div>
+				<div class="stars-today">⭐ 6420 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67800</span>
-						<span>🔱 9512</span>
+						<span>⭐ 67815</span>
+						<span>🔱 9515</span>
 					</div>
 				<div class="stars-today">⭐ 17713 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
-    
-
-
-      
-        jujumilk3 /
-
-      leaked-system-prompts</a></p>
-				<p>
-      Collection of leaked system prompts
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 7677</span>
-						<span>🔱 930</span>
-					</div>
-				<div class="stars-today">⭐ 5315 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10229</span>
+						<span>⭐ 10257</span>
 						<span>🔱 781</span>
 					</div>
 				<div class="stars-today">⭐ 8042 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 7689</span>
+						<span>🔱 933</span>
+					</div>
+				<div class="stars-today">⭐ 5315 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33457</span>
-						<span>🔱 4716</span>
+						<span>⭐ 33471</span>
+						<span>🔱 4717</span>
 					</div>
 				<div class="stars-today">⭐ 7332 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 84857</span>
-						<span>🔱 9948</span>
-					</div>
-				<div class="stars-today">⭐ 10732 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21268</span>
+						<span>⭐ 21270</span>
 						<span>🔱 1403</span>
 					</div>
 				<div class="stars-today">⭐ 4654 stars this month</div>
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9124</span>
-						<span>🔱 627</span>
+						<span>⭐ 9130</span>
+						<span>🔱 628</span>
 					</div>
 				<div class="stars-today">⭐ 5280 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 84873</span>
+						<span>🔱 9949</span>
+					</div>
+				<div class="stars-today">⭐ 10732 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 321273</span>
+						<span>⭐ 321290</span>
 						<span>🔱 41504</span>
 					</div>
 				<div class="stars-today">⭐ 7809 stars this month</div>
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57403</span>
+						<span>⭐ 57409</span>
 						<span>🔱 2934</span>
 					</div>
 				<div class="stars-today">⭐ 8339 stars this month</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31246</span>
-						<span>🔱 3020</span>
+						<span>⭐ 31260</span>
+						<span>🔱 3024</span>
 					</div>
 				<div class="stars-today">⭐ 3537 stars this month</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3203</span>
-						<span>🔱 227</span>
+						<span>⭐ 3207</span>
+						<span>🔱 228</span>
 					</div>
 				<div class="stars-today">⭐ 1997 stars this month</div>
 				</div>
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4921</span>
+						<span>⭐ 4926</span>
 						<span>🔱 475</span>
 					</div>
 				<div class="stars-today">⭐ 2602 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23700</span>
-						<span>🔱 2022</span>
-					</div>
-				<div class="stars-today">⭐ 3382 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95335</span>
-						<span>🔱 26100</span>
+						<span>⭐ 95362</span>
+						<span>🔱 26117</span>
 					</div>
 				<div class="stars-today">⭐ 13010 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36246</span>
+						<span>🔱 1130</span>
+					</div>
+				<div class="stars-today">⭐ 1273 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,54 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6023</span>
+						<span>⭐ 6027</span>
 						<span>🔱 394</span>
 					</div>
 				<div class="stars-today">⭐ 2041 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jlowin/fastmcp" target="_blank">
-    
-
-
-      
-        jlowin /
-
-      fastmcp</a></p>
-				<p>
-      🚀 The fast, Pythonic way to build MCP servers and clients
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10101</span>
-						<span>🔱 551</span>
-					</div>
-				<div class="stars-today">⭐ 4815 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30157</span>
-						<span>🔱 2115</span>
-					</div>
-				<div class="stars-today">⭐ 3226 stars this month</div>
 				</div>
 			</div>
 	

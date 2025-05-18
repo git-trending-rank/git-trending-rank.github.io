@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-18
-date: 2025-05-18T09:58:50Z
+date: 2025-05-18T11:58:35Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 23349</span>
-						<span>🔱 4603</span>
-					</div>
-				<div class="stars-today">⭐ 2471 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
@@ -52,164 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 342156</span>
-						<span>🔱 36048</span>
+						<span>⭐ 342273</span>
+						<span>🔱 36059</span>
 					</div>
 				<div class="stars-today">⭐ 1165 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        virattt /
+        TapXWorld /
 
-      ai-hedge-fund</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      An AI Hedge Fund Team
+      所有小初高、大学PDF教材。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28039</span>
-						<span>🔱 4857</span>
+						<span>🔠 Roff</span>
+						<span>⭐ 23473</span>
+						<span>🔱 4626</span>
 					</div>
-				<div class="stars-today">⭐ 203 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31246</span>
-						<span>🔱 3020</span>
-					</div>
-				<div class="stars-today">⭐ 277 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
-    
-
-
-      
-        f /
-
-      awesome-chatgpt-prompts</a></p>
-				<p>
-      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 124805</span>
-						<span>🔱 16677</span>
-					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      c/ua is the Docker Container for Computer-Use AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7390</span>
-						<span>🔱 295</span>
-					</div>
-				<div class="stars-today">⭐ 223 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xming521/WeClone" target="_blank">
-    
-
-
-      
-        xming521 /
-
-      WeClone</a></p>
-				<p>
-      🚀从聊天记录创造数字分身的一站式解决方案💡 使用聊天记录微调大语言模型，让大模型有“那味儿”，并绑定到聊天机器人，实现自己的数字分身。 数字克隆/数字分身/数字永生/LLM/聊天机器人/LoRA
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10229</span>
-						<span>🔱 781</span>
-					</div>
-				<div class="stars-today">⭐ 634 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 95335</span>
-						<span>🔱 26100</span>
-					</div>
-				<div class="stars-today">⭐ 577 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Capsize-Games/airunner" target="_blank">
-    
-
-
-      
-        Capsize-Games /
-
-      airunner</a></p>
-				<p>
-      Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1048</span>
-						<span>🔱 84</span>
-					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
+				<div class="stars-today">⭐ 2471 stars today</div>
 				</div>
 			</div>
 	
@@ -228,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20349</span>
+						<span>⭐ 20371</span>
 						<span>🔱 1059</span>
 					</div>
 				<div class="stars-today">⭐ 189 stars today</div>
@@ -236,46 +82,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/fairchem" target="_blank">
+				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
     
 
 
       
-        facebookresearch /
+        yt-dlp /
 
-      fairchem</a></p>
+      yt-dlp</a></p>
 				<p>
-      FAIR Chemistry's library of machine learning methods for chemistry 
+      A feature-rich command-line audio/video downloader
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1356</span>
-						<span>🔱 312</span>
+						<span>⭐ 112153</span>
+						<span>🔱 8822</span>
 					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
+				<div class="stars-today">⭐ 121 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/itdoginfo/podkop" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        itdoginfo /
+        virattt /
 
-      podkop</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      Dev podkop
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 491</span>
-						<span>🔱 36</span>
+						<span>🔠 Python</span>
+						<span>⭐ 28081</span>
+						<span>🔱 4863</span>
 					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
+				<div class="stars-today">⭐ 203 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+    
+
+
+      
+        unclecode /
+
+      crawl4ai</a></p>
+				<p>
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43377</span>
+						<span>🔱 4019</span>
+					</div>
+				<div class="stars-today">⭐ 92 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ventoy/Ventoy" target="_blank">
+    
+
+
+      
+        ventoy /
+
+      Ventoy</a></p>
+				<p>
+      A new bootable USB solution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 66687</span>
+						<span>🔱 4273</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
+    
+
+
+      
+        f /
+
+      awesome-chatgpt-prompts</a></p>
+				<p>
+      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 124824</span>
+						<span>🔱 16679</span>
+					</div>
+				<div class="stars-today">⭐ 63 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +206,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17847</span>
-						<span>🔱 621</span>
+						<span>⭐ 17855</span>
+						<span>🔱 624</span>
 					</div>
 				<div class="stars-today">⭐ 286 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/perfetto" target="_blank">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
     
 
 
       
-        google /
+        Stirling-Tools /
 
-      perfetto</a></p>
+      Stirling-PDF</a></p>
 				<p>
-      Performance instrumentation and tracing for Android, Linux and Chrome
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3983</span>
-						<span>🔱 470</span>
+						<span>🔠 Java</span>
+						<span>⭐ 59187</span>
+						<span>🔱 4959</span>
+					</div>
+				<div class="stars-today">⭐ 242 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41432</span>
+						<span>🔱 3713</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tursodatabase/limbo" target="_blank">
+    
+
+
+      
+        tursodatabase /
+
+      limbo</a></p>
+				<p>
+      Limbo is a project to build the modern evolution of SQLite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 10522</span>
+						<span>🔱 397</span>
+					</div>
+				<div class="stars-today">⭐ 43 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ed-donner/llm_engineering" target="_blank">
+    
+
+
+      
+        ed-donner /
+
+      llm_engineering</a></p>
+				<p>
+      Repo to accompany my mastering LLM engineering course
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 1558</span>
+						<span>🔱 1721</span>
 					</div>
 				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+				<p><a href="https://github.com/arendst/Tasmota" target="_blank">
     
 
 
       
-        CopilotKit /
+        arendst /
 
-      CopilotKit</a></p>
+      Tasmota</a></p>
 				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+      Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19212</span>
-						<span>🔱 2702</span>
+						<span>🔠 C</span>
+						<span>⭐ 23137</span>
+						<span>🔱 4905</span>
 					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LizardByte/Sunshine" target="_blank">
+    
+
+
+      
+        LizardByte /
+
+      Sunshine</a></p>
+				<p>
+      Self-hosted game stream host for Moonlight.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 25359</span>
+						<span>🔱 1217</span>
+					</div>
+				<div class="stars-today">⭐ 39 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tiann/KernelSU" target="_blank">
+    
+
+
+      
+        tiann /
+
+      KernelSU</a></p>
+				<p>
+      A Kernel based root solution for Android
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 12349</span>
+						<span>🔱 2334</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	
