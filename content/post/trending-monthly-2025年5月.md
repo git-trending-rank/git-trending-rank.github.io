@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-19T09:58:49Z
+date: 2025-05-19T11:58:50Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19629</span>
-						<span>🔱 1455</span>
-					</div>
-				<div class="stars-today">⭐ 6009 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67984</span>
-						<span>🔱 9550</span>
+						<span>⭐ 67998</span>
+						<span>🔱 9553</span>
 					</div>
 				<div class="stars-today">⭐ 17872 stars this month</div>
 				</div>
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10532</span>
-						<span>🔱 806</span>
+						<span>⭐ 10549</span>
+						<span>🔱 808</span>
 					</div>
 				<div class="stars-today">⭐ 8145 stars this month</div>
 				</div>
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7778</span>
-						<span>🔱 953</span>
+						<span>⭐ 7797</span>
+						<span>🔱 954</span>
 					</div>
 				<div class="stars-today">⭐ 5389 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19632</span>
+						<span>🔱 1455</span>
+					</div>
+				<div class="stars-today">⭐ 6009 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33626</span>
-						<span>🔱 4744</span>
+						<span>⭐ 33643</span>
+						<span>🔱 4746</span>
 					</div>
 				<div class="stars-today">⭐ 7453 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21320</span>
+						<span>⭐ 21329</span>
 						<span>🔱 1405</span>
 					</div>
 				<div class="stars-today">⭐ 4674 stars this month</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9186</span>
+						<span>⭐ 9189</span>
 						<span>🔱 638</span>
 					</div>
 				<div class="stars-today">⭐ 5298 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 85021</span>
-						<span>🔱 9955</span>
-					</div>
-				<div class="stars-today">⭐ 9507 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 321495</span>
-						<span>🔱 41524</span>
+						<span>⭐ 321514</span>
+						<span>🔱 41525</span>
 					</div>
 				<div class="stars-today">⭐ 7921 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57492</span>
-						<span>🔱 2943</span>
-					</div>
-				<div class="stars-today">⭐ 8365 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31491</span>
-						<span>🔱 3048</span>
+						<span>⭐ 31508</span>
+						<span>🔱 3050</span>
 					</div>
 				<div class="stars-today">⭐ 3712 stars this month</div>
 				</div>
@@ -272,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3345</span>
-						<span>🔱 236</span>
+						<span>⭐ 3351</span>
+						<span>🔱 237</span>
 					</div>
 				<div class="stars-today">⭐ 2087 stars this month</div>
 				</div>
@@ -294,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4962</span>
+						<span>⭐ 4964</span>
 						<span>🔱 480</span>
 					</div>
 				<div class="stars-today">⭐ 2621 stars this month</div>
@@ -302,24 +258,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        simstudioai /
+        microsoft /
 
-      sim</a></p>
+      markitdown</a></p>
 				<p>
-      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3380</span>
-						<span>🔱 545</span>
+						<span>🔠 Python</span>
+						<span>⭐ 57503</span>
+						<span>🔱 2945</span>
 					</div>
-				<div class="stars-today">⭐ 2260 stars this month</div>
+				<div class="stars-today">⭐ 8365 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 85031</span>
+						<span>🔱 9955</span>
+					</div>
+				<div class="stars-today">⭐ 9507 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95788</span>
-						<span>🔱 26249</span>
+						<span>⭐ 95828</span>
+						<span>🔱 26258</span>
 					</div>
 				<div class="stars-today">⭐ 12988 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3385</span>
+						<span>🔱 546</span>
+					</div>
+				<div class="stars-today">⭐ 2260 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,30 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36268</span>
+						<span>⭐ 36267</span>
 						<span>🔱 1130</span>
 					</div>
 				<div class="stars-today">⭐ 1268 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6061</span>
-						<span>🔱 399</span>
-					</div>
-				<div class="stars-today">⭐ 1944 stars this month</div>
 				</div>
 			</div>
 	

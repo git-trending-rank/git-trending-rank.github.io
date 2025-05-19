@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第21周
-date: 2025-05-19T09:58:49Z
+date: 2025-05-19T11:58:50Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10532</span>
-						<span>🔱 806</span>
+						<span>⭐ 10549</span>
+						<span>🔱 808</span>
 					</div>
 				<div class="stars-today">⭐ 6882 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33626</span>
-						<span>🔱 4744</span>
-					</div>
-				<div class="stars-today">⭐ 4256 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,30 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31491</span>
-						<span>🔱 3048</span>
+						<span>⭐ 31508</span>
+						<span>🔱 3050</span>
 					</div>
 				<div class="stars-today">⭐ 2349 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        voideditor /
+        harry0703 /
 
-      void</a></p>
-				<p></p>
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20611</span>
-						<span>🔱 1276</span>
+						<span>🔠 Python</span>
+						<span>⭐ 33643</span>
+						<span>🔱 4746</span>
 					</div>
-				<div class="stars-today">⭐ 3615 stars this week</div>
+				<div class="stars-today">⭐ 4256 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 3380</span>
+						<span>⭐ 3385</span>
 						<span>🔱 627</span>
 					</div>
 				<div class="stars-today">⭐ 674 stars this week</div>
@@ -124,46 +104,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
     
 
 
       
-        bytedance /
+        voideditor /
 
-      flowgram.ai</a></p>
-				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    </p>
+      void</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3345</span>
-						<span>🔱 236</span>
+						<span>⭐ 20635</span>
+						<span>🔱 1277</span>
 					</div>
-				<div class="stars-today">⭐ 803 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51798</span>
-						<span>🔱 5540</span>
-					</div>
-				<div class="stars-today">⭐ 1580 stars this week</div>
+				<div class="stars-today">⭐ 3615 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,98 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 343936</span>
-						<span>🔱 36166</span>
+						<span>⭐ 344040</span>
+						<span>🔱 36176</span>
 					</div>
 				<div class="stars-today">⭐ 3563 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/comet-ml/opik" target="_blank">
-    
-
-
-      
-        comet-ml /
-
-      opik</a></p>
-				<p>
-      Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8335</span>
-						<span>🔱 554</span>
-					</div>
-				<div class="stars-today">⭐ 838 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/neondatabase/neon" target="_blank">
-    
-
-
-      
-        neondatabase /
-
-      neon</a></p>
-				<p>
-      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18037</span>
-						<span>🔱 635</span>
-					</div>
-				<div class="stars-today">⭐ 724 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4384</span>
-						<span>🔱 298</span>
-					</div>
-				<div class="stars-today">⭐ 804 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20698</span>
-						<span>🔱 1076</span>
-					</div>
-				<div class="stars-today">⭐ 933 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19327</span>
+						<span>⭐ 19344</span>
 						<span>🔱 2709</span>
 					</div>
 				<div class="stars-today">⭐ 618 stars this week</div>
@@ -300,24 +168,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/isledecomp/isle" target="_blank">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
     
 
 
       
-        isledecomp /
+        mlabonne /
 
-      isle</a></p>
+      llm-course</a></p>
 				<p>
-      A functionally complete decompilation of LEGO Island (1997)
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3068</span>
-						<span>🔱 135</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 51804</span>
+						<span>🔱 5541</span>
 					</div>
-				<div class="stars-today">⭐ 196 stars this week</div>
+				<div class="stars-today">⭐ 1580 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
+    
+
+
+      
+        th-ch /
+
+      youtube-music</a></p>
+				<p>
+      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20730</span>
+						<span>🔱 1079</span>
+					</div>
+				<div class="stars-today">⭐ 933 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/ComfyUI-LTXVideo" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      ComfyUI-LTXVideo</a></p>
+				<p>
+      LTX-Video Support for ComfyUI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1872</span>
+						<span>🔱 160</span>
+					</div>
+				<div class="stars-today">⭐ 396 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      flowgram.ai</a></p>
+				<p>
+      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3351</span>
+						<span>🔱 237</span>
+					</div>
+				<div class="stars-today">⭐ 803 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/comet-ml/opik" target="_blank">
+    
+
+
+      
+        comet-ml /
+
+      opik</a></p>
+				<p>
+      Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8339</span>
+						<span>🔱 555</span>
+					</div>
+				<div class="stars-today">⭐ 838 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
+    
+
+
+      
+        f /
+
+      awesome-chatgpt-prompts</a></p>
+				<p>
+      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 125175</span>
+						<span>🔱 16714</span>
+					</div>
+				<div class="stars-today">⭐ 720 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 26740</span>
+						<span>⭐ 26744</span>
 						<span>🔱 2552</span>
 					</div>
 				<div class="stars-today">⭐ 403 stars this week</div>
