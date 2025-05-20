@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第21周
-date: 2025-05-20T09:58:40Z
+date: 2025-05-20T11:58:47Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 26830</span>
+						<span>🔱 5654</span>
+					</div>
+				<div class="stars-today">⭐ 23259 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/xming521/WeClone" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10791</span>
-						<span>🔱 830</span>
+						<span>⭐ 10809</span>
+						<span>🔱 835</span>
 					</div>
 				<div class="stars-today">⭐ 6623 stars this week</div>
 				</div>
@@ -52,74 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31737</span>
-						<span>🔱 3078</span>
+						<span>⭐ 31757</span>
+						<span>🔱 3080</span>
 					</div>
 				<div class="stars-today">⭐ 2550 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33839</span>
-						<span>🔱 4774</span>
-					</div>
-				<div class="stars-today">⭐ 2990 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      spring-ai-alibaba</a></p>
-				<p>
-      Agentic AI Framework for Java Developers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 3423</span>
-						<span>🔱 634</span>
-					</div>
-				<div class="stars-today">⭐ 671 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20834</span>
-						<span>🔱 1291</span>
-					</div>
-				<div class="stars-today">⭐ 2958 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,10 +96,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 344766</span>
-						<span>🔱 36225</span>
+						<span>⭐ 344840</span>
+						<span>🔱 36234</span>
 					</div>
 				<div class="stars-today">⭐ 5200 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20852</span>
+						<span>🔱 1291</span>
+					</div>
+				<div class="stars-today">⭐ 2958 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      spring-ai-alibaba</a></p>
+				<p>
+      Agentic AI Framework for Java Developers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 3425</span>
+						<span>🔱 634</span>
+					</div>
+				<div class="stars-today">⭐ 671 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19654</span>
-						<span>🔱 2733</span>
+						<span>⭐ 19668</span>
+						<span>🔱 2735</span>
 					</div>
 				<div class="stars-today">⭐ 723 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        mlabonne /
+        harry0703 /
 
-      llm-course</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51924</span>
-						<span>🔱 5549</span>
+						<span>🔠 Python</span>
+						<span>⭐ 33862</span>
+						<span>🔱 4777</span>
 					</div>
-				<div class="stars-today">⭐ 1603 stars this week</div>
+				<div class="stars-today">⭐ 2990 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21051</span>
+						<span>⭐ 21065</span>
 						<span>🔱 1088</span>
 					</div>
 				<div class="stars-today">⭐ 1259 stars this week</div>
@@ -212,68 +212,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/ComfyUI-LTXVideo" target="_blank">
+				<p><a href="https://github.com/ventoy/Ventoy" target="_blank">
     
 
 
       
-        Lightricks /
+        ventoy /
 
-      ComfyUI-LTXVideo</a></p>
+      Ventoy</a></p>
 				<p>
-      LTX-Video Support for ComfyUI
+      A new bootable USB solution.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1898</span>
-						<span>🔱 161</span>
+						<span>🔠 C</span>
+						<span>⭐ 67220</span>
+						<span>🔱 4293</span>
 					</div>
-				<div class="stars-today">⭐ 295 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      flowgram.ai</a></p>
-				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3469</span>
-						<span>🔱 247</span>
-					</div>
-				<div class="stars-today">⭐ 662 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/comet-ml/opik" target="_blank">
-    
-
-
-      
-        comet-ml /
-
-      opik</a></p>
-				<p>
-      Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8431</span>
-						<span>🔱 561</span>
-					</div>
-				<div class="stars-today">⭐ 803 stars this week</div>
+				<div class="stars-today">⭐ 516 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 125519</span>
+						<span>⭐ 125546</span>
 						<span>🔱 16733</span>
 					</div>
 				<div class="stars-today">⭐ 1029 stars this week</div>
@@ -300,24 +256,88 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+				<p><a href="https://github.com/i-am-alice/3rd-devs" target="_blank">
     
 
 
       
-        aquasecurity /
+        i-am-alice /
 
-      trivy</a></p>
+      3rd-devs</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 421</span>
+						<span>🔱 282</span>
+					</div>
+				<div class="stars-today">⭐ 141 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
 				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 26783</span>
-						<span>🔱 2554</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 51937</span>
+						<span>🔱 5550</span>
 					</div>
-				<div class="stars-today">⭐ 394 stars this week</div>
+				<div class="stars-today">⭐ 1603 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Windows system utilities to maximize productivity
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 118860</span>
+						<span>🔱 7027</span>
+					</div>
+				<div class="stars-today">⭐ 433 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/neondatabase/neon" target="_blank">
+    
+
+
+      
+        neondatabase /
+
+      neon</a></p>
+				<p>
+      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18079</span>
+						<span>🔱 635</span>
+					</div>
+				<div class="stars-today">⭐ 894 stars this week</div>
 				</div>
 			</div>
 	
