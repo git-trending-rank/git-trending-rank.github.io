@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-21
-date: 2025-05-21T09:59:01Z
+date: 2025-05-21T11:58:42Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/WSL" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      WSL</a></p>
+				<p>
+      Windows Subsystem for Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 23842</span>
+						<span>🔱 1123</span>
+					</div>
+				<div class="stars-today">⭐ 4368 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
@@ -30,54 +52,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31709</span>
-						<span>🔱 5421</span>
+						<span>⭐ 31779</span>
+						<span>🔱 5435</span>
 					</div>
 				<div class="stars-today">⭐ 1781 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
     
 
 
       
-        public-apis /
+        modelcontextprotocol /
 
-      public-apis</a></p>
+      registry</a></p>
 				<p>
-      A collective list of free APIs
+      A community driven registry service for Model Context Protocol (MCP) servers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 345538</span>
-						<span>🔱 36289</span>
+						<span>🔠 Go</span>
+						<span>⭐ 323</span>
+						<span>🔱 30</span>
 					</div>
-				<div class="stars-today">⭐ 820 stars today</div>
+				<div class="stars-today">⭐ 39 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
     
 
 
       
-        appwrite /
+        donnemartin /
 
-      appwrite</a></p>
+      system-design-primer</a></p>
 				<p>
-      The open-source Vercel alternative
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 49352</span>
-						<span>🔱 4353</span>
+						<span>🔠 Python</span>
+						<span>⭐ 300122</span>
+						<span>🔱 49784</span>
 					</div>
-				<div class="stars-today">⭐ 251 stars today</div>
+				<div class="stars-today">⭐ 254 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Windows system utilities to maximize productivity
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 118951</span>
+						<span>🔱 7033</span>
+					</div>
+				<div class="stars-today">⭐ 95 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/antirez/kilo" target="_blank">
+    
+
+
+      
+        antirez /
+
+      kilo</a></p>
+				<p>
+      A text editor in less than 1000 LOC with syntax highlight and search.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 8016</span>
+						<span>🔱 871</span>
+					</div>
+				<div class="stars-today">⭐ 90 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/semantic-kernel" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      semantic-kernel</a></p>
+				<p>
+      Integrate cutting-edge LLM technology quickly and easily into your apps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 24561</span>
+						<span>🔱 3846</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Cysharp/ZLinq" target="_blank">
+    
+
+
+      
+        Cysharp /
+
+      ZLinq</a></p>
+				<p>
+      Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 3156</span>
+						<span>🔱 160</span>
+					</div>
+				<div class="stars-today">⭐ 199 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/WSL2-Linux-Kernel" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      WSL2-Linux-Kernel</a></p>
+				<p>
+      The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 9047</span>
+						<span>🔱 1194</span>
+					</div>
+				<div class="stars-today">⭐ 302 stars today</div>
 				</div>
 			</div>
 	
@@ -96,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 40339</span>
-						<span>🔱 2875</span>
+						<span>⭐ 40377</span>
+						<span>🔱 2880</span>
 					</div>
 				<div class="stars-today">⭐ 177 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ed-donner/llm_engineering" target="_blank">
-    
-
-
-      
-        ed-donner /
-
-      llm_engineering</a></p>
-				<p>
-      Repo to accompany my mastering LLM engineering course
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2176</span>
-						<span>🔱 1792</span>
-					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
 				</div>
 			</div>
 	
@@ -140,186 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31473</span>
-						<span>🔱 2352</span>
+						<span>⭐ 31541</span>
+						<span>🔱 2355</span>
 					</div>
 				<div class="stars-today">⭐ 220 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ventoy/Ventoy" target="_blank">
+				<p><a href="https://github.com/microsoft/vscode" target="_blank">
     
 
 
       
-        ventoy /
+        microsoft /
 
-      Ventoy</a></p>
+      vscode</a></p>
 				<p>
-      A new bootable USB solution.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 67463</span>
-						<span>🔱 4302</span>
-					</div>
-				<div class="stars-today">⭐ 235 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
+      Visual Studio Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12191</span>
-						<span>🔱 1703</span>
+						<span>⭐ 171731</span>
+						<span>🔱 32452</span>
 					</div>
-				<div class="stars-today">⭐ 365 stars today</div>
+				<div class="stars-today">⭐ 283 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
+				<p><a href="https://github.com/nektos/act" target="_blank">
     
 
 
       
-        langgenius /
+        nektos /
 
-      dify</a></p>
+      act</a></p>
 				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+      Run your GitHub Actions locally 🚀
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 62478</span>
+						<span>🔱 1620</span>
+					</div>
+				<div class="stars-today">⭐ 708 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      The open-source Vercel alternative
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 98339</span>
-						<span>🔱 14765</span>
+						<span>⭐ 49377</span>
+						<span>🔱 4354</span>
 					</div>
-				<div class="stars-today">⭐ 226 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colinhacks/zod" target="_blank">
-    
-
-
-      
-        colinhacks /
-
-      zod</a></p>
-				<p>
-      TypeScript-first schema validation with static type inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38030</span>
-						<span>🔱 1440</span>
-					</div>
-				<div class="stars-today">⭐ 104 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kmeps4/PSFree" target="_blank">
-    
-
-
-      
-        kmeps4 /
-
-      PSFree</a></p>
-				<p>
-      PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 [WIP] By abc
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 281</span>
-						<span>🔱 34</span>
-					</div>
-				<div class="stars-today">⭐ 22 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
-    
-
-
-      
-        f /
-
-      awesome-chatgpt-prompts</a></p>
-				<p>
-      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 125911</span>
-						<span>🔱 16756</span>
-					</div>
-				<div class="stars-today">⭐ 382 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 28010</span>
-						<span>🔱 5683</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tinygrad/tinygrad" target="_blank">
-    
-
-
-      
-        tinygrad /
-
-      tinygrad</a></p>
-				<p>
-      You like pytorch? You like micrograd? You love tinygrad! ❤️ 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29136</span>
-						<span>🔱 3392</span>
-					</div>
-				<div class="stars-today">⭐ 116 stars today</div>
+				<div class="stars-today">⭐ 251 stars today</div>
 				</div>
 			</div>
 	

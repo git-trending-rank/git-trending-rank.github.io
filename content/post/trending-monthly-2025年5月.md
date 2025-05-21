@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-21T09:59:01Z
+date: 2025-05-21T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 68365</span>
-						<span>🔱 9623</span>
-					</div>
-				<div class="stars-today">⭐ 18167 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/xming521/WeClone" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11016</span>
-						<span>🔱 849</span>
+						<span>⭐ 11041</span>
+						<span>🔱 850</span>
 					</div>
 				<div class="stars-today">⭐ 8598 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 68375</span>
+						<span>🔱 9625</span>
+					</div>
+				<div class="stars-today">⭐ 18167 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7982</span>
+						<span>⭐ 7995</span>
 						<span>🔱 976</span>
 					</div>
 				<div class="stars-today">⭐ 5543 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34026</span>
+						<span>⭐ 34043</span>
 						<span>🔱 4798</span>
 					</div>
 				<div class="stars-today">⭐ 7825 stars this month</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19720</span>
-						<span>🔱 1463</span>
+						<span>⭐ 19722</span>
+						<span>🔱 1464</span>
 					</div>
 				<div class="stars-today">⭐ 5130 stars this month</div>
 				</div>
@@ -140,54 +140,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21443</span>
-						<span>🔱 1416</span>
+						<span>⭐ 21451</span>
+						<span>🔱 1417</span>
 					</div>
 				<div class="stars-today">⭐ 4787 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
     
 
 
       
-        getzep /
+        voideditor /
 
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9426</span>
-						<span>🔱 662</span>
-					</div>
-				<div class="stars-today">⭐ 5472 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
+      void</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 321895</span>
-						<span>🔱 41547</span>
+						<span>⭐ 21162</span>
+						<span>🔱 1309</span>
 					</div>
-				<div class="stars-today">⭐ 7946 stars this month</div>
+				<div class="stars-today">⭐ 9098 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31964</span>
-						<span>🔱 3098</span>
+						<span>⭐ 31977</span>
+						<span>🔱 3099</span>
 					</div>
 				<div class="stars-today">⭐ 4167 stars this month</div>
 				</div>
@@ -228,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3559</span>
+						<span>⭐ 3565</span>
 						<span>🔱 250</span>
 					</div>
 				<div class="stars-today">⭐ 2343 stars this month</div>
@@ -236,24 +212,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
 
       
-        simular-ai /
+        getzep /
 
-      Agent-S</a></p>
+      graphiti</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5046</span>
-						<span>🔱 486</span>
+						<span>⭐ 9433</span>
+						<span>🔱 663</span>
 					</div>
-				<div class="stars-today">⭐ 2659 stars this month</div>
+				<div class="stars-today">⭐ 5472 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 321920</span>
+						<span>🔱 41547</span>
+					</div>
+				<div class="stars-today">⭐ 7946 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,52 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2886</span>
-						<span>🔱 312</span>
+						<span>⭐ 2893</span>
+						<span>🔱 314</span>
 					</div>
 				<div class="stars-today">⭐ 1936 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
 
       
-        voideditor /
+        simular-ai /
 
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21148</span>
-						<span>🔱 1307</span>
-					</div>
-				<div class="stars-today">⭐ 9098 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
+      Agent-S</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Agent S: an open agentic framework that uses computers like a human
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57698</span>
-						<span>🔱 2951</span>
+						<span>⭐ 5050</span>
+						<span>🔱 486</span>
 					</div>
-				<div class="stars-today">⭐ 7768 stars this month</div>
+				<div class="stars-today">⭐ 2659 stars this month</div>
 				</div>
 			</div>
 	
@@ -344,22 +322,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
     
 
 
       
-        bytedance /
+        lapce /
 
-      UI-TARS</a></p>
-				<p></p>
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6114</span>
-						<span>🔱 404</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 36304</span>
+						<span>🔱 1131</span>
 					</div>
-				<div class="stars-today">⭐ 1946 stars this month</div>
+				<div class="stars-today">⭐ 1305 stars this month</div>
 				</div>
 			</div>
 	
