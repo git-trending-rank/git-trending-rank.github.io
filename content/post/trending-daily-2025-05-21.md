@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-21
-date: 2025-05-21T03:05:42Z
+date: 2025-05-21T04:02:03Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31316</span>
-						<span>🔱 5368</span>
+						<span>⭐ 31370</span>
+						<span>🔱 5373</span>
 					</div>
 				<div class="stars-today">⭐ 1781 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 345232</span>
-						<span>🔱 36265</span>
+						<span>⭐ 345260</span>
+						<span>🔱 36266</span>
 					</div>
 				<div class="stars-today">⭐ 820 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49228</span>
+						<span>⭐ 49252</span>
 						<span>🔱 4348</span>
 					</div>
 				<div class="stars-today">⭐ 251 stars today</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 40186</span>
-						<span>🔱 2865</span>
+						<span>⭐ 40210</span>
+						<span>🔱 2866</span>
 					</div>
 				<div class="stars-today">⭐ 177 stars today</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2113</span>
+						<span>⭐ 2122</span>
 						<span>🔱 1782</span>
 					</div>
 				<div class="stars-today">⭐ 200 stars today</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31322</span>
+						<span>⭐ 31337</span>
 						<span>🔱 2349</span>
 					</div>
 				<div class="stars-today">⭐ 220 stars today</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 67355</span>
+						<span>⭐ 67361</span>
 						<span>🔱 4296</span>
 					</div>
 				<div class="stars-today">⭐ 235 stars today</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12103</span>
-						<span>🔱 1689</span>
+						<span>⭐ 12112</span>
+						<span>🔱 1690</span>
 					</div>
 				<div class="stars-today">⭐ 365 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 98188</span>
-						<span>🔱 14735</span>
+						<span>⭐ 98213</span>
+						<span>🔱 14741</span>
 					</div>
 				<div class="stars-today">⭐ 226 stars today</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37991</span>
-						<span>🔱 1435</span>
+						<span>⭐ 37994</span>
+						<span>🔱 1436</span>
 					</div>
 				<div class="stars-today">⭐ 104 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Cysharp/ZLinq" target="_blank">
-    
-
-
-      
-        Cysharp /
-
-      ZLinq</a></p>
-				<p>
-      Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 3018</span>
-						<span>🔱 157</span>
-					</div>
-				<div class="stars-today">⭐ 199 stars today</div>
 				</div>
 			</div>
 	
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 259</span>
+						<span>⭐ 262</span>
 						<span>🔱 33</span>
 					</div>
 				<div class="stars-today">⭐ 22 stars today</div>
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 125752</span>
-						<span>🔱 16745</span>
+						<span>⭐ 125767</span>
+						<span>🔱 16747</span>
 					</div>
 				<div class="stars-today">⭐ 382 stars today</div>
 				</div>
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27939</span>
+						<span>⭐ 27947</span>
 						<span>🔱 5682</span>
 					</div>
 				<div class="stars-today">⭐ 38 stars today</div>
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29099</span>
+						<span>⭐ 29105</span>
 						<span>🔱 3390</span>
 					</div>
 				<div class="stars-today">⭐ 116 stars today</div>
