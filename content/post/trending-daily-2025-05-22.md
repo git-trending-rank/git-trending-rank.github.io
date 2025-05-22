@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-22
-date: 2025-05-22T07:58:57Z
+date: 2025-05-22T09:58:40Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 26034</span>
-						<span>🔱 1206</span>
+						<span>⭐ 26268</span>
+						<span>🔱 1218</span>
 					</div>
 				<div class="stars-today">⭐ 1731 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32100</span>
-						<span>🔱 5511</span>
+						<span>⭐ 32157</span>
+						<span>🔱 5523</span>
 					</div>
 				<div class="stars-today">⭐ 1214 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 583</span>
+						<span>⭐ 613</span>
 						<span>🔱 45</span>
 					</div>
 				<div class="stars-today">⭐ 64 stars today</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 300392</span>
-						<span>🔱 49826</span>
+						<span>⭐ 300432</span>
+						<span>🔱 49830</span>
 					</div>
 				<div class="stars-today">⭐ 209 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 119101</span>
-						<span>🔱 7041</span>
+						<span>⭐ 119126</span>
+						<span>🔱 7043</span>
 					</div>
 				<div class="stars-today">⭐ 105 stars today</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 8157</span>
+						<span>⭐ 8169</span>
 						<span>🔱 877</span>
 					</div>
 				<div class="stars-today">⭐ 85 stars today</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 24703</span>
-						<span>🔱 3853</span>
+						<span>⭐ 24706</span>
+						<span>🔱 3857</span>
 					</div>
 				<div class="stars-today">⭐ 33 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Cysharp/ZLinq" target="_blank">
-    
-
-
-      
-        Cysharp /
-
-      ZLinq</a></p>
-				<p>
-      Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 3351</span>
-						<span>🔱 162</span>
-					</div>
-				<div class="stars-today">⭐ 270 stars today</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 9249</span>
-						<span>🔱 1205</span>
+						<span>⭐ 9267</span>
+						<span>🔱 1208</span>
 					</div>
 				<div class="stars-today">⭐ 157 stars today</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 40669</span>
-						<span>🔱 2883</span>
+						<span>⭐ 40712</span>
+						<span>🔱 2884</span>
 					</div>
 				<div class="stars-today">⭐ 498 stars today</div>
 				</div>
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 31952</span>
-						<span>🔱 2373</span>
+						<span>⭐ 32005</span>
+						<span>🔱 2376</span>
 					</div>
 				<div class="stars-today">⭐ 480 stars today</div>
 				</div>
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 171988</span>
-						<span>🔱 32495</span>
+						<span>⭐ 172014</span>
+						<span>🔱 32504</span>
 					</div>
 				<div class="stars-today">⭐ 233 stars today</div>
 				</div>
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 62809</span>
+						<span>⭐ 62845</span>
 						<span>🔱 1637</span>
 					</div>
 				<div class="stars-today">⭐ 293 stars today</div>
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49591</span>
-						<span>🔱 4366</span>
+						<span>⭐ 49607</span>
+						<span>🔱 4365</span>
 					</div>
 				<div class="stars-today">⭐ 423 stars today</div>
 				</div>
