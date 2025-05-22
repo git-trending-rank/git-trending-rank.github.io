@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-22T09:58:39Z
+date: 2025-05-22T11:58:45Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+    
+
+
+      
+        kortix-ai /
+
+      suna</a></p>
+				<p>
+      Suna - Open Source Generalist AI Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12338</span>
+						<span>🔱 1738</span>
+					</div>
+				<div class="stars-today">⭐ 12542 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/xming521/WeClone" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11206</span>
-						<span>🔱 861</span>
+						<span>⭐ 11222</span>
+						<span>🔱 862</span>
 					</div>
 				<div class="stars-today">⭐ 8779 stars this month</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68732</span>
-						<span>🔱 9679</span>
+						<span>⭐ 68758</span>
+						<span>🔱 9687</span>
 					</div>
 				<div class="stars-today">⭐ 18293 stars this month</div>
 				</div>
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8109</span>
+						<span>⭐ 8115</span>
 						<span>🔱 995</span>
 					</div>
 				<div class="stars-today">⭐ 5623 stars this month</div>
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34156</span>
-						<span>🔱 4817</span>
+						<span>⭐ 34167</span>
+						<span>🔱 4818</span>
 					</div>
 				<div class="stars-today">⭐ 7982 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19751</span>
-						<span>🔱 1467</span>
-					</div>
-				<div class="stars-today">⭐ 4498 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,30 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21488</span>
+						<span>⭐ 21494</span>
 						<span>🔱 1421</span>
 					</div>
 				<div class="stars-today">⭐ 4830 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21329</span>
-						<span>🔱 1322</span>
-					</div>
-				<div class="stars-today">⭐ 9391 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,32 +162,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32176</span>
-						<span>🔱 3120</span>
+						<span>⭐ 32184</span>
+						<span>🔱 3122</span>
 					</div>
 				<div class="stars-today">⭐ 4340 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
     
 
 
       
-        bytedance /
+        voideditor /
 
-      flowgram.ai</a></p>
-				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    </p>
+      void</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3643</span>
-						<span>🔱 254</span>
+						<span>⭐ 21343</span>
+						<span>🔱 1322</span>
 					</div>
-				<div class="stars-today">⭐ 2425 stars this month</div>
+				<div class="stars-today">⭐ 9391 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9515</span>
+						<span>⭐ 9520</span>
 						<span>🔱 667</span>
 					</div>
 				<div class="stars-today">⭐ 5541 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      flowgram.ai</a></p>
+				<p>
+      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3653</span>
+						<span>🔱 254</span>
+					</div>
+				<div class="stars-today">⭐ 2425 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 322125</span>
-						<span>🔱 41572</span>
+						<span>⭐ 322142</span>
+						<span>🔱 41577</span>
 					</div>
 				<div class="stars-today">⭐ 7913 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19755</span>
+						<span>🔱 1467</span>
+					</div>
+				<div class="stars-today">⭐ 4498 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2980</span>
+						<span>⭐ 2984</span>
 						<span>🔱 323</span>
 					</div>
 				<div class="stars-today">⭐ 2007 stars this month</div>
@@ -292,54 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5091</span>
+						<span>⭐ 5095</span>
 						<span>🔱 486</span>
 					</div>
 				<div class="stars-today">⭐ 2682 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 24077</span>
-						<span>🔱 2608</span>
-					</div>
-				<div class="stars-today">⭐ 302 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
-    
-
-
-      
-        lapce /
-
-      lapce</a></p>
-				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36332</span>
-						<span>🔱 1132</span>
-					</div>
-				<div class="stars-today">⭐ 1307 stars this month</div>
 				</div>
 			</div>
 	

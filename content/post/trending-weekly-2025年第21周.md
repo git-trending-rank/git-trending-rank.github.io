@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第21周
-date: 2025-05-22T09:58:39Z
+date: 2025-05-22T11:58:45Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 28594</span>
-						<span>🔱 6196</span>
+						<span>⭐ 28636</span>
+						<span>🔱 6211</span>
 					</div>
 				<div class="stars-today">⭐ 20193 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xming521/WeClone" target="_blank">
-    
-
-
-      
-        xming521 /
-
-      WeClone</a></p>
-				<p>
-      🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11206</span>
-						<span>🔱 861</span>
-					</div>
-				<div class="stars-today">⭐ 3991 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32176</span>
-						<span>🔱 3120</span>
-					</div>
-				<div class="stars-today">⭐ 2481 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32157</span>
-						<span>🔱 5523</span>
+						<span>⭐ 32174</span>
+						<span>🔱 5526</span>
 					</div>
 				<div class="stars-today">⭐ 4641 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xming521/WeClone" target="_blank">
+    
+
+
+      
+        xming521 /
+
+      WeClone</a></p>
+				<p>
+      🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11222</span>
+						<span>🔱 862</span>
+					</div>
+				<div class="stars-today">⭐ 3991 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,30 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 346071</span>
-						<span>🔱 36351</span>
+						<span>⭐ 346095</span>
+						<span>🔱 36356</span>
 					</div>
 				<div class="stars-today">⭐ 6596 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
     
 
 
       
-        voideditor /
+        mem0ai /
 
-      void</a></p>
-				<p></p>
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21329</span>
-						<span>🔱 1322</span>
+						<span>🔠 Python</span>
+						<span>⭐ 32184</span>
+						<span>🔱 3122</span>
 					</div>
-				<div class="stars-today">⭐ 2301 stars this week</div>
+				<div class="stars-today">⭐ 2481 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19884</span>
+						<span>⭐ 19887</span>
 						<span>🔱 2760</span>
 					</div>
 				<div class="stars-today">⭐ 1027 stars this week</div>
@@ -182,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21254</span>
+						<span>⭐ 21262</span>
 						<span>🔱 1099</span>
 					</div>
 				<div class="stars-today">⭐ 1642 stars this week</div>
@@ -204,98 +184,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 126103</span>
-						<span>🔱 16778</span>
+						<span>⭐ 126119</span>
+						<span>🔱 16780</span>
 					</div>
 				<div class="stars-today">⭐ 1651 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/neondatabase/neon" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
     
 
 
       
-        neondatabase /
+        voideditor /
 
-      neon</a></p>
-				<p>
-      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-    </p>
+      void</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18184</span>
-						<span>🔱 643</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21343</span>
+						<span>🔱 1322</span>
 					</div>
-				<div class="stars-today">⭐ 934 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ventoy/Ventoy" target="_blank">
-    
-
-
-      
-        ventoy /
-
-      Ventoy</a></p>
-				<p>
-      A new bootable USB solution.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 67551</span>
-						<span>🔱 4306</span>
-					</div>
-				<div class="stars-today">⭐ 904 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Windows system utilities to maximize productivity
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 119126</span>
-						<span>🔱 7043</span>
-					</div>
-				<div class="stars-today">⭐ 539 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zen-browser/desktop" target="_blank">
-    
-
-
-      
-        zen-browser /
-
-      desktop</a></p>
-				<p>
-      Welcome to a calmer internet
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 30831</span>
-						<span>🔱 857</span>
-					</div>
-				<div class="stars-today">⭐ 886 stars this week</div>
+				<div class="stars-today">⭐ 2301 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +226,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 613</span>
+						<span>⭐ 634</span>
 						<span>🔱 45</span>
 					</div>
 				<div class="stars-today">⭐ 202 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Windows system utilities to maximize productivity
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 119131</span>
+						<span>🔱 7043</span>
+					</div>
+				<div class="stars-today">⭐ 539 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      The open-source Vercel alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 49625</span>
+						<span>🔱 4368</span>
+					</div>
+				<div class="stars-today">⭐ 861 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zen-browser/desktop" target="_blank">
+    
+
+
+      
+        zen-browser /
+
+      desktop</a></p>
+				<p>
+      Welcome to a calmer internet
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 30841</span>
+						<span>🔱 858</span>
+					</div>
+				<div class="stars-today">⭐ 886 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+    
+
+
+      
+        YaLTeR /
+
+      niri</a></p>
+				<p>
+      A scrollable-tiling Wayland compositor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7391</span>
+						<span>🔱 244</span>
+					</div>
+				<div class="stars-today">⭐ 269 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FlowiseAI/Flowise" target="_blank">
+    
+
+
+      
+        FlowiseAI /
+
+      Flowise</a></p>
+				<p>
+      Build AI Agents, Visually
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 38691</span>
+						<span>🔱 20046</span>
+					</div>
+				<div class="stars-today">⭐ 533 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ventoy/Ventoy" target="_blank">
+    
+
+
+      
+        ventoy /
+
+      Ventoy</a></p>
+				<p>
+      A new bootable USB solution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 67554</span>
+						<span>🔱 4306</span>
+					</div>
+				<div class="stars-today">⭐ 904 stars this week</div>
 				</div>
 			</div>
 	
