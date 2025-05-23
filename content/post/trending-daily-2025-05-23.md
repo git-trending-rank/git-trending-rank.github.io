@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-23
-date: 2025-05-23T09:58:51Z
+date: 2025-05-23T11:58:53Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19936</span>
+						<span>🔱 3252</span>
+					</div>
+				<div class="stars-today">⭐ 333 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
@@ -30,142 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55387</span>
-						<span>🔱 6227</span>
+						<span>⭐ 55409</span>
+						<span>🔱 6230</span>
 					</div>
 				<div class="stars-today">⭐ 402 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      The open-source Vercel alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 49902</span>
-						<span>🔱 4384</span>
-					</div>
-				<div class="stars-today">⭐ 263 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
-    
-
-
-      
-        panaversity /
-
-      learn-agentic-ai</a></p>
-				<p>
-      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2563</span>
-						<span>🔱 579</span>
-					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/WSL" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      WSL</a></p>
-				<p>
-      Windows Subsystem for Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 26844</span>
-						<span>🔱 1244</span>
-					</div>
-				<div class="stars-today">⭐ 2524 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usebruno/bruno" target="_blank">
-    
-
-
-      
-        usebruno /
-
-      bruno</a></p>
-				<p>
-      Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 34203</span>
-						<span>🔱 1620</span>
-					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HeyPuter/puter" target="_blank">
-    
-
-
-      
-        HeyPuter /
-
-      puter</a></p>
-				<p>
-      🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 32342</span>
-						<span>🔱 2392</span>
-					</div>
-				<div class="stars-today">⭐ 500 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
-    
-
-
-      
-        usememos /
-
-      memos</a></p>
-				<p>
-      An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 41044</span>
-						<span>🔱 2902</span>
-					</div>
-				<div class="stars-today">⭐ 380 stars today</div>
 				</div>
 			</div>
 	
@@ -184,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 829</span>
+						<span>⭐ 854</span>
 						<span>🔱 50</span>
 					</div>
 				<div class="stars-today">⭐ 311 stars today</div>
@@ -192,44 +82,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" target="_blank">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
     
 
 
       
-        ZJU-LLMs /
+        mindsdb /
 
-      Foundations-of-LLMs</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 10622</span>
-						<span>🔱 920</span>
-					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
+      mindsdb</a></p>
 				<p>
-      An AI Hedge Fund Team
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32438</span>
-						<span>🔱 5576</span>
+						<span>⭐ 28744</span>
+						<span>🔱 5034</span>
 					</div>
-				<div class="stars-today">⭐ 445 stars today</div>
+				<div class="stars-today">⭐ 453 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/XiaoYouChR/Ghost-Downloader-3" target="_blank">
+    
+
+
+      
+        XiaoYouChR /
+
+      Ghost-Downloader-3</a></p>
+				<p>
+      A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1356</span>
+						<span>🔱 67</span>
+					</div>
+				<div class="stars-today">⭐ 97 stars today</div>
 				</div>
 			</div>
 	
@@ -248,32 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 172305</span>
-						<span>🔱 32550</span>
+						<span>⭐ 172334</span>
+						<span>🔱 32552</span>
 					</div>
 				<div class="stars-today">⭐ 311 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/huggingface.js" target="_blank">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
     
 
 
       
-        huggingface /
+        freeCodeCamp /
 
-      huggingface.js</a></p>
+      freeCodeCamp</a></p>
 				<p>
-      Utilities to use the Hugging Face Hub API
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1914</span>
-						<span>🔱 396</span>
+						<span>⭐ 418437</span>
+						<span>🔱 40174</span>
 					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
+				<div class="stars-today">⭐ 129 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 300615</span>
+						<span>🔱 49855</span>
+					</div>
+				<div class="stars-today">⭐ 342 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 9088</span>
+						<span>🔱 511</span>
+					</div>
+				<div class="stars-today">⭐ 205 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/flutter/flutter" target="_blank">
+    
+
+
+      
+        flutter /
+
+      flutter</a></p>
+				<p>
+      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 170404</span>
+						<span>🔱 28580</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek</a></p>
+				<p>
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3079</span>
+						<span>🔱 337</span>
+					</div>
+				<div class="stars-today">⭐ 81 stars today</div>
 				</div>
 			</div>
 	

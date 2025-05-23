@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-23T09:58:51Z
+date: 2025-05-23T11:58:53Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12477</span>
-						<span>🔱 1771</span>
-					</div>
-				<div class="stars-today">⭐ 12573 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/xming521/WeClone" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11349</span>
-						<span>🔱 867</span>
+						<span>⭐ 11352</span>
+						<span>🔱 869</span>
 					</div>
 				<div class="stars-today">⭐ 8934 stars this month</div>
 				</div>
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68982</span>
-						<span>🔱 9734</span>
+						<span>⭐ 69002</span>
+						<span>🔱 9743</span>
 					</div>
 				<div class="stars-today">⭐ 18648 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
     
 
 
       
-        jujumilk3 /
+        kortix-ai /
 
-      leaked-system-prompts</a></p>
+      suna</a></p>
 				<p>
-      Collection of leaked system prompts
+      Suna - Open Source Generalist AI Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 8214</span>
-						<span>🔱 1007</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12485</span>
+						<span>🔱 1771</span>
 					</div>
-				<div class="stars-today">⭐ 5692 stars this month</div>
+				<div class="stars-today">⭐ 12573 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34275</span>
-						<span>🔱 4841</span>
+						<span>⭐ 34280</span>
+						<span>🔱 4843</span>
 					</div>
 				<div class="stars-today">⭐ 8087 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
     
 
 
       
-        QwenLM /
+        jujumilk3 /
 
-      Qwen3</a></p>
+      leaked-system-prompts</a></p>
 				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+      Collection of leaked system prompts
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 21524</span>
-						<span>🔱 1422</span>
+						<span>🔠 </span>
+						<span>⭐ 8218</span>
+						<span>🔱 1007</span>
 					</div>
-				<div class="stars-today">⭐ 4851 stars this month</div>
+				<div class="stars-today">⭐ 5692 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21481</span>
+						<span>🔱 1327</span>
+					</div>
+				<div class="stars-today">⭐ 9543 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      AI-powered multi-agent builder
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2841</span>
+						<span>🔱 228</span>
+					</div>
+				<div class="stars-today">⭐ 2866 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32319</span>
+						<span>⭐ 32324</span>
 						<span>🔱 3136</span>
 					</div>
 				<div class="stars-today">⭐ 4517 stars this month</div>
@@ -170,22 +190,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
     
 
 
       
-        voideditor /
+        QwenLM /
 
-      void</a></p>
-				<p></p>
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21470</span>
-						<span>🔱 1327</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 21527</span>
+						<span>🔱 1422</span>
 					</div>
-				<div class="stars-today">⭐ 9543 stars this month</div>
+				<div class="stars-today">⭐ 4851 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9576</span>
+						<span>⭐ 9578</span>
 						<span>🔱 675</span>
 					</div>
 				<div class="stars-today">⭐ 5590 stars this month</div>
@@ -226,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3748</span>
-						<span>🔱 256</span>
+						<span>⭐ 3752</span>
+						<span>🔱 257</span>
 					</div>
 				<div class="stars-today">⭐ 2525 stars this month</div>
 				</div>
@@ -248,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 322307</span>
+						<span>⭐ 322317</span>
 						<span>🔱 41594</span>
 					</div>
 				<div class="stars-today">⭐ 7795 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19772</span>
-						<span>🔱 1471</span>
-					</div>
-				<div class="stars-today">⭐ 3804 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3058</span>
-						<span>🔱 332</span>
+						<span>⭐ 3079</span>
+						<span>🔱 337</span>
 					</div>
 				<div class="stars-today">⭐ 2099 stars this month</div>
 				</div>
@@ -314,10 +314,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5124</span>
-						<span>🔱 493</span>
+						<span>⭐ 5126</span>
+						<span>🔱 494</span>
 					</div>
 				<div class="stars-today">⭐ 2726 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19778</span>
+						<span>🔱 1472</span>
+					</div>
+				<div class="stars-today">⭐ 3804 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
+    
+
+
+      
+        lapce /
+
+      lapce</a></p>
+				<p>
+      Lightning-fast and Powerful Code Editor written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36338</span>
+						<span>🔱 1134</span>
+					</div>
+				<div class="stars-today">⭐ 1326 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 52240</span>
+						<span>🔱 5583</span>
+					</div>
+				<div class="stars-today">⭐ 2857 stars this month</div>
 				</div>
 			</div>
 	
