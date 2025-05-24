@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-24T09:58:36Z
+date: 2025-05-24T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11469</span>
-						<span>🔱 877</span>
+						<span>⭐ 11494</span>
+						<span>🔱 879</span>
 					</div>
 				<div class="stars-today">⭐ 9037 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69155</span>
-						<span>🔱 9760</span>
+						<span>⭐ 69176</span>
+						<span>🔱 9761</span>
 					</div>
 				<div class="stars-today">⭐ 18871 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12569</span>
-						<span>🔱 1782</span>
-					</div>
-				<div class="stars-today">⭐ 10880 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34353</span>
-						<span>🔱 4864</span>
+						<span>⭐ 34361</span>
+						<span>🔱 4867</span>
 					</div>
 				<div class="stars-today">⭐ 8186 stars this month</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8291</span>
+						<span>⭐ 8296</span>
 						<span>🔱 1025</span>
 					</div>
 				<div class="stars-today">⭐ 5740 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+    
+
+
+      
+        kortix-ai /
+
+      suna</a></p>
+				<p>
+      Suna - Open Source Generalist AI Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12574</span>
+						<span>🔱 1785</span>
+					</div>
+				<div class="stars-today">⭐ 10880 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21571</span>
+						<span>⭐ 21575</span>
 						<span>🔱 1338</span>
 					</div>
 				<div class="stars-today">⭐ 9657 stars this month</div>
@@ -146,46 +146,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
     
 
 
       
-        rowboatlabs /
+        Lightricks /
 
-      rowboat</a></p>
+      LTX-Video</a></p>
 				<p>
-      AI-powered multi-agent builder
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2860</span>
-						<span>🔱 232</span>
-					</div>
-				<div class="stars-today">⭐ 2493 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+      Official repository for LTX-Video
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32417</span>
-						<span>🔱 3152</span>
+						<span>⭐ 5942</span>
+						<span>🔱 477</span>
 					</div>
-				<div class="stars-today">⭐ 4622 stars this month</div>
+				<div class="stars-today">⭐ 2440 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +182,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21546</span>
-						<span>🔱 1424</span>
+						<span>⭐ 21548</span>
+						<span>🔱 1423</span>
 					</div>
 				<div class="stars-today">⭐ 4866 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
     
 
 
       
-        getzep /
+        mem0ai /
 
-      graphiti</a></p>
+      mem0</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9628</span>
-						<span>🔱 682</span>
+						<span>⭐ 32424</span>
+						<span>🔱 3153</span>
 					</div>
-				<div class="stars-today">⭐ 5617 stars this month</div>
+				<div class="stars-today">⭐ 4622 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek</a></p>
+				<p>
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3508</span>
+						<span>🔱 370</span>
+					</div>
+				<div class="stars-today">⭐ 2268 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3794</span>
-						<span>🔱 259</span>
+						<span>⭐ 3797</span>
+						<span>🔱 260</span>
 					</div>
 				<div class="stars-today">⭐ 2609 stars this month</div>
 				</div>
@@ -270,76 +270,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 322503</span>
-						<span>🔱 41623</span>
+						<span>⭐ 322526</span>
+						<span>🔱 41622</span>
 					</div>
 				<div class="stars-today">⭐ 7501 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
 
       
-        Fosowl /
+        getzep /
 
-      agenticSeek</a></p>
+      graphiti</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3470</span>
-						<span>🔱 368</span>
+						<span>⭐ 9634</span>
+						<span>🔱 682</span>
 					</div>
-				<div class="stars-today">⭐ 2268 stars this month</div>
+				<div class="stars-today">⭐ 5617 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        microsoft /
+        modular /
 
-      BitNet</a></p>
+      modular</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19800</span>
-						<span>🔱 1475</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 24089</span>
+						<span>🔱 2608</span>
 					</div>
-				<div class="stars-today">⭐ 3260 stars this month</div>
+				<div class="stars-today">⭐ 306 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
     
 
 
       
-        lapce /
+        rowboatlabs /
 
-      lapce</a></p>
+      rowboat</a></p>
 				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
+      AI-powered multi-agent builder
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36354</span>
-						<span>🔱 1135</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2861</span>
+						<span>🔱 232</span>
 					</div>
-				<div class="stars-today">⭐ 1320 stars this month</div>
+				<div class="stars-today">⭐ 2493 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 42750</span>
+						<span>🔱 1806</span>
+					</div>
+				<div class="stars-today">⭐ 5421 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 52416</span>
+						<span>⭐ 52437</span>
 						<span>🔱 5598</span>
 					</div>
 				<div class="stars-today">⭐ 2912 stars this month</div>
