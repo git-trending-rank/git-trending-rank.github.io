@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第21周
-date: 2025-05-25T09:58:34Z
+date: 2025-05-25T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32745</span>
-						<span>🔱 5641</span>
+						<span>⭐ 32761</span>
+						<span>🔱 5644</span>
 					</div>
 				<div class="stars-today">⭐ 4847 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 30375</span>
-						<span>🔱 6686</span>
+						<span>⭐ 30451</span>
+						<span>🔱 6701</span>
 					</div>
 				<div class="stars-today">⭐ 8070 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1079</span>
+						<span>⭐ 1087</span>
 						<span>🔱 62</span>
 					</div>
 				<div class="stars-today">⭐ 857 stars this week</div>
@@ -82,24 +82,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
     
 
 
       
-        public-apis /
+        appwrite /
 
-      public-apis</a></p>
+      appwrite</a></p>
 				<p>
-      A collective list of free APIs
+      The open-source Vercel alternative
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 346788</span>
-						<span>🔱 36421</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50133</span>
+						<span>🔱 4397</span>
 					</div>
-				<div class="stars-today">⭐ 5692 stars this week</div>
+				<div class="stars-today">⭐ 1476 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20108</span>
-						<span>🔱 2785</span>
+						<span>⭐ 20114</span>
+						<span>🔱 2784</span>
 					</div>
 				<div class="stars-today">⭐ 1075 stars this week</div>
 				</div>
@@ -140,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55973</span>
-						<span>🔱 6273</span>
+						<span>⭐ 55990</span>
+						<span>🔱 6275</span>
 					</div>
 				<div class="stars-today">⭐ 1524 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        appwrite /
+        public-apis /
 
-      appwrite</a></p>
+      public-apis</a></p>
 				<p>
-      The open-source Vercel alternative
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50128</span>
-						<span>🔱 4397</span>
+						<span>🔠 Python</span>
+						<span>⭐ 346817</span>
+						<span>🔱 36425</span>
 					</div>
-				<div class="stars-today">⭐ 1476 stars this week</div>
+				<div class="stars-today">⭐ 5692 stars this week</div>
 				</div>
 			</div>
 	
@@ -192,46 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
+				<p><a href="https://github.com/HeyPuter/puter" target="_blank">
     
 
 
       
-        f /
+        HeyPuter /
 
-      awesome-chatgpt-prompts</a></p>
+      puter</a></p>
 				<p>
-      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+      🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 126478</span>
-						<span>🔱 16818</span>
+						<span>⭐ 32562</span>
+						<span>🔱 2405</span>
 					</div>
-				<div class="stars-today">⭐ 1855 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32499</span>
-						<span>🔱 3167</span>
-					</div>
-				<div class="stars-today">⭐ 1387 stars this week</div>
+				<div class="stars-today">⭐ 1838 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 31442</span>
+						<span>⭐ 31456</span>
 						<span>🔱 870</span>
 					</div>
 				<div class="stars-today">⭐ 1263 stars this week</div>
@@ -258,46 +236,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
     
 
 
       
-        th-ch /
+        DataExpert-io /
 
-      youtube-music</a></p>
+      data-engineer-handbook</a></p>
 				<p>
-      YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+      This is a repo with links to everything you'd ever want to learn about data engineering
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21478</span>
-						<span>🔱 1111</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 28059</span>
+						<span>🔱 5691</span>
 					</div>
-				<div class="stars-today">⭐ 1363 stars this week</div>
+				<div class="stars-today">⭐ 288 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/colinhacks/zod" target="_blank">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
     
 
 
       
-        colinhacks /
+        mem0ai /
 
-      zod</a></p>
+      mem0</a></p>
 				<p>
-      TypeScript-first schema validation with static type inference
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38176</span>
-						<span>🔱 1460</span>
+						<span>🔠 Python</span>
+						<span>⭐ 32507</span>
+						<span>🔱 3170</span>
 					</div>
-				<div class="stars-today">⭐ 423 stars this week</div>
+				<div class="stars-today">⭐ 1387 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7503</span>
+						<span>⭐ 7506</span>
 						<span>🔱 246</span>
 					</div>
 				<div class="stars-today">⭐ 332 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
+    
+
+
+      
+        f /
+
+      awesome-chatgpt-prompts</a></p>
+				<p>
+      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 126492</span>
+						<span>🔱 16821</span>
+					</div>
+				<div class="stars-today">⭐ 1855 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 9795</span>
+						<span>🔱 546</span>
+					</div>
+				<div class="stars-today">⭐ 972 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 67784</span>
-						<span>🔱 4322</span>
+						<span>⭐ 67796</span>
+						<span>🔱 4321</span>
 					</div>
 				<div class="stars-today">⭐ 1102 stars this week</div>
 				</div>

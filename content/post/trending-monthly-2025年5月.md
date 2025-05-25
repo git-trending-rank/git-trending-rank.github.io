@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-25T09:58:34Z
+date: 2025-05-25T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11619</span>
+						<span>⭐ 11633</span>
 						<span>🔱 885</span>
 					</div>
 				<div class="stars-today">⭐ 9135 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69314</span>
-						<span>🔱 9776</span>
+						<span>⭐ 69330</span>
+						<span>🔱 9777</span>
 					</div>
 				<div class="stars-today">⭐ 18996 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34425</span>
-						<span>🔱 4884</span>
+						<span>⭐ 34432</span>
+						<span>🔱 4885</span>
 					</div>
 				<div class="stars-today">⭐ 8234 stars this month</div>
 				</div>
@@ -96,10 +96,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8353</span>
+						<span>⭐ 8360</span>
 						<span>🔱 1036</span>
 					</div>
 				<div class="stars-today">⭐ 5756 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21668</span>
+						<span>🔱 1347</span>
+					</div>
+				<div class="stars-today">⭐ 9718 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,30 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12671</span>
-						<span>🔱 1804</span>
+						<span>⭐ 12683</span>
+						<span>🔱 1806</span>
 					</div>
 				<div class="stars-today">⭐ 10042 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21660</span>
-						<span>🔱 1347</span>
-					</div>
-				<div class="stars-today">⭐ 9718 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5967</span>
+						<span>⭐ 5968</span>
 						<span>🔱 479</span>
 					</div>
 				<div class="stars-today">⭐ 2453 stars this month</div>
@@ -182,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21571</span>
-						<span>🔱 1426</span>
+						<span>⭐ 21575</span>
+						<span>🔱 1428</span>
 					</div>
 				<div class="stars-today">⭐ 4873 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32499</span>
-						<span>🔱 3167</span>
-					</div>
-				<div class="stars-today">⭐ 4677 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3839</span>
-						<span>🔱 390</span>
+						<span>⭐ 3934</span>
+						<span>🔱 397</span>
 					</div>
 				<div class="stars-today">⭐ 2639 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32507</span>
+						<span>🔱 3170</span>
+					</div>
+				<div class="stars-today">⭐ 4677 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3846</span>
-						<span>🔱 265</span>
+						<span>⭐ 3859</span>
+						<span>🔱 267</span>
 					</div>
 				<div class="stars-today">⭐ 2642 stars this month</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 322686</span>
-						<span>🔱 41643</span>
+						<span>⭐ 322750</span>
+						<span>🔱 41649</span>
 					</div>
 				<div class="stars-today">⭐ 7355 stars this month</div>
 				</div>
@@ -292,10 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9687</span>
+						<span>⭐ 9688</span>
 						<span>🔱 686</span>
 					</div>
 				<div class="stars-today">⭐ 5592 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 42799</span>
+						<span>🔱 1810</span>
+					</div>
+				<div class="stars-today">⭐ 5441 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 52646</span>
+						<span>🔱 5610</span>
+					</div>
+				<div class="stars-today">⭐ 3063 stars this month</div>
 				</div>
 			</div>
 	
@@ -322,68 +366,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        rowboatlabs /
+        simstudioai /
 
-      rowboat</a></p>
+      sim</a></p>
 				<p>
-      AI-powered multi-agent builder
+      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2888</span>
-						<span>🔱 233</span>
+						<span>⭐ 3725</span>
+						<span>🔱 568</span>
 					</div>
-				<div class="stars-today">⭐ 2271 stars this month</div>
+				<div class="stars-today">⭐ 2259 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        lapce /
 
-      ladybird</a></p>
+      lapce</a></p>
 				<p>
-      Truly independent web browser
+      Lightning-fast and Powerful Code Editor written in Rust
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 42795</span>
-						<span>🔱 1808</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 36369</span>
+						<span>🔱 1136</span>
 					</div>
-				<div class="stars-today">⭐ 5441 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 52631</span>
-						<span>🔱 5609</span>
-					</div>
-				<div class="stars-today">⭐ 3063 stars this month</div>
+				<div class="stars-today">⭐ 1321 stars this month</div>
 				</div>
 			</div>
 	
