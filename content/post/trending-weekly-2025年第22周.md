@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第22周
-date: 2025-05-26T15:58:56Z
+date: 2025-05-26T17:58:32Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33099</span>
-						<span>🔱 5702</span>
+						<span>⭐ 33119</span>
+						<span>🔱 5703</span>
 					</div>
 				<div class="stars-today">⭐ 4771 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 31425</span>
-						<span>🔱 6928</span>
+						<span>⭐ 31456</span>
+						<span>🔱 6932</span>
 					</div>
 				<div class="stars-today">⭐ 6990 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1150</span>
+						<span>⭐ 1152</span>
 						<span>🔱 68</span>
 					</div>
 				<div class="stars-today">⭐ 907 stars this week</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56188</span>
-						<span>🔱 6311</span>
+						<span>⭐ 56197</span>
+						<span>🔱 6312</span>
 					</div>
 				<div class="stars-today">⭐ 1755 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50227</span>
-						<span>🔱 4403</span>
+						<span>⭐ 50241</span>
+						<span>🔱 4404</span>
 					</div>
 				<div class="stars-today">⭐ 1534 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 347203</span>
-						<span>🔱 36474</span>
+						<span>⭐ 347219</span>
+						<span>🔱 36478</span>
 					</div>
 				<div class="stars-today">⭐ 4518 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20185</span>
-						<span>🔱 2793</span>
+						<span>⭐ 20193</span>
+						<span>🔱 2794</span>
 					</div>
 				<div class="stars-today">⭐ 907 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 119356</span>
-						<span>🔱 7055</span>
+						<span>⭐ 119362</span>
+						<span>🔱 7056</span>
 					</div>
 				<div class="stars-today">⭐ 622 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6419</span>
-						<span>🔱 564</span>
+						<span>⭐ 6592</span>
+						<span>🔱 582</span>
 					</div>
 				<div class="stars-today">⭐ 3157 stars this week</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29216</span>
+						<span>⭐ 29219</span>
 						<span>🔱 3412</span>
 					</div>
 				<div class="stars-today">⭐ 335 stars this week</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 10140</span>
+						<span>⭐ 10151</span>
 						<span>🔱 566</span>
 					</div>
 				<div class="stars-today">⭐ 1160 stars this week</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 28104</span>
+						<span>⭐ 28107</span>
 						<span>🔱 5694</span>
 					</div>
 				<div class="stars-today">⭐ 296 stars this week</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32650</span>
-						<span>🔱 3190</span>
+						<span>⭐ 32657</span>
+						<span>🔱 3189</span>
 					</div>
 				<div class="stars-today">⭐ 1261 stars this week</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7548</span>
-						<span>🔱 248</span>
+						<span>⭐ 7549</span>
+						<span>🔱 249</span>
 					</div>
 				<div class="stars-today">⭐ 277 stars this week</div>
 				</div>
