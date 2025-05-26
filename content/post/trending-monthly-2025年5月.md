@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-26T10:13:39Z
+date: 2025-05-26T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11791</span>
+						<span>⭐ 11803</span>
 						<span>🔱 895</span>
 					</div>
 				<div class="stars-today">⭐ 9256 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69468</span>
-						<span>🔱 9801</span>
+						<span>⭐ 69482</span>
+						<span>🔱 9803</span>
 					</div>
 				<div class="stars-today">⭐ 19136 stars this month</div>
 				</div>
@@ -74,10 +74,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34555</span>
-						<span>🔱 4900</span>
+						<span>⭐ 34565</span>
+						<span>🔱 4901</span>
 					</div>
 				<div class="stars-today">⭐ 8295 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21771</span>
+						<span>🔱 1355</span>
+					</div>
+				<div class="stars-today">⭐ 9768 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,96 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8423</span>
+						<span>⭐ 8432</span>
 						<span>🔱 1043</span>
 					</div>
 				<div class="stars-today">⭐ 5105 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21768</span>
-						<span>🔱 1355</span>
-					</div>
-				<div class="stars-today">⭐ 9768 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 12809</span>
-						<span>🔱 1822</span>
-					</div>
-				<div class="stars-today">⭐ 7859 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6017</span>
-						<span>🔱 485</span>
-					</div>
-				<div class="stars-today">⭐ 2467 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3</a></p>
-				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 21615</span>
-						<span>🔱 1430</span>
-					</div>
-				<div class="stars-today">⭐ 4884 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +138,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5760</span>
-						<span>🔱 513</span>
+						<span>⭐ 5915</span>
+						<span>🔱 528</span>
 					</div>
 				<div class="stars-today">⭐ 3311 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 21619</span>
+						<span>🔱 1431</span>
+					</div>
+				<div class="stars-today">⭐ 4884 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6019</span>
+						<span>🔱 485</span>
+					</div>
+				<div class="stars-today">⭐ 2467 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32617</span>
-						<span>🔱 3183</span>
+						<span>⭐ 32631</span>
+						<span>🔱 3184</span>
 					</div>
 				<div class="stars-today">⭐ 4731 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+    
+
+
+      
+        kortix-ai /
+
+      suna</a></p>
+				<p>
+      Suna - Open Source Generalist AI Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 12819</span>
+						<span>🔱 1823</span>
+					</div>
+				<div class="stars-today">⭐ 7859 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4030</span>
+						<span>⭐ 4037</span>
 						<span>🔱 288</span>
 					</div>
 				<div class="stars-today">⭐ 2737 stars this month</div>
@@ -270,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 323357</span>
-						<span>🔱 41712</span>
+						<span>⭐ 323384</span>
+						<span>🔱 41716</span>
 					</div>
 				<div class="stars-today">⭐ 7567 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9765</span>
-						<span>🔱 693</span>
-					</div>
-				<div class="stars-today">⭐ 5067 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 42855</span>
+						<span>⭐ 42862</span>
 						<span>🔱 1814</span>
 					</div>
 				<div class="stars-today">⭐ 5471 stars this month</div>
@@ -336,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 52776</span>
-						<span>🔱 5624</span>
+						<span>⭐ 52795</span>
+						<span>🔱 5626</span>
 					</div>
 				<div class="stars-today">⭐ 3216 stars this month</div>
 				</div>
@@ -358,10 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 24110</span>
-						<span>🔱 2609</span>
+						<span>⭐ 24112</span>
+						<span>🔱 2610</span>
 					</div>
 				<div class="stars-today">⭐ 305 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zed-industries/zed" target="_blank">
+    
+
+
+      
+        zed-industries /
+
+      zed</a></p>
+				<p>
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 60401</span>
+						<span>🔱 4345</span>
+					</div>
+				<div class="stars-today">⭐ 3262 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9773</span>
+						<span>🔱 694</span>
+					</div>
+				<div class="stars-today">⭐ 5067 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +402,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3764</span>
-						<span>🔱 569</span>
+						<span>⭐ 3768</span>
+						<span>🔱 568</span>
 					</div>
 				<div class="stars-today">⭐ 2270 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lapce/lapce" target="_blank">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
     
 
 
       
-        lapce /
+        mindsdb /
 
-      lapce</a></p>
+      mindsdb</a></p>
 				<p>
-      Lightning-fast and Powerful Code Editor written in Rust
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36403</span>
-						<span>🔱 1137</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30000</span>
+						<span>🔱 5108</span>
 					</div>
-				<div class="stars-today">⭐ 1306 stars this month</div>
+				<div class="stars-today">⭐ 1887 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      Build like a team of hundreds_
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50205</span>
+						<span>🔱 4400</span>
+					</div>
+				<div class="stars-today">⭐ 2008 stars this month</div>
 				</div>
 			</div>
 	

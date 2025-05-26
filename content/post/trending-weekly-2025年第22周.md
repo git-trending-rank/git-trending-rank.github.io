@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第22周
-date: 2025-05-26T10:13:39Z
+date: 2025-05-26T11:58:50Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33031</span>
-						<span>🔱 5687</span>
+						<span>⭐ 33051</span>
+						<span>🔱 5692</span>
 					</div>
 				<div class="stars-today">⭐ 4771 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 31258</span>
-						<span>🔱 6893</span>
+						<span>⭐ 31307</span>
+						<span>🔱 6903</span>
 					</div>
 				<div class="stars-today">⭐ 6990 stars this week</div>
 				</div>
@@ -74,52 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1136</span>
+						<span>⭐ 1139</span>
 						<span>🔱 67</span>
-					</div>
-				<div class="stars-today">⭐ 907 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      Build like a team of hundreds_
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50202</span>
-						<span>🔱 4401</span>
-					</div>
-				<div class="stars-today">⭐ 1534 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
-    
-
-
-      
-        CopilotKit /
-
-      CopilotKit</a></p>
-				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20166</span>
-						<span>🔱 2791</span>
 					</div>
 				<div class="stars-today">⭐ 907 stars this week</div>
 				</div>
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56155</span>
-						<span>🔱 6305</span>
+						<span>⭐ 56158</span>
+						<span>🔱 6308</span>
 					</div>
 				<div class="stars-today">⭐ 1755 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      Build like a team of hundreds_
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50205</span>
+						<span>🔱 4400</span>
+					</div>
+				<div class="stars-today">⭐ 1534 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 347121</span>
-						<span>🔱 36466</span>
+						<span>⭐ 347144</span>
+						<span>🔱 36468</span>
 					</div>
 				<div class="stars-today">⭐ 4518 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+    
+
+
+      
+        CopilotKit /
+
+      CopilotKit</a></p>
+				<p>
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20170</span>
+						<span>🔱 2791</span>
+					</div>
+				<div class="stars-today">⭐ 907 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 119344</span>
-						<span>🔱 7053</span>
+						<span>⭐ 119346</span>
+						<span>🔱 7054</span>
 					</div>
 				<div class="stars-today">⭐ 622 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HeyPuter/puter" target="_blank">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
     
 
 
       
-        HeyPuter /
+        Fosowl /
 
-      puter</a></p>
+      agenticSeek</a></p>
 				<p>
-      🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 32651</span>
-						<span>🔱 2415</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5915</span>
+						<span>🔱 528</span>
 					</div>
-				<div class="stars-today">⭐ 1856 stars this week</div>
+				<div class="stars-today">⭐ 3157 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zen-browser/desktop" target="_blank">
+				<p><a href="https://github.com/tinygrad/tinygrad" target="_blank">
     
 
 
       
-        zen-browser /
+        tinygrad /
 
-      desktop</a></p>
+      tinygrad</a></p>
 				<p>
-      Welcome to a calmer internet
+      You like pytorch? You like micrograd? You love tinygrad! ❤️ 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 31609</span>
-						<span>🔱 871</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29210</span>
+						<span>🔱 3411</span>
 					</div>
-				<div class="stars-today">⭐ 1391 stars this week</div>
+				<div class="stars-today">⭐ 335 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 10108</span>
+						<span>🔱 562</span>
+					</div>
+				<div class="stars-today">⭐ 1160 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 28099</span>
+						<span>⭐ 28101</span>
 						<span>🔱 5694</span>
 					</div>
 				<div class="stars-today">⭐ 296 stars this week</div>
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32617</span>
-						<span>🔱 3183</span>
+						<span>⭐ 32631</span>
+						<span>🔱 3184</span>
 					</div>
 				<div class="stars-today">⭐ 1261 stars this week</div>
 				</div>
@@ -294,76 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7539</span>
+						<span>⭐ 7541</span>
 						<span>🔱 248</span>
 					</div>
 				<div class="stars-today">⭐ 277 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
-    
-
-
-      
-        f /
-
-      awesome-chatgpt-prompts</a></p>
-				<p>
-      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 126608</span>
-						<span>🔱 16828</span>
-					</div>
-				<div class="stars-today">⭐ 1746 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 10090</span>
-						<span>🔱 561</span>
-					</div>
-				<div class="stars-today">⭐ 1160 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ventoy/Ventoy" target="_blank">
-    
-
-
-      
-        ventoy /
-
-      Ventoy</a></p>
-				<p>
-      A new bootable USB solution.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 67963</span>
-						<span>🔱 4328</span>
-					</div>
-				<div class="stars-today">⭐ 1116 stars this week</div>
 				</div>
 			</div>
 	
