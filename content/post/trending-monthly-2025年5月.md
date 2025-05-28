@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-28T09:58:46Z
+date: 2025-05-28T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12169</span>
-						<span>🔱 916</span>
+						<span>⭐ 12213</span>
+						<span>🔱 918</span>
 					</div>
 				<div class="stars-today">⭐ 9526 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69763</span>
-						<span>🔱 9849</span>
-					</div>
-				<div class="stars-today">⭐ 19230 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34803</span>
-						<span>🔱 4934</span>
+						<span>⭐ 34811</span>
+						<span>🔱 4935</span>
 					</div>
 				<div class="stars-today">⭐ 8528 stars this month</div>
 				</div>
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10483</span>
-						<span>🔱 874</span>
+						<span>⭐ 10685</span>
+						<span>🔱 890</span>
 					</div>
 				<div class="stars-today">⭐ 7776 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 69783</span>
+						<span>🔱 9850</span>
+					</div>
+				<div class="stars-today">⭐ 19230 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22111</span>
-						<span>🔱 1393</span>
+						<span>⭐ 22120</span>
+						<span>🔱 1394</span>
 					</div>
 				<div class="stars-today">⭐ 9979 stars this month</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6153</span>
-						<span>🔱 502</span>
+						<span>⭐ 6156</span>
+						<span>🔱 503</span>
 					</div>
 				<div class="stars-today">⭐ 2567 stars this month</div>
 				</div>
@@ -160,76 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32894</span>
-						<span>🔱 3223</span>
+						<span>⭐ 32903</span>
+						<span>🔱 3228</span>
 					</div>
 				<div class="stars-today">⭐ 4947 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
-    
-
-
-      
-        jujumilk3 /
-
-      leaked-system-prompts</a></p>
-				<p>
-      Collection of leaked system prompts
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 8572</span>
-						<span>🔱 1054</span>
-					</div>
-				<div class="stars-today">⭐ 4282 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      flowgram.ai</a></p>
-				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4220</span>
-						<span>🔱 303</span>
-					</div>
-				<div class="stars-today">⭐ 2984 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3</a></p>
-				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 21715</span>
-						<span>🔱 1440</span>
-					</div>
-				<div class="stars-today">⭐ 4971 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 42989</span>
+						<span>⭐ 42993</span>
 						<span>🔱 1822</span>
 					</div>
 				<div class="stars-today">⭐ 5566 stars this month</div>
@@ -256,24 +190,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
     
 
 
       
-        kortix-ai /
+        bytedance /
 
-      suna</a></p>
+      flowgram.ai</a></p>
 				<p>
-      Suna - Open Source Generalist AI Agent
+      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13215</span>
-						<span>🔱 1887</span>
+						<span>⭐ 4231</span>
+						<span>🔱 303</span>
 					</div>
-				<div class="stars-today">⭐ 5609 stars this month</div>
+				<div class="stars-today">⭐ 2984 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 8582</span>
+						<span>🔱 1055</span>
+					</div>
+				<div class="stars-today">⭐ 4282 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent</a></p>
+				<p>
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9016</span>
+						<span>🔱 761</span>
+					</div>
+				<div class="stars-today">⭐ 2387 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 53206</span>
-						<span>🔱 5661</span>
+						<span>⭐ 53219</span>
+						<span>🔱 5663</span>
 					</div>
 				<div class="stars-today">⭐ 3615 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 324008</span>
-						<span>🔱 41769</span>
-					</div>
-				<div class="stars-today">⭐ 8180 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30515</span>
+						<span>⭐ 30526</span>
 						<span>🔱 5150</span>
 					</div>
 				<div class="stars-today">⭐ 2616 stars this month</div>
@@ -344,24 +300,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
     
 
 
       
-        modular /
+        kortix-ai /
 
-      modular</a></p>
+      suna</a></p>
 				<p>
-      The Modular Platform (includes MAX & Mojo)
+      Suna - Open Source Generalist AI Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 24132</span>
-						<span>🔱 2614</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13237</span>
+						<span>🔱 1890</span>
 					</div>
-				<div class="stars-today">⭐ 322 stars this month</div>
+				<div class="stars-today">⭐ 5609 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 324025</span>
+						<span>🔱 41768</span>
+					</div>
+				<div class="stars-today">⭐ 8180 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50404</span>
-						<span>🔱 4411</span>
+						<span>⭐ 50414</span>
+						<span>🔱 4414</span>
 					</div>
 				<div class="stars-today">⭐ 2174 stars this month</div>
 				</div>
@@ -402,54 +380,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60543</span>
-						<span>🔱 4358</span>
+						<span>⭐ 60549</span>
+						<span>🔱 4360</span>
 					</div>
 				<div class="stars-today">⭐ 3322 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruanyf/weekly" target="_blank">
+				<p><a href="https://github.com/modular/modular" target="_blank">
     
 
 
       
-        ruanyf /
+        modular /
 
-      weekly</a></p>
+      modular</a></p>
 				<p>
-      科技爱好者周刊，每周五发布
+      The Modular Platform (includes MAX & Mojo)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 65921</span>
-						<span>🔱 3405</span>
+						<span>🔠 Mojo</span>
+						<span>⭐ 24134</span>
+						<span>🔱 2614</span>
 					</div>
-				<div class="stars-today">⭐ 11189 stars this month</div>
+				<div class="stars-today">⭐ 322 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        CopilotKit /
+        public-apis /
 
-      CopilotKit</a></p>
+      public-apis</a></p>
 				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20333</span>
-						<span>🔱 2806</span>
+						<span>🔠 Python</span>
+						<span>⭐ 347620</span>
+						<span>🔱 36536</span>
 					</div>
-				<div class="stars-today">⭐ 1990 stars this month</div>
+				<div class="stars-today">⭐ 10034 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
+    
+
+
+      
+        f /
+
+      awesome-chatgpt-prompts</a></p>
+				<p>
+      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 126785</span>
+						<span>🔱 16849</span>
+					</div>
+				<div class="stars-today">⭐ 3372 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22810</span>
+						<span>🔱 3541</span>
+					</div>
+				<div class="stars-today">⭐ 3713 stars this month</div>
 				</div>
 			</div>
 	

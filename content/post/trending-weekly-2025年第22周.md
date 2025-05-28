@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第22周
-date: 2025-05-28T09:58:46Z
+date: 2025-05-28T11:58:44Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/WSL" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      WSL</a></p>
-				<p>
-      Windows Subsystem for Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 27656</span>
-						<span>🔱 1302</span>
-					</div>
-				<div class="stars-today">⭐ 5177 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
@@ -52,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10483</span>
-						<span>🔱 874</span>
+						<span>⭐ 10685</span>
+						<span>🔱 890</span>
 					</div>
 				<div class="stars-today">⭐ 5930 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33523</span>
-						<span>🔱 5778</span>
-					</div>
-				<div class="stars-today">⭐ 2752 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      registry</a></p>
-				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1270</span>
-						<span>🔱 80</span>
-					</div>
-				<div class="stars-today">⭐ 927 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56521</span>
-						<span>🔱 6352</span>
+						<span>⭐ 56552</span>
+						<span>🔱 6355</span>
 					</div>
 				<div class="stars-today">⭐ 1938 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+				<p><a href="https://github.com/microsoft/WSL" target="_blank">
     
 
 
       
-        appwrite /
+        microsoft /
 
-      appwrite</a></p>
+      WSL</a></p>
 				<p>
-      Build like a team of hundreds_
+      Windows Subsystem for Linux
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50404</span>
-						<span>🔱 4411</span>
+						<span>🔠 C++</span>
+						<span>⭐ 27666</span>
+						<span>🔱 1302</span>
 					</div>
-				<div class="stars-today">⭐ 1395 stars this week</div>
+				<div class="stars-today">⭐ 5177 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
     
 
 
       
-        TapXWorld /
+        modelcontextprotocol /
 
-      ChinaTextbook</a></p>
+      registry</a></p>
 				<p>
-      所有小初高、大学PDF教材。
+      A community driven registry service for Model Context Protocol (MCP) servers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 32576</span>
-						<span>🔱 7202</span>
+						<span>🔠 Go</span>
+						<span>⭐ 1276</span>
+						<span>🔱 80</span>
 					</div>
-				<div class="stars-today">⭐ 5001 stars this week</div>
+				<div class="stars-today">⭐ 927 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5071</span>
-						<span>🔱 455</span>
+						<span>⭐ 5089</span>
+						<span>🔱 456</span>
 					</div>
 				<div class="stars-today">⭐ 529 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 10378</span>
+						<span>🔱 578</span>
+					</div>
+				<div class="stars-today">⭐ 1566 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 53206</span>
-						<span>🔱 5661</span>
+						<span>⭐ 53219</span>
+						<span>🔱 5663</span>
 					</div>
 				<div class="stars-today">⭐ 1235 stars this week</div>
 				</div>
@@ -226,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 6421</span>
+						<span>⭐ 6436</span>
 						<span>🔱 944</span>
 					</div>
 				<div class="stars-today">⭐ 317 stars this week</div>
@@ -234,24 +190,66 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        juspay /
+        virattt /
 
-      hyperswitch</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20188</span>
-						<span>🔱 3263</span>
+						<span>🔠 Python</span>
+						<span>⭐ 33538</span>
+						<span>🔱 5779</span>
 					</div>
-				<div class="stars-today">⭐ 1597 stars this week</div>
+				<div class="stars-today">⭐ 2752 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bilibili/Index-anisora" target="_blank">
+    
+
+
+      
+        bilibili /
+
+      Index-anisora</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1143</span>
+						<span>🔱 50</span>
+					</div>
+				<div class="stars-today">⭐ 452 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      Build like a team of hundreds_
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50414</span>
+						<span>🔱 4414</span>
+					</div>
+				<div class="stars-today">⭐ 1395 stars this week</div>
 				</div>
 			</div>
 	

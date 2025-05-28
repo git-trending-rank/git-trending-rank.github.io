@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-28
-date: 2025-05-28T09:58:46Z
+date: 2025-05-28T11:58:45Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10483</span>
-						<span>🔱 874</span>
+						<span>⭐ 10685</span>
+						<span>🔱 890</span>
 					</div>
 				<div class="stars-today">⭐ 2444 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
+    
+
+
+      
+        duixcom /
+
+      Duix.mobile</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 6436</span>
+						<span>🔱 944</span>
+					</div>
+				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
 			</div>
 	
@@ -52,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 183773</span>
-						<span>🔱 23085</span>
+						<span>⭐ 183861</span>
+						<span>🔱 23091</span>
 					</div>
 				<div class="stars-today">⭐ 861 stars today</div>
 				</div>
@@ -74,248 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22785</span>
-						<span>🔱 3539</span>
+						<span>⭐ 22810</span>
+						<span>🔱 3541</span>
 					</div>
 				<div class="stars-today">⭐ 660 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
+				<p><a href="https://github.com/langflow-ai/langflow" target="_blank">
     
 
 
       
-        pathwaycom /
+        langflow-ai /
 
-      pathway</a></p>
+      langflow</a></p>
 				<p>
-      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+      Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26264</span>
-						<span>🔱 578</span>
+						<span>⭐ 64997</span>
+						<span>🔱 6598</span>
 					</div>
-				<div class="stars-today">⭐ 236 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      RD-Agent</a></p>
-				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5071</span>
-						<span>🔱 455</span>
-					</div>
-				<div class="stars-today">⭐ 187 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lobehub/lobe-chat" target="_blank">
-    
-
-
-      
-        lobehub /
-
-      lobe-chat</a></p>
-				<p>
-      🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 61873</span>
-						<span>🔱 12886</span>
-					</div>
-				<div class="stars-today">⭐ 218 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      typescript-go</a></p>
-				<p>
-      Staging repo for development of native port of TypeScript
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 20371</span>
-						<span>🔱 629</span>
-					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30515</span>
-						<span>🔱 5150</span>
-					</div>
-				<div class="stars-today">⭐ 300 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/groupultra/telegram-search" target="_blank">
-    
-
-
-      
-        groupultra /
-
-      telegram-search</a></p>
-				<p>
-      🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2005</span>
-						<span>🔱 137</span>
-					</div>
-				<div class="stars-today">⭐ 295 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stalwartlabs/stalwart" target="_blank">
-    
-
-
-      
-        stalwartlabs /
-
-      stalwart</a></p>
-				<p>
-      All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8200</span>
-						<span>🔱 382</span>
-					</div>
-				<div class="stars-today">⭐ 169 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/duixcom/Duix.Heygem" target="_blank">
-    
-
-
-      
-        duixcom /
-
-      Duix.Heygem</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 9276</span>
-						<span>🔱 1524</span>
-					</div>
-				<div class="stars-today">⭐ 73 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
-    
-
-
-      
-        duixcom /
-
-      Duix.mobile</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 6421</span>
-						<span>🔱 944</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sktime/sktime" target="_blank">
-    
-
-
-      
-        sktime /
-
-      sktime</a></p>
-				<p>
-      A unified framework for machine learning with time series
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8725</span>
-						<span>🔱 1578</span>
-					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm</a></p>
-				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48383</span>
-						<span>🔱 7641</span>
-					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
+				<div class="stars-today">⭐ 791 stars today</div>
 				</div>
 			</div>
 	
@@ -334,10 +138,274 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99931</span>
-						<span>🔱 27767</span>
+						<span>⭐ 99991</span>
+						<span>🔱 27784</span>
 					</div>
 				<div class="stars-today">⭐ 509 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhayujie/chatgpt-on-wechat" target="_blank">
+    
+
+
+      
+        zhayujie /
+
+      chatgpt-on-wechat</a></p>
+				<p>
+      基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37027</span>
+						<span>🔱 9235</span>
+					</div>
+				<div class="stars-today">⭐ 64 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NomicFoundation/hardhat" target="_blank">
+    
+
+
+      
+        NomicFoundation /
+
+      hardhat</a></p>
+				<p>
+      Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7731</span>
+						<span>🔱 1557</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5089</span>
+						<span>🔱 456</span>
+					</div>
+				<div class="stars-today">⭐ 187 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/actions/runner-images" target="_blank">
+    
+
+
+      
+        actions /
+
+      runner-images</a></p>
+				<p>
+      GitHub Actions runner images
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 11124</span>
+						<span>🔱 3329</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/labring/FastGPT" target="_blank">
+    
+
+
+      
+        labring /
+
+      FastGPT</a></p>
+				<p>
+      FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24308</span>
+						<span>🔱 6288</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 53219</span>
+						<span>🔱 5663</span>
+					</div>
+				<div class="stars-today">⭐ 255 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lagrange-Labs/deep-prove" target="_blank">
+    
+
+
+      
+        Lagrange-Labs /
+
+      deep-prove</a></p>
+				<p>
+      Framework to prove inference of ML models blazingly fast
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2530</span>
+						<span>🔱 38</span>
+					</div>
+				<div class="stars-today">⭐ 438 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
+    
+
+
+      
+        78 /
+
+      xiaozhi-esp32</a></p>
+				<p>
+      Build your own AI friend
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 13724</span>
+						<span>🔱 2680</span>
+					</div>
+				<div class="stars-today">⭐ 94 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
+    
+
+
+      
+        trimstray /
+
+      the-book-of-secret-knowledge</a></p>
+				<p>
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 170469</span>
+						<span>🔱 10648</span>
+					</div>
+				<div class="stars-today">⭐ 185 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ccxt/ccxt" target="_blank">
+    
+
+
+      
+        ccxt /
+
+      ccxt</a></p>
+				<p>
+      A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36307</span>
+						<span>🔱 7914</span>
+					</div>
+				<div class="stars-today">⭐ 35 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sktime/sktime" target="_blank">
+    
+
+
+      
+        sktime /
+
+      sktime</a></p>
+				<p>
+      A unified framework for machine learning with time series
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8748</span>
+						<span>🔱 1578</span>
+					</div>
+				<div class="stars-today">⭐ 67 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebook/react-native" target="_blank">
+    
+
+
+      
+        facebook /
+
+      react-native</a></p>
+				<p>
+      A framework for building native applications using React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 122230</span>
+						<span>🔱 24674</span>
+					</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
