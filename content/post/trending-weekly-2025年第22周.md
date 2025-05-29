@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第22周
-date: 2025-05-29T13:58:43Z
+date: 2025-05-29T15:59:03Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12711</span>
-						<span>🔱 1048</span>
+						<span>⭐ 12795</span>
+						<span>🔱 1051</span>
 					</div>
 				<div class="stars-today">⭐ 8251 stars this week</div>
 				</div>
@@ -47,13 +47,13 @@ keywords:
 
       qlib</a></p>
 				<p>
-      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23126</span>
-						<span>🔱 3579</span>
+						<span>⭐ 23149</span>
+						<span>🔱 3584</span>
 					</div>
 				<div class="stars-today">⭐ 3616 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30726</span>
-						<span>🔱 5168</span>
+						<span>⭐ 30740</span>
+						<span>🔱 5169</span>
 					</div>
 				<div class="stars-today">⭐ 2518 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5264</span>
+						<span>⭐ 5272</span>
 						<span>🔱 465</span>
 					</div>
 				<div class="stars-today">⭐ 752 stars this week</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 10558</span>
+						<span>⭐ 10566</span>
 						<span>🔱 592</span>
 					</div>
 				<div class="stars-today">⭐ 1631 stars this week</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56774</span>
-						<span>🔱 6378</span>
+						<span>⭐ 56789</span>
+						<span>🔱 6379</span>
 					</div>
 				<div class="stars-today">⭐ 2153 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1317</span>
-						<span>🔱 82</span>
+						<span>⭐ 1319</span>
+						<span>🔱 83</span>
 					</div>
 				<div class="stars-today">⭐ 905 stars this week</div>
 				</div>
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 6639</span>
+						<span>⭐ 6645</span>
 						<span>🔱 961</span>
 					</div>
 				<div class="stars-today">⭐ 495 stars this week</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 27793</span>
-						<span>🔱 1315</span>
+						<span>⭐ 27806</span>
+						<span>🔱 1316</span>
 					</div>
 				<div class="stars-today">⭐ 3416 stars this week</div>
 				</div>
