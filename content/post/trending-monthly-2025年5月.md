@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-29T09:59:14Z
+date: 2025-05-29T11:58:48Z
 categories:
 - monthly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xming521/WeClone" target="_blank">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
     
 
 
       
-        xming521 /
+        Fosowl /
 
-      WeClone</a></p>
+      agenticSeek</a></p>
 				<p>
-      🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12382</span>
-						<span>🔱 929</span>
+						<span>⭐ 12640</span>
+						<span>🔱 1044</span>
 					</div>
-				<div class="stars-today">⭐ 9655 stars this month</div>
+				<div class="stars-today">⭐ 9817 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34903</span>
+						<span>⭐ 34910</span>
 						<span>🔱 4947</span>
 					</div>
 				<div class="stars-today">⭐ 8629 stars this month</div>
@@ -60,24 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+				<p><a href="https://github.com/xming521/WeClone" target="_blank">
     
 
 
       
-        Fosowl /
+        xming521 /
 
-      agenticSeek</a></p>
+      WeClone</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
+      🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12535</span>
-						<span>🔱 1033</span>
+						<span>⭐ 12397</span>
+						<span>🔱 929</span>
 					</div>
-				<div class="stars-today">⭐ 9817 stars this month</div>
+				<div class="stars-today">⭐ 9655 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69904</span>
-						<span>🔱 9872</span>
+						<span>⭐ 69915</span>
+						<span>🔱 9873</span>
 					</div>
 				<div class="stars-today">⭐ 19075 stars this month</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22284</span>
-						<span>🔱 1407</span>
+						<span>⭐ 22298</span>
+						<span>🔱 1408</span>
 					</div>
 				<div class="stars-today">⭐ 10135 stars this month</div>
 				</div>
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6203</span>
+						<span>⭐ 6207</span>
 						<span>🔱 506</span>
 					</div>
 				<div class="stars-today">⭐ 2626 stars this month</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33015</span>
-						<span>🔱 3239</span>
+						<span>⭐ 33024</span>
+						<span>🔱 3240</span>
 					</div>
 				<div class="stars-today">⭐ 5026 stars this month</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 43040</span>
-						<span>🔱 1822</span>
+						<span>⭐ 43043</span>
+						<span>🔱 1823</span>
 					</div>
 				<div class="stars-today">⭐ 5583 stars this month</div>
 				</div>
@@ -204,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4339</span>
+						<span>⭐ 4346</span>
 						<span>🔱 308</span>
 					</div>
 				<div class="stars-today">⭐ 3065 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30709</span>
+						<span>🔱 5166</span>
+					</div>
+				<div class="stars-today">⭐ 2836 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8654</span>
-						<span>🔱 1068</span>
+						<span>⭐ 8662</span>
+						<span>🔱 1069</span>
 					</div>
 				<div class="stars-today">⭐ 4124 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
+    
+
+
+      
+        aipotheosis-labs /
+
+      aci</a></p>
+				<p>
+      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3681</span>
+						<span>🔱 302</span>
+					</div>
+				<div class="stars-today">⭐ 3329 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9066</span>
+						<span>⭐ 9073</span>
 						<span>🔱 765</span>
 					</div>
 				<div class="stars-today">⭐ 2413 stars this month</div>
@@ -270,54 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 53438</span>
+						<span>⭐ 53451</span>
 						<span>🔱 5679</span>
 					</div>
 				<div class="stars-today">⭐ 3681 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30694</span>
-						<span>🔱 5165</span>
-					</div>
-				<div class="stars-today">⭐ 2836 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13378</span>
-						<span>🔱 1916</span>
-					</div>
-				<div class="stars-today">⭐ 5118 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 324246</span>
-						<span>🔱 41794</span>
+						<span>⭐ 324263</span>
+						<span>🔱 41795</span>
 					</div>
 				<div class="stars-today">⭐ 8203 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+    
+
+
+      
+        kortix-ai /
+
+      suna</a></p>
+				<p>
+      Suna - Open Source Generalist AI Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13388</span>
+						<span>🔱 1917</span>
+					</div>
+				<div class="stars-today">⭐ 5118 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50489</span>
-						<span>🔱 4415</span>
+						<span>⭐ 50495</span>
+						<span>🔱 4416</span>
 					</div>
 				<div class="stars-today">⭐ 2238 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23111</span>
+						<span>🔱 3575</span>
+					</div>
+				<div class="stars-today">⭐ 3979 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,7 +424,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60604</span>
+						<span>⭐ 60611</span>
 						<span>🔱 4367</span>
 					</div>
 				<div class="stars-today">⭐ 3360 stars this month</div>
@@ -402,32 +446,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 24146</span>
+						<span>⭐ 24148</span>
 						<span>🔱 2615</span>
 					</div>
 				<div class="stars-today">⭐ 330 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 347833</span>
-						<span>🔱 36571</span>
-					</div>
-				<div class="stars-today">⭐ 10130 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,32 +468,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 127039</span>
-						<span>🔱 16879</span>
+						<span>⭐ 127058</span>
+						<span>🔱 16881</span>
 					</div>
 				<div class="stars-today">⭐ 3387 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23094</span>
-						<span>🔱 3574</span>
-					</div>
-				<div class="stars-today">⭐ 3979 stars this month</div>
 				</div>
 			</div>
 	

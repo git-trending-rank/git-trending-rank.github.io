@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第22周
-date: 2025-05-29T09:59:13Z
+date: 2025-05-29T11:58:47Z
 categories:
 - weekly
 keywords:
@@ -30,76 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12535</span>
-						<span>🔱 1033</span>
+						<span>⭐ 12640</span>
+						<span>🔱 1044</span>
 					</div>
 				<div class="stars-today">⭐ 8251 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
-    
-
-
-      
-        All-Hands-AI /
-
-      OpenHands</a></p>
-				<p>
-      🙌 OpenHands: Code Less, Make More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56754</span>
-						<span>🔱 6375</span>
-					</div>
-				<div class="stars-today">⭐ 2153 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/WSL" target="_blank">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
     
 
 
       
         microsoft /
 
-      WSL</a></p>
+      qlib</a></p>
 				<p>
-      Windows Subsystem for Linux
+      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 27775</span>
-						<span>🔱 1314</span>
+						<span>🔠 Python</span>
+						<span>⭐ 23111</span>
+						<span>🔱 3575</span>
 					</div>
-				<div class="stars-today">⭐ 3416 stars this week</div>
+				<div class="stars-today">⭐ 3616 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        mindsdb /
 
-      registry</a></p>
+      mindsdb</a></p>
 				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1310</span>
-						<span>🔱 82</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30709</span>
+						<span>🔱 5166</span>
 					</div>
-				<div class="stars-today">⭐ 905 stars this week</div>
+				<div class="stars-today">⭐ 2518 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5251</span>
-						<span>🔱 463</span>
+						<span>⭐ 5260</span>
+						<span>🔱 464</span>
 					</div>
 				<div class="stars-today">⭐ 752 stars this week</div>
 				</div>
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 10535</span>
+						<span>⭐ 10547</span>
 						<span>🔱 591</span>
 					</div>
 				<div class="stars-today">⭐ 1631 stars this week</div>
@@ -148,24 +126,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
     
 
 
       
-        mlabonne /
+        All-Hands-AI /
 
-      llm-course</a></p>
+      OpenHands</a></p>
 				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+      🙌 OpenHands: Code Less, Make More
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 53438</span>
-						<span>🔱 5679</span>
+						<span>🔠 Python</span>
+						<span>⭐ 56762</span>
+						<span>🔱 6377</span>
 					</div>
-				<div class="stars-today">⭐ 1223 stars this week</div>
+				<div class="stars-today">⭐ 2153 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry</a></p>
+				<p>
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1313</span>
+						<span>🔱 82</span>
+					</div>
+				<div class="stars-today">⭐ 905 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 6627</span>
+						<span>⭐ 6635</span>
 						<span>🔱 961</span>
 					</div>
 				<div class="stars-today">⭐ 495 stars this week</div>
@@ -190,66 +190,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/microsoft/WSL" target="_blank">
     
 
 
       
-        virattt /
+        microsoft /
 
-      ai-hedge-fund</a></p>
+      WSL</a></p>
 				<p>
-      An AI Hedge Fund Team
+      Windows Subsystem for Linux
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33665</span>
-						<span>🔱 5814</span>
+						<span>🔠 C++</span>
+						<span>⭐ 27787</span>
+						<span>🔱 1314</span>
 					</div>
-				<div class="stars-today">⭐ 1797 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bilibili/Index-anisora" target="_blank">
-    
-
-
-      
-        bilibili /
-
-      Index-anisora</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1201</span>
-						<span>🔱 51</span>
-					</div>
-				<div class="stars-today">⭐ 453 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      Build like a team of hundreds_
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50489</span>
-						<span>🔱 4415</span>
-					</div>
-				<div class="stars-today">⭐ 1074 stars this week</div>
+				<div class="stars-today">⭐ 3416 stars this week</div>
 				</div>
 			</div>
 	

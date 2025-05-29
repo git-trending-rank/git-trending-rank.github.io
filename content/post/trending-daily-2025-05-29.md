@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-29
-date: 2025-05-29T09:59:14Z
+date: 2025-05-29T11:58:47Z
 categories:
 - daily
 keywords:
@@ -30,30 +30,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12535</span>
-						<span>🔱 1033</span>
+						<span>⭐ 12640</span>
+						<span>🔱 1044</span>
 					</div>
 				<div class="stars-today">⭐ 2379 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
+				<p><a href="https://github.com/WhiskeySockets/Baileys" target="_blank">
     
 
 
       
-        duixcom /
+        WhiskeySockets /
 
-      Duix.mobile</a></p>
-				<p></p>
+      Baileys</a></p>
+				<p>
+      Lightweight full-featured typescript/javascript WhatsApp Web API
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 6627</span>
-						<span>🔱 961</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5495</span>
+						<span>🔱 1872</span>
 					</div>
-				<div class="stars-today">⭐ 192 stars today</div>
+				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vuejs/core" target="_blank">
+    
+
+
+      
+        vuejs /
+
+      core</a></p>
+				<p>
+      🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50200</span>
+						<span>🔱 8661</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 4292</span>
+						<span>🔱 485</span>
+					</div>
+				<div class="stars-today">⭐ 828 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/livestorejs/livestore" target="_blank">
+    
+
+
+      
+        livestorejs /
+
+      livestore</a></p>
+				<p>
+      LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1202</span>
+						<span>🔱 22</span>
+					</div>
+				<div class="stars-today">⭐ 308 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 22019</span>
+						<span>🔱 5913</span>
+					</div>
+				<div class="stars-today">⭐ 180 stars today</div>
 				</div>
 			</div>
 	
@@ -72,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 184259</span>
-						<span>🔱 23127</span>
+						<span>⭐ 184285</span>
+						<span>🔱 23130</span>
 					</div>
 				<div class="stars-today">⭐ 1521 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23094</span>
-						<span>🔱 3574</span>
-					</div>
-				<div class="stars-today">⭐ 351 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langflow-ai/langflow" target="_blank">
-    
-
-
-      
-        langflow-ai /
-
-      langflow</a></p>
-				<p>
-      Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 65668</span>
-						<span>🔱 6623</span>
-					</div>
-				<div class="stars-today">⭐ 577 stars today</div>
 				</div>
 			</div>
 	
@@ -138,186 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100696</span>
-						<span>🔱 27934</span>
+						<span>⭐ 100747</span>
+						<span>🔱 27943</span>
 					</div>
 				<div class="stars-today">⭐ 841 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zhayujie/chatgpt-on-wechat" target="_blank">
-    
-
-
-      
-        zhayujie /
-
-      chatgpt-on-wechat</a></p>
-				<p>
-      基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37184</span>
-						<span>🔱 9243</span>
-					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NomicFoundation/hardhat" target="_blank">
-    
-
-
-      
-        NomicFoundation /
-
-      hardhat</a></p>
-				<p>
-      Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7802</span>
-						<span>🔱 1561</span>
-					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      RD-Agent</a></p>
-				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5251</span>
-						<span>🔱 463</span>
-					</div>
-				<div class="stars-today">⭐ 234 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actions/runner-images" target="_blank">
-    
-
-
-      
-        actions /
-
-      runner-images</a></p>
-				<p>
-      GitHub Actions runner images
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 11191</span>
-						<span>🔱 3334</span>
-					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/labring/FastGPT" target="_blank">
-    
-
-
-      
-        labring /
-
-      FastGPT</a></p>
-				<p>
-      FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24462</span>
-						<span>🔱 6300</span>
-					</div>
-				<div class="stars-today">⭐ 34 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 53438</span>
-						<span>🔱 5679</span>
-					</div>
-				<div class="stars-today">⭐ 136 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lagrange-Labs/deep-prove" target="_blank">
-    
-
-
-      
-        Lagrange-Labs /
-
-      deep-prove</a></p>
-				<p>
-      Framework to prove inference of ML models blazingly fast
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2848</span>
-						<span>🔱 47</span>
-					</div>
-				<div class="stars-today">⭐ 271 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
-    
-
-
-      
-        78 /
-
-      xiaozhi-esp32</a></p>
-				<p>
-      Build your own AI friend
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 13886</span>
-						<span>🔱 2690</span>
-					</div>
-				<div class="stars-today">⭐ 88 stars today</div>
 				</div>
 			</div>
 	
@@ -336,54 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 170736</span>
-						<span>🔱 10670</span>
+						<span>⭐ 170766</span>
+						<span>🔱 10671</span>
 					</div>
 				<div class="stars-today">⭐ 216 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ccxt/ccxt" target="_blank">
+				<p><a href="https://github.com/AppFlowy-IO/AppFlowy" target="_blank">
     
 
 
       
-        ccxt /
+        AppFlowy-IO /
 
-      ccxt</a></p>
+      AppFlowy</a></p>
 				<p>
-      A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+      Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36491</span>
-						<span>🔱 7923</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 63366</span>
+						<span>🔱 4290</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 36 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sktime/sktime" target="_blank">
+				<p><a href="https://github.com/langflow-ai/langflow" target="_blank">
     
 
 
       
-        sktime /
+        langflow-ai /
 
-      sktime</a></p>
+      langflow</a></p>
 				<p>
-      A unified framework for machine learning with time series
+      Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8977</span>
-						<span>🔱 1588</span>
+						<span>⭐ 65733</span>
+						<span>🔱 6624</span>
 					</div>
-				<div class="stars-today">⭐ 282 stars today</div>
+				<div class="stars-today">⭐ 577 stars today</div>
 				</div>
 			</div>
 	
@@ -402,10 +272,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 122337</span>
-						<span>🔱 24679</span>
+						<span>⭐ 122342</span>
+						<span>🔱 24680</span>
 					</div>
 				<div class="stars-today">⭐ 34 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zhayujie/chatgpt-on-wechat" target="_blank">
+    
+
+
+      
+        zhayujie /
+
+      chatgpt-on-wechat</a></p>
+				<p>
+      基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT4.1/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37194</span>
+						<span>🔱 9243</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/angular/angular" target="_blank">
+    
+
+
+      
+        angular /
+
+      angular</a></p>
+				<p>
+      Deliver web apps with confidence 🚀
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 97867</span>
+						<span>🔱 26234</span>
+					</div>
+				<div class="stars-today">⭐ 22 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KwaiVGI/LivePortrait" target="_blank">
+    
+
+
+      
+        KwaiVGI /
+
+      LivePortrait</a></p>
+				<p>
+      Bring portraits to life!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15184</span>
+						<span>🔱 1622</span>
+					</div>
+				<div class="stars-today">⭐ 133 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
+    
+
+
+      
+        78 /
+
+      xiaozhi-esp32</a></p>
+				<p>
+      Build your own AI friend
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 13902</span>
+						<span>🔱 2690</span>
+					</div>
+				<div class="stars-today">⭐ 88 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ant-design/ant-design" target="_blank">
+    
+
+
+      
+        ant-design /
+
+      ant-design</a></p>
+				<p>
+      An enterprise-class UI design language and React UI library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 94766</span>
+						<span>🔱 52484</span>
+					</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fastapi/fastapi" target="_blank">
+    
+
+
+      
+        fastapi /
+
+      fastapi</a></p>
+				<p>
+      FastAPI framework, high performance, easy to learn, fast to code, ready for production
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 85209</span>
+						<span>🔱 7380</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
