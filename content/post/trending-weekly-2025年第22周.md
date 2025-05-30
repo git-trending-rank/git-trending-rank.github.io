@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第22周
-date: 2025-05-30T09:58:45Z
+date: 2025-05-30T11:58:51Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13399</span>
-						<span>🔱 1112</span>
+						<span>⭐ 13459</span>
+						<span>🔱 1118</span>
 					</div>
 				<div class="stars-today">⭐ 9885 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23284</span>
-						<span>🔱 3602</span>
+						<span>⭐ 23290</span>
+						<span>🔱 3603</span>
 					</div>
 				<div class="stars-today">⭐ 3561 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30811</span>
-						<span>🔱 5171</span>
+						<span>⭐ 30823</span>
+						<span>🔱 5172</span>
 					</div>
 				<div class="stars-today">⭐ 2322 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      RD-Agent</a></p>
-				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5321</span>
-						<span>🔱 472</span>
-					</div>
-				<div class="stars-today">⭐ 846 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 10647</span>
+						<span>⭐ 10656</span>
 						<span>🔱 597</span>
 					</div>
 				<div class="stars-today">⭐ 1765 stars this week</div>
@@ -126,88 +104,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
     
 
 
       
-        All-Hands-AI /
+        anthropics /
 
-      OpenHands</a></p>
+      courses</a></p>
 				<p>
-      🙌 OpenHands: Code Less, Make More
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12237</span>
+						<span>🔱 1101</span>
+					</div>
+				<div class="stars-today">⭐ 564 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ccxt/ccxt" target="_blank">
+    
+
+
+      
+        ccxt /
+
+      ccxt</a></p>
+				<p>
+      A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56895</span>
-						<span>🔱 6398</span>
+						<span>⭐ 36532</span>
+						<span>🔱 7936</span>
 					</div>
-				<div class="stars-today">⭐ 1896 stars this week</div>
+				<div class="stars-today">⭐ 348 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+				<p><a href="https://github.com/ML-GSAI/LLaDA" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        ML-GSAI /
 
-      registry</a></p>
+      LLaDA</a></p>
 				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
+      Official PyTorch implementation for "Large Language Diffusion Models"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1335</span>
-						<span>🔱 85</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1982</span>
+						<span>🔱 137</span>
 					</div>
-				<div class="stars-today">⭐ 655 stars this week</div>
+				<div class="stars-today">⭐ 211 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
+				<p><a href="https://github.com/simonw/llm" target="_blank">
     
 
 
       
-        duixcom /
+        simonw /
 
-      Duix.mobile</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 6683</span>
-						<span>🔱 964</span>
-					</div>
-				<div class="stars-today">⭐ 649 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/WSL" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      WSL</a></p>
+      llm</a></p>
 				<p>
-      Windows Subsystem for Linux
+      Access large language models from the command-line
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 27890</span>
-						<span>🔱 1323</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8063</span>
+						<span>🔱 481</span>
 					</div>
-				<div class="stars-today">⭐ 1365 stars this week</div>
+				<div class="stars-today">⭐ 446 stars this week</div>
 				</div>
 			</div>
 	

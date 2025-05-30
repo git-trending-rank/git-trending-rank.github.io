@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-30T09:58:46Z
+date: 2025-05-30T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13399</span>
-						<span>🔱 1112</span>
+						<span>⭐ 13459</span>
+						<span>🔱 1118</span>
 					</div>
 				<div class="stars-today">⭐ 11669 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35016</span>
-						<span>🔱 4960</span>
+						<span>⭐ 35021</span>
+						<span>🔱 4961</span>
 					</div>
 				<div class="stars-today">⭐ 8723 stars this month</div>
 				</div>
@@ -74,10 +74,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12518</span>
-						<span>🔱 934</span>
+						<span>⭐ 12529</span>
+						<span>🔱 935</span>
 					</div>
 				<div class="stars-today">⭐ 9756 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22407</span>
+						<span>🔱 1417</span>
+					</div>
+				<div class="stars-today">⭐ 10301 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,30 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69999</span>
-						<span>🔱 9889</span>
+						<span>⭐ 70009</span>
+						<span>🔱 9888</span>
 					</div>
 				<div class="stars-today">⭐ 17517 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22404</span>
-						<span>🔱 1416</span>
-					</div>
-				<div class="stars-today">⭐ 10301 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6256</span>
+						<span>⭐ 6261</span>
 						<span>🔱 511</span>
 					</div>
 				<div class="stars-today">⭐ 2671 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33119</span>
-						<span>🔱 3254</span>
-					</div>
-				<div class="stars-today">⭐ 5126 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 43089</span>
-						<span>🔱 1825</span>
+						<span>⭐ 43094</span>
+						<span>🔱 1824</span>
 					</div>
 				<div class="stars-today">⭐ 5506 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4741</span>
+						<span>🔱 334</span>
+					</div>
+				<div class="stars-today">⭐ 3069 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4404</span>
+						<span>⭐ 4409</span>
 						<span>🔱 307</span>
 					</div>
 				<div class="stars-today">⭐ 3174 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33126</span>
+						<span>🔱 3255</span>
+					</div>
+				<div class="stars-today">⭐ 5126 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30811</span>
-						<span>🔱 5171</span>
+						<span>⭐ 30823</span>
+						<span>🔱 5172</span>
 					</div>
 				<div class="stars-today">⭐ 3037 stars this month</div>
 				</div>
@@ -248,142 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8725</span>
+						<span>⭐ 8733</span>
 						<span>🔱 1085</span>
 					</div>
 				<div class="stars-today">⭐ 3644 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
-    
-
-
-      
-        aipotheosis-labs /
-
-      aci</a></p>
-				<p>
-      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3711</span>
-						<span>🔱 305</span>
-					</div>
-				<div class="stars-today">⭐ 3307 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9112</span>
-						<span>🔱 768</span>
-					</div>
-				<div class="stars-today">⭐ 2012 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 53533</span>
-						<span>🔱 5685</span>
-					</div>
-				<div class="stars-today">⭐ 3862 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 324561</span>
-						<span>🔱 41835</span>
-					</div>
-				<div class="stars-today">⭐ 8265 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
-    
-
-
-      
-        kortix-ai /
-
-      suna</a></p>
-				<p>
-      Suna - Open Source Generalist AI Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13502</span>
-						<span>🔱 1937</span>
-					</div>
-				<div class="stars-today">⭐ 4753 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      Build like a team of hundreds_
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50546</span>
-						<span>🔱 4422</span>
-					</div>
-				<div class="stars-today">⭐ 2313 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23284</span>
-						<span>🔱 3602</span>
+						<span>⭐ 23290</span>
+						<span>🔱 3603</span>
 					</div>
 				<div class="stars-today">⭐ 4292 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 324582</span>
+						<span>🔱 41838</span>
+					</div>
+				<div class="stars-today">⭐ 8265 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 53540</span>
+						<span>🔱 5686</span>
+					</div>
+				<div class="stars-today">⭐ 3862 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      Build like a team of hundreds_
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50550</span>
+						<span>🔱 4422</span>
+					</div>
+				<div class="stars-today">⭐ 2313 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +380,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60659</span>
-						<span>🔱 4370</span>
+						<span>⭐ 60662</span>
+						<span>🔱 4372</span>
 					</div>
 				<div class="stars-today">⭐ 3383 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent</a></p>
+				<p>
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9116</span>
+						<span>🔱 769</span>
+					</div>
+				<div class="stars-today">⭐ 2012 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
+    
+
+
+      
+        aipotheosis-labs /
+
+      aci</a></p>
+				<p>
+      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3717</span>
+						<span>🔱 306</span>
+					</div>
+				<div class="stars-today">⭐ 3307 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,7 +446,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Mojo</span>
-						<span>⭐ 24161</span>
+						<span>⭐ 24162</span>
 						<span>🔱 2616</span>
 					</div>
 				<div class="stars-today">⭐ 335 stars this month</div>
@@ -468,8 +468,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 127210</span>
-						<span>🔱 16902</span>
+						<span>⭐ 127228</span>
+						<span>🔱 16904</span>
 					</div>
 				<div class="stars-today">⭐ 3615 stars this month</div>
 				</div>
