@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年5月
-date: 2025-05-31T09:58:37Z
+date: 2025-05-31T11:58:34Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13845</span>
-						<span>🔱 1154</span>
+						<span>⭐ 13865</span>
+						<span>🔱 1160</span>
 					</div>
 				<div class="stars-today">⭐ 12384 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35085</span>
-						<span>🔱 4966</span>
+						<span>⭐ 35096</span>
+						<span>🔱 4968</span>
 					</div>
 				<div class="stars-today">⭐ 8826 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12573</span>
+						<span>⭐ 12581</span>
 						<span>🔱 937</span>
 					</div>
 				<div class="stars-today">⭐ 9879 stars this month</div>
@@ -94,32 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22474</span>
+						<span>⭐ 22479</span>
 						<span>🔱 1443</span>
 					</div>
 				<div class="stars-today">⭐ 10402 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70066</span>
-						<span>🔱 9905</span>
-					</div>
-				<div class="stars-today">⭐ 17867 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6284</span>
+						<span>⭐ 6288</span>
 						<span>🔱 513</span>
 					</div>
 				<div class="stars-today">⭐ 2726 stars this month</div>
@@ -146,46 +124,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        hacksider /
 
-      ladybird</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      Truly independent web browser
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 43125</span>
-						<span>🔱 1827</span>
+						<span>🔠 Python</span>
+						<span>⭐ 70071</span>
+						<span>🔱 9906</span>
 					</div>
-				<div class="stars-today">⭐ 5585 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4776</span>
-						<span>🔱 334</span>
-					</div>
-				<div class="stars-today">⭐ 3178 stars this month</div>
+				<div class="stars-today">⭐ 17867 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4463</span>
+						<span>⭐ 4464</span>
 						<span>🔱 308</span>
 					</div>
 				<div class="stars-today">⭐ 3233 stars this month</div>
@@ -226,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33221</span>
-						<span>🔱 3267</span>
+						<span>⭐ 33234</span>
+						<span>🔱 3268</span>
 					</div>
 				<div class="stars-today">⭐ 5213 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 43133</span>
+						<span>🔱 1828</span>
+					</div>
+				<div class="stars-today">⭐ 5585 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30961</span>
-						<span>🔱 5184</span>
+						<span>⭐ 30970</span>
+						<span>🔱 5185</span>
 					</div>
 				<div class="stars-today">⭐ 3130 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
     
 
 
       
-        jujumilk3 /
+        MODSetter /
 
-      leaked-system-prompts</a></p>
+      SurfSense</a></p>
 				<p>
-      Collection of leaked system prompts
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 8790</span>
-						<span>🔱 1093</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4780</span>
+						<span>🔱 334</span>
 					</div>
-				<div class="stars-today">⭐ 3771 stars this month</div>
+				<div class="stars-today">⭐ 3178 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23393</span>
+						<span>⭐ 23399</span>
 						<span>🔱 3618</span>
 					</div>
 				<div class="stars-today">⭐ 4442 stars this month</div>
@@ -300,24 +278,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
     
 
 
       
-        kamranahmedse /
+        jujumilk3 /
 
-      developer-roadmap</a></p>
+      leaked-system-prompts</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      Collection of leaked system prompts
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 324767</span>
-						<span>🔱 41854</span>
+						<span>🔠 </span>
+						<span>⭐ 8797</span>
+						<span>🔱 1094</span>
 					</div>
-				<div class="stars-today">⭐ 8605 stars this month</div>
+				<div class="stars-today">⭐ 3771 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 53588</span>
+						<span>⭐ 53601</span>
 						<span>🔱 5689</span>
 					</div>
 				<div class="stars-today">⭐ 3954 stars this month</div>
@@ -344,24 +322,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
     
 
 
       
-        appwrite /
+        kamranahmedse /
 
-      appwrite</a></p>
+      developer-roadmap</a></p>
 				<p>
-      Build like a team of hundreds_
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50590</span>
-						<span>🔱 4424</span>
+						<span>⭐ 324786</span>
+						<span>🔱 41858</span>
 					</div>
-				<div class="stars-today">⭐ 2370 stars this month</div>
+				<div class="stars-today">⭐ 8605 stars this month</div>
 				</div>
 			</div>
 	
@@ -381,75 +359,31 @@ keywords:
 					<div>
 						<span>🔠 Rust</span>
 						<span>⭐ 60693</span>
-						<span>🔱 4385</span>
+						<span>🔱 4386</span>
 					</div>
 				<div class="stars-today">⭐ 3443 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
     
 
 
       
-        QwenLM /
+        appwrite /
 
-      Qwen-Agent</a></p>
+      appwrite</a></p>
 				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+      Build like a team of hundreds_
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9143</span>
-						<span>🔱 769</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50594</span>
+						<span>🔱 4423</span>
 					</div>
-				<div class="stars-today">⭐ 2084 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aipotheosis-labs/aci" target="_blank">
-    
-
-
-      
-        aipotheosis-labs /
-
-      aci</a></p>
-				<p>
-      ACI.dev is the open source platform that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3745</span>
-						<span>🔱 307</span>
-					</div>
-				<div class="stars-today">⭐ 3365 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 24160</span>
-						<span>🔱 2616</span>
-					</div>
-				<div class="stars-today">⭐ 353 stars this month</div>
+				<div class="stars-today">⭐ 2370 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +402,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 127451</span>
-						<span>🔱 16929</span>
+						<span>⭐ 127458</span>
+						<span>🔱 16930</span>
 					</div>
 				<div class="stars-today">⭐ 3775 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modular/modular" target="_blank">
+    
+
+
+      
+        modular /
+
+      modular</a></p>
+				<p>
+      The Modular Platform (includes MAX & Mojo)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Mojo</span>
+						<span>⭐ 24161</span>
+						<span>🔱 2616</span>
+					</div>
+				<div class="stars-today">⭐ 353 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 348161</span>
+						<span>🔱 36609</span>
+					</div>
+				<div class="stars-today">⭐ 10387 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent</a></p>
+				<p>
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9144</span>
+						<span>🔱 769</span>
+					</div>
+				<div class="stars-today">⭐ 2084 stars this month</div>
 				</div>
 			</div>
 	

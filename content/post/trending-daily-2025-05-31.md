@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-05-31
-date: 2025-05-31T09:58:37Z
+date: 2025-05-31T11:58:33Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 6194</span>
-						<span>🔱 660</span>
+						<span>⭐ 6269</span>
+						<span>🔱 671</span>
 					</div>
 				<div class="stars-today">⭐ 789 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
     
 
 
       
-        microsoft /
+        onlook-dev /
 
-      ai-agents-for-beginners</a></p>
+      onlook</a></p>
 				<p>
-      11 Lessons to Get Started Building AI Agents
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 22876</span>
-						<span>🔱 6122</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9763</span>
+						<span>🔱 609</span>
 					</div>
-				<div class="stars-today">⭐ 466 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
-    
-
-
-      
-        trimstray /
-
-      the-book-of-secret-knowledge</a></p>
-				<p>
-      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 171393</span>
-						<span>🔱 10709</span>
-					</div>
-				<div class="stars-today">⭐ 335 stars today</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
@@ -96,186 +74,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3552</span>
-						<span>🔱 233</span>
+						<span>⭐ 3588</span>
+						<span>🔱 238</span>
 					</div>
 				<div class="stars-today">⭐ 404 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/fastapi/fastapi" target="_blank">
     
 
 
       
-        getzep /
+        fastapi /
 
-      graphiti</a></p>
+      fastapi</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      FastAPI framework, high performance, easy to learn, fast to code, ready for production
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10362</span>
-						<span>🔱 767</span>
+						<span>⭐ 85589</span>
+						<span>🔱 7400</span>
 					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
+				<div class="stars-today">⭐ 304 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
+    
+
+
+      
+        ripienaar /
+
+      free-for-dev</a></p>
+				<p>
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 97405</span>
+						<span>🔱 10531</span>
+					</div>
+				<div class="stars-today">⭐ 308 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
     
 
 
       
         anthropics /
 
-      courses</a></p>
+      anthropic-cookbook</a></p>
 				<p>
-      Anthropic's educational courses
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12566</span>
-						<span>🔱 1116</span>
+						<span>⭐ 12590</span>
+						<span>🔱 1492</span>
 					</div>
-				<div class="stars-today">⭐ 87 stars today</div>
+				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ccxt/ccxt" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        ccxt /
+        microsoft /
 
-      ccxt</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 22915</span>
+						<span>🔱 6129</span>
+					</div>
+				<div class="stars-today">⭐ 466 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+    
+
+
+      
+        frdel /
+
+      agent-zero</a></p>
+				<p>
+      Agent Zero AI framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36681</span>
-						<span>🔱 7946</span>
+						<span>⭐ 6868</span>
+						<span>🔱 1504</span>
 					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/local-ai-packaged" target="_blank">
+				<p><a href="https://github.com/syncthing/syncthing" target="_blank">
     
 
 
       
-        coleam00 /
+        syncthing /
 
-      local-ai-packaged</a></p>
+      syncthing</a></p>
 				<p>
-      Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
+      Open Source Continuous File Synchronization
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1416</span>
-						<span>🔱 634</span>
+						<span>🔠 Go</span>
+						<span>⭐ 70694</span>
+						<span>🔱 4547</span>
 					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KwaiVGI/LivePortrait" target="_blank">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
     
 
 
       
-        KwaiVGI /
+        microsoft /
 
-      LivePortrait</a></p>
+      generative-ai-for-beginners</a></p>
 				<p>
-      Bring portraits to life!
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15683</span>
-						<span>🔱 1639</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 84213</span>
+						<span>🔱 43900</span>
 					</div>
-				<div class="stars-today">⭐ 317 stars today</div>
+				<div class="stars-today">⭐ 73 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+				<p><a href="https://github.com/mui/mui-x" target="_blank">
     
 
 
       
-        Fosowl /
+        mui /
 
-      agenticSeek</a></p>
+      mui-x</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13845</span>
-						<span>🔱 1154</span>
-					</div>
-				<div class="stars-today">⭐ 833 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
-    
-
-
-      
-        langgenius /
-
-      dify</a></p>
-				<p>
-      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+      MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100122</span>
-						<span>🔱 15069</span>
+						<span>⭐ 4884</span>
+						<span>🔱 1452</span>
 					</div>
-				<div class="stars-today">⭐ 191 stars today</div>
+				<div class="stars-today">⭐ 9 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
+				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
     
 
 
       
-        f /
+        promptfoo /
 
-      awesome-chatgpt-prompts</a></p>
+      promptfoo</a></p>
 				<p>
-      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
+      Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 127451</span>
-						<span>🔱 16929</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6766</span>
+						<span>🔱 548</span>
 					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
+				<div class="stars-today">⭐ 14 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+    
+
+
+      
+        dair-ai /
+
+      Prompt-Engineering-Guide</a></p>
+				<p>
+      🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 56454</span>
+						<span>🔱 5588</span>
+					</div>
+				<div class="stars-today">⭐ 49 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ok-oldking/ok-wuthering-waves" target="_blank">
+    
+
+
+      
+        ok-oldking /
+
+      ok-wuthering-waves</a></p>
+				<p>
+      鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2672</span>
+						<span>🔱 181</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
 				</div>
 			</div>
 	

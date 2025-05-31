@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第22周
-date: 2025-05-31T09:58:36Z
+date: 2025-05-31T11:58:33Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13845</span>
-						<span>🔱 1154</span>
+						<span>⭐ 13865</span>
+						<span>🔱 1160</span>
 					</div>
 				<div class="stars-today">⭐ 10538 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23393</span>
+						<span>⭐ 23399</span>
 						<span>🔱 3618</span>
 					</div>
 				<div class="stars-today">⭐ 3457 stars this week</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30961</span>
-						<span>🔱 5184</span>
+						<span>⭐ 30970</span>
+						<span>🔱 5185</span>
 					</div>
 				<div class="stars-today">⭐ 2190 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 10752</span>
+						<span>⭐ 10757</span>
 						<span>🔱 601</span>
 					</div>
 				<div class="stars-today">⭐ 1597 stars this week</div>
@@ -118,54 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12566</span>
-						<span>🔱 1116</span>
+						<span>⭐ 12587</span>
+						<span>🔱 1120</span>
 					</div>
 				<div class="stars-today">⭐ 638 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ccxt/ccxt" target="_blank">
+				<p><a href="https://github.com/wg-easy/wg-easy" target="_blank">
     
 
 
       
-        ccxt /
+        wg-easy /
 
-      ccxt</a></p>
+      wg-easy</a></p>
 				<p>
-      A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+      The easiest way to run WireGuard VPN + Web-based Admin UI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36681</span>
-						<span>🔱 7946</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19441</span>
+						<span>🔱 1841</span>
 					</div>
-				<div class="stars-today">⭐ 376 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ML-GSAI/LLaDA" target="_blank">
-    
-
-
-      
-        ML-GSAI /
-
-      LLaDA</a></p>
-				<p>
-      Official PyTorch implementation for "Large Language Diffusion Models"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2028</span>
-						<span>🔱 137</span>
-					</div>
-				<div class="stars-today">⭐ 231 stars this week</div>
+				<div class="stars-today">⭐ 674 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8102</span>
+						<span>⭐ 8105</span>
 						<span>🔱 481</span>
 					</div>
 				<div class="stars-today">⭐ 465 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
+    
+
+
+      
+        duixcom /
+
+      Duix.mobile</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 6701</span>
+						<span>🔱 966</span>
+					</div>
+				<div class="stars-today">⭐ 645 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KwaiVGI/LivePortrait" target="_blank">
+    
+
+
+      
+        KwaiVGI /
+
+      LivePortrait</a></p>
+				<p>
+      Bring portraits to life!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15691</span>
+						<span>🔱 1640</span>
+					</div>
+				<div class="stars-today">⭐ 790 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      typescript-go</a></p>
+				<p>
+      Staging repo for development of native port of TypeScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20488</span>
+						<span>🔱 634</span>
+					</div>
+				<div class="stars-today">⭐ 631 stars this week</div>
 				</div>
 			</div>
 	
