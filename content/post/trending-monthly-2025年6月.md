@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-01T09:59:01Z
+date: 2025-06-01T11:58:56Z
 categories:
 - monthly
 keywords:
@@ -25,13 +25,13 @@ keywords:
 
       agenticSeek</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Only twitter account for update is : https://x.com/Martin993886460
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via @Martin993886460. Any other account is fake.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14323</span>
-						<span>🔱 1219</span>
+						<span>⭐ 14374</span>
+						<span>🔱 1226</span>
 					</div>
 				<div class="stars-today">⭐ 12554 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35147</span>
-						<span>🔱 4977</span>
+						<span>⭐ 35148</span>
+						<span>🔱 4978</span>
 					</div>
 				<div class="stars-today">⭐ 8903 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12638</span>
+						<span>⭐ 12641</span>
 						<span>🔱 943</span>
 					</div>
 				<div class="stars-today">⭐ 9873 stars this month</div>
@@ -94,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22537</span>
+						<span>⭐ 22542</span>
 						<span>🔱 1445</span>
 					</div>
 				<div class="stars-today">⭐ 10453 stars this month</div>
@@ -116,32 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6331</span>
-						<span>🔱 518</span>
+						<span>⭐ 6335</span>
+						<span>🔱 519</span>
 					</div>
 				<div class="stars-today">⭐ 2752 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70149</span>
-						<span>🔱 9918</span>
-					</div>
-				<div class="stars-today">⭐ 16098 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4517</span>
+						<span>⭐ 4521</span>
 						<span>🔱 311</span>
 					</div>
 				<div class="stars-today">⭐ 3294 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33328</span>
-						<span>🔱 3278</span>
-					</div>
-				<div class="stars-today">⭐ 5122 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 43163</span>
-						<span>🔱 1833</span>
+						<span>⭐ 43168</span>
+						<span>🔱 1834</span>
 					</div>
 				<div class="stars-today">⭐ 5382 stars this month</div>
 				</div>
@@ -226,10 +182,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31076</span>
+						<span>⭐ 31095</span>
 						<span>🔱 5202</span>
 					</div>
 				<div class="stars-today">⭐ 3287 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33337</span>
+						<span>🔱 3278</span>
+					</div>
+				<div class="stars-today">⭐ 5122 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70154</span>
+						<span>🔱 9918</span>
+					</div>
+				<div class="stars-today">⭐ 16098 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4828</span>
+						<span>⭐ 4833</span>
 						<span>🔱 343</span>
 					</div>
 				<div class="stars-today">⭐ 3107 stars this month</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23523</span>
-						<span>🔱 3644</span>
+						<span>⭐ 23527</span>
+						<span>🔱 3645</span>
 					</div>
 				<div class="stars-today">⭐ 4556 stars this month</div>
 				</div>
@@ -292,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8843</span>
+						<span>⭐ 8847</span>
 						<span>🔱 1102</span>
 					</div>
 				<div class="stars-today">⭐ 3402 stars this month</div>
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 53659</span>
-						<span>🔱 5699</span>
+						<span>⭐ 53662</span>
+						<span>🔱 5700</span>
 					</div>
 				<div class="stars-today">⭐ 3962 stars this month</div>
 				</div>
@@ -336,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 324935</span>
+						<span>⭐ 324949</span>
 						<span>🔱 41877</span>
 					</div>
 				<div class="stars-today">⭐ 8635 stars this month</div>
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60738</span>
-						<span>🔱 4394</span>
+						<span>⭐ 60741</span>
+						<span>🔱 4393</span>
 					</div>
 				<div class="stars-today">⭐ 3436 stars this month</div>
 				</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50667</span>
-						<span>🔱 4435</span>
+						<span>⭐ 50674</span>
+						<span>🔱 4436</span>
 					</div>
 				<div class="stars-today">⭐ 2403 stars this month</div>
 				</div>
@@ -402,54 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 127551</span>
-						<span>🔱 16942</span>
+						<span>⭐ 127561</span>
+						<span>🔱 16941</span>
 					</div>
 				<div class="stars-today">⭐ 3959 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modular/modular" target="_blank">
-    
-
-
-      
-        modular /
-
-      modular</a></p>
-				<p>
-      The Modular Platform (includes MAX & Mojo)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Mojo</span>
-						<span>⭐ 24173</span>
-						<span>🔱 2618</span>
-					</div>
-				<div class="stars-today">⭐ 348 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 348329</span>
-						<span>🔱 36619</span>
-					</div>
-				<div class="stars-today">⭐ 10442 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,10 +424,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9171</span>
+						<span>⭐ 9174</span>
 						<span>🔱 773</span>
 					</div>
 				<div class="stars-today">⭐ 1887 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+    
+
+
+      
+        CopilotKit /
+
+      CopilotKit</a></p>
+				<p>
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20484</span>
+						<span>🔱 2822</span>
+					</div>
+				<div class="stars-today">⭐ 2153 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 348348</span>
+						<span>🔱 36622</span>
+					</div>
+				<div class="stars-today">⭐ 10442 stars this month</div>
 				</div>
 			</div>
 	

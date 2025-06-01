@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第22周
-date: 2025-06-01T09:59:00Z
+date: 2025-06-01T11:58:56Z
 categories:
 - weekly
 keywords:
@@ -25,13 +25,13 @@ keywords:
 
       agenticSeek</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Only twitter account for update is : https://x.com/Martin993886460
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via @Martin993886460. Any other account is fake.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14323</span>
-						<span>🔱 1219</span>
+						<span>⭐ 14374</span>
+						<span>🔱 1226</span>
 					</div>
 				<div class="stars-today">⭐ 10499 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23523</span>
-						<span>🔱 3644</span>
+						<span>⭐ 23527</span>
+						<span>🔱 3645</span>
 					</div>
 				<div class="stars-today">⭐ 3114 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31076</span>
+						<span>⭐ 31095</span>
 						<span>🔱 5202</span>
 					</div>
 				<div class="stars-today">⭐ 1878 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 10847</span>
-						<span>🔱 603</span>
-					</div>
-				<div class="stars-today">⭐ 1284 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12754</span>
-						<span>🔱 1137</span>
+						<span>⭐ 12814</span>
+						<span>🔱 1140</span>
 					</div>
 				<div class="stars-today">⭐ 969 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 10854</span>
+						<span>🔱 604</span>
+					</div>
+				<div class="stars-today">⭐ 1284 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,52 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19489</span>
-						<span>🔱 1846</span>
+						<span>⭐ 19491</span>
+						<span>🔱 1844</span>
 					</div>
 				<div class="stars-today">⭐ 698 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simonw/llm" target="_blank">
+				<p><a href="https://github.com/seleniumbase/SeleniumBase" target="_blank">
     
 
 
       
-        simonw /
+        seleniumbase /
 
-      llm</a></p>
+      SeleniumBase</a></p>
 				<p>
-      Access large language models from the command-line
+      Python APIs for web automation, testing, and bypassing bot-detection.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8152</span>
-						<span>🔱 484</span>
+						<span>⭐ 10719</span>
+						<span>🔱 1342</span>
 					</div>
-				<div class="stars-today">⭐ 483 stars this week</div>
+				<div class="stars-today">⭐ 536 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
+				<p><a href="https://github.com/gofiber/fiber" target="_blank">
     
 
 
       
-        duixcom /
+        gofiber /
 
-      Duix.mobile</a></p>
-				<p></p>
+      fiber</a></p>
+				<p>
+      ⚡️ Express inspired web framework written in Go
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 6725</span>
-						<span>🔱 970</span>
+						<span>🔠 Go</span>
+						<span>⭐ 36645</span>
+						<span>🔱 1789</span>
 					</div>
-				<div class="stars-today">⭐ 633 stars this week</div>
+				<div class="stars-today">⭐ 152 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15757</span>
+						<span>⭐ 15763</span>
 						<span>🔱 1645</span>
 					</div>
 				<div class="stars-today">⭐ 800 stars this week</div>
@@ -212,24 +214,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
+				<p><a href="https://github.com/actions/runner-images" target="_blank">
+    
+
+
+      
+        actions /
+
+      runner-images</a></p>
+				<p>
+      GitHub Actions runner images
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 11231</span>
+						<span>🔱 3338</span>
+					</div>
+				<div class="stars-today">⭐ 129 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simonw/llm" target="_blank">
+    
+
+
+      
+        simonw /
+
+      llm</a></p>
+				<p>
+      Access large language models from the command-line
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8157</span>
+						<span>🔱 484</span>
+					</div>
+				<div class="stars-today">⭐ 483 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      typescript-go</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Staging repo for development of native port of TypeScript
+      11 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 20522</span>
-						<span>🔱 634</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 23267</span>
+						<span>🔱 6193</span>
 					</div>
-				<div class="stars-today">⭐ 611 stars this week</div>
+				<div class="stars-today">⭐ 1668 stars this week</div>
 				</div>
 			</div>
 	
