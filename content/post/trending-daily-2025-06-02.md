@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-02
-date: 2025-06-02T17:58:45Z
+date: 2025-06-02T19:58:39Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11334</span>
-						<span>🔱 692</span>
+						<span>⭐ 11490</span>
+						<span>🔱 698</span>
 					</div>
 				<div class="stars-today">⭐ 627 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 302607</span>
-						<span>🔱 50128</span>
+						<span>⭐ 302635</span>
+						<span>🔱 50132</span>
 					</div>
 				<div class="stars-today">⭐ 596 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 8720</span>
-						<span>🔱 830</span>
+						<span>⭐ 8763</span>
+						<span>🔱 835</span>
 					</div>
 				<div class="stars-today">⭐ 1340 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20164</span>
-						<span>🔱 3233</span>
+						<span>⭐ 20184</span>
+						<span>🔱 3235</span>
 					</div>
 				<div class="stars-today">⭐ 95 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6353</span>
-						<span>🔱 878</span>
+						<span>⭐ 6383</span>
+						<span>🔱 882</span>
 					</div>
 				<div class="stars-today">⭐ 232 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 71425</span>
-						<span>🔱 4572</span>
+						<span>⭐ 71437</span>
+						<span>🔱 4573</span>
 					</div>
 				<div class="stars-today">⭐ 308 stars today</div>
 				</div>
@@ -157,13 +157,13 @@ keywords:
 
       SurfSense</a></p>
 				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4954</span>
-						<span>🔱 357</span>
+						<span>⭐ 4973</span>
+						<span>🔱 358</span>
 					</div>
 				<div class="stars-today">⭐ 83 stars today</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13958</span>
+						<span>⭐ 13985</span>
 						<span>🔱 1185</span>
 					</div>
 				<div class="stars-today">⭐ 1079 stars today</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7630</span>
-						<span>🔱 1586</span>
+						<span>⭐ 7653</span>
+						<span>🔱 1589</span>
 					</div>
 				<div class="stars-today">⭐ 437 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7293</span>
-						<span>🔱 1985</span>
+						<span>⭐ 7315</span>
+						<span>🔱 1986</span>
 					</div>
 				<div class="stars-today">⭐ 217 stars today</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2765</span>
+						<span>⭐ 2768</span>
 						<span>🔱 186</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 41872</span>
-						<span>🔱 4540</span>
+						<span>⭐ 41877</span>
+						<span>🔱 4542</span>
 					</div>
 				<div class="stars-today">⭐ 39 stars today</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4408</span>
-						<span>🔱 624</span>
+						<span>⭐ 4423</span>
+						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 22 stars today</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 11852</span>
-						<span>🔱 3036</span>
+						<span>⭐ 11861</span>
+						<span>🔱 3037</span>
 					</div>
 				<div class="stars-today">⭐ 132 stars today</div>
 				</div>
@@ -338,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34264</span>
+						<span>⭐ 34278</span>
 						<span>🔱 5935</span>
 					</div>
 				<div class="stars-today">⭐ 213 stars today</div>
