@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-02T09:58:40Z
+date: 2025-06-02T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14966</span>
-						<span>🔱 1309</span>
+						<span>⭐ 15056</span>
+						<span>🔱 1324</span>
 					</div>
 				<div class="stars-today">⭐ 13041 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35217</span>
+						<span>⭐ 35229</span>
 						<span>🔱 4991</span>
 					</div>
 				<div class="stars-today">⭐ 8944 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12721</span>
+						<span>⭐ 12732</span>
 						<span>🔱 947</span>
 					</div>
 				<div class="stars-today">⭐ 9926 stars this month</div>
@@ -94,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22642</span>
+						<span>⭐ 22651</span>
 						<span>🔱 1460</span>
 					</div>
 				<div class="stars-today">⭐ 10502 stars this month</div>
@@ -116,54 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6363</span>
+						<span>⭐ 6367</span>
 						<span>🔱 521</span>
 					</div>
 				<div class="stars-today">⭐ 2791 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      flowgram.ai</a></p>
-				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4582</span>
-						<span>🔱 316</span>
-					</div>
-				<div class="stars-today">⭐ 3347 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 43220</span>
-						<span>🔱 1837</span>
-					</div>
-				<div class="stars-today">⭐ 5278 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31237</span>
+						<span>⭐ 31245</span>
 						<span>🔱 5214</span>
 					</div>
 				<div class="stars-today">⭐ 3402 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      flowgram.ai</a></p>
+				<p>
+      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4587</span>
+						<span>🔱 317</span>
+					</div>
+				<div class="stars-today">⭐ 3347 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33411</span>
-						<span>🔱 3296</span>
+						<span>⭐ 33420</span>
+						<span>🔱 3297</span>
 					</div>
 				<div class="stars-today">⭐ 5137 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        hacksider /
+        LadybirdBrowser /
 
-      Deep-Live-Cam</a></p>
+      ladybird</a></p>
 				<p>
-      real time face swap and one-click video deepfake with only a single image
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70236</span>
-						<span>🔱 9930</span>
+						<span>🔠 C++</span>
+						<span>⭐ 43229</span>
+						<span>🔱 1837</span>
 					</div>
-				<div class="stars-today">⭐ 14933 stars this month</div>
+				<div class="stars-today">⭐ 5278 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4884</span>
+						<span>⭐ 4895</span>
 						<span>🔱 350</span>
 					</div>
 				<div class="stars-today">⭐ 3102 stars this month</div>
@@ -270,32 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23660</span>
-						<span>🔱 3664</span>
+						<span>⭐ 23670</span>
+						<span>🔱 3666</span>
 					</div>
 				<div class="stars-today">⭐ 4674 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        jujumilk3 /
+        hacksider /
 
-      leaked-system-prompts</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      Collection of leaked system prompts
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 8899</span>
-						<span>🔱 1112</span>
+						<span>🔠 Python</span>
+						<span>⭐ 70245</span>
+						<span>🔱 9931</span>
 					</div>
-				<div class="stars-today">⭐ 3314 stars this month</div>
+				<div class="stars-today">⭐ 14933 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 53729</span>
+						<span>⭐ 53736</span>
 						<span>🔱 5705</span>
 					</div>
 				<div class="stars-today">⭐ 3992 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 8904</span>
+						<span>🔱 1113</span>
+					</div>
+				<div class="stars-today">⭐ 3314 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 325155</span>
-						<span>🔱 41900</span>
+						<span>⭐ 325184</span>
+						<span>🔱 41903</span>
 					</div>
 				<div class="stars-today">⭐ 8670 stars this month</div>
 				</div>
@@ -358,32 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60785</span>
-						<span>🔱 4400</span>
+						<span>⭐ 60790</span>
+						<span>🔱 4401</span>
 					</div>
 				<div class="stars-today">⭐ 3372 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      Build like a team of hundreds_
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50748</span>
-						<span>🔱 4436</span>
-					</div>
-				<div class="stars-today">⭐ 2472 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 127666</span>
+						<span>⭐ 127668</span>
 						<span>🔱 16946</span>
 					</div>
 				<div class="stars-today">⭐ 4039 stars this month</div>
@@ -424,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9206</span>
+						<span>⭐ 9207</span>
 						<span>🔱 779</span>
 					</div>
 				<div class="stars-today">⭐ 1727 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 348550</span>
+						<span>🔱 36639</span>
+					</div>
+				<div class="stars-today">⭐ 10574 stars this month</div>
 				</div>
 			</div>
 	
@@ -447,31 +447,9 @@ keywords:
 					<div>
 						<span>🔠 TypeScript</span>
 						<span>⭐ 20532</span>
-						<span>🔱 2826</span>
+						<span>🔱 2828</span>
 					</div>
 				<div class="stars-today">⭐ 2165 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 348540</span>
-						<span>🔱 36639</span>
-					</div>
-				<div class="stars-today">⭐ 10574 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-02
-date: 2025-06-02T09:58:40Z
+date: 2025-06-02T11:58:40Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10781</span>
+						<span>🔱 657</span>
+					</div>
+				<div class="stars-today">⭐ 453 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 302460</span>
+						<span>🔱 50103</span>
+					</div>
+				<div class="stars-today">⭐ 421 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
@@ -30,10 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 8452</span>
-						<span>🔱 815</span>
+						<span>⭐ 8533</span>
+						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 971 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+    
+
+
+      
+        gitroomhq /
+
+      postiz-app</a></p>
+				<p>
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20076</span>
+						<span>🔱 3225</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6276</span>
+						<span>🔱 876</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/syncthing/syncthing" target="_blank">
+    
+
+
+      
+        syncthing /
+
+      syncthing</a></p>
+				<p>
+      Open Source Continuous File Synchronization
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 71347</span>
+						<span>🔱 4569</span>
+					</div>
+				<div class="stars-today">⭐ 369 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4895</span>
+						<span>🔱 350</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
 				</div>
 			</div>
 	
@@ -52,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13834</span>
-						<span>🔱 1175</span>
+						<span>⭐ 13887</span>
+						<span>🔱 1180</span>
 					</div>
 				<div class="stars-today">⭐ 258 stars today</div>
 				</div>
@@ -74,96 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7495</span>
-						<span>🔱 1567</span>
+						<span>⭐ 7532</span>
+						<span>🔱 1568</span>
 					</div>
 				<div class="stars-today">⭐ 255 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
-    
-
-
-      
-        onlook-dev /
-
-      onlook</a></p>
-				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10652</span>
-						<span>🔱 649</span>
-					</div>
-				<div class="stars-today">⭐ 453 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/imputnet/cobalt" target="_blank">
-    
-
-
-      
-        imputnet /
-
-      cobalt</a></p>
-				<p>
-      best way to save what you love
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Svelte</span>
-						<span>⭐ 33080</span>
-						<span>🔱 2757</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 302420</span>
-						<span>🔱 50099</span>
-					</div>
-				<div class="stars-today">⭐ 421 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 13196</span>
-						<span>🔱 901</span>
-					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	
@@ -182,120 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7223</span>
-						<span>🔱 1977</span>
+						<span>⭐ 7245</span>
+						<span>🔱 1979</span>
 					</div>
 				<div class="stars-today">⭐ 70 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
+				<p><a href="https://github.com/ok-oldking/ok-wuthering-waves" target="_blank">
     
 
 
       
-        trimstray /
+        ok-oldking /
 
-      the-book-of-secret-knowledge</a></p>
+      ok-wuthering-waves</a></p>
 				<p>
-      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 172075</span>
-						<span>🔱 10756</span>
-					</div>
-				<div class="stars-today">⭐ 418 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      11 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 23752</span>
-						<span>🔱 6284</span>
-					</div>
-				<div class="stars-today">⭐ 360 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/local-ai-packaged" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      local-ai-packaged</a></p>
-				<p>
-      Run all your local AI together in one package - Ollama, Supabase, n8n, Open WebUI, and more!
+      鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1662</span>
-						<span>🔱 668</span>
+						<span>⭐ 2740</span>
+						<span>🔱 183</span>
 					</div>
-				<div class="stars-today">⭐ 57 stars today</div>
+				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/syncthing/syncthing" target="_blank">
+				<p><a href="https://github.com/termux/termux-app" target="_blank">
     
 
 
       
-        syncthing /
+        termux /
 
-      syncthing</a></p>
+      termux-app</a></p>
 				<p>
-      Open Source Continuous File Synchronization
+      Termux - a terminal emulator application for Android OS extendible by variety of packages.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 71330</span>
-						<span>🔱 4569</span>
+						<span>🔠 Java</span>
+						<span>⭐ 41844</span>
+						<span>🔱 4535</span>
 					</div>
-				<div class="stars-today">⭐ 369 stars today</div>
+				<div class="stars-today">⭐ 32 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+				<p><a href="https://github.com/MervinPraison/PraisonAI" target="_blank">
     
 
 
       
-        nautechsystems /
+        MervinPraison /
 
-      nautilus_trader</a></p>
+      PraisonAI</a></p>
 				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
+      PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6255</span>
-						<span>🔱 876</span>
+						<span>⭐ 4347</span>
+						<span>🔱 617</span>
 					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
+				<div class="stars-today">⭐ 22 stars today</div>
 				</div>
 			</div>
 	
@@ -314,76 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 11812</span>
-						<span>🔱 3030</span>
+						<span>⭐ 11822</span>
+						<span>🔱 3032</span>
 					</div>
 				<div class="stars-today">⭐ 21 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mui/mui-x" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        mui /
+        virattt /
 
-      mui-x</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      MUI X: Build complex and data-rich applications using a growing list of advanced React components, like the Data Grid, Date and Time Pickers, Charts, and more!
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5205</span>
-						<span>🔱 1472</span>
+						<span>🔠 Python</span>
+						<span>⭐ 34196</span>
+						<span>🔱 5925</span>
 					</div>
-				<div class="stars-today">⭐ 169 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/go-genai" target="_blank">
-    
-
-
-      
-        googleapis /
-
-      go-genai</a></p>
-				<p>
-      Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 460</span>
-						<span>🔱 53</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GeostatsGuy/DataScienceInteractivePython" target="_blank">
-    
-
-
-      
-        GeostatsGuy /
-
-      DataScienceInteractivePython</a></p>
-				<p>
-      Python interactive dashboards for learning data science
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 1607</span>
-						<span>🔱 295</span>
-					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
+				<div class="stars-today">⭐ 213 stars today</div>
 				</div>
 			</div>
 	
