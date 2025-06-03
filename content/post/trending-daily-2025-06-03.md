@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-03
-date: 2025-06-03T09:58:53Z
+date: 2025-06-03T11:58:37Z
 categories:
 - daily
 keywords:
@@ -30,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12946</span>
-						<span>🔱 761</span>
+						<span>⭐ 13123</span>
+						<span>🔱 773</span>
 					</div>
 				<div class="stars-today">⭐ 624 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 303237</span>
-						<span>🔱 50199</span>
-					</div>
-				<div class="stars-today">⭐ 596 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 9146</span>
-						<span>🔱 855</span>
-					</div>
-				<div class="stars-today">⭐ 1339 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
-    
-
-
-      
-        gitroomhq /
-
-      postiz-app</a></p>
-				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20377</span>
-						<span>🔱 3254</span>
-					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
 				</div>
 			</div>
 	
@@ -118,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6581</span>
-						<span>🔱 895</span>
+						<span>⭐ 6633</span>
+						<span>🔱 901</span>
 					</div>
 				<div class="stars-today">⭐ 231 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/syncthing/syncthing" target="_blank">
-    
-
-
-      
-        syncthing /
-
-      syncthing</a></p>
-				<p>
-      Open Source Continuous File Synchronization
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 71591</span>
-						<span>🔱 4581</span>
-					</div>
-				<div class="stars-today">⭐ 307 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5110</span>
-						<span>🔱 364</span>
-					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14168</span>
-						<span>🔱 1197</span>
-					</div>
-				<div class="stars-today">⭐ 1080 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +74,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7867</span>
-						<span>🔱 1614</span>
+						<span>⭐ 7895</span>
+						<span>🔱 1621</span>
 					</div>
 				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 28631</span>
+						<span>🔱 5780</span>
+					</div>
+				<div class="stars-today">⭐ 376 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 303274</span>
+						<span>🔱 50205</span>
+					</div>
+				<div class="stars-today">⭐ 596 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+    
+
+
+      
+        gitroomhq /
+
+      postiz-app</a></p>
+				<p>
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20409</span>
+						<span>🔱 3258</span>
+					</div>
+				<div class="stars-today">⭐ 48 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plankanban/planka" target="_blank">
+    
+
+
+      
+        plankanban /
+
+      planka</a></p>
+				<p>
+      PLANKA is the kanban-style project mastering tool for everyone.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9399</span>
+						<span>🔱 940</span>
+					</div>
+				<div class="stars-today">⭐ 20 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/black-forest-labs/flux" target="_blank">
+    
+
+
+      
+        black-forest-labs /
+
+      flux</a></p>
+				<p>
+      Official inference repo for FLUX.1 models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21992</span>
+						<span>🔱 1568</span>
+					</div>
+				<div class="stars-today">⭐ 39 stars today</div>
 				</div>
 			</div>
 	
@@ -228,120 +206,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7468</span>
-						<span>🔱 2000</span>
+						<span>⭐ 7481</span>
+						<span>🔱 2001</span>
 					</div>
 				<div class="stars-today">⭐ 216 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ok-oldking/ok-wuthering-waves" target="_blank">
+				<p><a href="https://github.com/WordPress/gutenberg" target="_blank">
     
 
 
       
-        ok-oldking /
+        WordPress /
 
-      ok-wuthering-waves</a></p>
+      gutenberg</a></p>
 				<p>
-      鸣潮 后台自动战斗 自动刷声骸 一键日常 Automation for Wuthering Waves
+      The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11137</span>
+						<span>🔱 4416</span>
+					</div>
+				<div class="stars-today">⭐ 4 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 13220</span>
+						<span>🔱 904</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2838</span>
-						<span>🔱 195</span>
+						<span>⭐ 28389</span>
+						<span>🔱 3574</span>
 					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/termux/termux-app" target="_blank">
-    
-
-
-      
-        termux /
-
-      termux-app</a></p>
-				<p>
-      Termux - a terminal emulator application for Android OS extendible by variety of packages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 41971</span>
-						<span>🔱 4544</span>
-					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MervinPraison/PraisonAI" target="_blank">
-    
-
-
-      
-        MervinPraison /
-
-      PraisonAI</a></p>
-				<p>
-      PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4599</span>
-						<span>🔱 641</span>
-					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/assimp/assimp" target="_blank">
-    
-
-
-      
-        assimp /
-
-      assimp</a></p>
-				<p>
-      The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 11949</span>
-						<span>🔱 3041</span>
-					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34450</span>
-						<span>🔱 5971</span>
-					</div>
-				<div class="stars-today">⭐ 210 stars today</div>
+				<div class="stars-today">⭐ 221 stars today</div>
 				</div>
 			</div>
 	

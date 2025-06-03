@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第23周
-date: 2025-06-03T09:58:53Z
+date: 2025-06-03T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15629</span>
-						<span>🔱 1405</span>
+						<span>⭐ 15670</span>
+						<span>🔱 1412</span>
 					</div>
 				<div class="stars-today">⭐ 9060 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23854</span>
-						<span>🔱 3695</span>
-					</div>
-				<div class="stars-today">⭐ 1861 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31375</span>
-						<span>🔱 5222</span>
-					</div>
-				<div class="stars-today">⭐ 1272 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14168</span>
-						<span>🔱 1197</span>
+						<span>⭐ 14182</span>
+						<span>🔱 1200</span>
 					</div>
 				<div class="stars-today">⭐ 2061 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23862</span>
+						<span>🔱 3699</span>
+					</div>
+				<div class="stars-today">⭐ 1861 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 11073</span>
+						<span>⭐ 11085</span>
 						<span>🔱 617</span>
 					</div>
 				<div class="stars-today">⭐ 861 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      RD-Agent</a></p>
-				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5487</span>
-						<span>🔱 488</span>
-					</div>
-				<div class="stars-today">⭐ 758 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,118 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10840</span>
+						<span>⭐ 10844</span>
 						<span>🔱 1348</span>
 					</div>
 				<div class="stars-today">⭐ 415 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/groupultra/telegram-search" target="_blank">
-    
-
-
-      
-        groupultra /
-
-      telegram-search</a></p>
-				<p>
-      🔍 一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2158</span>
-						<span>🔱 154</span>
-					</div>
-				<div class="stars-today">⭐ 540 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gofiber/fiber" target="_blank">
-    
-
-
-      
-        gofiber /
-
-      fiber</a></p>
-				<p>
-      ⚡️ Express inspired web framework written in Go
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 36726</span>
-						<span>🔱 1792</span>
-					</div>
-				<div class="stars-today">⭐ 186 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wg-easy/wg-easy" target="_blank">
-    
-
-
-      
-        wg-easy /
-
-      wg-easy</a></p>
-				<p>
-      The easiest way to run WireGuard VPN + Web-based Admin UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19611</span>
-						<span>🔱 1850</span>
-					</div>
-				<div class="stars-today">⭐ 615 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
-    
-
-
-      
-        duixcom /
-
-      Duix.mobile</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 6776</span>
-						<span>🔱 972</span>
-					</div>
-				<div class="stars-today">⭐ 556 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/TinyTroupe" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      TinyTroupe</a></p>
-				<p>
-      LLM-powered multiagent persona simulation for imagination enhancement and business insights.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6844</span>
-						<span>🔱 575</span>
-					</div>
-				<div class="stars-today">⭐ 172 stars this week</div>
 				</div>
 			</div>
 	
@@ -300,24 +148,176 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
+				<p><a href="https://github.com/imputnet/cobalt" target="_blank">
+    
+
+
+      
+        imputnet /
+
+      cobalt</a></p>
+				<p>
+      best way to save what you love
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Svelte</span>
+						<span>⭐ 33282</span>
+						<span>🔱 2762</span>
+					</div>
+				<div class="stars-today">⭐ 975 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      typescript-go</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      Staging repo for development of native port of TypeScript
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 23981</span>
+						<span>🔱 6369</span>
+					</div>
+				<div class="stars-today">⭐ 2310 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
+    
+
+
+      
+        duixcom /
+
+      Duix.mobile</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 6779</span>
+						<span>🔱 972</span>
+					</div>
+				<div class="stars-today">⭐ 556 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ossu/computer-science" target="_blank">
+    
+
+
+      
+        ossu /
+
+      computer-science</a></p>
+				<p>
+      🎓 Path to a free self-taught education in Computer Science!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 184818</span>
+						<span>🔱 23175</span>
+					</div>
+				<div class="stars-today">⭐ 2961 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/black-forest-labs/flux" target="_blank">
+    
+
+
+      
+        black-forest-labs /
+
+      flux</a></p>
+				<p>
+      Official inference repo for FLUX.1 models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21992</span>
+						<span>🔱 1568</span>
+					</div>
+				<div class="stars-today">⭐ 179 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31382</span>
+						<span>🔱 5222</span>
+					</div>
+				<div class="stars-today">⭐ 1272 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gofiber/fiber" target="_blank">
+    
+
+
+      
+        gofiber /
+
+      fiber</a></p>
+				<p>
+      ⚡️ Express inspired web framework written in Go
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20583</span>
-						<span>🔱 637</span>
+						<span>⭐ 36730</span>
+						<span>🔱 1792</span>
 					</div>
-				<div class="stars-today">⭐ 439 stars this week</div>
+				<div class="stars-today">⭐ 186 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+    
+
+
+      
+        gitroomhq /
+
+      postiz-app</a></p>
+				<p>
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20409</span>
+						<span>🔱 3258</span>
+					</div>
+				<div class="stars-today">⭐ 184 stars this week</div>
 				</div>
 			</div>
 	

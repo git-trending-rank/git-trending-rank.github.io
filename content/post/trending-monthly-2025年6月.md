@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-03T09:58:53Z
+date: 2025-06-03T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15629</span>
-						<span>🔱 1405</span>
+						<span>⭐ 15670</span>
+						<span>🔱 1412</span>
 					</div>
 				<div class="stars-today">⭐ 13667 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35351</span>
+						<span>⭐ 35358</span>
 						<span>🔱 5012</span>
 					</div>
 				<div class="stars-today">⭐ 9016 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12829</span>
-						<span>🔱 955</span>
+						<span>⭐ 12839</span>
+						<span>🔱 956</span>
 					</div>
 				<div class="stars-today">⭐ 9988 stars this month</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22756</span>
-						<span>🔱 1468</span>
+						<span>⭐ 22766</span>
+						<span>🔱 1469</span>
 					</div>
 				<div class="stars-today">⭐ 10599 stars this month</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6409</span>
-						<span>🔱 523</span>
+						<span>⭐ 6413</span>
+						<span>🔱 524</span>
 					</div>
 				<div class="stars-today">⭐ 2820 stars this month</div>
 				</div>
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31375</span>
+						<span>⭐ 31382</span>
 						<span>🔱 5222</span>
 					</div>
 				<div class="stars-today">⭐ 3535 stars this month</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4651</span>
-						<span>🔱 323</span>
+						<span>⭐ 4657</span>
+						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 3409 stars this month</div>
 				</div>
@@ -182,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33531</span>
-						<span>🔱 3311</span>
+						<span>⭐ 33543</span>
+						<span>🔱 3312</span>
 					</div>
 				<div class="stars-today">⭐ 5148 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 43328</span>
-						<span>🔱 1844</span>
-					</div>
-				<div class="stars-today">⭐ 5295 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5110</span>
+						<span>⭐ 5115</span>
 						<span>🔱 364</span>
 					</div>
 				<div class="stars-today">⭐ 3093 stars this month</div>
@@ -248,32 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23854</span>
-						<span>🔱 3695</span>
+						<span>⭐ 23862</span>
+						<span>🔱 3699</span>
 					</div>
 				<div class="stars-today">⭐ 4803 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        hacksider /
+        LadybirdBrowser /
 
-      Deep-Live-Cam</a></p>
+      ladybird</a></p>
 				<p>
-      real time face swap and one-click video deepfake with only a single image
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70357</span>
-						<span>🔱 9955</span>
+						<span>🔠 C++</span>
+						<span>⭐ 43335</span>
+						<span>🔱 1844</span>
 					</div>
-				<div class="stars-today">⭐ 13625 stars this month</div>
+				<div class="stars-today">⭐ 5295 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 325438</span>
+						<span>🔱 41924</span>
+					</div>
+				<div class="stars-today">⭐ 8768 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 53925</span>
-						<span>🔱 5742</span>
+						<span>⭐ 53932</span>
+						<span>🔱 5744</span>
 					</div>
 				<div class="stars-today">⭐ 4044 stars this month</div>
 				</div>
@@ -314,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8963</span>
+						<span>⭐ 8970</span>
 						<span>🔱 1127</span>
 					</div>
 				<div class="stars-today">⭐ 3239 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 325413</span>
-						<span>🔱 41923</span>
-					</div>
-				<div class="stars-today">⭐ 8768 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60848</span>
+						<span>⭐ 60851</span>
 						<span>🔱 4408</span>
 					</div>
 				<div class="stars-today">⭐ 3233 stars this month</div>
@@ -380,54 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 127771</span>
+						<span>⭐ 127776</span>
 						<span>🔱 16956</span>
 					</div>
 				<div class="stars-today">⭐ 4105 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9252</span>
-						<span>🔱 784</span>
-					</div>
-				<div class="stars-today">⭐ 1572 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 348754</span>
-						<span>🔱 36659</span>
-					</div>
-				<div class="stars-today">⭐ 10703 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,10 +380,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20618</span>
+						<span>⭐ 20625</span>
 						<span>🔱 2839</span>
 					</div>
 				<div class="stars-today">⭐ 2184 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/awslabs/agent-squad" target="_blank">
+    
+
+
+      
+        awslabs /
+
+      agent-squad</a></p>
+				<p>
+      Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5950</span>
+						<span>🔱 503</span>
+					</div>
+				<div class="stars-today">⭐ 1189 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 348766</span>
+						<span>🔱 36660</span>
+					</div>
+				<div class="stars-today">⭐ 10703 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent</a></p>
+				<p>
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9257</span>
+						<span>🔱 784</span>
+					</div>
+				<div class="stars-today">⭐ 1572 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
+    
+
+
+      
+        usememos /
+
+      memos</a></p>
+				<p>
+      An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 41479</span>
+						<span>🔱 2949</span>
+					</div>
+				<div class="stars-today">⭐ 2315 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      courses</a></p>
+				<p>
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14182</span>
+						<span>🔱 1200</span>
+					</div>
+				<div class="stars-today">⭐ 2718 stars this month</div>
 				</div>
 			</div>
 	
