@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-04T09:58:38Z
+date: 2025-06-04T11:58:48Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16064</span>
-						<span>🔱 1466</span>
+						<span>⭐ 16124</span>
+						<span>🔱 1476</span>
 					</div>
 				<div class="stars-today">⭐ 14222 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35485</span>
-						<span>🔱 5035</span>
+						<span>⭐ 35498</span>
+						<span>🔱 5038</span>
 					</div>
 				<div class="stars-today">⭐ 9138 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12919</span>
+						<span>⭐ 12928</span>
 						<span>🔱 966</span>
 					</div>
 				<div class="stars-today">⭐ 10067 stars this month</div>
@@ -94,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22862</span>
-						<span>🔱 1475</span>
+						<span>⭐ 22872</span>
+						<span>🔱 1476</span>
 					</div>
 				<div class="stars-today">⭐ 10685 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      kubectl-ai</a></p>
+				<p>
+      AI powered Kubernetes Assistant
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5958</span>
+						<span>🔱 497</span>
+					</div>
+				<div class="stars-today">⭐ 5581 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6446</span>
+						<span>⭐ 6452</span>
 						<span>🔱 525</span>
 					</div>
 				<div class="stars-today">⭐ 2860 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31487</span>
-						<span>🔱 5227</span>
-					</div>
-				<div class="stars-today">⭐ 3652 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4718</span>
-						<span>🔱 330</span>
+						<span>⭐ 4727</span>
+						<span>🔱 331</span>
 					</div>
 				<div class="stars-today">⭐ 3474 stars this month</div>
 				</div>
@@ -182,32 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33654</span>
-						<span>🔱 3327</span>
+						<span>⭐ 33658</span>
+						<span>🔱 3328</span>
 					</div>
 				<div class="stars-today">⭐ 5191 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
     
 
 
       
-        MODSetter /
+        mindsdb /
 
-      SurfSense</a></p>
+      mindsdb</a></p>
 				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5176</span>
-						<span>🔱 367</span>
+						<span>🔠 Python</span>
+						<span>⭐ 31498</span>
+						<span>🔱 5228</span>
 					</div>
-				<div class="stars-today">⭐ 3089 stars this month</div>
+				<div class="stars-today">⭐ 3652 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24051</span>
+						<span>⭐ 24068</span>
 						<span>🔱 3728</span>
 					</div>
 				<div class="stars-today">⭐ 4989 stars this month</div>
@@ -234,24 +234,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        MODSetter /
 
-      ladybird</a></p>
+      SurfSense</a></p>
 				<p>
-      Truly independent web browser
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 43426</span>
-						<span>🔱 1849</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5180</span>
+						<span>🔱 367</span>
 					</div>
-				<div class="stars-today">⭐ 5323 stars this month</div>
+				<div class="stars-today">⭐ 3089 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14859</span>
+						<span>🔱 855</span>
+					</div>
+				<div class="stars-today">⭐ 4273 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 325778</span>
-						<span>🔱 41955</span>
+						<span>⭐ 325800</span>
+						<span>🔱 41957</span>
 					</div>
 				<div class="stars-today">⭐ 8899 stars this month</div>
 				</div>
@@ -292,10 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 54052</span>
-						<span>🔱 5752</span>
+						<span>⭐ 54059</span>
+						<span>🔱 5753</span>
 					</div>
 				<div class="stars-today">⭐ 4203 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      Build like a team of hundreds_
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 50847</span>
+						<span>🔱 4448</span>
+					</div>
+				<div class="stars-today">⭐ 2586 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 43436</span>
+						<span>🔱 1851</span>
+					</div>
+				<div class="stars-today">⭐ 5323 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +380,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9038</span>
-						<span>🔱 1131</span>
+						<span>⭐ 9043</span>
+						<span>🔱 1133</span>
 					</div>
 				<div class="stars-today">⭐ 3187 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
+    
+
+
+      
+        Blaizzy /
+
+      mlx-audio</a></p>
+				<p>
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2317</span>
+						<span>🔱 166</span>
+					</div>
+				<div class="stars-today">⭐ 1607 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +424,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 60912</span>
+						<span>⭐ 60919</span>
 						<span>🔱 4412</span>
 					</div>
 				<div class="stars-today">⭐ 3252 stars this month</div>
@@ -358,8 +446,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 127879</span>
-						<span>🔱 16970</span>
+						<span>⭐ 127893</span>
+						<span>🔱 16972</span>
 					</div>
 				<div class="stars-today">⭐ 4179 stars this month</div>
 				</div>
@@ -380,32 +468,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20709</span>
-						<span>🔱 2850</span>
+						<span>⭐ 20713</span>
+						<span>🔱 2852</span>
 					</div>
 				<div class="stars-today">⭐ 2250 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/awslabs/agent-squad" target="_blank">
-    
-
-
-      
-        awslabs /
-
-      agent-squad</a></p>
-				<p>
-      Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5966</span>
-						<span>🔱 504</span>
-					</div>
-				<div class="stars-today">⭐ 1195 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,54 +490,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 348959</span>
-						<span>🔱 36687</span>
+						<span>⭐ 348968</span>
+						<span>🔱 36689</span>
 					</div>
 				<div class="stars-today">⭐ 10851 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9295</span>
-						<span>🔱 788</span>
-					</div>
-				<div class="stars-today">⭐ 1510 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
-    
-
-
-      
-        usememos /
-
-      memos</a></p>
-				<p>
-      An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 41551</span>
-						<span>🔱 2952</span>
-					</div>
-				<div class="stars-today">⭐ 2361 stars this month</div>
 				</div>
 			</div>
 	
@@ -490,8 +512,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14296</span>
-						<span>🔱 1209</span>
+						<span>⭐ 14306</span>
+						<span>🔱 1210</span>
 					</div>
 				<div class="stars-today">⭐ 2898 stars this month</div>
 				</div>

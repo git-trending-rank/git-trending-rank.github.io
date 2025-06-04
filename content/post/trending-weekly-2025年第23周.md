@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第23周
-date: 2025-06-04T09:58:38Z
+date: 2025-06-04T11:58:47Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16064</span>
-						<span>🔱 1466</span>
+						<span>⭐ 16124</span>
+						<span>🔱 1476</span>
 					</div>
 				<div class="stars-today">⭐ 7060 stars this week</div>
 				</div>
@@ -52,32 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14296</span>
-						<span>🔱 1209</span>
+						<span>⭐ 14306</span>
+						<span>🔱 1210</span>
 					</div>
 				<div class="stars-today">⭐ 2330 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+				<p><a href="https://github.com/aaPanel/BillionMail" target="_blank">
     
 
 
       
-        microsoft /
+        aaPanel /
 
-      qlib</a></p>
+      BillionMail</a></p>
 				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4364</span>
+						<span>🔱 307</span>
+					</div>
+				<div class="stars-today">⭐ 2783 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24051</span>
-						<span>🔱 3728</span>
+						<span>⭐ 303821</span>
+						<span>🔱 50275</span>
 					</div>
-				<div class="stars-today">⭐ 1406 stars this week</div>
+				<div class="stars-today">⭐ 2304 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+    
+
+
+      
+        gitroomhq /
+
+      postiz-app</a></p>
+				<p>
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20740</span>
+						<span>🔱 3278</span>
+					</div>
+				<div class="stars-today">⭐ 542 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 11186</span>
+						<span>⭐ 11201</span>
 						<span>🔱 620</span>
 					</div>
 				<div class="stars-today">⭐ 842 stars this week</div>
@@ -104,24 +148,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/seleniumbase/SeleniumBase" target="_blank">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
     
 
 
       
-        seleniumbase /
+        microsoft /
 
-      SeleniumBase</a></p>
+      qlib</a></p>
 				<p>
-      Python APIs for web automation, testing, and bypassing bot-detection.
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10908</span>
-						<span>🔱 1349</span>
+						<span>⭐ 24068</span>
+						<span>🔱 3728</span>
 					</div>
-				<div class="stars-today">⭐ 350 stars this week</div>
+				<div class="stars-today">⭐ 1406 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 24160</span>
+						<span>🔱 6436</span>
+					</div>
+				<div class="stars-today">⭐ 2366 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 11282</span>
+						<span>⭐ 11284</span>
 						<span>🔱 3343</span>
 					</div>
 				<div class="stars-today">⭐ 158 stars this week</div>
@@ -162,162 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Svelte</span>
-						<span>⭐ 33388</span>
-						<span>🔱 2768</span>
+						<span>⭐ 33398</span>
+						<span>🔱 2769</span>
 					</div>
 				<div class="stars-today">⭐ 1046 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/syncthing/syncthing" target="_blank">
     
 
 
       
-        microsoft /
+        syncthing /
 
-      ai-agents-for-beginners</a></p>
+      syncthing</a></p>
 				<p>
-      11 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24137</span>
-						<span>🔱 6424</span>
-					</div>
-				<div class="stars-today">⭐ 2366 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/duixcom/Duix.mobile" target="_blank">
-    
-
-
-      
-        duixcom /
-
-      Duix.mobile</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 6814</span>
-						<span>🔱 975</span>
-					</div>
-				<div class="stars-today">⭐ 517 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ossu/computer-science" target="_blank">
-    
-
-
-      
-        ossu /
-
-      computer-science</a></p>
-				<p>
-      🎓 Path to a free self-taught education in Computer Science!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 184930</span>
-						<span>🔱 23183</span>
-					</div>
-				<div class="stars-today">⭐ 2319 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/black-forest-labs/flux" target="_blank">
-    
-
-
-      
-        black-forest-labs /
-
-      flux</a></p>
-				<p>
-      Official inference repo for FLUX.1 models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22160</span>
-						<span>🔱 1572</span>
-					</div>
-				<div class="stars-today">⭐ 216 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31487</span>
-						<span>🔱 5227</span>
-					</div>
-				<div class="stars-today">⭐ 1113 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gofiber/fiber" target="_blank">
-    
-
-
-      
-        gofiber /
-
-      fiber</a></p>
-				<p>
-      ⚡️ Express inspired web framework written in Go
+      Open Source Continuous File Synchronization
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 36752</span>
-						<span>🔱 1795</span>
+						<span>⭐ 71713</span>
+						<span>🔱 4586</span>
 					</div>
-				<div class="stars-today">⭐ 213 stars this week</div>
+				<div class="stars-today">⭐ 1102 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
     
 
 
       
-        gitroomhq /
+        DataExpert-io /
 
-      postiz-app</a></p>
+      data-engineer-handbook</a></p>
 				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+      This is a repo with links to everything you'd ever want to learn about data engineering
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20718</span>
-						<span>🔱 3277</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 28918</span>
+						<span>🔱 5801</span>
 					</div>
-				<div class="stars-today">⭐ 542 stars this week</div>
+				<div class="stars-today">⭐ 686 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WhiskeySockets/Baileys" target="_blank">
+    
+
+
+      
+        WhiskeySockets /
+
+      Baileys</a></p>
+				<p>
+      Lightweight full-featured typescript/javascript WhatsApp Web API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5717</span>
+						<span>🔱 1903</span>
+					</div>
+				<div class="stars-today">⭐ 254 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/seleniumbase/SeleniumBase" target="_blank">
+    
+
+
+      
+        seleniumbase /
+
+      SeleniumBase</a></p>
+				<p>
+      Python APIs for web automation, testing, and bypassing bot-detection.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10914</span>
+						<span>🔱 1350</span>
+					</div>
+				<div class="stars-today">⭐ 350 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stalwartlabs/stalwart" target="_blank">
+    
+
+
+      
+        stalwartlabs /
+
+      stalwart</a></p>
+				<p>
+      All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8502</span>
+						<span>🔱 402</span>
+					</div>
+				<div class="stars-today">⭐ 621 stars this week</div>
 				</div>
 			</div>
 	
