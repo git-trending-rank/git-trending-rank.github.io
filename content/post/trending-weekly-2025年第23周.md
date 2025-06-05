@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第23周
-date: 2025-06-05T09:58:42Z
+date: 2025-06-05T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
     
 
 
       
-        Fosowl /
+        anthropics /
 
-      agenticSeek</a></p>
+      prompt-eng-interactive-tutorial</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+      Anthropic's Interactive Prompt Engineering Tutorial
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16535</span>
-						<span>🔱 1533</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 9613</span>
+						<span>🔱 893</span>
 					</div>
-				<div class="stars-today">⭐ 5247 stars this week</div>
+				<div class="stars-today">⭐ 5754 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14406</span>
+						<span>⭐ 14415</span>
 						<span>🔱 1219</span>
 					</div>
 				<div class="stars-today">⭐ 2353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek</a></p>
+				<p>
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16567</span>
+						<span>🔱 1535</span>
+					</div>
+				<div class="stars-today">⭐ 5247 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7770</span>
+						<span>🔱 993</span>
+					</div>
+				<div class="stars-today">⭐ 1559 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4481</span>
+						<span>⭐ 4493</span>
 						<span>🔱 313</span>
 					</div>
 				<div class="stars-today">⭐ 2187 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/livestorejs/livestore" target="_blank">
+    
+
+
+      
+        livestorejs /
+
+      livestore</a></p>
+				<p>
+      LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2118</span>
+						<span>🔱 46</span>
+					</div>
+				<div class="stars-today">⭐ 1056 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,120 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 304190</span>
-						<span>🔱 50330</span>
+						<span>⭐ 304214</span>
+						<span>🔱 50331</span>
 					</div>
 				<div class="stars-today">⭐ 2749 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
-    
-
-
-      
-        gitroomhq /
-
-      postiz-app</a></p>
-				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21035</span>
-						<span>🔱 3307</span>
-					</div>
-				<div class="stars-today">⭐ 863 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 11348</span>
-						<span>🔱 628</span>
-					</div>
-				<div class="stars-today">⭐ 837 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24208</span>
-						<span>🔱 3752</span>
-					</div>
-				<div class="stars-today">⭐ 1253 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      11 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24312</span>
-						<span>🔱 6501</span>
-					</div>
-				<div class="stars-today">⭐ 2399 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actions/runner-images" target="_blank">
-    
-
-
-      
-        actions /
-
-      runner-images</a></p>
-				<p>
-      GitHub Actions runner images
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 11291</span>
-						<span>🔱 3345</span>
-					</div>
-				<div class="stars-today">⭐ 153 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Svelte</span>
-						<span>⭐ 33496</span>
-						<span>🔱 2775</span>
+						<span>⭐ 33506</span>
+						<span>🔱 2776</span>
 					</div>
 				<div class="stars-today">⭐ 1110 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 11358</span>
+						<span>🔱 630</span>
+					</div>
+				<div class="stars-today">⭐ 837 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MervinPraison/PraisonAI" target="_blank">
+    
+
+
+      
+        MervinPraison /
+
+      PraisonAI</a></p>
+				<p>
+      PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4689</span>
+						<span>🔱 654</span>
+					</div>
+				<div class="stars-today">⭐ 402 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 71934</span>
+						<span>⭐ 71951</span>
 						<span>🔱 4592</span>
 					</div>
 				<div class="stars-today">⭐ 1196 stars this week</div>
@@ -258,90 +258,156 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
     
 
 
       
-        DataExpert-io /
+        gitroomhq /
 
-      data-engineer-handbook</a></p>
+      postiz-app</a></p>
 				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 28976</span>
-						<span>🔱 5808</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21048</span>
+						<span>🔱 3308</span>
 					</div>
-				<div class="stars-today">⭐ 824 stars this week</div>
+				<div class="stars-today">⭐ 863 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/WhiskeySockets/Baileys" target="_blank">
+				<p><a href="https://github.com/duckdb/ducklake" target="_blank">
     
 
 
       
-        WhiskeySockets /
+        duckdb /
 
-      Baileys</a></p>
+      ducklake</a></p>
 				<p>
-      Lightweight full-featured typescript/javascript WhatsApp Web API
+      DuckLake is an integrated data lake and catalog format
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 5747</span>
-						<span>🔱 1907</span>
+						<span>🔠 C++</span>
+						<span>⭐ 1350</span>
+						<span>🔱 51</span>
 					</div>
-				<div class="stars-today">⭐ 256 stars this week</div>
+				<div class="stars-today">⭐ 927 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/seleniumbase/SeleniumBase" target="_blank">
+				<p><a href="https://github.com/actions/runner-images" target="_blank">
     
 
 
       
-        seleniumbase /
+        actions /
 
-      SeleniumBase</a></p>
+      runner-images</a></p>
 				<p>
-      Python APIs for web automation, testing, and bypassing bot-detection.
+      GitHub Actions runner images
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 11292</span>
+						<span>🔱 3345</span>
+					</div>
+				<div class="stars-today">⭐ 153 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10969</span>
-						<span>🔱 1354</span>
+						<span>⭐ 24217</span>
+						<span>🔱 3754</span>
 					</div>
-				<div class="stars-today">⭐ 338 stars this week</div>
+				<div class="stars-today">⭐ 1253 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stalwartlabs/stalwart" target="_blank">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
 
       
-        stalwartlabs /
+        getzep /
 
-      stalwart</a></p>
+      graphiti</a></p>
 				<p>
-      All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8551</span>
-						<span>🔱 405</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10774</span>
+						<span>🔱 821</span>
 					</div>
-				<div class="stars-today">⭐ 287 stars this week</div>
+				<div class="stars-today">⭐ 815 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WordPress/gutenberg" target="_blank">
+    
+
+
+      
+        WordPress /
+
+      gutenberg</a></p>
+				<p>
+      The Block Editor project for WordPress and beyond. Plugin is available from the official repository.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11254</span>
+						<span>🔱 4421</span>
+					</div>
+				<div class="stars-today">⭐ 152 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 24322</span>
+						<span>🔱 6505</span>
+					</div>
+				<div class="stars-today">⭐ 2399 stars this week</div>
 				</div>
 			</div>
 	
