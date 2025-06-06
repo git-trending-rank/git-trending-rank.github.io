@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-06T09:58:41Z
+date: 2025-06-06T11:59:01Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16871</span>
-						<span>🔱 1572</span>
+						<span>⭐ 16902</span>
+						<span>🔱 1581</span>
 					</div>
 				<div class="stars-today">⭐ 15049 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35741</span>
-						<span>🔱 5073</span>
-					</div>
-				<div class="stars-today">⭐ 9227 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13110</span>
+						<span>⭐ 13120</span>
 						<span>🔱 980</span>
 					</div>
 				<div class="stars-today">⭐ 10184 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35753</span>
+						<span>🔱 5073</span>
+					</div>
+				<div class="stars-today">⭐ 9227 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4875</span>
+						<span>⭐ 4880</span>
 						<span>🔱 348</span>
 					</div>
 				<div class="stars-today">⭐ 3630 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33840</span>
-						<span>🔱 3353</span>
-					</div>
-				<div class="stars-today">⭐ 5306 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,30 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31676</span>
-						<span>🔱 5245</span>
+						<span>⭐ 31680</span>
+						<span>🔱 5244</span>
 					</div>
 				<div class="stars-today">⭐ 3873 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
     
 
 
       
-        voideditor /
+        mem0ai /
 
-      void</a></p>
-				<p></p>
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23059</span>
-						<span>🔱 1497</span>
+						<span>🔠 Python</span>
+						<span>⭐ 33845</span>
+						<span>🔱 3353</span>
 					</div>
-				<div class="stars-today">⭐ 10827 stars this month</div>
+				<div class="stars-today">⭐ 5306 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,10 +162,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16813</span>
-						<span>🔱 1016</span>
+						<span>⭐ 16839</span>
+						<span>🔱 1020</span>
 					</div>
 				<div class="stars-today">⭐ 7134 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23067</span>
+						<span>🔱 1497</span>
+					</div>
+				<div class="stars-today">⭐ 10827 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24315</span>
-						<span>🔱 3763</span>
+						<span>⭐ 24321</span>
+						<span>🔱 3764</span>
 					</div>
 				<div class="stars-today">⭐ 5328 stars this month</div>
 				</div>
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6515</span>
+						<span>⭐ 6517</span>
 						<span>🔱 532</span>
 					</div>
 				<div class="stars-today">⭐ 2932 stars this month</div>
@@ -248,98 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 326195</span>
-						<span>🔱 41983</span>
+						<span>⭐ 326205</span>
+						<span>🔱 41984</span>
 					</div>
 				<div class="stars-today">⭐ 9209 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
-    
-
-
-      
-        frdel /
-
-      agent-zero</a></p>
-				<p>
-      Agent Zero AI framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8973</span>
-						<span>🔱 1764</span>
-					</div>
-				<div class="stars-today">⭐ 2101 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5380</span>
-						<span>🔱 380</span>
-					</div>
-				<div class="stars-today">⭐ 2971 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/kubectl-ai" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      kubectl-ai</a></p>
-				<p>
-      AI powered Kubernetes Assistant
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6033</span>
-						<span>🔱 502</span>
-					</div>
-				<div class="stars-today">⭐ 5416 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 54477</span>
-						<span>🔱 5809</span>
-					</div>
-				<div class="stars-today">⭐ 4472 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50936</span>
+						<span>⭐ 50940</span>
 						<span>🔱 4464</span>
 					</div>
 				<div class="stars-today">⭐ 2649 stars this month</div>
@@ -366,24 +278,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
     
 
 
       
-        jujumilk3 /
+        mlabonne /
 
-      leaked-system-prompts</a></p>
+      llm-course</a></p>
 				<p>
-      Collection of leaked system prompts
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9161</span>
-						<span>🔱 1152</span>
+						<span>⭐ 54499</span>
+						<span>🔱 5812</span>
 					</div>
-				<div class="stars-today">⭐ 3101 stars this month</div>
+				<div class="stars-today">⭐ 4472 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 11498</span>
+						<span>⭐ 11516</span>
 						<span>🔱 638</span>
 					</div>
 				<div class="stars-today">⭐ 3191 stars this month</div>
@@ -424,10 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14547</span>
-						<span>🔱 1240</span>
+						<span>⭐ 14567</span>
+						<span>🔱 1241</span>
 					</div>
 				<div class="stars-today">⭐ 3114 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5394</span>
+						<span>🔱 381</span>
+					</div>
+				<div class="stars-today">⭐ 2971 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34884</span>
+						<span>🔱 6073</span>
+					</div>
+				<div class="stars-today">⭐ 8053 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20826</span>
-						<span>🔱 2854</span>
+						<span>⭐ 20832</span>
+						<span>🔱 2855</span>
 					</div>
 				<div class="stars-today">⭐ 2357 stars this month</div>
 				</div>
@@ -468,8 +424,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 128088</span>
-						<span>🔱 16990</span>
+						<span>⭐ 128095</span>
+						<span>🔱 16991</span>
 					</div>
 				<div class="stars-today">⭐ 4333 stars this month</div>
 				</div>
