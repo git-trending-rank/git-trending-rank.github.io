@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 06 Jun 2025 09:58:41 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 06 Jun 2025 11:59:01 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年6月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</link>
-        <pubDate>Fri, 06 Jun 2025 09:58:41 +0000</pubDate>
+        <pubDate>Fri, 06 Jun 2025 11:59:01 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,32 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16871&lt;/span&gt;
-						&lt;span&gt;🔱 1572&lt;/span&gt;
+						&lt;span&gt;⭐ 16902&lt;/span&gt;
+						&lt;span&gt;🔱 1581&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15049 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/harry0703/MoneyPrinterTurbo&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 35741&lt;/span&gt;
-						&lt;span&gt;🔱 5073&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9227 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,10 +55,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13110&lt;/span&gt;
+						&lt;span&gt;⭐ 13120&lt;/span&gt;
 						&lt;span&gt;🔱 980&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10184 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/harry0703/MoneyPrinterTurbo&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 35753&lt;/span&gt;
+						&lt;span&gt;🔱 5073&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9227 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,32 +99,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4875&lt;/span&gt;
+						&lt;span&gt;⭐ 4880&lt;/span&gt;
 						&lt;span&gt;🔱 348&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3630 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mem0ai/mem0&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        mem0ai /
-
-      mem0&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 33840&lt;/span&gt;
-						&lt;span&gt;🔱 3353&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5306 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,30 +121,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 31676&lt;/span&gt;
-						&lt;span&gt;🔱 5245&lt;/span&gt;
+						&lt;span&gt;⭐ 31680&lt;/span&gt;
+						&lt;span&gt;🔱 5244&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3873 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/voideditor/void&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mem0ai/mem0&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        voideditor /
+        mem0ai /
 
-      void&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
+      mem0&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+    &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23059&lt;/span&gt;
-						&lt;span&gt;🔱 1497&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 33845&lt;/span&gt;
+						&lt;span&gt;🔱 3353&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10827 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5306 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -185,10 +165,30 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 16813&lt;/span&gt;
-						&lt;span&gt;🔱 1016&lt;/span&gt;
+						&lt;span&gt;⭐ 16839&lt;/span&gt;
+						&lt;span&gt;🔱 1020&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7134 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/voideditor/void&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        voideditor /
+
+      void&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 23067&lt;/span&gt;
+						&lt;span&gt;🔱 1497&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10827 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -207,8 +207,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24315&lt;/span&gt;
-						&lt;span&gt;🔱 3763&lt;/span&gt;
+						&lt;span&gt;⭐ 24321&lt;/span&gt;
+						&lt;span&gt;🔱 3764&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5328 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -229,7 +229,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6515&lt;/span&gt;
+						&lt;span&gt;⭐ 6517&lt;/span&gt;
 						&lt;span&gt;🔱 532&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2932 stars this month&lt;/div&gt;
@@ -251,98 +251,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 326195&lt;/span&gt;
-						&lt;span&gt;🔱 41983&lt;/span&gt;
+						&lt;span&gt;⭐ 326205&lt;/span&gt;
+						&lt;span&gt;🔱 41984&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9209 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/frdel/agent-zero&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        frdel /
-
-      agent-zero&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Agent Zero AI framework
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8973&lt;/span&gt;
-						&lt;span&gt;🔱 1764&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2101 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/MODSetter/SurfSense&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        MODSetter /
-
-      SurfSense&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5380&lt;/span&gt;
-						&lt;span&gt;🔱 380&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2971 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/kubectl-ai&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      kubectl-ai&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI powered Kubernetes Assistant
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 6033&lt;/span&gt;
-						&lt;span&gt;🔱 502&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5416 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mlabonne/llm-course&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        mlabonne /
-
-      llm-course&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 54477&lt;/span&gt;
-						&lt;span&gt;🔱 5809&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4472 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -361,7 +273,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 50936&lt;/span&gt;
+						&lt;span&gt;⭐ 50940&lt;/span&gt;
 						&lt;span&gt;🔱 4464&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2649 stars this month&lt;/div&gt;
@@ -369,24 +281,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jujumilk3/leaked-system-prompts&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mlabonne/llm-course&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        jujumilk3 /
+        mlabonne /
 
-      leaked-system-prompts&lt;/a&gt;&lt;/p&gt;
+      llm-course&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Collection of leaked system prompts
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 9161&lt;/span&gt;
-						&lt;span&gt;🔱 1152&lt;/span&gt;
+						&lt;span&gt;⭐ 54499&lt;/span&gt;
+						&lt;span&gt;🔱 5812&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3101 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4472 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -405,7 +317,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 11498&lt;/span&gt;
+						&lt;span&gt;⭐ 11516&lt;/span&gt;
 						&lt;span&gt;🔱 638&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3191 stars this month&lt;/div&gt;
@@ -427,10 +339,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 14547&lt;/span&gt;
-						&lt;span&gt;🔱 1240&lt;/span&gt;
+						&lt;span&gt;⭐ 14567&lt;/span&gt;
+						&lt;span&gt;🔱 1241&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3114 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/MODSetter/SurfSense&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        MODSetter /
+
+      SurfSense&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5394&lt;/span&gt;
+						&lt;span&gt;🔱 381&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2971 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An AI Hedge Fund Team
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 34884&lt;/span&gt;
+						&lt;span&gt;🔱 6073&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8053 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -449,8 +405,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 20826&lt;/span&gt;
-						&lt;span&gt;🔱 2854&lt;/span&gt;
+						&lt;span&gt;⭐ 20832&lt;/span&gt;
+						&lt;span&gt;🔱 2855&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2357 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -471,8 +427,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 128088&lt;/span&gt;
-						&lt;span&gt;🔱 16990&lt;/span&gt;
+						&lt;span&gt;⭐ 128095&lt;/span&gt;
+						&lt;span&gt;🔱 16991&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4333 stars this month&lt;/div&gt;
 				&lt;/div&gt;
