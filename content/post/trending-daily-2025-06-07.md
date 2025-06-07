@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-07
-date: 2025-06-07T09:58:56Z
+date: 2025-06-07T11:58:40Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
-    
-
-
-      
-        netbirdio /
-
-      netbird</a></p>
-				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 14863</span>
-						<span>🔱 705</span>
-					</div>
-				<div class="stars-today">⭐ 320 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5382</span>
-						<span>🔱 491</span>
-					</div>
-				<div class="stars-today">⭐ 244 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
@@ -74,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3505</span>
-						<span>🔱 295</span>
+						<span>⭐ 3566</span>
+						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 590 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stanfordnlp/dspy" target="_blank">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
     
 
 
       
-        stanfordnlp /
+        netbirdio /
 
-      dspy</a></p>
+      netbird</a></p>
 				<p>
-      DSPy: The framework for programming—not prompting—language models
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24928</span>
-						<span>🔱 1935</span>
+						<span>🔠 Go</span>
+						<span>⭐ 14888</span>
+						<span>🔱 704</span>
 					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
+				<div class="stars-today">⭐ 320 stars today</div>
 				</div>
 			</div>
 	
@@ -118,54 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3427</span>
-						<span>🔱 222</span>
+						<span>⭐ 3447</span>
+						<span>🔱 223</span>
 					</div>
 				<div class="stars-today">⭐ 127 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/notebooks" target="_blank">
+				<p><a href="https://github.com/scrapy/scrapy" target="_blank">
     
 
 
       
-        unslothai /
+        scrapy /
 
-      notebooks</a></p>
+      scrapy</a></p>
 				<p>
-      Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
+      Scrapy, a fast high-level web crawling & scraping framework for Python.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 1433</span>
-						<span>🔱 225</span>
+						<span>🔠 Python</span>
+						<span>⭐ 56341</span>
+						<span>🔱 10891</span>
 					</div>
-				<div class="stars-today">⭐ 226 stars today</div>
+				<div class="stars-today">⭐ 315 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+				<p><a href="https://github.com/DavidHDev/react-bits" target="_blank">
     
 
 
       
-        jwasham /
+        DavidHDev /
 
-      coding-interview-university</a></p>
+      react-bits</a></p>
 				<p>
-      A complete computer science study plan to become a software engineer.
+      An open source collection of animated, interactive & fully customizable React components for building stunning, memorable user interfaces.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 319360</span>
-						<span>🔱 79037</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12686</span>
+						<span>🔱 475</span>
 					</div>
-				<div class="stars-today">⭐ 130 stars today</div>
+				<div class="stars-today">⭐ 120 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwohlwend/boltz" target="_blank">
+    
+
+
+      
+        jwohlwend /
+
+      boltz</a></p>
+				<p>
+      Official repository for the Boltz biomolecular interaction models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1967</span>
+						<span>🔱 319</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
 				</div>
 			</div>
 	
@@ -184,54 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 938</span>
-						<span>🔱 72</span>
+						<span>⭐ 949</span>
+						<span>🔱 73</span>
 					</div>
 				<div class="stars-today">⭐ 257 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+				<p><a href="https://github.com/stanfordnlp/dspy" target="_blank">
     
 
 
       
-        rustdesk /
+        stanfordnlp /
 
-      rustdesk</a></p>
+      dspy</a></p>
 				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 90078</span>
-						<span>🔱 12936</span>
-					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Archon is an AI agent that is able to create other AI agents using an advanced agentic coding workflow and framework knowledge base to unlock a new frontier of automated agents.
+      DSPy: The framework for programming—not prompting—language models
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4786</span>
-						<span>🔱 928</span>
+						<span>⭐ 24935</span>
+						<span>🔱 1936</span>
 					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
+				<div class="stars-today">⭐ 66 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Daymychen/art-design-pro" target="_blank">
+    
+
+
+      
+        Daymychen /
+
+      art-design-pro</a></p>
+				<p>
+      A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 1710</span>
+						<span>🔱 300</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
+    
+
+
+      
+        langgenius /
+
+      dify</a></p>
+				<p>
+      Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 101526</span>
+						<span>🔱 15276</span>
+					</div>
+				<div class="stars-today">⭐ 420 stars today</div>
 				</div>
 			</div>
 	
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 54678</span>
+						<span>⭐ 54691</span>
 						<span>🔱 5830</span>
 					</div>
 				<div class="stars-today">⭐ 264 stars today</div>
@@ -258,90 +258,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/practical-tutorials/project-based-learning" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        practical-tutorials /
+        public-apis /
 
-      project-based-learning</a></p>
+      public-apis</a></p>
 				<p>
-      Curated list of project-based tutorials
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 230590</span>
-						<span>🔱 30105</span>
+						<span>🔠 Python</span>
+						<span>⭐ 349677</span>
+						<span>🔱 36769</span>
 					</div>
-				<div class="stars-today">⭐ 399 stars today</div>
+				<div class="stars-today">⭐ 231 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ArduPilot/ardupilot" target="_blank">
+				<p><a href="https://github.com/langchain4j/langchain4j" target="_blank">
     
 
 
       
-        ArduPilot /
+        langchain4j /
 
-      ardupilot</a></p>
+      langchain4j</a></p>
 				<p>
-      ArduPlane, ArduCopter, ArduRover, ArduSub source
+      Java version of LangChain
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 12830</span>
-						<span>🔱 18823</span>
+						<span>🔠 Java</span>
+						<span>⭐ 7825</span>
+						<span>🔱 1441</span>
 					</div>
-				<div class="stars-today">⭐ 237 stars today</div>
+				<div class="stars-today">⭐ 16 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+				<p><a href="https://github.com/iib0011/omni-tools" target="_blank">
     
 
 
       
-        codecrafters-io /
+        iib0011 /
 
-      build-your-own-x</a></p>
+      omni-tools</a></p>
 				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 385231</span>
-						<span>🔱 35925</span>
-					</div>
-				<div class="stars-today">⭐ 348 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
-    
-
-
-      
-        onlook-dev /
-
-      onlook</a></p>
-				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+      Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17102</span>
-						<span>🔱 1047</span>
+						<span>⭐ 2503</span>
+						<span>🔱 101</span>
 					</div>
-				<div class="stars-today">⭐ 551 stars today</div>
+				<div class="stars-today">⭐ 326 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vinta/awesome-python" target="_blank">
+    
+
+
+      
+        vinta /
+
+      awesome-python</a></p>
+				<p>
+      An opinionated list of awesome Python frameworks, libraries, software and resources.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 245750</span>
+						<span>🔱 25758</span>
+					</div>
+				<div class="stars-today">⭐ 130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alphacep/vosk-api" target="_blank">
+    
+
+
+      
+        alphacep /
+
+      vosk-api</a></p>
+				<p>
+      Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 9886</span>
+						<span>🔱 1304</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第23周
-date: 2025-06-07T09:58:56Z
+date: 2025-06-07T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+    
+
+
+      
+        frdel /
+
+      agent-zero</a></p>
+				<p>
+      Agent Zero AI framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9069</span>
+						<span>🔱 1786</span>
+					</div>
+				<div class="stars-today">⭐ 2233 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8152</span>
+						<span>🔱 1028</span>
+					</div>
+				<div class="stars-today">⭐ 2133 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
@@ -30,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10801</span>
-						<span>🔱 989</span>
+						<span>⭐ 10835</span>
+						<span>🔱 992</span>
 					</div>
 				<div class="stars-today">⭐ 5108 stars this week</div>
 				</div>
@@ -52,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14712</span>
+						<span>⭐ 14717</span>
 						<span>🔱 1253</span>
 					</div>
 				<div class="stars-today">⭐ 2387 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aaPanel/BillionMail" target="_blank">
-    
-
-
-      
-        aaPanel /
-
-      BillionMail</a></p>
-				<p>
-      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4749</span>
-						<span>🔱 335</span>
-					</div>
-				<div class="stars-today">⭐ 1516 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 304623</span>
-						<span>🔱 50393</span>
+						<span>⭐ 304630</span>
+						<span>🔱 50395</span>
 					</div>
 				<div class="stars-today">⭐ 3221 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
-    
-
-
-      
-        Fosowl /
-
-      agenticSeek</a></p>
-				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17156</span>
-						<span>🔱 1609</span>
-					</div>
-				<div class="stars-today">⭐ 3487 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/livestorejs/livestore" target="_blank">
-    
-
-
-      
-        livestorejs /
-
-      livestore</a></p>
-				<p>
-      LiveStore is a next-generation state management framework based on reactive SQLite and built-in sync engine.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2289</span>
-						<span>🔱 50</span>
-					</div>
-				<div class="stars-today">⭐ 542 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21220</span>
-						<span>🔱 3321</span>
+						<span>⭐ 21228</span>
+						<span>🔱 3322</span>
 					</div>
 				<div class="stars-today">⭐ 1230 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek</a></p>
+				<p>
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17170</span>
+						<span>🔱 1613</span>
+					</div>
+				<div class="stars-today">⭐ 3487 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Svelte</span>
-						<span>⭐ 33740</span>
-						<span>🔱 2796</span>
+						<span>⭐ 33753</span>
+						<span>🔱 2797</span>
 					</div>
 				<div class="stars-today">⭐ 1214 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/duckdb/ducklake" target="_blank">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
     
 
 
       
-        duckdb /
+        netbirdio /
 
-      ducklake</a></p>
+      netbird</a></p>
 				<p>
-      DuckLake is an integrated data lake and catalog format
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1436</span>
-						<span>🔱 54</span>
+						<span>🔠 Go</span>
+						<span>⭐ 14888</span>
+						<span>🔱 704</span>
 					</div>
-				<div class="stars-today">⭐ 270 stars this week</div>
+				<div class="stars-today">⭐ 647 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MervinPraison/PraisonAI" target="_blank">
+    
+
+
+      
+        MervinPraison /
+
+      PraisonAI</a></p>
+				<p>
+      PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4762</span>
+						<span>🔱 660</span>
+					</div>
+				<div class="stars-today">⭐ 475 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/goose" target="_blank">
+    
+
+
+      
+        block /
+
+      goose</a></p>
+				<p>
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14081</span>
+						<span>🔱 1105</span>
+					</div>
+				<div class="stars-today">⭐ 830 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16346</span>
+						<span>⭐ 16353</span>
 						<span>🔱 1803</span>
 					</div>
 				<div class="stars-today">⭐ 554 stars this week</div>
@@ -236,68 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/scrapy/scrapy" target="_blank">
     
 
 
       
-        anthropics /
+        scrapy /
 
-      claude-code</a></p>
+      scrapy</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      Scrapy, a fast high-level web crawling & scraping framework for Python.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 11654</span>
-						<span>🔱 646</span>
+						<span>🔠 Python</span>
+						<span>⭐ 56341</span>
+						<span>🔱 10891</span>
 					</div>
-				<div class="stars-today">⭐ 882 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/syncthing/syncthing" target="_blank">
-    
-
-
-      
-        syncthing /
-
-      syncthing</a></p>
-				<p>
-      Open Source Continuous File Synchronization
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 72071</span>
-						<span>🔱 4594</span>
-					</div>
-				<div class="stars-today">⭐ 1405 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      anthropic-cookbook</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12992</span>
-						<span>🔱 1510</span>
-					</div>
-				<div class="stars-today">⭐ 371 stars this week</div>
+				<div class="stars-today">⭐ 934 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-07T09:58:56Z
+date: 2025-06-07T11:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17156</span>
-						<span>🔱 1609</span>
+						<span>⭐ 17170</span>
+						<span>🔱 1613</span>
 					</div>
 				<div class="stars-today">⭐ 15112 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13179</span>
-						<span>🔱 985</span>
+						<span>⭐ 13188</span>
+						<span>🔱 986</span>
 					</div>
 				<div class="stars-today">⭐ 10202 stars this month</div>
 				</div>
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35828</span>
-						<span>🔱 5086</span>
+						<span>⭐ 35837</span>
+						<span>🔱 5087</span>
 					</div>
 				<div class="stars-today">⭐ 9208 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
     
 
 
       
-        bytedance /
+        onlook-dev /
 
-      flowgram.ai</a></p>
+      onlook</a></p>
 				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4935</span>
-						<span>🔱 351</span>
+						<span>⭐ 17110</span>
+						<span>🔱 1048</span>
 					</div>
-				<div class="stars-today">⭐ 3700 stars this month</div>
+				<div class="stars-today">⭐ 7668 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31732</span>
-						<span>🔱 5246</span>
+						<span>⭐ 31739</span>
+						<span>🔱 5245</span>
 					</div>
 				<div class="stars-today">⭐ 3949 stars this month</div>
 				</div>
@@ -140,52 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33909</span>
+						<span>⭐ 33916</span>
 						<span>🔱 3361</span>
 					</div>
 				<div class="stars-today">⭐ 5304 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
-    
-
-
-      
-        onlook-dev /
-
-      onlook</a></p>
-				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17102</span>
-						<span>🔱 1047</span>
-					</div>
-				<div class="stars-today">⭐ 7668 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23161</span>
-						<span>🔱 1508</span>
-					</div>
-				<div class="stars-today">⭐ 10783 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +162,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24425</span>
-						<span>🔱 3778</span>
+						<span>⭐ 24436</span>
+						<span>🔱 3781</span>
 					</div>
 				<div class="stars-today">⭐ 5424 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
     
 
 
       
-        Lightricks /
+        bytedance /
 
-      LTX-Video</a></p>
+      flowgram.ai</a></p>
 				<p>
-      Official repository for LTX-Video
+      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6546</span>
-						<span>🔱 535</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4938</span>
+						<span>🔱 351</span>
 					</div>
-				<div class="stars-today">⭐ 2940 stars this month</div>
+				<div class="stars-today">⭐ 3700 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23168</span>
+						<span>🔱 1508</span>
+					</div>
+				<div class="stars-today">⭐ 10783 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 326338</span>
-						<span>🔱 41995</span>
+						<span>⭐ 326350</span>
+						<span>🔱 41996</span>
 					</div>
 				<div class="stars-today">⭐ 9194 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
     
 
 
       
-        appwrite /
+        Lightricks /
 
-      appwrite</a></p>
+      LTX-Video</a></p>
 				<p>
-      Build like a team of hundreds_
+      Official repository for LTX-Video
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 50984</span>
-						<span>🔱 4468</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6548</span>
+						<span>🔱 535</span>
 					</div>
-				<div class="stars-today">⭐ 2669 stars this month</div>
+				<div class="stars-today">⭐ 2940 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 54678</span>
+						<span>⭐ 54691</span>
 						<span>🔱 5830</span>
 					</div>
 				<div class="stars-today">⭐ 4696 stars this month</div>
@@ -314,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 11654</span>
-						<span>🔱 646</span>
+						<span>⭐ 11661</span>
+						<span>🔱 645</span>
 					</div>
 				<div class="stars-today">⭐ 3309 stars this month</div>
 				</div>
@@ -336,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14712</span>
+						<span>⭐ 14717</span>
 						<span>🔱 1253</span>
 					</div>
 				<div class="stars-today">⭐ 3286 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5489</span>
-						<span>🔱 387</span>
-					</div>
-				<div class="stars-today">⭐ 3059 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34970</span>
-						<span>🔱 6090</span>
+						<span>⭐ 34986</span>
+						<span>🔱 6092</span>
 					</div>
 				<div class="stars-today">⭐ 8127 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
     
 
 
       
-        CopilotKit /
+        appwrite /
 
-      CopilotKit</a></p>
+      appwrite</a></p>
 				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+      Build like a team of hundreds_
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20875</span>
-						<span>🔱 2856</span>
+						<span>⭐ 50987</span>
+						<span>🔱 4468</span>
 					</div>
-				<div class="stars-today">⭐ 2393 stars this month</div>
+				<div class="stars-today">⭐ 2669 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +380,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 128184</span>
+						<span>⭐ 128192</span>
 						<span>🔱 17001</span>
 					</div>
 				<div class="stars-today">⭐ 4385 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 349677</span>
+						<span>🔱 36769</span>
+					</div>
+				<div class="stars-today">⭐ 11388 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5497</span>
+						<span>🔱 387</span>
+					</div>
+				<div class="stars-today">⭐ 3059 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+    
+
+
+      
+        CopilotKit /
+
+      CopilotKit</a></p>
+				<p>
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20883</span>
+						<span>🔱 2856</span>
+					</div>
+				<div class="stars-today">⭐ 2393 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 9197</span>
+						<span>🔱 1158</span>
+					</div>
+				<div class="stars-today">⭐ 2957 stars this month</div>
 				</div>
 			</div>
 	
