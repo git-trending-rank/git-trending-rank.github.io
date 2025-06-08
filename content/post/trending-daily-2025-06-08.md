@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-08
-date: 2025-06-08T09:58:45Z
+date: 2025-06-08T11:58:41Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
     
 
 
       
-        topoteretes /
+        tensorzero /
 
-      cognee</a></p>
+      tensorzero</a></p>
 				<p>
-      Memory for AI Agents in 5 lines of code
+      TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4372</span>
-						<span>🔱 341</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 4777</span>
+						<span>🔱 321</span>
 					</div>
-				<div class="stars-today">⭐ 440 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
-    
-
-
-      
-        netbirdio /
-
-      netbird</a></p>
-				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 15092</span>
-						<span>🔱 711</span>
-					</div>
-				<div class="stars-today">⭐ 603 stars today</div>
+				<div class="stars-today">⭐ 87 stars today</div>
 				</div>
 			</div>
 	
@@ -74,120 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3738</span>
-						<span>🔱 234</span>
+						<span>⭐ 3767</span>
+						<span>🔱 236</span>
 					</div>
 				<div class="stars-today">⭐ 337 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/scrapy/scrapy" target="_blank">
-    
-
-
-      
-        scrapy /
-
-      scrapy</a></p>
-				<p>
-      Scrapy, a fast high-level web crawling & scraping framework for Python.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56627</span>
-						<span>🔱 10901</span>
-					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwohlwend/boltz" target="_blank">
-    
-
-
-      
-        jwohlwend /
-
-      boltz</a></p>
-				<p>
-      Official repository for the Boltz biomolecular interaction models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2057</span>
-						<span>🔱 331</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepsense-ai/ragbits" target="_blank">
-    
-
-
-      
-        deepsense-ai /
-
-      ragbits</a></p>
-				<p>
-      Building blocks for rapid development of GenAI applications 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1081</span>
-						<span>🔱 83</span>
-					</div>
-				<div class="stars-today">⭐ 239 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stanfordnlp/dspy" target="_blank">
-    
-
-
-      
-        stanfordnlp /
-
-      dspy</a></p>
-				<p>
-      DSPy: The framework for programming—not prompting—language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25030</span>
-						<span>🔱 1939</span>
-					</div>
-				<div class="stars-today">⭐ 154 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Daymychen/art-design-pro" target="_blank">
-    
-
-
-      
-        Daymychen /
-
-      art-design-pro</a></p>
-				<p>
-      A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 1808</span>
-						<span>🔱 309</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
 				</div>
 			</div>
 	
@@ -206,76 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 102033</span>
-						<span>🔱 15309</span>
+						<span>⭐ 102072</span>
+						<span>🔱 15310</span>
 					</div>
 				<div class="stars-today">⭐ 459 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
     
 
 
       
-        mlabonne /
+        topoteretes /
 
-      llm-course</a></p>
+      cognee</a></p>
 				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 54854</span>
-						<span>🔱 5843</span>
-					</div>
-				<div class="stars-today">⭐ 205 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
+      Memory for AI Agents in 5 lines of code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 350114</span>
-						<span>🔱 36807</span>
+						<span>⭐ 4425</span>
+						<span>🔱 347</span>
 					</div>
-				<div class="stars-today">⭐ 237 stars today</div>
+				<div class="stars-today">⭐ 440 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain4j/langchain4j" target="_blank">
+				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
     
 
 
       
-        langchain4j /
+        XTLS /
 
-      langchain4j</a></p>
+      Xray-core</a></p>
 				<p>
-      Java version of LangChain
+      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 7886</span>
-						<span>🔱 1442</span>
+						<span>🔠 Go</span>
+						<span>⭐ 28837</span>
+						<span>🔱 4320</span>
 					</div>
-				<div class="stars-today">⭐ 11 stars today</div>
+				<div class="stars-today">⭐ 23 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33570</span>
+						<span>🔱 3827</span>
+					</div>
+				<div class="stars-today">⭐ 151 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank">
+    
+
+
+      
+        zijie0 /
+
+      HumanSystemOptimization</a></p>
+				<p>
+      健康学习到150岁 - 人体系统调优不完全指南
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 15096</span>
+						<span>🔱 1102</span>
+					</div>
+				<div class="stars-today">⭐ 414 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +184,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2877</span>
-						<span>🔱 123</span>
+						<span>⭐ 2902</span>
+						<span>🔱 124</span>
 					</div>
 				<div class="stars-today">⭐ 352 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vinta/awesome-python" target="_blank">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
     
 
 
       
-        vinta /
+        netbirdio /
 
-      awesome-python</a></p>
+      netbird</a></p>
 				<p>
-      An opinionated list of awesome Python frameworks, libraries, software and resources.
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 245945</span>
-						<span>🔱 25767</span>
+						<span>🔠 Go</span>
+						<span>⭐ 15108</span>
+						<span>🔱 713</span>
 					</div>
-				<div class="stars-today">⭐ 145 stars today</div>
+				<div class="stars-today">⭐ 603 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alphacep/vosk-api" target="_blank">
+				<p><a href="https://github.com/Daymychen/art-design-pro" target="_blank">
     
 
 
       
-        alphacep /
+        Daymychen /
 
-      vosk-api</a></p>
+      art-design-pro</a></p>
 				<p>
-      Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+      A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 1819</span>
+						<span>🔱 310</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/friuns2/BlackFriday-GPTs-Prompts" target="_blank">
+    
+
+
+      
+        friuns2 /
+
+      BlackFriday-GPTs-Prompts</a></p>
+				<p>
+      List of free GPTs that doesn't require plus subscription 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 7001</span>
+						<span>🔱 1084</span>
+					</div>
+				<div class="stars-today">⭐ 85 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepsense-ai/ragbits" target="_blank">
+    
+
+
+      
+        deepsense-ai /
+
+      ragbits</a></p>
+				<p>
+      Building blocks for rapid development of GenAI applications 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1096</span>
+						<span>🔱 85</span>
+					</div>
+				<div class="stars-today">⭐ 239 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kelseyhightower/kubernetes-the-hard-way" target="_blank">
+    
+
+
+      
+        kelseyhightower /
+
+      kubernetes-the-hard-way</a></p>
+				<p>
+      Bootstrap Kubernetes the hard way. No scripts.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 44249</span>
+						<span>🔱 14873</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 385493</span>
+						<span>🔱 35954</span>
+					</div>
+				<div class="stars-today">⭐ 425 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/notebooks" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      notebooks</a></p>
+				<p>
+      Fine-tune LLMs for free with guided Notebooks on Google Colab, Kaggle, and more.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10102</span>
-						<span>🔱 1311</span>
+						<span>⭐ 1586</span>
+						<span>🔱 251</span>
 					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
+				<div class="stars-today">⭐ 284 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stanfordnlp/dspy" target="_blank">
+    
+
+
+      
+        stanfordnlp /
+
+      dspy</a></p>
+				<p>
+      DSPy: The framework for programming—not prompting—language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25036</span>
+						<span>🔱 1940</span>
+					</div>
+				<div class="stars-today">⭐ 154 stars today</div>
 				</div>
 			</div>
 	

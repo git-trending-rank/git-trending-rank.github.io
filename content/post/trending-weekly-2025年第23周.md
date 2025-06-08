@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第23周
-date: 2025-06-08T09:58:45Z
+date: 2025-06-08T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9161</span>
-						<span>🔱 1795</span>
+						<span>⭐ 9165</span>
+						<span>🔱 1796</span>
 					</div>
 				<div class="stars-today">⭐ 2239 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8241</span>
+						<span>⭐ 8248</span>
 						<span>🔱 1035</span>
 					</div>
 				<div class="stars-today">⭐ 2193 stars this week</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11145</span>
-						<span>🔱 1011</span>
+						<span>⭐ 11187</span>
+						<span>🔱 1013</span>
 					</div>
 				<div class="stars-today">⭐ 4546 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14797</span>
-						<span>🔱 1264</span>
-					</div>
-				<div class="stars-today">⭐ 2159 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 304783</span>
-						<span>🔱 50418</span>
+						<span>⭐ 304798</span>
+						<span>🔱 50420</span>
 					</div>
 				<div class="stars-today">⭐ 3314 stars this week</div>
 				</div>
@@ -140,54 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21267</span>
-						<span>🔱 3329</span>
+						<span>⭐ 21282</span>
+						<span>🔱 3330</span>
 					</div>
 				<div class="stars-today">⭐ 1298 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
     
 
 
       
-        Fosowl /
+        anthropics /
 
-      agenticSeek</a></p>
+      courses</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+      Anthropic's educational courses
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17330</span>
-						<span>🔱 1632</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14800</span>
+						<span>🔱 1264</span>
 					</div>
-				<div class="stars-today">⭐ 3349 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/imputnet/cobalt" target="_blank">
-    
-
-
-      
-        imputnet /
-
-      cobalt</a></p>
-				<p>
-      best way to save what you love
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Svelte</span>
-						<span>⭐ 33831</span>
-						<span>🔱 2802</span>
-					</div>
-				<div class="stars-today">⭐ 1265 stars this week</div>
+				<div class="stars-today">⭐ 2159 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15092</span>
-						<span>🔱 711</span>
+						<span>⭐ 15108</span>
+						<span>🔱 713</span>
 					</div>
 				<div class="stars-today">⭐ 1104 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MervinPraison/PraisonAI" target="_blank">
-    
-
-
-      
-        MervinPraison /
-
-      PraisonAI</a></p>
-				<p>
-      PraisonAI is a production-ready Multi AI Agents framework, designed to create AI Agents to automate and solve problems ranging from simple tasks to complex challenges. It provides a low-code solution to streamline the building and management of multi-agent LLM systems, emphasising simplicity, customisation, and effective human-agent collaboration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4807</span>
-						<span>🔱 665</span>
-					</div>
-				<div class="stars-today">⭐ 489 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14135</span>
-						<span>🔱 1112</span>
-					</div>
-				<div class="stars-today">⭐ 860 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16422</span>
+						<span>⭐ 16434</span>
 						<span>🔱 1808</span>
 					</div>
 				<div class="stars-today">⭐ 609 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/goose" target="_blank">
+    
+
+
+      
+        block /
+
+      goose</a></p>
+				<p>
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14142</span>
+						<span>🔱 1112</span>
+					</div>
+				<div class="stars-today">⭐ 860 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56627</span>
+						<span>⭐ 56647</span>
 						<span>🔱 10901</span>
 					</div>
 				<div class="stars-today">⭐ 1007 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 11769</span>
+						<span>🔱 652</span>
+					</div>
+				<div class="stars-today">⭐ 911 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 420290</span>
+						<span>🔱 40370</span>
+					</div>
+				<div class="stars-today">⭐ 855 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4777</span>
+						<span>🔱 321</span>
+					</div>
+				<div class="stars-today">⭐ 321 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek</a></p>
+				<p>
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17340</span>
+						<span>🔱 1632</span>
+					</div>
+				<div class="stars-today">⭐ 3349 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 84963</span>
+						<span>🔱 8892</span>
+					</div>
+				<div class="stars-today">⭐ 153 stars this week</div>
 				</div>
 			</div>
 	
