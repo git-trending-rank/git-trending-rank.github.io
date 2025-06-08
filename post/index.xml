@@ -6,10 +6,10 @@
         <description>Recent content in Posts on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 08 Jun 2025 04:19:45 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 08 Jun 2025 05:58:51 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-06-08</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-06-08/</link>
-        <pubDate>Sun, 08 Jun 2025 04:19:45 +0000</pubDate>
+        <pubDate>Sun, 08 Jun 2025 05:58:51 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-06-08/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4201&lt;/span&gt;
-						&lt;span&gt;🔱 336&lt;/span&gt;
+						&lt;span&gt;⭐ 4247&lt;/span&gt;
+						&lt;span&gt;🔱 337&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 440 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,7 +55,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 15037&lt;/span&gt;
+						&lt;span&gt;⭐ 15053&lt;/span&gt;
 						&lt;span&gt;🔱 708&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 603 stars today&lt;/div&gt;
@@ -77,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3651&lt;/span&gt;
-						&lt;span&gt;🔱 231&lt;/span&gt;
+						&lt;span&gt;⭐ 3676&lt;/span&gt;
+						&lt;span&gt;🔱 232&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 337 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,7 +99,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56540&lt;/span&gt;
+						&lt;span&gt;⭐ 56567&lt;/span&gt;
 						&lt;span&gt;🔱 10897&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 54 stars today&lt;/div&gt;
@@ -121,7 +121,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12942&lt;/span&gt;
+						&lt;span&gt;⭐ 12972&lt;/span&gt;
 						&lt;span&gt;🔱 482&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 122 stars today&lt;/div&gt;
@@ -143,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2042&lt;/span&gt;
-						&lt;span&gt;🔱 329&lt;/span&gt;
+						&lt;span&gt;⭐ 2046&lt;/span&gt;
+						&lt;span&gt;🔱 331&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 90 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -165,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1054&lt;/span&gt;
-						&lt;span&gt;🔱 82&lt;/span&gt;
+						&lt;span&gt;⭐ 1064&lt;/span&gt;
+						&lt;span&gt;🔱 83&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 239 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -187,7 +187,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 25004&lt;/span&gt;
+						&lt;span&gt;⭐ 25012&lt;/span&gt;
 						&lt;span&gt;🔱 1940&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 154 stars today&lt;/div&gt;
@@ -209,8 +209,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Vue&lt;/span&gt;
-						&lt;span&gt;⭐ 1793&lt;/span&gt;
-						&lt;span&gt;🔱 305&lt;/span&gt;
+						&lt;span&gt;⭐ 1798&lt;/span&gt;
+						&lt;span&gt;🔱 306&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 38 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -231,8 +231,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 101921&lt;/span&gt;
-						&lt;span&gt;🔱 15302&lt;/span&gt;
+						&lt;span&gt;⭐ 101948&lt;/span&gt;
+						&lt;span&gt;🔱 15304&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 459 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -253,7 +253,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 54802&lt;/span&gt;
+						&lt;span&gt;⭐ 54813&lt;/span&gt;
 						&lt;span&gt;🔱 5840&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 205 stars today&lt;/div&gt;
@@ -275,8 +275,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 349998&lt;/span&gt;
-						&lt;span&gt;🔱 36794&lt;/span&gt;
+						&lt;span&gt;⭐ 350030&lt;/span&gt;
+						&lt;span&gt;🔱 36796&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 237 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -297,7 +297,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 7869&lt;/span&gt;
+						&lt;span&gt;⭐ 7870&lt;/span&gt;
 						&lt;span&gt;🔱 1443&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11 stars today&lt;/div&gt;
@@ -319,8 +319,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2767&lt;/span&gt;
-						&lt;span&gt;🔱 118&lt;/span&gt;
+						&lt;span&gt;⭐ 2791&lt;/span&gt;
+						&lt;span&gt;🔱 120&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 352 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -341,7 +341,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 245901&lt;/span&gt;
+						&lt;span&gt;⭐ 245914&lt;/span&gt;
 						&lt;span&gt;🔱 25764&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 145 stars today&lt;/div&gt;
@@ -363,7 +363,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 10028&lt;/span&gt;
+						&lt;span&gt;⭐ 10040&lt;/span&gt;
 						&lt;span&gt;🔱 1308&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 40 stars today&lt;/div&gt;
@@ -379,7 +379,7 @@
         <item>
         <title>GitHub 趋势 2025年6月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</link>
-        <pubDate>Sun, 08 Jun 2025 04:19:45 +0000</pubDate>
+        <pubDate>Sun, 08 Jun 2025 05:58:51 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -403,7 +403,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 17299&lt;/span&gt;
+						&lt;span&gt;⭐ 17309&lt;/span&gt;
 						&lt;span&gt;🔱 1625&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15093 stars this month&lt;/div&gt;
@@ -425,7 +425,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13231&lt;/span&gt;
+						&lt;span&gt;⭐ 13233&lt;/span&gt;
 						&lt;span&gt;🔱 988&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10171 stars this month&lt;/div&gt;
@@ -447,8 +447,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 35901&lt;/span&gt;
-						&lt;span&gt;🔱 5097&lt;/span&gt;
+						&lt;span&gt;⭐ 35908&lt;/span&gt;
+						&lt;span&gt;🔱 5099&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9022 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -469,8 +469,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17228&lt;/span&gt;
-						&lt;span&gt;🔱 1062&lt;/span&gt;
+						&lt;span&gt;⭐ 17252&lt;/span&gt;
+						&lt;span&gt;🔱 1064&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7895 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -491,8 +491,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 31779&lt;/span&gt;
-						&lt;span&gt;🔱 5245&lt;/span&gt;
+						&lt;span&gt;⭐ 31781&lt;/span&gt;
+						&lt;span&gt;🔱 5247&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3999 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -513,8 +513,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 33955&lt;/span&gt;
-						&lt;span&gt;🔱 3365&lt;/span&gt;
+						&lt;span&gt;⭐ 33960&lt;/span&gt;
+						&lt;span&gt;🔱 3366&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5272 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -535,8 +535,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24492&lt;/span&gt;
-						&lt;span&gt;🔱 3785&lt;/span&gt;
+						&lt;span&gt;⭐ 24497&lt;/span&gt;
+						&lt;span&gt;🔱 3786&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5522 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -557,7 +557,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4957&lt;/span&gt;
+						&lt;span&gt;⭐ 4959&lt;/span&gt;
 						&lt;span&gt;🔱 353&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3750 stars this month&lt;/div&gt;
@@ -577,7 +577,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23204&lt;/span&gt;
+						&lt;span&gt;⭐ 23207&lt;/span&gt;
 						&lt;span&gt;🔱 1511&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10721 stars this month&lt;/div&gt;
@@ -599,8 +599,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 326431&lt;/span&gt;
-						&lt;span&gt;🔱 42005&lt;/span&gt;
+						&lt;span&gt;⭐ 326439&lt;/span&gt;
+						&lt;span&gt;🔱 42006&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9174 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -621,7 +621,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6561&lt;/span&gt;
+						&lt;span&gt;⭐ 6562&lt;/span&gt;
 						&lt;span&gt;🔱 535&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2752 stars this month&lt;/div&gt;
@@ -643,7 +643,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 54802&lt;/span&gt;
+						&lt;span&gt;⭐ 54813&lt;/span&gt;
 						&lt;span&gt;🔱 5840&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4861 stars this month&lt;/div&gt;
@@ -665,7 +665,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 11731&lt;/span&gt;
+						&lt;span&gt;⭐ 11735&lt;/span&gt;
 						&lt;span&gt;🔱 652&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3402 stars this month&lt;/div&gt;
@@ -687,7 +687,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 14779&lt;/span&gt;
+						&lt;span&gt;⭐ 14783&lt;/span&gt;
 						&lt;span&gt;🔱 1260&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3382 stars this month&lt;/div&gt;
@@ -709,8 +709,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 35080&lt;/span&gt;
-						&lt;span&gt;🔱 6106&lt;/span&gt;
+						&lt;span&gt;⭐ 35083&lt;/span&gt;
+						&lt;span&gt;🔱 6107&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8206 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -731,7 +731,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 51022&lt;/span&gt;
+						&lt;span&gt;⭐ 51025&lt;/span&gt;
 						&lt;span&gt;🔱 4469&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2708 stars this month&lt;/div&gt;
@@ -753,7 +753,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 128227&lt;/span&gt;
+						&lt;span&gt;⭐ 128230&lt;/span&gt;
 						&lt;span&gt;🔱 17004&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4412 stars this month&lt;/div&gt;
@@ -775,8 +775,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 349998&lt;/span&gt;
-						&lt;span&gt;🔱 36794&lt;/span&gt;
+						&lt;span&gt;⭐ 350030&lt;/span&gt;
+						&lt;span&gt;🔱 36796&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11566 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -797,7 +797,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5540&lt;/span&gt;
+						&lt;span&gt;⭐ 5544&lt;/span&gt;
 						&lt;span&gt;🔱 388&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2854 stars this month&lt;/div&gt;
@@ -819,7 +819,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 20910&lt;/span&gt;
+						&lt;span&gt;⭐ 20912&lt;/span&gt;
 						&lt;span&gt;🔱 2858&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2419 stars this month&lt;/div&gt;
@@ -841,8 +841,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 9241&lt;/span&gt;
-						&lt;span&gt;🔱 1163&lt;/span&gt;
+						&lt;span&gt;⭐ 9243&lt;/span&gt;
+						&lt;span&gt;🔱 1162&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2870 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -857,7 +857,7 @@
         <item>
         <title>GitHub 趋势 2025年第23周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC23%E5%91%A8/</link>
-        <pubDate>Sun, 08 Jun 2025 04:19:45 +0000</pubDate>
+        <pubDate>Sun, 08 Jun 2025 05:58:50 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC23%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -881,7 +881,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9140&lt;/span&gt;
+						&lt;span&gt;⭐ 9150&lt;/span&gt;
 						&lt;span&gt;🔱 1794&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2239 stars this week&lt;/div&gt;
@@ -903,8 +903,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8219&lt;/span&gt;
-						&lt;span&gt;🔱 1032&lt;/span&gt;
+						&lt;span&gt;⭐ 8223&lt;/span&gt;
+						&lt;span&gt;🔱 1033&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2193 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -925,8 +925,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 11042&lt;/span&gt;
-						&lt;span&gt;🔱 1009&lt;/span&gt;
+						&lt;span&gt;⭐ 11069&lt;/span&gt;
+						&lt;span&gt;🔱 1010&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4546 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -947,7 +947,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 14779&lt;/span&gt;
+						&lt;span&gt;⭐ 14783&lt;/span&gt;
 						&lt;span&gt;🔱 1260&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2159 stars this week&lt;/div&gt;
@@ -969,8 +969,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 304737&lt;/span&gt;
-						&lt;span&gt;🔱 50409&lt;/span&gt;
+						&lt;span&gt;⭐ 304754&lt;/span&gt;
+						&lt;span&gt;🔱 50411&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3314 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -991,8 +991,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 21255&lt;/span&gt;
-						&lt;span&gt;🔱 3327&lt;/span&gt;
+						&lt;span&gt;⭐ 21257&lt;/span&gt;
+						&lt;span&gt;🔱 3328&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1298 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -1013,7 +1013,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 17299&lt;/span&gt;
+						&lt;span&gt;⭐ 17309&lt;/span&gt;
 						&lt;span&gt;🔱 1625&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3349 stars this week&lt;/div&gt;
@@ -1035,7 +1035,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Svelte&lt;/span&gt;
-						&lt;span&gt;⭐ 33811&lt;/span&gt;
+						&lt;span&gt;⭐ 33818&lt;/span&gt;
 						&lt;span&gt;🔱 2801&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1265 stars this week&lt;/div&gt;
@@ -1057,7 +1057,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 15037&lt;/span&gt;
+						&lt;span&gt;⭐ 15053&lt;/span&gt;
 						&lt;span&gt;🔱 708&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1104 stars this week&lt;/div&gt;
@@ -1079,7 +1079,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4798&lt;/span&gt;
+						&lt;span&gt;⭐ 4802&lt;/span&gt;
 						&lt;span&gt;🔱 664&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 489 stars this week&lt;/div&gt;
@@ -1101,7 +1101,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 14126&lt;/span&gt;
+						&lt;span&gt;⭐ 14127&lt;/span&gt;
 						&lt;span&gt;🔱 1111&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 860 stars this week&lt;/div&gt;
@@ -1123,7 +1123,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16395&lt;/span&gt;
+						&lt;span&gt;⭐ 16406&lt;/span&gt;
 						&lt;span&gt;🔱 1807&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 609 stars this week&lt;/div&gt;
@@ -1145,7 +1145,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56540&lt;/span&gt;
+						&lt;span&gt;⭐ 56567&lt;/span&gt;
 						&lt;span&gt;🔱 10897&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1007 stars this week&lt;/div&gt;
