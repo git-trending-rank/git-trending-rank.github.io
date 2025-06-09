@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第24周
-date: 2025-06-09T09:58:41Z
+date: 2025-06-09T11:58:42Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
     
 
 
       
-        frdel /
+        onlook-dev /
 
-      agent-zero</a></p>
+      onlook</a></p>
 				<p>
-      Agent Zero AI framework
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9337</span>
-						<span>🔱 1831</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17619</span>
+						<span>🔱 1092</span>
 					</div>
-				<div class="stars-today">⭐ 2085 stars this week</div>
+				<div class="stars-today">⭐ 7285 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8346</span>
+						<span>⭐ 8359</span>
 						<span>🔱 1038</span>
 					</div>
 				<div class="stars-today">⭐ 2244 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+    
+
+
+      
+        frdel /
+
+      agent-zero</a></p>
+				<p>
+      Agent Zero AI framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9353</span>
+						<span>🔱 1832</span>
+					</div>
+				<div class="stars-today">⭐ 2085 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11464</span>
-						<span>🔱 1036</span>
+						<span>⭐ 11493</span>
+						<span>🔱 1039</span>
 					</div>
 				<div class="stars-today">⭐ 3929 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
     
 
 
       
-        donnemartin /
+        tensorzero /
 
-      system-design-primer</a></p>
+      tensorzero</a></p>
 				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 305009</span>
-						<span>🔱 50442</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 5766</span>
+						<span>🔱 361</span>
 					</div>
-				<div class="stars-today">⭐ 3059 stars this week</div>
+				<div class="stars-today">⭐ 475 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21411</span>
+						<span>⭐ 21419</span>
 						<span>🔱 3342</span>
 					</div>
 				<div class="stars-today">⭐ 1333 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14900</span>
-						<span>🔱 1266</span>
-					</div>
-				<div class="stars-today">⭐ 1907 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15269</span>
-						<span>🔱 721</span>
+						<span>⭐ 15279</span>
+						<span>🔱 722</span>
 					</div>
 				<div class="stars-today">⭐ 1310 stars this week</div>
 				</div>
@@ -184,32 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16593</span>
-						<span>🔱 1821</span>
+						<span>⭐ 16603</span>
+						<span>🔱 1822</span>
 					</div>
 				<div class="stars-today">⭐ 689 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
     
 
 
       
-        block /
+        anthropics /
 
-      goose</a></p>
+      courses</a></p>
 				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+      Anthropic's educational courses
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14219</span>
-						<span>🔱 1114</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14908</span>
+						<span>🔱 1266</span>
 					</div>
-				<div class="stars-today">⭐ 907 stars this week</div>
+				<div class="stars-today">⭐ 1907 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 305025</span>
+						<span>🔱 50442</span>
+					</div>
+				<div class="stars-today">⭐ 3059 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,120 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56789</span>
-						<span>🔱 10910</span>
+						<span>⭐ 56806</span>
+						<span>🔱 10912</span>
 					</div>
 				<div class="stars-today">⭐ 1289 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/block/goose" target="_blank">
     
 
 
       
-        anthropics /
+        block /
 
-      claude-code</a></p>
+      goose</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 11935</span>
-						<span>🔱 662</span>
-					</div>
-				<div class="stars-today">⭐ 941 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
-    
-
-
-      
-        freeCodeCamp /
-
-      freeCodeCamp</a></p>
-				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 420377</span>
-						<span>🔱 40376</span>
-					</div>
-				<div class="stars-today">⭐ 816 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5709</span>
-						<span>🔱 356</span>
+						<span>⭐ 14228</span>
+						<span>🔱 1118</span>
 					</div>
-				<div class="stars-today">⭐ 475 stars this week</div>
+				<div class="stars-today">⭐ 907 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
     
 
 
       
-        Fosowl /
+        Anduin2017 /
 
-      agenticSeek</a></p>
+      HowToCook</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460. Any other account is fake.
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17532</span>
-						<span>🔱 1658</span>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 88531</span>
+						<span>🔱 10176</span>
 					</div>
-				<div class="stars-today">⭐ 2949 stars this week</div>
+				<div class="stars-today">⭐ 2603 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/eyaltoledano/claude-task-master" target="_blank">
     
 
 
       
-        nvm-sh /
+        eyaltoledano /
 
-      nvm</a></p>
+      claude-task-master</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+      An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 84992</span>
-						<span>🔱 8899</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 13096</span>
+						<span>🔱 1372</span>
 					</div>
-				<div class="stars-today">⭐ 155 stars this week</div>
+				<div class="stars-today">⭐ 1583 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+    
+
+
+      
+        clash-verge-rev /
+
+      clash-verge-rev</a></p>
+				<p>
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 60887</span>
+						<span>🔱 4648</span>
+					</div>
+				<div class="stars-today">⭐ 829 stars this week</div>
 				</div>
 			</div>
 	

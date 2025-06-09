@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-09T09:58:41Z
+date: 2025-06-09T11:58:43Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17532</span>
-						<span>🔱 1658</span>
+						<span>⭐ 17543</span>
+						<span>🔱 1661</span>
 					</div>
 				<div class="stars-today">⭐ 15143 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13323</span>
+						<span>⭐ 13334</span>
 						<span>🔱 991</span>
 					</div>
 				<div class="stars-today">⭐ 10151 stars this month</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17598</span>
-						<span>🔱 1089</span>
+						<span>⭐ 17619</span>
+						<span>🔱 1092</span>
 					</div>
 				<div class="stars-today">⭐ 8165 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36080</span>
-						<span>🔱 5134</span>
-					</div>
-				<div class="stars-today">⭐ 8600 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31844</span>
-						<span>🔱 5255</span>
-					</div>
-				<div class="stars-today">⭐ 4047 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34031</span>
-						<span>🔱 3373</span>
+						<span>⭐ 34036</span>
+						<span>🔱 3375</span>
 					</div>
 				<div class="stars-today">⭐ 5259 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31849</span>
+						<span>🔱 5255</span>
+					</div>
+				<div class="stars-today">⭐ 4047 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36093</span>
+						<span>🔱 5135</span>
+					</div>
+				<div class="stars-today">⭐ 8600 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,118 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24641</span>
+						<span>⭐ 24648</span>
 						<span>🔱 3801</span>
 					</div>
 				<div class="stars-today">⭐ 5590 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23317</span>
-						<span>🔱 1517</span>
-					</div>
-				<div class="stars-today">⭐ 10373 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 54994</span>
-						<span>🔱 5857</span>
-					</div>
-				<div class="stars-today">⭐ 5002 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      flowgram.ai</a></p>
-				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5022</span>
-						<span>🔱 360</span>
-					</div>
-				<div class="stars-today">⭐ 3744 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35259</span>
-						<span>🔱 6132</span>
-					</div>
-				<div class="stars-today">⭐ 8296 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 326604</span>
-						<span>🔱 42021</span>
-					</div>
-				<div class="stars-today">⭐ 9179 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +184,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 350339</span>
-						<span>🔱 36833</span>
+						<span>⭐ 350356</span>
+						<span>🔱 36834</span>
 					</div>
 				<div class="stars-today">⭐ 11958 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23323</span>
+						<span>🔱 1518</span>
+					</div>
+				<div class="stars-today">⭐ 10373 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35275</span>
+						<span>🔱 6132</span>
+					</div>
+				<div class="stars-today">⭐ 8296 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14900</span>
+						<span>⭐ 14908</span>
 						<span>🔱 1266</span>
 					</div>
 				<div class="stars-today">⭐ 3448 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 55005</span>
+						<span>🔱 5857</span>
+					</div>
+				<div class="stars-today">⭐ 5002 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 11935</span>
-						<span>🔱 662</span>
+						<span>⭐ 11949</span>
+						<span>🔱 664</span>
 					</div>
 				<div class="stars-today">⭐ 3471 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 326613</span>
+						<span>🔱 42022</span>
+					</div>
+				<div class="stars-today">⭐ 9179 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 128312</span>
-						<span>🔱 17014</span>
+						<span>⭐ 128325</span>
+						<span>🔱 17015</span>
 					</div>
 				<div class="stars-today">⭐ 4420 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      flowgram.ai</a></p>
+				<p>
+      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5027</span>
+						<span>🔱 360</span>
+					</div>
+				<div class="stars-today">⭐ 3744 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5605</span>
+						<span>⭐ 5611</span>
 						<span>🔱 390</span>
 					</div>
 				<div class="stars-today">⭐ 2612 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6597</span>
-						<span>🔱 536</span>
-					</div>
-				<div class="stars-today">⭐ 2613 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,32 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20957</span>
+						<span>⭐ 20961</span>
 						<span>🔱 2863</span>
 					</div>
 				<div class="stars-today">⭐ 2423 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      Build like a team of hundreds_
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51073</span>
-						<span>🔱 4474</span>
-					</div>
-				<div class="stars-today">⭐ 2732 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,7 +424,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8346</span>
+						<span>⭐ 8359</span>
 						<span>🔱 1038</span>
 					</div>
 				<div class="stars-today">⭐ 2492 stars this month</div>
@@ -476,24 +432,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/neondatabase/neon" target="_blank">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
     
 
 
       
-        neondatabase /
+        appwrite /
 
-      neon</a></p>
+      appwrite</a></p>
 				<p>
-      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+      Build like a team of hundreds_
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18529</span>
-						<span>🔱 679</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51082</span>
+						<span>🔱 4475</span>
 					</div>
-				<div class="stars-today">⭐ 1434 stars this month</div>
+				<div class="stars-today">⭐ 2732 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6603</span>
+						<span>🔱 536</span>
+					</div>
+				<div class="stars-today">⭐ 2613 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ali-vilab/VACE" target="_blank">
+    
+
+
+      
+        ali-vilab /
+
+      VACE</a></p>
+				<p>
+      Official implementations for paper: VACE: All-in-One Video Creation and Editing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2403</span>
+						<span>🔱 143</span>
+					</div>
+				<div class="stars-today">⭐ 926 stars this month</div>
 				</div>
 			</div>
 	
