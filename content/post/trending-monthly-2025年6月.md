@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-10T09:58:50Z
+date: 2025-06-10T12:02:42Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17700</span>
-						<span>🔱 1683</span>
+						<span>⭐ 17710</span>
+						<span>🔱 1686</span>
 					</div>
 				<div class="stars-today">⭐ 15272 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xming521/WeClone" target="_blank">
-    
-
-
-      
-        xming521 /
-
-      WeClone</a></p>
-				<p>
-      🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13392</span>
-						<span>🔱 997</span>
-					</div>
-				<div class="stars-today">⭐ 10153 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17887</span>
-						<span>🔱 1113</span>
+						<span>⭐ 17920</span>
+						<span>🔱 1119</span>
 					</div>
 				<div class="stars-today">⭐ 8395 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xming521/WeClone" target="_blank">
+    
+
+
+      
+        xming521 /
+
+      WeClone</a></p>
+				<p>
+      🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13395</span>
+						<span>🔱 997</span>
+					</div>
+				<div class="stars-today">⭐ 10153 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24785</span>
+						<span>🔱 3815</span>
+					</div>
+				<div class="stars-today">⭐ 5710 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34121</span>
+						<span>⭐ 34130</span>
 						<span>🔱 3389</span>
 					</div>
 				<div class="stars-today">⭐ 5267 stars this month</div>
@@ -118,162 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31903</span>
+						<span>⭐ 31912</span>
 						<span>🔱 5266</span>
 					</div>
 				<div class="stars-today">⭐ 4101 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36203</span>
-						<span>🔱 5153</span>
-					</div>
-				<div class="stars-today">⭐ 8312 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24770</span>
-						<span>🔱 3813</span>
-					</div>
-				<div class="stars-today">⭐ 5710 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 350518</span>
-						<span>🔱 36851</span>
-					</div>
-				<div class="stars-today">⭐ 12099 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23386</span>
-						<span>🔱 1518</span>
-					</div>
-				<div class="stars-today">⭐ 8530 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35423</span>
-						<span>🔱 6156</span>
-					</div>
-				<div class="stars-today">⭐ 8435 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14980</span>
-						<span>🔱 1271</span>
-					</div>
-				<div class="stars-today">⭐ 3536 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 55081</span>
-						<span>🔱 5874</span>
-					</div>
-				<div class="stars-today">⭐ 5083 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 12082</span>
+						<span>⭐ 12092</span>
 						<span>🔱 678</span>
 					</div>
 				<div class="stars-today">⭐ 3617 stars this month</div>
@@ -300,24 +170,132 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        kamranahmedse /
+        harry0703 /
 
-      developer-roadmap</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 326733</span>
-						<span>🔱 42037</span>
+						<span>🔠 Python</span>
+						<span>⭐ 36211</span>
+						<span>🔱 5154</span>
 					</div>
-				<div class="stars-today">⭐ 9088 stars this month</div>
+				<div class="stars-today">⭐ 8312 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      courses</a></p>
+				<p>
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14985</span>
+						<span>🔱 1271</span>
+					</div>
+				<div class="stars-today">⭐ 3536 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 350536</span>
+						<span>🔱 36852</span>
+					</div>
+				<div class="stars-today">⭐ 12099 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35440</span>
+						<span>🔱 6158</span>
+					</div>
+				<div class="stars-today">⭐ 8435 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 55086</span>
+						<span>🔱 5874</span>
+					</div>
+				<div class="stars-today">⭐ 5083 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
+    
+
+
+      
+        voideditor /
+
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23391</span>
+						<span>🔱 1519</span>
+					</div>
+				<div class="stars-today">⭐ 8530 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +314,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 128408</span>
-						<span>🔱 17019</span>
+						<span>⭐ 128414</span>
+						<span>🔱 17020</span>
 					</div>
 				<div class="stars-today">⭐ 4471 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8453</span>
+						<span>🔱 1047</span>
+					</div>
+				<div class="stars-today">⭐ 2604 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+    
+
+
+      
+        CopilotKit /
+
+      CopilotKit</a></p>
+				<p>
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21013</span>
+						<span>🔱 2868</span>
+					</div>
+				<div class="stars-today">⭐ 2454 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 326744</span>
+						<span>🔱 42038</span>
+					</div>
+				<div class="stars-today">⭐ 9088 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ali-vilab/VACE" target="_blank">
+    
+
+
+      
+        ali-vilab /
+
+      VACE</a></p>
+				<p>
+      Official implementations for paper: VACE: All-in-One Video Creation and Editing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2441</span>
+						<span>🔱 145</span>
+					</div>
+				<div class="stars-today">⭐ 942 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+    
+
+
+      
+        appwrite /
+
+      appwrite</a></p>
+				<p>
+      Build like a team of hundreds_
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51113</span>
+						<span>🔱 4479</span>
+					</div>
+				<div class="stars-today">⭐ 2755 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +446,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5065</span>
-						<span>🔱 364</span>
+						<span>⭐ 5071</span>
+						<span>🔱 366</span>
 					</div>
 				<div class="stars-today">⭐ 3192 stars this month</div>
 				</div>
@@ -380,120 +468,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5646</span>
-						<span>🔱 395</span>
+						<span>⭐ 5651</span>
+						<span>🔱 396</span>
 					</div>
 				<div class="stars-today">⭐ 2301 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+				<p><a href="https://github.com/neondatabase/neon" target="_blank">
     
 
 
       
-        CopilotKit /
+        neondatabase /
 
-      CopilotKit</a></p>
+      neon</a></p>
 				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21010</span>
-						<span>🔱 2867</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 18554</span>
+						<span>🔱 679</span>
 					</div>
-				<div class="stars-today">⭐ 2454 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8445</span>
-						<span>🔱 1046</span>
-					</div>
-				<div class="stars-today">⭐ 2604 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      Build like a team of hundreds_
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51111</span>
-						<span>🔱 4479</span>
-					</div>
-				<div class="stars-today">⭐ 2755 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6620</span>
-						<span>🔱 538</span>
-					</div>
-				<div class="stars-today">⭐ 2465 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ali-vilab/VACE" target="_blank">
-    
-
-
-      
-        ali-vilab /
-
-      VACE</a></p>
-				<p>
-      Official implementations for paper: VACE: All-in-One Video Creation and Editing
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2437</span>
-						<span>🔱 145</span>
-					</div>
-				<div class="stars-today">⭐ 942 stars this month</div>
+				<div class="stars-today">⭐ 1456 stars this month</div>
 				</div>
 			</div>
 	

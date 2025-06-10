@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第24周
-date: 2025-06-10T09:58:50Z
+date: 2025-06-10T12:02:42Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17887</span>
-						<span>🔱 1113</span>
+						<span>⭐ 17920</span>
+						<span>🔱 1119</span>
 					</div>
 				<div class="stars-today">⭐ 6700 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8445</span>
-						<span>🔱 1046</span>
-					</div>
-				<div class="stars-today">⭐ 2127 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9479</span>
-						<span>🔱 1850</span>
+						<span>⭐ 9490</span>
+						<span>🔱 1852</span>
 					</div>
 				<div class="stars-today">⭐ 1833 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        anthropics /
+        nautechsystems /
 
-      prompt-eng-interactive-tutorial</a></p>
+      nautilus_trader</a></p>
 				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11664</span>
-						<span>🔱 1058</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8453</span>
+						<span>🔱 1047</span>
 					</div>
-				<div class="stars-today">⭐ 2942 stars this week</div>
+				<div class="stars-today">⭐ 2127 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6102</span>
-						<span>🔱 377</span>
+						<span>⭐ 6130</span>
+						<span>🔱 379</span>
 					</div>
 				<div class="stars-today">⭐ 1408 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
     
 
 
       
-        gitroomhq /
+        anthropics /
 
-      postiz-app</a></p>
+      prompt-eng-interactive-tutorial</a></p>
 				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+      Anthropic's Interactive Prompt Engineering Tutorial
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21472</span>
-						<span>🔱 3346</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11685</span>
+						<span>🔱 1062</span>
 					</div>
-				<div class="stars-today">⭐ 1383 stars this week</div>
+				<div class="stars-today">⭐ 2942 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15338</span>
+						<span>⭐ 15348</span>
 						<span>🔱 724</span>
 					</div>
 				<div class="stars-today">⭐ 1465 stars this week</div>
@@ -184,10 +162,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16699</span>
-						<span>🔱 1827</span>
+						<span>⭐ 16725</span>
+						<span>🔱 1829</span>
 					</div>
 				<div class="stars-today">⭐ 721 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+    
+
+
+      
+        gitroomhq /
+
+      postiz-app</a></p>
+				<p>
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21483</span>
+						<span>🔱 3348</span>
+					</div>
+				<div class="stars-today">⭐ 1383 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 88697</span>
+						<span>🔱 10194</span>
+					</div>
+				<div class="stars-today">⭐ 2605 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
+    
+
+
+      
+        XTLS /
+
+      Xray-core</a></p>
+				<p>
+      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 29124</span>
+						<span>🔱 4343</span>
+					</div>
+				<div class="stars-today">⭐ 285 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/scrapy/scrapy" target="_blank">
+    
+
+
+      
+        scrapy /
+
+      scrapy</a></p>
+				<p>
+      Scrapy, a fast high-level web crawling & scraping framework for Python.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56882</span>
+						<span>🔱 10910</span>
+					</div>
+				<div class="stars-today">⭐ 1429 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14980</span>
+						<span>⭐ 14985</span>
 						<span>🔱 1271</span>
 					</div>
 				<div class="stars-today">⭐ 1020 stars this week</div>
@@ -228,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 305314</span>
-						<span>🔱 50487</span>
+						<span>⭐ 305335</span>
+						<span>🔱 50495</span>
 					</div>
 				<div class="stars-today">⭐ 2703 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/scrapy/scrapy" target="_blank">
-    
-
-
-      
-        scrapy /
-
-      scrapy</a></p>
-				<p>
-      Scrapy, a fast high-level web crawling & scraping framework for Python.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56876</span>
-						<span>🔱 10910</span>
-					</div>
-				<div class="stars-today">⭐ 1429 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14286</span>
-						<span>🔱 1120</span>
+						<span>⭐ 14294</span>
+						<span>🔱 1122</span>
 					</div>
 				<div class="stars-today">⭐ 983 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 88676</span>
-						<span>🔱 10193</span>
-					</div>
-				<div class="stars-today">⭐ 2605 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 13614</span>
-						<span>🔱 1403</span>
+						<span>⭐ 13638</span>
+						<span>🔱 1409</span>
 					</div>
 				<div class="stars-today">⭐ 1789 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
-    
-
-
-      
-        clash-verge-rev /
-
-      clash-verge-rev</a></p>
-				<p>
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 61004</span>
-						<span>🔱 4658</span>
-					</div>
-				<div class="stars-today">⭐ 842 stars this week</div>
 				</div>
 			</div>
 	
