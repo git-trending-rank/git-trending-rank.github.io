@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-11T09:58:46Z
+date: 2025-06-11T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 37830</span>
+						<span>🔱 8410</span>
+					</div>
+				<div class="stars-today">⭐ 35528 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
@@ -30,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17862</span>
+						<span>⭐ 17874</span>
 						<span>🔱 1706</span>
 					</div>
 				<div class="stars-today">⭐ 15404 stars this month</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18188</span>
-						<span>🔱 1149</span>
+						<span>⭐ 18211</span>
+						<span>🔱 1150</span>
 					</div>
 				<div class="stars-today">⭐ 8698 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xming521/WeClone" target="_blank">
-    
-
-
-      
-        xming521 /
-
-      WeClone</a></p>
-				<p>
-      🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13473</span>
-						<span>🔱 1004</span>
-					</div>
-				<div class="stars-today">⭐ 10188 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24881</span>
-						<span>🔱 3826</span>
+						<span>⭐ 24889</span>
+						<span>🔱 3828</span>
 					</div>
 				<div class="stars-today">⭐ 5828 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34224</span>
-						<span>🔱 3397</span>
-					</div>
-				<div class="stars-today">⭐ 5313 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31953</span>
-						<span>🔱 5273</span>
+						<span>⭐ 31954</span>
+						<span>🔱 5274</span>
 					</div>
 				<div class="stars-today">⭐ 4159 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xming521/WeClone" target="_blank">
+    
+
+
+      
+        xming521 /
+
+      WeClone</a></p>
+				<p>
+      🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13480</span>
+						<span>🔱 1004</span>
+					</div>
+				<div class="stars-today">⭐ 10188 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34232</span>
+						<span>🔱 3398</span>
+					</div>
+				<div class="stars-today">⭐ 5313 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 12230</span>
-						<span>🔱 685</span>
+						<span>⭐ 12246</span>
+						<span>🔱 686</span>
 					</div>
 				<div class="stars-today">⭐ 3729 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        harry0703 /
+        virattt /
 
-      MoneyPrinterTurbo</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36319</span>
-						<span>🔱 5174</span>
+						<span>⭐ 35617</span>
+						<span>🔱 6193</span>
 					</div>
-				<div class="stars-today">⭐ 7958 stars this month</div>
+				<div class="stars-today">⭐ 8567 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15096</span>
-						<span>🔱 1283</span>
+						<span>⭐ 15102</span>
+						<span>🔱 1288</span>
 					</div>
 				<div class="stars-today">⭐ 3601 stars this month</div>
 				</div>
@@ -228,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 350744</span>
-						<span>🔱 36870</span>
+						<span>⭐ 350752</span>
+						<span>🔱 36871</span>
 					</div>
 				<div class="stars-today">⭐ 12196 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35601</span>
-						<span>🔱 6189</span>
-					</div>
-				<div class="stars-today">⭐ 8567 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,30 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 55152</span>
-						<span>🔱 5881</span>
+						<span>⭐ 55161</span>
+						<span>🔱 5882</span>
 					</div>
 				<div class="stars-today">⭐ 5133 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
-    
-
-
-      
-        voideditor /
-
-      void</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23459</span>
-						<span>🔱 1525</span>
-					</div>
-				<div class="stars-today">⭐ 7457 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 128537</span>
+						<span>⭐ 128543</span>
 						<span>🔱 17039</span>
 					</div>
 				<div class="stars-today">⭐ 4535 stars this month</div>
@@ -336,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8541</span>
-						<span>🔱 1055</span>
+						<span>⭐ 8546</span>
+						<span>🔱 1056</span>
 					</div>
 				<div class="stars-today">⭐ 2679 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36329</span>
+						<span>🔱 5176</span>
+					</div>
+				<div class="stars-today">⭐ 7958 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21048</span>
+						<span>⭐ 21051</span>
 						<span>🔱 2872</span>
 					</div>
 				<div class="stars-today">⭐ 2476 stars this month</div>
@@ -366,24 +368,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
     
 
 
       
-        kamranahmedse /
+        tensorzero /
 
-      developer-roadmap</a></p>
+      tensorzero</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 326895</span>
-						<span>🔱 42044</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 6531</span>
+						<span>🔱 393</span>
 					</div>
-				<div class="stars-today">⭐ 8659 stars this month</div>
+				<div class="stars-today">⭐ 2245 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2469</span>
+						<span>⭐ 2473</span>
 						<span>🔱 146</span>
 					</div>
 				<div class="stars-today">⭐ 976 stars this month</div>
@@ -410,90 +412,66 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
+				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
     
 
 
       
-        appwrite /
+        All-Hands-AI /
 
-      appwrite</a></p>
+      OpenHands</a></p>
 				<p>
-      Build like a team of hundreds_
+      🙌 OpenHands: Code Less, Make More
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51142</span>
-						<span>🔱 4481</span>
+						<span>🔠 Python</span>
+						<span>⭐ 57792</span>
+						<span>🔱 6599</span>
 					</div>
-				<div class="stars-today">⭐ 2759 stars this month</div>
+				<div class="stars-today">⭐ 3941 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/flowgram.ai" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
     
 
 
       
-        bytedance /
+        voideditor /
 
-      flowgram.ai</a></p>
-				<p>
-      FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
-    </p>
+      void</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5126</span>
-						<span>🔱 369</span>
+						<span>⭐ 23470</span>
+						<span>🔱 1525</span>
 					</div>
-				<div class="stars-today">⭐ 2880 stars this month</div>
+				<div class="stars-today">⭐ 7457 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
     
 
 
       
-        MODSetter /
+        kamranahmedse /
 
-      SurfSense</a></p>
+      developer-roadmap</a></p>
 				<p>
-      Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5683</span>
-						<span>🔱 399</span>
+						<span>⭐ 326908</span>
+						<span>🔱 42047</span>
 					</div>
-				<div class="stars-today">⭐ 2243 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/neondatabase/neon" target="_blank">
-    
-
-
-      
-        neondatabase /
-
-      neon</a></p>
-				<p>
-      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18590</span>
-						<span>🔱 681</span>
-					</div>
-				<div class="stars-today">⭐ 1463 stars this month</div>
+				<div class="stars-today">⭐ 8659 stars this month</div>
 				</div>
 			</div>
 	

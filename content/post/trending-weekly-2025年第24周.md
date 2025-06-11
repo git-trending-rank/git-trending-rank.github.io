@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第24周
-date: 2025-06-11T09:58:46Z
+date: 2025-06-11T11:58:45Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
     
 
 
       
-        onlook-dev /
+        tensorzero /
 
-      onlook</a></p>
+      tensorzero</a></p>
 				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+      TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18188</span>
-						<span>🔱 1149</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 6531</span>
+						<span>🔱 393</span>
 					</div>
-				<div class="stars-today">⭐ 4678 stars this week</div>
+				<div class="stars-today">⭐ 1746 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9586</span>
-						<span>🔱 1871</span>
+						<span>⭐ 9593</span>
+						<span>🔱 1870</span>
 					</div>
 				<div class="stars-today">⭐ 1594 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18211</span>
+						<span>🔱 1150</span>
+					</div>
+				<div class="stars-today">⭐ 4678 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8541</span>
-						<span>🔱 1055</span>
+						<span>⭐ 8546</span>
+						<span>🔱 1056</span>
 					</div>
 				<div class="stars-today">⭐ 1797 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6509</span>
-						<span>🔱 393</span>
-					</div>
-				<div class="stars-today">⭐ 1746 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11892</span>
-						<span>🔱 1073</span>
-					</div>
-				<div class="stars-today">⭐ 2501 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15404</span>
+						<span>⭐ 15407</span>
 						<span>🔱 726</span>
 					</div>
 				<div class="stars-today">⭐ 1528 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11909</span>
+						<span>🔱 1074</span>
+					</div>
+				<div class="stars-today">⭐ 2501 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,164 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17123</span>
-						<span>🔱 1847</span>
+						<span>⭐ 17155</span>
+						<span>🔱 1848</span>
 					</div>
 				<div class="stars-today">⭐ 743 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
-    
-
-
-      
-        gitroomhq /
-
-      postiz-app</a></p>
-				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21560</span>
-						<span>🔱 3361</span>
-					</div>
-				<div class="stars-today">⭐ 1101 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
-    
-
-
-      
-        Anduin2017 /
-
-      HowToCook</a></p>
-				<p>
-      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 88846</span>
-						<span>🔱 10204</span>
-					</div>
-				<div class="stars-today">⭐ 2348 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
-    
-
-
-      
-        XTLS /
-
-      Xray-core</a></p>
-				<p>
-      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 29210</span>
-						<span>🔱 4349</span>
-					</div>
-				<div class="stars-today">⭐ 395 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/scrapy/scrapy" target="_blank">
-    
-
-
-      
-        scrapy /
-
-      scrapy</a></p>
-				<p>
-      Scrapy, a fast high-level web crawling & scraping framework for Python.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56973</span>
-						<span>🔱 10915</span>
-					</div>
-				<div class="stars-today">⭐ 1495 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15096</span>
-						<span>🔱 1283</span>
-					</div>
-				<div class="stars-today">⭐ 812 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 305627</span>
-						<span>🔱 50535</span>
-					</div>
-				<div class="stars-today">⭐ 2168 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14384</span>
-						<span>🔱 1132</span>
-					</div>
-				<div class="stars-today">⭐ 1025 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +184,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 13956</span>
-						<span>🔱 1439</span>
+						<span>⭐ 13988</span>
+						<span>🔱 1442</span>
 					</div>
 				<div class="stars-today">⭐ 2129 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
+    
+
+
+      
+        XTLS /
+
+      Xray-core</a></p>
+				<p>
+      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 29214</span>
+						<span>🔱 4350</span>
+					</div>
+				<div class="stars-today">⭐ 395 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 88863</span>
+						<span>🔱 10206</span>
+					</div>
+				<div class="stars-today">⭐ 2348 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+    
+
+
+      
+        lastmile-ai /
+
+      mcp-agent</a></p>
+				<p>
+      Build effective agents using Model Context Protocol and simple workflow patterns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5518</span>
+						<span>🔱 513</span>
+					</div>
+				<div class="stars-today">⭐ 610 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+    
+
+
+      
+        gitroomhq /
+
+      postiz-app</a></p>
+				<p>
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21566</span>
+						<span>🔱 3361</span>
+					</div>
+				<div class="stars-today">⭐ 1101 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elebumm/RedditVideoMakerBot" target="_blank">
+    
+
+
+      
+        elebumm /
+
+      RedditVideoMakerBot</a></p>
+				<p>
+      Create Reddit Videos with just✨ one command ✨
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7969</span>
+						<span>🔱 2056</span>
+					</div>
+				<div class="stars-today">⭐ 483 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 12246</span>
+						<span>🔱 686</span>
+					</div>
+				<div class="stars-today">⭐ 1047 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-11
-date: 2025-06-11T09:58:46Z
+date: 2025-06-11T11:58:45Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jwohlwend/boltz" target="_blank">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
     
 
 
       
-        jwohlwend /
+        sindresorhus /
 
-      boltz</a></p>
+      awesome</a></p>
 				<p>
-      Official repository for the Boltz biomolecular interaction models
+      😎 Awesome lists about all kinds of interesting topics
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2604</span>
-						<span>🔱 390</span>
+						<span>🔠 </span>
+						<span>⭐ 365268</span>
+						<span>🔱 29341</span>
 					</div>
-				<div class="stars-today">⭐ 61 stars today</div>
+				<div class="stars-today">⭐ 501 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        tensorzero /
+        Shubhamsaboo /
 
-      tensorzero</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6509</span>
-						<span>🔱 393</span>
+						<span>🔠 Python</span>
+						<span>⭐ 34645</span>
+						<span>🔱 3969</span>
 					</div>
-				<div class="stars-today">⭐ 373 stars today</div>
+				<div class="stars-today">⭐ 311 stars today</div>
 				</div>
 			</div>
 	
@@ -74,98 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11638</span>
-						<span>🔱 1405</span>
+						<span>⭐ 11667</span>
+						<span>🔱 1407</span>
 					</div>
-				<div class="stars-today">⭐ 987 stars today</div>
+				<div class="stars-today">⭐ 400 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/friuns2/BlackFriday-GPTs-Prompts" target="_blank">
+				<p><a href="https://github.com/jwohlwend/boltz" target="_blank">
     
 
 
       
-        friuns2 /
+        jwohlwend /
 
-      BlackFriday-GPTs-Prompts</a></p>
+      boltz</a></p>
 				<p>
-      List of free GPTs that doesn't require plus subscription 
+      Official repository for the Boltz biomolecular interaction models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 7808</span>
-						<span>🔱 1136</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2625</span>
+						<span>🔱 391</span>
 					</div>
-				<div class="stars-today">⭐ 215 stars today</div>
+				<div class="stars-today">⭐ 459 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
     
 
 
       
-        dair-ai /
+        jdepoix /
 
-      Prompt-Engineering-Guide</a></p>
+      youtube-transcript-api</a></p>
 				<p>
-      🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 57805</span>
-						<span>🔱 5730</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4042</span>
+						<span>🔱 468</span>
 					</div>
-				<div class="stars-today">⭐ 352 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eythaann/Seelen-UI" target="_blank">
-    
-
-
-      
-        eythaann /
-
-      Seelen-UI</a></p>
-				<p>
-      The Fully Customizable Desktop Environment for Windows 10/11.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8412</span>
-						<span>🔱 261</span>
-					</div>
-				<div class="stars-today">⭐ 605 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10978</span>
-						<span>🔱 3165</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	
@@ -184,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 16871</span>
-						<span>🔱 1206</span>
+						<span>⭐ 16918</span>
+						<span>🔱 1209</span>
 					</div>
-				<div class="stars-today">⭐ 572 stars today</div>
+				<div class="stars-today">⭐ 394 stars today</div>
 				</div>
 			</div>
 	
@@ -206,120 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17123</span>
-						<span>🔱 1847</span>
+						<span>⭐ 17155</span>
+						<span>🔱 1848</span>
 					</div>
-				<div class="stars-today">⭐ 114 stars today</div>
+				<div class="stars-today">⭐ 441 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
     
 
 
       
-        XTLS /
+        juspay /
 
-      Xray-core</a></p>
+      hyperswitch</a></p>
 				<p>
-      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 29210</span>
-						<span>🔱 4349</span>
-					</div>
-				<div class="stars-today">⭐ 147 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
-    
-
-
-      
-        YaLTeR /
-
-      niri</a></p>
-				<p>
-      A scrollable-tiling Wayland compositor.
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8129</span>
-						<span>🔱 265</span>
+						<span>⭐ 20583</span>
+						<span>🔱 3405</span>
 					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/servers" target="_blank">
+				<p><a href="https://github.com/OpenBMB/MiniCPM" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        OpenBMB /
 
-      servers</a></p>
+      MiniCPM</a></p>
 				<p>
-      Model Context Protocol Servers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52998</span>
-						<span>🔱 6036</span>
-					</div>
-				<div class="stars-today">⭐ 229 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank">
-    
-
-
-      
-        NirDiamant /
-
-      GenAI_Agents</a></p>
-				<p>
-      This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
+      MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13065</span>
-						<span>🔱 1749</span>
+						<span>⭐ 7715</span>
+						<span>🔱 478</span>
 					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PathOfBuildingCommunity/PathOfBuilding" target="_blank">
-    
-
-
-      
-        PathOfBuildingCommunity /
-
-      PathOfBuilding</a></p>
-				<p>
-      Offline build planner for Path of Exile.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 4731</span>
-						<span>🔱 2142</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
+				<div class="stars-today">⭐ 146 stars today</div>
 				</div>
 			</div>
 	
