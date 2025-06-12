@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-12
-date: 2025-06-12T09:58:36Z
+date: 2025-06-12T11:58:38Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 366438</span>
-						<span>🔱 29462</span>
-					</div>
-				<div class="stars-today">⭐ 641 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
@@ -52,98 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35775</span>
-						<span>🔱 4129</span>
+						<span>⭐ 35891</span>
+						<span>🔱 4151</span>
 					</div>
 				<div class="stars-today">⭐ 529 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alphacep/vosk-api" target="_blank">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
     
 
 
       
-        alphacep /
+        sindresorhus /
 
-      vosk-api</a></p>
+      awesome</a></p>
 				<p>
-      Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11955</span>
-						<span>🔱 1421</span>
-					</div>
-				<div class="stars-today">⭐ 387 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwohlwend/boltz" target="_blank">
-    
-
-
-      
-        jwohlwend /
-
-      boltz</a></p>
-				<p>
-      Official repository for the Boltz biomolecular interaction models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2725</span>
-						<span>🔱 402</span>
-					</div>
-				<div class="stars-today">⭐ 420 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
-    
-
-
-      
-        jdepoix /
-
-      youtube-transcript-api</a></p>
-				<p>
-      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4330</span>
-						<span>🔱 490</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank">
-    
-
-
-      
-        zijie0 /
-
-      HumanSystemOptimization</a></p>
-				<p>
-      健康学习到150岁 - 人体系统调优不完全指南
+      😎 Awesome lists about all kinds of interesting topics
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 17256</span>
-						<span>🔱 1232</span>
+						<span>⭐ 366509</span>
+						<span>🔱 29468</span>
 					</div>
-				<div class="stars-today">⭐ 412 stars today</div>
+				<div class="stars-today">⭐ 641 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xiangechen/chili3d" target="_blank">
+    
+
+
+      
+        xiangechen /
+
+      chili3d</a></p>
+				<p>
+      A web-based 3D CAD application for online model design and editing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1316</span>
+						<span>🔱 134</span>
+					</div>
+				<div class="stars-today">⭐ 205 stars today</div>
 				</div>
 			</div>
 	
@@ -162,54 +96,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17536</span>
-						<span>🔱 1875</span>
+						<span>⭐ 17565</span>
+						<span>🔱 1880</span>
 					</div>
 				<div class="stars-today">⭐ 448 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
     
 
 
       
-        juspay /
+        jdepoix /
 
-      hyperswitch</a></p>
+      youtube-transcript-api</a></p>
 				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
+      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20735</span>
-						<span>🔱 3412</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4362</span>
+						<span>🔱 492</span>
 					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
+				<div class="stars-today">⭐ 44 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        OpenBMB /
+        microsoft /
 
-      MiniCPM</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips
+      11 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 7881</span>
-						<span>🔱 486</span>
+						<span>⭐ 25485</span>
+						<span>🔱 6964</span>
 					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
+				<div class="stars-today">⭐ 175 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/confident-ai/deepeval" target="_blank">
+    
+
+
+      
+        confident-ai /
+
+      deepeval</a></p>
+				<p>
+      The LLM Evaluation Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7287</span>
+						<span>🔱 673</span>
+					</div>
+				<div class="stars-today">⭐ 60 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+    
+
+
+      
+        YaLTeR /
+
+      niri</a></p>
+				<p>
+      A scrollable-tiling Wayland compositor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8176</span>
+						<span>🔱 266</span>
+					</div>
+				<div class="stars-today">⭐ 120 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FareedKhan-dev/all-rag-techniques" target="_blank">
+    
+
+
+      
+        FareedKhan-dev /
+
+      all-rag-techniques</a></p>
+				<p>
+      Implementation of all RAG techniques in a simpler way
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2495</span>
+						<span>🔱 349</span>
+					</div>
+				<div class="stars-today">⭐ 129 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35743</span>
+						<span>🔱 6218</span>
+					</div>
+				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第24周
-date: 2025-06-12T09:58:36Z
+date: 2025-06-12T11:58:38Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6681</span>
-						<span>🔱 404</span>
+						<span>⭐ 6691</span>
+						<span>🔱 406</span>
 					</div>
 				<div class="stars-today">⭐ 2111 stars this week</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9682</span>
-						<span>🔱 1880</span>
+						<span>⭐ 9687</span>
+						<span>🔱 1882</span>
 					</div>
 				<div class="stars-today">⭐ 1296 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
-    
-
-
-      
-        onlook-dev /
-
-      onlook</a></p>
-				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18379</span>
-						<span>🔱 1166</span>
-					</div>
-				<div class="stars-today">⭐ 3289 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8632</span>
-						<span>🔱 1059</span>
-					</div>
-				<div class="stars-today">⭐ 1084 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15488</span>
+						<span>⭐ 15500</span>
 						<span>🔱 728</span>
 					</div>
 				<div class="stars-today">⭐ 1513 stars this week</div>
@@ -126,46 +82,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        anthropics /
+        nautechsystems /
 
-      prompt-eng-interactive-tutorial</a></p>
+      nautilus_trader</a></p>
 				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12044</span>
-						<span>🔱 1090</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8638</span>
+						<span>🔱 1059</span>
 					</div>
-				<div class="stars-today">⭐ 2515 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      self-llm</a></p>
-				<p>
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17536</span>
-						<span>🔱 1875</span>
-					</div>
-				<div class="stars-today">⭐ 1076 stars this week</div>
+				<div class="stars-today">⭐ 1084 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14242</span>
-						<span>🔱 1461</span>
+						<span>⭐ 14256</span>
+						<span>🔱 1462</span>
 					</div>
 				<div class="stars-today">⭐ 2346 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iamgio/quarkdown" target="_blank">
+    
+
+
+      
+        iamgio /
+
+      quarkdown</a></p>
+				<p>
+      🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 5997</span>
+						<span>🔱 104</span>
+					</div>
+				<div class="stars-today">⭐ 2520 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 29246</span>
+						<span>⭐ 29247</span>
 						<span>🔱 4352</span>
 					</div>
 				<div class="stars-today">⭐ 468 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      self-llm</a></p>
+				<p>
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17565</span>
+						<span>🔱 1880</span>
+					</div>
+				<div class="stars-today">⭐ 1076 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18394</span>
+						<span>🔱 1169</span>
+					</div>
+				<div class="stars-today">⭐ 3289 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 366509</span>
+						<span>🔱 29468</span>
+					</div>
+				<div class="stars-today">⭐ 2108 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dockerfile</span>
-						<span>⭐ 88989</span>
-						<span>🔱 10214</span>
+						<span>⭐ 88998</span>
+						<span>🔱 10213</span>
 					</div>
 				<div class="stars-today">⭐ 2035 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5582</span>
-						<span>🔱 518</span>
-					</div>
-				<div class="stars-today">⭐ 615 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1207</span>
+						<span>⭐ 1209</span>
 						<span>🔱 64</span>
 					</div>
 				<div class="stars-today">⭐ 372 stars this week</div>
@@ -280,46 +280,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        gitroomhq /
+        codecrafters-io /
 
-      postiz-app</a></p>
+      build-your-own-x</a></p>
 				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+      Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21641</span>
-						<span>🔱 3369</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 386595</span>
+						<span>🔱 36047</span>
 					</div>
-				<div class="stars-today">⭐ 846 stars this week</div>
+				<div class="stars-today">⭐ 2415 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elebumm/RedditVideoMakerBot" target="_blank">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
     
 
 
       
-        elebumm /
+        anthropics /
 
-      RedditVideoMakerBot</a></p>
+      prompt-eng-interactive-tutorial</a></p>
 				<p>
-      Create Reddit Videos with just✨ one command ✨
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12051</span>
+						<span>🔱 1093</span>
+					</div>
+				<div class="stars-today">⭐ 2515 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
+    
+
+
+      
+        lastmile-ai /
+
+      mcp-agent</a></p>
+				<p>
+      Build effective agents using Model Context Protocol and simple workflow patterns
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8005</span>
-						<span>🔱 2057</span>
+						<span>⭐ 5589</span>
+						<span>🔱 519</span>
 					</div>
-				<div class="stars-today">⭐ 278 stars this week</div>
+				<div class="stars-today">⭐ 615 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 12385</span>
-						<span>🔱 693</span>
+						<span>⭐ 12397</span>
+						<span>🔱 694</span>
 					</div>
 				<div class="stars-today">⭐ 1055 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stanfordnlp/dspy" target="_blank">
+    
+
+
+      
+        stanfordnlp /
+
+      dspy</a></p>
+				<p>
+      DSPy: The framework for programming—not prompting—language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25332</span>
+						<span>🔱 1954</span>
+					</div>
+				<div class="stars-today">⭐ 617 stars this week</div>
 				</div>
 			</div>
 	

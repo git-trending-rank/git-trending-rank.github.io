@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-12T09:58:37Z
+date: 2025-06-12T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 38063</span>
-						<span>🔱 8474</span>
+						<span>⭐ 38084</span>
+						<span>🔱 8479</span>
 					</div>
 				<div class="stars-today">⭐ 35717 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17968</span>
-						<span>🔱 1722</span>
+						<span>⭐ 17981</span>
+						<span>🔱 1724</span>
 					</div>
 				<div class="stars-today">⭐ 15539 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18379</span>
-						<span>🔱 1166</span>
+						<span>⭐ 18394</span>
+						<span>🔱 1169</span>
 					</div>
 				<div class="stars-today">⭐ 8981 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24973</span>
-						<span>🔱 3839</span>
+						<span>⭐ 24981</span>
+						<span>🔱 3842</span>
 					</div>
 				<div class="stars-today">⭐ 5924 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32003</span>
+						<span>⭐ 32006</span>
 						<span>🔱 5281</span>
 					</div>
 				<div class="stars-today">⭐ 4198 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xming521/WeClone" target="_blank">
-    
-
-
-      
-        xming521 /
-
-      WeClone</a></p>
-				<p>
-      🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13570</span>
-						<span>🔱 1012</span>
-					</div>
-				<div class="stars-today">⭐ 10129 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34299</span>
+						<span>⭐ 34309</span>
 						<span>🔱 3409</span>
 					</div>
 				<div class="stars-today">⭐ 5384 stars this month</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 12385</span>
-						<span>🔱 693</span>
+						<span>⭐ 12397</span>
+						<span>🔱 694</span>
 					</div>
 				<div class="stars-today">⭐ 3854 stars this month</div>
 				</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35724</span>
-						<span>🔱 6216</span>
+						<span>⭐ 35743</span>
+						<span>🔱 6218</span>
 					</div>
 				<div class="stars-today">⭐ 8726 stars this month</div>
 				</div>
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15182</span>
+						<span>⭐ 15186</span>
 						<span>🔱 1293</span>
 					</div>
 				<div class="stars-today">⭐ 3704 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xming521/WeClone" target="_blank">
+    
+
+
+      
+        xming521 /
+
+      WeClone</a></p>
+				<p>
+      🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13581</span>
+						<span>🔱 1012</span>
+					</div>
+				<div class="stars-today">⭐ 10129 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 350901</span>
-						<span>🔱 36888</span>
+						<span>⭐ 350922</span>
+						<span>🔱 36890</span>
 					</div>
 				<div class="stars-today">⭐ 12359 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 55236</span>
-						<span>🔱 5889</span>
-					</div>
-				<div class="stars-today">⭐ 5179 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
-    
-
-
-      
-        f /
-
-      awesome-chatgpt-prompts</a></p>
-				<p>
-      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 128627</span>
-						<span>🔱 17047</span>
-					</div>
-				<div class="stars-today">⭐ 4635 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8632</span>
+						<span>⭐ 8638</span>
 						<span>🔱 1059</span>
 					</div>
 				<div class="stars-today">⭐ 2767 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36468</span>
-						<span>🔱 5193</span>
-					</div>
-				<div class="stars-today">⭐ 7225 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
-    
-
-
-      
-        CopilotKit /
-
-      CopilotKit</a></p>
-				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21091</span>
-						<span>🔱 2877</span>
-					</div>
-				<div class="stars-today">⭐ 2502 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6681</span>
-						<span>🔱 404</span>
+						<span>⭐ 6691</span>
+						<span>🔱 406</span>
 					</div>
 				<div class="stars-today">⭐ 2560 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ali-vilab/VACE" target="_blank">
+				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
     
 
 
       
-        ali-vilab /
+        f /
 
-      VACE</a></p>
+      awesome-chatgpt-prompts</a></p>
 				<p>
-      Official implementations for paper: VACE: All-in-One Video Creation and Editing
+      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2504</span>
-						<span>🔱 148</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 128633</span>
+						<span>🔱 17050</span>
 					</div>
-				<div class="stars-today">⭐ 1001 stars this month</div>
+				<div class="stars-today">⭐ 4635 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,30 +338,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57876</span>
-						<span>🔱 6614</span>
+						<span>⭐ 57888</span>
+						<span>🔱 6616</span>
 					</div>
 				<div class="stars-today">⭐ 3979 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voideditor/void" target="_blank">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
     
 
 
       
-        voideditor /
+        CopilotKit /
 
-      void</a></p>
-				<p></p>
+      CopilotKit</a></p>
+				<p>
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23522</span>
-						<span>🔱 1527</span>
+						<span>⭐ 21094</span>
+						<span>🔱 2877</span>
 					</div>
-				<div class="stars-today">⭐ 6790 stars this month</div>
+				<div class="stars-today">⭐ 2502 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 29197</span>
+						<span>🔱 5854</span>
+					</div>
+				<div class="stars-today">⭐ 1566 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ali-vilab/VACE" target="_blank">
+    
+
+
+      
+        ali-vilab /
+
+      VACE</a></p>
+				<p>
+      Official implementations for paper: VACE: All-in-One Video Creation and Editing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2505</span>
+						<span>🔱 149</span>
+					</div>
+				<div class="stars-today">⭐ 1001 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5763</span>
+						<span>🔱 529</span>
+					</div>
+				<div class="stars-today">⭐ 1447 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
+    
+
+
+      
+        netbirdio /
+
+      netbird</a></p>
+				<p>
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15500</span>
+						<span>🔱 728</span>
+					</div>
+				<div class="stars-today">⭐ 1904 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/neondatabase/neon" target="_blank">
+    
+
+
+      
+        neondatabase /
+
+      neon</a></p>
+				<p>
+      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18626</span>
+						<span>🔱 681</span>
+					</div>
+				<div class="stars-today">⭐ 1494 stars this month</div>
 				</div>
 			</div>
 	
@@ -468,8 +492,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 327027</span>
-						<span>🔱 42065</span>
+						<span>⭐ 327036</span>
+						<span>🔱 42066</span>
 					</div>
 				<div class="stars-today">⭐ 8442 stars this month</div>
 				</div>
