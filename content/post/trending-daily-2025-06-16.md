@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-16
-date: 2025-06-16T17:58:39Z
+date: 2025-06-16T19:58:48Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,72 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      fluentui-system-icons</a></p>
+				<p>
+      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6765</span>
+						<span>🔱 582</span>
+					</div>
+				<div class="stars-today">⭐ 60 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13615</span>
+						<span>🔱 1582</span>
+					</div>
+				<div class="stars-today">⭐ 165 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12719</span>
+						<span>🔱 1158</span>
+					</div>
+				<div class="stars-today">⭐ 175 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
@@ -30,186 +96,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43115</span>
-						<span>🔱 4871</span>
+						<span>⭐ 43176</span>
+						<span>🔱 4878</span>
 					</div>
 				<div class="stars-today">⭐ 1593 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+				<p><a href="https://github.com/immich-app/immich" target="_blank">
     
 
 
       
-        sindresorhus /
+        immich-app /
 
-      awesome</a></p>
+      immich</a></p>
 				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 368869</span>
-						<span>🔱 29650</span>
-					</div>
-				<div class="stars-today">⭐ 699 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xiangechen/chili3d" target="_blank">
-    
-
-
-      
-        xiangechen /
-
-      chili3d</a></p>
-				<p>
-      A web-based 3D CAD application for online model design and editing
+      High performance self-hosted photo and video management solution.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2952</span>
-						<span>🔱 228</span>
+						<span>⭐ 68167</span>
+						<span>🔱 3585</span>
 					</div>
-				<div class="stars-today">⭐ 354 stars today</div>
+				<div class="stars-today">⭐ 71 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
+				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
     
 
 
       
-        datawhalechina /
+        huggingface /
 
-      self-llm</a></p>
+      lerobot</a></p>
 				<p>
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18756</span>
-						<span>🔱 1956</span>
-					</div>
-				<div class="stars-today">⭐ 387 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
-    
-
-
-      
-        jdepoix /
-
-      youtube-transcript-api</a></p>
-				<p>
-      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5131</span>
-						<span>🔱 549</span>
+						<span>⭐ 14684</span>
+						<span>🔱 1933</span>
 					</div>
-				<div class="stars-today">⭐ 195 stars today</div>
+				<div class="stars-today">⭐ 88 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/gtsteffaniak/filebrowser" target="_blank">
     
 
 
       
-        microsoft /
+        gtsteffaniak /
 
-      ai-agents-for-beginners</a></p>
+      filebrowser</a></p>
 				<p>
-      11 Lessons to Get Started Building AI Agents
+      📂 Web File Browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27135</span>
-						<span>🔱 7278</span>
+						<span>🔠 Go</span>
+						<span>⭐ 1573</span>
+						<span>🔱 39</span>
 					</div>
-				<div class="stars-today">⭐ 437 stars today</div>
+				<div class="stars-today">⭐ 85 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/confident-ai/deepeval" target="_blank">
+				<p><a href="https://github.com/zen-browser/desktop" target="_blank">
     
 
 
       
-        confident-ai /
+        zen-browser /
 
-      deepeval</a></p>
+      desktop</a></p>
 				<p>
-      The LLM Evaluation Framework
+      Welcome to a calmer internet
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8207</span>
-						<span>🔱 716</span>
+						<span>🔠 C++</span>
+						<span>⭐ 32948</span>
+						<span>🔱 919</span>
 					</div>
-				<div class="stars-today">⭐ 216 stars today</div>
+				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
     
 
 
       
-        YaLTeR /
+        linshenkx /
 
-      niri</a></p>
+      prompt-optimizer</a></p>
 				<p>
-      A scrollable-tiling Wayland compositor.
+      一款提示词优化器，助力于编写高质量的提示词
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8757</span>
-						<span>🔱 283</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6051</span>
+						<span>🔱 806</span>
 					</div>
-				<div class="stars-today">⭐ 160 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FareedKhan-dev/all-rag-techniques" target="_blank">
-    
-
-
-      
-        FareedKhan-dev /
-
-      all-rag-techniques</a></p>
-				<p>
-      Implementation of all RAG techniques in a simpler way
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 4614</span>
-						<span>🔱 569</span>
-					</div>
-				<div class="stars-today">⭐ 391 stars today</div>
+				<div class="stars-today">⭐ 145 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36558</span>
-						<span>🔱 6332</span>
+						<span>⭐ 36575</span>
+						<span>🔱 6334</span>
 					</div>
 				<div class="stars-today">⭐ 242 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
+    
+
+
+      
+        panaversity /
+
+      learn-agentic-ai</a></p>
+				<p>
+      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2881</span>
+						<span>🔱 624</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+    
+
+
+      
+        YaLTeR /
+
+      niri</a></p>
+				<p>
+      A scrollable-tiling Wayland compositor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8762</span>
+						<span>🔱 284</span>
+					</div>
+				<div class="stars-today">⭐ 160 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-16T17:58:39Z
+date: 2025-06-16T19:58:49Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 39234</span>
-						<span>🔱 8706</span>
-					</div>
-				<div class="stars-today">⭐ 24733 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
@@ -52,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18392</span>
-						<span>🔱 1794</span>
+						<span>⭐ 18397</span>
+						<span>🔱 1795</span>
 					</div>
 				<div class="stars-today">⭐ 15825 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
-    
-
-
-      
-        onlook-dev /
-
-      onlook</a></p>
-				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18899</span>
-						<span>🔱 1201</span>
-					</div>
-				<div class="stars-today">⭐ 9442 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25289</span>
+						<span>⭐ 25290</span>
 						<span>🔱 3892</span>
 					</div>
 				<div class="stars-today">⭐ 6173 stars this month</div>
@@ -118,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32164</span>
-						<span>🔱 5291</span>
+						<span>⭐ 32166</span>
+						<span>🔱 5292</span>
 					</div>
 				<div class="stars-today">⭐ 4335 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        mem0ai /
+        TapXWorld /
 
-      mem0</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+      所有小初高、大学PDF教材。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34609</span>
-						<span>🔱 3450</span>
+						<span>🔠 Roff</span>
+						<span>⭐ 39243</span>
+						<span>🔱 8707</span>
 					</div>
-				<div class="stars-today">⭐ 4426 stars this month</div>
+				<div class="stars-today">⭐ 24733 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,208 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13132</span>
-						<span>🔱 743</span>
+						<span>⭐ 13150</span>
+						<span>🔱 742</span>
 					</div>
 				<div class="stars-today">⭐ 4355 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36558</span>
-						<span>🔱 6332</span>
-					</div>
-				<div class="stars-today">⭐ 9166 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15411</span>
-						<span>🔱 1315</span>
-					</div>
-				<div class="stars-today">⭐ 3871 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xming521/WeClone" target="_blank">
-    
-
-
-      
-        xming521 /
-
-      WeClone</a></p>
-				<p>
-      🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life. 从聊天记录创造数字分身的一站式解决方案 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13967</span>
-						<span>🔱 1046</span>
-					</div>
-				<div class="stars-today">⭐ 5838 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 351537</span>
-						<span>🔱 36946</span>
-					</div>
-				<div class="stars-today">⭐ 12418 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8883</span>
-						<span>🔱 1080</span>
-					</div>
-				<div class="stars-today">⭐ 2980 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7247</span>
-						<span>🔱 436</span>
-					</div>
-				<div class="stars-today">⭐ 2943 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/f/awesome-chatgpt-prompts" target="_blank">
-    
-
-
-      
-        f /
-
-      awesome-chatgpt-prompts</a></p>
-				<p>
-      This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 129038</span>
-						<span>🔱 17093</span>
-					</div>
-				<div class="stars-today">⭐ 4711 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
-    
-
-
-      
-        All-Hands-AI /
-
-      OpenHands</a></p>
-				<p>
-      🙌 OpenHands: Code Less, Make More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58161</span>
-						<span>🔱 6673</span>
-					</div>
-				<div class="stars-today">⭐ 4076 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
-    
-
-
-      
-        CopilotKit /
-
-      CopilotKit</a></p>
-				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21253</span>
-						<span>🔱 2888</span>
-					</div>
-				<div class="stars-today">⭐ 2442 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 29425</span>
-						<span>🔱 5919</span>
+						<span>⭐ 29429</span>
+						<span>🔱 5922</span>
 					</div>
 				<div class="stars-today">⭐ 1712 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ali-vilab/VACE" target="_blank">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
     
 
 
       
-        ali-vilab /
+        anthropics /
 
-      VACE</a></p>
+      courses</a></p>
 				<p>
-      Official implementations for paper: VACE: All-in-One Video Creation and Editing
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15415</span>
+						<span>🔱 1315</span>
+					</div>
+				<div class="stars-today">⭐ 3871 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2631</span>
-						<span>🔱 159</span>
+						<span>⭐ 36575</span>
+						<span>🔱 6334</span>
 					</div>
-				<div class="stars-today">⭐ 960 stars this month</div>
+				<div class="stars-today">⭐ 9166 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7261</span>
+						<span>🔱 436</span>
+					</div>
+				<div class="stars-today">⭐ 2943 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8892</span>
+						<span>🔱 1080</span>
+					</div>
+				<div class="stars-today">⭐ 2980 stars this month</div>
 				</div>
 			</div>
 	
@@ -434,6 +258,50 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34612</span>
+						<span>🔱 3450</span>
+					</div>
+				<div class="stars-today">⭐ 4426 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 368887</span>
+						<span>🔱 29652</span>
+					</div>
+				<div class="stars-today">⭐ 8225 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
     
 
@@ -448,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15770</span>
+						<span>⭐ 15774</span>
 						<span>🔱 737</span>
 					</div>
 				<div class="stars-today">⭐ 2128 stars this month</div>
@@ -456,46 +324,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/neondatabase/neon" target="_blank">
+				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
     
 
 
       
-        neondatabase /
+        appwrite /
 
-      neon</a></p>
+      appwrite</a></p>
 				<p>
-      Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18762</span>
-						<span>🔱 687</span>
-					</div>
-				<div class="stars-today">⭐ 1466 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+      Build like a team of hundreds_
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 327501</span>
-						<span>🔱 42090</span>
+						<span>⭐ 51304</span>
+						<span>🔱 4496</span>
 					</div>
-				<div class="stars-today">⭐ 7134 stars this month</div>
+				<div class="stars-today">⭐ 2768 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
+    
+
+
+      
+        All-Hands-AI /
+
+      OpenHands</a></p>
+				<p>
+      🙌 OpenHands: Code Less, Make More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58165</span>
+						<span>🔱 6675</span>
+					</div>
+				<div class="stars-today">⭐ 4076 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FareedKhan-dev/all-rag-techniques" target="_blank">
+    
+
+
+      
+        FareedKhan-dev /
+
+      all-rag-techniques</a></p>
+				<p>
+      Implementation of all RAG techniques in a simpler way
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 4623</span>
+						<span>🔱 570</span>
+					</div>
+				<div class="stars-today">⭐ 2878 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stalwartlabs/stalwart" target="_blank">
+    
+
+
+      
+        stalwartlabs /
+
+      stalwart</a></p>
+				<p>
+      All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8720</span>
+						<span>🔱 419</span>
+					</div>
+				<div class="stars-today">⭐ 1181 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 306351</span>
+						<span>🔱 50655</span>
+					</div>
+				<div class="stars-today">⭐ 7311 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      self-llm</a></p>
+				<p>
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 18762</span>
+						<span>🔱 1956</span>
+					</div>
+				<div class="stars-today">⭐ 2992 stars this month</div>
 				</div>
 			</div>
 	
