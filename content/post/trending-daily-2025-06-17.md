@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-17
-date: 2025-06-17T09:58:32Z
+date: 2025-06-17T11:58:40Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 7448</span>
-						<span>🔱 605</span>
+						<span>⭐ 7549</span>
+						<span>🔱 607</span>
 					</div>
 				<div class="stars-today">⭐ 59 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
+    
+
+
+      
+        menloresearch /
+
+      jan</a></p>
+				<p>
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29727</span>
+						<span>🔱 1772</span>
+					</div>
+				<div class="stars-today">⭐ 93 stars today</div>
 				</div>
 			</div>
 	
@@ -52,32 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14414</span>
-						<span>🔱 1613</span>
+						<span>⭐ 14472</span>
+						<span>🔱 1615</span>
 					</div>
 				<div class="stars-today">⭐ 165 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+				<p><a href="https://github.com/infiniflow/ragflow" target="_blank">
     
 
 
       
-        anthropics /
+        infiniflow /
 
-      prompt-eng-interactive-tutorial</a></p>
+      ragflow</a></p>
 				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
+      RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12920</span>
-						<span>🔱 1170</span>
+						<span>🔠 Python</span>
+						<span>⭐ 56101</span>
+						<span>🔱 5520</span>
 					</div>
-				<div class="stars-today">⭐ 175 stars today</div>
+				<div class="stars-today">⭐ 770 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepseek-ai/DeepEP" target="_blank">
+    
+
+
+      
+        deepseek-ai /
+
+      DeepEP</a></p>
+				<p>
+      DeepEP: an efficient expert-parallel communication library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Cuda</span>
+						<span>⭐ 7782</span>
+						<span>🔱 794</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+    
+
+
+      
+        automatisch /
+
+      automatisch</a></p>
+				<p>
+      The open source Zapier alternative. Build workflow automation without spending time and money.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9022</span>
+						<span>🔱 691</span>
+					</div>
+				<div class="stars-today">⭐ 48 stars today</div>
 				</div>
 			</div>
 	
@@ -96,186 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43557</span>
-						<span>🔱 4909</span>
+						<span>⭐ 43592</span>
+						<span>🔱 4915</span>
 					</div>
 				<div class="stars-today">⭐ 1593 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/immich-app/immich" target="_blank">
+				<p><a href="https://github.com/continuedev/continue" target="_blank">
     
 
 
       
-        immich-app /
+        continuedev /
 
-      immich</a></p>
+      continue</a></p>
 				<p>
-      High performance self-hosted photo and video management solution.
+      ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68454</span>
-						<span>🔱 3591</span>
+						<span>⭐ 26965</span>
+						<span>🔱 2968</span>
 					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      lerobot</a></p>
-				<p>
-      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14849</span>
-						<span>🔱 1944</span>
-					</div>
-				<div class="stars-today">⭐ 88 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gtsteffaniak/filebrowser" target="_blank">
-    
-
-
-      
-        gtsteffaniak /
-
-      filebrowser</a></p>
-				<p>
-      📂 Web File Browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1826</span>
-						<span>🔱 44</span>
-					</div>
-				<div class="stars-today">⭐ 82 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zen-browser/desktop" target="_blank">
-    
-
-
-      
-        zen-browser /
-
-      desktop</a></p>
-				<p>
-      Welcome to a calmer internet
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 33113</span>
-						<span>🔱 920</span>
-					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6394</span>
-						<span>🔱 841</span>
-					</div>
-				<div class="stars-today">⭐ 145 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36675</span>
-						<span>🔱 6352</span>
-					</div>
-				<div class="stars-today">⭐ 242 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
-    
-
-
-      
-        panaversity /
-
-      learn-agentic-ai</a></p>
-				<p>
-      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2992</span>
-						<span>🔱 627</span>
-					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
-    
-
-
-      
-        YaLTeR /
-
-      niri</a></p>
-				<p>
-      A scrollable-tiling Wayland compositor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8812</span>
-						<span>🔱 285</span>
-					</div>
-				<div class="stars-today">⭐ 161 stars today</div>
+				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-17T09:58:33Z
+date: 2025-06-17T11:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18476</span>
+						<span>⭐ 18485</span>
 						<span>🔱 1801</span>
 					</div>
 				<div class="stars-today">⭐ 15907 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/WSL" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      WSL</a></p>
+				<p>
+      Windows Subsystem for Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 28597</span>
+						<span>🔱 1375</span>
+					</div>
+				<div class="stars-today">⭐ 10337 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25346</span>
-						<span>🔱 3896</span>
+						<span>⭐ 25351</span>
+						<span>🔱 3897</span>
 					</div>
 				<div class="stars-today">⭐ 6231 stars this month</div>
 				</div>
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32214</span>
-						<span>🔱 5301</span>
+						<span>⭐ 32219</span>
+						<span>🔱 5302</span>
 					</div>
 				<div class="stars-today">⭐ 4359 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 39541</span>
-						<span>🔱 8777</span>
-					</div>
-				<div class="stars-today">⭐ 20181 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 13293</span>
-						<span>🔱 750</span>
-					</div>
-				<div class="stars-today">⭐ 4534 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 29496</span>
-						<span>🔱 5940</span>
+						<span>⭐ 29500</span>
+						<span>🔱 5941</span>
 					</div>
 				<div class="stars-today">⭐ 1752 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 13310</span>
+						<span>🔱 750</span>
+					</div>
+				<div class="stars-today">⭐ 4534 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15454</span>
+						<span>⭐ 15461</span>
 						<span>🔱 1317</span>
 					</div>
 				<div class="stars-today">⭐ 3926 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36675</span>
-						<span>🔱 6352</span>
-					</div>
-				<div class="stars-today">⭐ 9108 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,164 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7400</span>
-						<span>🔱 443</span>
+						<span>⭐ 7412</span>
+						<span>🔱 444</span>
 					</div>
 				<div class="stars-today">⭐ 3121 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        nautechsystems /
+        TapXWorld /
 
-      nautilus_trader</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
+      所有小初高、大学PDF教材。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8928</span>
-						<span>🔱 1084</span>
+						<span>🔠 Roff</span>
+						<span>⭐ 39579</span>
+						<span>🔱 8782</span>
 					</div>
-				<div class="stars-today">⭐ 3039 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      RD-Agent</a></p>
-				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5951</span>
-						<span>🔱 556</span>
-					</div>
-				<div class="stars-today">⭐ 1607 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34683</span>
-						<span>🔱 3455</span>
-					</div>
-				<div class="stars-today">⭐ 3904 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 369103</span>
-						<span>🔱 29666</span>
-					</div>
-				<div class="stars-today">⭐ 8741 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
-    
-
-
-      
-        netbirdio /
-
-      netbird</a></p>
-				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 15817</span>
-						<span>🔱 745</span>
-					</div>
-				<div class="stars-today">⭐ 2183 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appwrite/appwrite" target="_blank">
-    
-
-
-      
-        appwrite /
-
-      appwrite</a></p>
-				<p>
-      Build like a team of hundreds_
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51333</span>
-						<span>🔱 4497</span>
-					</div>
-				<div class="stars-today">⭐ 2798 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
-    
-
-
-      
-        All-Hands-AI /
-
-      OpenHands</a></p>
-				<p>
-      🙌 OpenHands: Code Less, Make More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58238</span>
-						<span>🔱 6687</span>
-					</div>
-				<div class="stars-today">⭐ 4087 stars this month</div>
+				<div class="stars-today">⭐ 20181 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +228,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 4677</span>
-						<span>🔱 580</span>
+						<span>⭐ 4681</span>
+						<span>🔱 581</span>
 					</div>
 				<div class="stars-today">⭐ 2878 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stalwartlabs/stalwart" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        stalwartlabs /
+        nautechsystems /
 
-      stalwart</a></p>
+      nautilus_trader</a></p>
 				<p>
-      All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8745</span>
-						<span>🔱 420</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8933</span>
+						<span>🔱 1084</span>
 					</div>
-				<div class="stars-today">⭐ 1198 stars this month</div>
+				<div class="stars-today">⭐ 3039 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
+    
+
+
+      
+        All-Hands-AI /
+
+      OpenHands</a></p>
+				<p>
+      🙌 OpenHands: Code Less, Make More
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58249</span>
+						<span>🔱 6689</span>
+					</div>
+				<div class="stars-today">⭐ 4087 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
+    
+
+
+      
+        netbirdio /
+
+      netbird</a></p>
+				<p>
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15818</span>
+						<span>🔱 745</span>
+					</div>
+				<div class="stars-today">⭐ 2183 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5953</span>
+						<span>🔱 556</span>
+					</div>
+				<div class="stars-today">⭐ 1607 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 306448</span>
-						<span>🔱 50659</span>
+						<span>⭐ 306463</span>
+						<span>🔱 50660</span>
 					</div>
 				<div class="stars-today">⭐ 7321 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
     
 
 
       
-        datawhalechina /
+        sindresorhus /
 
-      self-llm</a></p>
+      awesome</a></p>
 				<p>
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+      😎 Awesome lists about all kinds of interesting topics
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18858</span>
-						<span>🔱 1963</span>
+						<span>🔠 </span>
+						<span>⭐ 369126</span>
+						<span>🔱 29669</span>
 					</div>
-				<div class="stars-today">⭐ 3343 stars this month</div>
+				<div class="stars-today">⭐ 8741 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34694</span>
+						<span>🔱 3455</span>
+					</div>
+				<div class="stars-today">⭐ 3904 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36676</span>
+						<span>🔱 6352</span>
+					</div>
+				<div class="stars-today">⭐ 9108 stars this month</div>
 				</div>
 			</div>
 	

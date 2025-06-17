@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第25周
-date: 2025-06-17T09:58:33Z
+date: 2025-06-17T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43557</span>
-						<span>🔱 4909</span>
+						<span>⭐ 43592</span>
+						<span>🔱 4915</span>
 					</div>
 				<div class="stars-today">⭐ 9238 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 369126</span>
+						<span>🔱 29669</span>
+					</div>
+				<div class="stars-today">⭐ 4504 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2835</span>
-						<span>🔱 425</span>
+						<span>⭐ 2838</span>
+						<span>🔱 426</span>
 					</div>
 				<div class="stars-today">⭐ 708 stars this week</div>
 				</div>
@@ -74,120 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7400</span>
-						<span>🔱 443</span>
+						<span>⭐ 7412</span>
+						<span>🔱 444</span>
 					</div>
 				<div class="stars-today">⭐ 1431 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 369103</span>
-						<span>🔱 29666</span>
-					</div>
-				<div class="stars-today">⭐ 4504 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alphacep/vosk-api" target="_blank">
-    
-
-
-      
-        alphacep /
-
-      vosk-api</a></p>
-				<p>
-      Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12213</span>
-						<span>🔱 1455</span>
-					</div>
-				<div class="stars-today">⭐ 1594 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      lerobot</a></p>
-				<p>
-      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14849</span>
-						<span>🔱 1944</span>
-					</div>
-				<div class="stars-today">⭐ 433 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      self-llm</a></p>
-				<p>
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18858</span>
-						<span>🔱 1963</span>
-					</div>
-				<div class="stars-today">⭐ 2136 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 13293</span>
-						<span>🔱 750</span>
-					</div>
-				<div class="stars-today">⭐ 1162 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +118,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8189</span>
+						<span>⭐ 8216</span>
 						<span>🔱 816</span>
 					</div>
 				<div class="stars-today">⭐ 755 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      lerobot</a></p>
+				<p>
+      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14860</span>
+						<span>🔱 1948</span>
+					</div>
+				<div class="stars-today">⭐ 433 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 13731</span>
+						<span>🔱 930</span>
+					</div>
+				<div class="stars-today">⭐ 341 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 24251</span>
+						<span>⭐ 24253</span>
 						<span>🔱 3519</span>
 					</div>
 				<div class="stars-today">⭐ 249 stars this week</div>
@@ -236,66 +190,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        frdel /
+        anthropics /
 
-      agent-zero</a></p>
+      claude-code</a></p>
 				<p>
-      Agent Zero AI framework
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10007</span>
-						<span>🔱 1953</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 13310</span>
+						<span>🔱 750</span>
 					</div>
-				<div class="stars-today">⭐ 590 stars this week</div>
+				<div class="stars-today">⭐ 1162 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
+				<p><a href="https://github.com/alphacep/vosk-api" target="_blank">
     
 
 
       
-        XTLS /
+        alphacep /
 
-      Xray-core</a></p>
+      vosk-api</a></p>
 				<p>
-      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+      Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 29417</span>
-						<span>🔱 4366</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12221</span>
+						<span>🔱 1455</span>
 					</div>
-				<div class="stars-today">⭐ 409 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 13728</span>
-						<span>🔱 930</span>
-					</div>
-				<div class="stars-today">⭐ 341 stars this week</div>
+				<div class="stars-today">⭐ 1594 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8256</span>
+						<span>⭐ 8261</span>
 						<span>🔱 717</span>
 					</div>
 				<div class="stars-today">⭐ 1060 stars this week</div>
@@ -322,24 +256,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/eyaltoledano/claude-task-master" target="_blank">
+				<p><a href="https://github.com/bol-van/zapret" target="_blank">
     
 
 
       
-        eyaltoledano /
+        bol-van /
 
-      claude-task-master</a></p>
+      zapret</a></p>
 				<p>
-      An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+      DPI bypass multi platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 15288</span>
-						<span>🔱 1563</span>
+						<span>🔠 C</span>
+						<span>⭐ 11538</span>
+						<span>🔱 812</span>
 					</div>
-				<div class="stars-today">⭐ 1983 stars this week</div>
+				<div class="stars-today">⭐ 134 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+    
+
+
+      
+        clash-verge-rev /
+
+      clash-verge-rev</a></p>
+				<p>
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 61822</span>
+						<span>🔱 4714</span>
+					</div>
+				<div class="stars-today">⭐ 852 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      self-llm</a></p>
+				<p>
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 18868</span>
+						<span>🔱 1963</span>
+					</div>
+				<div class="stars-today">⭐ 2136 stars this week</div>
 				</div>
 			</div>
 	
