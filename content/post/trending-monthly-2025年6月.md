@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-18T09:58:39Z
+date: 2025-06-18T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18639</span>
+						<span>⭐ 18653</span>
 						<span>🔱 1807</span>
 					</div>
 				<div class="stars-today">⭐ 16004 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/WSL" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      WSL</a></p>
-				<p>
-      Windows Subsystem for Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 28642</span>
-						<span>🔱 1377</span>
-					</div>
-				<div class="stars-today">⭐ 10359 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25415</span>
-						<span>🔱 3903</span>
+						<span>⭐ 25423</span>
+						<span>🔱 3904</span>
 					</div>
 				<div class="stars-today">⭐ 6302 stars this month</div>
 				</div>
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32292</span>
-						<span>🔱 5312</span>
+						<span>⭐ 32296</span>
+						<span>🔱 5313</span>
 					</div>
 				<div class="stars-today">⭐ 4415 stars this month</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 29725</span>
-						<span>🔱 5984</span>
+						<span>⭐ 29746</span>
+						<span>🔱 5993</span>
 					</div>
 				<div class="stars-today">⭐ 1851 stars this month</div>
 				</div>
@@ -140,76 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13504</span>
-						<span>🔱 760</span>
+						<span>⭐ 13513</span>
+						<span>🔱 762</span>
 					</div>
 				<div class="stars-today">⭐ 4735 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15524</span>
-						<span>🔱 1321</span>
-					</div>
-				<div class="stars-today">⭐ 3983 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7528</span>
-						<span>🔱 449</span>
-					</div>
-				<div class="stars-today">⭐ 3307 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 39854</span>
-						<span>🔱 8842</span>
-					</div>
-				<div class="stars-today">⭐ 18092 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 4777</span>
-						<span>🔱 597</span>
+						<span>⭐ 4784</span>
+						<span>🔱 598</span>
 					</div>
 				<div class="stars-today">⭐ 2949 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7535</span>
+						<span>🔱 449</span>
+					</div>
+				<div class="stars-today">⭐ 3307 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      courses</a></p>
+				<p>
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15528</span>
+						<span>🔱 1321</span>
+					</div>
+				<div class="stars-today">⭐ 3983 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8977</span>
+						<span>⭐ 8981</span>
 						<span>🔱 1088</span>
 					</div>
 				<div class="stars-today">⭐ 3104 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/WSL" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      WSL</a></p>
+				<p>
+      Windows Subsystem for Linux
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 28649</span>
+						<span>🔱 1377</span>
+					</div>
+				<div class="stars-today">⭐ 10359 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5987</span>
+						<span>🔱 559</span>
+					</div>
+				<div class="stars-today">⭐ 1651 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry</a></p>
+				<p>
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1501</span>
+						<span>🔱 109</span>
+					</div>
+				<div class="stars-today">⭐ 1337 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 39884</span>
+						<span>🔱 8850</span>
+					</div>
+				<div class="stars-today">⭐ 18092 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 369494</span>
+						<span>🔱 29696</span>
+					</div>
+				<div class="stars-today">⭐ 8953 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58424</span>
-						<span>🔱 6711</span>
+						<span>⭐ 58441</span>
+						<span>🔱 6715</span>
 					</div>
 				<div class="stars-today">⭐ 4153 stars this month</div>
 				</div>
@@ -294,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15864</span>
+						<span>⭐ 15870</span>
 						<span>🔱 745</span>
 					</div>
 				<div class="stars-today">⭐ 2254 stars this month</div>
@@ -302,24 +368,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
     
 
 
       
-        microsoft /
+        anthropics /
 
-      RD-Agent</a></p>
+      anthropic-cookbook</a></p>
 				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5987</span>
-						<span>🔱 558</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14983</span>
+						<span>🔱 1648</span>
 					</div>
-				<div class="stars-today">⭐ 1651 stars this month</div>
+				<div class="stars-today">⭐ 2395 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,76 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 306590</span>
-						<span>🔱 50668</span>
+						<span>⭐ 306604</span>
+						<span>🔱 50671</span>
 					</div>
 				<div class="stars-today">⭐ 7408 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
     
 
 
       
-        sindresorhus /
+        datawhalechina /
 
-      awesome</a></p>
+      self-llm</a></p>
 				<p>
-      😎 Awesome lists about all kinds of interesting topics
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 369462</span>
-						<span>🔱 29691</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 18959</span>
+						<span>🔱 1970</span>
 					</div>
-				<div class="stars-today">⭐ 8953 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Memory for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34764</span>
-						<span>🔱 3465</span>
-					</div>
-				<div class="stars-today">⭐ 3731 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36745</span>
-						<span>🔱 6370</span>
-					</div>
-				<div class="stars-today">⭐ 9079 stars this month</div>
+				<div class="stars-today">⭐ 3473 stars this month</div>
 				</div>
 			</div>
 	

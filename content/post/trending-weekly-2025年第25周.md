@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第25周
-date: 2025-06-18T09:58:39Z
+date: 2025-06-18T11:58:35Z
 categories:
 - weekly
 keywords:
@@ -30,98 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44045</span>
-						<span>🔱 4953</span>
+						<span>⭐ 44086</span>
+						<span>🔱 4954</span>
 					</div>
 				<div class="stars-today">⭐ 9564 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
     
 
 
       
-        sindresorhus /
+        jdepoix /
 
-      awesome</a></p>
+      youtube-transcript-api</a></p>
 				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 369462</span>
-						<span>🔱 29691</span>
-					</div>
-				<div class="stars-today">⭐ 4606 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwohlwend/boltz" target="_blank">
-    
-
-
-      
-        jwohlwend /
-
-      boltz</a></p>
-				<p>
-      Official repository for the Boltz biomolecular interaction models
+      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2864</span>
-						<span>🔱 431</span>
+						<span>⭐ 5204</span>
+						<span>🔱 553</span>
 					</div>
-				<div class="stars-today">⭐ 654 stars this week</div>
+				<div class="stars-today">⭐ 1151 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
     
 
 
       
-        tensorzero /
+        menloresearch /
 
-      tensorzero</a></p>
+      jan</a></p>
 				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7528</span>
-						<span>🔱 449</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31478</span>
+						<span>🔱 1844</span>
 					</div>
-				<div class="stars-today">⭐ 1300 stars this week</div>
+				<div class="stars-today">⭐ 803 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/vggt" target="_blank">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
     
 
 
       
-        facebookresearch /
+        anthropics /
 
-      vggt</a></p>
+      anthropic-cookbook</a></p>
 				<p>
-      [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8345</span>
-						<span>🔱 824</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14983</span>
+						<span>🔱 1648</span>
 					</div>
-				<div class="stars-today">⭐ 865 stars this week</div>
+				<div class="stars-today">⭐ 1601 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,52 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14919</span>
-						<span>🔱 1955</span>
+						<span>⭐ 14923</span>
+						<span>🔱 1957</span>
 					</div>
 				<div class="stars-today">⭐ 567 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+				<p><a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank">
     
 
 
       
-        Flowseal /
+        zijie0 /
 
-      zapret-discord-youtube</a></p>
-				<p></p>
+      HumanSystemOptimization</a></p>
+				<p>
+      健康学习到150岁 - 人体系统调优不完全指南
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 13822</span>
-						<span>🔱 930</span>
+						<span>🔠 </span>
+						<span>⭐ 18231</span>
+						<span>🔱 1310</span>
 					</div>
-				<div class="stars-today">⭐ 348 stars this week</div>
+				<div class="stars-today">⭐ 1554 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/filamentphp/filament" target="_blank">
+				<p><a href="https://github.com/facebookresearch/vggt" target="_blank">
     
 
 
       
-        filamentphp /
+        facebookresearch /
 
-      filament</a></p>
+      vggt</a></p>
 				<p>
-      A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
+      [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 24295</span>
-						<span>🔱 3521</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8355</span>
+						<span>🔱 824</span>
 					</div>
-				<div class="stars-today">⭐ 264 stars this week</div>
+				<div class="stars-today">⭐ 865 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6593</span>
+						<span>🔱 869</span>
+					</div>
+				<div class="stars-today">⭐ 908 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7535</span>
+						<span>🔱 449</span>
+					</div>
+				<div class="stars-today">⭐ 1300 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,120 +228,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13504</span>
-						<span>🔱 760</span>
+						<span>⭐ 13513</span>
+						<span>🔱 762</span>
 					</div>
 				<div class="stars-today">⭐ 1236 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alphacep/vosk-api" target="_blank">
+				<p><a href="https://github.com/filamentphp/filament" target="_blank">
     
 
 
       
-        alphacep /
+        filamentphp /
 
-      vosk-api</a></p>
+      filament</a></p>
 				<p>
-      Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+      A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12306</span>
-						<span>🔱 1463</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 24299</span>
+						<span>🔱 3522</span>
 					</div>
-				<div class="stars-today">⭐ 973 stars this week</div>
+				<div class="stars-today">⭐ 264 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/confident-ai/deepeval" target="_blank">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
     
 
 
       
-        confident-ai /
+        Flowseal /
 
-      deepeval</a></p>
-				<p>
-      The LLM Evaluation Framework
-    </p>
+      zapret-discord-youtube</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8314</span>
-						<span>🔱 719</span>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 13837</span>
+						<span>🔱 930</span>
 					</div>
-				<div class="stars-today">⭐ 1093 stars this week</div>
+				<div class="stars-today">⭐ 348 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bol-van/zapret" target="_blank">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
     
 
 
       
-        bol-van /
+        sindresorhus /
 
-      zapret</a></p>
+      awesome</a></p>
 				<p>
-      DPI bypass multi platform
+      😎 Awesome lists about all kinds of interesting topics
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 11559</span>
-						<span>🔱 813</span>
+						<span>🔠 </span>
+						<span>⭐ 369494</span>
+						<span>🔱 29696</span>
 					</div>
-				<div class="stars-today">⭐ 144 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
-    
-
-
-      
-        clash-verge-rev /
-
-      clash-verge-rev</a></p>
-				<p>
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 61961</span>
-						<span>🔱 4724</span>
-					</div>
-				<div class="stars-today">⭐ 873 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      self-llm</a></p>
-				<p>
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18956</span>
-						<span>🔱 1970</span>
-					</div>
-				<div class="stars-today">⭐ 2175 stars this week</div>
+				<div class="stars-today">⭐ 4606 stars this week</div>
 				</div>
 			</div>
 	
