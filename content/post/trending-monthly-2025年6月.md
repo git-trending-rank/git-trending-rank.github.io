@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-19T09:58:54Z
+date: 2025-06-19T11:58:55Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18779</span>
-						<span>🔱 1820</span>
+						<span>⭐ 18793</span>
+						<span>🔱 1822</span>
 					</div>
 				<div class="stars-today">⭐ 16163 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25484</span>
+						<span>⭐ 25486</span>
 						<span>🔱 3911</span>
 					</div>
 				<div class="stars-today">⭐ 6353 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32361</span>
+						<span>⭐ 32371</span>
 						<span>🔱 5326</span>
 					</div>
 				<div class="stars-today">⭐ 4488 stars this month</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 30128</span>
-						<span>🔱 6071</span>
+						<span>⭐ 30241</span>
+						<span>🔱 6082</span>
 					</div>
 				<div class="stars-today">⭐ 2131 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13689</span>
-						<span>🔱 769</span>
+						<span>⭐ 13706</span>
+						<span>🔱 770</span>
 					</div>
 				<div class="stars-today">⭐ 4918 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 4865</span>
-						<span>🔱 605</span>
+						<span>⭐ 4871</span>
+						<span>🔱 606</span>
 					</div>
 				<div class="stars-today">⭐ 3045 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7613</span>
-						<span>🔱 455</span>
-					</div>
-				<div class="stars-today">⭐ 3398 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15574</span>
+						<span>⭐ 15576</span>
 						<span>🔱 1332</span>
 					</div>
 				<div class="stars-today">⭐ 4039 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7624</span>
+						<span>🔱 455</span>
+					</div>
+				<div class="stars-today">⭐ 3398 stars this month</div>
 				</div>
 			</div>
 	
@@ -207,53 +207,163 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 9032</span>
-						<span>🔱 1090</span>
+						<span>🔱 1092</span>
 					</div>
 				<div class="stars-today">⭐ 3135 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/WSL" target="_blank">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
     
 
 
       
-        microsoft /
+        sindresorhus /
 
-      WSL</a></p>
+      awesome</a></p>
 				<p>
-      Windows Subsystem for Linux
+      😎 Awesome lists about all kinds of interesting topics
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 28683</span>
-						<span>🔱 1378</span>
+						<span>🔠 </span>
+						<span>⭐ 369834</span>
+						<span>🔱 29723</span>
 					</div>
-				<div class="stars-today">⭐ 10405 stars this month</div>
+				<div class="stars-today">⭐ 9187 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
     
 
 
       
-        microsoft /
+        anthropics /
 
-      RD-Agent</a></p>
+      anthropic-cookbook</a></p>
 				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16058</span>
+						<span>🔱 1703</span>
+					</div>
+				<div class="stars-today">⭐ 2942 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
+    
+
+
+      
+        menloresearch /
+
+      jan</a></p>
+				<p>
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31906</span>
+						<span>🔱 1866</span>
+					</div>
+				<div class="stars-today">⭐ 2692 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
+    
+
+
+      
+        All-Hands-AI /
+
+      OpenHands</a></p>
+				<p>
+      🙌 OpenHands: Code Less, Make More
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6014</span>
-						<span>🔱 564</span>
+						<span>⭐ 58607</span>
+						<span>🔱 6744</span>
 					</div>
-				<div class="stars-today">⭐ 1674 stars this month</div>
+				<div class="stars-today">⭐ 4334 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
+    
+
+
+      
+        netbirdio /
+
+      netbird</a></p>
+				<p>
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15912</span>
+						<span>🔱 748</span>
+					</div>
+				<div class="stars-today">⭐ 2303 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 306717</span>
+						<span>🔱 50692</span>
+					</div>
+				<div class="stars-today">⭐ 7464 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      self-llm</a></p>
+				<p>
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 19039</span>
+						<span>🔱 1972</span>
+					</div>
+				<div class="stars-today">⭐ 3536 stars this month</div>
 				</div>
 			</div>
 	
@@ -276,160 +386,6 @@ keywords:
 						<span>🔱 110</span>
 					</div>
 				<div class="stars-today">⭐ 1316 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 40129</span>
-						<span>🔱 8906</span>
-					</div>
-				<div class="stars-today">⭐ 16515 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 369810</span>
-						<span>🔱 29723</span>
-					</div>
-				<div class="stars-today">⭐ 9187 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/All-Hands-AI/OpenHands" target="_blank">
-    
-
-
-      
-        All-Hands-AI /
-
-      OpenHands</a></p>
-				<p>
-      🙌 OpenHands: Code Less, Make More
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58590</span>
-						<span>🔱 6742</span>
-					</div>
-				<div class="stars-today">⭐ 4334 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
-    
-
-
-      
-        netbirdio /
-
-      netbird</a></p>
-				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 15909</span>
-						<span>🔱 748</span>
-					</div>
-				<div class="stars-today">⭐ 2303 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      anthropic-cookbook</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16006</span>
-						<span>🔱 1702</span>
-					</div>
-				<div class="stars-today">⭐ 2942 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 306708</span>
-						<span>🔱 50694</span>
-					</div>
-				<div class="stars-today">⭐ 7464 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      self-llm</a></p>
-				<p>
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19034</span>
-						<span>🔱 1972</span>
-					</div>
-				<div class="stars-today">⭐ 3536 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-19
-date: 2025-06-19T09:58:54Z
+date: 2025-06-19T11:58:55Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
     
 
 
       
-        automatisch /
+        DataExpert-io /
 
-      automatisch</a></p>
+      data-engineer-handbook</a></p>
 				<p>
-      The open source Zapier alternative. Build workflow automation without spending time and money.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10751</span>
-						<span>🔱 785</span>
-					</div>
-				<div class="stars-today">⭐ 452 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      anthropic-cookbook</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      This is a repo with links to everything you'd ever want to learn about data engineering
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16006</span>
-						<span>🔱 1702</span>
+						<span>⭐ 30241</span>
+						<span>🔱 6082</span>
 					</div>
-				<div class="stars-today">⭐ 522 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      fluentui-system-icons</a></p>
-				<p>
-      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 8751</span>
-						<span>🔱 660</span>
-					</div>
-				<div class="stars-today">⭐ 991 stars today</div>
+				<div class="stars-today">⭐ 265 stars today</div>
 				</div>
 			</div>
 	
@@ -96,98 +52,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31867</span>
-						<span>🔱 1864</span>
+						<span>⭐ 31906</span>
+						<span>🔱 1866</span>
 					</div>
 				<div class="stars-today">⭐ 1759 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+				<p><a href="https://github.com/dail8859/NotepadNext" target="_blank">
     
 
 
       
-        linshenkx /
+        dail8859 /
 
-      prompt-optimizer</a></p>
+      NotepadNext</a></p>
 				<p>
-      一款提示词优化器，助力于编写高质量的提示词
+      A cross-platform, reimplementation of Notepad++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 10565</span>
+						<span>🔱 637</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+    
+
+
+      
+        automatisch /
+
+      automatisch</a></p>
+				<p>
+      The open source Zapier alternative. Build workflow automation without spending time and money.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10809</span>
+						<span>🔱 786</span>
+					</div>
+				<div class="stars-today">⭐ 452 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      fluentui-system-icons</a></p>
+				<p>
+      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 8761</span>
+						<span>🔱 660</span>
+					</div>
+				<div class="stars-today">⭐ 991 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
+    
+
+
+      
+        kortix-ai /
+
+      suna</a></p>
+				<p>
+      Suna - Open Source Generalist AI Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7040</span>
-						<span>🔱 900</span>
+						<span>⭐ 14698</span>
+						<span>🔱 2213</span>
 					</div>
-				<div class="stars-today">⭐ 169 stars today</div>
+				<div class="stars-today">⭐ 102 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+				<p><a href="https://github.com/cloudflare/ai" target="_blank">
     
 
 
       
-        DataExpert-io /
+        cloudflare /
 
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 30128</span>
-						<span>🔱 6071</span>
-					</div>
-				<div class="stars-today">⭐ 265 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
-    
-
-
-      
-        nocodb /
-
-      nocodb</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source Airtable Alternative
-    </p>
+      ai</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 55221</span>
-						<span>🔱 3950</span>
+						<span>⭐ 366</span>
+						<span>🔱 118</span>
 					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/infiniflow/ragflow" target="_blank">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
     
 
 
       
-        infiniflow /
+        nvm-sh /
 
-      ragflow</a></p>
+      nvm</a></p>
 				<p>
-      RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56951</span>
-						<span>🔱 5590</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 85272</span>
+						<span>🔱 8933</span>
 					</div>
-				<div class="stars-today">⭐ 549 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
@@ -206,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Cuda</span>
-						<span>⭐ 8047</span>
+						<span>⭐ 8055</span>
 						<span>🔱 810</span>
 					</div>
 				<div class="stars-today">⭐ 171 stars today</div>
@@ -228,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8674</span>
+						<span>⭐ 8686</span>
 						<span>🔱 326</span>
 					</div>
 				<div class="stars-today">⭐ 194 stars today</div>
@@ -236,90 +234,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/lowcode-engine" target="_blank">
+				<p><a href="https://github.com/ollama/ollama" target="_blank">
     
 
 
       
-        alibaba /
+        ollama /
 
-      lowcode-engine</a></p>
+      ollama</a></p>
 				<p>
-      An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+      Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15339</span>
-						<span>🔱 2652</span>
+						<span>🔠 Go</span>
+						<span>⭐ 144098</span>
+						<span>🔱 12127</span>
+					</div>
+				<div class="stars-today">⭐ 120 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
+    
+
+
+      
+        vllm-project /
+
+      vllm</a></p>
+				<p>
+      A high-throughput and memory-efficient inference and serving engine for LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50060</span>
+						<span>🔱 8175</span>
+					</div>
+				<div class="stars-today">⭐ 92 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/espressif/esp-idf" target="_blank">
+    
+
+
+      
+        espressif /
+
+      esp-idf</a></p>
+				<p>
+      Espressif IoT Development Framework. Official development framework for Espressif SoCs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 15503</span>
+						<span>🔱 7709</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moby/buildkit" target="_blank">
+				<p><a href="https://github.com/firebase/genkit" target="_blank">
     
 
 
       
-        moby /
+        firebase /
 
-      buildkit</a></p>
+      genkit</a></p>
 				<p>
-      concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+      An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 8968</span>
-						<span>🔱 1248</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2106</span>
+						<span>🔱 288</span>
 					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
+				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
     
 
 
       
-        YimMenu /
+        anthropics /
 
-      YimMenuV2</a></p>
+      anthropic-cookbook</a></p>
 				<p>
-      Experimental menu for GTA 5: Enhanced
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 408</span>
-						<span>🔱 117</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16058</span>
+						<span>🔱 1703</span>
 					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
+				<div class="stars-today">⭐ 522 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/MystenLabs/sui" target="_blank">
     
 
 
       
-        nvm-sh /
+        MystenLabs /
 
-      nvm</a></p>
+      sui</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+       Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 85264</span>
-						<span>🔱 8933</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 7037</span>
+						<span>🔱 11532</span>
 					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
+				<div class="stars-today">⭐ 5 stars today</div>
 				</div>
 			</div>
 	

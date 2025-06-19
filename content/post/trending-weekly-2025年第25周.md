@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第25周
-date: 2025-06-19T09:58:54Z
+date: 2025-06-19T11:58:54Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44325</span>
-						<span>🔱 4986</span>
+						<span>⭐ 44341</span>
+						<span>🔱 4987</span>
 					</div>
 				<div class="stars-today">⭐ 9491 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
+				<p><a href="https://github.com/FareedKhan-dev/all-rag-techniques" target="_blank">
     
 
 
       
-        jdepoix /
+        FareedKhan-dev /
 
-      youtube-transcript-api</a></p>
+      all-rag-techniques</a></p>
 				<p>
-      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+      Implementation of all RAG techniques in a simpler way
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5277</span>
-						<span>🔱 554</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 4871</span>
+						<span>🔱 606</span>
 					</div>
-				<div class="stars-today">⭐ 1140 stars this week</div>
+				<div class="stars-today">⭐ 2468 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31867</span>
-						<span>🔱 1864</span>
+						<span>⭐ 31906</span>
+						<span>🔱 1866</span>
 					</div>
 				<div class="stars-today">⭐ 2152 stars this week</div>
 				</div>
@@ -96,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16006</span>
-						<span>🔱 1702</span>
+						<span>⭐ 16058</span>
+						<span>🔱 1703</span>
 					</div>
 				<div class="stars-today">⭐ 2103 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
+				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
     
 
 
       
-        huggingface /
+        jdepoix /
 
-      lerobot</a></p>
+      youtube-transcript-api</a></p>
 				<p>
-      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14974</span>
-						<span>🔱 1963</span>
+						<span>⭐ 5281</span>
+						<span>🔱 554</span>
 					</div>
-				<div class="stars-today">⭐ 580 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank">
-    
-
-
-      
-        zijie0 /
-
-      HumanSystemOptimization</a></p>
-				<p>
-      健康学习到150岁 - 人体系统调优不完全指南
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 18355</span>
-						<span>🔱 1315</span>
-					</div>
-				<div class="stars-today">⭐ 1294 stars this week</div>
+				<div class="stars-today">⭐ 1140 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8462</span>
+						<span>⭐ 8469</span>
 						<span>🔱 834</span>
 					</div>
 				<div class="stars-today">⭐ 979 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 30241</span>
+						<span>🔱 6082</span>
+					</div>
+				<div class="stars-today">⭐ 805 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7040</span>
-						<span>🔱 900</span>
+						<span>⭐ 7062</span>
+						<span>🔱 903</span>
 					</div>
 				<div class="stars-today">⭐ 1066 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+				<p><a href="https://github.com/huggingface/lerobot" target="_blank">
     
 
 
       
-        tensorzero /
+        huggingface /
 
-      tensorzero</a></p>
+      lerobot</a></p>
 				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7613</span>
-						<span>🔱 455</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14982</span>
+						<span>🔱 1963</span>
 					</div>
-				<div class="stars-today">⭐ 1008 stars this week</div>
+				<div class="stars-today">⭐ 580 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13689</span>
-						<span>🔱 769</span>
+						<span>⭐ 13706</span>
+						<span>🔱 770</span>
 					</div>
 				<div class="stars-today">⭐ 1293 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/filamentphp/filament" target="_blank">
-    
-
-
-      
-        filamentphp /
-
-      filament</a></p>
-				<p>
-      A collection of beautiful full-stack components for Laravel. The perfect starting point for your next app. Using Livewire, Alpine.js and Tailwind CSS.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 24333</span>
-						<span>🔱 3522</span>
-					</div>
-				<div class="stars-today">⭐ 283 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 13887</span>
+						<span>⭐ 13892</span>
 						<span>🔱 932</span>
 					</div>
 				<div class="stars-today">⭐ 404 stars this week</div>
@@ -278,24 +256,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+				<p><a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank">
     
 
 
       
-        sindresorhus /
+        zijie0 /
 
-      awesome</a></p>
+      HumanSystemOptimization</a></p>
 				<p>
-      😎 Awesome lists about all kinds of interesting topics
+      健康学习到150岁 - 人体系统调优不完全指南
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 369810</span>
-						<span>🔱 29723</span>
+						<span>⭐ 18370</span>
+						<span>🔱 1315</span>
 					</div>
-				<div class="stars-today">⭐ 4306 stars this week</div>
+				<div class="stars-today">⭐ 1294 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7624</span>
+						<span>🔱 455</span>
+					</div>
+				<div class="stars-today">⭐ 1008 stars this week</div>
 				</div>
 			</div>
 	
