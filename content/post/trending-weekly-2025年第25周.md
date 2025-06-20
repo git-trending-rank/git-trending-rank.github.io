@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第25周
-date: 2025-06-20T09:58:33Z
+date: 2025-06-20T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44683</span>
-						<span>🔱 5041</span>
+						<span>⭐ 44709</span>
+						<span>🔱 5047</span>
 					</div>
 				<div class="stars-today">⭐ 8405 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 4993</span>
-						<span>🔱 616</span>
+						<span>⭐ 5003</span>
+						<span>🔱 617</span>
 					</div>
 				<div class="stars-today">⭐ 2355 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 32029</span>
+						<span>🔱 6227</span>
+					</div>
+				<div class="stars-today">⭐ 1339 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32380</span>
-						<span>🔱 1891</span>
+						<span>⭐ 32417</span>
+						<span>🔱 1892</span>
 					</div>
 				<div class="stars-today">⭐ 2570 stars this week</div>
 				</div>
@@ -96,76 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16331</span>
-						<span>🔱 1714</span>
+						<span>⭐ 16347</span>
+						<span>🔱 1715</span>
 					</div>
 				<div class="stars-today">⭐ 3012 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
+				<p><a href="https://github.com/xiangechen/chili3d" target="_blank">
     
 
 
       
-        jdepoix /
+        xiangechen /
 
-      youtube-transcript-api</a></p>
+      chili3d</a></p>
 				<p>
-      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+      A web-based 3D CAD application for online model design and editing
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5326</span>
-						<span>🔱 559</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3145</span>
+						<span>🔱 242</span>
 					</div>
-				<div class="stars-today">⭐ 912 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/vggt" target="_blank">
-    
-
-
-      
-        facebookresearch /
-
-      vggt</a></p>
-				<p>
-      [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8565</span>
-						<span>🔱 842</span>
-					</div>
-				<div class="stars-today">⭐ 1062 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 31925</span>
-						<span>🔱 6219</span>
-					</div>
-				<div class="stars-today">⭐ 1339 stars this week</div>
+				<div class="stars-today">⭐ 1754 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7225</span>
-						<span>🔱 916</span>
+						<span>⭐ 7234</span>
+						<span>🔱 920</span>
 					</div>
 				<div class="stars-today">⭐ 1487 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/vggt" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      vggt</a></p>
+				<p>
+      [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8579</span>
+						<span>🔱 842</span>
+					</div>
+				<div class="stars-today">⭐ 1062 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15048</span>
-						<span>🔱 1973</span>
+						<span>⭐ 15052</span>
+						<span>🔱 1974</span>
 					</div>
 				<div class="stars-today">⭐ 599 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 13976</span>
+						<span>🔱 937</span>
+					</div>
+				<div class="stars-today">⭐ 407 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
+    
+
+
+      
+        jdepoix /
+
+      youtube-transcript-api</a></p>
+				<p>
+      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5329</span>
+						<span>🔱 559</span>
+					</div>
+				<div class="stars-today">⭐ 912 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepseek-ai/DeepEP" target="_blank">
+    
+
+
+      
+        deepseek-ai /
+
+      DeepEP</a></p>
+				<p>
+      DeepEP: an efficient expert-parallel communication library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Cuda</span>
+						<span>⭐ 8141</span>
+						<span>🔱 813</span>
+					</div>
+				<div class="stars-today">⭐ 345 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13909</span>
+						<span>⭐ 13926</span>
 						<span>🔱 782</span>
 					</div>
 				<div class="stars-today">⭐ 1328 stars this week</div>
@@ -236,44 +300,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+				<p><a href="https://github.com/php/frankenphp" target="_blank">
     
 
 
       
-        Flowseal /
+        php /
 
-      zapret-discord-youtube</a></p>
-				<p></p>
+      frankenphp</a></p>
+				<p>
+      🧟 The modern PHP app server
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 13956</span>
-						<span>🔱 937</span>
+						<span>🔠 Go</span>
+						<span>⭐ 8853</span>
+						<span>🔱 330</span>
 					</div>
-				<div class="stars-today">⭐ 407 stars this week</div>
+				<div class="stars-today">⭐ 672 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank">
+				<p><a href="https://github.com/ever-co/ever-gauzy" target="_blank">
     
 
 
       
-        zijie0 /
+        ever-co /
 
-      HumanSystemOptimization</a></p>
+      ever-gauzy</a></p>
 				<p>
-      健康学习到150岁 - 人体系统调优不完全指南
+      Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 18474</span>
-						<span>🔱 1322</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2799</span>
+						<span>🔱 626</span>
 					</div>
-				<div class="stars-today">⭐ 1116 stars this week</div>
+				<div class="stars-today">⭐ 153 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7703</span>
+						<span>⭐ 7707</span>
 						<span>🔱 462</span>
 					</div>
 				<div class="stars-today">⭐ 947 stars this week</div>
