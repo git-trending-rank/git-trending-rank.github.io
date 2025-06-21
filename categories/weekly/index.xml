@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 21 Jun 2025 09:58:38 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Jun 2025 11:58:34 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第25周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC25%E5%91%A8/</link>
-        <pubDate>Sat, 21 Jun 2025 09:58:38 +0000</pubDate>
+        <pubDate>Sat, 21 Jun 2025 11:58:34 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC25%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,46 +19,24 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/menloresearch/jan&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Shubhamsaboo /
+        menloresearch /
 
-      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
+      jan&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 44976&lt;/span&gt;
-						&lt;span&gt;🔱 5085&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 32623&lt;/span&gt;
+						&lt;span&gt;🔱 1905&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6594 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/FareedKhan-dev/all-rag-techniques&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        FareedKhan-dev /
-
-      all-rag-techniques&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Implementation of all RAG techniques in a simpler way
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 5092&lt;/span&gt;
-						&lt;span&gt;🔱 626&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1496 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3064 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,32 +55,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 33022&lt;/span&gt;
-						&lt;span&gt;🔱 6325&lt;/span&gt;
+						&lt;span&gt;⭐ 33072&lt;/span&gt;
+						&lt;span&gt;🔱 6334&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2999 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/menloresearch/jan&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        menloresearch /
-
-      jan&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32608&lt;/span&gt;
-						&lt;span&gt;🔱 1905&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3064 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,7 +77,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16536&lt;/span&gt;
+						&lt;span&gt;⭐ 16547&lt;/span&gt;
 						&lt;span&gt;🔱 1726&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3253 stars this week&lt;/div&gt;
@@ -129,24 +85,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/xiangechen/chili3d&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        xiangechen /
+        Shubhamsaboo /
 
-      chili3d&lt;/a&gt;&lt;/p&gt;
+      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A web-based 3D CAD application for online model design and editing
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3179&lt;/span&gt;
-						&lt;span&gt;🔱 243&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 44993&lt;/span&gt;
+						&lt;span&gt;🔱 5089&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1099 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6594 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,10 +121,52 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 7333&lt;/span&gt;
+						&lt;span&gt;⭐ 7341&lt;/span&gt;
 						&lt;span&gt;🔱 929&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1640 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/FareedKhan-dev/all-rag-techniques&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        FareedKhan-dev /
+
+      all-rag-techniques&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Implementation of all RAG techniques in a simpler way
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 5101&lt;/span&gt;
+						&lt;span&gt;🔱 626&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1496 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
+						&lt;span&gt;⭐ 14108&lt;/span&gt;
+						&lt;span&gt;🔱 942&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 466 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,7 +185,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8640&lt;/span&gt;
+						&lt;span&gt;⭐ 8647&lt;/span&gt;
 						&lt;span&gt;🔱 846&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1108 stars this week&lt;/div&gt;
@@ -209,30 +207,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15086&lt;/span&gt;
-						&lt;span&gt;🔱 1980&lt;/span&gt;
+						&lt;span&gt;⭐ 15089&lt;/span&gt;
+						&lt;span&gt;🔱 1981&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 629 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
-						&lt;span&gt;⭐ 14091&lt;/span&gt;
-						&lt;span&gt;🔱 943&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 466 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -251,54 +229,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5364&lt;/span&gt;
+						&lt;span&gt;⭐ 5369&lt;/span&gt;
 						&lt;span&gt;🔱 560&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 725 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/deepseek-ai/DeepEP&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        deepseek-ai /
-
-      DeepEP&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      DeepEP: an efficient expert-parallel communication library
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Cuda&lt;/span&gt;
-						&lt;span&gt;⭐ 8154&lt;/span&gt;
-						&lt;span&gt;🔱 816&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 387 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 14078&lt;/span&gt;
-						&lt;span&gt;🔱 790&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1359 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -317,10 +251,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 8973&lt;/span&gt;
-						&lt;span&gt;🔱 334&lt;/span&gt;
+						&lt;span&gt;⭐ 8981&lt;/span&gt;
+						&lt;span&gt;🔱 335&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 817 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/deepseek-ai/DeepEP&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        deepseek-ai /
+
+      DeepEP&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      DeepEP: an efficient expert-parallel communication library
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Cuda&lt;/span&gt;
+						&lt;span&gt;⭐ 8156&lt;/span&gt;
+						&lt;span&gt;🔱 816&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 387 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/YaLTeR/niri&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        YaLTeR /
+
+      niri&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A scrollable-tiling Wayland compositor.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 8955&lt;/span&gt;
+						&lt;span&gt;🔱 297&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 606 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -339,7 +317,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2854&lt;/span&gt;
+						&lt;span&gt;⭐ 2859&lt;/span&gt;
 						&lt;span&gt;🔱 626&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 168 stars this week&lt;/div&gt;
@@ -347,24 +325,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tensorzero/tensorzero&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        tensorzero /
+        anthropics /
 
-      tensorzero&lt;/a&gt;&lt;/p&gt;
+      claude-code&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 7755&lt;/span&gt;
-						&lt;span&gt;🔱 463&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 14093&lt;/span&gt;
+						&lt;span&gt;🔱 793&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 914 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1359 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

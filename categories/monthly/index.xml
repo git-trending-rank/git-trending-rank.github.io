@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 21 Jun 2025 09:58:39 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Jun 2025 11:58:35 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年6月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</link>
-        <pubDate>Sat, 21 Jun 2025 09:58:39 +0000</pubDate>
+        <pubDate>Sat, 21 Jun 2025 11:58:35 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,7 +33,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 18991&lt;/span&gt;
+						&lt;span&gt;⭐ 18997&lt;/span&gt;
 						&lt;span&gt;🔱 1841&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16306 stars this month&lt;/div&gt;
@@ -55,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 33022&lt;/span&gt;
-						&lt;span&gt;🔱 6325&lt;/span&gt;
+						&lt;span&gt;⭐ 33072&lt;/span&gt;
+						&lt;span&gt;🔱 6334&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4465 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -77,32 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 25605&lt;/span&gt;
-						&lt;span&gt;🔱 3926&lt;/span&gt;
+						&lt;span&gt;⭐ 25607&lt;/span&gt;
+						&lt;span&gt;🔱 3928&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6436 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mindsdb/mindsdb&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        mindsdb /
-
-      mindsdb&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI&#39;s query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you&#39;ll ever need
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 32496&lt;/span&gt;
-						&lt;span&gt;🔱 5338&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4629 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,7 +99,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 5092&lt;/span&gt;
+						&lt;span&gt;⭐ 5101&lt;/span&gt;
 						&lt;span&gt;🔱 626&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3257 stars this month&lt;/div&gt;
@@ -129,46 +107,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mindsdb/mindsdb&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        anthropics /
+        mindsdb /
 
-      claude-code&lt;/a&gt;&lt;/p&gt;
+      mindsdb&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      AI&#39;s query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you&#39;ll ever need
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 14078&lt;/span&gt;
-						&lt;span&gt;🔱 790&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 32502&lt;/span&gt;
+						&lt;span&gt;🔱 5339&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5234 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/courses&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      courses&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Anthropic&#39;s educational courses
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 15654&lt;/span&gt;
-						&lt;span&gt;🔱 1341&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4115 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4629 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,7 +143,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 7755&lt;/span&gt;
+						&lt;span&gt;⭐ 7759&lt;/span&gt;
 						&lt;span&gt;🔱 463&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3537 stars this month&lt;/div&gt;
@@ -195,68 +151,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nautechsystems/nautilus_trader&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A high-performance algorithmic trading platform and event-driven backtester
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9110&lt;/span&gt;
-						&lt;span&gt;🔱 1102&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3204 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/anthropic-cookbook&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/courses&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
         anthropics /
 
-      anthropic-cookbook&lt;/a&gt;&lt;/p&gt;
+      courses&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      Anthropic&#39;s educational courses
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16536&lt;/span&gt;
-						&lt;span&gt;🔱 1726&lt;/span&gt;
+						&lt;span&gt;⭐ 15657&lt;/span&gt;
+						&lt;span&gt;🔱 1341&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4150 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4115 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sindresorhus/awesome&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        sindresorhus /
+        anthropics /
 
-      awesome&lt;/a&gt;&lt;/p&gt;
+      claude-code&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      😎 Awesome lists about all kinds of interesting topics
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 370642&lt;/span&gt;
-						&lt;span&gt;🔱 29758&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 14093&lt;/span&gt;
+						&lt;span&gt;🔱 793&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9616 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5234 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,10 +209,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32608&lt;/span&gt;
+						&lt;span&gt;⭐ 32623&lt;/span&gt;
 						&lt;span&gt;🔱 1905&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3564 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/anthropic-cookbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 16547&lt;/span&gt;
+						&lt;span&gt;🔱 1726&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4150 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nautechsystems/nautilus_trader&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A high-performance algorithmic trading platform and event-driven backtester
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9115&lt;/span&gt;
+						&lt;span&gt;🔱 1103&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3204 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sindresorhus/awesome&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        sindresorhus /
+
+      awesome&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      😎 Awesome lists about all kinds of interesting topics
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 370690&lt;/span&gt;
+						&lt;span&gt;🔱 29760&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9616 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,10 +297,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 44976&lt;/span&gt;
-						&lt;span&gt;🔱 5085&lt;/span&gt;
+						&lt;span&gt;⭐ 44993&lt;/span&gt;
+						&lt;span&gt;🔱 5089&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12666 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/donnemartin/system-design-primer&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 306973&lt;/span&gt;
+						&lt;span&gt;🔱 50735&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7391 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/datawhalechina/self-llm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        datawhalechina /
+
+      self-llm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 19127&lt;/span&gt;
+						&lt;span&gt;🔱 1979&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3632 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/netbirdio/netbird&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        netbirdio /
+
+      netbird&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 16010&lt;/span&gt;
+						&lt;span&gt;🔱 750&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2366 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

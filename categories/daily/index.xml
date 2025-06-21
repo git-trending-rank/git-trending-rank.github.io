@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 21 Jun 2025 09:58:38 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Jun 2025 11:58:34 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-06-21</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-06-21/</link>
-        <pubDate>Sat, 21 Jun 2025 09:58:38 +0000</pubDate>
+        <pubDate>Sat, 21 Jun 2025 11:58:34 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-06-21/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,24 +19,46 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/DataExpert-io/data-engineer-handbook&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/typst/typst&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        DataExpert-io /
+        typst /
 
-      data-engineer-handbook&lt;/a&gt;&lt;/p&gt;
+      typst&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      This is a repo with links to everything you&#39;d ever want to learn about data engineering
+      A new markup-based typesetting system that is powerful and easy to learn.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 42264&lt;/span&gt;
+						&lt;span&gt;🔱 1133&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 58 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/patchy631/ai-engineering-hub&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 33022&lt;/span&gt;
-						&lt;span&gt;🔱 6325&lt;/span&gt;
+						&lt;span&gt;⭐ 10649&lt;/span&gt;
+						&lt;span&gt;🔱 1842&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1810 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 343 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,7 +77,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 11015&lt;/span&gt;
+						&lt;span&gt;⭐ 11028&lt;/span&gt;
 						&lt;span&gt;🔱 665&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 277 stars today&lt;/div&gt;
@@ -63,200 +85,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/automatisch/automatisch&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/DataExpert-io/data-engineer-handbook&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        automatisch /
+        DataExpert-io /
 
-      automatisch&lt;/a&gt;&lt;/p&gt;
+      data-engineer-handbook&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The open source Zapier alternative. Build workflow automation without spending time and money.
+      This is a repo with links to everything you&#39;d ever want to learn about data engineering
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11269&lt;/span&gt;
-						&lt;span&gt;🔱 822&lt;/span&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 33072&lt;/span&gt;
+						&lt;span&gt;🔱 6334&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 291 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/php/frankenphp&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        php /
-
-      frankenphp&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🧟 The modern PHP app server
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 8973&lt;/span&gt;
-						&lt;span&gt;🔱 334&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 172 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/YimMenu/YimMenuV2&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        YimMenu /
-
-      YimMenuV2&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Experimental menu for GTA 5: Enhanced
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 459&lt;/span&gt;
-						&lt;span&gt;🔱 121&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/grafana/loki&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        grafana /
-
-      loki&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Like Prometheus, but for logs.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 25793&lt;/span&gt;
-						&lt;span&gt;🔱 3695&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 21 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Mail-0/Zero&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Mail-0 /
-
-      Zero&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8350&lt;/span&gt;
-						&lt;span&gt;🔱 788&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 52 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vllm-project/vllm&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        vllm-project /
-
-      vllm&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 50356&lt;/span&gt;
-						&lt;span&gt;🔱 8231&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 189 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/gabime/spdlog&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        gabime /
-
-      spdlog&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Fast C++ logging library.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 26472&lt;/span&gt;
-						&lt;span&gt;🔱 4807&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/n8n-io/n8n&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        n8n-io /
-
-      n8n&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 109866&lt;/span&gt;
-						&lt;span&gt;🔱 31670&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 373 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ManimCommunity/manim&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ManimCommunity /
-
-      manim&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A community-maintained Python framework for creating mathematical animations. 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 32576&lt;/span&gt;
-						&lt;span&gt;🔱 2290&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 74 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1810 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,32 +121,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 51848&lt;/span&gt;
-						&lt;span&gt;🔱 7533&lt;/span&gt;
+						&lt;span&gt;⭐ 51890&lt;/span&gt;
+						&lt;span&gt;🔱 7536&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 95 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/anthropic-cookbook&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/DrKLO/Telegram&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        anthropics /
+        DrKLO /
 
-      anthropic-cookbook&lt;/a&gt;&lt;/p&gt;
+      Telegram&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      Telegram for Android source
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16536&lt;/span&gt;
-						&lt;span&gt;🔱 1726&lt;/span&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 26316&lt;/span&gt;
+						&lt;span&gt;🔱 8433&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 295 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 34 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cyclotruc/gitingest&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cyclotruc /
+
+      gitingest&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Replace &#39;hub&#39; with &#39;ingest&#39; in any github url to get a prompt-friendly extract of a codebase 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9519&lt;/span&gt;
+						&lt;span&gt;🔱 730&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 156 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ourongxing/newsnow&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ourongxing /
+
+      newsnow&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Elegant reading of real-time and hottest news
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11346&lt;/span&gt;
+						&lt;span&gt;🔱 3283&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 39 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,32 +209,74 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 9642&lt;/span&gt;
-						&lt;span&gt;🔱 2290&lt;/span&gt;
+						&lt;span&gt;⭐ 9658&lt;/span&gt;
+						&lt;span&gt;🔱 2292&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 40 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/moby/buildkit&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/unionlabs/union&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        moby /
+        unionlabs /
 
-      buildkit&lt;/a&gt;&lt;/p&gt;
+      union&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 9064&lt;/span&gt;
-						&lt;span&gt;🔱 1250&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 67887&lt;/span&gt;
+						&lt;span&gt;🔱 3303&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 19 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 215 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/n8n-io/n8n&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        n8n-io /
+
+      n8n&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 109910&lt;/span&gt;
+						&lt;span&gt;🔱 31686&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 373 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
+						&lt;span&gt;⭐ 14108&lt;/span&gt;
+						&lt;span&gt;🔱 942&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 152 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
