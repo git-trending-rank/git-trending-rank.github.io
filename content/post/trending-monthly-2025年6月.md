@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-21T09:58:39Z
+date: 2025-06-21T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18991</span>
+						<span>⭐ 18997</span>
 						<span>🔱 1841</span>
 					</div>
 				<div class="stars-today">⭐ 16306 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33022</span>
-						<span>🔱 6325</span>
+						<span>⭐ 33072</span>
+						<span>🔱 6334</span>
 					</div>
 				<div class="stars-today">⭐ 4465 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25605</span>
-						<span>🔱 3926</span>
+						<span>⭐ 25607</span>
+						<span>🔱 3928</span>
 					</div>
 				<div class="stars-today">⭐ 6436 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32496</span>
-						<span>🔱 5338</span>
-					</div>
-				<div class="stars-today">⭐ 4629 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 5092</span>
+						<span>⭐ 5101</span>
 						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 3257 stars this month</div>
@@ -126,46 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
     
 
 
       
-        anthropics /
+        mindsdb /
 
-      claude-code</a></p>
+      mindsdb</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 14078</span>
-						<span>🔱 790</span>
+						<span>🔠 Python</span>
+						<span>⭐ 32502</span>
+						<span>🔱 5339</span>
 					</div>
-				<div class="stars-today">⭐ 5234 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15654</span>
-						<span>🔱 1341</span>
-					</div>
-				<div class="stars-today">⭐ 4115 stars this month</div>
+				<div class="stars-today">⭐ 4629 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7755</span>
+						<span>⭐ 7759</span>
 						<span>🔱 463</span>
 					</div>
 				<div class="stars-today">⭐ 3537 stars this month</div>
@@ -192,68 +148,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9110</span>
-						<span>🔱 1102</span>
-					</div>
-				<div class="stars-today">⭐ 3204 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
     
 
 
       
         anthropics /
 
-      anthropic-cookbook</a></p>
+      courses</a></p>
 				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      Anthropic's educational courses
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16536</span>
-						<span>🔱 1726</span>
+						<span>⭐ 15657</span>
+						<span>🔱 1341</span>
 					</div>
-				<div class="stars-today">⭐ 4150 stars this month</div>
+				<div class="stars-today">⭐ 4115 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        sindresorhus /
+        anthropics /
 
-      awesome</a></p>
+      claude-code</a></p>
 				<p>
-      😎 Awesome lists about all kinds of interesting topics
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 370642</span>
-						<span>🔱 29758</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 14093</span>
+						<span>🔱 793</span>
 					</div>
-				<div class="stars-today">⭐ 9616 stars this month</div>
+				<div class="stars-today">⭐ 5234 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32608</span>
+						<span>⭐ 32623</span>
 						<span>🔱 1905</span>
 					</div>
 				<div class="stars-today">⭐ 3564 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16547</span>
+						<span>🔱 1726</span>
+					</div>
+				<div class="stars-today">⭐ 4150 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9115</span>
+						<span>🔱 1103</span>
+					</div>
+				<div class="stars-today">⭐ 3204 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 370690</span>
+						<span>🔱 29760</span>
+					</div>
+				<div class="stars-today">⭐ 9616 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44976</span>
-						<span>🔱 5085</span>
+						<span>⭐ 44993</span>
+						<span>🔱 5089</span>
 					</div>
 				<div class="stars-today">⭐ 12666 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 306973</span>
+						<span>🔱 50735</span>
+					</div>
+				<div class="stars-today">⭐ 7391 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      self-llm</a></p>
+				<p>
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 19127</span>
+						<span>🔱 1979</span>
+					</div>
+				<div class="stars-today">⭐ 3632 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
+    
+
+
+      
+        netbirdio /
+
+      netbird</a></p>
+				<p>
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 16010</span>
+						<span>🔱 750</span>
+					</div>
+				<div class="stars-today">⭐ 2366 stars this month</div>
 				</div>
 			</div>
 	
