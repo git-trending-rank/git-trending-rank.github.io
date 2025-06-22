@@ -6,380 +6,10 @@
         <description>Recent content in Posts on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 22 Jun 2025 05:58:51 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>GitHub 趋势 2025年6月</title>
-        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</link>
-        <pubDate>Sun, 22 Jun 2025 05:58:51 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Fosowl/agenticSeek&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Fosowl /
-
-      agenticSeek&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19056&lt;/span&gt;
-						&lt;span&gt;🔱 1847&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16308 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/DataExpert-io/data-engineer-handbook&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      This is a repo with links to everything you&#39;d ever want to learn about data engineering
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 33324&lt;/span&gt;
-						&lt;span&gt;🔱 6382&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5240 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/qlib&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      qlib&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 25640&lt;/span&gt;
-						&lt;span&gt;🔱 3937&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6412 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/FareedKhan-dev/all-rag-techniques&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        FareedKhan-dev /
-
-      all-rag-techniques&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Implementation of all RAG techniques in a simpler way
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 5161&lt;/span&gt;
-						&lt;span&gt;🔱 629&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3342 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mindsdb/mindsdb&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        mindsdb /
-
-      mindsdb&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI&#39;s query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you&#39;ll ever need
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 32535&lt;/span&gt;
-						&lt;span&gt;🔱 5340&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4665 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tensorzero/tensorzero&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        tensorzero /
-
-      tensorzero&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 7792&lt;/span&gt;
-						&lt;span&gt;🔱 467&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3572 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/courses&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      courses&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Anthropic&#39;s educational courses
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 15682&lt;/span&gt;
-						&lt;span&gt;🔱 1342&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4123 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 14212&lt;/span&gt;
-						&lt;span&gt;🔱 805&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5380 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/menloresearch/jan&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        menloresearch /
-
-      jan&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32734&lt;/span&gt;
-						&lt;span&gt;🔱 1905&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3741 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/anthropic-cookbook&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      anthropic-cookbook&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16625&lt;/span&gt;
-						&lt;span&gt;🔱 1731&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4316 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nautechsystems/nautilus_trader&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A high-performance algorithmic trading platform and event-driven backtester
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9134&lt;/span&gt;
-						&lt;span&gt;🔱 1106&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3223 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sindresorhus/awesome&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sindresorhus /
-
-      awesome&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      😎 Awesome lists about all kinds of interesting topics
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 370934&lt;/span&gt;
-						&lt;span&gt;🔱 29770&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9909 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 45222&lt;/span&gt;
-						&lt;span&gt;🔱 5124&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12870 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/donnemartin/system-design-primer&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 307063&lt;/span&gt;
-						&lt;span&gt;🔱 50738&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7314 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/datawhalechina/self-llm&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        datawhalechina /
-
-      self-llm&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 19156&lt;/span&gt;
-						&lt;span&gt;🔱 1980&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3624 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/netbirdio/netbird&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        netbirdio /
-
-      netbird&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 16152&lt;/span&gt;
-						&lt;span&gt;🔱 753&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2417 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Sun, 22 Jun 2025 07:58:55 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-06-22</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-06-22/</link>
-        <pubDate>Sun, 22 Jun 2025 05:58:50 +0000</pubDate>
+        <pubDate>Sun, 22 Jun 2025 07:58:55 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-06-22/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -403,7 +33,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 42463&lt;/span&gt;
+						&lt;span&gt;⭐ 42489&lt;/span&gt;
 						&lt;span&gt;🔱 1137&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 65 stars today&lt;/div&gt;
@@ -425,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 11076&lt;/span&gt;
-						&lt;span&gt;🔱 1902&lt;/span&gt;
+						&lt;span&gt;⭐ 11118&lt;/span&gt;
+						&lt;span&gt;🔱 1909&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 547 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -447,7 +77,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 11156&lt;/span&gt;
+						&lt;span&gt;⭐ 11166&lt;/span&gt;
 						&lt;span&gt;🔱 674&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 198 stars today&lt;/div&gt;
@@ -469,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 33324&lt;/span&gt;
-						&lt;span&gt;🔱 6382&lt;/span&gt;
+						&lt;span&gt;⭐ 33349&lt;/span&gt;
+						&lt;span&gt;🔱 6390&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1052 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -491,8 +121,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 52258&lt;/span&gt;
-						&lt;span&gt;🔱 7552&lt;/span&gt;
+						&lt;span&gt;⭐ 52299&lt;/span&gt;
+						&lt;span&gt;🔱 7556&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 433 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -513,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 26360&lt;/span&gt;
-						&lt;span&gt;🔱 8443&lt;/span&gt;
+						&lt;span&gt;⭐ 26364&lt;/span&gt;
+						&lt;span&gt;🔱 8444&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 41 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -535,7 +165,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9720&lt;/span&gt;
+						&lt;span&gt;⭐ 9736&lt;/span&gt;
 						&lt;span&gt;🔱 737&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 119 stars today&lt;/div&gt;
@@ -557,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11470&lt;/span&gt;
-						&lt;span&gt;🔱 3291&lt;/span&gt;
+						&lt;span&gt;⭐ 11482&lt;/span&gt;
+						&lt;span&gt;🔱 3294&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -579,8 +209,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 9799&lt;/span&gt;
-						&lt;span&gt;🔱 2301&lt;/span&gt;
+						&lt;span&gt;⭐ 9822&lt;/span&gt;
+						&lt;span&gt;🔱 2302&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 188 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -601,8 +231,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 68076&lt;/span&gt;
-						&lt;span&gt;🔱 3321&lt;/span&gt;
+						&lt;span&gt;⭐ 68093&lt;/span&gt;
+						&lt;span&gt;🔱 3323&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 209 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -623,8 +253,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 110268&lt;/span&gt;
-						&lt;span&gt;🔱 31789&lt;/span&gt;
+						&lt;span&gt;⭐ 110309&lt;/span&gt;
+						&lt;span&gt;🔱 31805&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 544 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -643,7 +273,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
-						&lt;span&gt;⭐ 14179&lt;/span&gt;
+						&lt;span&gt;⭐ 14191&lt;/span&gt;
 						&lt;span&gt;🔱 947&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 134 stars today&lt;/div&gt;
@@ -657,9 +287,379 @@
 </description>
         </item>
         <item>
+        <title>GitHub 趋势 2025年6月</title>
+        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</link>
+        <pubDate>Sun, 22 Jun 2025 07:58:55 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B46%E6%9C%88/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Fosowl/agenticSeek&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 19064&lt;/span&gt;
+						&lt;span&gt;🔱 1848&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16308 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/DataExpert-io/data-engineer-handbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      This is a repo with links to everything you&#39;d ever want to learn about data engineering
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 33349&lt;/span&gt;
+						&lt;span&gt;🔱 6390&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5240 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/qlib&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      qlib&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 25646&lt;/span&gt;
+						&lt;span&gt;🔱 3937&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6412 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/FareedKhan-dev/all-rag-techniques&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        FareedKhan-dev /
+
+      all-rag-techniques&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Implementation of all RAG techniques in a simpler way
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 5166&lt;/span&gt;
+						&lt;span&gt;🔱 629&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3342 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mindsdb/mindsdb&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mindsdb /
+
+      mindsdb&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI&#39;s query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you&#39;ll ever need
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 32539&lt;/span&gt;
+						&lt;span&gt;🔱 5340&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4665 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tensorzero/tensorzero&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tensorzero /
+
+      tensorzero&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 7796&lt;/span&gt;
+						&lt;span&gt;🔱 467&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3572 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/courses&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      courses&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Anthropic&#39;s educational courses
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 15685&lt;/span&gt;
+						&lt;span&gt;🔱 1344&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4123 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 14229&lt;/span&gt;
+						&lt;span&gt;🔱 805&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5380 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/menloresearch/jan&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        menloresearch /
+
+      jan&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 32739&lt;/span&gt;
+						&lt;span&gt;🔱 1906&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3741 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/anthropic-cookbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 16634&lt;/span&gt;
+						&lt;span&gt;🔱 1732&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4316 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nautechsystems/nautilus_trader&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A high-performance algorithmic trading platform and event-driven backtester
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9138&lt;/span&gt;
+						&lt;span&gt;🔱 1107&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3223 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sindresorhus/awesome&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        sindresorhus /
+
+      awesome&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      😎 Awesome lists about all kinds of interesting topics
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 370970&lt;/span&gt;
+						&lt;span&gt;🔱 29772&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9909 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 45247&lt;/span&gt;
+						&lt;span&gt;🔱 5124&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12870 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/donnemartin/system-design-primer&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 307077&lt;/span&gt;
+						&lt;span&gt;🔱 50740&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7314 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/datawhalechina/self-llm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        datawhalechina /
+
+      self-llm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 19165&lt;/span&gt;
+						&lt;span&gt;🔱 1981&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3624 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/netbirdio/netbird&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        netbirdio /
+
+      netbird&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 16162&lt;/span&gt;
+						&lt;span&gt;🔱 753&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2417 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025年第25周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC25%E5%91%A8/</link>
-        <pubDate>Sun, 22 Jun 2025 05:58:50 +0000</pubDate>
+        <pubDate>Sun, 22 Jun 2025 07:58:55 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC25%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -683,8 +683,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32734&lt;/span&gt;
-						&lt;span&gt;🔱 1905&lt;/span&gt;
+						&lt;span&gt;⭐ 32739&lt;/span&gt;
+						&lt;span&gt;🔱 1906&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3249 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -705,8 +705,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 33324&lt;/span&gt;
-						&lt;span&gt;🔱 6382&lt;/span&gt;
+						&lt;span&gt;⭐ 33349&lt;/span&gt;
+						&lt;span&gt;🔱 6390&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3853 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -727,8 +727,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16625&lt;/span&gt;
-						&lt;span&gt;🔱 1731&lt;/span&gt;
+						&lt;span&gt;⭐ 16634&lt;/span&gt;
+						&lt;span&gt;🔱 1732&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3376 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -749,7 +749,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 45222&lt;/span&gt;
+						&lt;span&gt;⭐ 45247&lt;/span&gt;
 						&lt;span&gt;🔱 5124&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5464 stars this week&lt;/div&gt;
@@ -771,7 +771,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 7389&lt;/span&gt;
+						&lt;span&gt;⭐ 7396&lt;/span&gt;
 						&lt;span&gt;🔱 935&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1610 stars this week&lt;/div&gt;
@@ -793,7 +793,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 5161&lt;/span&gt;
+						&lt;span&gt;⭐ 5166&lt;/span&gt;
 						&lt;span&gt;🔱 629&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1241 stars this week&lt;/div&gt;
@@ -813,7 +813,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
-						&lt;span&gt;⭐ 14179&lt;/span&gt;
+						&lt;span&gt;⭐ 14191&lt;/span&gt;
 						&lt;span&gt;🔱 947&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 539 stars this week&lt;/div&gt;
@@ -835,8 +835,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8703&lt;/span&gt;
-						&lt;span&gt;🔱 849&lt;/span&gt;
+						&lt;span&gt;⭐ 8706&lt;/span&gt;
+						&lt;span&gt;🔱 850&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 956 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -857,7 +857,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15119&lt;/span&gt;
+						&lt;span&gt;⭐ 15122&lt;/span&gt;
 						&lt;span&gt;🔱 1986&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 617 stars this week&lt;/div&gt;
@@ -879,7 +879,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5400&lt;/span&gt;
+						&lt;span&gt;⭐ 5402&lt;/span&gt;
 						&lt;span&gt;🔱 560&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 607 stars this week&lt;/div&gt;
@@ -901,7 +901,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 9028&lt;/span&gt;
+						&lt;span&gt;⭐ 9037&lt;/span&gt;
 						&lt;span&gt;🔱 335&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 921 stars this week&lt;/div&gt;
@@ -923,7 +923,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Cuda&lt;/span&gt;
-						&lt;span&gt;⭐ 8169&lt;/span&gt;
+						&lt;span&gt;⭐ 8173&lt;/span&gt;
 						&lt;span&gt;🔱 816&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 399 stars this week&lt;/div&gt;
@@ -945,7 +945,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 8998&lt;/span&gt;
+						&lt;span&gt;⭐ 9002&lt;/span&gt;
 						&lt;span&gt;🔱 298&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 523 stars this week&lt;/div&gt;
@@ -967,7 +967,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2900&lt;/span&gt;
+						&lt;span&gt;⭐ 2903&lt;/span&gt;
 						&lt;span&gt;🔱 626&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 190 stars this week&lt;/div&gt;
@@ -989,7 +989,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 14212&lt;/span&gt;
+						&lt;span&gt;⭐ 14229&lt;/span&gt;
 						&lt;span&gt;🔱 805&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1376 stars this week&lt;/div&gt;
