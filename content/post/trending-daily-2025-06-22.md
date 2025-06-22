@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-22
-date: 2025-06-22T09:58:52Z
+date: 2025-06-22T11:58:35Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/typst/typst" target="_blank">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
     
 
 
       
-        typst /
+        rasbt /
 
-      typst</a></p>
+      LLMs-from-scratch</a></p>
 				<p>
-      A new markup-based typesetting system that is powerful and easy to learn.
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 42517</span>
-						<span>🔱 1139</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 52417</span>
+						<span>🔱 7566</span>
 					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
+				<div class="stars-today">⭐ 433 stars today</div>
 				</div>
 			</div>
 	
@@ -52,76 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11151</span>
-						<span>🔱 1913</span>
+						<span>⭐ 11189</span>
+						<span>🔱 1916</span>
 					</div>
 				<div class="stars-today">⭐ 547 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dail8859/NotepadNext" target="_blank">
+				<p><a href="https://github.com/ManimCommunity/manim" target="_blank">
     
 
 
       
-        dail8859 /
+        ManimCommunity /
 
-      NotepadNext</a></p>
+      manim</a></p>
 				<p>
-      A cross-platform, reimplementation of Notepad++
+      A community-maintained Python framework for creating mathematical animations. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 11186</span>
-						<span>🔱 674</span>
+						<span>🔠 Python</span>
+						<span>⭐ 32625</span>
+						<span>🔱 2294</span>
 					</div>
-				<div class="stars-today">⭐ 198 stars today</div>
+				<div class="stars-today">⭐ 140 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+				<p><a href="https://github.com/microsoft/edit" target="_blank">
     
 
 
       
-        DataExpert-io /
+        microsoft /
 
-      data-engineer-handbook</a></p>
+      edit</a></p>
 				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
+      We all edit.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33371</span>
-						<span>🔱 6394</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 8841</span>
+						<span>🔱 376</span>
 					</div>
-				<div class="stars-today">⭐ 1052 stars today</div>
+				<div class="stars-today">⭐ 207 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+				<p><a href="https://github.com/kortix-ai/suna" target="_blank">
     
 
 
       
-        rasbt /
+        kortix-ai /
 
-      LLMs-from-scratch</a></p>
+      suna</a></p>
 				<p>
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+      Suna - Open Source Generalist AI Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 52341</span>
-						<span>🔱 7558</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15165</span>
+						<span>🔱 2296</span>
 					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
+				<div class="stars-today">⭐ 50 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26370</span>
-						<span>🔱 8444</span>
+						<span>⭐ 26373</span>
+						<span>🔱 8447</span>
 					</div>
 				<div class="stars-today">⭐ 41 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 14270</span>
+						<span>🔱 808</span>
+					</div>
+				<div class="stars-today">⭐ 188 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 33388</span>
+						<span>🔱 6399</span>
+					</div>
+				<div class="stars-today">⭐ 1052 stars today</div>
 				</div>
 			</div>
 	
@@ -162,76 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9754</span>
-						<span>🔱 740</span>
+						<span>⭐ 9774</span>
+						<span>🔱 741</span>
 					</div>
 				<div class="stars-today">⭐ 119 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+				<p><a href="https://github.com/krishnadey30/LeetCode-Questions-CompanyWise" target="_blank">
     
 
 
       
-        ourongxing /
+        krishnadey30 /
 
-      newsnow</a></p>
+      LeetCode-Questions-CompanyWise</a></p>
 				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11493</span>
-						<span>🔱 3297</span>
-					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/self-hosted-ai-starter-kit" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      self-hosted-ai-starter-kit</a></p>
-				<p>
-      The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
+      Contains Company Wise Questions sorted based on Frequency and all time
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9835</span>
-						<span>🔱 2303</span>
+						<span>⭐ 16593</span>
+						<span>🔱 4971</span>
 					</div>
-				<div class="stars-today">⭐ 188 stars today</div>
+				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/unionlabs/union" target="_blank">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
     
 
 
       
-        unionlabs /
+        microsoft /
 
-      union</a></p>
+      Web-Dev-For-Beginners</a></p>
 				<p>
-      The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 68116</span>
-						<span>🔱 3323</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 88759</span>
+						<span>🔱 13447</span>
 					</div>
-				<div class="stars-today">⭐ 209 stars today</div>
+				<div class="stars-today">⭐ 61 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dail8859/NotepadNext" target="_blank">
+    
+
+
+      
+        dail8859 /
+
+      NotepadNext</a></p>
+				<p>
+      A cross-platform, reimplementation of Notepad++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 11200</span>
+						<span>🔱 674</span>
+					</div>
+				<div class="stars-today">⭐ 198 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/awesome-aws" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      awesome-aws</a></p>
+				<p>
+      A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13312</span>
+						<span>🔱 1803</span>
+					</div>
+				<div class="stars-today">⭐ 36 stars today</div>
 				</div>
 			</div>
 	
@@ -250,30 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 110350</span>
-						<span>🔱 31813</span>
+						<span>⭐ 110384</span>
+						<span>🔱 31821</span>
 					</div>
 				<div class="stars-today">⭐ 544 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 14207</span>
-						<span>🔱 947</span>
-					</div>
-				<div class="stars-today">⭐ 134 stars today</div>
 				</div>
 			</div>
 	

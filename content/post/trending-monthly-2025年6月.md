@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-22T09:58:53Z
+date: 2025-06-22T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19071</span>
-						<span>🔱 1849</span>
+						<span>⭐ 19077</span>
+						<span>🔱 1850</span>
 					</div>
 				<div class="stars-today">⭐ 16308 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33371</span>
-						<span>🔱 6394</span>
+						<span>⭐ 33388</span>
+						<span>🔱 6399</span>
 					</div>
 				<div class="stars-today">⭐ 5240 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25651</span>
-						<span>🔱 3937</span>
-					</div>
-				<div class="stars-today">⭐ 6412 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 5173</span>
-						<span>🔱 632</span>
+						<span>⭐ 5185</span>
+						<span>🔱 633</span>
 					</div>
 				<div class="stars-today">⭐ 3342 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
     
 
 
       
-        mindsdb /
+        microsoft /
 
-      mindsdb</a></p>
+      qlib</a></p>
 				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32544</span>
-						<span>🔱 5340</span>
+						<span>⭐ 25652</span>
+						<span>🔱 3937</span>
 					</div>
-				<div class="stars-today">⭐ 4665 stars this month</div>
+				<div class="stars-today">⭐ 6412 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7797</span>
-						<span>🔱 467</span>
+						<span>⭐ 7804</span>
+						<span>🔱 469</span>
 					</div>
 				<div class="stars-today">⭐ 3572 stars this month</div>
 				</div>
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15687</span>
+						<span>⭐ 15692</span>
 						<span>🔱 1344</span>
 					</div>
 				<div class="stars-today">⭐ 4123 stars this month</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 14239</span>
-						<span>🔱 807</span>
+						<span>⭐ 14270</span>
+						<span>🔱 808</span>
 					</div>
 				<div class="stars-today">⭐ 5380 stars this month</div>
 				</div>
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32746</span>
+						<span>⭐ 32753</span>
 						<span>🔱 1906</span>
 					</div>
 				<div class="stars-today">⭐ 3741 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45289</span>
+						<span>🔱 5128</span>
+					</div>
+				<div class="stars-today">⭐ 12870 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16645</span>
+						<span>⭐ 16657</span>
 						<span>🔱 1733</span>
 					</div>
 				<div class="stars-today">⭐ 4316 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32549</span>
+						<span>🔱 5342</span>
+					</div>
+				<div class="stars-today">⭐ 4665 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9142</span>
+						<span>⭐ 9144</span>
 						<span>🔱 1109</span>
 					</div>
 				<div class="stars-today">⭐ 3223 stars this month</div>
@@ -272,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 370996</span>
-						<span>🔱 29773</span>
+						<span>⭐ 371025</span>
+						<span>🔱 29774</span>
 					</div>
 				<div class="stars-today">⭐ 9909 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45269</span>
-						<span>🔱 5125</span>
-					</div>
-				<div class="stars-today">⭐ 12870 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 307086</span>
-						<span>🔱 50741</span>
-					</div>
-				<div class="stars-today">⭐ 7314 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19175</span>
+						<span>⭐ 19180</span>
 						<span>🔱 1981</span>
 					</div>
 				<div class="stars-today">⭐ 3624 stars this month</div>
@@ -346,24 +324,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
     
 
 
       
-        netbirdio /
+        donnemartin /
 
-      netbird</a></p>
+      system-design-primer</a></p>
 				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 16172</span>
-						<span>🔱 754</span>
+						<span>🔠 Python</span>
+						<span>⭐ 307097</span>
+						<span>🔱 50744</span>
 					</div>
-				<div class="stars-today">⭐ 2417 stars this month</div>
+				<div class="stars-today">⭐ 7314 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ed-donner/agents" target="_blank">
+    
+
+
+      
+        ed-donner /
+
+      agents</a></p>
+				<p>
+      Repo for the Complete Agentic AI Engineering Course
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 619</span>
+						<span>🔱 560</span>
+					</div>
+				<div class="stars-today">⭐ 420 stars this month</div>
 				</div>
 			</div>
 	
