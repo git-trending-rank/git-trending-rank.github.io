@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-23
-date: 2025-06-23T09:58:36Z
+date: 2025-06-23T11:58:34Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 54104</span>
-						<span>🔱 7703</span>
+						<span>⭐ 54291</span>
+						<span>🔱 7724</span>
 					</div>
 				<div class="stars-today">⭐ 624 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11846</span>
-						<span>🔱 2009</span>
-					</div>
-				<div class="stars-today">⭐ 523 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ManimCommunity/manim" target="_blank">
-    
-
-
-      
-        ManimCommunity /
-
-      manim</a></p>
-				<p>
-      A community-maintained Python framework for creating mathematical animations. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32903</span>
-						<span>🔱 2304</span>
-					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
 				</div>
 			</div>
 	
@@ -96,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9171</span>
+						<span>⭐ 9205</span>
 						<span>🔱 391</span>
 					</div>
 				<div class="stars-today">⭐ 217 stars today</div>
@@ -104,24 +60,44 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mikumifa/biliTickerBuy" target="_blank">
+				<p><a href="https://github.com/voideditor/void" target="_blank">
     
 
 
       
-        mikumifa /
+        voideditor /
 
-      biliTickerBuy</a></p>
+      void</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24408</span>
+						<span>🔱 1628</span>
+					</div>
+				<div class="stars-today">⭐ 196 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ghostty-org/ghostty" target="_blank">
+    
+
+
+      
+        ghostty-org /
+
+      ghostty</a></p>
 				<p>
-      b站会员购购票辅助工具
+      👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2196</span>
-						<span>🔱 301</span>
+						<span>🔠 Zig</span>
+						<span>⭐ 31857</span>
+						<span>🔱 881</span>
 					</div>
-				<div class="stars-today">⭐ 85 stars today</div>
+				<div class="stars-today">⭐ 46 stars today</div>
 				</div>
 			</div>
 	
@@ -140,120 +116,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15496</span>
-						<span>🔱 2338</span>
+						<span>⭐ 15534</span>
+						<span>🔱 2342</span>
 					</div>
 				<div class="stars-today">⭐ 148 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        DrKLO /
+        x1xhlol /
 
-      Telegram</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      Telegram for Android source
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 26445</span>
-						<span>🔱 8459</span>
-					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 14686</span>
-						<span>🔱 825</span>
-					</div>
-				<div class="stars-today">⭐ 188 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33672</span>
-						<span>🔱 6439</span>
-					</div>
-				<div class="stars-today">⭐ 320 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cyclotruc/gitingest" target="_blank">
-    
-
-
-      
-        cyclotruc /
-
-      gitingest</a></p>
-				<p>
-      Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10029</span>
-						<span>🔱 754</span>
-					</div>
-				<div class="stars-today">⭐ 243 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/krishnadey30/LeetCode-Questions-CompanyWise" target="_blank">
-    
-
-
-      
-        krishnadey30 /
-
-      LeetCode-Questions-CompanyWise</a></p>
-				<p>
-      Contains Company Wise Questions sorted based on Frequency and all time
+      FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 16771</span>
-						<span>🔱 4989</span>
+						<span>⭐ 59854</span>
+						<span>🔱 17990</span>
 					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
+				<div class="stars-today">⭐ 352 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/typst/typst" target="_blank">
+    
+
+
+      
+        typst /
+
+      typst</a></p>
+				<p>
+      A new markup-based typesetting system that is powerful and easy to learn.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 42667</span>
+						<span>🔱 1141</span>
+					</div>
+				<div class="stars-today">⭐ 217 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HarbourMasters/SpaghettiKart" target="_blank">
+    
+
+
+      
+        HarbourMasters /
+
+      SpaghettiKart</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 728</span>
+						<span>🔱 32</span>
+					</div>
+				<div class="stars-today">⭐ 240 stars today</div>
 				</div>
 			</div>
 	
@@ -272,76 +202,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 89098</span>
-						<span>🔱 13472</span>
+						<span>⭐ 89119</span>
+						<span>🔱 13473</span>
 					</div>
 				<div class="stars-today">⭐ 83 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dail8859/NotepadNext" target="_blank">
+				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
     
 
 
       
-        dail8859 /
+        comfyanonymous /
 
-      NotepadNext</a></p>
+      ComfyUI</a></p>
 				<p>
-      A cross-platform, reimplementation of Notepad++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 11380</span>
-						<span>🔱 679</span>
-					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/awesome-aws" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      awesome-aws</a></p>
-				<p>
-      A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome.
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13481</span>
-						<span>🔱 1810</span>
+						<span>⭐ 80367</span>
+						<span>🔱 8904</span>
 					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
+				<div class="stars-today">⭐ 108 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+				<p><a href="https://github.com/localsend/localsend" target="_blank">
     
 
 
       
-        n8n-io /
+        localsend /
 
-      n8n</a></p>
+      localsend</a></p>
 				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+      An open-source cross-platform alternative to AirDrop
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 110952</span>
-						<span>🔱 31984</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 62929</span>
+						<span>🔱 3345</span>
 					</div>
-				<div class="stars-today">⭐ 501 stars today</div>
+				<div class="stars-today">⭐ 128 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/isledecomp/isle-portable" target="_blank">
+    
+
+
+      
+        isledecomp /
+
+      isle-portable</a></p>
+				<p>
+      A portable version of LEGO Island (1997)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 444</span>
+						<span>🔱 44</span>
+					</div>
+				<div class="stars-today">⭐ 49 stars today</div>
 				</div>
 			</div>
 	

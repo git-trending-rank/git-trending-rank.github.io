@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-23T09:58:37Z
+date: 2025-06-23T11:58:34Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19162</span>
+						<span>⭐ 19168</span>
 						<span>🔱 1863</span>
 					</div>
 				<div class="stars-today">⭐ 16288 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33672</span>
-						<span>🔱 6439</span>
+						<span>⭐ 33693</span>
+						<span>🔱 6442</span>
 					</div>
 				<div class="stars-today">⭐ 5601 stars this month</div>
 				</div>
@@ -74,120 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 5321</span>
-						<span>🔱 646</span>
+						<span>⭐ 5331</span>
+						<span>🔱 648</span>
 					</div>
 				<div class="stars-today">⭐ 3438 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25709</span>
-						<span>🔱 3942</span>
-					</div>
-				<div class="stars-today">⭐ 6104 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7861</span>
-						<span>🔱 471</span>
-					</div>
-				<div class="stars-today">⭐ 3609 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15732</span>
-						<span>🔱 1352</span>
-					</div>
-				<div class="stars-today">⭐ 4149 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 14686</span>
-						<span>🔱 825</span>
-					</div>
-				<div class="stars-today">⭐ 5568 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
-    
-
-
-      
-        menloresearch /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32892</span>
-						<span>🔱 1911</span>
-					</div>
-				<div class="stars-today">⭐ 3802 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45581</span>
-						<span>🔱 5162</span>
+						<span>⭐ 45610</span>
+						<span>🔱 5167</span>
 					</div>
 				<div class="stars-today">⭐ 13168 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7863</span>
+						<span>🔱 471</span>
+					</div>
+				<div class="stars-today">⭐ 3609 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16779</span>
-						<span>🔱 1741</span>
+						<span>⭐ 16793</span>
+						<span>🔱 1742</span>
 					</div>
 				<div class="stars-today">⭐ 4417 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
     
 
 
       
-        mindsdb /
+        menloresearch /
 
-      mindsdb</a></p>
+      jan</a></p>
 				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32904</span>
+						<span>🔱 1912</span>
+					</div>
+				<div class="stars-today">⭐ 3802 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 14721</span>
+						<span>🔱 825</span>
+					</div>
+				<div class="stars-today">⭐ 5568 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32595</span>
-						<span>🔱 5348</span>
+						<span>⭐ 25714</span>
+						<span>🔱 3942</span>
 					</div>
-				<div class="stars-today">⭐ 4180 stars this month</div>
+				<div class="stars-today">⭐ 6104 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      courses</a></p>
+				<p>
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15735</span>
+						<span>🔱 1352</span>
+					</div>
+				<div class="stars-today">⭐ 4149 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9195</span>
+						<span>⭐ 9200</span>
 						<span>🔱 1115</span>
 					</div>
 				<div class="stars-today">⭐ 3254 stars this month</div>
@@ -294,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 371308</span>
-						<span>🔱 29791</span>
+						<span>⭐ 371328</span>
+						<span>🔱 29792</span>
 					</div>
 				<div class="stars-today">⭐ 10071 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32600</span>
+						<span>🔱 5348</span>
+					</div>
+				<div class="stars-today">⭐ 4180 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6082</span>
+						<span>🔱 572</span>
+					</div>
+				<div class="stars-today">⭐ 1619 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19249</span>
+						<span>⭐ 19259</span>
 						<span>🔱 1988</span>
 					</div>
 				<div class="stars-today">⭐ 3659 stars this month</div>
@@ -338,32 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 307228</span>
-						<span>🔱 50756</span>
+						<span>⭐ 307241</span>
+						<span>🔱 50758</span>
 					</div>
 				<div class="stars-today">⭐ 7085 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ed-donner/agents" target="_blank">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
     
 
 
       
-        ed-donner /
+        netbirdio /
 
-      agents</a></p>
+      netbird</a></p>
 				<p>
-      Repo for the Complete Agentic AI Engineering Course
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 666</span>
-						<span>🔱 570</span>
+						<span>🔠 Go</span>
+						<span>⭐ 16267</span>
+						<span>🔱 755</span>
 					</div>
-				<div class="stars-today">⭐ 434 stars this month</div>
+				<div class="stars-today">⭐ 2585 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第26周
-date: 2025-06-23T09:58:36Z
+date: 2025-06-23T11:58:34Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32892</span>
-						<span>🔱 1911</span>
+						<span>⭐ 32904</span>
+						<span>🔱 1912</span>
 					</div>
 				<div class="stars-today">⭐ 3367 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33672</span>
-						<span>🔱 6439</span>
+						<span>⭐ 33693</span>
+						<span>🔱 6442</span>
 					</div>
 				<div class="stars-today">⭐ 4183 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      fluentui-system-icons</a></p>
+				<p>
+      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 9242</span>
+						<span>🔱 681</span>
+					</div>
+				<div class="stars-today">⭐ 2626 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16779</span>
-						<span>🔱 1741</span>
+						<span>⭐ 16793</span>
+						<span>🔱 1742</span>
 					</div>
 				<div class="stars-today">⭐ 3364 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45581</span>
-						<span>🔱 5162</span>
-					</div>
-				<div class="stars-today">⭐ 4086 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,30 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7522</span>
-						<span>🔱 950</span>
+						<span>⭐ 7533</span>
+						<span>🔱 951</span>
 					</div>
 				<div class="stars-today">⭐ 1555 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 14307</span>
-						<span>🔱 953</span>
-					</div>
-				<div class="stars-today">⭐ 630 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9119</span>
+						<span>⭐ 9135</span>
 						<span>🔱 337</span>
 					</div>
 				<div class="stars-today">⭐ 999 stars this week</div>
@@ -168,68 +148,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FareedKhan-dev/all-rag-techniques" target="_blank">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
     
 
 
       
-        FareedKhan-dev /
+        Flowseal /
 
-      all-rag-techniques</a></p>
-				<p>
-      Implementation of all RAG techniques in a simpler way
-    </p>
+      zapret-discord-youtube</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 5321</span>
-						<span>🔱 646</span>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 14313</span>
+						<span>🔱 953</span>
 					</div>
-				<div class="stars-today">⭐ 1026 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 14686</span>
-						<span>🔱 825</span>
-					</div>
-				<div class="stars-today">⭐ 1429 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepseek-ai/DeepEP" target="_blank">
-    
-
-
-      
-        deepseek-ai /
-
-      DeepEP</a></p>
-				<p>
-      DeepEP: an efficient expert-parallel communication library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Cuda</span>
-						<span>⭐ 8193</span>
-						<span>🔱 818</span>
-					</div>
-				<div class="stars-today">⭐ 421 stars this week</div>
+				<div class="stars-today">⭐ 630 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,10 +182,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12744</span>
+						<span>⭐ 12752</span>
 						<span>🔱 728</span>
 					</div>
 				<div class="stars-today">⭐ 315 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45610</span>
+						<span>🔱 5167</span>
+					</div>
+				<div class="stars-today">⭐ 4086 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 14721</span>
+						<span>🔱 825</span>
+					</div>
+				<div class="stars-today">⭐ 1429 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
+    
+
+
+      
+        DrKLO /
+
+      Telegram</a></p>
+				<p>
+      Telegram for Android source
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 26448</span>
+						<span>🔱 8459</span>
+					</div>
+				<div class="stars-today">⭐ 158 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moby/buildkit" target="_blank">
+    
+
+
+      
+        moby /
+
+      buildkit</a></p>
+				<p>
+      concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9095</span>
+						<span>🔱 1252</span>
+					</div>
+				<div class="stars-today">⭐ 261 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,54 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8827</span>
+						<span>⭐ 8835</span>
 						<span>🔱 860</span>
 					</div>
 				<div class="stars-today">⭐ 888 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ever-co/ever-gauzy" target="_blank">
-    
-
-
-      
-        ever-co /
-
-      ever-gauzy</a></p>
-				<p>
-      Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2965</span>
-						<span>🔱 629</span>
-					</div>
-				<div class="stars-today">⭐ 238 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
-    
-
-
-      
-        YaLTeR /
-
-      niri</a></p>
-				<p>
-      A scrollable-tiling Wayland compositor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 9046</span>
-						<span>🔱 302</span>
-					</div>
-				<div class="stars-today">⭐ 449 stars this week</div>
 				</div>
 			</div>
 	
