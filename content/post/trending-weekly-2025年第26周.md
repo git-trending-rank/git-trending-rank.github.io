@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第26周
-date: 2025-06-24T09:58:50Z
+date: 2025-06-24T11:58:34Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
+				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
     
 
 
       
-        menloresearch /
+        automatisch /
 
-      jan</a></p>
+      automatisch</a></p>
 				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+      The open source Zapier alternative. Build workflow automation without spending time and money.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33022</span>
-						<span>🔱 1919</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11470</span>
+						<span>🔱 837</span>
 					</div>
-				<div class="stars-today">⭐ 3424 stars this week</div>
+				<div class="stars-today">⭐ 2529 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33849</span>
-						<span>🔱 6478</span>
+						<span>⭐ 33858</span>
+						<span>🔱 6482</span>
 					</div>
 				<div class="stars-today">⭐ 4426 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
     
 
 
       
-        microsoft /
+        menloresearch /
 
-      fluentui-system-icons</a></p>
+      jan</a></p>
 				<p>
-      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 9298</span>
-						<span>🔱 682</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33033</span>
+						<span>🔱 1920</span>
 					</div>
-				<div class="stars-today">⭐ 2606 stars this week</div>
+				<div class="stars-today">⭐ 3424 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16885</span>
+						<span>⭐ 16892</span>
 						<span>🔱 1751</span>
 					</div>
 				<div class="stars-today">⭐ 3362 stars this week</div>
@@ -104,24 +104,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
     
 
 
       
-        linshenkx /
+        microsoft /
 
-      prompt-optimizer</a></p>
+      fluentui-system-icons</a></p>
 				<p>
-      一款提示词优化器，助力于编写高质量的提示词
+      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7641</span>
-						<span>🔱 967</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 9304</span>
+						<span>🔱 682</span>
 					</div>
-				<div class="stars-today">⭐ 1539 stars this week</div>
+				<div class="stars-today">⭐ 2606 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
+    
+
+
+      
+        DrKLO /
+
+      Telegram</a></p>
+				<p>
+      Telegram for Android source
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 26573</span>
+						<span>🔱 8514</span>
+					</div>
+				<div class="stars-today">⭐ 213 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9216</span>
+						<span>⭐ 9225</span>
 						<span>🔱 339</span>
 					</div>
 				<div class="stars-today">⭐ 1095 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7647</span>
+						<span>🔱 967</span>
+					</div>
+				<div class="stars-today">⭐ 1539 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 14360</span>
+						<span>⭐ 14361</span>
 						<span>🔱 954</span>
 					</div>
 				<div class="stars-today">⭐ 662 stars this week</div>
@@ -182,98 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12822</span>
+						<span>⭐ 12830</span>
 						<span>🔱 730</span>
 					</div>
 				<div class="stars-today">⭐ 353 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45870</span>
-						<span>🔱 5199</span>
-					</div>
-				<div class="stars-today">⭐ 2796 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 14933</span>
-						<span>🔱 838</span>
-					</div>
-				<div class="stars-today">⭐ 1656 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
-    
-
-
-      
-        DrKLO /
-
-      Telegram</a></p>
-				<p>
-      Telegram for Android source
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 26559</span>
-						<span>🔱 8508</span>
-					</div>
-				<div class="stars-today">⭐ 213 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moby/buildkit" target="_blank">
-    
-
-
-      
-        moby /
-
-      buildkit</a></p>
-				<p>
-      concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9112</span>
-						<span>🔱 1254</span>
-					</div>
-				<div class="stars-today">⭐ 275 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8936</span>
+						<span>⭐ 8945</span>
 						<span>🔱 867</span>
 					</div>
 				<div class="stars-today">⭐ 777 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ManimCommunity/manim" target="_blank">
+    
+
+
+      
+        ManimCommunity /
+
+      manim</a></p>
+				<p>
+      A community-maintained Python framework for creating mathematical animations. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32954</span>
+						<span>🔱 2306</span>
+					</div>
+				<div class="stars-today">⭐ 636 stars this week</div>
 				</div>
 			</div>
 	
