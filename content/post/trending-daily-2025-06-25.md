@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-25
-date: 2025-06-25T09:58:38Z
+date: 2025-06-25T11:58:33Z
 categories:
 - daily
 keywords:
@@ -16,110 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
+				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
     
 
 
       
-        DrKLO /
+        DioxusLabs /
 
-      Telegram</a></p>
+      dioxus</a></p>
 				<p>
-      Telegram for Android source
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 26731</span>
-						<span>🔱 8562</span>
-					</div>
-				<div class="stars-today">⭐ 136 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12455</span>
-						<span>🔱 2093</span>
-					</div>
-				<div class="stars-today">⭐ 175 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/edit" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      edit</a></p>
-				<p>
-      We all edit.
+      Fullstack app framework for web, desktop, mobile, and more.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10104</span>
-						<span>🔱 429</span>
+						<span>⭐ 28229</span>
+						<span>🔱 1159</span>
 					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
+				<div class="stars-today">⭐ 85 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HarbourMasters/SpaghettiKart" target="_blank">
+				<p><a href="https://github.com/vitejs/vite" target="_blank">
     
 
 
       
-        HarbourMasters /
+        vitejs /
 
-      SpaghettiKart</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 1064</span>
-						<span>🔱 51</span>
-					</div>
-				<div class="stars-today">⭐ 216 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
-    
-
-
-      
-        jujumilk3 /
-
-      leaked-system-prompts</a></p>
+      vite</a></p>
 				<p>
-      Collection of leaked system prompts
+      Next generation frontend tooling. It's fast!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 10285</span>
-						<span>🔱 1358</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 73502</span>
+						<span>🔱 6857</span>
 					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
+				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	
@@ -138,98 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1601</span>
-						<span>🔱 112</span>
+						<span>⭐ 1629</span>
+						<span>🔱 114</span>
 					</div>
 				<div class="stars-today">⭐ 112 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/isledecomp/isle-portable" target="_blank">
+				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
     
 
 
       
-        isledecomp /
+        AykutSarac /
 
-      isle-portable</a></p>
+      jsoncrack.com</a></p>
 				<p>
-      A portable version of LEGO Island (1997)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 668</span>
-						<span>🔱 61</span>
-					</div>
-				<div class="stars-today">⭐ 131 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/typst/typst" target="_blank">
-    
-
-
-      
-        typst /
-
-      typst</a></p>
-				<p>
-      A new markup-based typesetting system that is powerful and easy to learn.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 43184</span>
-						<span>🔱 1153</span>
-					</div>
-				<div class="stars-today">⭐ 301 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Effect-TS/effect" target="_blank">
-    
-
-
-      
-        Effect-TS /
-
-      effect</a></p>
-				<p>
-      Build production-ready applications in TypeScript
+      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9803</span>
-						<span>🔱 346</span>
+						<span>⭐ 37972</span>
+						<span>🔱 2543</span>
 					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
+				<div class="stars-today">⭐ 104 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/playwright" target="_blank">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
     
 
 
       
-        microsoft /
+        ripienaar /
 
-      playwright</a></p>
+      free-for-dev</a></p>
 				<p>
-      Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 74021</span>
-						<span>🔱 4277</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 99912</span>
+						<span>🔱 10721</span>
 					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
+				<div class="stars-today">⭐ 881 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit" target="_blank">
+    
+
+
+      
+        sdmg15 /
+
+      Best-websites-a-programmer-should-visit</a></p>
+				<p>
+      🔗 Some useful websites for programmers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 68093</span>
+						<span>🔱 8165</span>
+					</div>
+				<div class="stars-today">⭐ 557 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 10309</span>
+						<span>🔱 1362</span>
+					</div>
+				<div class="stars-today">⭐ 121 stars today</div>
 				</div>
 			</div>
 	
@@ -248,54 +184,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 20750</span>
-						<span>🔱 2837</span>
+						<span>⭐ 20776</span>
+						<span>🔱 2839</span>
 					</div>
 				<div class="stars-today">⭐ 82 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
+				<p><a href="https://github.com/bgstaal/multipleWindow3dScene" target="_blank">
     
 
 
       
-        microsoft /
+        bgstaal /
 
-      Web-Dev-For-Beginners</a></p>
+      multipleWindow3dScene</a></p>
 				<p>
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
+      A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 89792</span>
-						<span>🔱 13542</span>
+						<span>⭐ 18385</span>
+						<span>🔱 2849</span>
 					</div>
-				<div class="stars-today">⭐ 358 stars today</div>
+				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/poteto/hiring-without-whiteboards" target="_blank">
+				<p><a href="https://github.com/mikeroyal/Self-Hosting-Guide" target="_blank">
     
 
 
       
-        poteto /
+        mikeroyal /
 
-      hiring-without-whiteboards</a></p>
+      Self-Hosting-Guide</a></p>
 				<p>
-      ⭐️ Companies that don't have a broken hiring process
+      Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 48792</span>
-						<span>🔱 3788</span>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 14064</span>
+						<span>🔱 735</span>
 					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
+				<div class="stars-today">⭐ 347 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 390207</span>
+						<span>🔱 36363</span>
+					</div>
+				<div class="stars-today">⭐ 763 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 372994</span>
+						<span>🔱 29866</span>
+					</div>
+				<div class="stars-today">⭐ 912 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eriklindernoren/ML-From-Scratch" target="_blank">
+    
+
+
+      
+        eriklindernoren /
+
+      ML-From-Scratch</a></p>
+				<p>
+      Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25313</span>
+						<span>🔱 4694</span>
+					</div>
+				<div class="stars-today">⭐ 377 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kilimchoi/engineering-blogs" target="_blank">
+    
+
+
+      
+        kilimchoi /
+
+      engineering-blogs</a></p>
+				<p>
+      A curated list of engineering blogs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 33800</span>
+						<span>🔱 1796</span>
+					</div>
+				<div class="stars-today">⭐ 407 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
+    
+
+
+      
+        gitleaks /
+
+      gitleaks</a></p>
+				<p>
+      Find secrets with Gitleaks 🔑
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20372</span>
+						<span>🔱 1631</span>
+					</div>
+				<div class="stars-today">⭐ 39 stars today</div>
 				</div>
 			</div>
 	
