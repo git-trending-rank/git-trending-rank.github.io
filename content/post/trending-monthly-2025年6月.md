@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-26T09:58:41Z
+date: 2025-06-26T11:59:01Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13582</span>
+						<span>🔱 1262</span>
+					</div>
+				<div class="stars-today">⭐ 10648 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34078</span>
-						<span>🔱 6533</span>
+						<span>⭐ 34083</span>
+						<span>🔱 6534</span>
 					</div>
 				<div class="stars-today">⭐ 6121 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
-    
-
-
-      
-        Fosowl /
-
-      agenticSeek</a></p>
-				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19473</span>
-						<span>🔱 1900</span>
-					</div>
-				<div class="stars-today">⭐ 15351 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46320</span>
-						<span>🔱 5279</span>
+						<span>⭐ 46334</span>
+						<span>🔱 5284</span>
 					</div>
 				<div class="stars-today">⭐ 13785 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      anthropic-cookbook</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17085</span>
-						<span>🔱 1768</span>
-					</div>
-				<div class="stars-today">⭐ 4672 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8016</span>
+						<span>⭐ 8018</span>
 						<span>🔱 482</span>
 					</div>
 				<div class="stars-today">⭐ 3722 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15968</span>
-						<span>🔱 1378</span>
-					</div>
-				<div class="stars-today">⭐ 4259 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33480</span>
+						<span>⭐ 33491</span>
 						<span>🔱 1942</span>
 					</div>
 				<div class="stars-today">⭐ 4256 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17091</span>
+						<span>🔱 1769</span>
+					</div>
+				<div class="stars-today">⭐ 4672 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 15499</span>
-						<span>🔱 857</span>
+						<span>⭐ 15525</span>
+						<span>🔱 858</span>
 					</div>
 				<div class="stars-today">⭐ 5434 stars this month</div>
 				</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9336</span>
+						<span>⭐ 9340</span>
 						<span>🔱 1126</span>
 					</div>
 				<div class="stars-today">⭐ 3391 stars this month</div>
@@ -228,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 373986</span>
-						<span>🔱 29943</span>
+						<span>⭐ 374060</span>
+						<span>🔱 29946</span>
 					</div>
 				<div class="stars-today">⭐ 11740 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      courses</a></p>
+				<p>
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15971</span>
+						<span>🔱 1379</span>
+					</div>
+				<div class="stars-today">⭐ 4259 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek</a></p>
+				<p>
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19478</span>
+						<span>🔱 1904</span>
+					</div>
+				<div class="stars-today">⭐ 15351 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19518</span>
-						<span>🔱 2002</span>
+						<span>⭐ 19530</span>
+						<span>🔱 2004</span>
 					</div>
 				<div class="stars-today">⭐ 3867 stars this month</div>
 				</div>
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26782</span>
-						<span>🔱 8599</span>
+						<span>⭐ 26787</span>
+						<span>🔱 8602</span>
 					</div>
 				<div class="stars-today">⭐ 639 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25880</span>
-						<span>🔱 3963</span>
-					</div>
-				<div class="stars-today">⭐ 4884 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 308401</span>
-						<span>🔱 50855</span>
+						<span>⭐ 308437</span>
+						<span>🔱 50857</span>
 					</div>
 				<div class="stars-today">⭐ 7687 stars this month</div>
 				</div>
@@ -338,32 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16451</span>
-						<span>🔱 761</span>
+						<span>⭐ 16452</span>
+						<span>🔱 762</span>
 					</div>
 				<div class="stars-today">⭐ 2749 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
     
 
 
       
-        mindsdb /
+        linshenkx /
 
-      mindsdb</a></p>
+      prompt-optimizer</a></p>
 				<p>
-      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
+      一款提示词优化器，助力于编写高质量的提示词
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32788</span>
-						<span>🔱 5381</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7822</span>
+						<span>🔱 989</span>
 					</div>
-				<div class="stars-today">⭐ 3257 stars this month</div>
+				<div class="stars-today">⭐ 2700 stars this month</div>
 				</div>
 			</div>
 	

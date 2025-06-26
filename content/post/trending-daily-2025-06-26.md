@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-26
-date: 2025-06-26T09:58:41Z
+date: 2025-06-26T11:59:01Z
 categories:
 - daily
 keywords:
@@ -16,310 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
+				<p><a href="https://github.com/microsoft/edit" target="_blank">
     
 
 
       
-        DioxusLabs /
+        microsoft /
 
-      dioxus</a></p>
+      edit</a></p>
 				<p>
-      Fullstack app framework for web, desktop, and mobile.
+      We all edit.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28759</span>
-						<span>🔱 1178</span>
+						<span>⭐ 10563</span>
+						<span>🔱 454</span>
 					</div>
-				<div class="stars-today">⭐ 129 stars today</div>
+				<div class="stars-today">⭐ 585 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vitejs/vite" target="_blank">
+				<p><a href="https://github.com/mui/base-ui" target="_blank">
     
 
 
       
-        vitejs /
+        mui /
 
-      vite</a></p>
+      base-ui</a></p>
 				<p>
-      Next generation frontend tooling. It's fast!
+      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73738</span>
-						<span>🔱 6875</span>
+						<span>⭐ 3573</span>
+						<span>🔱 149</span>
 					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1902</span>
-						<span>🔱 125</span>
-					</div>
-				<div class="stars-today">⭐ 340 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
-    
-
-
-      
-        AykutSarac /
-
-      jsoncrack.com</a></p>
-				<p>
-      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38247</span>
-						<span>🔱 2553</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
-    
-
-
-      
-        ripienaar /
-
-      free-for-dev</a></p>
-				<p>
-      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 100565</span>
-						<span>🔱 10759</span>
-					</div>
-				<div class="stars-today">⭐ 691 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit" target="_blank">
-    
-
-
-      
-        sdmg15 /
-
-      Best-websites-a-programmer-should-visit</a></p>
-				<p>
-      🔗 Some useful websites for programmers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 68661</span>
-						<span>🔱 8185</span>
-					</div>
-				<div class="stars-today">⭐ 403 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
-    
-
-
-      
-        jujumilk3 /
-
-      leaked-system-prompts</a></p>
-				<p>
-      Collection of leaked system prompts
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 10585</span>
-						<span>🔱 1387</span>
-					</div>
-				<div class="stars-today">⭐ 403 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ml-tooling/best-of-ml-python" target="_blank">
-    
-
-
-      
-        ml-tooling /
-
-      best-of-ml-python</a></p>
-				<p>
-      🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 21066</span>
-						<span>🔱 2853</span>
-					</div>
-				<div class="stars-today">⭐ 427 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bgstaal/multipleWindow3dScene" target="_blank">
-    
-
-
-      
-        bgstaal /
-
-      multipleWindow3dScene</a></p>
-				<p>
-      A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 18463</span>
-						<span>🔱 2855</span>
-					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mikeroyal/Self-Hosting-Guide" target="_blank">
-    
-
-
-      
-        mikeroyal /
-
-      Self-Hosting-Guide</a></p>
-				<p>
-      Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 14691</span>
-						<span>🔱 752</span>
-					</div>
-				<div class="stars-today">⭐ 404 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 390848</span>
-						<span>🔱 36394</span>
-					</div>
-				<div class="stars-today">⭐ 788 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 373986</span>
-						<span>🔱 29943</span>
-					</div>
-				<div class="stars-today">⭐ 880 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eriklindernoren/ML-From-Scratch" target="_blank">
-    
-
-
-      
-        eriklindernoren /
-
-      ML-From-Scratch</a></p>
-				<p>
-      Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25717</span>
-						<span>🔱 4707</span>
-					</div>
-				<div class="stars-today">⭐ 359 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kilimchoi/engineering-blogs" target="_blank">
-    
-
-
-      
-        kilimchoi /
-
-      engineering-blogs</a></p>
-				<p>
-      A curated list of engineering blogs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 34139</span>
-						<span>🔱 1806</span>
-					</div>
-				<div class="stars-today">⭐ 290 stars today</div>
+				<div class="stars-today">⭐ 131 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +74,318 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20636</span>
-						<span>🔱 1637</span>
+						<span>⭐ 20668</span>
+						<span>🔱 1638</span>
 					</div>
 				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry</a></p>
+				<p>
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1647</span>
+						<span>🔱 118</span>
+					</div>
+				<div class="stars-today">⭐ 20 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+    
+
+
+      
+        punkpeye /
+
+      awesome-mcp-servers</a></p>
+				<p>
+      A collection of MCP servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 57690</span>
+						<span>🔱 4426</span>
+					</div>
+				<div class="stars-today">⭐ 430 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 10614</span>
+						<span>🔱 1389</span>
+					</div>
+				<div class="stars-today">⭐ 403 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28613</span>
+						<span>🔱 3359</span>
+					</div>
+				<div class="stars-today">⭐ 190 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nexus-xyz/nexus-cli" target="_blank">
+    
+
+
+      
+        nexus-xyz /
+
+      nexus-cli</a></p>
+				<p>
+      Command line interface for supplying proofs to the Nexus network.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 753</span>
+						<span>🔱 321</span>
+					</div>
+				<div class="stars-today">⭐ 4 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
+    
+
+
+      
+        AykutSarac /
+
+      jsoncrack.com</a></p>
+				<p>
+      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 38264</span>
+						<span>🔱 2554</span>
+					</div>
+				<div class="stars-today">⭐ 62 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
+    
+
+
+      
+        DioxusLabs /
+
+      dioxus</a></p>
+				<p>
+      Fullstack app framework for web, desktop, and mobile.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 28792</span>
+						<span>🔱 1179</span>
+					</div>
+				<div class="stars-today">⭐ 129 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Portkey-AI/gateway" target="_blank">
+    
+
+
+      
+        Portkey-AI /
+
+      gateway</a></p>
+				<p>
+      A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8154</span>
+						<span>🔱 613</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ml-tooling/best-of-ml-python" target="_blank">
+    
+
+
+      
+        ml-tooling /
+
+      best-of-ml-python</a></p>
+				<p>
+      🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 21087</span>
+						<span>🔱 2854</span>
+					</div>
+				<div class="stars-today">⭐ 427 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 72905</span>
+						<span>🔱 15994</span>
+					</div>
+				<div class="stars-today">⭐ 51 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mikeroyal/Self-Hosting-Guide" target="_blank">
+    
+
+
+      
+        mikeroyal /
+
+      Self-Hosting-Guide</a></p>
+				<p>
+      Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 14738</span>
+						<span>🔱 752</span>
+					</div>
+				<div class="stars-today">⭐ 404 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners</a></p>
+				<p>
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 85783</span>
+						<span>🔱 45208</span>
+					</div>
+				<div class="stars-today">⭐ 187 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit" target="_blank">
+    
+
+
+      
+        sdmg15 /
+
+      Best-websites-a-programmer-should-visit</a></p>
+				<p>
+      🔗 Some useful websites for programmers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 68705</span>
+						<span>🔱 8185</span>
+					</div>
+				<div class="stars-today">⭐ 403 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
+    
+
+
+      
+        ripienaar /
+
+      free-for-dev</a></p>
+				<p>
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 100611</span>
+						<span>🔱 10762</span>
+					</div>
+				<div class="stars-today">⭐ 691 stars today</div>
 				</div>
 			</div>
 	
