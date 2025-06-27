@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-27
-date: 2025-06-27T09:58:34Z
+date: 2025-06-27T11:58:56Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/edit" target="_blank">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
     
 
 
       
-        microsoft /
+        coleam00 /
 
-      edit</a></p>
+      ottomator-agents</a></p>
 				<p>
-      We all edit.
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10839</span>
-						<span>🔱 467</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2249</span>
+						<span>🔱 1068</span>
 					</div>
-				<div class="stars-today">⭐ 411 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mui/base-ui" target="_blank">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
     
 
 
       
-        mui /
+        sindresorhus /
 
-      base-ui</a></p>
+      awesome</a></p>
 				<p>
-      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+      😎 Awesome lists about all kinds of interesting topics
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3918</span>
-						<span>🔱 159</span>
+						<span>🔠 </span>
+						<span>⭐ 374696</span>
+						<span>🔱 29983</span>
 					</div>
-				<div class="stars-today">⭐ 147 stars today</div>
+				<div class="stars-today">⭐ 1081 stars today</div>
 				</div>
 			</div>
 	
@@ -74,76 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20960</span>
+						<span>⭐ 20997</span>
 						<span>🔱 1651</span>
 					</div>
 				<div class="stars-today">⭐ 300 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      registry</a></p>
-				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1768</span>
-						<span>🔱 122</span>
-					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      A collection of MCP servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 58131</span>
-						<span>🔱 4465</span>
-					</div>
-				<div class="stars-today">⭐ 337 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
-    
-
-
-      
-        jujumilk3 /
-
-      leaked-system-prompts</a></p>
-				<p>
-      Collection of leaked system prompts
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 10859</span>
-						<span>🔱 1414</span>
-					</div>
-				<div class="stars-today">⭐ 310 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +96,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29365</span>
-						<span>🔱 3418</span>
+						<span>⭐ 29417</span>
+						<span>🔱 3419</span>
 					</div>
 				<div class="stars-today">⭐ 203 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nexus-xyz/nexus-cli" target="_blank">
+				<p><a href="https://github.com/black-forest-labs/flux" target="_blank">
     
 
 
       
-        nexus-xyz /
+        black-forest-labs /
 
-      nexus-cli</a></p>
+      flux</a></p>
 				<p>
-      Command line interface for supplying proofs to the Nexus network.
+      Official inference repo for FLUX.1 models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 799</span>
-						<span>🔱 342</span>
+						<span>🔠 Python</span>
+						<span>⭐ 22726</span>
+						<span>🔱 1617</span>
 					</div>
-				<div class="stars-today">⭐ 6 stars today</div>
+				<div class="stars-today">⭐ 156 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+    
+
+
+      
+        jujumilk3 /
+
+      leaked-system-prompts</a></p>
+				<p>
+      Collection of leaked system prompts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 10878</span>
+						<span>🔱 1414</span>
+					</div>
+				<div class="stars-today">⭐ 310 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gensyn-ai/rl-swarm" target="_blank">
+    
+
+
+      
+        gensyn-ai /
+
+      rl-swarm</a></p>
+				<p>
+      A fully open source framework for creating RL training swarms over the internet.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 812</span>
+						<span>🔱 406</span>
+					</div>
+				<div class="stars-today">⭐ 14 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rxi/microui" target="_blank">
+    
+
+
+      
+        rxi /
+
+      microui</a></p>
+				<p>
+      A tiny immediate-mode UI library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 4324</span>
+						<span>🔱 281</span>
+					</div>
+				<div class="stars-today">⭐ 260 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+    
+
+
+      
+        automatisch /
+
+      automatisch</a></p>
+				<p>
+      The open source Zapier alternative. Build workflow automation without spending time and money.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11996</span>
+						<span>🔱 878</span>
+					</div>
+				<div class="stars-today">⭐ 195 stars today</div>
 				</div>
 			</div>
 	
@@ -206,142 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38456</span>
+						<span>⭐ 38475</span>
 						<span>🔱 2563</span>
 					</div>
 				<div class="stars-today">⭐ 297 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
-    
-
-
-      
-        DioxusLabs /
-
-      dioxus</a></p>
-				<p>
-      Fullstack app framework for web, desktop, and mobile.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29018</span>
-						<span>🔱 1188</span>
-					</div>
-				<div class="stars-today">⭐ 565 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Portkey-AI/gateway" target="_blank">
-    
-
-
-      
-        Portkey-AI /
-
-      gateway</a></p>
-				<p>
-      A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8428</span>
-						<span>🔱 625</span>
-					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ml-tooling/best-of-ml-python" target="_blank">
-    
-
-
-      
-        ml-tooling /
-
-      best-of-ml-python</a></p>
-				<p>
-      🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 21300</span>
-						<span>🔱 2870</span>
-					</div>
-				<div class="stars-today">⭐ 309 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners</a></p>
-				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 73225</span>
-						<span>🔱 16043</span>
-					</div>
-				<div class="stars-today">⭐ 73 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mikeroyal/Self-Hosting-Guide" target="_blank">
-    
-
-
-      
-        mikeroyal /
-
-      Self-Hosting-Guide</a></p>
-				<p>
-      Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dockerfile</span>
-						<span>⭐ 15195</span>
-						<span>🔱 764</span>
-					</div>
-				<div class="stars-today">⭐ 677 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 86119</span>
-						<span>🔱 45285</span>
-					</div>
-				<div class="stars-today">⭐ 119 stars today</div>
 				</div>
 			</div>
 	
@@ -360,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 69106</span>
+						<span>⭐ 69141</span>
 						<span>🔱 8203</span>
 					</div>
 				<div class="stars-today">⭐ 618 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mui/base-ui" target="_blank">
+    
+
+
+      
+        mui /
+
+      base-ui</a></p>
+				<p>
+      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3947</span>
+						<span>🔱 161</span>
+					</div>
+				<div class="stars-today">⭐ 147 stars today</div>
 				</div>
 			</div>
 	
@@ -382,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 101040</span>
-						<span>🔱 10784</span>
+						<span>⭐ 101082</span>
+						<span>🔱 10787</span>
 					</div>
 				<div class="stars-today">⭐ 716 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cline/cline" target="_blank">
+    
+
+
+      
+        cline /
+
+      cline</a></p>
+				<p>
+      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 46402</span>
+						<span>🔱 5895</span>
+					</div>
+				<div class="stars-today">⭐ 104 stars today</div>
 				</div>
 			</div>
 	

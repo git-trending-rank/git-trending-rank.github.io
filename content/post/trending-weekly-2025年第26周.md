@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第26周
-date: 2025-06-27T09:58:34Z
+date: 2025-06-27T11:58:56Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34172</span>
-						<span>🔱 6559</span>
-					</div>
-				<div class="stars-today">⭐ 3729 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2039</span>
-						<span>🔱 132</span>
+						<span>⭐ 2043</span>
+						<span>🔱 143</span>
 					</div>
 				<div class="stars-today">⭐ 1277 stars this week</div>
 				</div>
@@ -74,54 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26810</span>
-						<span>🔱 8631</span>
+						<span>⭐ 26812</span>
+						<span>🔱 8632</span>
 					</div>
 				<div class="stars-today">⭐ 540 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
     
 
 
       
-        patchy631 /
+        DataExpert-io /
 
-      ai-engineering-hub</a></p>
+      data-engineer-handbook</a></p>
 				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+      This is a repo with links to everything you'd ever want to learn about data engineering
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12769</span>
-						<span>🔱 2141</span>
+						<span>⭐ 34177</span>
+						<span>🔱 6561</span>
 					</div>
-				<div class="stars-today">⭐ 2662 stars this week</div>
+				<div class="stars-today">⭐ 3729 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+				<p><a href="https://github.com/cyclotruc/gitingest" target="_blank">
     
 
 
       
-        automatisch /
+        cyclotruc /
 
-      automatisch</a></p>
+      gitingest</a></p>
 				<p>
-      The open source Zapier alternative. Build workflow automation without spending time and money.
+      Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11983</span>
-						<span>🔱 878</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10294</span>
+						<span>🔱 767</span>
 					</div>
-				<div class="stars-today">⭐ 1031 stars this week</div>
+				<div class="stars-today">⭐ 990 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10839</span>
+						<span>⭐ 10849</span>
 						<span>🔱 467</span>
 					</div>
 				<div class="stars-today">⭐ 2073 stars this week</div>
@@ -148,46 +126,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Mail-0/Zero" target="_blank">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
     
 
 
       
-        Mail-0 /
+        patchy631 /
 
-      Zero</a></p>
+      ai-engineering-hub</a></p>
 				<p>
-      Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/mail0
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8524</span>
-						<span>🔱 842</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12784</span>
+						<span>🔱 2145</span>
 					</div>
-				<div class="stars-today">⭐ 342 stars this week</div>
+				<div class="stars-today">⭐ 2662 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ManimCommunity/manim" target="_blank">
+				<p><a href="https://github.com/dail8859/NotepadNext" target="_blank">
     
 
 
       
-        ManimCommunity /
+        dail8859 /
 
-      manim</a></p>
+      NotepadNext</a></p>
 				<p>
-      A community-maintained Python framework for creating mathematical animations. 
+      A cross-platform, reimplementation of Notepad++
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33112</span>
-						<span>🔱 2313</span>
+						<span>🔠 C++</span>
+						<span>⭐ 11482</span>
+						<span>🔱 685</span>
 					</div>
-				<div class="stars-today">⭐ 724 stars this week</div>
+				<div class="stars-today">⭐ 873 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3918</span>
-						<span>🔱 159</span>
+						<span>⭐ 3947</span>
+						<span>🔱 161</span>
 					</div>
 				<div class="stars-today">⭐ 648 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
-    
-
-
-      
-        menloresearch /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33582</span>
-						<span>🔱 1953</span>
-					</div>
-				<div class="stars-today">⭐ 1613 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 43299</span>
-						<span>🔱 1158</span>
+						<span>⭐ 43308</span>
+						<span>🔱 1159</span>
 					</div>
 				<div class="stars-today">⭐ 1112 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+    
+
+
+      
+        automatisch /
+
+      automatisch</a></p>
+				<p>
+      The open source Zapier alternative. Build workflow automation without spending time and money.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11996</span>
+						<span>🔱 878</span>
+					</div>
+				<div class="stars-today">⭐ 1031 stars this week</div>
 				</div>
 			</div>
 	
