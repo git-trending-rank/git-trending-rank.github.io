@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第26周
-date: 2025-06-28T09:58:55Z
+date: 2025-06-28T11:58:34Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2107</span>
-						<span>🔱 145</span>
-					</div>
-				<div class="stars-today">⭐ 1230 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
@@ -52,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26830</span>
-						<span>🔱 8650</span>
+						<span>⭐ 26831</span>
+						<span>🔱 8652</span>
 					</div>
 				<div class="stars-today">⭐ 559 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
     
 
 
       
-        DataExpert-io /
+        musistudio /
 
-      data-engineer-handbook</a></p>
+      claude-code-router</a></p>
 				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34245</span>
-						<span>🔱 6574</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2110</span>
+						<span>🔱 145</span>
 					</div>
-				<div class="stars-today">⭐ 2083 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cyclotruc/gitingest" target="_blank">
-    
-
-
-      
-        cyclotruc /
-
-      gitingest</a></p>
-				<p>
-      Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10347</span>
-						<span>🔱 771</span>
-					</div>
-				<div class="stars-today">⭐ 896 stars this week</div>
+				<div class="stars-today">⭐ 1230 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10919</span>
+						<span>⭐ 10931</span>
 						<span>🔱 472</span>
 					</div>
 				<div class="stars-today">⭐ 2292 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29826</span>
+						<span>🔱 3444</span>
+					</div>
+				<div class="stars-today">⭐ 1202 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      ottomator-agents</a></p>
+				<p>
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2828</span>
+						<span>🔱 1118</span>
+					</div>
+				<div class="stars-today">⭐ 280 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12899</span>
+						<span>⭐ 12906</span>
 						<span>🔱 2158</span>
 					</div>
 				<div class="stars-today">⭐ 2662 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dail8859/NotepadNext" target="_blank">
-    
-
-
-      
-        dail8859 /
-
-      NotepadNext</a></p>
-				<p>
-      A cross-platform, reimplementation of Notepad++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 11530</span>
-						<span>🔱 690</span>
-					</div>
-				<div class="stars-today">⭐ 654 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mui/base-ui" target="_blank">
-    
-
-
-      
-        mui /
-
-      base-ui</a></p>
-				<p>
-      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4215</span>
-						<span>🔱 171</span>
-					</div>
-				<div class="stars-today">⭐ 926 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 43354</span>
+						<span>⭐ 43363</span>
 						<span>🔱 1158</span>
 					</div>
 				<div class="stars-today">⭐ 1125 stars this week</div>
@@ -214,24 +170,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
     
 
 
       
-        automatisch /
+        HKUDS /
 
-      automatisch</a></p>
+      AutoAgent</a></p>
 				<p>
-      The open source Zapier alternative. Build workflow automation without spending time and money.
+      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12185</span>
-						<span>🔱 889</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5188</span>
+						<span>🔱 728</span>
 					</div>
-				<div class="stars-today">⭐ 934 stars this week</div>
+				<div class="stars-today">⭐ 391 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Portkey-AI/gateway" target="_blank">
+    
+
+
+      
+        Portkey-AI /
+
+      gateway</a></p>
+				<p>
+      A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8480</span>
+						<span>🔱 629</span>
+					</div>
+				<div class="stars-today">⭐ 366 stars this week</div>
 				</div>
 			</div>
 	

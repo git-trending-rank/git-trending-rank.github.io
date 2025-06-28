@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-28
-date: 2025-06-28T09:58:55Z
+date: 2025-06-28T11:58:34Z
 categories:
 - daily
 keywords:
@@ -14,72 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      ottomator-agents</a></p>
-				<p>
-      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2809</span>
-						<span>🔱 1113</span>
-					</div>
-				<div class="stars-today">⭐ 103 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 375209</span>
-						<span>🔱 30026</span>
-					</div>
-				<div class="stars-today">⭐ 655 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
-    
-
-
-      
-        gitleaks /
-
-      gitleaks</a></p>
-				<p>
-      Find secrets with Gitleaks 🔑
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21183</span>
-						<span>🔱 1658</span>
-					</div>
-				<div class="stars-today">⭐ 327 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
@@ -96,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29746</span>
-						<span>🔱 3440</span>
+						<span>⭐ 29826</span>
+						<span>🔱 3444</span>
 					</div>
 				<div class="stars-today">⭐ 817 stars today</div>
 				</div>
@@ -118,208 +52,296 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22848</span>
-						<span>🔱 1625</span>
+						<span>⭐ 22854</span>
+						<span>🔱 1626</span>
 					</div>
 				<div class="stars-today">⭐ 175 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jujumilk3/leaked-system-prompts" target="_blank">
+				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
     
 
 
       
-        jujumilk3 /
+        GraphiteEditor /
 
-      leaked-system-prompts</a></p>
+      Graphite</a></p>
 				<p>
-      Collection of leaked system prompts
+      2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 11044</span>
-						<span>🔱 1419</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13594</span>
+						<span>🔱 631</span>
 					</div>
-				<div class="stars-today">⭐ 261 stars today</div>
+				<div class="stars-today">⭐ 263 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gensyn-ai/rl-swarm" target="_blank">
+				<p><a href="https://github.com/adityachandelgit/BookLore" target="_blank">
     
 
 
       
-        gensyn-ai /
+        adityachandelgit /
 
-      rl-swarm</a></p>
+      BookLore</a></p>
 				<p>
-      A fully open source framework for creating RL training swarms over the internet.
+      BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 1677</span>
+						<span>🔱 65</span>
+					</div>
+				<div class="stars-today">⭐ 50 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      ottomator-agents</a></p>
+				<p>
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 932</span>
-						<span>🔱 415</span>
+						<span>⭐ 2828</span>
+						<span>🔱 1118</span>
 					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
+				<div class="stars-today">⭐ 103 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rxi/microui" target="_blank">
+				<p><a href="https://github.com/rommapp/romm" target="_blank">
     
 
 
       
-        rxi /
+        rommapp /
 
-      microui</a></p>
+      romm</a></p>
 				<p>
-      A tiny immediate-mode UI library
+      A beautiful, powerful, self-hosted rom manager and player.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 4458</span>
-						<span>🔱 286</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4858</span>
+						<span>🔱 205</span>
 					</div>
-				<div class="stars-today">⭐ 108 stars today</div>
+				<div class="stars-today">⭐ 35 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+				<p><a href="https://github.com/Serial-Studio/Serial-Studio" target="_blank">
     
 
 
       
-        automatisch /
+        Serial-Studio /
 
-      automatisch</a></p>
+      Serial-Studio</a></p>
 				<p>
-      The open source Zapier alternative. Build workflow automation without spending time and money.
+      Visualize embedded device data.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5630</span>
+						<span>🔱 864</span>
+					</div>
+				<div class="stars-today">⭐ 20 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/midday-ai/midday" target="_blank">
+    
+
+
+      
+        midday-ai /
+
+      midday</a></p>
+				<p>
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8082</span>
+						<span>🔱 798</span>
+					</div>
+				<div class="stars-today">⭐ 20 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners</a></p>
+				<p>
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 86213</span>
+						<span>🔱 45387</span>
+					</div>
+				<div class="stars-today">⭐ 228 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fastapi/full-stack-fastapi-template" target="_blank">
+    
+
+
+      
+        fastapi /
+
+      full-stack-fastapi-template</a></p>
+				<p>
+      Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33803</span>
+						<span>🔱 6443</span>
+					</div>
+				<div class="stars-today">⭐ 112 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
+    
+
+
+      
+        swisskyrepo /
+
+      PayloadsAllTheThings</a></p>
+				<p>
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 66274</span>
+						<span>🔱 15492</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/actions/actions-runner-controller" target="_blank">
+    
+
+
+      
+        actions /
+
+      actions-runner-controller</a></p>
+				<p>
+      Kubernetes controller for GitHub Actions self-hosted runners
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5365</span>
+						<span>🔱 1258</span>
+					</div>
+				<div class="stars-today">⭐ 4 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+    
+
+
+      
+        GyulyVGC /
+
+      sniffnet</a></p>
+				<p>
+      Comfortably monitor your Internet traffic 🕵️‍♂️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 24713</span>
+						<span>🔱 784</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      cookbook</a></p>
+				<p>
+      Examples and guides for using the Gemini API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13617</span>
+						<span>🔱 1875</span>
+					</div>
+				<div class="stars-today">⭐ 42 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pot-app/pot-desktop" target="_blank">
+    
+
+
+      
+        pot-app /
+
+      pot-desktop</a></p>
+				<p>
+      🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12185</span>
-						<span>🔱 889</span>
+						<span>⭐ 13111</span>
+						<span>🔱 603</span>
 					</div>
-				<div class="stars-today">⭐ 183 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
-    
-
-
-      
-        AykutSarac /
-
-      jsoncrack.com</a></p>
-				<p>
-      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38603</span>
-						<span>🔱 2577</span>
-					</div>
-				<div class="stars-today">⭐ 211 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sdmg15/Best-websites-a-programmer-should-visit" target="_blank">
-    
-
-
-      
-        sdmg15 /
-
-      Best-websites-a-programmer-should-visit</a></p>
-				<p>
-      🔗 Some useful websites for programmers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 69413</span>
-						<span>🔱 8209</span>
-					</div>
-				<div class="stars-today">⭐ 440 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mui/base-ui" target="_blank">
-    
-
-
-      
-        mui /
-
-      base-ui</a></p>
-				<p>
-      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4215</span>
-						<span>🔱 171</span>
-					</div>
-				<div class="stars-today">⭐ 376 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
-    
-
-
-      
-        ripienaar /
-
-      free-for-dev</a></p>
-				<p>
-      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 101373</span>
-						<span>🔱 10801</span>
-					</div>
-				<div class="stars-today">⭐ 476 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
-    
-
-
-      
-        cline /
-
-      cline</a></p>
-				<p>
-      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 46556</span>
-						<span>🔱 5911</span>
-					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
+				<div class="stars-today">⭐ 202 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-28T09:58:55Z
+date: 2025-06-28T11:58:34Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34245</span>
-						<span>🔱 6574</span>
+						<span>⭐ 34249</span>
+						<span>🔱 6575</span>
 					</div>
 				<div class="stars-today">⭐ 6238 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+    
+
+
+      
+        frdel /
+
+      agent-zero</a></p>
+				<p>
+      Agent Zero AI framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10348</span>
+						<span>🔱 2030</span>
+					</div>
+				<div class="stars-today">⭐ 3684 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13775</span>
+						<span>⭐ 13782</span>
 						<span>🔱 1280</span>
 					</div>
 				<div class="stars-today">⭐ 10795 stars this month</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46661</span>
-						<span>🔱 5324</span>
+						<span>⭐ 46681</span>
+						<span>🔱 5328</span>
 					</div>
 				<div class="stars-today">⭐ 14049 stars this month</div>
 				</div>
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33649</span>
+						<span>⭐ 33654</span>
 						<span>🔱 1955</span>
 					</div>
 				<div class="stars-today">⭐ 4517 stars this month</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8115</span>
+						<span>⭐ 8116</span>
 						<span>🔱 495</span>
 					</div>
 				<div class="stars-today">⭐ 3794 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      anthropic-cookbook</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17218</span>
-						<span>🔱 1783</span>
-					</div>
-				<div class="stars-today">⭐ 4783 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 375209</span>
-						<span>🔱 30026</span>
+						<span>⭐ 375237</span>
+						<span>🔱 30028</span>
 					</div>
 				<div class="stars-today">⭐ 13024 stars this month</div>
 				</div>
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9437</span>
+						<span>⭐ 9438</span>
 						<span>🔱 1130</span>
 					</div>
 				<div class="stars-today">⭐ 3466 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17225</span>
+						<span>🔱 1783</span>
+					</div>
+				<div class="stars-today">⭐ 4783 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 16074</span>
-						<span>🔱 884</span>
+						<span>⭐ 16081</span>
+						<span>🔱 886</span>
 					</div>
 				<div class="stars-today">⭐ 5679 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16058</span>
-						<span>🔱 1384</span>
-					</div>
-				<div class="stars-today">⭐ 4201 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19659</span>
+						<span>⭐ 19662</span>
 						<span>🔱 2016</span>
 					</div>
 				<div class="stars-today">⭐ 4019 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/courses" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      courses</a></p>
+				<p>
+      Anthropic's educational courses
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16065</span>
+						<span>🔱 1384</span>
+					</div>
+				<div class="stars-today">⭐ 4201 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,76 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26830</span>
-						<span>🔱 8650</span>
+						<span>⭐ 26831</span>
+						<span>🔱 8652</span>
 					</div>
 				<div class="stars-today">⭐ 697 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+				<p><a href="https://github.com/aaPanel/BillionMail" target="_blank">
     
 
 
       
-        Fosowl /
+        aaPanel /
 
-      agenticSeek</a></p>
+      BillionMail</a></p>
 				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19583</span>
-						<span>🔱 1911</span>
-					</div>
-				<div class="stars-today">⭐ 11072 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
-    
-
-
-      
-        netbirdio /
-
-      netbird</a></p>
-				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16537</span>
-						<span>🔱 766</span>
+						<span>⭐ 6357</span>
+						<span>🔱 529</span>
 					</div>
-				<div class="stars-today">⭐ 2799 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 308818</span>
-						<span>🔱 50893</span>
-					</div>
-				<div class="stars-today">⭐ 8009 stars this month</div>
+				<div class="stars-today">⭐ 4835 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8118</span>
+						<span>⭐ 8123</span>
 						<span>🔱 1012</span>
 					</div>
 				<div class="stars-today">⭐ 2896 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
-    
-
-
-      
-        gitroomhq /
-
-      postiz-app</a></p>
-				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22101</span>
-						<span>🔱 3484</span>
-					</div>
-				<div class="stars-today">⭐ 2254 stars this month</div>
 				</div>
 			</div>
 	
