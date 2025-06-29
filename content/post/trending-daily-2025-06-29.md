@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-06-29
-date: 2025-06-29T09:58:52Z
+date: 2025-06-29T11:58:38Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30714</span>
-						<span>🔱 3504</span>
+						<span>⭐ 30804</span>
+						<span>🔱 3509</span>
 					</div>
 				<div class="stars-today">⭐ 425 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/black-forest-labs/flux" target="_blank">
-    
-
-
-      
-        black-forest-labs /
-
-      flux</a></p>
-				<p>
-      Official inference repo for FLUX.1 models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22944</span>
-						<span>🔱 1635</span>
-					</div>
-				<div class="stars-today">⭐ 130 stars today</div>
 				</div>
 			</div>
 	
@@ -74,120 +52,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13896</span>
-						<span>🔱 644</span>
+						<span>⭐ 13960</span>
+						<span>🔱 648</span>
 					</div>
 				<div class="stars-today">⭐ 286 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/adityachandelgit/BookLore" target="_blank">
+				<p><a href="https://github.com/octra-labs/wallet-gen" target="_blank">
     
 
 
       
-        adityachandelgit /
+        octra-labs /
 
-      BookLore</a></p>
-				<p>
-      BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
-    </p>
+      wallet-gen</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 1958</span>
-						<span>🔱 79</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 238</span>
+						<span>🔱 5225</span>
 					</div>
 				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      ottomator-agents</a></p>
-				<p>
-      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2973</span>
-						<span>🔱 1139</span>
-					</div>
-				<div class="stars-today">⭐ 572 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rommapp/romm" target="_blank">
-    
-
-
-      
-        rommapp /
-
-      romm</a></p>
-				<p>
-      A beautiful, powerful, self-hosted rom manager and player.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5096</span>
-						<span>🔱 211</span>
-					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Serial-Studio/Serial-Studio" target="_blank">
-    
-
-
-      
-        Serial-Studio /
-
-      Serial-Studio</a></p>
-				<p>
-      Visualize embedded device data.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 5831</span>
-						<span>🔱 869</span>
-					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
-    
-
-
-      
-        midday-ai /
-
-      midday</a></p>
-				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8251</span>
-						<span>🔱 806</span>
-					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	
@@ -206,32 +94,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 86476</span>
-						<span>🔱 45486</span>
+						<span>⭐ 86502</span>
+						<span>🔱 45502</span>
 					</div>
 				<div class="stars-today">⭐ 87 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fastapi/full-stack-fastapi-template" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        fastapi /
+        x1xhlol /
 
-      full-stack-fastapi-template</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
+      FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Trae AI & Cluely (And other Open Sourced) System Prompts, Tools & AI Models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 62677</span>
+						<span>🔱 18484</span>
+					</div>
+				<div class="stars-today">⭐ 860 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      ottomator-agents</a></p>
+				<p>
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2991</span>
+						<span>🔱 1140</span>
+					</div>
+				<div class="stars-today">⭐ 572 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+    
+
+
+      
+        stanford-oval /
+
+      storm</a></p>
+				<p>
+      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24832</span>
+						<span>🔱 2226</span>
+					</div>
+				<div class="stars-today">⭐ 132 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jnsahaj/tweakcn" target="_blank">
+    
+
+
+      
+        jnsahaj /
+
+      tweakcn</a></p>
+				<p>
+      A visual no-code theme editor for shadcn/ui components
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34068</span>
-						<span>🔱 6469</span>
+						<span>⭐ 4339</span>
+						<span>🔱 230</span>
 					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
+				<div class="stars-today">⭐ 116 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mendableai/firecrawl" target="_blank">
+    
+
+
+      
+        mendableai /
+
+      firecrawl</a></p>
+				<p>
+      🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40887</span>
+						<span>🔱 3861</span>
+					</div>
+				<div class="stars-today">⭐ 164 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22608</span>
+						<span>🔱 2356</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/adityachandelgit/BookLore" target="_blank">
+    
+
+
+      
+        adityachandelgit /
+
+      BookLore</a></p>
+				<p>
+      BookLore is a web app for hosting, managing, and exploring books, with support for PDFs, eBooks, reading progress, metadata, and stats.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 1974</span>
+						<span>🔱 80</span>
+					</div>
+				<div class="stars-today">⭐ 62 stars today</div>
 				</div>
 			</div>
 	
@@ -250,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66407</span>
+						<span>⭐ 66421</span>
 						<span>🔱 15500</span>
 					</div>
 				<div class="stars-today">⭐ 38 stars today</div>
@@ -258,90 +278,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/actions/actions-runner-controller" target="_blank">
+				<p><a href="https://github.com/mikumifa/biliTickerBuy" target="_blank">
     
 
 
       
-        actions /
+        mikumifa /
 
-      actions-runner-controller</a></p>
+      biliTickerBuy</a></p>
 				<p>
-      Kubernetes controller for GitHub Actions self-hosted runners
+      b站会员购购票辅助工具
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2448</span>
+						<span>🔱 332</span>
+					</div>
+				<div class="stars-today">⭐ 65 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/m1k1o/neko" target="_blank">
+    
+
+
+      
+        m1k1o /
+
+      neko</a></p>
+				<p>
+      A self hosted virtual browser that runs in docker and uses WebRTC.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5415</span>
-						<span>🔱 1261</span>
+						<span>⭐ 11104</span>
+						<span>🔱 757</span>
 					</div>
-				<div class="stars-today">⭐ 5 stars today</div>
+				<div class="stars-today">⭐ 208 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
     
 
 
       
-        GyulyVGC /
+        LMCache /
 
-      sniffnet</a></p>
+      LMCache</a></p>
 				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
+      Supercharge Your LLM with the Fastest KV Cache Layer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 25073</span>
-						<span>🔱 791</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2033</span>
+						<span>🔱 265</span>
 					</div>
-				<div class="stars-today">⭐ 127 stars today</div>
+				<div class="stars-today">⭐ 262 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/cookbook" target="_blank">
+				<p><a href="https://github.com/zyronon/typing-word" target="_blank">
     
 
 
       
-        google-gemini /
+        zyronon /
 
-      cookbook</a></p>
+      typing-word</a></p>
 				<p>
-      Examples and guides for using the Gemini API
+      在网页上背单词
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13808</span>
-						<span>🔱 1884</span>
+						<span>🔠 Vue</span>
+						<span>⭐ 1800</span>
+						<span>🔱 220</span>
 					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pot-app/pot-desktop" target="_blank">
-    
-
-
-      
-        pot-app /
-
-      pot-desktop</a></p>
-				<p>
-      🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 13322</span>
-						<span>🔱 612</span>
-					</div>
-				<div class="stars-today">⭐ 82 stars today</div>
+				<div class="stars-today">⭐ 145 stars today</div>
 				</div>
 			</div>
 	

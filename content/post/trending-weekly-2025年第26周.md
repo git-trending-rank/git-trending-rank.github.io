@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第26周
-date: 2025-06-29T09:58:52Z
+date: 2025-06-29T11:58:38Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30804</span>
+						<span>🔱 3509</span>
+					</div>
+				<div class="stars-today">⭐ 1570 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26852</span>
-						<span>🔱 8658</span>
+						<span>⭐ 26856</span>
+						<span>🔱 8660</span>
 					</div>
 				<div class="stars-today">⭐ 542 stars this week</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2198</span>
-						<span>🔱 160</span>
+						<span>⭐ 2207</span>
+						<span>🔱 162</span>
 					</div>
 				<div class="stars-today">⭐ 1175 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10992</span>
-						<span>🔱 476</span>
+						<span>⭐ 11003</span>
+						<span>🔱 477</span>
 					</div>
 				<div class="stars-today">⭐ 2319 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      Building a modern alternative to Salesforce, powered by the community.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30714</span>
-						<span>🔱 3504</span>
-					</div>
-				<div class="stars-today">⭐ 1570 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2973</span>
-						<span>🔱 1139</span>
+						<span>⭐ 2991</span>
+						<span>🔱 1140</span>
 					</div>
 				<div class="stars-today">⭐ 723 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
     
 
 
       
-        patchy631 /
+        AykutSarac /
 
-      ai-engineering-hub</a></p>
+      jsoncrack.com</a></p>
 				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12968</span>
-						<span>🔱 2169</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 38633</span>
+						<span>🔱 2582</span>
 					</div>
-				<div class="stars-today">⭐ 2260 stars this week</div>
+				<div class="stars-today">⭐ 863 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/isledecomp/isle-portable" target="_blank">
+    
+
+
+      
+        isledecomp /
+
+      isle-portable</a></p>
+				<p>
+      A portable version of LEGO Island (1997)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 734</span>
+						<span>🔱 67</span>
+					</div>
+				<div class="stars-today">⭐ 410 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cyclotruc/gitingest" target="_blank">
+    
+
+
+      
+        cyclotruc /
+
+      gitingest</a></p>
+				<p>
+      Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10402</span>
+						<span>🔱 777</span>
+					</div>
+				<div class="stars-today">⭐ 796 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 43457</span>
+						<span>⭐ 43463</span>
 						<span>🔱 1158</span>
 					</div>
 				<div class="stars-today">⭐ 1113 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      AutoAgent</a></p>
-				<p>
-      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5244</span>
-						<span>🔱 731</span>
-					</div>
-				<div class="stars-today">⭐ 301 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8545</span>
-						<span>🔱 630</span>
+						<span>⭐ 8551</span>
+						<span>🔱 629</span>
 					</div>
 				<div class="stars-today">⭐ 404 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub</a></p>
+				<p>
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12977</span>
+						<span>🔱 2169</span>
+					</div>
+				<div class="stars-today">⭐ 2260 stars this week</div>
 				</div>
 			</div>
 	

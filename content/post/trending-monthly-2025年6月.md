@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-29T09:58:52Z
+date: 2025-06-29T11:58:38Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34298</span>
-						<span>🔱 6593</span>
+						<span>⭐ 34300</span>
+						<span>🔱 6595</span>
 					</div>
 				<div class="stars-today">⭐ 6297 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10398</span>
+						<span>⭐ 10401</span>
 						<span>🔱 2031</span>
 					</div>
 				<div class="stars-today">⭐ 3695 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13843</span>
-						<span>🔱 1287</span>
-					</div>
-				<div class="stars-today">⭐ 10244 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46861</span>
-						<span>🔱 5357</span>
+						<span>⭐ 46873</span>
+						<span>🔱 5358</span>
 					</div>
 				<div class="stars-today">⭐ 14155 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13851</span>
+						<span>🔱 1287</span>
+					</div>
+				<div class="stars-today">⭐ 10244 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33701</span>
+						<span>⭐ 33703</span>
 						<span>🔱 1959</span>
 					</div>
 				<div class="stars-today">⭐ 4566 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8147</span>
-						<span>🔱 499</span>
+						<span>⭐ 8148</span>
+						<span>🔱 497</span>
 					</div>
 				<div class="stars-today">⭐ 3805 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 375620</span>
-						<span>🔱 30049</span>
+						<span>⭐ 375664</span>
+						<span>🔱 30051</span>
 					</div>
 				<div class="stars-today">⭐ 13416 stars this month</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9467</span>
+						<span>⭐ 9470</span>
 						<span>🔱 1133</span>
 					</div>
 				<div class="stars-today">⭐ 3510 stars this month</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17267</span>
-						<span>🔱 1787</span>
+						<span>⭐ 17270</span>
+						<span>🔱 1788</span>
 					</div>
 				<div class="stars-today">⭐ 4807 stars this month</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 16247</span>
+						<span>⭐ 16260</span>
 						<span>🔱 896</span>
 					</div>
 				<div class="stars-today">⭐ 5775 stars this month</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19701</span>
+						<span>⭐ 19709</span>
 						<span>🔱 2020</span>
 					</div>
 				<div class="stars-today">⭐ 4034 stars this month</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16110</span>
+						<span>⭐ 16114</span>
 						<span>🔱 1390</span>
 					</div>
 				<div class="stars-today">⭐ 4137 stars this month</div>
@@ -294,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26852</span>
-						<span>🔱 8658</span>
+						<span>⭐ 26856</span>
+						<span>🔱 8660</span>
 					</div>
 				<div class="stars-today">⭐ 712 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aaPanel/BillionMail" target="_blank">
-    
-
-
-      
-        aaPanel /
-
-      BillionMail</a></p>
-				<p>
-      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6411</span>
-						<span>🔱 533</span>
-					</div>
-				<div class="stars-today">⭐ 4190 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8189</span>
+						<span>⭐ 8194</span>
 						<span>🔱 1022</span>
 					</div>
 				<div class="stars-today">⭐ 2966 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30804</span>
+						<span>🔱 3509</span>
+					</div>
+				<div class="stars-today">⭐ 2105 stars this month</div>
 				</div>
 			</div>
 	
