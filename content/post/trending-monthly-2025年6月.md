@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年6月
-date: 2025-06-30T09:58:36Z
+date: 2025-06-30T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34371</span>
-						<span>🔱 6608</span>
+						<span>⭐ 34374</span>
+						<span>🔱 6609</span>
 					</div>
 				<div class="stars-today">⭐ 6323 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
     
 
 
       
-        frdel /
+        onlook-dev /
 
-      agent-zero</a></p>
+      onlook</a></p>
 				<p>
-      Agent Zero AI framework
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10459</span>
-						<span>🔱 2035</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19568</span>
+						<span>🔱 1262</span>
 					</div>
-				<div class="stars-today">⭐ 3739 stars this month</div>
+				<div class="stars-today">⭐ 10150 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47079</span>
-						<span>🔱 5381</span>
+						<span>⭐ 47094</span>
+						<span>🔱 5386</span>
 					</div>
 				<div class="stars-today">⭐ 14295 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
     
 
 
       
-        anthropics /
+        frdel /
 
-      prompt-eng-interactive-tutorial</a></p>
+      agent-zero</a></p>
 				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
+      Agent Zero AI framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13916</span>
-						<span>🔱 1289</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10462</span>
+						<span>🔱 2036</span>
 					</div>
-				<div class="stars-today">⭐ 9588 stars this month</div>
+				<div class="stars-today">⭐ 3739 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33750</span>
-						<span>🔱 1963</span>
+						<span>⭐ 33759</span>
+						<span>🔱 1964</span>
 					</div>
 				<div class="stars-today">⭐ 4597 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8193</span>
-						<span>🔱 501</span>
-					</div>
-				<div class="stars-today">⭐ 3825 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,54 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 376109</span>
-						<span>🔱 30081</span>
+						<span>⭐ 376139</span>
+						<span>🔱 30087</span>
 					</div>
 				<div class="stars-today">⭐ 13648 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
     
 
 
       
-        nautechsystems /
+        tensorzero /
 
-      nautilus_trader</a></p>
+      tensorzero</a></p>
 				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9513</span>
-						<span>🔱 1137</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 8198</span>
+						<span>🔱 502</span>
 					</div>
-				<div class="stars-today">⭐ 3539 stars this month</div>
+				<div class="stars-today">⭐ 3825 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
     
 
 
       
         anthropics /
 
-      anthropic-cookbook</a></p>
+      prompt-eng-interactive-tutorial</a></p>
 				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      Anthropic's Interactive Prompt Engineering Tutorial
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17318</span>
-						<span>🔱 1791</span>
+						<span>⭐ 13922</span>
+						<span>🔱 1289</span>
 					</div>
-				<div class="stars-today">⭐ 4817 stars this month</div>
+				<div class="stars-today">⭐ 9588 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 16464</span>
-						<span>🔱 904</span>
+						<span>⭐ 16482</span>
+						<span>🔱 905</span>
 					</div>
 				<div class="stars-today">⭐ 5785 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17320</span>
+						<span>🔱 1791</span>
+					</div>
+				<div class="stars-today">⭐ 4817 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9515</span>
+						<span>🔱 1138</span>
+					</div>
+				<div class="stars-today">⭐ 3539 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,76 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19811</span>
-						<span>🔱 2039</span>
+						<span>⭐ 19819</span>
+						<span>🔱 2040</span>
 					</div>
 				<div class="stars-today">⭐ 4060 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/courses" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      courses</a></p>
-				<p>
-      Anthropic's educational courses
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16165</span>
-						<span>🔱 1394</span>
-					</div>
-				<div class="stars-today">⭐ 4045 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
-    
-
-
-      
-        DrKLO /
-
-      Telegram</a></p>
-				<p>
-      Telegram for Android source
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 26879</span>
-						<span>🔱 8667</span>
-					</div>
-				<div class="stars-today">⭐ 732 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8352</span>
-						<span>🔱 1040</span>
-					</div>
-				<div class="stars-today">⭐ 2970 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31950</span>
-						<span>🔱 3567</span>
+						<span>⭐ 32027</span>
+						<span>🔱 3571</span>
 					</div>
 				<div class="stars-today">⭐ 2937 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
+    
+
+
+      
+        DrKLO /
+
+      Telegram</a></p>
+				<p>
+      Telegram for Android source
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 26880</span>
+						<span>🔱 8668</span>
+					</div>
+				<div class="stars-today">⭐ 732 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+    
+
+
+      
+        gitroomhq /
+
+      postiz-app</a></p>
+				<p>
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22137</span>
+						<span>🔱 3493</span>
+					</div>
+				<div class="stars-today">⭐ 2285 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8363</span>
+						<span>🔱 1040</span>
+					</div>
+				<div class="stars-today">⭐ 2970 stars this month</div>
 				</div>
 			</div>
 	
