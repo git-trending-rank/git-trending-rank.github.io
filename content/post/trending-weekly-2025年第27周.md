@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第27周
-date: 2025-06-30T21:58:39Z
+date: 2025-06-30T23:58:41Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32177</span>
-						<span>🔱 3579</span>
+						<span>⭐ 32216</span>
+						<span>🔱 3584</span>
 					</div>
 				<div class="stars-today">⭐ 2625 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3170</span>
-						<span>🔱 1167</span>
+						<span>⭐ 3176</span>
+						<span>🔱 1168</span>
 					</div>
 				<div class="stars-today">⭐ 895 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2460</span>
+						<span>⭐ 2468</span>
 						<span>🔱 189</span>
 					</div>
 				<div class="stars-today">⭐ 1202 stars this week</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26884</span>
+						<span>⭐ 26886</span>
 						<span>🔱 8671</span>
 					</div>
 				<div class="stars-today">⭐ 498 stars this week</div>
@@ -113,13 +113,13 @@ keywords:
 
       Graphite</a></p>
 				<p>
-      2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+      An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15721</span>
-						<span>🔱 698</span>
+						<span>⭐ 15809</span>
+						<span>🔱 705</span>
 					</div>
 				<div class="stars-today">⭐ 1048 stars this week</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11118</span>
+						<span>⭐ 11122</span>
 						<span>🔱 486</span>
 					</div>
 				<div class="stars-today">⭐ 2151 stars this week</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8423</span>
-						<span>🔱 813</span>
+						<span>⭐ 8435</span>
+						<span>🔱 815</span>
 					</div>
 				<div class="stars-today">⭐ 236 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13126</span>
-						<span>🔱 2191</span>
+						<span>⭐ 13131</span>
+						<span>🔱 2192</span>
 					</div>
 				<div class="stars-today">⭐ 1753 stars this week</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8669</span>
+						<span>⭐ 8675</span>
 						<span>🔱 636</span>
 					</div>
 				<div class="stars-today">⭐ 474 stars this week</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25577</span>
+						<span>⭐ 25597</span>
 						<span>🔱 2313</span>
 					</div>
 				<div class="stars-today">⭐ 813 stars this week</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10489</span>
+						<span>⭐ 10498</span>
 						<span>🔱 788</span>
 					</div>
 				<div class="stars-today">⭐ 625 stars this week</div>
