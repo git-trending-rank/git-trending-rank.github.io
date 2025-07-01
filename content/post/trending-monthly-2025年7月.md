@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-01T09:58:52Z
+date: 2025-07-01T11:58:47Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34444</span>
+						<span>⭐ 34449</span>
 						<span>🔱 6616</span>
 					</div>
 				<div class="stars-today">⭐ 6380 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
-    
-
-
-      
-        onlook-dev /
-
-      onlook</a></p>
-				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19654</span>
-						<span>🔱 1274</span>
-					</div>
-				<div class="stars-today">⭐ 9946 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47262</span>
-						<span>🔱 5415</span>
+						<span>⭐ 47276</span>
+						<span>🔱 5418</span>
 					</div>
 				<div class="stars-today">⭐ 14413 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19673</span>
+						<span>🔱 1277</span>
+					</div>
+				<div class="stars-today">⭐ 9946 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10501</span>
-						<span>🔱 2046</span>
+						<span>⭐ 10505</span>
+						<span>🔱 2047</span>
 					</div>
 				<div class="stars-today">⭐ 3646 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 12058</span>
-						<span>🔱 870</span>
-					</div>
-				<div class="stars-today">⭐ 8698 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33814</span>
+						<span>⭐ 33821</span>
 						<span>🔱 1969</span>
 					</div>
 				<div class="stars-today">⭐ 4631 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 376608</span>
-						<span>🔱 30123</span>
-					</div>
-				<div class="stars-today">⭐ 13803 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8235</span>
+						<span>⭐ 8239</span>
 						<span>🔱 507</span>
 					</div>
 				<div class="stars-today">⭐ 3838 stars this month</div>
@@ -192,24 +148,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
     
 
 
       
-        anthropics /
+        sindresorhus /
 
-      prompt-eng-interactive-tutorial</a></p>
+      awesome</a></p>
 				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
+      😎 Awesome lists about all kinds of interesting topics
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13982</span>
-						<span>🔱 1294</span>
+						<span>🔠 </span>
+						<span>⭐ 376632</span>
+						<span>🔱 30125</span>
 					</div>
-				<div class="stars-today">⭐ 7693 stars this month</div>
+				<div class="stars-today">⭐ 13803 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32475</span>
+						<span>🔱 3601</span>
+					</div>
+				<div class="stars-today">⭐ 4092 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 16680</span>
+						<span>⭐ 16701</span>
 						<span>🔱 917</span>
 					</div>
 				<div class="stars-today">⭐ 5794 stars this month</div>
@@ -250,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17374</span>
+						<span>⭐ 17378</span>
 						<span>🔱 1799</span>
 					</div>
 				<div class="stars-today">⭐ 4775 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9541</span>
-						<span>🔱 1142</span>
-					</div>
-				<div class="stars-today">⭐ 3569 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19927</span>
-						<span>🔱 2047</span>
+						<span>⭐ 19935</span>
+						<span>🔱 2048</span>
 					</div>
 				<div class="stars-today">⭐ 4135 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        twentyhq /
+        nautechsystems /
 
-      twenty</a></p>
+      nautilus_trader</a></p>
 				<p>
-      Building a modern alternative to Salesforce, powered by the community.
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9547</span>
+						<span>🔱 1142</span>
+					</div>
+				<div class="stars-today">⭐ 3569 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13988</span>
+						<span>🔱 1295</span>
+					</div>
+				<div class="stars-today">⭐ 7693 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 12061</span>
+						<span>🔱 870</span>
+					</div>
+				<div class="stars-today">⭐ 8698 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32441</span>
-						<span>🔱 3598</span>
+						<span>⭐ 8485</span>
+						<span>🔱 1057</span>
 					</div>
-				<div class="stars-today">⭐ 4092 stars this month</div>
+				<div class="stars-today">⭐ 3073 stars this month</div>
 				</div>
 			</div>
 	
@@ -346,46 +368,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
     
 
 
       
-        gitroomhq /
+        netbirdio /
 
-      postiz-app</a></p>
+      netbird</a></p>
 				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22197</span>
-						<span>🔱 3502</span>
+						<span>🔠 Go</span>
+						<span>⭐ 16681</span>
+						<span>🔱 771</span>
 					</div>
-				<div class="stars-today">⭐ 2286 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8475</span>
-						<span>🔱 1055</span>
-					</div>
-				<div class="stars-today">⭐ 3073 stars this month</div>
+				<div class="stars-today">⭐ 2821 stars this month</div>
 				</div>
 			</div>
 	

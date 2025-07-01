@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-01
-date: 2025-07-01T09:58:52Z
+date: 2025-07-01T11:58:46Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners</a></p>
+				<p>
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 87323</span>
+						<span>🔱 45756</span>
+					</div>
+				<div class="stars-today">⭐ 414 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
@@ -30,10 +52,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16751</span>
-						<span>🔱 729</span>
+						<span>⭐ 16864</span>
+						<span>🔱 734</span>
 					</div>
 				<div class="stars-today">⭐ 1164 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/confident-ai/deepeval" target="_blank">
+    
+
+
+      
+        confident-ai /
+
+      deepeval</a></p>
+				<p>
+      The LLM Evaluation Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8662</span>
+						<span>🔱 747</span>
+					</div>
+				<div class="stars-today">⭐ 117 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/octra-labs/wallet-gen" target="_blank">
+    
+
+
+      
+        octra-labs /
+
+      wallet-gen</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 431</span>
+						<span>🔱 8374</span>
+					</div>
+				<div class="stars-today">⭐ 124 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ColorlibHQ/AdminLTE" target="_blank">
+    
+
+
+      
+        ColorlibHQ /
+
+      AdminLTE</a></p>
+				<p>
+      AdminLTE - Free admin dashboard template based on Bootstrap 5
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 CSS</span>
+						<span>⭐ 44697</span>
+						<span>🔱 18223</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
@@ -52,74 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32441</span>
-						<span>🔱 3598</span>
+						<span>⭐ 32475</span>
+						<span>🔱 3601</span>
 					</div>
 				<div class="stars-today">⭐ 1240 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/all-in-one" target="_blank">
-    
-
-
-      
-        nextcloud /
-
-      all-in-one</a></p>
-				<p>
-      📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 7262</span>
-						<span>🔱 803</span>
-					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
-    
-
-
-      
-        midday-ai /
-
-      midday</a></p>
-				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8566</span>
-						<span>🔱 821</span>
-					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/octra-labs/wallet-gen" target="_blank">
-    
-
-
-      
-        octra-labs /
-
-      wallet-gen</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 429</span>
-						<span>🔱 8270</span>
-					</div>
-				<div class="stars-today">⭐ 124 stars today</div>
 				</div>
 			</div>
 	
@@ -138,54 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19718</span>
-						<span>🔱 1588</span>
+						<span>⭐ 19738</span>
+						<span>🔱 1589</span>
 					</div>
 				<div class="stars-today">⭐ 43 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
     
 
 
       
-        microsoft /
+        NanmiCoder /
 
-      generative-ai-for-beginners</a></p>
+      MediaCrawler</a></p>
 				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 87219</span>
-						<span>🔱 45743</span>
+						<span>🔠 Python</span>
+						<span>⭐ 24152</span>
+						<span>🔱 6609</span>
 					</div>
-				<div class="stars-today">⭐ 414 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mendableai/firecrawl" target="_blank">
-    
-
-
-      
-        mendableai /
-
-      firecrawl</a></p>
-				<p>
-      🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41483</span>
-						<span>🔱 3907</span>
-					</div>
-				<div class="stars-today">⭐ 328 stars today</div>
+				<div class="stars-today">⭐ 204 stars today</div>
 				</div>
 			</div>
 	
@@ -204,54 +204,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66856</span>
-						<span>🔱 15529</span>
+						<span>⭐ 66868</span>
+						<span>🔱 15530</span>
 					</div>
 				<div class="stars-today">⭐ 240 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        stanford-oval /
+        TapXWorld /
 
-      storm</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+      所有小初高、大学PDF教材。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25738</span>
-						<span>🔱 2317</span>
+						<span>🔠 Roff</span>
+						<span>⭐ 42420</span>
+						<span>🔱 9450</span>
 					</div>
-				<div class="stars-today">⭐ 610 stars today</div>
+				<div class="stars-today">⭐ 283 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice" target="_blank">
+				<p><a href="https://github.com/The-Cool-Coders/Project-Ideas-And-Resources" target="_blank">
     
 
 
       
-        aldinokemal /
+        The-Cool-Coders /
 
-      go-whatsapp-web-multidevice</a></p>
+      Project-Ideas-And-Resources</a></p>
 				<p>
-      API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+      A Collection of application ideas that can be used to improve your coding skills ❤.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1298</span>
-						<span>🔱 431</span>
+						<span>🔠 </span>
+						<span>⭐ 6934</span>
+						<span>🔱 613</span>
 					</div>
-				<div class="stars-today">⭐ 111 stars today</div>
+				<div class="stars-today">⭐ 84 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19673</span>
+						<span>🔱 1277</span>
+					</div>
+				<div class="stars-today">⭐ 99 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jnsahaj/tweakcn" target="_blank">
+    
+
+
+      
+        jnsahaj /
+
+      tweakcn</a></p>
+				<p>
+      A visual no-code theme editor for shadcn/ui components
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4826</span>
+						<span>🔱 248</span>
+					</div>
+				<div class="stars-today">⭐ 352 stars today</div>
 				</div>
 			</div>
 	
@@ -270,120 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2059</span>
+						<span>⭐ 2066</span>
 						<span>🔱 355</span>
 					</div>
 				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
-    
-
-
-      
-        paperless-ngx /
-
-      paperless-ngx</a></p>
-				<p>
-      A community-supported supercharged document management system: scan, index and archive all your documents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28836</span>
-						<span>🔱 1702</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/007revad/Synology_HDD_db" target="_blank">
-    
-
-
-      
-        007revad /
-
-      Synology_HDD_db</a></p>
-				<p>
-      Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 4152</span>
-						<span>🔱 272</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vanshb03/Summer2026-Internships" target="_blank">
-    
-
-
-      
-        vanshb03 /
-
-      Summer2026-Internships</a></p>
-				<p>
-      Collection of Summer 2026 tech internships!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 5138</span>
-						<span>🔱 181</span>
-					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/visgl/deck.gl" target="_blank">
-    
-
-
-      
-        visgl /
-
-      deck.gl</a></p>
-				<p>
-      WebGL2 powered visualization framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13253</span>
-						<span>🔱 2143</span>
-					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      ottomator-agents</a></p>
-				<p>
-      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3228</span>
-						<span>🔱 1172</span>
-					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
 				</div>
 			</div>
 	
