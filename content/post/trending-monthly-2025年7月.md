@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-02T09:58:50Z
+date: 2025-07-02T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34542</span>
-						<span>🔱 6627</span>
-					</div>
-				<div class="stars-today">⭐ 6472 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
@@ -52,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47445</span>
-						<span>🔱 5442</span>
+						<span>⭐ 47460</span>
+						<span>🔱 5447</span>
 					</div>
 				<div class="stars-today">⭐ 14570 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
     
 
 
       
-        onlook-dev /
+        DataExpert-io /
 
-      onlook</a></p>
+      data-engineer-handbook</a></p>
 				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+      This is a repo with links to everything you'd ever want to learn about data engineering
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19929</span>
-						<span>🔱 1293</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 34545</span>
+						<span>🔱 6628</span>
 					</div>
-				<div class="stars-today">⭐ 9602 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
-    
-
-
-      
-        frdel /
-
-      agent-zero</a></p>
-				<p>
-      Agent Zero AI framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10548</span>
-						<span>🔱 2059</span>
-					</div>
-				<div class="stars-today">⭐ 3423 stars this month</div>
+				<div class="stars-today">⭐ 6472 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33867</span>
+						<span>⭐ 33872</span>
 						<span>🔱 1971</span>
 					</div>
 				<div class="stars-today">⭐ 4678 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8271</span>
-						<span>🔱 510</span>
-					</div>
-				<div class="stars-today">⭐ 3871 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 377057</span>
-						<span>🔱 30166</span>
+						<span>⭐ 377108</span>
+						<span>🔱 30169</span>
 					</div>
 				<div class="stars-today">⭐ 14179 stars this month</div>
 				</div>
@@ -184,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32817</span>
-						<span>🔱 3625</span>
+						<span>⭐ 32839</span>
+						<span>🔱 3626</span>
 					</div>
 				<div class="stars-today">⭐ 4555 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8280</span>
+						<span>🔱 510</span>
+					</div>
+				<div class="stars-today">⭐ 3871 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+    
+
+
+      
+        frdel /
+
+      agent-zero</a></p>
+				<p>
+      Agent Zero AI framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10549</span>
+						<span>🔱 2060</span>
+					</div>
+				<div class="stars-today">⭐ 3423 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 16867</span>
+						<span>⭐ 16885</span>
 						<span>🔱 924</span>
 					</div>
 				<div class="stars-today">⭐ 5911 stars this month</div>
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17428</span>
+						<span>⭐ 17433</span>
 						<span>🔱 1807</span>
 					</div>
 				<div class="stars-today">⭐ 4683 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19946</span>
+						<span>🔱 1293</span>
+					</div>
+				<div class="stars-today">⭐ 9602 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,98 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20106</span>
+						<span>⭐ 20113</span>
 						<span>🔱 2063</span>
 					</div>
 				<div class="stars-today">⭐ 4261 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9592</span>
-						<span>🔱 1151</span>
-					</div>
-				<div class="stars-today">⭐ 3558 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14051</span>
-						<span>🔱 1299</span>
-					</div>
-				<div class="stars-today">⭐ 6685 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 12136</span>
-						<span>🔱 877</span>
-					</div>
-				<div class="stars-today">⭐ 7025 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8582</span>
-						<span>🔱 1070</span>
-					</div>
-				<div class="stars-today">⭐ 3190 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26936</span>
-						<span>🔱 8691</span>
+						<span>⭐ 26938</span>
+						<span>🔱 8693</span>
 					</div>
 				<div class="stars-today">⭐ 767 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14056</span>
+						<span>🔱 1299</span>
+					</div>
+				<div class="stars-today">⭐ 6685 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9596</span>
+						<span>🔱 1151</span>
+					</div>
+				<div class="stars-today">⭐ 3558 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8589</span>
+						<span>🔱 1071</span>
+					</div>
+				<div class="stars-today">⭐ 3190 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16738</span>
-						<span>🔱 776</span>
+						<span>⭐ 16739</span>
+						<span>🔱 777</span>
 					</div>
 				<div class="stars-today">⭐ 2916 stars this month</div>
 				</div>

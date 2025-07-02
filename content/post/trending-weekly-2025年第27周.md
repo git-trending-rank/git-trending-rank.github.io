@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第27周
-date: 2025-07-02T09:58:50Z
+date: 2025-07-02T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32817</span>
-						<span>🔱 3625</span>
+						<span>⭐ 32839</span>
+						<span>🔱 3626</span>
 					</div>
 				<div class="stars-today">⭐ 4176 stars this week</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17492</span>
+						<span>⭐ 17539</span>
 						<span>🔱 762</span>
 					</div>
 				<div class="stars-today">⭐ 3717 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
-    
-
-
-      
-        AykutSarac /
-
-      jsoncrack.com</a></p>
-				<p>
-      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38956</span>
-						<span>🔱 2608</span>
-					</div>
-				<div class="stars-today">⭐ 1003 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      ottomator-agents</a></p>
-				<p>
-      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3258</span>
-						<span>🔱 1178</span>
-					</div>
-				<div class="stars-today">⭐ 1114 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25874</span>
+						<span>⭐ 25878</span>
 						<span>🔱 2337</span>
 					</div>
 				<div class="stars-today">⭐ 1152 stars this week</div>
@@ -126,132 +82,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
     
 
 
       
-        musistudio /
+        coleam00 /
 
-      claude-code-router</a></p>
+      ottomator-agents</a></p>
 				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2641</span>
-						<span>🔱 206</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3259</span>
+						<span>🔱 1179</span>
 					</div>
-				<div class="stars-today">⭐ 1282 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mui/base-ui" target="_blank">
-    
-
-
-      
-        mui /
-
-      base-ui</a></p>
-				<p>
-      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4440</span>
-						<span>🔱 179</span>
-					</div>
-				<div class="stars-today">⭐ 1092 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
-    
-
-
-      
-        midday-ai /
-
-      midday</a></p>
-				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8686</span>
-						<span>🔱 830</span>
-					</div>
-				<div class="stars-today">⭐ 553 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
-    
-
-
-      
-        DrKLO /
-
-      Telegram</a></p>
-				<p>
-      Telegram for Android source
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 26936</span>
-						<span>🔱 8691</span>
-					</div>
-				<div class="stars-today">⭐ 347 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Portkey-AI/gateway" target="_blank">
-    
-
-
-      
-        Portkey-AI /
-
-      gateway</a></p>
-				<p>
-      A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8764</span>
-						<span>🔱 641</span>
-					</div>
-				<div class="stars-today">⭐ 614 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HarbourMasters/SpaghettiKart" target="_blank">
-    
-
-
-      
-        HarbourMasters /
-
-      SpaghettiKart</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 1277</span>
-						<span>🔱 63</span>
-					</div>
-				<div class="stars-today">⭐ 322 stars this week</div>
+				<div class="stars-today">⭐ 1114 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +118,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 73448</span>
-						<span>🔱 16138</span>
+						<span>⭐ 73450</span>
+						<span>🔱 16141</span>
 					</div>
 				<div class="stars-today">⭐ 580 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/midday-ai/midday" target="_blank">
+    
+
+
+      
+        midday-ai /
+
+      midday</a></p>
+				<p>
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8699</span>
+						<span>🔱 830</span>
+					</div>
+				<div class="stars-today">⭐ 553 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
+    
+
+
+      
+        AykutSarac /
+
+      jsoncrack.com</a></p>
+				<p>
+      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 38962</span>
+						<span>🔱 2609</span>
+					</div>
+				<div class="stars-today">⭐ 1003 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mui/base-ui" target="_blank">
+    
+
+
+      
+        mui /
+
+      base-ui</a></p>
+				<p>
+      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4445</span>
+						<span>🔱 179</span>
+					</div>
+				<div class="stars-today">⭐ 1092 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners</a></p>
+				<p>
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 89169</span>
+						<span>🔱 46089</span>
+					</div>
+				<div class="stars-today">⭐ 2685 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Portkey-AI/gateway" target="_blank">
+    
+
+
+      
+        Portkey-AI /
+
+      gateway</a></p>
+				<p>
+      A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8766</span>
+						<span>🔱 641</span>
+					</div>
+				<div class="stars-today">⭐ 614 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice" target="_blank">
+    
+
+
+      
+        aldinokemal /
+
+      go-whatsapp-web-multidevice</a></p>
+				<p>
+      API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1365</span>
+						<span>🔱 437</span>
+					</div>
+				<div class="stars-today">⭐ 397 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/gemma-cookbook" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      gemma-cookbook</a></p>
+				<p>
+      A collection of guides and examples for the Gemma open models from Google.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 1703</span>
+						<span>🔱 281</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars this week</div>
 				</div>
 			</div>
 	
@@ -300,46 +302,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bgstaal/multipleWindow3dScene" target="_blank">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
     
 
 
       
-        bgstaal /
+        microsoft /
 
-      multipleWindow3dScene</a></p>
+      AI-For-Beginners</a></p>
 				<p>
-      A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+      12 Weeks, 24 Lessons, AI for All!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 18603</span>
-						<span>🔱 2878</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 38366</span>
+						<span>🔱 7247</span>
 					</div>
-				<div class="stars-today">⭐ 254 stars this week</div>
+				<div class="stars-today">⭐ 243 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-servers" target="_blank">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
     
 
 
       
-        punkpeye /
+        swisskyrepo /
 
-      awesome-mcp-servers</a></p>
+      PayloadsAllTheThings</a></p>
 				<p>
-      A collection of MCP servers.
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 59114</span>
-						<span>🔱 4570</span>
+						<span>🔠 Python</span>
+						<span>⭐ 67144</span>
+						<span>🔱 15548</span>
 					</div>
-				<div class="stars-today">⭐ 2046 stars this week</div>
+				<div class="stars-today">⭐ 766 stars this week</div>
 				</div>
 			</div>
 	
