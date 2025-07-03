@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-03T09:58:48Z
+date: 2025-07-03T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47660</span>
-						<span>🔱 5467</span>
+						<span>⭐ 47685</span>
+						<span>🔱 5468</span>
 					</div>
 				<div class="stars-today">⭐ 14703 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34599</span>
-						<span>🔱 6641</span>
+						<span>⭐ 34605</span>
+						<span>🔱 6643</span>
 					</div>
 				<div class="stars-today">⭐ 6260 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33923</span>
-						<span>🔱 1974</span>
+						<span>⭐ 33932</span>
+						<span>🔱 1975</span>
 					</div>
 				<div class="stars-today">⭐ 4704 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 377664</span>
-						<span>🔱 30212</span>
-					</div>
-				<div class="stars-today">⭐ 14479 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32983</span>
+						<span>⭐ 32999</span>
 						<span>🔱 3640</span>
 					</div>
 				<div class="stars-today">⭐ 4858 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 377703</span>
+						<span>🔱 30214</span>
+					</div>
+				<div class="stars-today">⭐ 14479 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8320</span>
+						<span>⭐ 8323</span>
 						<span>🔱 514</span>
 					</div>
 				<div class="stars-today">⭐ 3902 stars this month</div>
@@ -148,24 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
     
 
 
       
-        frdel /
+        topoteretes /
 
-      agent-zero</a></p>
+      cognee</a></p>
 				<p>
-      Agent Zero AI framework
+      Memory for AI Agents in 5 lines of code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10588</span>
-						<span>🔱 2066</span>
+						<span>⭐ 5981</span>
+						<span>🔱 459</span>
 					</div>
-				<div class="stars-today">⭐ 3058 stars this month</div>
+				<div class="stars-today">⭐ 3776 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 17091</span>
-						<span>🔱 944</span>
+						<span>⭐ 17112</span>
+						<span>🔱 946</span>
 					</div>
 				<div class="stars-today">⭐ 5981 stars this month</div>
 				</div>
@@ -206,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17489</span>
-						<span>🔱 1814</span>
+						<span>⭐ 17491</span>
+						<span>🔱 1815</span>
 					</div>
 				<div class="stars-today">⭐ 4688 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
     
 
 
       
-        onlook-dev /
+        frdel /
 
-      onlook</a></p>
+      agent-zero</a></p>
 				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+      Agent Zero AI framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20147</span>
-						<span>🔱 1303</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10594</span>
+						<span>🔱 2066</span>
 					</div>
-				<div class="stars-today">⭐ 9262 stars this month</div>
+				<div class="stars-today">⭐ 3058 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20379</span>
+						<span>⭐ 20393</span>
 						<span>🔱 2087</span>
 					</div>
 				<div class="stars-today">⭐ 4296 stars this month</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26974</span>
+						<span>⭐ 26975</span>
 						<span>🔱 8700</span>
 					</div>
 				<div class="stars-today">⭐ 803 stars this month</div>
@@ -294,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14123</span>
-						<span>🔱 1301</span>
+						<span>⭐ 14129</span>
+						<span>🔱 1303</span>
 					</div>
 				<div class="stars-today">⭐ 5580 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9632</span>
-						<span>🔱 1153</span>
-					</div>
-				<div class="stars-today">⭐ 3389 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8691</span>
-						<span>🔱 1083</span>
+						<span>⭐ 8697</span>
+						<span>🔱 1084</span>
 					</div>
 				<div class="stars-today">⭐ 3266 stars this month</div>
 				</div>
@@ -360,10 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16787</span>
+						<span>⭐ 16795</span>
 						<span>🔱 778</span>
 					</div>
 				<div class="stars-today">⭐ 2957 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20160</span>
+						<span>🔱 1303</span>
+					</div>
+				<div class="stars-today">⭐ 9262 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+    
+
+
+      
+        Kilo-Org /
+
+      kilocode</a></p>
+				<p>
+      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1839</span>
+						<span>🔱 239</span>
+					</div>
+				<div class="stars-today">⭐ 1142 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      Web-Dev-For-Beginners</a></p>
+				<p>
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 90005</span>
+						<span>🔱 13597</span>
+					</div>
+				<div class="stars-today">⭐ 1831 stars this month</div>
 				</div>
 			</div>
 	

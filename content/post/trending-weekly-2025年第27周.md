@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第27周
-date: 2025-07-03T09:58:49Z
+date: 2025-07-03T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32983</span>
+						<span>⭐ 32999</span>
 						<span>🔱 3640</span>
 					</div>
 				<div class="stars-today">⭐ 4497 stars this week</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17940</span>
+						<span>⭐ 17960</span>
 						<span>🔱 773</span>
 					</div>
 				<div class="stars-today">⭐ 4374 stars this week</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25983</span>
+						<span>⭐ 25989</span>
 						<span>🔱 2343</span>
 					</div>
 				<div class="stars-today">⭐ 1277 stars this week</div>
@@ -96,98 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3285</span>
-						<span>🔱 1184</span>
+						<span>⭐ 3288</span>
+						<span>🔱 1185</span>
 					</div>
 				<div class="stars-today">⭐ 1128 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners</a></p>
-				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 73550</span>
-						<span>🔱 16171</span>
-					</div>
-				<div class="stars-today">⭐ 642 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
-    
-
-
-      
-        midday-ai /
-
-      midday</a></p>
-				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8767</span>
-						<span>🔱 832</span>
-					</div>
-				<div class="stars-today">⭐ 674 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
-    
-
-
-      
-        AykutSarac /
-
-      jsoncrack.com</a></p>
-				<p>
-      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39027</span>
-						<span>🔱 2612</span>
-					</div>
-				<div class="stars-today">⭐ 1005 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mui/base-ui" target="_blank">
-    
-
-
-      
-        mui /
-
-      base-ui</a></p>
-				<p>
-      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4509</span>
-						<span>🔱 180</span>
-					</div>
-				<div class="stars-today">⭐ 1024 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 90658</span>
-						<span>🔱 46302</span>
+						<span>⭐ 90731</span>
+						<span>🔱 46321</span>
 					</div>
 				<div class="stars-today">⭐ 3622 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Portkey-AI/gateway" target="_blank">
+				<p><a href="https://github.com/midday-ai/midday" target="_blank">
     
 
 
       
-        Portkey-AI /
+        midday-ai /
 
-      gateway</a></p>
+      midday</a></p>
 				<p>
-      A blazing fast AI Gateway with integrated guardrails. Route to 200+ LLMs, 50+ AI Guardrails with 1 fast & friendly API.
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8809</span>
-						<span>🔱 642</span>
+						<span>⭐ 8771</span>
+						<span>🔱 833</span>
 					</div>
-				<div class="stars-today">⭐ 655 stars this week</div>
+				<div class="stars-today">⭐ 674 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 73563</span>
+						<span>🔱 16175</span>
+					</div>
+				<div class="stars-today">⭐ 642 stars this week</div>
 				</div>
 			</div>
 	
@@ -258,6 +192,94 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
+    
+
+
+      
+        AykutSarac /
+
+      jsoncrack.com</a></p>
+				<p>
+      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39031</span>
+						<span>🔱 2612</span>
+					</div>
+				<div class="stars-today">⭐ 1005 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 38448</span>
+						<span>🔱 7259</span>
+					</div>
+				<div class="stars-today">⭐ 251 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
+    
+
+
+      
+        swisskyrepo /
+
+      PayloadsAllTheThings</a></p>
+				<p>
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 67257</span>
+						<span>🔱 15558</span>
+					</div>
+				<div class="stars-today">⭐ 984 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
+    
+
+
+      
+        zaidmukaddam /
+
+      scira</a></p>
+				<p>
+      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9092</span>
+						<span>🔱 1107</span>
+					</div>
+				<div class="stars-today">⭐ 527 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/google-gemini/gemma-cookbook" target="_blank">
     
 
@@ -272,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 1741</span>
+						<span>⭐ 1744</span>
 						<span>🔱 282</span>
 					</div>
 				<div class="stars-today">⭐ 87 stars this week</div>
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1023</span>
+						<span>⭐ 1027</span>
 						<span>🔱 431</span>
 					</div>
 				<div class="stars-today">⭐ 235 stars this week</div>
@@ -302,46 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+				<p><a href="https://github.com/mui/base-ui" target="_blank">
     
 
 
       
-        microsoft /
+        mui /
 
-      AI-For-Beginners</a></p>
+      base-ui</a></p>
 				<p>
-      12 Weeks, 24 Lessons, AI for All!
+      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38442</span>
-						<span>🔱 7258</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4514</span>
+						<span>🔱 180</span>
 					</div>
-				<div class="stars-today">⭐ 251 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 67251</span>
-						<span>🔱 15558</span>
-					</div>
-				<div class="stars-today">⭐ 984 stars this week</div>
+				<div class="stars-today">⭐ 1024 stars this week</div>
 				</div>
 			</div>
 	
