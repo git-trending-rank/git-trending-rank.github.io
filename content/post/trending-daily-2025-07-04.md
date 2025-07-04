@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-04
-date: 2025-07-04T09:58:43Z
+date: 2025-07-04T11:58:38Z
 categories:
 - daily
 keywords:
@@ -30,120 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25917</span>
-						<span>🔱 6845</span>
+						<span>⭐ 26001</span>
+						<span>🔱 6847</span>
 					</div>
 				<div class="stars-today">⭐ 561 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mrdoob/three.js" target="_blank">
-    
-
-
-      
-        mrdoob /
-
-      three.js</a></p>
-				<p>
-      JavaScript 3D Library.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 107322</span>
-						<span>🔱 35861</span>
-					</div>
-				<div class="stars-today">⭐ 190 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 91105</span>
-						<span>🔱 46416</span>
-					</div>
-				<div class="stars-today">⭐ 1578 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 44597</span>
-						<span>🔱 1904</span>
-					</div>
-				<div class="stars-today">⭐ 198 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/isaac-sim/IsaacLab" target="_blank">
-    
-
-
-      
-        isaac-sim /
-
-      IsaacLab</a></p>
-				<p>
-      Unified framework for robot learning built on NVIDIA Isaac Sim
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4232</span>
-						<span>🔱 1952</span>
-					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openssl/openssl" target="_blank">
-    
-
-
-      
-        openssl /
-
-      openssl</a></p>
-				<p>
-      TLS/SSL and crypto library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 27881</span>
-						<span>🔱 10645</span>
-					</div>
-				<div class="stars-today">⭐ 87 stars today</div>
 				</div>
 			</div>
 	
@@ -162,164 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25593</span>
-						<span>🔱 2306</span>
+						<span>⭐ 25606</span>
+						<span>🔱 2307</span>
 					</div>
 				<div class="stars-today">⭐ 50 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        cloudcommunity /
+        LadybirdBrowser /
 
-      Free-Certifications</a></p>
+      ladybird</a></p>
 				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 35530</span>
-						<span>🔱 2477</span>
+						<span>🔠 C++</span>
+						<span>⭐ 44620</span>
+						<span>🔱 1905</span>
 					</div>
-				<div class="stars-today">⭐ 906 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/The-Cool-Coders/Project-Ideas-And-Resources" target="_blank">
-    
-
-
-      
-        The-Cool-Coders /
-
-      Project-Ideas-And-Resources</a></p>
-				<p>
-      A Collection of application ideas that can be used to improve your coding skills ❤.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 8254</span>
-						<span>🔱 687</span>
-					</div>
-				<div class="stars-today">⭐ 458 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danny-avila/LibreChat" target="_blank">
-    
-
-
-      
-        danny-avila /
-
-      LibreChat</a></p>
-				<p>
-      Enhanced ChatGPT Clone: Features Agents, DeepSeek, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27587</span>
-						<span>🔱 4901</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/btjawa/BiliTools" target="_blank">
-    
-
-
-      
-        btjawa /
-
-      BiliTools</a></p>
-				<p>
-      A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1867</span>
-						<span>🔱 108</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
-    
-
-
-      
-        MotiaDev /
-
-      motia</a></p>
-				<p>
-      Unified Backend Framework for APIs, Events, and AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3241</span>
-						<span>🔱 265</span>
-					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 7587</span>
-						<span>🔱 540</span>
-					</div>
-				<div class="stars-today">⭐ 793 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/llmware-ai/llmware" target="_blank">
-    
-
-
-      
-        llmware-ai /
-
-      llmware</a></p>
-				<p>
-      Unified framework for building enterprise RAG pipelines with small, specialized models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14122</span>
-						<span>🔱 2821</span>
-					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 198 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +96,296 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 27735</span>
-						<span>🔱 9134</span>
+						<span>⭐ 27749</span>
+						<span>🔱 9137</span>
 					</div>
 				<div class="stars-today">⭐ 38 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code" target="_blank">
+				<p><a href="https://github.com/HumanSignal/label-studio" target="_blank">
     
 
 
       
-        ashishpatel26 /
+        HumanSignal /
 
-      500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code</a></p>
+      label-studio</a></p>
 				<p>
-      500 AI Machine learning Deep learning Computer vision NLP Projects with code
+      Label Studio is a multi-type data labeling and annotation tool with standardized output format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 22856</span>
+						<span>🔱 2861</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+    
+
+
+      
+        toeverything /
+
+      AFFiNE</a></p>
+				<p>
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 52440</span>
+						<span>🔱 3507</span>
+					</div>
+				<div class="stars-today">⭐ 145 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21381</span>
+						<span>🔱 3662</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      happy-llm</a></p>
+				<p>
+      📚 从零开始的大语言模型原理与实践教程
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 24842</span>
-						<span>🔱 5838</span>
+						<span>⭐ 7641</span>
+						<span>🔱 543</span>
 					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
+				<div class="stars-today">⭐ 793 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
+    
+
+
+      
+        MotiaDev /
+
+      motia</a></p>
+				<p>
+      Unified Backend Framework for APIs, Events, and AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3266</span>
+						<span>🔱 267</span>
+					</div>
+				<div class="stars-today">⭐ 196 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 31204</span>
+						<span>🔱 2236</span>
+					</div>
+				<div class="stars-today">⭐ 299 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/argoproj/argo-rollouts" target="_blank">
+    
+
+
+      
+        argoproj /
+
+      argo-rollouts</a></p>
+				<p>
+      Progressive Delivery for Kubernetes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3083</span>
+						<span>🔱 983</span>
+					</div>
+				<div class="stars-today">⭐ 4 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dockur/macos" target="_blank">
+    
+
+
+      
+        dockur /
+
+      macos</a></p>
+				<p>
+      macOS inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 12270</span>
+						<span>🔱 485</span>
+					</div>
+				<div class="stars-today">⭐ 228 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20248</span>
+						<span>🔱 1307</span>
+					</div>
+				<div class="stars-today">⭐ 194 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iib0011/omni-tools" target="_blank">
+    
+
+
+      
+        iib0011 /
+
+      omni-tools</a></p>
+				<p>
+      Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4068</span>
+						<span>🔱 197</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/btjawa/BiliTools" target="_blank">
+    
+
+
+      
+        btjawa /
+
+      BiliTools</a></p>
+				<p>
+      A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1886</span>
+						<span>🔱 112</span>
+					</div>
+				<div class="stars-today">⭐ 90 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets management, PKI, and SSH access.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18341</span>
+						<span>🔱 1225</span>
+					</div>
+				<div class="stars-today">⭐ 63 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">
+    
+
+
+      
+        trekhleb /
+
+      javascript-algorithms</a></p>
+				<p>
+      📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 191711</span>
+						<span>🔱 30704</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars today</div>
 				</div>
 			</div>
 	

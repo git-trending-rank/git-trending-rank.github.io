@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第27周
-date: 2025-07-04T09:58:43Z
+date: 2025-07-04T11:58:39Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      Building a modern alternative to Salesforce, powered by the community.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33131</span>
-						<span>🔱 3655</span>
-					</div>
-				<div class="stars-today">⭐ 4355 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
@@ -52,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18102</span>
+						<span>⭐ 18116</span>
 						<span>🔱 777</span>
 					</div>
 				<div class="stars-today">⭐ 4769 stars this week</div>
@@ -60,46 +38,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
     
 
 
       
-        stanford-oval /
+        twentyhq /
 
-      storm</a></p>
+      twenty</a></p>
 				<p>
-      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+      Building a modern alternative to Salesforce, powered by the community.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26060</span>
-						<span>🔱 2348</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33143</span>
+						<span>🔱 3656</span>
 					</div>
-				<div class="stars-today">⭐ 1388 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      ottomator-agents</a></p>
-				<p>
-      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3314</span>
-						<span>🔱 1191</span>
-					</div>
-				<div class="stars-today">⭐ 1132 stars this week</div>
+				<div class="stars-today">⭐ 4355 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 91105</span>
-						<span>🔱 46416</span>
+						<span>⭐ 91118</span>
+						<span>🔱 46423</span>
 					</div>
 				<div class="stars-today">⭐ 5064 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+    
+
+
+      
+        stanford-oval /
+
+      storm</a></p>
+				<p>
+      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26067</span>
+						<span>🔱 2349</span>
+					</div>
+				<div class="stars-today">⭐ 1388 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,120 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8826</span>
+						<span>⭐ 8827</span>
 						<span>🔱 836</span>
 					</div>
 				<div class="stars-today">⭐ 752 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners</a></p>
-				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 73638</span>
-						<span>🔱 16184</span>
-					</div>
-				<div class="stars-today">⭐ 655 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice" target="_blank">
-    
-
-
-      
-        aldinokemal /
-
-      go-whatsapp-web-multidevice</a></p>
-				<p>
-      API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1465</span>
-						<span>🔱 442</span>
-					</div>
-				<div class="stars-today">⭐ 492 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
-    
-
-
-      
-        AykutSarac /
-
-      jsoncrack.com</a></p>
-				<p>
-      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39137</span>
-						<span>🔱 2619</span>
-					</div>
-				<div class="stars-today">⭐ 767 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38511</span>
-						<span>🔱 7267</span>
-					</div>
-				<div class="stars-today">⭐ 306 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 67338</span>
-						<span>🔱 15562</span>
-					</div>
-				<div class="stars-today">⭐ 1087 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9171</span>
+						<span>⭐ 9176</span>
 						<span>🔱 1119</span>
 					</div>
 				<div class="stars-today">⭐ 773 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 73645</span>
+						<span>🔱 16183</span>
+					</div>
+				<div class="stars-today">⭐ 655 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      ottomator-agents</a></p>
+				<p>
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3318</span>
+						<span>🔱 1192</span>
+					</div>
+				<div class="stars-today">⭐ 1132 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26001</span>
+						<span>🔱 6847</span>
+					</div>
+				<div class="stars-today">⭐ 1617 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice" target="_blank">
+    
+
+
+      
+        aldinokemal /
+
+      go-whatsapp-web-multidevice</a></p>
+				<p>
+      API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1467</span>
+						<span>🔱 443</span>
+					</div>
+				<div class="stars-today">⭐ 492 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
+    
+
+
+      
+        swisskyrepo /
+
+      PayloadsAllTheThings</a></p>
+				<p>
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 67340</span>
+						<span>🔱 15562</span>
+					</div>
+				<div class="stars-today">⭐ 1087 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 1788</span>
+						<span>⭐ 1791</span>
 						<span>🔱 283</span>
 					</div>
 				<div class="stars-today">⭐ 118 stars this week</div>
@@ -302,46 +280,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gensyn-ai/rl-swarm" target="_blank">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
     
 
 
       
-        gensyn-ai /
+        microsoft /
 
-      rl-swarm</a></p>
+      AI-For-Beginners</a></p>
 				<p>
-      A fully open source framework for creating RL training swarms over the internet.
+      12 Weeks, 24 Lessons, AI for All!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1061</span>
-						<span>🔱 436</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 38516</span>
+						<span>🔱 7267</span>
 					</div>
-				<div class="stars-today">⭐ 243 stars this week</div>
+				<div class="stars-today">⭐ 306 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mui/base-ui" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        mui /
+        codecrafters-io /
 
-      base-ui</a></p>
+      build-your-own-x</a></p>
 				<p>
-      Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
+      Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4594</span>
-						<span>🔱 180</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 394621</span>
+						<span>🔱 36774</span>
 					</div>
-				<div class="stars-today">⭐ 919 stars this week</div>
+				<div class="stars-today">⭐ 3394 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NginxProxyManager/nginx-proxy-manager" target="_blank">
+    
+
+
+      
+        NginxProxyManager /
+
+      nginx-proxy-manager</a></p>
+				<p>
+      Docker container for managing Nginx proxy hosts with a simple, powerful interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 27187</span>
+						<span>🔱 3134</span>
+					</div>
+				<div class="stars-today">⭐ 399 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+    
+
+
+      
+        tursodatabase /
+
+      turso</a></p>
+				<p>
+      Turso Database is a project to build the next evolution of SQLite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11547</span>
+						<span>🔱 443</span>
+					</div>
+				<div class="stars-today">⭐ 269 stars this week</div>
 				</div>
 			</div>
 	

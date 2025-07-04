@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-04T09:58:43Z
+date: 2025-07-04T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47906</span>
-						<span>🔱 5494</span>
+						<span>⭐ 47919</span>
+						<span>🔱 5498</span>
 					</div>
 				<div class="stars-today">⭐ 14880 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34656</span>
-						<span>🔱 6656</span>
+						<span>⭐ 34654</span>
+						<span>🔱 6655</span>
 					</div>
 				<div class="stars-today">⭐ 6144 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33983</span>
+						<span>⭐ 33987</span>
 						<span>🔱 1977</span>
 					</div>
 				<div class="stars-today">⭐ 4746 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      Building a modern alternative to Salesforce, powered by the community.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33131</span>
-						<span>🔱 3655</span>
-					</div>
-				<div class="stars-today">⭐ 4998 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 378104</span>
-						<span>🔱 30245</span>
+						<span>⭐ 378136</span>
+						<span>🔱 30246</span>
 					</div>
 				<div class="stars-today">⭐ 14893 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      happy-llm</a></p>
+				<p>
+      📚 从零开始的大语言模型原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 7641</span>
+						<span>🔱 543</span>
+					</div>
+				<div class="stars-today">⭐ 6307 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33143</span>
+						<span>🔱 3656</span>
+					</div>
+				<div class="stars-today">⭐ 4998 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8350</span>
+						<span>⭐ 8354</span>
 						<span>🔱 517</span>
 					</div>
 				<div class="stars-today">⭐ 3929 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Memory for AI Agents in 5 lines of code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6038</span>
-						<span>🔱 461</span>
-					</div>
-				<div class="stars-today">⭐ 3795 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 17286</span>
-						<span>🔱 960</span>
+						<span>⭐ 17302</span>
+						<span>🔱 959</span>
 					</div>
 				<div class="stars-today">⭐ 6088 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17540</span>
+						<span>⭐ 17542</span>
 						<span>🔱 1821</span>
 					</div>
 				<div class="stars-today">⭐ 4723 stars this month</div>
@@ -214,24 +214,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
     
 
 
       
-        frdel /
+        topoteretes /
 
-      agent-zero</a></p>
+      cognee</a></p>
 				<p>
-      Agent Zero AI framework
+      Memory for AI Agents in 5 lines of code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10633</span>
-						<span>🔱 2071</span>
+						<span>⭐ 6040</span>
+						<span>🔱 461</span>
 					</div>
-				<div class="stars-today">⭐ 2747 stars this month</div>
+				<div class="stars-today">⭐ 3795 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20561</span>
+						<span>⭐ 20570</span>
 						<span>🔱 2109</span>
 					</div>
 				<div class="stars-today">⭐ 4451 stars this month</div>
@@ -272,32 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 26989</span>
-						<span>🔱 8707</span>
+						<span>⭐ 26990</span>
+						<span>🔱 8711</span>
 					</div>
 				<div class="stars-today">⭐ 838 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
     
 
 
       
-        anthropics /
+        frdel /
 
-      prompt-eng-interactive-tutorial</a></p>
+      agent-zero</a></p>
 				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
+      Agent Zero AI framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14170</span>
-						<span>🔱 1309</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10635</span>
+						<span>🔱 2073</span>
 					</div>
-				<div class="stars-today">⭐ 5006 stars this month</div>
+				<div class="stars-today">⭐ 2747 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codexu/note-gen" target="_blank">
+    
+
+
+      
+        codexu /
+
+      note-gen</a></p>
+				<p>
+      A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5628</span>
+						<span>🔱 356</span>
+					</div>
+				<div class="stars-today">⭐ 2865 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,54 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8765</span>
-						<span>🔱 1097</span>
+						<span>⭐ 8777</span>
+						<span>🔱 1099</span>
 					</div>
 				<div class="stars-today">⭐ 3333 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
-    
-
-
-      
-        netbirdio /
-
-      netbird</a></p>
-				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 16865</span>
-						<span>🔱 781</span>
-					</div>
-				<div class="stars-today">⭐ 3003 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
-    
-
-
-      
-        onlook-dev /
-
-      onlook</a></p>
-				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20228</span>
-						<span>🔱 1306</span>
-					</div>
-				<div class="stars-today">⭐ 7125 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3241</span>
-						<span>🔱 259</span>
+						<span>⭐ 3304</span>
+						<span>🔱 260</span>
 					</div>
 				<div class="stars-today">⭐ 1105 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/php/frankenphp" target="_blank">
+    
+
+
+      
+        php /
+
+      frankenphp</a></p>
+				<p>
+      🧟 The modern PHP app server
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9536</span>
+						<span>🔱 347</span>
+					</div>
+				<div class="stars-today">⭐ 1612 stars this month</div>
 				</div>
 			</div>
 	
