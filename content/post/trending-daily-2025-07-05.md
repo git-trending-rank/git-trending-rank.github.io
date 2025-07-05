@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-05
-date: 2025-07-05T09:58:54Z
+date: 2025-07-05T11:58:41Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27012</span>
-						<span>🔱 6966</span>
+						<span>⭐ 27072</span>
+						<span>🔱 6976</span>
 					</div>
 				<div class="stars-today">⭐ 832 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Genesis-Embodied-AI/Genesis" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        Genesis-Embodied-AI /
+        rustfs /
 
-      Genesis</a></p>
+      rustfs</a></p>
 				<p>
-      A generative world for general-purpose robotics & embodied AI learning.
+      🚀 High-performance distributed object storage for MinIO alternative.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25706</span>
-						<span>🔱 2314</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 880</span>
+						<span>🔱 41</span>
 					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
+				<div class="stars-today">⭐ 331 stars today</div>
 				</div>
 			</div>
 	
@@ -74,98 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 44758</span>
-						<span>🔱 1912</span>
+						<span>⭐ 44773</span>
+						<span>🔱 1913</span>
 					</div>
 				<div class="stars-today">⭐ 286 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swagger-api/swagger-ui" target="_blank">
-    
-
-
-      
-        swagger-api /
-
-      swagger-ui</a></p>
-				<p>
-      Swagger UI is a collection of HTML, JavaScript, and CSS assets that dynamically generate beautiful documentation from a Swagger-compliant API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 27835</span>
-						<span>🔱 9145</span>
-					</div>
-				<div class="stars-today">⭐ 155 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HumanSignal/label-studio" target="_blank">
-    
-
-
-      
-        HumanSignal /
-
-      label-studio</a></p>
-				<p>
-      Label Studio is a multi-type data labeling and annotation tool with standardized output format
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 23036</span>
-						<span>🔱 2864</span>
-					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
-    
-
-
-      
-        toeverything /
-
-      AFFiNE</a></p>
-				<p>
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 52690</span>
-						<span>🔱 3519</span>
-					</div>
-				<div class="stars-today">⭐ 166 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21728</span>
-						<span>🔱 3825</span>
-					</div>
-				<div class="stars-today">⭐ 311 stars today</div>
 				</div>
 			</div>
 	
@@ -184,10 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8068</span>
-						<span>🔱 566</span>
+						<span>⭐ 8100</span>
+						<span>🔱 568</span>
 					</div>
 				<div class="stars-today">⭐ 941 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Universidade-Livre/ciencia-da-computacao" target="_blank">
+    
+
+
+      
+        Universidade-Livre /
+
+      ciencia-da-computacao</a></p>
+				<p>
+      🎓 Um caminho para a educação autodidata em Ciência da Computação!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 15919</span>
+						<span>🔱 1227</span>
+					</div>
+				<div class="stars-today">⭐ 298 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/megadose/toutatis" target="_blank">
+    
+
+
+      
+        megadose /
+
+      toutatis</a></p>
+				<p>
+      Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2574</span>
+						<span>🔱 389</span>
+					</div>
+				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+    
+
+
+      
+        bregman-arie /
+
+      devops-exercises</a></p>
+				<p>
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 77148</span>
+						<span>🔱 17321</span>
+					</div>
+				<div class="stars-today">⭐ 82 stars today</div>
 				</div>
 			</div>
 	
@@ -206,186 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3441</span>
-						<span>🔱 283</span>
+						<span>⭐ 3450</span>
+						<span>🔱 285</span>
 					</div>
 				<div class="stars-today">⭐ 301 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+				<p><a href="https://github.com/directus/directus" target="_blank">
     
 
 
       
-        drawdb-io /
+        directus /
 
-      drawdb</a></p>
+      directus</a></p>
 				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 31379</span>
-						<span>🔱 2244</span>
-					</div>
-				<div class="stars-today">⭐ 240 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/argoproj/argo-rollouts" target="_blank">
-    
-
-
-      
-        argoproj /
-
-      argo-rollouts</a></p>
-				<p>
-      Progressive Delivery for Kubernetes
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3144</span>
-						<span>🔱 988</span>
-					</div>
-				<div class="stars-today">⭐ 20 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/macos" target="_blank">
-    
-
-
-      
-        dockur /
-
-      macos</a></p>
-				<p>
-      macOS inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 12675</span>
-						<span>🔱 500</span>
-					</div>
-				<div class="stars-today">⭐ 322 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
-    
-
-
-      
-        onlook-dev /
-
-      onlook</a></p>
-				<p>
-      The Cursor for Designers • An Open-Source Visual Vibecoding Editor • Visually build, style, and edit your React App with AI
+      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20392</span>
-						<span>🔱 1317</span>
+						<span>⭐ 31166</span>
+						<span>🔱 4267</span>
 					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
+				<div class="stars-today">⭐ 87 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iib0011/omni-tools" target="_blank">
+				<p><a href="https://github.com/google/perfetto" target="_blank">
     
 
 
       
-        iib0011 /
+        google /
 
-      omni-tools</a></p>
+      perfetto</a></p>
 				<p>
-      Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+      Production-grade client-side tracing, profiling, and analysis for complex software systems.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4261</span>
-						<span>🔱 208</span>
+						<span>🔠 C++</span>
+						<span>⭐ 4193</span>
+						<span>🔱 505</span>
 					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/btjawa/BiliTools" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        btjawa /
+        codecrafters-io /
 
-      BiliTools</a></p>
+      build-your-own-x</a></p>
 				<p>
-      A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
+      Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1986</span>
-						<span>🔱 117</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 395035</span>
+						<span>🔱 36828</span>
 					</div>
-				<div class="stars-today">⭐ 228 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
-    
-
-
-      
-        Infisical /
-
-      infisical</a></p>
-				<p>
-      Infisical is the open-source platform for secrets management, PKI, and SSH access.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18561</span>
-						<span>🔱 1233</span>
-					</div>
-				<div class="stars-today">⭐ 92 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">
-    
-
-
-      
-        trekhleb /
-
-      javascript-algorithms</a></p>
-				<p>
-      📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 191865</span>
-						<span>🔱 30719</span>
-					</div>
-				<div class="stars-today">⭐ 101 stars today</div>
+				<div class="stars-today">⭐ 610 stars today</div>
 				</div>
 			</div>
 	

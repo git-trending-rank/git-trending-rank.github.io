@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第27周
-date: 2025-07-05T09:58:54Z
+date: 2025-07-05T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18221</span>
+						<span>⭐ 18233</span>
 						<span>🔱 779</span>
 					</div>
 				<div class="stars-today">⭐ 4860 stars this week</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33214</span>
+						<span>⭐ 33218</span>
 						<span>🔱 3676</span>
 					</div>
 				<div class="stars-today">⭐ 3729 stars this week</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 91180</span>
-						<span>🔱 46482</span>
+						<span>⭐ 91186</span>
+						<span>🔱 46485</span>
 					</div>
 				<div class="stars-today">⭐ 5091 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27072</span>
+						<span>🔱 6976</span>
+					</div>
+				<div class="stars-today">⭐ 2457 stars this week</div>
 				</div>
 			</div>
 	
@@ -104,28 +126,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
-    
-
-
-      
-        midday-ai /
-
-      midday</a></p>
-				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8869</span>
-						<span>🔱 841</span>
-					</div>
-				<div class="stars-today">⭐ 800 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
     
 
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9248</span>
-						<span>🔱 1128</span>
+						<span>⭐ 9258</span>
+						<span>🔱 1129</span>
 					</div>
 				<div class="stars-today">⭐ 873 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/midday-ai/midday" target="_blank">
+    
+
+
+      
+        midday-ai /
+
+      midday</a></p>
+				<p>
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8873</span>
+						<span>🔱 842</span>
+					</div>
+				<div class="stars-today">⭐ 800 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 73691</span>
+						<span>⭐ 73694</span>
 						<span>🔱 16195</span>
 					</div>
 				<div class="stars-today">⭐ 443 stars this week</div>
@@ -170,178 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
     
 
 
       
-        coleam00 /
+        humanlayer /
 
-      ottomator-agents</a></p>
+      12-factor-agents</a></p>
 				<p>
-      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3339</span>
-						<span>🔱 1196</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5718</span>
+						<span>🔱 373</span>
 					</div>
-				<div class="stars-today">⭐ 952 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27012</span>
-						<span>🔱 6966</span>
-					</div>
-				<div class="stars-today">⭐ 2457 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice" target="_blank">
-    
-
-
-      
-        aldinokemal /
-
-      go-whatsapp-web-multidevice</a></p>
-				<p>
-      API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1506</span>
-						<span>🔱 450</span>
-					</div>
-				<div class="stars-today">⭐ 539 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 67460</span>
-						<span>🔱 15569</span>
-					</div>
-				<div class="stars-today">⭐ 1141 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/gemma-cookbook" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      gemma-cookbook</a></p>
-				<p>
-      A collection of guides and examples for the Gemma open models from Google.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 1825</span>
-						<span>🔱 285</span>
-					</div>
-				<div class="stars-today">⭐ 156 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38557</span>
-						<span>🔱 7276</span>
-					</div>
-				<div class="stars-today">⭐ 314 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 394990</span>
-						<span>🔱 36824</span>
-					</div>
-				<div class="stars-today">⭐ 3527 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NginxProxyManager/nginx-proxy-manager" target="_blank">
-    
-
-
-      
-        NginxProxyManager /
-
-      nginx-proxy-manager</a></p>
-				<p>
-      Docker container for managing Nginx proxy hosts with a simple, powerful interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 27237</span>
-						<span>🔱 3136</span>
-					</div>
-				<div class="stars-today">⭐ 419 stars this week</div>
+				<div class="stars-today">⭐ 848 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11602</span>
+						<span>⭐ 11610</span>
 						<span>🔱 444</span>
 					</div>
 				<div class="stars-today">⭐ 337 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
+    
+
+
+      
+        swisskyrepo /
+
+      PayloadsAllTheThings</a></p>
+				<p>
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 67502</span>
+						<span>🔱 15571</span>
+					</div>
+				<div class="stars-today">⭐ 1141 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice" target="_blank">
+    
+
+
+      
+        aldinokemal /
+
+      go-whatsapp-web-multidevice</a></p>
+				<p>
+      API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1510</span>
+						<span>🔱 450</span>
+					</div>
+				<div class="stars-today">⭐ 539 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      ottomator-agents</a></p>
+				<p>
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3342</span>
+						<span>🔱 1196</span>
+					</div>
+				<div class="stars-today">⭐ 952 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NginxProxyManager/nginx-proxy-manager" target="_blank">
+    
+
+
+      
+        NginxProxyManager /
+
+      nginx-proxy-manager</a></p>
+				<p>
+      Docker container for managing Nginx proxy hosts with a simple, powerful interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 27242</span>
+						<span>🔱 3136</span>
+					</div>
+				<div class="stars-today">⭐ 419 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27489</span>
+						<span>🔱 1202</span>
+					</div>
+				<div class="stars-today">⭐ 451 stars this week</div>
 				</div>
 			</div>
 	

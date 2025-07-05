@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-05T09:58:53Z
+date: 2025-07-05T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48060</span>
-						<span>🔱 5515</span>
+						<span>⭐ 48071</span>
+						<span>🔱 5518</span>
 					</div>
 				<div class="stars-today">⭐ 15093 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34734</span>
-						<span>🔱 6674</span>
+						<span>⭐ 34739</span>
+						<span>🔱 6675</span>
 					</div>
 				<div class="stars-today">⭐ 5901 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
-    
-
-
-      
-        menloresearch /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34039</span>
-						<span>🔱 1978</span>
-					</div>
-				<div class="stars-today">⭐ 4789 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 378511</span>
-						<span>🔱 30279</span>
+						<span>⭐ 378540</span>
+						<span>🔱 30282</span>
 					</div>
 				<div class="stars-today">⭐ 15170 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
+    
+
+
+      
+        menloresearch /
+
+      jan</a></p>
+				<p>
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34042</span>
+						<span>🔱 1979</span>
+					</div>
+				<div class="stars-today">⭐ 4789 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8068</span>
-						<span>🔱 566</span>
+						<span>⭐ 8100</span>
+						<span>🔱 568</span>
 					</div>
 				<div class="stars-today">⭐ 6291 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33214</span>
+						<span>⭐ 33218</span>
 						<span>🔱 3676</span>
 					</div>
 				<div class="stars-today">⭐ 5137 stars this month</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8376</span>
+						<span>⭐ 8378</span>
 						<span>🔱 519</span>
 					</div>
 				<div class="stars-today">⭐ 3948 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 17451</span>
-						<span>🔱 969</span>
+						<span>⭐ 17462</span>
+						<span>🔱 970</span>
 					</div>
 				<div class="stars-today">⭐ 6174 stars this month</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17590</span>
-						<span>🔱 1826</span>
+						<span>⭐ 17592</span>
+						<span>🔱 1827</span>
 					</div>
 				<div class="stars-today">⭐ 4753 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Memory for AI Agents in 5 lines of code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6088</span>
-						<span>🔱 462</span>
-					</div>
-				<div class="stars-today">⭐ 3797 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20647</span>
+						<span>⭐ 20656</span>
 						<span>🔱 2112</span>
 					</div>
 				<div class="stars-today">⭐ 4516 stars this month</div>
@@ -272,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 27006</span>
-						<span>🔱 8717</span>
+						<span>⭐ 27008</span>
+						<span>🔱 8718</span>
 					</div>
 				<div class="stars-today">⭐ 850 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
     
 
 
       
-        frdel /
+        NanmiCoder /
 
-      agent-zero</a></p>
+      MediaCrawler</a></p>
 				<p>
-      Agent Zero AI framework
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10673</span>
-						<span>🔱 2072</span>
+						<span>⭐ 27072</span>
+						<span>🔱 6976</span>
 					</div>
-				<div class="stars-today">⭐ 2350 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codexu/note-gen" target="_blank">
-    
-
-
-      
-        codexu /
-
-      note-gen</a></p>
-				<p>
-      A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5710</span>
-						<span>🔱 360</span>
-					</div>
-				<div class="stars-today">⭐ 2924 stars this month</div>
+				<div class="stars-today">⭐ 3208 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8825</span>
+						<span>⭐ 8828</span>
 						<span>🔱 1105</span>
 					</div>
 				<div class="stars-today">⭐ 3390 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Memory for AI Agents in 5 lines of code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6095</span>
+						<span>🔱 462</span>
+					</div>
+				<div class="stars-today">⭐ 3797 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3479</span>
-						<span>🔱 273</span>
+						<span>⭐ 3503</span>
+						<span>🔱 275</span>
 					</div>
 				<div class="stars-today">⭐ 2648 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/php/frankenphp" target="_blank">
+				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
     
 
 
       
-        php /
+        frdel /
 
-      frankenphp</a></p>
+      agent-zero</a></p>
 				<p>
-      🧟 The modern PHP app server
+      Agent Zero AI framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9552</span>
-						<span>🔱 349</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10674</span>
+						<span>🔱 2072</span>
 					</div>
-				<div class="stars-today">⭐ 1620 stars this month</div>
+				<div class="stars-today">⭐ 2350 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 90097</span>
-						<span>🔱 13620</span>
+						<span>⭐ 90099</span>
+						<span>🔱 13623</span>
 					</div>
 				<div class="stars-today">⭐ 1871 stars this month</div>
 				</div>
