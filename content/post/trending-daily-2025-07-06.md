@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-06
-date: 2025-07-06T09:58:50Z
+date: 2025-07-06T11:58:54Z
 categories:
 - daily
 keywords:
@@ -30,208 +30,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27474</span>
-						<span>🔱 7036</span>
+						<span>⭐ 27518</span>
+						<span>🔱 7038</span>
 					</div>
 				<div class="stars-today">⭐ 1037 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+				<p><a href="https://github.com/dockur/macos" target="_blank">
     
 
 
       
-        rustfs /
+        dockur /
 
-      rustfs</a></p>
+      macos</a></p>
 				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
+      macOS inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 13904</span>
+						<span>🔱 567</span>
+					</div>
+				<div class="stars-today">⭐ 932 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14580</span>
+						<span>🔱 1351</span>
+					</div>
+				<div class="stars-today">⭐ 230 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vosen/ZLUDA" target="_blank">
+    
+
+
+      
+        vosen /
+
+      ZLUDA</a></p>
+				<p>
+      CUDA on non-NVIDIA GPUs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1252</span>
-						<span>🔱 57</span>
+						<span>⭐ 11935</span>
+						<span>🔱 754</span>
 					</div>
-				<div class="stars-today">⭐ 117 stars today</div>
+				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        GyulyVGC /
 
-      ladybird</a></p>
+      sniffnet</a></p>
 				<p>
-      Truly independent web browser
+      Comfortably monitor your Internet traffic 🕵️‍♂️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 26119</span>
+						<span>🔱 834</span>
+					</div>
+				<div class="stars-today">⭐ 218 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alex313031/thorium" target="_blank">
+    
+
+
+      
+        Alex313031 /
+
+      thorium</a></p>
+				<p>
+      Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 44912</span>
-						<span>🔱 1916</span>
+						<span>⭐ 5970</span>
+						<span>🔱 195</span>
 					</div>
-				<div class="stars-today">⭐ 169 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 8450</span>
-						<span>🔱 605</span>
-					</div>
-				<div class="stars-today">⭐ 450 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Universidade-Livre/ciencia-da-computacao" target="_blank">
-    
-
-
-      
-        Universidade-Livre /
-
-      ciencia-da-computacao</a></p>
-				<p>
-      🎓 Um caminho para a educação autodidata em Ciência da Computação!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 16047</span>
-						<span>🔱 1241</span>
-					</div>
-				<div class="stars-today">⭐ 270 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/megadose/toutatis" target="_blank">
-    
-
-
-      
-        megadose /
-
-      toutatis</a></p>
-				<p>
-      Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2745</span>
-						<span>🔱 407</span>
-					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
-    
-
-
-      
-        bregman-arie /
-
-      devops-exercises</a></p>
-				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77355</span>
-						<span>🔱 17333</span>
-					</div>
-				<div class="stars-today">⭐ 99 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
-    
-
-
-      
-        MotiaDev /
-
-      motia</a></p>
-				<p>
-      Unified Backend Framework for APIs, Events, and AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3599</span>
-						<span>🔱 293</span>
-					</div>
-				<div class="stars-today">⭐ 179 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/directus/directus" target="_blank">
-    
-
-
-      
-        directus /
-
-      directus</a></p>
-				<p>
-      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31402</span>
-						<span>🔱 4277</span>
-					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/perfetto" target="_blank">
-    
-
-
-      
-        google /
-
-      perfetto</a></p>
-				<p>
-      Production-grade client-side tracing, profiling, and analysis for complex software systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4296</span>
-						<span>🔱 507</span>
-					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
+				<div class="stars-today">⭐ 27 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 395521</span>
-						<span>🔱 36887</span>
+						<span>⭐ 395575</span>
+						<span>🔱 36889</span>
 					</div>
 				<div class="stars-today">⭐ 454 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iib0011/omni-tools" target="_blank">
+    
+
+
+      
+        iib0011 /
+
+      omni-tools</a></p>
+				<p>
+      Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4308</span>
+						<span>🔱 210</span>
+					</div>
+				<div class="stars-today">⭐ 163 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      home-assistant.io</a></p>
+				<p>
+      📘 Home Assistant User documentation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6733</span>
+						<span>🔱 7755</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
 				</div>
 			</div>
 	

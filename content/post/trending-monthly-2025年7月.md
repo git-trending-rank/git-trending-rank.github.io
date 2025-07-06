@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-06T09:58:50Z
+date: 2025-07-06T11:58:54Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48218</span>
-						<span>🔱 5531</span>
+						<span>⭐ 48233</span>
+						<span>🔱 5534</span>
 					</div>
 				<div class="stars-today">⭐ 15187 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34790</span>
+						<span>⭐ 34793</span>
 						<span>🔱 6687</span>
 					</div>
 				<div class="stars-today">⭐ 5931 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      happy-llm</a></p>
+				<p>
+      📚 从零开始的大语言模型原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 8476</span>
+						<span>🔱 608</span>
+					</div>
+				<div class="stars-today">⭐ 6325 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 378880</span>
-						<span>🔱 30307</span>
+						<span>⭐ 378915</span>
+						<span>🔱 30309</span>
 					</div>
 				<div class="stars-today">⭐ 15413 stars this month</div>
 				</div>
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34078</span>
+						<span>⭐ 34081</span>
 						<span>🔱 1979</span>
 					</div>
 				<div class="stars-today">⭐ 4828 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 8450</span>
-						<span>🔱 605</span>
-					</div>
-				<div class="stars-today">⭐ 6325 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33288</span>
+						<span>⭐ 33294</span>
 						<span>🔱 3683</span>
 					</div>
 				<div class="stars-today">⭐ 5208 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8392</span>
-						<span>🔱 519</span>
-					</div>
-				<div class="stars-today">⭐ 3950 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 17609</span>
-						<span>🔱 981</span>
+						<span>⭐ 17632</span>
+						<span>🔱 986</span>
 					</div>
 				<div class="stars-today">⭐ 6167 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8393</span>
+						<span>🔱 519</span>
+					</div>
+				<div class="stars-today">⭐ 3950 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17644</span>
+						<span>⭐ 17647</span>
 						<span>🔱 1830</span>
 					</div>
 				<div class="stars-today">⭐ 4771 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27518</span>
+						<span>🔱 7038</span>
+					</div>
+				<div class="stars-today">⭐ 4087 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20721</span>
+						<span>⭐ 20728</span>
 						<span>🔱 2119</span>
 					</div>
 				<div class="stars-today">⭐ 4499 stars this month</div>
@@ -258,24 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+				<p><a href="https://github.com/jwohlwend/boltz" target="_blank">
     
 
 
       
-        NanmiCoder /
+        jwohlwend /
 
-      MediaCrawler</a></p>
+      boltz</a></p>
 				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      Official repository for the Boltz biomolecular interaction models
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27474</span>
-						<span>🔱 7036</span>
+						<span>⭐ 2996</span>
+						<span>🔱 478</span>
 					</div>
-				<div class="stars-today">⭐ 4087 stars this month</div>
+				<div class="stars-today">⭐ 1143 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8890</span>
-						<span>🔱 1118</span>
+						<span>⭐ 8903</span>
+						<span>🔱 1120</span>
 					</div>
 				<div class="stars-today">⭐ 3426 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Memory for AI Agents in 5 lines of code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6142</span>
-						<span>🔱 465</span>
-					</div>
-				<div class="stars-today">⭐ 3506 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3653</span>
+						<span>⭐ 3665</span>
 						<span>🔱 292</span>
 					</div>
 				<div class="stars-today">⭐ 2773 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frdel/agent-zero" target="_blank">
-    
-
-
-      
-        frdel /
-
-      agent-zero</a></p>
-				<p>
-      Agent Zero AI framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10717</span>
-						<span>🔱 2078</span>
-					</div>
-				<div class="stars-today">⭐ 2063 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 90152</span>
-						<span>🔱 13630</span>
+						<span>⭐ 90157</span>
+						<span>🔱 13633</span>
 					</div>
 				<div class="stars-today">⭐ 1899 stars this month</div>
 				</div>
