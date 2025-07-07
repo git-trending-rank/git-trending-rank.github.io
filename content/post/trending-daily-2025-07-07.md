@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-07
-date: 2025-07-07T09:58:36Z
+date: 2025-07-07T11:58:57Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        NanmiCoder /
+        rustfs /
 
-      MediaCrawler</a></p>
+      rustfs</a></p>
 				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      🚀 High-performance distributed object storage for MinIO alternative.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28173</span>
-						<span>🔱 7126</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 1525</span>
+						<span>🔱 68</span>
 					</div>
-				<div class="stars-today">⭐ 456 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/macos" target="_blank">
-    
-
-
-      
-        dockur /
-
-      macos</a></p>
-				<p>
-      macOS inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 14708</span>
-						<span>🔱 604</span>
-					</div>
-				<div class="stars-today">⭐ 1122 stars today</div>
+				<div class="stars-today">⭐ 408 stars today</div>
 				</div>
 			</div>
 	
@@ -74,142 +52,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14986</span>
-						<span>🔱 1383</span>
+						<span>⭐ 15025</span>
+						<span>🔱 1386</span>
 					</div>
 				<div class="stars-today">⭐ 228 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vosen/ZLUDA" target="_blank">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
     
 
 
       
-        vosen /
+        th-ch /
 
-      ZLUDA</a></p>
+      youtube-music</a></p>
 				<p>
-      CUDA on non-NVIDIA GPUs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12320</span>
-						<span>🔱 773</span>
-					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
-    
-
-
-      
-        GyulyVGC /
-
-      sniffnet</a></p>
-				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26760</span>
-						<span>🔱 854</span>
-					</div>
-				<div class="stars-today">⭐ 220 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alex313031/thorium" target="_blank">
-    
-
-
-      
-        Alex313031 /
-
-      thorium</a></p>
-				<p>
-      Chromium fork named after radioactive element No. 90. Windows and MacOS/Raspi/Android/Special builds are in different repositories, links are towards the top of the README.md.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 6139</span>
-						<span>🔱 199</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 396208</span>
-						<span>🔱 36960</span>
-					</div>
-				<div class="stars-today">⭐ 588 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iib0011/omni-tools" target="_blank">
-    
-
-
-      
-        iib0011 /
-
-      omni-tools</a></p>
-				<p>
-      Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
+      YouTube Music Desktop App bundled with custom plugins
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4703</span>
-						<span>🔱 229</span>
+						<span>⭐ 24511</span>
+						<span>🔱 1301</span>
 					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
+				<div class="stars-today">⭐ 1487 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
+				<p><a href="https://github.com/dockur/macos" target="_blank">
     
 
 
       
-        home-assistant /
+        dockur /
 
-      home-assistant.io</a></p>
+      macos</a></p>
 				<p>
-      📘 Home Assistant User documentation
+      macOS inside a Docker container.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 6944</span>
-						<span>🔱 7770</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 14773</span>
+						<span>🔱 608</span>
 					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
+				<div class="stars-today">⭐ 1122 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
+    
+
+
+      
+        pocketbase /
+
+      pocketbase</a></p>
+				<p>
+      Open Source realtime backend in 1 file
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 48484</span>
+						<span>🔱 2443</span>
+					</div>
+				<div class="stars-today">⭐ 180 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54486</span>
+						<span>🔱 9880</span>
+					</div>
+				<div class="stars-today">⭐ 204 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/smallcloudai/refact" target="_blank">
+    
+
+
+      
+        smallcloudai /
+
+      refact</a></p>
+				<p>
+      AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2431</span>
+						<span>🔱 212</span>
+					</div>
+				<div class="stars-today">⭐ 43 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6368</span>
+						<span>🔱 419</span>
+					</div>
+				<div class="stars-today">⭐ 297 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ed-donner/llm_engineering" target="_blank">
+    
+
+
+      
+        ed-donner /
+
+      llm_engineering</a></p>
+				<p>
+      Repo to accompany my mastering LLM engineering course
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 2569</span>
+						<span>🔱 2241</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CodeWithHarry/Sigma-Web-Dev-Course" target="_blank">
+    
+
+
+      
+        CodeWithHarry /
+
+      Sigma-Web-Dev-Course</a></p>
+				<p>
+      Source Code for Sigma Web Development Course
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9101</span>
+						<span>🔱 2670</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
 			</div>
 	

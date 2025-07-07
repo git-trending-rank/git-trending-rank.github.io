@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-07T09:58:37Z
+date: 2025-07-07T11:58:57Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48448</span>
-						<span>🔱 5558</span>
+						<span>⭐ 48495</span>
+						<span>🔱 5561</span>
 					</div>
 				<div class="stars-today">⭐ 15228 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34861</span>
-						<span>🔱 6701</span>
+						<span>⭐ 34868</span>
+						<span>🔱 6703</span>
 					</div>
 				<div class="stars-today">⭐ 5957 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 8982</span>
-						<span>🔱 643</span>
-					</div>
-				<div class="stars-today">⭐ 6524 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 379333</span>
-						<span>🔱 30346</span>
+						<span>⭐ 379388</span>
+						<span>🔱 30351</span>
 					</div>
 				<div class="stars-today">⭐ 15630 stars this month</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34129</span>
+						<span>⭐ 34135</span>
 						<span>🔱 1981</span>
 					</div>
 				<div class="stars-today">⭐ 4860 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      happy-llm</a></p>
+				<p>
+      📚 从零开始的大语言模型原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 9017</span>
+						<span>🔱 646</span>
+					</div>
+				<div class="stars-today">⭐ 6524 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33378</span>
-						<span>🔱 3691</span>
+						<span>⭐ 33384</span>
+						<span>🔱 3693</span>
 					</div>
 				<div class="stars-today">⭐ 5269 stars this month</div>
 				</div>
@@ -162,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 17835</span>
+						<span>⭐ 17853</span>
 						<span>🔱 997</span>
 					</div>
 				<div class="stars-today">⭐ 6180 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8429</span>
-						<span>🔱 522</span>
-					</div>
-				<div class="stars-today">⭐ 3952 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      anthropic-cookbook</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17729</span>
-						<span>🔱 1838</span>
-					</div>
-				<div class="stars-today">⭐ 4792 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28173</span>
-						<span>🔱 7126</span>
+						<span>⭐ 28212</span>
+						<span>🔱 7133</span>
 					</div>
 				<div class="stars-today">⭐ 4479 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17733</span>
+						<span>🔱 1838</span>
+					</div>
+				<div class="stars-today">⭐ 4792 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20867</span>
+						<span>⭐ 20878</span>
 						<span>🔱 2126</span>
 					</div>
 				<div class="stars-today">⭐ 4522 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8433</span>
+						<span>🔱 522</span>
+					</div>
+				<div class="stars-today">⭐ 3952 stars this month</div>
 				</div>
 			</div>
 	
@@ -273,9 +273,31 @@ keywords:
 					<div>
 						<span>🔠 Java</span>
 						<span>⭐ 27031</span>
-						<span>🔱 8727</span>
+						<span>🔱 8726</span>
 					</div>
 				<div class="stars-today">⭐ 870 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+    
+
+
+      
+        Kilo-Org /
+
+      kilocode</a></p>
+				<p>
+      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3788</span>
+						<span>🔱 298</span>
+					</div>
+				<div class="stars-today">⭐ 2892 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3008</span>
+						<span>⭐ 3010</span>
 						<span>🔱 480</span>
 					</div>
 				<div class="stars-today">⭐ 1133 stars this month</div>
@@ -316,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8999</span>
+						<span>⭐ 9008</span>
 						<span>🔱 1129</span>
 					</div>
 				<div class="stars-today">⭐ 3481 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
-    
-
-
-      
-        Kilo-Org /
-
-      kilocode</a></p>
-				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3779</span>
-						<span>🔱 298</span>
-					</div>
-				<div class="stars-today">⭐ 2892 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 90210</span>
+						<span>⭐ 90212</span>
 						<span>🔱 13643</span>
 					</div>
 				<div class="stars-today">⭐ 1932 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+    
+
+
+      
+        stanford-oval /
+
+      storm</a></p>
+				<p>
+      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26274</span>
+						<span>🔱 2367</span>
+					</div>
+				<div class="stars-today">⭐ 1767 stars this month</div>
 				</div>
 			</div>
 	
