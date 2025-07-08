@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-08T09:58:34Z
+date: 2025-07-08T11:58:55Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48815</span>
-						<span>🔱 5602</span>
+						<span>⭐ 48841</span>
+						<span>🔱 5606</span>
 					</div>
 				<div class="stars-today">⭐ 15399 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34948</span>
-						<span>🔱 6715</span>
+						<span>⭐ 34954</span>
+						<span>🔱 6717</span>
 					</div>
 				<div class="stars-today">⭐ 6033 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 379846</span>
-						<span>🔱 30379</span>
+						<span>⭐ 379902</span>
+						<span>🔱 30380</span>
 					</div>
 				<div class="stars-today">⭐ 15993 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34285</span>
-						<span>🔱 1995</span>
+						<span>⭐ 34311</span>
+						<span>🔱 1997</span>
 					</div>
 				<div class="stars-today">⭐ 4905 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9471</span>
-						<span>🔱 680</span>
-					</div>
-				<div class="stars-today">⭐ 7023 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33462</span>
-						<span>🔱 3705</span>
+						<span>⭐ 33465</span>
+						<span>🔱 3706</span>
 					</div>
 				<div class="stars-today">⭐ 5350 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 18046</span>
-						<span>🔱 1010</span>
-					</div>
-				<div class="stars-today">⭐ 6266 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28522</span>
-						<span>🔱 7174</span>
+						<span>⭐ 28546</span>
+						<span>🔱 7176</span>
 					</div>
 				<div class="stars-today">⭐ 5157 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      happy-llm</a></p>
+				<p>
+      📚 从零开始的大语言模型原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 9503</span>
+						<span>🔱 682</span>
+					</div>
+				<div class="stars-today">⭐ 7023 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 18059</span>
+						<span>🔱 1010</span>
+					</div>
+				<div class="stars-today">⭐ 6266 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17795</span>
+						<span>⭐ 17800</span>
 						<span>🔱 1842</span>
 					</div>
 				<div class="stars-today">⭐ 4813 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
+    
+
+
+      
+        DrKLO /
+
+      Telegram</a></p>
+				<p>
+      Telegram for Android source
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 27042</span>
+						<span>🔱 8730</span>
+					</div>
+				<div class="stars-today">⭐ 877 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9099</span>
+						<span>🔱 1139</span>
+					</div>
+				<div class="stars-today">⭐ 3571 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+    
+
+
+      
+        Kilo-Org /
+
+      kilocode</a></p>
+				<p>
+      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3883</span>
+						<span>🔱 311</span>
+					</div>
+				<div class="stars-today">⭐ 2997 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+    
+
+
+      
+        GyulyVGC /
+
+      sniffnet</a></p>
+				<p>
+      Comfortably monitor your Internet traffic 🕵️‍♂️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 27116</span>
+						<span>🔱 875</span>
+					</div>
+				<div class="stars-today">⭐ 2601 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20994</span>
+						<span>⭐ 20999</span>
 						<span>🔱 2134</span>
 					</div>
 				<div class="stars-today">⭐ 4610 stars this month</div>
@@ -250,98 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8468</span>
+						<span>⭐ 8469</span>
 						<span>🔱 529</span>
 					</div>
 				<div class="stars-today">⭐ 3888 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
-    
-
-
-      
-        DrKLO /
-
-      Telegram</a></p>
-				<p>
-      Telegram for Android source
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 27042</span>
-						<span>🔱 8729</span>
-					</div>
-				<div class="stars-today">⭐ 877 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
-    
-
-
-      
-        Kilo-Org /
-
-      kilocode</a></p>
-				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3878</span>
-						<span>🔱 308</span>
-					</div>
-				<div class="stars-today">⭐ 2997 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwohlwend/boltz" target="_blank">
-    
-
-
-      
-        jwohlwend /
-
-      boltz</a></p>
-				<p>
-      Official repository for the Boltz biomolecular interaction models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3030</span>
-						<span>🔱 482</span>
-					</div>
-				<div class="stars-today">⭐ 1057 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9092</span>
-						<span>🔱 1139</span>
-					</div>
-				<div class="stars-today">⭐ 3571 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26379</span>
+						<span>⭐ 26382</span>
 						<span>🔱 2373</span>
 					</div>
 				<div class="stars-today">⭐ 1855 stars this month</div>

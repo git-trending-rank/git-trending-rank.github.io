@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第28周
-date: 2025-07-08T09:58:34Z
+date: 2025-07-08T11:58:55Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28522</span>
-						<span>🔱 7174</span>
+						<span>⭐ 28546</span>
+						<span>🔱 7176</span>
 					</div>
 				<div class="stars-today">⭐ 4414 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9510</span>
+						<span>⭐ 9515</span>
 						<span>🔱 1162</span>
 					</div>
 				<div class="stars-today">⭐ 1117 stars this week</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 91473</span>
-						<span>🔱 46695</span>
+						<span>⭐ 91478</span>
+						<span>🔱 46698</span>
 					</div>
 				<div class="stars-today">⭐ 4540 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
-    
-
-
-      
-        tursodatabase /
-
-      turso</a></p>
-				<p>
-      Turso Database is a project to build the next evolution of SQLite.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11822</span>
-						<span>🔱 447</span>
-					</div>
-				<div class="stars-today">⭐ 520 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27891</span>
-						<span>🔱 1228</span>
+						<span>⭐ 27900</span>
+						<span>🔱 1229</span>
 					</div>
 				<div class="stars-today">⭐ 738 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4543</span>
+						<span>🔱 683</span>
+					</div>
+				<div class="stars-today">⭐ 353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+    
+
+
+      
+        tursodatabase /
+
+      turso</a></p>
+				<p>
+      Turso Database is a project to build the next evolution of SQLite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11826</span>
+						<span>🔱 447</span>
+					</div>
+				<div class="stars-today">⭐ 520 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,74 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 73988</span>
-						<span>🔱 16277</span>
+						<span>⭐ 73993</span>
+						<span>🔱 16279</span>
 					</div>
 				<div class="stars-today">⭐ 606 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/agents-from-scratch" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      agents-from-scratch</a></p>
-				<p>
-      Build an email assistant with human-in-the-loop and memory
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 763</span>
-						<span>🔱 138</span>
-					</div>
-				<div class="stars-today">⭐ 412 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
-    
-
-
-      
-        GraphiteEditor /
-
-      Graphite</a></p>
-				<p>
-      An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18673</span>
-						<span>🔱 788</span>
-					</div>
-				<div class="stars-today">⭐ 3263 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/octra-labs/wallet-gen" target="_blank">
-    
-
-
-      
-        octra-labs /
-
-      wallet-gen</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 597</span>
-						<span>🔱 11454</span>
-					</div>
-				<div class="stars-today">⭐ 232 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 120658</span>
+						<span>⭐ 120663</span>
 						<span>🔱 7159</span>
 					</div>
 				<div class="stars-today">⭐ 315 stars this week</div>
@@ -248,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68037</span>
-						<span>🔱 15626</span>
+						<span>⭐ 68048</span>
+						<span>🔱 15631</span>
 					</div>
 				<div class="stars-today">⭐ 1304 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      Building a modern alternative to Salesforce, powered by the community.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33462</span>
-						<span>🔱 3705</span>
-					</div>
-				<div class="stars-today">⭐ 1347 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 396822</span>
-						<span>🔱 37029</span>
+						<span>⭐ 396885</span>
+						<span>🔱 37034</span>
 					</div>
 				<div class="stars-today">⭐ 4062 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/ERNIE" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      ERNIE</a></p>
+				<p>
+      The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7255</span>
+						<span>🔱 1378</span>
+					</div>
+				<div class="stars-today">⭐ 364 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/midday-ai/midday" target="_blank">
+    
+
+
+      
+        midday-ai /
+
+      midday</a></p>
+				<p>
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8978</span>
+						<span>🔱 850</span>
+					</div>
+				<div class="stars-today">⭐ 629 stars this week</div>
 				</div>
 			</div>
 	

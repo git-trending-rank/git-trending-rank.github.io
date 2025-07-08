@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-08
-date: 2025-07-08T09:58:34Z
+date: 2025-07-08T11:58:55Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
     
 
 
       
-        rustfs /
+        humanlayer /
 
-      rustfs</a></p>
+      12-factor-agents</a></p>
 				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2828</span>
-						<span>🔱 143</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7062</span>
+						<span>🔱 457</span>
 					</div>
-				<div class="stars-today">⭐ 244 stars today</div>
+				<div class="stars-today">⭐ 368 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
     
 
 
       
-        anthropics /
+        Alibaba-NLP /
 
-      prompt-eng-interactive-tutorial</a></p>
+      WebAgent</a></p>
 				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
+      🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15555</span>
-						<span>🔱 1436</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1847</span>
+						<span>🔱 136</span>
 					</div>
-				<div class="stars-today">⭐ 455 stars today</div>
+				<div class="stars-today">⭐ 188 stars today</div>
 				</div>
 			</div>
 	
@@ -74,54 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25131</span>
-						<span>🔱 1354</span>
+						<span>⭐ 25176</span>
+						<span>🔱 1358</span>
 					</div>
 				<div class="stars-today">⭐ 1547 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dockur/macos" target="_blank">
+				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
     
 
 
       
-        dockur /
+        HandsOnLLM /
 
-      macos</a></p>
+      Hands-On-Large-Language-Models</a></p>
 				<p>
-      macOS inside a Docker container.
+      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 15210</span>
-						<span>🔱 629</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11273</span>
+						<span>🔱 2699</span>
 					</div>
-				<div class="stars-today">⭐ 875 stars today</div>
+				<div class="stars-today">⭐ 128 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
+				<p><a href="https://github.com/gusmanb/logicanalyzer" target="_blank">
     
 
 
       
-        pocketbase /
+        gusmanb /
 
-      pocketbase</a></p>
+      logicanalyzer</a></p>
 				<p>
-      Open Source realtime backend in 1 file
+      24 channel, 100Msps logic analyzer hardware and software
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 48750</span>
-						<span>🔱 2455</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3874</span>
+						<span>🔱 414</span>
 					</div>
-				<div class="stars-today">⭐ 218 stars today</div>
+				<div class="stars-today">⭐ 33 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15590</span>
+						<span>🔱 1440</span>
+					</div>
+				<div class="stars-today">⭐ 455 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀 High-performance distributed object storage for MinIO alternative.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2894</span>
+						<span>🔱 147</span>
+					</div>
+				<div class="stars-today">⭐ 244 stars today</div>
 				</div>
 			</div>
 	
@@ -140,98 +184,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54828</span>
-						<span>🔱 9900</span>
+						<span>⭐ 54849</span>
+						<span>🔱 9902</span>
 					</div>
 				<div class="stars-today">⭐ 229 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/smallcloudai/refact" target="_blank">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
     
 
 
       
-        smallcloudai /
+        FujiwaraChoki /
 
-      refact</a></p>
+      MoneyPrinterV2</a></p>
 				<p>
-      AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
+      Automate the process of making money online.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2792</span>
-						<span>🔱 230</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11761</span>
+						<span>🔱 1126</span>
 					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
+				<div class="stars-today">⭐ 107 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+				<p><a href="https://github.com/jbhuang0604/awesome-computer-vision" target="_blank">
     
 
 
       
-        humanlayer /
+        jbhuang0604 /
 
-      12-factor-agents</a></p>
+      awesome-computer-vision</a></p>
 				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+      A curated list of awesome computer vision resources
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7014</span>
-						<span>🔱 454</span>
+						<span>🔠 </span>
+						<span>⭐ 21881</span>
+						<span>🔱 4326</span>
 					</div>
-				<div class="stars-today">⭐ 368 stars today</div>
+				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ed-donner/llm_engineering" target="_blank">
+				<p><a href="https://github.com/dockur/macos" target="_blank">
     
 
 
       
-        ed-donner /
+        dockur /
 
-      llm_engineering</a></p>
+      macos</a></p>
 				<p>
-      Repo to accompany my mastering LLM engineering course
+      macOS inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 15241</span>
+						<span>🔱 629</span>
+					</div>
+				<div class="stars-today">⭐ 875 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/florinpop17/app-ideas" target="_blank">
+    
+
+
+      
+        florinpop17 /
+
+      app-ideas</a></p>
+				<p>
+      A Collection of application ideas which can be used to improve your coding skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 83996</span>
+						<span>🔱 9737</span>
+					</div>
+				<div class="stars-today">⭐ 49 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NirDiamant/GenAI_Agents" target="_blank">
+    
+
+
+      
+        NirDiamant /
+
+      GenAI_Agents</a></p>
+				<p>
+      This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 2742</span>
-						<span>🔱 2261</span>
+						<span>⭐ 13879</span>
+						<span>🔱 1927</span>
 					</div>
-				<div class="stars-today">⭐ 34 stars today</div>
+				<div class="stars-today">⭐ 84 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CodeWithHarry/Sigma-Web-Dev-Course" target="_blank">
+				<p><a href="https://github.com/forthespada/CS-Books" target="_blank">
     
 
 
       
-        CodeWithHarry /
+        forthespada /
 
-      Sigma-Web-Dev-Course</a></p>
+      CS-Books</a></p>
 				<p>
-      Source Code for Sigma Web Development Course
+      🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9213</span>
-						<span>🔱 2673</span>
+						<span>🔠 </span>
+						<span>⭐ 23107</span>
+						<span>🔱 3881</span>
 					</div>
-				<div class="stars-today">⭐ 22 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
