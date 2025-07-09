@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-09T09:58:46Z
+date: 2025-07-09T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49113</span>
-						<span>🔱 5666</span>
+						<span>⭐ 49140</span>
+						<span>🔱 5672</span>
 					</div>
 				<div class="stars-today">⭐ 15636 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35037</span>
-						<span>🔱 6736</span>
+						<span>⭐ 35043</span>
+						<span>🔱 6737</span>
 					</div>
 				<div class="stars-today">⭐ 6111 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 380315</span>
-						<span>🔱 30419</span>
-					</div>
-				<div class="stars-today">⭐ 16352 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34436</span>
+						<span>⭐ 34448</span>
 						<span>🔱 2011</span>
 					</div>
 				<div class="stars-today">⭐ 5085 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 380350</span>
+						<span>🔱 30419</span>
+					</div>
+				<div class="stars-today">⭐ 16352 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33547</span>
+						<span>⭐ 33554</span>
 						<span>🔱 3725</span>
 					</div>
 				<div class="stars-today">⭐ 5414 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28746</span>
-						<span>🔱 7212</span>
+						<span>⭐ 28758</span>
+						<span>🔱 7213</span>
 					</div>
 				<div class="stars-today">⭐ 5441 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9793</span>
-						<span>🔱 709</span>
+						<span>⭐ 9818</span>
+						<span>🔱 710</span>
 					</div>
 				<div class="stars-today">⭐ 7263 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 18254</span>
-						<span>🔱 1028</span>
+						<span>⭐ 18271</span>
+						<span>🔱 1029</span>
 					</div>
 				<div class="stars-today">⭐ 6357 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17857</span>
+						<span>⭐ 17860</span>
 						<span>🔱 1849</span>
 					</div>
 				<div class="stars-today">⭐ 4850 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 27055</span>
-						<span>🔱 8738</span>
+						<span>⭐ 27056</span>
+						<span>🔱 8739</span>
 					</div>
 				<div class="stars-today">⭐ 881 stars this month</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9197</span>
+						<span>⭐ 9204</span>
 						<span>🔱 1152</span>
 					</div>
 				<div class="stars-today">⭐ 3647 stars this month</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3972</span>
+						<span>⭐ 3985</span>
 						<span>🔱 321</span>
 					</div>
 				<div class="stars-today">⭐ 3055 stars this month</div>
@@ -280,90 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
     
 
 
       
-        GyulyVGC /
+        googleapis /
 
-      sniffnet</a></p>
+      genai-toolbox</a></p>
 				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
+      MCP Toolbox for Databases is an open source MCP server for databases.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 27389</span>
-						<span>🔱 889</span>
+						<span>🔠 Go</span>
+						<span>⭐ 3459</span>
+						<span>🔱 301</span>
 					</div>
-				<div class="stars-today">⭐ 2918 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      self-llm</a></p>
-				<p>
-      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 21085</span>
-						<span>🔱 2145</span>
-					</div>
-				<div class="stars-today">⭐ 4645 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8506</span>
-						<span>🔱 536</span>
-					</div>
-				<div class="stars-today">⭐ 3625 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      Web-Dev-For-Beginners</a></p>
-				<p>
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 90316</span>
-						<span>🔱 13652</span>
-					</div>
-				<div class="stars-today">⭐ 2009 stars this month</div>
+				<div class="stars-today">⭐ 1466 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26432</span>
-						<span>🔱 2377</span>
+						<span>⭐ 26436</span>
+						<span>🔱 2378</span>
 					</div>
 				<div class="stars-today">⭐ 1942 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
+    
+
+
+      
+        jdepoix /
+
+      youtube-transcript-api</a></p>
+				<p>
+      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5687</span>
+						<span>🔱 583</span>
+					</div>
+				<div class="stars-today">⭐ 1704 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      Web-Dev-For-Beginners</a></p>
+				<p>
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 90320</span>
+						<span>🔱 13653</span>
+					</div>
+				<div class="stars-today">⭐ 2009 stars this month</div>
 				</div>
 			</div>
 	

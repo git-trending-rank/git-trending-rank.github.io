@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第28周
-date: 2025-07-09T09:58:45Z
+date: 2025-07-09T11:58:51Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28746</span>
-						<span>🔱 7212</span>
+						<span>⭐ 28758</span>
+						<span>🔱 7213</span>
 					</div>
 				<div class="stars-today">⭐ 4447 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
-    
-
-
-      
-        zaidmukaddam /
-
-      scira</a></p>
-				<p>
-      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9602</span>
-						<span>🔱 1170</span>
-					</div>
-				<div class="stars-today">⭐ 990 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 91554</span>
-						<span>🔱 46767</span>
-					</div>
-				<div class="stars-today">⭐ 4028 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28144</span>
-						<span>🔱 1243</span>
+						<span>⭐ 28163</span>
+						<span>🔱 1244</span>
 					</div>
 				<div class="stars-today">⭐ 884 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
+    
+
+
+      
+        zaidmukaddam /
+
+      scira</a></p>
+				<p>
+      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9610</span>
+						<span>🔱 1174</span>
+					</div>
+				<div class="stars-today">⭐ 990 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+    
+
+
+      
+        googleapis /
+
+      genai-toolbox</a></p>
+				<p>
+      MCP Toolbox for Databases is an open source MCP server for databases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3459</span>
+						<span>🔱 301</span>
+					</div>
+				<div class="stars-today">⭐ 1056 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,98 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4623</span>
-						<span>🔱 693</span>
+						<span>⭐ 4633</span>
+						<span>🔱 694</span>
 					</div>
 				<div class="stars-today">⭐ 455 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
     
 
 
       
-        tursodatabase /
+        GyulyVGC /
 
-      turso</a></p>
+      sniffnet</a></p>
 				<p>
-      Turso Database is a project to build the next evolution of SQLite.
+      Comfortably monitor your Internet traffic 🕵️‍♂️
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11880</span>
-						<span>🔱 449</span>
+						<span>⭐ 27412</span>
+						<span>🔱 890</span>
 					</div>
-				<div class="stars-today">⭐ 547 stars this week</div>
+				<div class="stars-today">⭐ 1805 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        microsoft /
+        LadybirdBrowser /
 
-      ML-For-Beginners</a></p>
+      ladybird</a></p>
 				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 74141</span>
-						<span>🔱 16318</span>
+						<span>🔠 C++</span>
+						<span>⭐ 45055</span>
+						<span>🔱 1921</span>
 					</div>
-				<div class="stars-today">⭐ 654 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Windows system utilities to maximize productivity
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 120713</span>
-						<span>🔱 7165</span>
-					</div>
-				<div class="stars-today">⭐ 339 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 68147</span>
-						<span>🔱 15639</span>
-					</div>
-				<div class="stars-today">⭐ 1194 stars this week</div>
+				<div class="stars-today">⭐ 1007 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,54 +184,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 397546</span>
-						<span>🔱 37114</span>
+						<span>⭐ 397622</span>
+						<span>🔱 37119</span>
 					</div>
 				<div class="stars-today">⭐ 4170 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/ERNIE" target="_blank">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        microsoft /
 
-      ERNIE</a></p>
+      generative-ai-for-beginners</a></p>
 				<p>
-      The official repository for ERNIE 4.5 and ERNIEKit – its industrial-grade development toolkit based on PaddlePaddle.
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7284</span>
-						<span>🔱 1383</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 91560</span>
+						<span>🔱 46773</span>
 					</div>
-				<div class="stars-today">⭐ 344 stars this week</div>
+				<div class="stars-today">⭐ 4028 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
+				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
     
 
 
       
-        midday-ai /
+        pocketbase /
 
-      midday</a></p>
+      pocketbase</a></p>
 				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+      Open Source realtime backend in 1 file
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 48816</span>
+						<span>🔱 2460</span>
+					</div>
+				<div class="stars-today">⭐ 766 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+    
+
+
+      
+        Kilo-Org /
+
+      kilocode</a></p>
+				<p>
+      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9041</span>
-						<span>🔱 851</span>
+						<span>⭐ 3985</span>
+						<span>🔱 321</span>
 					</div>
-				<div class="stars-today">⭐ 408 stars this week</div>
+				<div class="stars-today">⭐ 2271 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 74151</span>
+						<span>🔱 16320</span>
+					</div>
+				<div class="stars-today">⭐ 654 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55079</span>
+						<span>🔱 9915</span>
+					</div>
+				<div class="stars-today">⭐ 700 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets management, PKI, and SSH access.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18709</span>
+						<span>🔱 1248</span>
+					</div>
+				<div class="stars-today">⭐ 503 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/directus/directus" target="_blank">
+    
+
+
+      
+        directus /
+
+      directus</a></p>
+				<p>
+      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31512</span>
+						<span>🔱 4290</span>
+					</div>
+				<div class="stars-today">⭐ 487 stars this week</div>
 				</div>
 			</div>
 	
