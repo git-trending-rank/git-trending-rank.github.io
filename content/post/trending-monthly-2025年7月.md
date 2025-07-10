@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-10T09:58:55Z
+date: 2025-07-10T11:58:31Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
+    
+
+
+      
+        GraphiteEditor /
+
+      Graphite</a></p>
+				<p>
+      An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18804</span>
+						<span>🔱 789</span>
+					</div>
+				<div class="stars-today">⭐ 6875 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49413</span>
-						<span>🔱 5717</span>
+						<span>⭐ 49427</span>
+						<span>🔱 5721</span>
 					</div>
 				<div class="stars-today">⭐ 15588 stars this month</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35086</span>
-						<span>🔱 6743</span>
+						<span>⭐ 35092</span>
+						<span>🔱 6745</span>
 					</div>
 				<div class="stars-today">⭐ 6169 stars this month</div>
 				</div>
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34527</span>
+						<span>⭐ 34536</span>
 						<span>🔱 2017</span>
 					</div>
 				<div class="stars-today">⭐ 5195 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 380695</span>
-						<span>🔱 30432</span>
-					</div>
-				<div class="stars-today">⭐ 16604 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      Building a modern alternative to Salesforce, powered by the community.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33614</span>
-						<span>🔱 3738</span>
-					</div>
-				<div class="stars-today">⭐ 5494 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29158</span>
-						<span>🔱 7328</span>
+						<span>⭐ 29190</span>
+						<span>🔱 7333</span>
 					</div>
 				<div class="stars-today">⭐ 5617 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33618</span>
+						<span>🔱 3741</span>
+					</div>
+				<div class="stars-today">⭐ 5494 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 10055</span>
-						<span>🔱 730</span>
+						<span>⭐ 10079</span>
+						<span>🔱 732</span>
 					</div>
 				<div class="stars-today">⭐ 7210 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2045</span>
-						<span>🔱 155</span>
+						<span>⭐ 2047</span>
+						<span>🔱 156</span>
 					</div>
 				<div class="stars-today">⭐ 1716 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 18508</span>
-						<span>🔱 1047</span>
+						<span>⭐ 18524</span>
+						<span>🔱 1049</span>
 					</div>
 				<div class="stars-today">⭐ 6396 stars this month</div>
 				</div>
@@ -228,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17916</span>
+						<span>⭐ 17919</span>
 						<span>🔱 1855</span>
 					</div>
 				<div class="stars-today">⭐ 4878 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 380722</span>
+						<span>🔱 30436</span>
+					</div>
+				<div class="stars-today">⭐ 16604 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+    
+
+
+      
+        googleapis /
+
+      genai-toolbox</a></p>
+				<p>
+      MCP Toolbox for Databases is an open source MCP server for databases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4502</span>
+						<span>🔱 359</span>
+					</div>
+				<div class="stars-today">⭐ 2324 stars this month</div>
 				</div>
 			</div>
 	
@@ -251,7 +295,7 @@ keywords:
 					<div>
 						<span>🔠 Java</span>
 						<span>⭐ 27083</span>
-						<span>🔱 8754</span>
+						<span>🔱 8756</span>
 					</div>
 				<div class="stars-today">⭐ 891 stars this month</div>
 				</div>
@@ -272,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9277</span>
+						<span>⭐ 9283</span>
 						<span>🔱 1161</span>
 					</div>
 				<div class="stars-today">⭐ 3706 stars this month</div>
@@ -294,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4079</span>
+						<span>⭐ 4091</span>
 						<span>🔱 325</span>
 					</div>
 				<div class="stars-today">⭐ 3136 stars this month</div>
@@ -302,68 +346,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
     
 
 
       
-        googleapis /
+        humanlayer /
 
-      genai-toolbox</a></p>
+      12-factor-agents</a></p>
 				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4426</span>
-						<span>🔱 356</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8089</span>
+						<span>🔱 504</span>
 					</div>
-				<div class="stars-today">⭐ 2324 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
-    
-
-
-      
-        stanford-oval /
-
-      storm</a></p>
-				<p>
-      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26474</span>
-						<span>🔱 2380</span>
-					</div>
-				<div class="stars-today">⭐ 1976 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jdepoix/youtube-transcript-api" target="_blank">
-    
-
-
-      
-        jdepoix /
-
-      youtube-transcript-api</a></p>
-				<p>
-      This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5715</span>
-						<span>🔱 583</span>
-					</div>
-				<div class="stars-today">⭐ 1705 stars this month</div>
+				<div class="stars-today">⭐ 3659 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +382,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 90371</span>
+						<span>⭐ 90374</span>
 						<span>🔱 13655</span>
 					</div>
 				<div class="stars-today">⭐ 2040 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+    
+
+
+      
+        stanford-oval /
+
+      storm</a></p>
+				<p>
+      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26477</span>
+						<span>🔱 2381</span>
+					</div>
+				<div class="stars-today">⭐ 1976 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 74270</span>
+						<span>🔱 16343</span>
+					</div>
+				<div class="stars-today">⭐ 1639 stars this month</div>
 				</div>
 			</div>
 	

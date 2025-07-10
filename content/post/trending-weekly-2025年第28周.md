@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第28周
-date: 2025-07-10T09:58:55Z
+date: 2025-07-10T11:58:31Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29158</span>
-						<span>🔱 7328</span>
+						<span>⭐ 29190</span>
+						<span>🔱 7333</span>
 					</div>
 				<div class="stars-today">⭐ 4106 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
-    
-
-
-      
-        RSSNext /
-
-      Folo</a></p>
-				<p>
-      🧡 Follow everything in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28386</span>
-						<span>🔱 1261</span>
-					</div>
-				<div class="stars-today">⭐ 1126 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
-    
-
-
-      
-        zaidmukaddam /
-
-      scira</a></p>
-				<p>
-      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9689</span>
-						<span>🔱 1185</span>
-					</div>
-				<div class="stars-today">⭐ 823 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4426</span>
-						<span>🔱 356</span>
+						<span>⭐ 4502</span>
+						<span>🔱 359</span>
 					</div>
 				<div class="stars-today">⭐ 1929 stars this week</div>
 				</div>
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4732</span>
-						<span>🔱 701</span>
+						<span>⭐ 4740</span>
+						<span>🔱 702</span>
 					</div>
 				<div class="stars-today">⭐ 537 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28404</span>
+						<span>🔱 1262</span>
+					</div>
+				<div class="stars-today">⭐ 1126 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27748</span>
-						<span>🔱 907</span>
+						<span>⭐ 27767</span>
+						<span>🔱 909</span>
 					</div>
 				<div class="stars-today">⭐ 1958 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 45097</span>
-						<span>🔱 1922</span>
-					</div>
-				<div class="stars-today">⭐ 953 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 398362</span>
-						<span>🔱 37185</span>
+						<span>⭐ 398421</span>
+						<span>🔱 37188</span>
 					</div>
 				<div class="stars-today">⭐ 4512 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 91628</span>
-						<span>🔱 46816</span>
-					</div>
-				<div class="stars-today">⭐ 2281 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +162,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 48865</span>
+						<span>⭐ 48873</span>
 						<span>🔱 2460</span>
 					</div>
 				<div class="stars-today">⭐ 797 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 45103</span>
+						<span>🔱 1922</span>
+					</div>
+				<div class="stars-today">⭐ 953 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55137</span>
+						<span>🔱 9919</span>
+					</div>
+				<div class="stars-today">⭐ 880 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      vertex-ai-creative-studio</a></p>
+				<p>
+      GenMedia Creative Studio is a Vertex AI generative media example user experience to highlight the use of Imagen, Veo and other generative media APIs on Google Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 183</span>
+						<span>🔱 62</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
+    
+
+
+      
+        zaidmukaddam /
+
+      scira</a></p>
+				<p>
+      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9695</span>
+						<span>🔱 1186</span>
+					</div>
+				<div class="stars-today">⭐ 823 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      home-assistant.io</a></p>
+				<p>
+      📘 Home Assistant User documentation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6973</span>
+						<span>🔱 7777</span>
+					</div>
+				<div class="stars-today">⭐ 263 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4079</span>
+						<span>⭐ 4091</span>
 						<span>🔱 325</span>
 					</div>
 				<div class="stars-today">⭐ 2307 stars this week</div>
@@ -272,76 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74265</span>
-						<span>🔱 16340</span>
+						<span>⭐ 74270</span>
+						<span>🔱 16343</span>
 					</div>
 				<div class="stars-today">⭐ 733 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
-    
-
-
-      
-        commaai /
-
-      openpilot</a></p>
-				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55132</span>
-						<span>🔱 9917</span>
-					</div>
-				<div class="stars-today">⭐ 880 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
-    
-
-
-      
-        Infisical /
-
-      infisical</a></p>
-				<p>
-      Infisical is the open-source platform for secrets management, PKI, and SSH access.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18773</span>
-						<span>🔱 1250</span>
-					</div>
-				<div class="stars-today">⭐ 533 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/directus/directus" target="_blank">
-    
-
-
-      
-        directus /
-
-      directus</a></p>
-				<p>
-      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31573</span>
-						<span>🔱 4290</span>
-					</div>
-				<div class="stars-today">⭐ 534 stars this week</div>
 				</div>
 			</div>
 	
