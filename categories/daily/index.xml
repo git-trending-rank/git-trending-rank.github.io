@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 10 Jul 2025 09:58:55 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 10 Jul 2025 11:58:31 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-07-10</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-07-10/</link>
-        <pubDate>Thu, 10 Jul 2025 09:58:55 +0000</pubDate>
+        <pubDate>Thu, 10 Jul 2025 11:58:31 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-07-10/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,72 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/googleapis/genai-toolbox&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 4426&lt;/span&gt;
-						&lt;span&gt;🔱 356&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 970 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        rustfs /
-
-      rustfs&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🚀 High-performance distributed object storage for MinIO alternative.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 3954&lt;/span&gt;
-						&lt;span&gt;🔱 188&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 650 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/prompt-eng-interactive-tutorial&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Anthropic&#39;s Interactive Prompt Engineering Tutorial
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16295&lt;/span&gt;
-						&lt;span&gt;🔱 1494&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 451 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/Alibaba-NLP/WebAgent&#34; target=&#34;_blank&#34;&gt;
@@ -99,98 +33,164 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3059&lt;/span&gt;
-						&lt;span&gt;🔱 205&lt;/span&gt;
+						&lt;span&gt;⭐ 3085&lt;/span&gt;
+						&lt;span&gt;🔱 209&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 780 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/putyy/res-downloader&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/WordPress/wordpress-develop&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        putyy /
+        WordPress /
 
-      res-downloader&lt;/a&gt;&lt;/p&gt;
+      wordpress-develop&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+      WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 PHP&lt;/span&gt;
+						&lt;span&gt;⭐ 2813&lt;/span&gt;
+						&lt;span&gt;🔱 2961&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/googleapis/genai-toolbox&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        googleapis /
+
+      genai-toolbox&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      MCP Toolbox for Databases is an open source MCP server for databases.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 8537&lt;/span&gt;
-						&lt;span&gt;🔱 1010&lt;/span&gt;
+						&lt;span&gt;⭐ 4502&lt;/span&gt;
+						&lt;span&gt;🔱 359&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 159 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 970 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ed-donner/agents&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LMCache/LMCache&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ed-donner /
+        LMCache /
 
-      agents&lt;/a&gt;&lt;/p&gt;
+      LMCache&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Repo for the Complete Agentic AI Engineering Course
+      Supercharge Your LLM with the Fastest KV Cache Layer
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 1159&lt;/span&gt;
-						&lt;span&gt;🔱 796&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 2722&lt;/span&gt;
+						&lt;span&gt;🔱 312&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 87 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 148 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/wanghongenpin/proxypin&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/forthespada/CS-Books&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        wanghongenpin /
+        forthespada /
 
-      proxypin&lt;/a&gt;&lt;/p&gt;
+      CS-Books&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems
+      🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Dart&lt;/span&gt;
-						&lt;span&gt;⭐ 9521&lt;/span&gt;
-						&lt;span&gt;🔱 816&lt;/span&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 23545&lt;/span&gt;
+						&lt;span&gt;🔱 3899&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 336 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ByteByteGoHq/system-design-101&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        microsoft /
+        ByteByteGoHq /
 
-      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
+      system-design-101&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      11 Lessons to Get Started Building AI Agents
+      Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 29798&lt;/span&gt;
-						&lt;span&gt;🔱 8423&lt;/span&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 74037&lt;/span&gt;
+						&lt;span&gt;🔱 7920&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 246 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 192 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/snap-stanford/Biomni&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        snap-stanford /
+
+      Biomni&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Biomni: a general-purpose biomedical AI agent
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 779&lt;/span&gt;
+						&lt;span&gt;🔱 81&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 338 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pybind/pybind11&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pybind /
+
+      pybind11&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Seamless operability between C++11 and Python
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 16814&lt;/span&gt;
+						&lt;span&gt;🔱 2189&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,120 +209,164 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 4437&lt;/span&gt;
-						&lt;span&gt;🔱 305&lt;/span&gt;
+						&lt;span&gt;⭐ 4450&lt;/span&gt;
+						&lt;span&gt;🔱 310&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 96 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/strapi/strapi&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/FujiwaraChoki/MoneyPrinterV2&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        strapi /
+        FujiwaraChoki /
 
-      strapi&lt;/a&gt;&lt;/p&gt;
+      MoneyPrinterV2&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 67575&lt;/span&gt;
-						&lt;span&gt;🔱 8708&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/MoGe&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      MoGe&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      [CVPR&#39;25 Oral] MoGe: Unlocking Accurate Monocular Geometry Estimation for Open-Domain Images with Optimal Training Supervision
+      Automate the process of making money online.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1307&lt;/span&gt;
-						&lt;span&gt;🔱 73&lt;/span&gt;
+						&lt;span&gt;⭐ 12150&lt;/span&gt;
+						&lt;span&gt;🔱 1147&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 29 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 301 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/alibaba/MNN&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/helm/helm&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        alibaba /
+        helm /
 
-      MNN&lt;/a&gt;&lt;/p&gt;
+      helm&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 12445&lt;/span&gt;
-						&lt;span&gt;🔱 1990&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ed-donner/llm_engineering&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ed-donner /
-
-      llm_engineering&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Repo to accompany my mastering LLM engineering course
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 2888&lt;/span&gt;
-						&lt;span&gt;🔱 2284&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/junegunn/fzf&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        junegunn /
-
-      fzf&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🌸 A command-line fuzzy finder
+      The Kubernetes Package Manager
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 71871&lt;/span&gt;
-						&lt;span&gt;🔱 2545&lt;/span&gt;
+						&lt;span&gt;⭐ 28129&lt;/span&gt;
+						&lt;span&gt;🔱 7275&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 62 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/coleam00/ai-agents-masterclass&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        coleam00 /
+
+      ai-agents-masterclass&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 2438&lt;/span&gt;
+						&lt;span&gt;🔱 1110&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 58 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HandsOnLLM/Hands-On-Large-Language-Models&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HandsOnLLM /
+
+      Hands-On-Large-Language-Models&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34;
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 11787&lt;/span&gt;
+						&lt;span&gt;🔱 2763&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 286 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/volcengine/verl&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        volcengine /
+
+      verl&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      verl: Volcano Engine Reinforcement Learning for LLMs
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 10650&lt;/span&gt;
+						&lt;span&gt;🔱 1765&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 58 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hashicorp/terraform&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hashicorp /
+
+      terraform&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 45552&lt;/span&gt;
+						&lt;span&gt;🔱 9924&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/flutter/packages&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        flutter /
+
+      packages&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of useful packages maintained by the Flutter team
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Dart&lt;/span&gt;
+						&lt;span&gt;⭐ 4783&lt;/span&gt;
+						&lt;span&gt;🔱 3354&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
