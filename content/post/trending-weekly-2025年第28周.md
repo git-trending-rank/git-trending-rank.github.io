@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第28周
-date: 2025-07-11T09:58:39Z
+date: 2025-07-11T11:58:44Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        NanmiCoder /
+        rustfs /
 
-      MediaCrawler</a></p>
+      rustfs</a></p>
 				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      🚀 High-performance distributed object storage for MinIO alternative.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29580</span>
-						<span>🔱 7416</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 4276</span>
+						<span>🔱 192</span>
 					</div>
-				<div class="stars-today">⭐ 3991 stars this week</div>
+				<div class="stars-today">⭐ 3572 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,98 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5254</span>
-						<span>🔱 404</span>
+						<span>⭐ 5307</span>
+						<span>🔱 406</span>
 					</div>
 				<div class="stars-today">⭐ 2899 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
     
 
 
       
-        simstudioai /
+        NanmiCoder /
 
-      sim</a></p>
+      MediaCrawler</a></p>
 				<p>
-      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29611</span>
+						<span>🔱 7422</span>
+					</div>
+				<div class="stars-today">⭐ 3991 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
+    
+
+
+      
+        th-ch /
+
+      youtube-music</a></p>
+				<p>
+      YouTube Music Desktop App bundled with custom plugins
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4826</span>
-						<span>🔱 711</span>
+						<span>⭐ 25632</span>
+						<span>🔱 1390</span>
 					</div>
-				<div class="stars-today">⭐ 640 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
-    
-
-
-      
-        RSSNext /
-
-      Folo</a></p>
-				<p>
-      🧡 Follow everything in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28584</span>
-						<span>🔱 1275</span>
-					</div>
-				<div class="stars-today">⭐ 1275 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
-    
-
-
-      
-        GyulyVGC /
-
-      sniffnet</a></p>
-				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 27957</span>
-						<span>🔱 913</span>
-					</div>
-				<div class="stars-today">⭐ 2236 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 398901</span>
-						<span>🔱 37234</span>
-					</div>
-				<div class="stars-today">⭐ 4688 stars this week</div>
+				<div class="stars-today">⭐ 2731 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,142 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 48922</span>
-						<span>🔱 2463</span>
+						<span>⭐ 48927</span>
+						<span>🔱 2464</span>
 					</div>
 				<div class="stars-today">⭐ 824 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        GyulyVGC /
 
-      ladybird</a></p>
+      sniffnet</a></p>
 				<p>
-      Truly independent web browser
+      Comfortably monitor your Internet traffic 🕵️‍♂️
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 45152</span>
-						<span>🔱 1924</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 27965</span>
+						<span>🔱 913</span>
 					</div>
-				<div class="stars-today">⭐ 790 stars this week</div>
+				<div class="stars-today">⭐ 2236 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
     
 
 
       
-        commaai /
+        datawhalechina /
 
-      openpilot</a></p>
+      happy-llm</a></p>
 				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+      📚 从零开始的大语言模型原理与实践教程
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55191</span>
-						<span>🔱 9924</span>
+						<span>🔠 </span>
+						<span>⭐ 10346</span>
+						<span>🔱 746</span>
 					</div>
-				<div class="stars-today">⭐ 932 stars this week</div>
+				<div class="stars-today">⭐ 3183 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio" target="_blank">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
     
 
 
       
-        GoogleCloudPlatform /
+        RSSNext /
 
-      vertex-ai-creative-studio</a></p>
+      Folo</a></p>
 				<p>
-      GenMedia Creative Studio is a Vertex AI generative media example user experience to highlight the use of Imagen, Veo and other generative media APIs on Google Cloud.
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28592</span>
+						<span>🔱 1279</span>
+					</div>
+				<div class="stars-today">⭐ 1275 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/agents-from-scratch" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      agents-from-scratch</a></p>
+				<p>
+      Build an email assistant with human-in-the-loop and memory
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 210</span>
-						<span>🔱 64</span>
+						<span>⭐ 842</span>
+						<span>🔱 147</span>
 					</div>
-				<div class="stars-today">⭐ 50 stars this week</div>
+				<div class="stars-today">⭐ 332 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
+				<p><a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice" target="_blank">
     
 
 
       
-        zaidmukaddam /
+        aldinokemal /
 
-      scira</a></p>
+      go-whatsapp-web-multidevice</a></p>
 				<p>
-      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+      GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9773</span>
-						<span>🔱 1193</span>
+						<span>🔠 Go</span>
+						<span>⭐ 1896</span>
+						<span>🔱 486</span>
 					</div>
-				<div class="stars-today">⭐ 628 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
-    
-
-
-      
-        home-assistant /
-
-      home-assistant.io</a></p>
-				<p>
-      📘 Home Assistant User documentation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 7008</span>
-						<span>🔱 7779</span>
-					</div>
-				<div class="stars-today">⭐ 272 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
-    
-
-
-      
-        Kilo-Org /
-
-      kilocode</a></p>
-				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4203</span>
-						<span>🔱 333</span>
-					</div>
-				<div class="stars-today">⭐ 2325 stars this week</div>
+				<div class="stars-today">⭐ 474 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74365</span>
+						<span>⭐ 74371</span>
 						<span>🔱 16377</span>
 					</div>
 				<div class="stars-today">⭐ 737 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ente-io/ente" target="_blank">
+    
+
+
+      
+        ente-io /
+
+      ente</a></p>
+				<p>
+      🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 20455</span>
+						<span>🔱 1165</span>
+					</div>
+				<div class="stars-today">⭐ 477 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55198</span>
+						<span>🔱 9924</span>
+					</div>
+				<div class="stars-today">⭐ 932 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      home-assistant.io</a></p>
+				<p>
+      📘 Home Assistant User documentation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 7013</span>
+						<span>🔱 7779</span>
+					</div>
+				<div class="stars-today">⭐ 272 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-11
-date: 2025-07-11T09:58:39Z
+date: 2025-07-11T11:58:44Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
+    
+
+
+      
+        protocolbuffers /
+
+      protobuf</a></p>
+				<p>
+      Protocol Buffers - Google's data interchange format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 67990</span>
+						<span>🔱 15764</span>
+					</div>
+				<div class="stars-today">⭐ 14 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+    
+
+
+      
+        googleapis /
+
+      genai-toolbox</a></p>
+				<p>
+      MCP Toolbox for Databases is an open source MCP server for databases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5307</span>
+						<span>🔱 406</span>
+					</div>
+				<div class="stars-today">⭐ 1040 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
@@ -30,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3478</span>
-						<span>🔱 241</span>
+						<span>⭐ 3501</span>
+						<span>🔱 243</span>
 					</div>
 				<div class="stars-today">⭐ 470 stars today</div>
 				</div>
@@ -52,98 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 2909</span>
-						<span>🔱 2968</span>
+						<span>⭐ 2911</span>
+						<span>🔱 2970</span>
 					</div>
 				<div class="stars-today">⭐ 8 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox</a></p>
-				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5254</span>
-						<span>🔱 404</span>
-					</div>
-				<div class="stars-today">⭐ 1040 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
-    
-
-
-      
-        LMCache /
-
-      LMCache</a></p>
-				<p>
-      Supercharge Your LLM with the Fastest KV Cache Layer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2925</span>
-						<span>🔱 327</span>
-					</div>
-				<div class="stars-today">⭐ 160 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/forthespada/CS-Books" target="_blank">
-    
-
-
-      
-        forthespada /
-
-      CS-Books</a></p>
-				<p>
-      🔥🔥超过1000本的计算机经典书籍、个人笔记资料以及本人在各平台发表文章中所涉及的资源等。书籍资源包括C/C++、Java、Python、Go语言、数据结构与算法、操作系统、后端架构、计算机系统知识、数据库、计算机网络、设计模式、前端、汇编以及校招社招各种面经~
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 23849</span>
-						<span>🔱 3915</span>
-					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ByteByteGoHq/system-design-101" target="_blank">
-    
-
-
-      
-        ByteByteGoHq /
-
-      system-design-101</a></p>
-				<p>
-      Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 74351</span>
-						<span>🔱 7950</span>
-					</div>
-				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1179</span>
-						<span>🔱 120</span>
+						<span>⭐ 1193</span>
+						<span>🔱 123</span>
 					</div>
 				<div class="stars-today">⭐ 415 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pybind/pybind11" target="_blank">
+				<p><a href="https://github.com/google/googletest" target="_blank">
     
 
 
       
-        pybind /
+        google /
 
-      pybind11</a></p>
+      googletest</a></p>
 				<p>
-      Seamless operability between C++11 and Python
+      GoogleTest - Google Testing and Mocking Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 16918</span>
-						<span>🔱 2191</span>
+						<span>⭐ 36311</span>
+						<span>🔱 10424</span>
 					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ByteByteGoHq/system-design-101" target="_blank">
+    
+
+
+      
+        ByteByteGoHq /
+
+      system-design-101</a></p>
+				<p>
+      Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 74375</span>
+						<span>🔱 7952</span>
+					</div>
+				<div class="stars-today">⭐ 215 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/goauthentik/authentik" target="_blank">
+    
+
+
+      
+        goauthentik /
+
+      authentik</a></p>
+				<p>
+      The authentication glue you need.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16954</span>
+						<span>🔱 1199</span>
+					</div>
+				<div class="stars-today">⭐ 69 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
+    
+
+
+      
+        LMCache /
+
+      LMCache</a></p>
+				<p>
+      Supercharge Your LLM with the Fastest KV Cache Layer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2936</span>
+						<span>🔱 327</span>
+					</div>
+				<div class="stars-today">⭐ 160 stars today</div>
 				</div>
 			</div>
 	
@@ -206,120 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4638</span>
-						<span>🔱 320</span>
+						<span>⭐ 4657</span>
+						<span>🔱 322</span>
 					</div>
 				<div class="stars-today">⭐ 276 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
-    
-
-
-      
-        FujiwaraChoki /
-
-      MoneyPrinterV2</a></p>
-				<p>
-      Automate the process of making money online.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12347</span>
-						<span>🔱 1161</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/helm/helm" target="_blank">
-    
-
-
-      
-        helm /
-
-      helm</a></p>
-				<p>
-      The Kubernetes Package Manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 28211</span>
-						<span>🔱 7282</span>
-					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ai-agents-masterclass" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      ai-agents-masterclass</a></p>
-				<p>
-      Follow along with my AI Agents Masterclass videos! All of the code I create and use in this series on YouTube will be here for you to use and even build on top of!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2646</span>
-						<span>🔱 1121</span>
-					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
-    
-
-
-      
-        HandsOnLLM /
-
-      Hands-On-Large-Language-Models</a></p>
-				<p>
-      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12013</span>
-						<span>🔱 2787</span>
-					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/verl" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      verl</a></p>
-				<p>
-      verl: Volcano Engine Reinforcement Learning for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10831</span>
-						<span>🔱 1786</span>
-					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
 				</div>
 			</div>
 	
@@ -338,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 45677</span>
+						<span>⭐ 45687</span>
 						<span>🔱 9933</span>
 					</div>
 				<div class="stars-today">⭐ 21 stars today</div>
@@ -346,24 +258,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/flutter/packages" target="_blank">
+				<p><a href="https://github.com/landing-ai/agentic-doc" target="_blank">
     
 
 
       
-        flutter /
+        landing-ai /
 
-      packages</a></p>
+      agentic-doc</a></p>
 				<p>
-      A collection of useful packages maintained by the Flutter team
+      Python library for Agentic Document Extraction from LandingAI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 4890</span>
-						<span>🔱 3362</span>
+						<span>🔠 Python</span>
+						<span>⭐ 747</span>
+						<span>🔱 85</span>
 					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
+				<div class="stars-today">⭐ 19 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/open-telemetry/opentelemetry-go" target="_blank">
+    
+
+
+      
+        open-telemetry /
+
+      opentelemetry-go</a></p>
+				<p>
+      OpenTelemetry Go API and SDK
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5817</span>
+						<span>🔱 1193</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getsentry/sentry" target="_blank">
+    
+
+
+      
+        getsentry /
+
+      sentry</a></p>
+				<p>
+      Developer-first error tracking and performance monitoring
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41311</span>
+						<span>🔱 4385</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/antiwork/flexile" target="_blank">
+    
+
+
+      
+        antiwork /
+
+      flexile</a></p>
+				<p>
+      Contractor payments as easy as 1-2-3
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 554</span>
+						<span>🔱 182</span>
+					</div>
+				<div class="stars-today">⭐ 3 stars today</div>
 				</div>
 			</div>
 	

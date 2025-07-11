@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-11T09:58:40Z
+date: 2025-07-11T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18880</span>
+						<span>⭐ 18886</span>
 						<span>🔱 791</span>
 					</div>
 				<div class="stars-today">⭐ 6760 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49592</span>
-						<span>🔱 5747</span>
-					</div>
-				<div class="stars-today">⭐ 15530 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35167</span>
-						<span>🔱 6767</span>
+						<span>⭐ 35171</span>
+						<span>🔱 6769</span>
 					</div>
 				<div class="stars-today">⭐ 6134 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
-    
-
-
-      
-        menloresearch /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34593</span>
-						<span>🔱 2025</span>
-					</div>
-				<div class="stars-today">⭐ 5262 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29580</span>
-						<span>🔱 7416</span>
+						<span>⭐ 29611</span>
+						<span>🔱 7422</span>
 					</div>
 				<div class="stars-today">⭐ 6033 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
+    
+
+
+      
+        menloresearch /
+
+      jan</a></p>
+				<p>
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34594</span>
+						<span>🔱 2025</span>
+					</div>
+				<div class="stars-today">⭐ 5262 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33675</span>
+						<span>⭐ 33679</span>
 						<span>🔱 3751</span>
 					</div>
 				<div class="stars-today">⭐ 5540 stars this month</div>
@@ -148,24 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
     
 
 
       
-        datawhalechina /
+        googleapis /
 
-      happy-llm</a></p>
+      genai-toolbox</a></p>
 				<p>
-      📚 从零开始的大语言模型原理与实践教程
+      MCP Toolbox for Databases is an open source MCP server for databases.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 10327</span>
-						<span>🔱 743</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5307</span>
+						<span>🔱 406</span>
 					</div>
-				<div class="stars-today">⭐ 7324 stars this month</div>
+				<div class="stars-today">⭐ 3297 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2070</span>
+						<span>⭐ 2074</span>
 						<span>🔱 159</span>
 					</div>
 				<div class="stars-today">⭐ 1721 stars this month</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 18777</span>
+						<span>⭐ 18786</span>
 						<span>🔱 1063</span>
 					</div>
 				<div class="stars-today">⭐ 6499 stars this month</div>
@@ -228,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17965</span>
+						<span>⭐ 17968</span>
 						<span>🔱 1857</span>
 					</div>
 				<div class="stars-today">⭐ 4909 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 381020</span>
-						<span>🔱 30460</span>
-					</div>
-				<div class="stars-today">⭐ 16669 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox</a></p>
-				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5254</span>
-						<span>🔱 404</span>
-					</div>
-				<div class="stars-today">⭐ 3297 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 27101</span>
-						<span>🔱 8768</span>
+						<span>⭐ 27104</span>
+						<span>🔱 8773</span>
 					</div>
 				<div class="stars-today">⭐ 916 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
     
 
 
       
-        linshenkx /
+        datawhalechina /
 
-      prompt-optimizer</a></p>
+      happy-llm</a></p>
 				<p>
-      一款提示词优化器，助力于编写高质量的提示词
+      📚 从零开始的大语言模型原理与实践教程
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9387</span>
-						<span>🔱 1169</span>
+						<span>🔠 </span>
+						<span>⭐ 10346</span>
+						<span>🔱 746</span>
 					</div>
-				<div class="stars-today">⭐ 3769 stars this month</div>
+				<div class="stars-today">⭐ 7324 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        Kilo-Org /
+        Shubhamsaboo /
 
-      kilocode</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4203</span>
-						<span>🔱 333</span>
+						<span>🔠 Python</span>
+						<span>⭐ 49607</span>
+						<span>🔱 5749</span>
 					</div>
-				<div class="stars-today">⭐ 3211 stars this month</div>
+				<div class="stars-today">⭐ 15530 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8274</span>
-						<span>🔱 517</span>
+						<span>⭐ 8291</span>
+						<span>🔱 518</span>
 					</div>
 				<div class="stars-today">⭐ 3831 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+    
+
+
+      
+        Kilo-Org /
+
+      kilocode</a></p>
+				<p>
+      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4212</span>
+						<span>🔱 333</span>
+					</div>
+				<div class="stars-today">⭐ 3211 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9397</span>
+						<span>🔱 1169</span>
+					</div>
+				<div class="stars-today">⭐ 3769 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 90413</span>
-						<span>🔱 13662</span>
+						<span>⭐ 90417</span>
+						<span>🔱 13663</span>
 					</div>
 				<div class="stars-today">⭐ 2067 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
-    
-
-
-      
-        stanford-oval /
-
-      storm</a></p>
-				<p>
-      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26505</span>
-						<span>🔱 2386</span>
-					</div>
-				<div class="stars-today">⭐ 2018 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74365</span>
+						<span>⭐ 74371</span>
 						<span>🔱 16377</span>
 					</div>
 				<div class="stars-today">⭐ 1732 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 381044</span>
+						<span>🔱 30461</span>
+					</div>
+				<div class="stars-today">⭐ 16669 stars this month</div>
 				</div>
 			</div>
 	
