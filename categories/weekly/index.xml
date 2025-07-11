@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 11 Jul 2025 09:58:39 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 11 Jul 2025 11:58:44 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第28周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC28%E5%91%A8/</link>
-        <pubDate>Fri, 11 Jul 2025 09:58:39 +0000</pubDate>
+        <pubDate>Fri, 11 Jul 2025 11:58:44 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC28%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,24 +19,24 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NanmiCoder/MediaCrawler&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        NanmiCoder /
+        rustfs /
 
-      MediaCrawler&lt;/a&gt;&lt;/p&gt;
+      rustfs&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      🚀 High-performance distributed object storage for MinIO alternative.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 29580&lt;/span&gt;
-						&lt;span&gt;🔱 7416&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 4276&lt;/span&gt;
+						&lt;span&gt;🔱 192&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3991 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3572 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,98 +55,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 5254&lt;/span&gt;
-						&lt;span&gt;🔱 404&lt;/span&gt;
+						&lt;span&gt;⭐ 5307&lt;/span&gt;
+						&lt;span&gt;🔱 406&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2899 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/simstudioai/sim&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NanmiCoder/MediaCrawler&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        simstudioai /
+        NanmiCoder /
 
-      sim&lt;/a&gt;&lt;/p&gt;
+      MediaCrawler&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Sim Studio is an open-source AI agent workflow builder. Sim Studio&#39;s interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 29611&lt;/span&gt;
+						&lt;span&gt;🔱 7422&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3991 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/th-ch/youtube-music&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        th-ch /
+
+      youtube-music&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      YouTube Music Desktop App bundled with custom plugins
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4826&lt;/span&gt;
-						&lt;span&gt;🔱 711&lt;/span&gt;
+						&lt;span&gt;⭐ 25632&lt;/span&gt;
+						&lt;span&gt;🔱 1390&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 640 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/RSSNext/Folo&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        RSSNext /
-
-      Folo&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🧡 Follow everything in one place
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 28584&lt;/span&gt;
-						&lt;span&gt;🔱 1275&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1275 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/GyulyVGC/sniffnet&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        GyulyVGC /
-
-      sniffnet&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Comfortably monitor your Internet traffic 🕵️‍♂️
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 27957&lt;/span&gt;
-						&lt;span&gt;🔱 913&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2236 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/codecrafters-io/build-your-own-x&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Master programming by recreating your favorite technologies from scratch.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Markdown&lt;/span&gt;
-						&lt;span&gt;⭐ 398901&lt;/span&gt;
-						&lt;span&gt;🔱 37234&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4688 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2731 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,142 +121,120 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 48922&lt;/span&gt;
-						&lt;span&gt;🔱 2463&lt;/span&gt;
+						&lt;span&gt;⭐ 48927&lt;/span&gt;
+						&lt;span&gt;🔱 2464&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 824 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/GyulyVGC/sniffnet&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        LadybirdBrowser /
+        GyulyVGC /
 
-      ladybird&lt;/a&gt;&lt;/p&gt;
+      sniffnet&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Truly independent web browser
+      Comfortably monitor your Internet traffic 🕵️‍♂️
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 45152&lt;/span&gt;
-						&lt;span&gt;🔱 1924&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 27965&lt;/span&gt;
+						&lt;span&gt;🔱 913&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 790 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2236 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/commaai/openpilot&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/datawhalechina/happy-llm&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        commaai /
+        datawhalechina /
 
-      openpilot&lt;/a&gt;&lt;/p&gt;
+      happy-llm&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+      📚 从零开始的大语言模型原理与实践教程
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 55191&lt;/span&gt;
-						&lt;span&gt;🔱 9924&lt;/span&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 10346&lt;/span&gt;
+						&lt;span&gt;🔱 746&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 932 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3183 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/RSSNext/Folo&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        GoogleCloudPlatform /
+        RSSNext /
 
-      vertex-ai-creative-studio&lt;/a&gt;&lt;/p&gt;
+      Folo&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      GenMedia Creative Studio is a Vertex AI generative media example user experience to highlight the use of Imagen, Veo and other generative media APIs on Google Cloud.
+      🧡 Follow everything in one place
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 28592&lt;/span&gt;
+						&lt;span&gt;🔱 1279&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1275 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/agents-from-scratch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langchain-ai /
+
+      agents-from-scratch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Build an email assistant with human-in-the-loop and memory
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 210&lt;/span&gt;
-						&lt;span&gt;🔱 64&lt;/span&gt;
+						&lt;span&gt;⭐ 842&lt;/span&gt;
+						&lt;span&gt;🔱 147&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 332 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/zaidmukaddam/scira&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/aldinokemal/go-whatsapp-web-multidevice&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        zaidmukaddam /
+        aldinokemal /
 
-      scira&lt;/a&gt;&lt;/p&gt;
+      go-whatsapp-web-multidevice&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI&#39;s Grok 3.
+      GOWA - WhatsApp REST API with support for UI, Webhooks, and MCP. Built with Golang for efficient memory use. 
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9773&lt;/span&gt;
-						&lt;span&gt;🔱 1193&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 1896&lt;/span&gt;
+						&lt;span&gt;🔱 486&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 628 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/home-assistant/home-assistant.io&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        home-assistant /
-
-      home-assistant.io&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📘 Home Assistant User documentation
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 7008&lt;/span&gt;
-						&lt;span&gt;🔱 7779&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 272 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Kilo-Org/kilocode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Kilo-Org /
-
-      kilocode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open Source AI coding assistant for planning, building, and fixing code. We&#39;re a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4203&lt;/span&gt;
-						&lt;span&gt;🔱 333&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2325 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 474 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,10 +253,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 74365&lt;/span&gt;
+						&lt;span&gt;⭐ 74371&lt;/span&gt;
 						&lt;span&gt;🔱 16377&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 737 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ente-io/ente&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ente-io /
+
+      ente&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Dart&lt;/span&gt;
+						&lt;span&gt;⭐ 20455&lt;/span&gt;
+						&lt;span&gt;🔱 1165&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 477 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/commaai/openpilot&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        commaai /
+
+      openpilot&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 55198&lt;/span&gt;
+						&lt;span&gt;🔱 9924&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 932 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/home-assistant/home-assistant.io&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        home-assistant /
+
+      home-assistant.io&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📘 Home Assistant User documentation
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 HTML&lt;/span&gt;
+						&lt;span&gt;⭐ 7013&lt;/span&gt;
+						&lt;span&gt;🔱 7779&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 272 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
