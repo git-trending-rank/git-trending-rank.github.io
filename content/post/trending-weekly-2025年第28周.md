@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第28周
-date: 2025-07-12T09:58:56Z
+date: 2025-07-12T11:58:39Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4410</span>
-						<span>🔱 200</span>
-					</div>
-				<div class="stars-today">⭐ 3529 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
@@ -52,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5727</span>
-						<span>🔱 435</span>
+						<span>⭐ 5755</span>
+						<span>🔱 437</span>
 					</div>
 				<div class="stars-today">⭐ 3697 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀 High-performance distributed object storage for MinIO alternative.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4442</span>
+						<span>🔱 201</span>
+					</div>
+				<div class="stars-today">⭐ 3529 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8401</span>
+						<span>🔱 530</span>
+					</div>
+				<div class="stars-today">⭐ 2829 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29837</span>
-						<span>🔱 7473</span>
+						<span>⭐ 29877</span>
+						<span>🔱 7477</span>
 					</div>
 				<div class="stars-today">⭐ 3560 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25690</span>
-						<span>🔱 1397</span>
-					</div>
-				<div class="stars-today">⭐ 2770 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
-    
-
-
-      
-        pocketbase /
-
-      pocketbase</a></p>
-				<p>
-      Open Source realtime backend in 1 file
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 48976</span>
-						<span>🔱 2467</span>
-					</div>
-				<div class="stars-today">⭐ 829 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28040</span>
+						<span>⭐ 28048</span>
 						<span>🔱 918</span>
 					</div>
 				<div class="stars-today">⭐ 2229 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
+    
+
+
+      
+        pocketbase /
+
+      pocketbase</a></p>
+				<p>
+      Open Source realtime backend in 1 file
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 48977</span>
+						<span>🔱 2467</span>
+					</div>
+				<div class="stars-today">⭐ 829 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10595</span>
-						<span>🔱 767</span>
+						<span>⭐ 10619</span>
+						<span>🔱 768</span>
 					</div>
 				<div class="stars-today">⭐ 2708 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
     
 
 
       
-        RSSNext /
+        microsoft /
 
-      Folo</a></p>
+      ML-For-Beginners</a></p>
 				<p>
-      🧡 Follow everything in one place
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28694</span>
-						<span>🔱 1285</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 74452</span>
+						<span>🔱 16398</span>
 					</div>
-				<div class="stars-today">⭐ 1280 stars this week</div>
+				<div class="stars-today">⭐ 754 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 878</span>
+						<span>⭐ 879</span>
 						<span>🔱 149</span>
 					</div>
 				<div class="stars-today">⭐ 338 stars this week</div>
@@ -228,98 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1929</span>
+						<span>⭐ 1931</span>
 						<span>🔱 491</span>
 					</div>
 				<div class="stars-today">⭐ 440 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners</a></p>
-				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 74449</span>
-						<span>🔱 16397</span>
-					</div>
-				<div class="stars-today">⭐ 754 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ente-io/ente" target="_blank">
-    
-
-
-      
-        ente-io /
-
-      ente</a></p>
-				<p>
-      🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 20511</span>
-						<span>🔱 1164</span>
-					</div>
-				<div class="stars-today">⭐ 488 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
-    
-
-
-      
-        commaai /
-
-      openpilot</a></p>
-				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55238</span>
-						<span>🔱 9925</span>
-					</div>
-				<div class="stars-today">⭐ 983 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
-    
-
-
-      
-        home-assistant /
-
-      home-assistant.io</a></p>
-				<p>
-      📘 Home Assistant User documentation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 7034</span>
-						<span>🔱 7783</span>
-					</div>
-				<div class="stars-today">⭐ 310 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-12T09:58:57Z
+date: 2025-07-12T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18962</span>
+						<span>⭐ 18974</span>
 						<span>🔱 793</span>
 					</div>
 				<div class="stars-today">⭐ 6713 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35218</span>
-						<span>🔱 6776</span>
+						<span>⭐ 35223</span>
+						<span>🔱 6778</span>
 					</div>
 				<div class="stars-today">⭐ 6177 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29837</span>
-						<span>🔱 7473</span>
+						<span>⭐ 29877</span>
+						<span>🔱 7477</span>
 					</div>
 				<div class="stars-today">⭐ 6450 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34643</span>
+						<span>⭐ 34649</span>
 						<span>🔱 2028</span>
 					</div>
 				<div class="stars-today">⭐ 5313 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33737</span>
+						<span>⭐ 33742</span>
 						<span>🔱 3757</span>
 					</div>
 				<div class="stars-today">⭐ 5595 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5727</span>
-						<span>🔱 435</span>
+						<span>⭐ 5755</span>
+						<span>🔱 437</span>
 					</div>
 				<div class="stars-today">⭐ 4122 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2083</span>
+						<span>⭐ 2085</span>
 						<span>🔱 162</span>
 					</div>
 				<div class="stars-today">⭐ 1726 stars this month</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 18990</span>
+						<span>⭐ 19015</span>
 						<span>🔱 1081</span>
 					</div>
 				<div class="stars-today">⭐ 6615 stars this month</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18002</span>
-						<span>🔱 1860</span>
+						<span>⭐ 18009</span>
+						<span>🔱 1861</span>
 					</div>
 				<div class="stars-today">⭐ 4945 stars this month</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 27114</span>
+						<span>⭐ 27116</span>
 						<span>🔱 8799</span>
 					</div>
 				<div class="stars-today">⭐ 931 stars this month</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10595</span>
-						<span>🔱 767</span>
+						<span>⭐ 10619</span>
+						<span>🔱 768</span>
 					</div>
 				<div class="stars-today">⭐ 7527 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49738</span>
-						<span>🔱 5766</span>
-					</div>
-				<div class="stars-today">⭐ 15091 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8394</span>
+						<span>⭐ 8401</span>
 						<span>🔱 530</span>
 					</div>
 				<div class="stars-today">⭐ 4026 stars this month</div>
@@ -316,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4288</span>
+						<span>⭐ 4295</span>
 						<span>🔱 342</span>
 					</div>
 				<div class="stars-today">⭐ 3301 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9468</span>
-						<span>🔱 1175</span>
-					</div>
-				<div class="stars-today">⭐ 3862 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      Web-Dev-For-Beginners</a></p>
-				<p>
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 90454</span>
-						<span>🔱 13671</span>
-					</div>
-				<div class="stars-today">⭐ 2100 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74449</span>
-						<span>🔱 16397</span>
+						<span>⭐ 74452</span>
+						<span>🔱 16398</span>
 					</div>
 				<div class="stars-today">⭐ 1827 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
     
 
 
       
-        sindresorhus /
+        microsoft /
 
-      awesome</a></p>
+      Web-Dev-For-Beginners</a></p>
 				<p>
-      😎 Awesome lists about all kinds of interesting topics
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 381294</span>
-						<span>🔱 30478</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 90459</span>
+						<span>🔱 13671</span>
 					</div>
-				<div class="stars-today">⭐ 16265 stars this month</div>
+				<div class="stars-today">⭐ 2100 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9472</span>
+						<span>🔱 1175</span>
+					</div>
+				<div class="stars-today">⭐ 3862 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 49750</span>
+						<span>🔱 5768</span>
+					</div>
+				<div class="stars-today">⭐ 15091 stars this month</div>
 				</div>
 			</div>
 	

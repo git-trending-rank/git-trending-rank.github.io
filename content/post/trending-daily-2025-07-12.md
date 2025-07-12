@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-12
-date: 2025-07-12T09:58:57Z
+date: 2025-07-12T11:58:37Z
 categories:
 - daily
 keywords:
@@ -14,94 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
-    
-
-
-      
-        protocolbuffers /
-
-      protobuf</a></p>
-				<p>
-      Protocol Buffers - Google's data interchange format
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 68427</span>
-						<span>🔱 15785</span>
-					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox</a></p>
-				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5727</span>
-						<span>🔱 435</span>
-					</div>
-				<div class="stars-today">⭐ 818 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      WebAgent</a></p>
-				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3697</span>
-						<span>🔱 264</span>
-					</div>
-				<div class="stars-today">⭐ 419 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WordPress/wordpress-develop" target="_blank">
-    
-
-
-      
-        WordPress /
-
-      wordpress-develop</a></p>
-				<p>
-      WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 2972</span>
-						<span>🔱 2977</span>
-					</div>
-				<div class="stars-today">⭐ 104 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/snap-stanford/Biomni" target="_blank">
@@ -118,164 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1371</span>
-						<span>🔱 140</span>
+						<span>⭐ 1391</span>
+						<span>🔱 141</span>
 					</div>
 				<div class="stars-today">⭐ 420 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/googletest" target="_blank">
-    
-
-
-      
-        google /
-
-      googletest</a></p>
-				<p>
-      GoogleTest - Google Testing and Mocking Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 36378</span>
-						<span>🔱 10428</span>
-					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ByteByteGoHq/system-design-101" target="_blank">
-    
-
-
-      
-        ByteByteGoHq /
-
-      system-design-101</a></p>
-				<p>
-      Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 74588</span>
-						<span>🔱 7961</span>
-					</div>
-				<div class="stars-today">⭐ 349 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/goauthentik/authentik" target="_blank">
-    
-
-
-      
-        goauthentik /
-
-      authentik</a></p>
-				<p>
-      The authentication glue you need.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17137</span>
-						<span>🔱 1205</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
-    
-
-
-      
-        LMCache /
-
-      LMCache</a></p>
-				<p>
-      Supercharge Your LLM with the Fastest KV Cache Layer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3045</span>
-						<span>🔱 334</span>
-					</div>
-				<div class="stars-today">⭐ 217 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/punkpeye/awesome-mcp-clients" target="_blank">
-    
-
-
-      
-        punkpeye /
-
-      awesome-mcp-clients</a></p>
-				<p>
-      A collection of MCP clients.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4805</span>
-						<span>🔱 331</span>
-					</div>
-				<div class="stars-today">⭐ 207 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hashicorp/terraform" target="_blank">
-    
-
-
-      
-        hashicorp /
-
-      terraform</a></p>
-				<p>
-      Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 45828</span>
-						<span>🔱 9937</span>
-					</div>
-				<div class="stars-today">⭐ 145 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/landing-ai/agentic-doc" target="_blank">
-    
-
-
-      
-        landing-ai /
-
-      agentic-doc</a></p>
-				<p>
-      Python library for Agentic Document Extraction from LandingAI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 865</span>
-						<span>🔱 90</span>
-					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
 				</div>
 			</div>
 	
@@ -294,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5873</span>
+						<span>⭐ 5877</span>
 						<span>🔱 1196</span>
 					</div>
 				<div class="stars-today">⭐ 8 stars today</div>
@@ -302,46 +60,288 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getsentry/sentry" target="_blank">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
     
 
 
       
-        getsentry /
+        googleapis /
 
-      sentry</a></p>
+      genai-toolbox</a></p>
 				<p>
-      Developer-first error tracking and performance monitoring
+      MCP Toolbox for Databases is an open source MCP server for databases.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41407</span>
-						<span>🔱 4388</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5755</span>
+						<span>🔱 437</span>
 					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
+				<div class="stars-today">⭐ 818 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/antiwork/flexile" target="_blank">
+				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
     
 
 
       
-        antiwork /
+        protocolbuffers /
 
-      flexile</a></p>
+      protobuf</a></p>
 				<p>
-      Contractor payments as easy as 1-2-3
+      Protocol Buffers - Google's data interchange format
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 620</span>
-						<span>🔱 200</span>
+						<span>🔠 C++</span>
+						<span>⭐ 68442</span>
+						<span>🔱 15785</span>
 					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
+				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12578</span>
+						<span>🔱 1068</span>
+					</div>
+				<div class="stars-today">⭐ 86 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pybind/pybind11" target="_blank">
+    
+
+
+      
+        pybind /
+
+      pybind11</a></p>
+				<p>
+      Seamless operability between C++11 and Python
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 16924</span>
+						<span>🔱 2192</span>
+					</div>
+				<div class="stars-today">⭐ 97 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WordPress/wordpress-develop" target="_blank">
+    
+
+
+      
+        WordPress /
+
+      wordpress-develop</a></p>
+				<p>
+      WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 2974</span>
+						<span>🔱 2979</span>
+					</div>
+				<div class="stars-today">⭐ 104 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+    
+
+
+      
+        gorhill /
+
+      uBlock</a></p>
+				<p>
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 55262</span>
+						<span>🔱 3555</span>
+					</div>
+				<div class="stars-today">⭐ 209 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/landing-ai/agentic-doc" target="_blank">
+    
+
+
+      
+        landing-ai /
+
+      agentic-doc</a></p>
+				<p>
+      Python library for Agentic Document Extraction from LandingAI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 879</span>
+						<span>🔱 90</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank">
+    
+
+
+      
+        zijie0 /
+
+      HumanSystemOptimization</a></p>
+				<p>
+      健康学习到150岁 - 人体系统调优不完全指南
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 19335</span>
+						<span>🔱 1379</span>
+					</div>
+				<div class="stars-today">⭐ 81 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity" target="_blank">
+    
+
+
+      
+        farhanashrafdev /
+
+      90DaysOfCyberSecurity</a></p>
+				<p>
+      This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 9352</span>
+						<span>🔱 1094</span>
+					</div>
+				<div class="stars-today">⭐ 10 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
+    
+
+
+      
+        ocrmypdf /
+
+      OCRmyPDF</a></p>
+				<p>
+      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30076</span>
+						<span>🔱 2073</span>
+					</div>
+				<div class="stars-today">⭐ 249 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/psf/black" target="_blank">
+    
+
+
+      
+        psf /
+
+      black</a></p>
+				<p>
+      The uncompromising Python code formatter
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40496</span>
+						<span>🔱 2604</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
+    
+
+
+      
+        Alibaba-NLP /
+
+      WebAgent</a></p>
+				<p>
+      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3709</span>
+						<span>🔱 266</span>
+					</div>
+				<div class="stars-today">⭐ 419 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/odoo/odoo" target="_blank">
+    
+
+
+      
+        odoo /
+
+      odoo</a></p>
+				<p>
+      Odoo. Open Source Apps To Grow Your Business.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44117</span>
+						<span>🔱 28633</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
 			</div>
 	
