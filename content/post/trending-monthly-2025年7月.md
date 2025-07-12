@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-12T19:58:37Z
+date: 2025-07-12T21:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19015</span>
+						<span>⭐ 19023</span>
 						<span>🔱 794</span>
 					</div>
 				<div class="stars-today">⭐ 6713 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35240</span>
+						<span>⭐ 35247</span>
 						<span>🔱 6784</span>
 					</div>
 				<div class="stars-today">⭐ 6177 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30289</span>
+						<span>⭐ 30300</span>
 						<span>🔱 7506</span>
 					</div>
 				<div class="stars-today">⭐ 6450 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34674</span>
+						<span>⭐ 34676</span>
 						<span>🔱 2031</span>
 					</div>
 				<div class="stars-today">⭐ 5313 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33760</span>
+						<span>⭐ 33764</span>
 						<span>🔱 3758</span>
 					</div>
 				<div class="stars-today">⭐ 5595 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5886</span>
-						<span>🔱 447</span>
+						<span>⭐ 5921</span>
+						<span>🔱 448</span>
 					</div>
 				<div class="stars-today">⭐ 4122 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2090</span>
+						<span>⭐ 2091</span>
 						<span>🔱 162</span>
 					</div>
 				<div class="stars-today">⭐ 1726 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 19080</span>
-						<span>🔱 1088</span>
+						<span>⭐ 19093</span>
+						<span>🔱 1089</span>
 					</div>
 				<div class="stars-today">⭐ 6615 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18023</span>
+						<span>⭐ 18026</span>
 						<span>🔱 1863</span>
 					</div>
 				<div class="stars-today">⭐ 4945 stars this month</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 27122</span>
+						<span>⭐ 27123</span>
 						<span>🔱 8797</span>
 					</div>
 				<div class="stars-today">⭐ 931 stars this month</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10699</span>
+						<span>⭐ 10703</span>
 						<span>🔱 775</span>
 					</div>
 				<div class="stars-today">⭐ 7527 stars this month</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8457</span>
+						<span>⭐ 8473</span>
 						<span>🔱 535</span>
 					</div>
 				<div class="stars-today">⭐ 4026 stars this month</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4319</span>
+						<span>⭐ 4326</span>
 						<span>🔱 343</span>
 					</div>
 				<div class="stars-today">⭐ 3301 stars this month</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74490</span>
-						<span>🔱 16407</span>
+						<span>⭐ 74495</span>
+						<span>🔱 16409</span>
 					</div>
 				<div class="stars-today">⭐ 1827 stars this month</div>
 				</div>
@@ -338,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 90474</span>
+						<span>⭐ 90477</span>
 						<span>🔱 13671</span>
 					</div>
 				<div class="stars-today">⭐ 2100 stars this month</div>
@@ -364,28 +364,6 @@ keywords:
 						<span>🔱 1180</span>
 					</div>
 				<div class="stars-today">⭐ 3862 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49800</span>
-						<span>🔱 5777</span>
-					</div>
-				<div class="stars-today">⭐ 15091 stars this month</div>
 				</div>
 			</div>
 	
