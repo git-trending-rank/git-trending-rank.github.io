@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-13
-date: 2025-07-13T21:58:32Z
+date: 2025-07-13T23:58:44Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 19969</span>
-						<span>🔱 1130</span>
+						<span>⭐ 20059</span>
+						<span>🔱 1135</span>
 					</div>
 				<div class="stars-today">⭐ 235 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12805</span>
-						<span>🔱 4856</span>
+						<span>⭐ 12825</span>
+						<span>🔱 4857</span>
 					</div>
 				<div class="stars-today">⭐ 181 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16214</span>
-						<span>🔱 1376</span>
+						<span>⭐ 16235</span>
+						<span>🔱 1378</span>
 					</div>
 				<div class="stars-today">⭐ 102 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 177292</span>
-						<span>🔱 11047</span>
+						<span>⭐ 177350</span>
+						<span>🔱 11051</span>
 					</div>
 				<div class="stars-today">⭐ 932 stars today</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 7918</span>
+						<span>⭐ 7921</span>
 						<span>🔱 1316</span>
 					</div>
 				<div class="stars-today">⭐ 24 stars today</div>
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 104644</span>
+						<span>⭐ 104666</span>
 						<span>🔱 10955</span>
 					</div>
-				<div class="stars-today">⭐ 849 stars today</div>
+				<div class="stars-today">⭐ 952 stars today</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55628</span>
+						<span>⭐ 55639</span>
 						<span>🔱 3566</span>
 					</div>
 				<div class="stars-today">⭐ 274 stars today</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9693</span>
+						<span>⭐ 9709</span>
 						<span>🔱 1111</span>
 					</div>
 				<div class="stars-today">⭐ 222 stars today</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26680</span>
+						<span>⭐ 26690</span>
 						<span>🔱 4093</span>
 					</div>
 				<div class="stars-today">⭐ 46 stars today</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13665</span>
-						<span>🔱 817</span>
+						<span>⭐ 13695</span>
+						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 242 stars today</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1097</span>
+						<span>⭐ 1112</span>
 						<span>🔱 106</span>
 					</div>
 				<div class="stars-today">⭐ 123 stars today</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12922</span>
+						<span>⭐ 12938</span>
 						<span>🔱 1094</span>
 					</div>
 				<div class="stars-today">⭐ 233 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RezaSi/go-interview-practice" target="_blank">
-    
-
-
-      
-        RezaSi /
-
-      go-interview-practice</a></p>
-				<p>
-      Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 374</span>
-						<span>🔱 118</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
 				</div>
 			</div>
 	
