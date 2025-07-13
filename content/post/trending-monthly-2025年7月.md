@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-13T09:58:53Z
+date: 2025-07-13T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30724</span>
+						<span>🔱 7555</span>
+					</div>
+				<div class="stars-today">⭐ 6808 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
@@ -30,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19056</span>
+						<span>⭐ 19065</span>
 						<span>🔱 797</span>
 					</div>
 				<div class="stars-today">⭐ 6619 stars this month</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35271</span>
-						<span>🔱 6791</span>
+						<span>⭐ 35273</span>
+						<span>🔱 6792</span>
 					</div>
 				<div class="stars-today">⭐ 6197 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30681</span>
-						<span>🔱 7548</span>
-					</div>
-				<div class="stars-today">⭐ 6808 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34693</span>
+						<span>⭐ 34695</span>
 						<span>🔱 2033</span>
 					</div>
 				<div class="stars-today">⭐ 5360 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      Building a modern alternative to Salesforce, powered by the community.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33785</span>
-						<span>🔱 3764</span>
-					</div>
-				<div class="stars-today">⭐ 5636 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6076</span>
+						<span>⭐ 6107</span>
 						<span>🔱 458</span>
 					</div>
 				<div class="stars-today">⭐ 4472 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33784</span>
+						<span>🔱 3763</span>
+					</div>
+				<div class="stars-today">⭐ 5636 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2098</span>
+						<span>⭐ 2101</span>
 						<span>🔱 163</span>
 					</div>
 				<div class="stars-today">⭐ 1730 stars this month</div>
@@ -184,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 19218</span>
-						<span>🔱 1097</span>
+						<span>⭐ 19304</span>
+						<span>🔱 1099</span>
 					</div>
 				<div class="stars-today">⭐ 6688 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      anthropic-cookbook</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18050</span>
-						<span>🔱 1865</span>
-					</div>
-				<div class="stars-today">⭐ 4956 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
-    
-
-
-      
-        DrKLO /
-
-      Telegram</a></p>
-				<p>
-      Telegram for Android source
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 27127</span>
-						<span>🔱 8796</span>
-					</div>
-				<div class="stars-today">⭐ 937 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10792</span>
+						<span>⭐ 10807</span>
 						<span>🔱 783</span>
 					</div>
 				<div class="stars-today">⭐ 7652 stars this month</div>
@@ -272,32 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8537</span>
-						<span>🔱 539</span>
+						<span>⭐ 8549</span>
+						<span>🔱 540</span>
 					</div>
 				<div class="stars-today">⭐ 4100 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
     
 
 
       
-        Kilo-Org /
+        DrKLO /
 
-      kilocode</a></p>
+      Telegram</a></p>
 				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+      Telegram for Android source
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4360</span>
-						<span>🔱 347</span>
+						<span>🔠 Java</span>
+						<span>⭐ 27129</span>
+						<span>🔱 8796</span>
 					</div>
-				<div class="stars-today">⭐ 3319 stars this month</div>
+				<div class="stars-today">⭐ 937 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      anthropic-cookbook</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 18055</span>
+						<span>🔱 1865</span>
+					</div>
+				<div class="stars-today">⭐ 4956 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74530</span>
-						<span>🔱 16416</span>
+						<span>⭐ 74535</span>
+						<span>🔱 16415</span>
 					</div>
 				<div class="stars-today">⭐ 1894 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+    
+
+
+      
+        Kilo-Org /
+
+      kilocode</a></p>
+				<p>
+      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4364</span>
+						<span>🔱 347</span>
+					</div>
+				<div class="stars-today">⭐ 3319 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 90484</span>
-						<span>🔱 13675</span>
+						<span>⭐ 90487</span>
+						<span>🔱 13676</span>
 					</div>
 				<div class="stars-today">⭐ 2122 stars this month</div>
 				</div>
@@ -360,10 +360,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9548</span>
+						<span>⭐ 9551</span>
 						<span>🔱 1185</span>
 					</div>
 				<div class="stars-today">⭐ 3912 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+    
+
+
+      
+        stanford-oval /
+
+      storm</a></p>
+				<p>
+      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26521</span>
+						<span>🔱 2390</span>
+					</div>
+				<div class="stars-today">⭐ 2031 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/snailyp/gemini-balance" target="_blank">
+    
+
+
+      
+        snailyp /
+
+      gemini-balance</a></p>
+				<p>
+      Gemini polling proxy service （gemini轮询代理服务）
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3104</span>
+						<span>🔱 540</span>
+					</div>
+				<div class="stars-today">⭐ 1346 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+    
+
+
+      
+        sindresorhus /
+
+      awesome</a></p>
+				<p>
+      😎 Awesome lists about all kinds of interesting topics
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 381556</span>
+						<span>🔱 30498</span>
+					</div>
+				<div class="stars-today">⭐ 15411 stars this month</div>
 				</div>
 			</div>
 	

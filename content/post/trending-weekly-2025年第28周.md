@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第28周
-date: 2025-07-13T09:58:53Z
+date: 2025-07-13T11:58:45Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6076</span>
+						<span>⭐ 6107</span>
 						<span>🔱 458</span>
 					</div>
 				<div class="stars-today">⭐ 4119 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4614</span>
-						<span>🔱 205</span>
+						<span>⭐ 4628</span>
+						<span>🔱 208</span>
 					</div>
 				<div class="stars-today">⭐ 3562 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8537</span>
-						<span>🔱 539</span>
+						<span>⭐ 8549</span>
+						<span>🔱 540</span>
 					</div>
 				<div class="stars-today">⭐ 2679 stars this week</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30681</span>
-						<span>🔱 7548</span>
+						<span>⭐ 30724</span>
+						<span>🔱 7555</span>
 					</div>
 				<div class="stars-today">⭐ 3035 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/snailyp/gemini-balance" target="_blank">
+    
+
+
+      
+        snailyp /
+
+      gemini-balance</a></p>
+				<p>
+      Gemini polling proxy service （gemini轮询代理服务）
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3104</span>
+						<span>🔱 540</span>
+					</div>
+				<div class="stars-today">⭐ 647 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28149</span>
+						<span>⭐ 28161</span>
 						<span>🔱 925</span>
 					</div>
 				<div class="stars-today">⭐ 2141 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
-    
-
-
-      
-        pocketbase /
-
-      pocketbase</a></p>
-				<p>
-      Open Source realtime backend in 1 file
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 49015</span>
-						<span>🔱 2467</span>
-					</div>
-				<div class="stars-today">⭐ 845 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10792</span>
+						<span>⭐ 10807</span>
 						<span>🔱 783</span>
 					</div>
 				<div class="stars-today">⭐ 2529 stars this week</div>
@@ -170,46 +170,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+				<p><a href="https://github.com/smallcloudai/refact" target="_blank">
     
 
 
       
-        microsoft /
+        smallcloudai /
 
-      ML-For-Beginners</a></p>
+      refact</a></p>
 				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+      AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 74530</span>
-						<span>🔱 16416</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 2901</span>
+						<span>🔱 239</span>
 					</div>
-				<div class="stars-today">⭐ 792 stars this week</div>
+				<div class="stars-today">⭐ 563 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/agents-from-scratch" target="_blank">
+				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
     
 
 
       
-        langchain-ai /
+        pocketbase /
 
-      agents-from-scratch</a></p>
+      pocketbase</a></p>
 				<p>
-      Build an email assistant with human-in-the-loop and memory
+      Open Source realtime backend in 1 file
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 904</span>
-						<span>🔱 152</span>
+						<span>🔠 Go</span>
+						<span>⭐ 49018</span>
+						<span>🔱 2469</span>
 					</div>
-				<div class="stars-today">⭐ 346 stars this week</div>
+				<div class="stars-today">⭐ 845 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+    
+
+
+      
+        gorhill /
+
+      uBlock</a></p>
+				<p>
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 55532</span>
+						<span>🔱 3563</span>
+					</div>
+				<div class="stars-today">⭐ 453 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1968</span>
-						<span>🔱 492</span>
+						<span>⭐ 1971</span>
+						<span>🔱 493</span>
 					</div>
 				<div class="stars-today">⭐ 427 stars this week</div>
 				</div>

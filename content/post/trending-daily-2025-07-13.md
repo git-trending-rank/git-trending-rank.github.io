@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-13
-date: 2025-07-13T09:58:53Z
+date: 2025-07-13T11:58:45Z
 categories:
 - daily
 keywords:
@@ -16,156 +16,134 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/snap-stanford/Biomni" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        snap-stanford /
+        anthropics /
 
-      Biomni</a></p>
+      claude-code</a></p>
 				<p>
-      Biomni: a general-purpose biomedical AI agent
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1557</span>
-						<span>🔱 171</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 19304</span>
+						<span>🔱 1099</span>
 					</div>
-				<div class="stars-today">⭐ 203 stars today</div>
+				<div class="stars-today">⭐ 235 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/open-telemetry/opentelemetry-go" target="_blank">
+				<p><a href="https://github.com/vercel/commerce" target="_blank">
     
 
 
       
-        open-telemetry /
+        vercel /
 
-      opentelemetry-go</a></p>
+      commerce</a></p>
 				<p>
-      OpenTelemetry Go API and SDK
+      Next.js Commerce
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5933</span>
-						<span>🔱 1202</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12649</span>
+						<span>🔱 4836</span>
 					</div>
-				<div class="stars-today">⭐ 61 stars today</div>
+				<div class="stars-today">⭐ 181 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+				<p><a href="https://github.com/block/goose" target="_blank">
     
 
 
       
-        googleapis /
+        block /
 
-      genai-toolbox</a></p>
+      goose</a></p>
 				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6076</span>
-						<span>🔱 458</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 16079</span>
+						<span>🔱 1366</span>
 					</div>
-				<div class="stars-today">⭐ 457 stars today</div>
+				<div class="stars-today">⭐ 164 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
+				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
     
 
 
       
-        protocolbuffers /
+        trimstray /
 
-      protobuf</a></p>
+      the-book-of-secret-knowledge</a></p>
 				<p>
-      Protocol Buffers - Google's data interchange format
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 176932</span>
+						<span>🔱 11021</span>
+					</div>
+				<div class="stars-today">⭐ 932 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/cutlass" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      cutlass</a></p>
+				<p>
+      CUDA Templates for Linear Algebra Subroutines
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 68491</span>
-						<span>🔱 15789</span>
+						<span>⭐ 7873</span>
+						<span>🔱 1312</span>
 					</div>
-				<div class="stars-today">⭐ 473 stars today</div>
+				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
     
 
 
       
-        getzep /
+        ripienaar /
 
-      graphiti</a></p>
+      free-for-dev</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12780</span>
-						<span>🔱 1091</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 104391</span>
+						<span>🔱 10946</span>
 					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pybind/pybind11" target="_blank">
-    
-
-
-      
-        pybind /
-
-      pybind11</a></p>
-				<p>
-      Seamless operability between C++11 and Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 16977</span>
-						<span>🔱 2194</span>
-					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WordPress/wordpress-develop" target="_blank">
-    
-
-
-      
-        WordPress /
-
-      wordpress-develop</a></p>
-				<p>
-      WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 3012</span>
-						<span>🔱 2982</span>
-					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
+				<div class="stars-today">⭐ 849 stars today</div>
 				</div>
 			</div>
 	
@@ -184,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55509</span>
+						<span>⭐ 55532</span>
 						<span>🔱 3563</span>
 					</div>
 				<div class="stars-today">⭐ 221 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/landing-ai/agentic-doc" target="_blank">
-    
-
-
-      
-        landing-ai /
-
-      agentic-doc</a></p>
-				<p>
-      Python library for Agentic Document Extraction from LandingAI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 990</span>
-						<span>🔱 99</span>
-					</div>
-				<div class="stars-today">⭐ 131 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zijie0/HumanSystemOptimization" target="_blank">
-    
-
-
-      
-        zijie0 /
-
-      HumanSystemOptimization</a></p>
-				<p>
-      健康学习到150岁 - 人体系统调优不完全指南
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 19472</span>
-						<span>🔱 1384</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
@@ -250,98 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9549</span>
-						<span>🔱 1106</span>
+						<span>⭐ 9571</span>
+						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ocrmypdf/OCRmyPDF" target="_blank">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
     
 
 
       
-        ocrmypdf /
+        microsoft /
 
-      OCRmyPDF</a></p>
+      qlib</a></p>
 				<p>
-      OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30262</span>
-						<span>🔱 2079</span>
+						<span>⭐ 26609</span>
+						<span>🔱 4084</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      stagehand</a></p>
+				<p>
+      The AI Browser Automation Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13518</span>
+						<span>🔱 808</span>
+					</div>
+				<div class="stars-today">⭐ 111 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/landing-ai/agentic-doc" target="_blank">
+    
+
+
+      
+        landing-ai /
+
+      agentic-doc</a></p>
+				<p>
+      Python library for Agentic Document Extraction from LandingAI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1001</span>
+						<span>🔱 99</span>
+					</div>
+				<div class="stars-today">⭐ 131 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12810</span>
+						<span>🔱 1092</span>
 					</div>
 				<div class="stars-today">⭐ 93 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/psf/black" target="_blank">
+				<p><a href="https://github.com/RezaSi/go-interview-practice" target="_blank">
     
 
 
       
-        psf /
+        RezaSi /
 
-      black</a></p>
+      go-interview-practice</a></p>
 				<p>
-      The uncompromising Python code formatter
+      Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40616</span>
-						<span>🔱 2608</span>
+						<span>🔠 Go</span>
+						<span>⭐ 297</span>
+						<span>🔱 112</span>
 					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      WebAgent</a></p>
-				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3874</span>
-						<span>🔱 279</span>
-					</div>
-				<div class="stars-today">⭐ 209 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/odoo/odoo" target="_blank">
-    
-
-
-      
-        odoo /
-
-      odoo</a></p>
-				<p>
-      Odoo. Open Source Apps To Grow Your Business.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44311</span>
-						<span>🔱 28659</span>
-					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
+				<div class="stars-today">⭐ 19 stars today</div>
 				</div>
 			</div>
 	
