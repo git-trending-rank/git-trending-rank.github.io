@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第29周
-date: 2025-07-14T17:58:49Z
+date: 2025-07-14T19:58:39Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4091</span>
+						<span>⭐ 4096</span>
 						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 2563 stars this week</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6472</span>
+						<span>⭐ 6486</span>
 						<span>🔱 484</span>
 					</div>
 				<div class="stars-today">⭐ 4422 stars this week</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4856</span>
+						<span>⭐ 4859</span>
 						<span>🔱 222</span>
 					</div>
 				<div class="stars-today">⭐ 3362 stars this week</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8770</span>
+						<span>⭐ 8778</span>
 						<span>🔱 561</span>
 					</div>
 				<div class="stars-today">⭐ 2554 stars this week</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55916</span>
-						<span>🔱 3574</span>
+						<span>⭐ 55938</span>
+						<span>🔱 3575</span>
 					</div>
 				<div class="stars-today">⭐ 651 stars this week</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31321</span>
+						<span>⭐ 31328</span>
 						<span>🔱 7626</span>
 					</div>
 				<div class="stars-today">⭐ 3277 stars this week</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25832</span>
+						<span>⭐ 25837</span>
 						<span>🔱 1405</span>
 					</div>
 				<div class="stars-today">⭐ 2665 stars this week</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3181</span>
+						<span>⭐ 3183</span>
 						<span>🔱 558</span>
 					</div>
 				<div class="stars-today">⭐ 525 stars this week</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 21695</span>
-						<span>🔱 1196</span>
+						<span>⭐ 21822</span>
+						<span>🔱 1199</span>
 					</div>
 				<div class="stars-today">⭐ 2402 stars this week</div>
 				</div>
