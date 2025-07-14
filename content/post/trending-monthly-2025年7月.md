@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-14T10:00:02Z
+date: 2025-07-14T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31201</span>
-						<span>🔱 7611</span>
+						<span>⭐ 31231</span>
+						<span>🔱 7616</span>
 					</div>
 				<div class="stars-today">⭐ 7534 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19136</span>
+						<span>⭐ 19146</span>
 						<span>🔱 802</span>
 					</div>
 				<div class="stars-today">⭐ 6521 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35327</span>
-						<span>🔱 6800</span>
-					</div>
-				<div class="stars-today">⭐ 6176 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34746</span>
-						<span>🔱 2037</span>
+						<span>⭐ 34750</span>
+						<span>🔱 2036</span>
 					</div>
 				<div class="stars-today">⭐ 5397 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 35329</span>
+						<span>🔱 6801</span>
+					</div>
+				<div class="stars-today">⭐ 6176 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6362</span>
-						<span>🔱 478</span>
+						<span>⭐ 6397</span>
+						<span>🔱 480</span>
 					</div>
 				<div class="stars-today">⭐ 4796 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      fluentui-system-icons</a></p>
+				<p>
+      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 9589</span>
+						<span>🔱 692</span>
+					</div>
+				<div class="stars-today">⭐ 3180 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33850</span>
+						<span>⭐ 33856</span>
 						<span>🔱 3775</span>
 					</div>
 				<div class="stars-today">⭐ 5665 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/embabel/embabel-agent" target="_blank">
-    
-
-
-      
-        embabel /
-
-      embabel-agent</a></p>
-				<p>
-      Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 2124</span>
-						<span>🔱 165</span>
-					</div>
-				<div class="stars-today">⭐ 1739 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 21027</span>
-						<span>🔱 1169</span>
+						<span>⭐ 21190</span>
+						<span>🔱 1172</span>
 					</div>
 				<div class="stars-today">⭐ 6942 stars this month</div>
 				</div>
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11084</span>
-						<span>🔱 809</span>
+						<span>⭐ 11111</span>
+						<span>🔱 812</span>
 					</div>
 				<div class="stars-today">⭐ 7722 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/embabel/embabel-agent" target="_blank">
+    
+
+
+      
+        embabel /
+
+      embabel-agent</a></p>
+				<p>
+      Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 2125</span>
+						<span>🔱 166</span>
+					</div>
+				<div class="stars-today">⭐ 1739 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8711</span>
+						<span>⭐ 8731</span>
 						<span>🔱 556</span>
 					</div>
 				<div class="stars-today">⭐ 4234 stars this month</div>
@@ -272,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18118</span>
+						<span>⭐ 18123</span>
 						<span>🔱 1868</span>
 					</div>
 				<div class="stars-today">⭐ 4973 stars this month</div>
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74593</span>
+						<span>⭐ 74600</span>
 						<span>🔱 16436</span>
 					</div>
 				<div class="stars-today">⭐ 1961 stars this month</div>
@@ -316,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4457</span>
+						<span>⭐ 4466</span>
 						<span>🔱 359</span>
 					</div>
 				<div class="stars-today">⭐ 3348 stars this month</div>
@@ -338,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 90525</span>
+						<span>⭐ 90531</span>
 						<span>🔱 13677</span>
 					</div>
 				<div class="stars-today">⭐ 2129 stars this month</div>
@@ -360,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9679</span>
-						<span>🔱 1205</span>
+						<span>⭐ 9688</span>
+						<span>🔱 1207</span>
 					</div>
 				<div class="stars-today">⭐ 3969 stars this month</div>
 				</div>
@@ -382,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26564</span>
+						<span>⭐ 26570</span>
 						<span>🔱 2394</span>
 					</div>
 				<div class="stars-today">⭐ 2036 stars this month</div>
@@ -404,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3160</span>
-						<span>🔱 553</span>
+						<span>⭐ 3163</span>
+						<span>🔱 555</span>
 					</div>
 				<div class="stars-today">⭐ 1379 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
-    
-
-
-      
-        sindresorhus /
-
-      awesome</a></p>
-				<p>
-      😎 Awesome lists about all kinds of interesting topics
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 381887</span>
-						<span>🔱 30528</span>
-					</div>
-				<div class="stars-today">⭐ 15064 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-14
-date: 2025-07-14T10:00:02Z
+date: 2025-07-14T11:58:44Z
 categories:
 - daily
 keywords:
@@ -30,120 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 21027</span>
-						<span>🔱 1169</span>
+						<span>⭐ 21190</span>
+						<span>🔱 1172</span>
 					</div>
 				<div class="stars-today">⭐ 347 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel/commerce" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        vercel /
+        microsoft /
 
-      commerce</a></p>
+      markitdown</a></p>
 				<p>
-      Next.js Commerce
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12989</span>
-						<span>🔱 4870</span>
+						<span>🔠 Python</span>
+						<span>⭐ 60781</span>
+						<span>🔱 3226</span>
 					</div>
-				<div class="stars-today">⭐ 209 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 16438</span>
-						<span>🔱 1385</span>
-					</div>
-				<div class="stars-today">⭐ 92 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
-    
-
-
-      
-        trimstray /
-
-      the-book-of-secret-knowledge</a></p>
-				<p>
-      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 177657</span>
-						<span>🔱 11069</span>
-					</div>
-				<div class="stars-today">⭐ 934 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cutlass" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cutlass</a></p>
-				<p>
-      CUDA Templates for Linear Algebra Subroutines
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 7966</span>
-						<span>🔱 1319</span>
-					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
-    
-
-
-      
-        ripienaar /
-
-      free-for-dev</a></p>
-				<p>
-      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 105049</span>
-						<span>🔱 10981</span>
-					</div>
-				<div class="stars-today">⭐ 1353 stars today</div>
+				<div class="stars-today">⭐ 492 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 55787</span>
+						<span>⭐ 55826</span>
 						<span>🔱 3572</span>
 					</div>
 				<div class="stars-today">⭐ 270 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity" target="_blank">
-    
-
-
-      
-        farhanashrafdev /
-
-      90DaysOfCyberSecurity</a></p>
-				<p>
-      This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9898</span>
-						<span>🔱 1123</span>
-					</div>
-				<div class="stars-today">⭐ 222 stars today</div>
 				</div>
 			</div>
 	
@@ -206,54 +96,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26820</span>
-						<span>🔱 4119</span>
+						<span>⭐ 26840</span>
+						<span>🔱 4120</span>
 					</div>
 				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+				<p><a href="https://github.com/vercel/commerce" target="_blank">
     
 
 
       
-        browserbase /
+        vercel /
 
-      stagehand</a></p>
+      commerce</a></p>
 				<p>
-      The AI Browser Automation Framework
+      Next.js Commerce
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13887</span>
-						<span>🔱 831</span>
+						<span>⭐ 13012</span>
+						<span>🔱 4871</span>
 					</div>
-				<div class="stars-today">⭐ 206 stars today</div>
+				<div class="stars-today">⭐ 209 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/landing-ai/agentic-doc" target="_blank">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
     
 
 
       
-        landing-ai /
+        mindsdb /
 
-      agentic-doc</a></p>
+      mindsdb</a></p>
 				<p>
-      Python library for Agentic Document Extraction from LandingAI
+      AI's query engine - Platform for building AI that can answer questions over large scale federated data. - The only MCP Server you'll ever need
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1211</span>
-						<span>🔱 111</span>
+						<span>⭐ 33950</span>
+						<span>🔱 5522</span>
 					</div>
-				<div class="stars-today">⭐ 127 stars today</div>
+				<div class="stars-today">⭐ 374 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ripienaar/free-for-dev" target="_blank">
+    
+
+
+      
+        ripienaar /
+
+      free-for-dev</a></p>
+				<p>
+      A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 105105</span>
+						<span>🔱 10983</span>
+					</div>
+				<div class="stars-today">⭐ 1353 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/leaningtech/webvm" target="_blank">
+    
+
+
+      
+        leaningtech /
+
+      webvm</a></p>
+				<p>
+      Virtual Machine for the Web
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14742</span>
+						<span>🔱 2634</span>
+					</div>
+				<div class="stars-today">⭐ 143 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
+    
+
+
+      
+        OpenPipe /
+
+      ART</a></p>
+				<p>
+      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1567</span>
+						<span>🔱 110</span>
+					</div>
+				<div class="stars-today">⭐ 240 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
+    
+
+
+      
+        trimstray /
+
+      the-book-of-secret-knowledge</a></p>
+				<p>
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 177693</span>
+						<span>🔱 11072</span>
+					</div>
+				<div class="stars-today">⭐ 934 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nisargjhaveri/WirelessAndroidAutoDongle" target="_blank">
+    
+
+
+      
+        nisargjhaveri /
+
+      WirelessAndroidAutoDongle</a></p>
+				<p>
+      Use Wireless Android Auto with a car that supports only wired Android Auto using a Raspberry Pi.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1402</span>
+						<span>🔱 138</span>
+					</div>
+				<div class="stars-today">⭐ 103 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3795</span>
+						<span>🔱 293</span>
+					</div>
+				<div class="stars-today">⭐ 136 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TomBursch/kitchenowl" target="_blank">
+    
+
+
+      
+        TomBursch /
+
+      kitchenowl</a></p>
+				<p>
+      KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 2006</span>
+						<span>🔱 122</span>
+					</div>
+				<div class="stars-today">⭐ 49 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
+    
+
+
+      
+        comfyanonymous /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 82401</span>
+						<span>🔱 9136</span>
+					</div>
+				<div class="stars-today">⭐ 90 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13100</span>
-						<span>🔱 1102</span>
+						<span>⭐ 13137</span>
+						<span>🔱 1103</span>
 					</div>
 				<div class="stars-today">⭐ 230 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RezaSi/go-interview-practice" target="_blank">
-    
-
-
-      
-        RezaSi /
-
-      go-interview-practice</a></p>
-				<p>
-      Go Interview Practice is a series of coding challenges to help you prepare for technical interviews in Go. Solve problems, submit your solutions, and receive instant feedback with automated testing. Track your progress with per-challenge scoreboards and improve your coding skills step by step.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 485</span>
-						<span>🔱 131</span>
-					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	
