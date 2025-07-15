@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第29周
-date: 2025-07-15T09:59:22Z
+date: 2025-07-15T11:58:50Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      WebAgent</a></p>
-				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4172</span>
-						<span>🔱 303</span>
-					</div>
-				<div class="stars-today">⭐ 2526 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6618</span>
-						<span>🔱 490</span>
+						<span>⭐ 6629</span>
+						<span>🔱 491</span>
 					</div>
 				<div class="stars-today">⭐ 4697 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
+    
+
+
+      
+        Alibaba-NLP /
+
+      WebAgent</a></p>
+				<p>
+      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4185</span>
+						<span>🔱 303</span>
+					</div>
+				<div class="stars-today">⭐ 2526 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4998</span>
+						<span>⭐ 5008</span>
 						<span>🔱 225</span>
 					</div>
 				<div class="stars-today">⭐ 3303 stars this week</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8872</span>
-						<span>🔱 568</span>
+						<span>⭐ 8888</span>
+						<span>🔱 569</span>
 					</div>
 				<div class="stars-today">⭐ 2372 stars this week</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 56091</span>
+						<span>⭐ 56104</span>
 						<span>🔱 3581</span>
 					</div>
 				<div class="stars-today">⭐ 923 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13416</span>
+						<span>🔱 1127</span>
+					</div>
+				<div class="stars-today">⭐ 1035 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31547</span>
-						<span>🔱 7662</span>
+						<span>⭐ 31581</span>
+						<span>🔱 7665</span>
 					</div>
 				<div class="stars-today">⭐ 3082 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/th-ch/youtube-music" target="_blank">
-    
-
-
-      
-        th-ch /
-
-      youtube-music</a></p>
-				<p>
-      YouTube Music Desktop App bundled with custom plugins
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25874</span>
-						<span>🔱 1423</span>
-					</div>
-				<div class="stars-today">⭐ 1325 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/snailyp/gemini-balance" target="_blank">
-    
-
-
-      
-        snailyp /
-
-      gemini-balance</a></p>
-				<p>
-      Gemini polling proxy service （gemini轮询代理服务）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3223</span>
-						<span>🔱 566</span>
-					</div>
-				<div class="stars-today">⭐ 451 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 22858</span>
-						<span>🔱 1242</span>
+						<span>⭐ 22941</span>
+						<span>🔱 1246</span>
 					</div>
 				<div class="stars-today">⭐ 3410 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29322</span>
+						<span>🔱 1311</span>
+					</div>
+				<div class="stars-today">⭐ 1490 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4356</span>
+						<span>🔱 330</span>
+					</div>
+				<div class="stars-today">⭐ 1290 stars this week</div>
 				</div>
 			</div>
 	

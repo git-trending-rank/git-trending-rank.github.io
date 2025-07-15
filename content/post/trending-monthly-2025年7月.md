@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-15T09:59:22Z
+date: 2025-07-15T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31547</span>
-						<span>🔱 7662</span>
+						<span>⭐ 31581</span>
+						<span>🔱 7665</span>
 					</div>
 				<div class="stars-today">⭐ 7971 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19217</span>
+						<span>⭐ 19220</span>
 						<span>🔱 806</span>
 					</div>
 				<div class="stars-today">⭐ 6479 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
-    
-
-
-      
-        menloresearch /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34801</span>
-						<span>🔱 2043</span>
-					</div>
-				<div class="stars-today">⭐ 5446 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35375</span>
-						<span>🔱 6809</span>
-					</div>
-				<div class="stars-today">⭐ 6184 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6618</span>
-						<span>🔱 490</span>
+						<span>⭐ 6629</span>
+						<span>🔱 491</span>
 					</div>
 				<div class="stars-today">⭐ 5061 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
     
 
 
       
-        microsoft /
+        DataExpert-io /
 
-      fluentui-system-icons</a></p>
+      data-engineer-handbook</a></p>
 				<p>
-      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+      This is a repo with links to everything you'd ever want to learn about data engineering
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 9618</span>
-						<span>🔱 692</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 35379</span>
+						<span>🔱 6809</span>
 					</div>
-				<div class="stars-today">⭐ 3184 stars this month</div>
+				<div class="stars-today">⭐ 6184 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33907</span>
+						<span>⭐ 33908</span>
 						<span>🔱 3785</span>
 					</div>
 				<div class="stars-today">⭐ 5720 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
+    
+
+
+      
+        menloresearch /
+
+      jan</a></p>
+				<p>
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34806</span>
+						<span>🔱 2044</span>
+					</div>
+				<div class="stars-today">⭐ 5446 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 22858</span>
-						<span>🔱 1242</span>
+						<span>⭐ 22941</span>
+						<span>🔱 1246</span>
 					</div>
 				<div class="stars-today">⭐ 8567 stars this month</div>
 				</div>
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11350</span>
-						<span>🔱 837</span>
+						<span>⭐ 11366</span>
+						<span>🔱 838</span>
 					</div>
 				<div class="stars-today">⭐ 7969 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8888</span>
+						<span>🔱 569</span>
+					</div>
+				<div class="stars-today">⭐ 4392 stars this month</div>
 				</div>
 			</div>
 	
@@ -236,24 +236,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
     
 
 
       
-        humanlayer /
+        GyulyVGC /
 
-      12-factor-agents</a></p>
+      sniffnet</a></p>
 				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+      Comfortably monitor your Internet traffic 🕵️‍♂️
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8872</span>
-						<span>🔱 568</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 28347</span>
+						<span>🔱 929</span>
 					</div>
-				<div class="stars-today">⭐ 4392 stars this month</div>
+				<div class="stars-today">⭐ 3964 stars this month</div>
 				</div>
 			</div>
 	
@@ -273,31 +273,31 @@ keywords:
 					<div>
 						<span>🔠 Java</span>
 						<span>⭐ 27143</span>
-						<span>🔱 8802</span>
+						<span>🔱 8804</span>
 					</div>
 				<div class="stars-today">⭐ 948 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/anthropic-cookbook" target="_blank">
+				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
     
 
 
       
-        anthropics /
+        microsoft /
 
-      anthropic-cookbook</a></p>
+      fluentui-system-icons</a></p>
 				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 18172</span>
-						<span>🔱 1874</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 9622</span>
+						<span>🔱 692</span>
 					</div>
-				<div class="stars-today">⭐ 4975 stars this month</div>
+				<div class="stars-today">⭐ 3184 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74663</span>
+						<span>⭐ 74666</span>
 						<span>🔱 16452</span>
 					</div>
 				<div class="stars-today">⭐ 2013 stars this month</div>
@@ -338,76 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4556</span>
-						<span>🔱 368</span>
+						<span>⭐ 4564</span>
+						<span>🔱 369</span>
 					</div>
 				<div class="stars-today">⭐ 3418 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      Web-Dev-For-Beginners</a></p>
-				<p>
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 90582</span>
-						<span>🔱 13682</span>
-					</div>
-				<div class="stars-today">⭐ 2154 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9746</span>
-						<span>🔱 1222</span>
-					</div>
-				<div class="stars-today">⭐ 3980 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
-    
-
-
-      
-        stanford-oval /
-
-      storm</a></p>
-				<p>
-      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26596</span>
-						<span>🔱 2396</span>
-					</div>
-				<div class="stars-today">⭐ 2079 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3223</span>
-						<span>🔱 566</span>
+						<span>⭐ 3230</span>
+						<span>🔱 567</span>
 					</div>
 				<div class="stars-today">⭐ 1426 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+    
+
+
+      
+        stanford-oval /
+
+      storm</a></p>
+				<p>
+      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26600</span>
+						<span>🔱 2396</span>
+					</div>
+				<div class="stars-today">⭐ 2079 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9757</span>
+						<span>🔱 1222</span>
+					</div>
+				<div class="stars-today">⭐ 3980 stars this month</div>
 				</div>
 			</div>
 	
