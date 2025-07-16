@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-16T09:58:37Z
+date: 2025-07-16T11:58:59Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31859</span>
-						<span>🔱 7703</span>
+						<span>⭐ 31883</span>
+						<span>🔱 7706</span>
 					</div>
 				<div class="stars-today">⭐ 8335 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
-    
-
-
-      
-        GraphiteEditor /
-
-      Graphite</a></p>
-				<p>
-      An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19298</span>
-						<span>🔱 808</span>
-					</div>
-				<div class="stars-today">⭐ 6479 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6822</span>
-						<span>🔱 504</span>
+						<span>⭐ 6836</span>
+						<span>🔱 506</span>
 					</div>
 				<div class="stars-today">⭐ 5326 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
+    
+
+
+      
+        GraphiteEditor /
+
+      Graphite</a></p>
+				<p>
+      An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19312</span>
+						<span>🔱 808</span>
+					</div>
+				<div class="stars-today">⭐ 6479 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 23512</span>
+						<span>🔱 1276</span>
+					</div>
+				<div class="stars-today">⭐ 10217 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35431</span>
-						<span>🔱 6819</span>
+						<span>⭐ 35436</span>
+						<span>🔱 6823</span>
 					</div>
 				<div class="stars-today">⭐ 6197 stars this month</div>
 				</div>
@@ -118,76 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33966</span>
-						<span>🔱 3799</span>
+						<span>⭐ 33970</span>
+						<span>🔱 3800</span>
 					</div>
 				<div class="stars-today">⭐ 5775 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
-    
-
-
-      
-        menloresearch /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34871</span>
-						<span>🔱 2051</span>
-					</div>
-				<div class="stars-today">⭐ 5486 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 23474</span>
-						<span>🔱 1275</span>
-					</div>
-				<div class="stars-today">⭐ 10217 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11569</span>
-						<span>🔱 852</span>
-					</div>
-				<div class="stars-today">⭐ 8169 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9042</span>
-						<span>🔱 573</span>
+						<span>⭐ 9062</span>
+						<span>🔱 574</span>
 					</div>
 				<div class="stars-today">⭐ 4553 stars this month</div>
 				</div>
@@ -228,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2155</span>
-						<span>🔱 168</span>
+						<span>⭐ 2157</span>
+						<span>🔱 169</span>
 					</div>
 				<div class="stars-today">⭐ 1766 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      happy-llm</a></p>
+				<p>
+      📚 从零开始的大语言模型原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11587</span>
+						<span>🔱 854</span>
+					</div>
+				<div class="stars-today">⭐ 8169 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28529</span>
-						<span>🔱 940</span>
+						<span>⭐ 28538</span>
+						<span>🔱 942</span>
 					</div>
 				<div class="stars-today">⭐ 4049 stars this month</div>
 				</div>
@@ -272,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 27155</span>
+						<span>⭐ 27157</span>
 						<span>🔱 8807</span>
 					</div>
 				<div class="stars-today">⭐ 956 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/fluentui-system-icons" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      fluentui-system-icons</a></p>
-				<p>
-      Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 9659</span>
-						<span>🔱 694</span>
-					</div>
-				<div class="stars-today">⭐ 3062 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74731</span>
-						<span>🔱 16471</span>
+						<span>⭐ 74738</span>
+						<span>🔱 16474</span>
 					</div>
 				<div class="stars-today">⭐ 2085 stars this month</div>
 				</div>
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4662</span>
-						<span>🔱 380</span>
+						<span>⭐ 4675</span>
+						<span>🔱 381</span>
 					</div>
 				<div class="stars-today">⭐ 3499 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
+    
+
+
+      
+        menloresearch /
+
+      jan</a></p>
+				<p>
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34873</span>
+						<span>🔱 2051</span>
+					</div>
+				<div class="stars-today">⭐ 5486 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3267</span>
+						<span>⭐ 3274</span>
 						<span>🔱 579</span>
 					</div>
 				<div class="stars-today">⭐ 1492 stars this month</div>
@@ -382,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26645</span>
-						<span>🔱 2400</span>
+						<span>⭐ 26647</span>
+						<span>🔱 2401</span>
 					</div>
 				<div class="stars-today">⭐ 2109 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9846</span>
-						<span>🔱 1232</span>
-					</div>
-				<div class="stars-today">⭐ 3928 stars this month</div>
 				</div>
 			</div>
 	
