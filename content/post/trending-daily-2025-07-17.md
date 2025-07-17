@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-17
-date: 2025-07-17T09:58:30Z
+date: 2025-07-17T11:58:52Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 65754</span>
-						<span>🔱 3494</span>
+						<span>⭐ 65899</span>
+						<span>🔱 3504</span>
 					</div>
 				<div class="stars-today">⭐ 2415 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PromtEngineer/localGPT" target="_blank">
+				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
     
 
 
       
-        PromtEngineer /
+        gitleaks /
 
-      localGPT</a></p>
+      gitleaks</a></p>
 				<p>
-      Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+      Find secrets with Gitleaks 🔑
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21548</span>
+						<span>🔱 1677</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+    
+
+
+      
+        soxoj /
+
+      maigret</a></p>
+				<p>
+      🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21225</span>
-						<span>🔱 2351</span>
+						<span>⭐ 15787</span>
+						<span>🔱 1102</span>
 					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
+				<div class="stars-today">⭐ 165 stars today</div>
 				</div>
 			</div>
 	
@@ -74,186 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18385</span>
-						<span>🔱 1166</span>
+						<span>⭐ 18411</span>
+						<span>🔱 1167</span>
 					</div>
 				<div class="stars-today">⭐ 150 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frappe/erpnext" target="_blank">
+				<p><a href="https://github.com/PromtEngineer/localGPT" target="_blank">
     
 
 
       
-        frappe /
+        PromtEngineer /
 
-      erpnext</a></p>
+      localGPT</a></p>
 				<p>
-      Free and Open Source Enterprise Resource Planning (ERP)
+      Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26938</span>
-						<span>🔱 8817</span>
-					</div>
-				<div class="stars-today">⭐ 330 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/arc53/DocsGPT" target="_blank">
-    
-
-
-      
-        arc53 /
-
-      DocsGPT</a></p>
-				<p>
-      DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16253</span>
-						<span>🔱 1708</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 23996</span>
-						<span>🔱 1301</span>
-					</div>
-				<div class="stars-today">⭐ 570 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
-    
-
-
-      
-        OpenPipe /
-
-      ART</a></p>
-				<p>
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2813</span>
-						<span>🔱 164</span>
-					</div>
-				<div class="stars-today">⭐ 434 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aws/amazon-q-developer-cli" target="_blank">
-    
-
-
-      
-        aws /
-
-      amazon-q-developer-cli</a></p>
-				<p>
-      ✨ Agentic chat experience in your terminal. Build applications using natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 1210</span>
-						<span>🔱 199</span>
-					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vpnhood/VpnHood" target="_blank">
-    
-
-
-      
-        vpnhood /
-
-      VpnHood</a></p>
-				<p>
-      Undetectable Fast Portable VPN
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 1666</span>
-						<span>🔱 195</span>
+						<span>⭐ 21246</span>
+						<span>🔱 2354</span>
 					</div>
 				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6521</span>
-						<span>🔱 643</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
-    
-
-
-      
-        rustdesk /
-
-      rustdesk</a></p>
-				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 93299</span>
-						<span>🔱 13560</span>
-					</div>
-				<div class="stars-today">⭐ 146 stars today</div>
 				</div>
 			</div>
 	
@@ -272,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19059</span>
+						<span>⭐ 19081</span>
 						<span>🔱 1745</span>
 					</div>
 				<div class="stars-today">⭐ 129 stars today</div>
@@ -280,68 +148,198 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nicklockwood/SwiftFormat" target="_blank">
+				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
     
 
 
       
-        nicklockwood /
+        AykutSarac /
 
-      SwiftFormat</a></p>
+      jsoncrack.com</a></p>
 				<p>
-      A command-line tool and Xcode Extension for formatting Swift code
+      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 8415</span>
-						<span>🔱 655</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40074</span>
+						<span>🔱 2690</span>
 					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
+				<div class="stars-today">⭐ 205 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TomBursch/kitchenowl" target="_blank">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
     
 
 
       
-        TomBursch /
+        musistudio /
 
-      kitchenowl</a></p>
+      claude-code-router</a></p>
 				<p>
-      KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 2451</span>
-						<span>🔱 140</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5185</span>
+						<span>🔱 393</span>
 					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
+				<div class="stars-today">⭐ 483 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/segment-anything" target="_blank">
+				<p><a href="https://github.com/WasmEdge/WasmEdge" target="_blank">
     
 
 
       
-        facebookresearch /
+        WasmEdge /
 
-      segment-anything</a></p>
+      WasmEdge</a></p>
 				<p>
-      The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+      WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51020</span>
-						<span>🔱 5987</span>
+						<span>🔠 C++</span>
+						<span>⭐ 9676</span>
+						<span>🔱 872</span>
 					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/strapi/strapi" target="_blank">
+    
+
+
+      
+        strapi /
+
+      strapi</a></p>
+				<p>
+      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 67856</span>
+						<span>🔱 8743</span>
+					</div>
+				<div class="stars-today">⭐ 48 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4586</span>
+						<span>🔱 667</span>
+					</div>
+				<div class="stars-today">⭐ 190 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/helix-editor/helix" target="_blank">
+    
+
+
+      
+        helix-editor /
+
+      helix</a></p>
+				<p>
+      A post-modern modal text editor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 38672</span>
+						<span>🔱 2926</span>
+					</div>
+				<div class="stars-today">⭐ 71 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/devdocs" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      devdocs</a></p>
+				<p>
+      API Documentation Browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 36574</span>
+						<span>🔱 2440</span>
+					</div>
+				<div class="stars-today">⭐ 16 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
+    
+
+
+      
+        cloudcommunity /
+
+      Free-Certifications</a></p>
+				<p>
+      A curated list of free courses with certifications. Also available at https://free-certifications.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 36042</span>
+						<span>🔱 2498</span>
+					</div>
+				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kyome22/RunCat365" target="_blank">
+    
+
+
+      
+        Kyome22 /
+
+      RunCat365</a></p>
+				<p>
+      A cute running cat animation on your windows taskbar.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 8029</span>
+						<span>🔱 673</span>
+					</div>
+				<div class="stars-today">⭐ 184 stars today</div>
 				</div>
 			</div>
 	

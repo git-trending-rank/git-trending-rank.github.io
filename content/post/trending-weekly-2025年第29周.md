@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第29周
-date: 2025-07-17T09:58:30Z
+date: 2025-07-17T11:58:52Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        googleapis /
+        microsoft /
 
-      genai-toolbox</a></p>
+      markitdown</a></p>
 				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6961</span>
-						<span>🔱 519</span>
+						<span>🔠 Python</span>
+						<span>⭐ 65899</span>
+						<span>🔱 3504</span>
 					</div>
-				<div class="stars-today">⭐ 3243 stars this week</div>
+				<div class="stars-today">⭐ 4296 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4410</span>
-						<span>🔱 327</span>
+						<span>⭐ 4418</span>
+						<span>🔱 328</span>
 					</div>
 				<div class="stars-today">⭐ 1661 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+    
+
+
+      
+        googleapis /
+
+      genai-toolbox</a></p>
+				<p>
+      MCP Toolbox for Databases is an open source MCP server for databases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6978</span>
+						<span>🔱 519</span>
+					</div>
+				<div class="stars-today">⭐ 3243 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 56247</span>
+						<span>⭐ 56257</span>
 						<span>🔱 3591</span>
 					</div>
 				<div class="stars-today">⭐ 1263 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13956</span>
-						<span>🔱 1175</span>
-					</div>
-				<div class="stars-today">⭐ 1643 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      12-factor-agents</a></p>
-				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9226</span>
-						<span>🔱 588</span>
-					</div>
-				<div class="stars-today">⭐ 1184 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 65754</span>
-						<span>🔱 3494</span>
-					</div>
-				<div class="stars-today">⭐ 4296 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 23996</span>
-						<span>🔱 1301</span>
+						<span>⭐ 24024</span>
+						<span>🔱 1302</span>
 					</div>
 				<div class="stars-today">⭐ 5360 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
 
       
-        rustfs /
+        getzep /
 
-      rustfs</a></p>
+      graphiti</a></p>
 				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5353</span>
-						<span>🔱 238</span>
-					</div>
-				<div class="stars-today">⭐ 1612 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32115</span>
-						<span>🔱 7737</span>
+						<span>⭐ 13964</span>
+						<span>🔱 1175</span>
 					</div>
-				<div class="stars-today">⭐ 3181 stars this week</div>
+				<div class="stars-today">⭐ 1643 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42986</span>
+						<span>⭐ 42993</span>
 						<span>🔱 3854</span>
 					</div>
 				<div class="stars-today">⭐ 676 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5185</span>
+						<span>🔱 393</span>
+					</div>
+				<div class="stars-today">⭐ 1799 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32133</span>
+						<span>🔱 7737</span>
+					</div>
+				<div class="stars-today">⭐ 3181 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36426</span>
-						<span>🔱 10432</span>
+						<span>⭐ 36431</span>
+						<span>🔱 10433</span>
 					</div>
 				<div class="stars-today">⭐ 132 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      stagehand</a></p>
+				<p>
+      The AI Browser Automation Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14288</span>
+						<span>🔱 847</span>
+					</div>
+				<div class="stars-today">⭐ 1096 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29592</span>
+						<span>⭐ 29602</span>
 						<span>🔱 1327</span>
 					</div>
 				<div class="stars-today">⭐ 1332 stars this week</div>

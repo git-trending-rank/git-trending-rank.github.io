@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-17T09:58:30Z
+date: 2025-07-17T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32115</span>
+						<span>⭐ 32133</span>
 						<span>🔱 7737</span>
 					</div>
 				<div class="stars-today">⭐ 8596 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6961</span>
+						<span>⭐ 6978</span>
 						<span>🔱 519</span>
 					</div>
 				<div class="stars-today">⭐ 5485 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19384</span>
-						<span>🔱 812</span>
+						<span>⭐ 19386</span>
+						<span>🔱 813</span>
 					</div>
 				<div class="stars-today">⭐ 6501 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 23996</span>
-						<span>🔱 1301</span>
+						<span>⭐ 24024</span>
+						<span>🔱 1302</span>
 					</div>
 				<div class="stars-today">⭐ 10566 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35509</span>
-						<span>🔱 6834</span>
-					</div>
-				<div class="stars-today">⭐ 6212 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34022</span>
-						<span>🔱 3805</span>
+						<span>⭐ 34026</span>
+						<span>🔱 3807</span>
 					</div>
 				<div class="stars-today">⭐ 5823 stars this month</div>
 				</div>
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9226</span>
+						<span>⭐ 9234</span>
 						<span>🔱 588</span>
 					</div>
 				<div class="stars-today">⭐ 4707 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 35514</span>
+						<span>🔱 6834</span>
+					</div>
+				<div class="stars-today">⭐ 6212 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2167</span>
+						<span>⭐ 2168</span>
 						<span>🔱 170</span>
 					</div>
 				<div class="stars-today">⭐ 1751 stars this month</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11733</span>
+						<span>⭐ 11749</span>
 						<span>🔱 864</span>
 					</div>
 				<div class="stars-today">⭐ 8278 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
-    
-
-
-      
-        GyulyVGC /
-
-      sniffnet</a></p>
-				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 28637</span>
-						<span>🔱 948</span>
-					</div>
-				<div class="stars-today">⭐ 4213 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74792</span>
-						<span>🔱 16486</span>
+						<span>⭐ 74798</span>
+						<span>🔱 16488</span>
 					</div>
 				<div class="stars-today">⭐ 2159 stars this month</div>
 				</div>
@@ -294,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4756</span>
+						<span>⭐ 4766</span>
 						<span>🔱 389</span>
 					</div>
 				<div class="stars-today">⭐ 3571 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
-    
-
-
-      
-        menloresearch /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34910</span>
-						<span>🔱 2054</span>
-					</div>
-				<div class="stars-today">⭐ 5454 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3318</span>
-						<span>🔱 586</span>
+						<span>⭐ 3324</span>
+						<span>🔱 588</span>
 					</div>
 				<div class="stars-today">⭐ 1532 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
+    
+
+
+      
+        automatisch /
+
+      automatisch</a></p>
+				<p>
+      The open source Zapier alternative. Build workflow automation without spending time and money.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 12626</span>
+						<span>🔱 924</span>
+					</div>
+				<div class="stars-today">⭐ 3720 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26687</span>
+						<span>⭐ 26689</span>
 						<span>🔱 2404</span>
 					</div>
 				<div class="stars-today">⭐ 2151 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29602</span>
+						<span>🔱 1327</span>
+					</div>
+				<div class="stars-today">⭐ 2977 stars this month</div>
 				</div>
 			</div>
 	
