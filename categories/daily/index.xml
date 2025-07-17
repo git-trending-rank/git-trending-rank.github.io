@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 17 Jul 2025 09:58:30 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 17 Jul 2025 11:58:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-07-17</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-07-17/</link>
-        <pubDate>Thu, 17 Jul 2025 09:58:30 +0000</pubDate>
+        <pubDate>Thu, 17 Jul 2025 11:58:52 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-07-17/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,32 +33,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 65754&lt;/span&gt;
-						&lt;span&gt;🔱 3494&lt;/span&gt;
+						&lt;span&gt;⭐ 65899&lt;/span&gt;
+						&lt;span&gt;🔱 3504&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2415 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/PromtEngineer/localGPT&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gitleaks/gitleaks&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        PromtEngineer /
+        gitleaks /
 
-      localGPT&lt;/a&gt;&lt;/p&gt;
+      gitleaks&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+      Find secrets with Gitleaks 🔑
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 21548&lt;/span&gt;
+						&lt;span&gt;🔱 1677&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/soxoj/maigret&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        soxoj /
+
+      maigret&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 21225&lt;/span&gt;
-						&lt;span&gt;🔱 2351&lt;/span&gt;
+						&lt;span&gt;⭐ 15787&lt;/span&gt;
+						&lt;span&gt;🔱 1102&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 80 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 165 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,186 +99,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 18385&lt;/span&gt;
-						&lt;span&gt;🔱 1166&lt;/span&gt;
+						&lt;span&gt;⭐ 18411&lt;/span&gt;
+						&lt;span&gt;🔱 1167&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 150 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/frappe/erpnext&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PromtEngineer/localGPT&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        frappe /
+        PromtEngineer /
 
-      erpnext&lt;/a&gt;&lt;/p&gt;
+      localGPT&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Free and Open Source Enterprise Resource Planning (ERP)
+      Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 26938&lt;/span&gt;
-						&lt;span&gt;🔱 8817&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 330 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/arc53/DocsGPT&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        arc53 /
-
-      DocsGPT&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 16253&lt;/span&gt;
-						&lt;span&gt;🔱 1708&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 58 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 PowerShell&lt;/span&gt;
-						&lt;span&gt;⭐ 23996&lt;/span&gt;
-						&lt;span&gt;🔱 1301&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 570 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenPipe/ART&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        OpenPipe /
-
-      ART&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2813&lt;/span&gt;
-						&lt;span&gt;🔱 164&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 434 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/aws/amazon-q-developer-cli&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        aws /
-
-      amazon-q-developer-cli&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      ✨ Agentic chat experience in your terminal. Build applications using natural language.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 1210&lt;/span&gt;
-						&lt;span&gt;🔱 199&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 27 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vpnhood/VpnHood&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        vpnhood /
-
-      VpnHood&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Undetectable Fast Portable VPN
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 1666&lt;/span&gt;
-						&lt;span&gt;🔱 195&lt;/span&gt;
+						&lt;span&gt;⭐ 21246&lt;/span&gt;
+						&lt;span&gt;🔱 2354&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 80 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lastmile-ai/mcp-agent&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Build effective agents using Model Context Protocol and simple workflow patterns
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6521&lt;/span&gt;
-						&lt;span&gt;🔱 643&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 80 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rustdesk/rustdesk&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        rustdesk /
-
-      rustdesk&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 93299&lt;/span&gt;
-						&lt;span&gt;🔱 13560&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 146 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,7 +143,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19059&lt;/span&gt;
+						&lt;span&gt;⭐ 19081&lt;/span&gt;
 						&lt;span&gt;🔱 1745&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 129 stars today&lt;/div&gt;
@@ -283,68 +151,198 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nicklockwood/SwiftFormat&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/AykutSarac/jsoncrack.com&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        nicklockwood /
+        AykutSarac /
 
-      SwiftFormat&lt;/a&gt;&lt;/p&gt;
+      jsoncrack.com&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A command-line tool and Xcode Extension for formatting Swift code
+      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Swift&lt;/span&gt;
-						&lt;span&gt;⭐ 8415&lt;/span&gt;
-						&lt;span&gt;🔱 655&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 40074&lt;/span&gt;
+						&lt;span&gt;🔱 2690&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 205 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TomBursch/kitchenowl&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/musistudio/claude-code-router&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        TomBursch /
+        musistudio /
 
-      kitchenowl&lt;/a&gt;&lt;/p&gt;
+      claude-code-router&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Dart&lt;/span&gt;
-						&lt;span&gt;⭐ 2451&lt;/span&gt;
-						&lt;span&gt;🔱 140&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5185&lt;/span&gt;
+						&lt;span&gt;🔱 393&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 483 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/facebookresearch/segment-anything&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/WasmEdge/WasmEdge&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        facebookresearch /
+        WasmEdge /
 
-      segment-anything&lt;/a&gt;&lt;/p&gt;
+      WasmEdge&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+      WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 51020&lt;/span&gt;
-						&lt;span&gt;🔱 5987&lt;/span&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 9676&lt;/span&gt;
+						&lt;span&gt;🔱 872&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 32 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 34 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/strapi/strapi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        strapi /
+
+      strapi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 67856&lt;/span&gt;
+						&lt;span&gt;🔱 8743&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 48 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/open_deep_research&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 4586&lt;/span&gt;
+						&lt;span&gt;🔱 667&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 190 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/helix-editor/helix&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        helix-editor /
+
+      helix&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A post-modern modal text editor.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 38672&lt;/span&gt;
+						&lt;span&gt;🔱 2926&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 71 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/freeCodeCamp/devdocs&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        freeCodeCamp /
+
+      devdocs&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      API Documentation Browser
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Ruby&lt;/span&gt;
+						&lt;span&gt;⭐ 36574&lt;/span&gt;
+						&lt;span&gt;🔱 2440&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cloudcommunity/Free-Certifications&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cloudcommunity /
+
+      Free-Certifications&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A curated list of free courses with certifications. Also available at https://free-certifications.com/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 36042&lt;/span&gt;
+						&lt;span&gt;🔱 2498&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 40 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Kyome22/RunCat365&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Kyome22 /
+
+      RunCat365&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A cute running cat animation on your windows taskbar.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C#&lt;/span&gt;
+						&lt;span&gt;⭐ 8029&lt;/span&gt;
+						&lt;span&gt;🔱 673&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 184 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
