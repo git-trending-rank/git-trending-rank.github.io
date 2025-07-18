@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-18
-date: 2025-07-18T09:58:55Z
+date: 2025-07-18T11:58:45Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67146</span>
-						<span>🔱 3557</span>
+						<span>⭐ 67248</span>
+						<span>🔱 3561</span>
 					</div>
 				<div class="stars-today">⭐ 1870 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4905</span>
+						<span>🔱 704</span>
+					</div>
+				<div class="stars-today">⭐ 221 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/segment-anything" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      segment-anything</a></p>
+				<p>
+      The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 51050</span>
+						<span>🔱 5990</span>
+					</div>
+				<div class="stars-today">⭐ 138 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
+    
+
+
+      
+        hyprwm /
+
+      Hyprland</a></p>
+				<p>
+      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 27092</span>
+						<span>🔱 1148</span>
+					</div>
+				<div class="stars-today">⭐ 66 stars today</div>
 				</div>
 			</div>
 	
@@ -52,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21847</span>
-						<span>🔱 1701</span>
+						<span>⭐ 21866</span>
+						<span>🔱 1702</span>
 					</div>
 				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
@@ -74,32 +138,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16274</span>
-						<span>🔱 1120</span>
+						<span>⭐ 16307</span>
+						<span>🔱 1122</span>
 					</div>
 				<div class="stars-today">⭐ 208 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/maotoumao/MusicFree" target="_blank">
+				<p><a href="https://github.com/arc53/DocsGPT" target="_blank">
     
 
 
       
-        maotoumao /
+        arc53 /
 
-      MusicFree</a></p>
+      DocsGPT</a></p>
 				<p>
-      插件化、定制化、无广告的免费音乐播放器
+      DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18601</span>
-						<span>🔱 1181</span>
+						<span>⭐ 16296</span>
+						<span>🔱 1713</span>
 					</div>
-				<div class="stars-today">⭐ 331 stars today</div>
+				<div class="stars-today">⭐ 276 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7192</span>
+						<span>🔱 621</span>
+					</div>
+				<div class="stars-today">⭐ 98 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/influxdata/telegraf" target="_blank">
+    
+
+
+      
+        influxdata /
+
+      telegraf</a></p>
+				<p>
+      Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15766</span>
+						<span>🔱 5665</span>
+					</div>
+				<div class="stars-today">⭐ 4 stars today</div>
 				</div>
 			</div>
 	
@@ -118,206 +226,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21480</span>
-						<span>🔱 2365</span>
+						<span>⭐ 21497</span>
+						<span>🔱 2367</span>
 					</div>
 				<div class="stars-today">⭐ 354 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
     
 
 
       
-        vanna-ai /
+        n8n-io /
 
-      vanna</a></p>
+      n8n</a></p>
 				<p>
-      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19334</span>
-						<span>🔱 1760</span>
-					</div>
-				<div class="stars-today">⭐ 286 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
-    
-
-
-      
-        AykutSarac /
-
-      jsoncrack.com</a></p>
-				<p>
-      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40242</span>
-						<span>🔱 2700</span>
+						<span>⭐ 120032</span>
+						<span>🔱 36134</span>
 					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
+				<div class="stars-today">⭐ 741 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+				<p><a href="https://github.com/remoteintech/remote-jobs" target="_blank">
     
 
 
       
-        musistudio /
+        remoteintech /
 
-      claude-code-router</a></p>
+      remote-jobs</a></p>
 				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+      A list of semi to fully remote-friendly companies (jobs) in tech.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5648</span>
-						<span>🔱 428</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 32071</span>
+						<span>🔱 3371</span>
 					</div>
-				<div class="stars-today">⭐ 327 stars today</div>
+				<div class="stars-today">⭐ 60 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/WasmEdge/WasmEdge" target="_blank">
+				<p><a href="https://github.com/nicklockwood/SwiftFormat" target="_blank">
     
 
 
       
-        WasmEdge /
+        nicklockwood /
 
-      WasmEdge</a></p>
+      SwiftFormat</a></p>
 				<p>
-      WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, smart contracts, and IoT devices.
+      A command-line tool and Xcode Extension for formatting Swift code
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 9878</span>
-						<span>🔱 875</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 8421</span>
+						<span>🔱 655</span>
 					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/strapi/strapi" target="_blank">
-    
-
-
-      
-        strapi /
-
-      strapi</a></p>
-				<p>
-      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 68080</span>
-						<span>🔱 8752</span>
-					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4880</span>
-						<span>🔱 702</span>
-					</div>
-				<div class="stars-today">⭐ 221 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/helix-editor/helix" target="_blank">
-    
-
-
-      
-        helix-editor /
-
-      helix</a></p>
-				<p>
-      A post-modern modal text editor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 38817</span>
-						<span>🔱 2934</span>
-					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/devdocs" target="_blank">
-    
-
-
-      
-        freeCodeCamp /
-
-      devdocs</a></p>
-				<p>
-      API Documentation Browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 36707</span>
-						<span>🔱 2444</span>
-					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications</a></p>
-				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 36407</span>
-						<span>🔱 2515</span>
-					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
+				<div class="stars-today">⭐ 42 stars today</div>
 				</div>
 			</div>
 	
@@ -336,10 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 8244</span>
-						<span>🔱 690</span>
+						<span>⭐ 8267</span>
+						<span>🔱 691</span>
 					</div>
 				<div class="stars-today">⭐ 205 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pydantic/pydantic-ai" target="_blank">
+    
+
+
+      
+        pydantic /
+
+      pydantic-ai</a></p>
+				<p>
+      Agent Framework / shim to use Pydantic with LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10912</span>
+						<span>🔱 1044</span>
+					</div>
+				<div class="stars-today">⭐ 49 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/strapi/strapi" target="_blank">
+    
+
+
+      
+        strapi /
+
+      strapi</a></p>
+				<p>
+      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 68099</span>
+						<span>🔱 8754</span>
+					</div>
+				<div class="stars-today">⭐ 59 stars today</div>
 				</div>
 			</div>
 	

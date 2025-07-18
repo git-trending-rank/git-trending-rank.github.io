@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-18T09:58:55Z
+date: 2025-07-18T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32301</span>
-						<span>🔱 7755</span>
+						<span>⭐ 32314</span>
+						<span>🔱 7763</span>
 					</div>
 				<div class="stars-today">⭐ 8762 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox</a></p>
-				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7133</span>
-						<span>🔱 524</span>
-					</div>
-				<div class="stars-today">⭐ 5603 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19456</span>
+						<span>⭐ 19462</span>
 						<span>🔱 814</span>
 					</div>
 				<div class="stars-today">⭐ 6531 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 24288</span>
-						<span>🔱 1317</span>
-					</div>
-				<div class="stars-today">⭐ 10834 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      Building a modern alternative to Salesforce, powered by the community.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34071</span>
-						<span>🔱 3816</span>
-					</div>
-				<div class="stars-today">⭐ 5865 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9400</span>
-						<span>🔱 601</span>
+						<span>⭐ 9415</span>
+						<span>🔱 602</span>
 					</div>
 				<div class="stars-today">⭐ 4850 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
     
 
 
       
-        DataExpert-io /
+        twentyhq /
 
-      data-engineer-handbook</a></p>
+      twenty</a></p>
 				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
+      Building a modern alternative to Salesforce, powered by the community.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35598</span>
-						<span>🔱 6847</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34072</span>
+						<span>🔱 3817</span>
 					</div>
-				<div class="stars-today">⭐ 6192 stars this month</div>
+				<div class="stars-today">⭐ 5865 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 24315</span>
+						<span>🔱 1319</span>
+					</div>
+				<div class="stars-today">⭐ 10834 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11926</span>
-						<span>🔱 874</span>
+						<span>⭐ 11944</span>
+						<span>🔱 875</span>
 					</div>
 				<div class="stars-today">⭐ 8307 stars this month</div>
 				</div>
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 27182</span>
-						<span>🔱 8807</span>
+						<span>⭐ 27183</span>
+						<span>🔱 8808</span>
 					</div>
 				<div class="stars-today">⭐ 959 stars this month</div>
 				</div>
@@ -250,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 74932</span>
-						<span>🔱 16528</span>
+						<span>⭐ 74949</span>
+						<span>🔱 16530</span>
 					</div>
 				<div class="stars-today">⭐ 2208 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 35607</span>
+						<span>🔱 6849</span>
+					</div>
+				<div class="stars-today">⭐ 6192 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4855</span>
+						<span>⭐ 4860</span>
 						<span>🔱 400</span>
 					</div>
 				<div class="stars-today">⭐ 3625 stars this month</div>
@@ -294,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3367</span>
-						<span>🔱 589</span>
+						<span>⭐ 3375</span>
+						<span>🔱 590</span>
 					</div>
 				<div class="stars-today">⭐ 1573 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/automatisch/automatisch" target="_blank">
-    
-
-
-      
-        automatisch /
-
-      automatisch</a></p>
-				<p>
-      The open source Zapier alternative. Build workflow automation without spending time and money.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12667</span>
-						<span>🔱 929</span>
-					</div>
-				<div class="stars-today">⭐ 3667 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26726</span>
+						<span>⭐ 26733</span>
 						<span>🔱 2406</span>
 					</div>
 				<div class="stars-today">⭐ 2186 stars this month</div>
@@ -360,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29712</span>
-						<span>🔱 1330</span>
+						<span>⭐ 29721</span>
+						<span>🔱 1333</span>
 					</div>
 				<div class="stars-today">⭐ 3070 stars this month</div>
 				</div>
