@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-19
-date: 2025-07-19T09:58:32Z
+date: 2025-07-19T11:58:49Z
 categories:
 - daily
 keywords:
@@ -14,70 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 68183</span>
-						<span>🔱 3611</span>
-					</div>
-				<div class="stars-today">⭐ 1382 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5128</span>
-						<span>🔱 725</span>
-					</div>
-				<div class="stars-today">⭐ 322 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/segment-anything" target="_blank">
-    
-
-
-      
-        facebookresearch /
-
-      segment-anything</a></p>
-				<p>
-      The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51154</span>
-						<span>🔱 5996</span>
-					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
@@ -94,32 +30,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 27259</span>
-						<span>🔱 1154</span>
+						<span>⭐ 27293</span>
+						<span>🔱 1155</span>
 					</div>
 				<div class="stars-today">⭐ 62 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
     
 
 
       
-        gitleaks /
+        langchain-ai /
 
-      gitleaks</a></p>
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5145</span>
+						<span>🔱 727</span>
+					</div>
+				<div class="stars-today">⭐ 322 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bluenviron/mediamtx" target="_blank">
+    
+
+
+      
+        bluenviron /
+
+      mediamtx</a></p>
 				<p>
-      Find secrets with Gitleaks 🔑
+      Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22068</span>
-						<span>🔱 1704</span>
+						<span>⭐ 15168</span>
+						<span>🔱 1848</span>
 					</div>
-				<div class="stars-today">⭐ 328 stars today</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
+    
+
+
+      
+        shadps4-emu /
+
+      shadPS4</a></p>
+				<p>
+      PlayStation 4 emulator for Windows, Linux and macOS written in C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 24119</span>
+						<span>🔱 1564</span>
+					</div>
+				<div class="stars-today">⭐ 1005 stars today</div>
 				</div>
 			</div>
 	
@@ -138,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16597</span>
+						<span>⭐ 16619</span>
 						<span>🔱 1129</span>
 					</div>
 				<div class="stars-today">⭐ 524 stars today</div>
@@ -146,112 +124,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/arc53/DocsGPT" target="_blank">
+				<p><a href="https://github.com/github/github-mcp-server" target="_blank">
     
 
 
       
-        arc53 /
+        github /
 
-      DocsGPT</a></p>
+      github-mcp-server</a></p>
 				<p>
-      DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16520</span>
-						<span>🔱 1724</span>
-					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7323</span>
-						<span>🔱 630</span>
-					</div>
-				<div class="stars-today">⭐ 86 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/influxdata/telegraf" target="_blank">
-    
-
-
-      
-        influxdata /
-
-      telegraf</a></p>
-				<p>
-      Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+      GitHub's official MCP Server
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15870</span>
-						<span>🔱 5669</span>
+						<span>⭐ 17749</span>
+						<span>🔱 1397</span>
 					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PromtEngineer/localGPT" target="_blank">
-    
-
-
-      
-        PromtEngineer /
-
-      localGPT</a></p>
-				<p>
-      Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21626</span>
-						<span>🔱 2376</span>
-					</div>
-				<div class="stars-today">⭐ 250 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 120648</span>
-						<span>🔱 36291</span>
-					</div>
-				<div class="stars-today">⭐ 710 stars today</div>
+				<div class="stars-today">⭐ 239 stars today</div>
 				</div>
 			</div>
 	
@@ -270,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 32400</span>
+						<span>⭐ 32425</span>
 						<span>🔱 3380</span>
 					</div>
 				<div class="stars-today">⭐ 68 stars today</div>
@@ -278,24 +168,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nicklockwood/SwiftFormat" target="_blank">
+				<p><a href="https://github.com/bknd-io/bknd" target="_blank">
     
 
 
       
-        nicklockwood /
+        bknd-io /
 
-      SwiftFormat</a></p>
+      bknd</a></p>
 				<p>
-      A command-line tool and Xcode Extension for formatting Swift code
+      Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 8447</span>
-						<span>🔱 655</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2336</span>
+						<span>🔱 68</span>
 					</div>
-				<div class="stars-today">⭐ 5 stars today</div>
+				<div class="stars-today">⭐ 138 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mrdbourke/pytorch-deep-learning" target="_blank">
+    
+
+
+      
+        mrdbourke /
+
+      pytorch-deep-learning</a></p>
+				<p>
+      Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14479</span>
+						<span>🔱 4053</span>
+					</div>
+				<div class="stars-today">⭐ 43 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 120702</span>
+						<span>🔱 36303</span>
+					</div>
+				<div class="stars-today">⭐ 710 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
+    
+
+
+      
+        gitleaks /
+
+      gitleaks</a></p>
+				<p>
+      Find secrets with Gitleaks 🔑
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 22088</span>
+						<span>🔱 1704</span>
+					</div>
+				<div class="stars-today">⭐ 328 stars today</div>
 				</div>
 			</div>
 	
@@ -314,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 8386</span>
+						<span>⭐ 8394</span>
 						<span>🔱 700</span>
 					</div>
 				<div class="stars-today">⭐ 242 stars today</div>
@@ -322,24 +278,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pydantic/pydantic-ai" target="_blank">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
     
 
 
       
-        pydantic /
+        Lightricks /
 
-      pydantic-ai</a></p>
+      LTX-Video</a></p>
 				<p>
-      Agent Framework / shim to use Pydantic with LLMs
+      Official repository for LTX-Video
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11079</span>
-						<span>🔱 1049</span>
+						<span>⭐ 7331</span>
+						<span>🔱 632</span>
 					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
+				<div class="stars-today">⭐ 86 stars today</div>
 				</div>
 			</div>
 	
@@ -358,10 +314,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68307</span>
-						<span>🔱 8759</span>
+						<span>⭐ 68327</span>
+						<span>🔱 8760</span>
 					</div>
 				<div class="stars-today">⭐ 260 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/influxdata/telegraf" target="_blank">
+    
+
+
+      
+        influxdata /
+
+      telegraf</a></p>
+				<p>
+      Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15877</span>
+						<span>🔱 5669</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/actions/runner-images" target="_blank">
+    
+
+
+      
+        actions /
+
+      runner-images</a></p>
+				<p>
+      GitHub Actions runner images
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 11480</span>
+						<span>🔱 3404</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HotCakeX/Harden-Windows-Security" target="_blank">
+    
+
+
+      
+        HotCakeX /
+
+      Harden-Windows-Security</a></p>
+				<p>
+      Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 2699</span>
+						<span>🔱 219</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ikawrakow/ik_llama.cpp" target="_blank">
+    
+
+
+      
+        ikawrakow /
+
+      ik_llama.cpp</a></p>
+				<p>
+      llama.cpp fork with additional SOTA quants and improved performance
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 697</span>
+						<span>🔱 67</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	

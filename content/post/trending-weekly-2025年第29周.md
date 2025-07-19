@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第29周
-date: 2025-07-19T09:58:32Z
+date: 2025-07-19T11:58:49Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68183</span>
-						<span>🔱 3611</span>
+						<span>⭐ 68237</span>
+						<span>🔱 3617</span>
 					</div>
 				<div class="stars-today">⭐ 7369 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
-    
-
-
-      
-        gorhill /
-
-      uBlock</a></p>
-				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 56393</span>
-						<span>🔱 3596</span>
-					</div>
-				<div class="stars-today">⭐ 1317 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 24532</span>
-						<span>🔱 1336</span>
-					</div>
-				<div class="stars-today">⭐ 5616 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5914</span>
-						<span>🔱 444</span>
+						<span>⭐ 5940</span>
+						<span>🔱 448</span>
 					</div>
 				<div class="stars-today">⭐ 2409 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
     
 
 
       
-        Alibaba-NLP /
+        gorhill /
 
-      WebAgent</a></p>
+      uBlock</a></p>
 				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/pdf/2507.02592
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4624</span>
-						<span>🔱 346</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 56392</span>
+						<span>🔱 3596</span>
 					</div>
-				<div class="stars-today">⭐ 1061 stars this week</div>
+				<div class="stars-today">⭐ 1317 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,76 +96,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14207</span>
-						<span>🔱 1195</span>
+						<span>⭐ 14213</span>
+						<span>🔱 1196</span>
 					</div>
 				<div class="stars-today">⭐ 1672 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        anthropics /
 
-      OpenBB</a></p>
+      claude-code</a></p>
 				<p>
-      Investment Research for Everyone, Everywhere.
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43212</span>
-						<span>🔱 3869</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 24551</span>
+						<span>🔱 1339</span>
 					</div>
-				<div class="stars-today">⭐ 914 stars this week</div>
+				<div class="stars-today">⭐ 5616 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/snap-stanford/Biomni" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
     
 
 
       
-        snap-stanford /
+        langchain-ai /
 
-      Biomni</a></p>
-				<p>
-      Biomni: a general-purpose biomedical AI agent
-    </p>
+      open_deep_research</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1775</span>
-						<span>🔱 208</span>
+						<span>⭐ 5145</span>
+						<span>🔱 727</span>
 					</div>
-				<div class="stars-today">⭐ 532 stars this week</div>
+				<div class="stars-today">⭐ 647 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/open-telemetry/opentelemetry-go" target="_blank">
+				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
     
 
 
       
-        open-telemetry /
+        gitleaks /
 
-      opentelemetry-go</a></p>
+      gitleaks</a></p>
 				<p>
-      OpenTelemetry Go API and SDK
+      Find secrets with Gitleaks 🔑
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5973</span>
-						<span>🔱 1203</span>
+						<span>⭐ 22088</span>
+						<span>🔱 1704</span>
 					</div>
-				<div class="stars-today">⭐ 140 stars this week</div>
+				<div class="stars-today">⭐ 482 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/strapi/strapi" target="_blank">
+    
+
+
+      
+        strapi /
+
+      strapi</a></p>
+				<p>
+      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 68327</span>
+						<span>🔱 8760</span>
+					</div>
+				<div class="stars-today">⭐ 578 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29803</span>
+						<span>🔱 1335</span>
+					</div>
+				<div class="stars-today">⭐ 1163 stars this week</div>
 				</div>
 			</div>
 	
