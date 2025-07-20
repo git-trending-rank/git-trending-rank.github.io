@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-20
-date: 2025-07-20T09:58:51Z
+date: 2025-07-20T11:58:43Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+    
+
+
+      
+        srbhr /
+
+      Resume-Matcher</a></p>
+				<p>
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9445</span>
+						<span>🔱 3420</span>
+					</div>
+				<div class="stars-today">⭐ 199 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
@@ -30,118 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 27922</span>
-						<span>🔱 1180</span>
+						<span>⭐ 27951</span>
+						<span>🔱 1182</span>
 					</div>
 				<div class="stars-today">⭐ 214 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+				<p><a href="https://github.com/better-auth/better-auth" target="_blank">
     
 
 
       
-        langchain-ai /
+        better-auth /
 
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5373</span>
-						<span>🔱 754</span>
-					</div>
-				<div class="stars-today">⭐ 249 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bluenviron/mediamtx" target="_blank">
-    
-
-
-      
-        bluenviron /
-
-      mediamtx</a></p>
+      better-auth</a></p>
 				<p>
-      Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+      The most comprehensive authentication framework for TypeScript
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 15374</span>
-						<span>🔱 1867</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16597</span>
+						<span>🔱 1208</span>
 					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
-    
-
-
-      
-        shadps4-emu /
-
-      shadPS4</a></p>
-				<p>
-      PlayStation 4 emulator for Windows, Linux and macOS written in C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 24656</span>
-						<span>🔱 1588</span>
-					</div>
-				<div class="stars-today">⭐ 1054 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
-    
-
-
-      
-        soxoj /
-
-      maigret</a></p>
-				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16905</span>
-						<span>🔱 1141</span>
-					</div>
-				<div class="stars-today">⭐ 321 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/github-mcp-server" target="_blank">
-    
-
-
-      
-        github /
-
-      github-mcp-server</a></p>
-				<p>
-      GitHub's official MCP Server
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 18103</span>
-						<span>🔱 1438</span>
-					</div>
-				<div class="stars-today">⭐ 257 stars today</div>
+				<div class="stars-today">⭐ 48 stars today</div>
 				</div>
 			</div>
 	
@@ -160,10 +96,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 33057</span>
-						<span>🔱 3417</span>
+						<span>⭐ 33138</span>
+						<span>🔱 3422</span>
 					</div>
 				<div class="stars-today">⭐ 361 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+    
+
+
+      
+        maybe-finance /
+
+      maybe</a></p>
+				<p>
+      The personal finance app for everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 47141</span>
+						<span>🔱 3504</span>
+					</div>
+				<div class="stars-today">⭐ 567 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5114</span>
+						<span>🔱 767</span>
+					</div>
+				<div class="stars-today">⭐ 177 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      supervision</a></p>
+				<p>
+      We write your reusable computer vision tools. 💜
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27644</span>
+						<span>🔱 2163</span>
+					</div>
+				<div class="stars-today">⭐ 212 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
+    
+
+
+      
+        shadps4-emu /
+
+      shadPS4</a></p>
+				<p>
+      PlayStation 4 emulator for Windows, Linux and macOS written in C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 24694</span>
+						<span>🔱 1591</span>
+					</div>
+				<div class="stars-today">⭐ 1054 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5388</span>
+						<span>🔱 755</span>
+					</div>
+				<div class="stars-today">⭐ 249 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
+    
+
+
+      
+        tracel-ai /
+
+      burn</a></p>
+				<p>
+      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11714</span>
+						<span>🔱 626</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	
@@ -182,32 +248,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2656</span>
-						<span>🔱 77</span>
+						<span>⭐ 2674</span>
+						<span>🔱 80</span>
 					</div>
 				<div class="stars-today">⭐ 154 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mrdbourke/pytorch-deep-learning" target="_blank">
+				<p><a href="https://github.com/TheOdinProject/css-exercises" target="_blank">
     
 
 
       
-        mrdbourke /
+        TheOdinProject /
 
-      pytorch-deep-learning</a></p>
-				<p>
-      Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.
-    </p>
+      css-exercises</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14722</span>
-						<span>🔱 4064</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 1915</span>
+						<span>🔱 81960</span>
 					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
+				<div class="stars-today">⭐ 12 stars today</div>
 				</div>
 			</div>
 	
@@ -226,186 +290,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 121210</span>
-						<span>🔱 36428</span>
+						<span>⭐ 121262</span>
+						<span>🔱 36438</span>
 					</div>
 				<div class="stars-today">⭐ 695 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
+				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
     
 
 
       
-        gitleaks /
+        panaversity /
 
-      gitleaks</a></p>
+      learn-agentic-ai</a></p>
 				<p>
-      Find secrets with Gitleaks 🔑
+      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22238</span>
-						<span>🔱 1711</span>
-					</div>
-				<div class="stars-today">⭐ 232 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kyome22/RunCat365" target="_blank">
-    
-
-
-      
-        Kyome22 /
-
-      RunCat365</a></p>
-				<p>
-      A cute running cat animation on your windows taskbar.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 8492</span>
-						<span>🔱 706</span>
-					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      LTX-Video</a></p>
-				<p>
-      Official repository for LTX-Video
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7416</span>
-						<span>🔱 637</span>
-					</div>
-				<div class="stars-today">⭐ 144 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/strapi/strapi" target="_blank">
-    
-
-
-      
-        strapi /
-
-      strapi</a></p>
-				<p>
-      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 68496</span>
-						<span>🔱 8772</span>
-					</div>
-				<div class="stars-today">⭐ 236 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/influxdata/telegraf" target="_blank">
-    
-
-
-      
-        influxdata /
-
-      telegraf</a></p>
-				<p>
-      Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 15944</span>
-						<span>🔱 5675</span>
-					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actions/runner-images" target="_blank">
-    
-
-
-      
-        actions /
-
-      runner-images</a></p>
-				<p>
-      GitHub Actions runner images
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 11538</span>
-						<span>🔱 3407</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 3177</span>
+						<span>🔱 681</span>
 					</div>
 				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HotCakeX/Harden-Windows-Security" target="_blank">
+				<p><a href="https://github.com/topjohnwu/Magisk" target="_blank">
     
 
 
       
-        HotCakeX /
+        topjohnwu /
 
-      Harden-Windows-Security</a></p>
+      Magisk</a></p>
 				<p>
-      Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | Read The Rationale https://github.com/HotCakeX/Harden-Windows-Security/blob/main/Rationale.md
+      The Magic Mask for Android
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 2812</span>
-						<span>🔱 223</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 54463</span>
+						<span>🔱 14345</span>
 					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ikawrakow/ik_llama.cpp" target="_blank">
-    
-
-
-      
-        ikawrakow /
-
-      ik_llama.cpp</a></p>
-				<p>
-      llama.cpp fork with additional SOTA quants and improved performance
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 752</span>
-						<span>🔱 71</span>
-					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第29周
-date: 2025-07-20T09:58:50Z
+date: 2025-07-20T11:58:43Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68444</span>
-						<span>🔱 3638</span>
+						<span>⭐ 68467</span>
+						<span>🔱 3640</span>
 					</div>
 				<div class="stars-today">⭐ 8235 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6192</span>
+						<span>⭐ 6217</span>
 						<span>🔱 461</span>
 					</div>
 				<div class="stars-today">⭐ 2600 stars this week</div>
@@ -60,24 +60,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
     
 
 
       
-        gorhill /
+        langchain-ai /
 
-      uBlock</a></p>
-				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    </p>
+      open_deep_research</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 56443</span>
-						<span>🔱 3603</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5388</span>
+						<span>🔱 755</span>
 					</div>
-				<div class="stars-today">⭐ 1142 stars this week</div>
+				<div class="stars-today">⭐ 886 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +94,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14294</span>
+						<span>⭐ 14301</span>
 						<span>🔱 1198</span>
 					</div>
 				<div class="stars-today">⭐ 1647 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+    
+
+
+      
+        gorhill /
+
+      uBlock</a></p>
+				<p>
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 56451</span>
+						<span>🔱 3602</span>
+					</div>
+				<div class="stars-today">⭐ 1142 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+    
+
+
+      
+        maybe-finance /
+
+      maybe</a></p>
+				<p>
+      The personal finance app for everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 47141</span>
+						<span>🔱 3504</span>
+					</div>
+				<div class="stars-today">⭐ 2156 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,30 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 24713</span>
-						<span>🔱 1357</span>
+						<span>⭐ 24730</span>
+						<span>🔱 1360</span>
 					</div>
 				<div class="stars-today">⭐ 5628 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5373</span>
-						<span>🔱 754</span>
-					</div>
-				<div class="stars-today">⭐ 886 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22238</span>
-						<span>🔱 1711</span>
+						<span>⭐ 22246</span>
+						<span>🔱 1712</span>
 					</div>
 				<div class="stars-today">⭐ 676 stars this week</div>
 				</div>
@@ -182,32 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68496</span>
-						<span>🔱 8772</span>
+						<span>⭐ 68508</span>
+						<span>🔱 8774</span>
 					</div>
 				<div class="stars-today">⭐ 775 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
     
 
 
       
-        RSSNext /
+        hyprwm /
 
-      Folo</a></p>
+      Hyprland</a></p>
 				<p>
-      🧡 Follow everything in one place
+      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29873</span>
-						<span>🔱 1338</span>
+						<span>🔠 C++</span>
+						<span>⭐ 27951</span>
+						<span>🔱 1182</span>
 					</div>
-				<div class="stars-today">⭐ 1090 stars this week</div>
+				<div class="stars-today">⭐ 604 stars this week</div>
 				</div>
 			</div>
 	
