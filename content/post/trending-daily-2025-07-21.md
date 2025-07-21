@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-21
-date: 2025-07-21T09:59:18Z
+date: 2025-07-21T11:58:33Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,88 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
     
 
 
       
-        srbhr /
+        maybe-finance /
 
-      Resume-Matcher</a></p>
+      maybe</a></p>
 				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+      The personal finance app for everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 48272</span>
+						<span>🔱 3579</span>
+					</div>
+				<div class="stars-today">⭐ 2033 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank">
+    
+
+
+      
+        ChatGPTNextWeb /
+
+      NextChat</a></p>
+				<p>
+      ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11794</span>
-						<span>🔱 3585</span>
+						<span>⭐ 84320</span>
+						<span>🔱 61059</span>
 					</div>
-				<div class="stars-today">⭐ 281 stars today</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
+    
+
+
+      
+        hesreallyhim /
+
+      awesome-claude-code</a></p>
+				<p>
+      A curated list of awesome commands, files, and workflows for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4958</span>
+						<span>🔱 263</span>
+					</div>
+				<div class="stars-today">⭐ 322 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5701</span>
+						<span>🔱 787</span>
+					</div>
+				<div class="stars-today">⭐ 249 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +116,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28184</span>
-						<span>🔱 1192</span>
+						<span>⭐ 28209</span>
+						<span>🔱 1194</span>
 					</div>
 				<div class="stars-today">⭐ 674 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 311923</span>
+						<span>🔱 51304</span>
+					</div>
+				<div class="stars-today">⭐ 154 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+    
+
+
+      
+        unclecode /
+
+      crawl4ai</a></p>
+				<p>
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48620</span>
+						<span>🔱 4718</span>
+					</div>
+				<div class="stars-today">⭐ 279 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lissy93/dashy" target="_blank">
+    
+
+
+      
+        Lissy93 /
+
+      dashy</a></p>
+				<p>
+      🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 21584</span>
+						<span>🔱 1588</span>
+					</div>
+				<div class="stars-today">⭐ 104 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 31328</span>
+						<span>🔱 9083</span>
+					</div>
+				<div class="stars-today">⭐ 212 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +226,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16958</span>
-						<span>🔱 1226</span>
+						<span>⭐ 16978</span>
+						<span>🔱 1227</span>
 					</div>
 				<div class="stars-today">⭐ 77 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
+    
+
+
+      
+        C4illin /
+
+      ConvertX</a></p>
+				<p>
+      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3922</span>
+						<span>🔱 155</span>
+					</div>
+				<div class="stars-today">⭐ 657 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+    
+
+
+      
+        srbhr /
+
+      Resume-Matcher</a></p>
+				<p>
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11890</span>
+						<span>🔱 3592</span>
+					</div>
+				<div class="stars-today">⭐ 281 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bluenviron/mediamtx" target="_blank">
+    
+
+
+      
+        bluenviron /
+
+      mediamtx</a></p>
+				<p>
+      Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15426</span>
+						<span>🔱 1869</span>
+					</div>
+				<div class="stars-today">⭐ 195 stars today</div>
 				</div>
 			</div>
 	
@@ -96,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 34160</span>
-						<span>🔱 3468</span>
+						<span>⭐ 34220</span>
+						<span>🔱 3471</span>
 					</div>
 				<div class="stars-today">⭐ 737 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
-    
-
-
-      
-        maybe-finance /
-
-      maybe</a></p>
-				<p>
-      The personal finance app for everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 48112</span>
-						<span>🔱 3570</span>
-					</div>
-				<div class="stars-today">⭐ 2033 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +336,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5495</span>
-						<span>🔱 788</span>
+						<span>⭐ 5512</span>
+						<span>🔱 790</span>
 					</div>
 				<div class="stars-today">⭐ 207 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Worklenz/worklenz" target="_blank">
+    
+
+
+      
+        Worklenz /
+
+      worklenz</a></p>
+				<p>
+      All in one project management tool for efficient teams
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2348</span>
+						<span>🔱 187</span>
+					</div>
+				<div class="stars-today">⭐ 117 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mishushakov/llm-scraper" target="_blank">
+    
+
+
+      
+        mishushakov /
+
+      llm-scraper</a></p>
+				<p>
+      Turn any webpage into structured data using LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5570</span>
+						<span>🔱 330</span>
+					</div>
+				<div class="stars-today">⭐ 131 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Freika/dawarich" target="_blank">
+    
+
+
+      
+        Freika /
+
+      dawarich</a></p>
+				<p>
+      Self-hostable alternative to Google Location History (Google Maps Timeline)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 5672</span>
+						<span>🔱 164</span>
+					</div>
+				<div class="stars-today">⭐ 68 stars today</div>
 				</div>
 			</div>
 	
@@ -162,182 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28467</span>
-						<span>🔱 2231</span>
+						<span>⭐ 28540</span>
+						<span>🔱 2240</span>
 					</div>
 				<div class="stars-today">⭐ 211 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
-    
-
-
-      
-        shadps4-emu /
-
-      shadPS4</a></p>
-				<p>
-      PlayStation 4 emulator for Windows, Linux and macOS written in C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 24965</span>
-						<span>🔱 1603</span>
-					</div>
-				<div class="stars-today">⭐ 572 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5673</span>
-						<span>🔱 783</span>
-					</div>
-				<div class="stars-today">⭐ 249 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
-    
-
-
-      
-        tracel-ai /
-
-      burn</a></p>
-				<p>
-      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11932</span>
-						<span>🔱 636</span>
-					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bknd-io/bknd" target="_blank">
-    
-
-
-      
-        bknd-io /
-
-      bknd</a></p>
-				<p>
-      Lightweight Firebase/Supabase alternative built to run anywhere — incl. Next.js, Remix, Astro, Cloudflare, Bun, Node, AWS Lambda & more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2957</span>
-						<span>🔱 93</span>
-					</div>
-				<div class="stars-today">⭐ 341 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheOdinProject/css-exercises" target="_blank">
-    
-
-
-      
-        TheOdinProject /
-
-      css-exercises</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 2018</span>
-						<span>🔱 82009</span>
-					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 121878</span>
-						<span>🔱 36596</span>
-					</div>
-				<div class="stars-today">⭐ 581 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/panaversity/learn-agentic-ai" target="_blank">
-    
-
-
-      
-        panaversity /
-
-      learn-agentic-ai</a></p>
-				<p>
-      Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 3365</span>
-						<span>🔱 694</span>
-					</div>
-				<div class="stars-today">⭐ 20 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topjohnwu/Magisk" target="_blank">
-    
-
-
-      
-        topjohnwu /
-
-      Magisk</a></p>
-				<p>
-      The Magic Mask for Android
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 54585</span>
-						<span>🔱 14364</span>
-					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
 				</div>
 			</div>
 	

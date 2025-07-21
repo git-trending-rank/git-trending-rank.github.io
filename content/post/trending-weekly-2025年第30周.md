@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第30周
-date: 2025-07-21T09:59:17Z
+date: 2025-07-21T11:58:33Z
 categories:
 - weekly
 keywords:
@@ -30,96 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68707</span>
-						<span>🔱 3657</span>
+						<span>⭐ 68726</span>
+						<span>🔱 3660</span>
 					</div>
 				<div class="stars-today">⭐ 8396 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
     
 
 
       
-        musistudio /
+        srbhr /
 
-      claude-code-router</a></p>
+      Resume-Matcher</a></p>
 				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6461</span>
-						<span>🔱 486</span>
+						<span>⭐ 11890</span>
+						<span>🔱 3592</span>
 					</div>
-				<div class="stars-today">⭐ 2770 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5673</span>
-						<span>🔱 783</span>
-					</div>
-				<div class="stars-today">⭐ 1120 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14409</span>
-						<span>🔱 1209</span>
-					</div>
-				<div class="stars-today">⭐ 1493 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
-    
-
-
-      
-        gorhill /
-
-      uBlock</a></p>
-				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 56533</span>
-						<span>🔱 3605</span>
-					</div>
-				<div class="stars-today">⭐ 952 stars this week</div>
+				<div class="stars-today">⭐ 799 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,32 +74,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 48112</span>
-						<span>🔱 3570</span>
+						<span>⭐ 48272</span>
+						<span>🔱 3579</span>
 					</div>
 				<div class="stars-today">⭐ 2455 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
     
 
 
       
-        anthropics /
+        langchain-ai /
 
-      claude-code</a></p>
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5701</span>
+						<span>🔱 787</span>
+					</div>
+				<div class="stars-today">⭐ 1120 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 24966</span>
-						<span>🔱 1364</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6478</span>
+						<span>🔱 487</span>
 					</div>
-				<div class="stars-today">⭐ 5270 stars this week</div>
+				<div class="stars-today">⭐ 2770 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14424</span>
+						<span>🔱 1211</span>
+					</div>
+				<div class="stars-today">⭐ 1493 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22308</span>
+						<span>⭐ 22318</span>
 						<span>🔱 1714</span>
 					</div>
 				<div class="stars-today">⭐ 833 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/strapi/strapi" target="_blank">
-    
-
-
-      
-        strapi /
-
-      strapi</a></p>
-				<p>
-      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 68568</span>
-						<span>🔱 8779</span>
-					</div>
-				<div class="stars-today">⭐ 940 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,10 +182,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28184</span>
-						<span>🔱 1192</span>
+						<span>⭐ 28209</span>
+						<span>🔱 1194</span>
 					</div>
 				<div class="stars-today">⭐ 1143 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+    
+
+
+      
+        gorhill /
+
+      uBlock</a></p>
+				<p>
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 56538</span>
+						<span>🔱 3605</span>
+					</div>
+				<div class="stars-today">⭐ 952 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/strapi/strapi" target="_blank">
+    
+
+
+      
+        strapi /
+
+      strapi</a></p>
+				<p>
+      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 68571</span>
+						<span>🔱 8780</span>
+					</div>
+				<div class="stars-today">⭐ 940 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 24982</span>
+						<span>🔱 1368</span>
+					</div>
+				<div class="stars-today">⭐ 5270 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 423790</span>
+						<span>🔱 40900</span>
+					</div>
+				<div class="stars-today">⭐ 996 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
+    
+
+
+      
+        vanna-ai /
+
+      vanna</a></p>
+				<p>
+      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19442</span>
+						<span>🔱 1766</span>
+					</div>
+				<div class="stars-today">⭐ 858 stars this week</div>
 				</div>
 			</div>
 	

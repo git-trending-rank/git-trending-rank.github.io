@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-21T09:59:18Z
+date: 2025-07-21T11:58:33Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32847</span>
-						<span>🔱 7849</span>
+						<span>⭐ 32868</span>
+						<span>🔱 7852</span>
 					</div>
 				<div class="stars-today">⭐ 9203 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4774</span>
-						<span>🔱 354</span>
+						<span>⭐ 4778</span>
+						<span>🔱 355</span>
 					</div>
 				<div class="stars-today">⭐ 3660 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7426</span>
-						<span>🔱 547</span>
+						<span>⭐ 7453</span>
+						<span>🔱 549</span>
 					</div>
 				<div class="stars-today">⭐ 5910 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9783</span>
-						<span>🔱 631</span>
+						<span>⭐ 9794</span>
+						<span>🔱 632</span>
 					</div>
 				<div class="stars-today">⭐ 5260 stars this month</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19630</span>
+						<span>⭐ 19633</span>
 						<span>🔱 816</span>
 					</div>
 				<div class="stars-today">⭐ 6585 stars this month</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34233</span>
+						<span>⭐ 34236</span>
 						<span>🔱 3843</span>
 					</div>
 				<div class="stars-today">⭐ 5984 stars this month</div>
@@ -162,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 24966</span>
-						<span>🔱 1364</span>
+						<span>⭐ 24982</span>
+						<span>🔱 1368</span>
 					</div>
 				<div class="stars-today">⭐ 10940 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
-    
-
-
-      
-        GyulyVGC /
-
-      sniffnet</a></p>
-				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29020</span>
-						<span>🔱 963</span>
-					</div>
-				<div class="stars-today">⭐ 4505 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12377</span>
-						<span>🔱 910</span>
-					</div>
-				<div class="stars-today">⭐ 8534 stars this month</div>
 				</div>
 			</div>
 	
@@ -229,7 +185,7 @@ keywords:
 					<div>
 						<span>🔠 Kotlin</span>
 						<span>⭐ 2221</span>
-						<span>🔱 177</span>
+						<span>🔱 178</span>
 					</div>
 				<div class="stars-today">⭐ 1743 stars this month</div>
 				</div>
@@ -250,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 75162</span>
-						<span>🔱 16610</span>
+						<span>⭐ 75169</span>
+						<span>🔱 16611</span>
 					</div>
 				<div class="stars-today">⭐ 2463 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
     
 
 
       
-        DrKLO /
+        datawhalechina /
 
-      Telegram</a></p>
+      happy-llm</a></p>
 				<p>
-      Telegram for Android source
+      📚 从零开始的大语言模型原理与实践教程
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 27207</span>
-						<span>🔱 8816</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 12387</span>
+						<span>🔱 911</span>
 					</div>
-				<div class="stars-today">⭐ 981 stars this month</div>
+				<div class="stars-today">⭐ 8534 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5122</span>
-						<span>🔱 422</span>
+						<span>⭐ 5137</span>
+						<span>🔱 423</span>
 					</div>
 				<div class="stars-today">⭐ 3811 stars this month</div>
 				</div>
@@ -316,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3532</span>
-						<span>🔱 615</span>
+						<span>⭐ 3537</span>
+						<span>🔱 618</span>
 					</div>
 				<div class="stars-today">⭐ 1725 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrKLO/Telegram" target="_blank">
+    
+
+
+      
+        DrKLO /
+
+      Telegram</a></p>
+				<p>
+      Telegram for Android source
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 27208</span>
+						<span>🔱 8816</span>
+					</div>
+				<div class="stars-today">⭐ 981 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26863</span>
-						<span>🔱 2416</span>
+						<span>⭐ 26865</span>
+						<span>🔱 2417</span>
 					</div>
 				<div class="stars-today">⭐ 2299 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+    
+
+
+      
+        maybe-finance /
+
+      maybe</a></p>
+				<p>
+      The personal finance app for everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 48272</span>
+						<span>🔱 3579</span>
+					</div>
+				<div class="stars-today">⭐ 3124 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29915</span>
+						<span>🔱 1340</span>
+					</div>
+				<div class="stars-today">⭐ 3288 stars this month</div>
 				</div>
 			</div>
 	
