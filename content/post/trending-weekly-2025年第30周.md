@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第30周
-date: 2025-07-22T09:58:41Z
+date: 2025-07-22T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68891</span>
+						<span>⭐ 68899</span>
 						<span>🔱 3672</span>
 					</div>
 				<div class="stars-today">⭐ 8036 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
-    
-
-
-      
-        srbhr /
-
-      Resume-Matcher</a></p>
-				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12567</span>
-						<span>🔱 3648</span>
-					</div>
-				<div class="stars-today">⭐ 2876 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 50149</span>
-						<span>🔱 3686</span>
+						<span>⭐ 50232</span>
+						<span>🔱 3696</span>
 					</div>
 				<div class="stars-today">⭐ 3618 stars this week</div>
 				</div>
@@ -94,76 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5970</span>
-						<span>🔱 808</span>
+						<span>⭐ 5985</span>
+						<span>🔱 811</span>
 					</div>
 				<div class="stars-today">⭐ 1401 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6665</span>
-						<span>🔱 498</span>
-					</div>
-				<div class="stars-today">⭐ 2655 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14639</span>
-						<span>🔱 1230</span>
-					</div>
-				<div class="stars-today">⭐ 1313 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
-    
-
-
-      
-        gitleaks /
-
-      gitleaks</a></p>
-				<p>
-      Find secrets with Gitleaks 🔑
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22410</span>
-						<span>🔱 1719</span>
-					</div>
-				<div class="stars-today">⭐ 886 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28404</span>
+						<span>⭐ 28424</span>
 						<span>🔱 1200</span>
 					</div>
 				<div class="stars-today">⭐ 1372 stars this week</div>
@@ -190,24 +102,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
     
 
 
       
-        gorhill /
+        musistudio /
 
-      uBlock</a></p>
+      claude-code-router</a></p>
 				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 56609</span>
-						<span>🔱 3610</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6673</span>
+						<span>🔱 498</span>
 					</div>
-				<div class="stars-today">⭐ 743 stars this week</div>
+				<div class="stars-today">⭐ 2655 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
+    
+
+
+      
+        gitleaks /
+
+      gitleaks</a></p>
+				<p>
+      Find secrets with Gitleaks 🔑
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 22414</span>
+						<span>🔱 1719</span>
+					</div>
+				<div class="stars-today">⭐ 886 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14657</span>
+						<span>🔱 1231</span>
+					</div>
+				<div class="stars-today">⭐ 1313 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/segment-anything" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      segment-anything</a></p>
+				<p>
+      The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 51219</span>
+						<span>🔱 6003</span>
+					</div>
+				<div class="stars-today">⭐ 409 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
+    
+
+
+      
+        vanna-ai /
+
+      vanna</a></p>
+				<p>
+      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19516</span>
+						<span>🔱 1772</span>
+					</div>
+				<div class="stars-today">⭐ 817 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+    
+
+
+      
+        Lightricks /
+
+      LTX-Video</a></p>
+				<p>
+      Official repository for LTX-Video
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7486</span>
+						<span>🔱 652</span>
+					</div>
+				<div class="stars-today">⭐ 467 stars this week</div>
 				</div>
 			</div>
 	
@@ -234,68 +256,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/actions/runner-images" target="_blank">
     
 
 
       
-        anthropics /
+        actions /
 
-      claude-code</a></p>
+      runner-images</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      GitHub Actions runner images
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 25183</span>
-						<span>🔱 1383</span>
+						<span>⭐ 11554</span>
+						<span>🔱 3407</span>
 					</div>
-				<div class="stars-today">⭐ 3691 stars this week</div>
+				<div class="stars-today">⭐ 99 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
     
 
 
       
-        freeCodeCamp /
+        lastmile-ai /
 
-      freeCodeCamp</a></p>
+      mcp-agent</a></p>
 				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 423940</span>
-						<span>🔱 40909</span>
-					</div>
-				<div class="stars-today">⭐ 1017 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
-    
-
-
-      
-        vanna-ai /
-
-      vanna</a></p>
-				<p>
-      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+      Build effective agents using Model Context Protocol and simple workflow patterns
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19508</span>
-						<span>🔱 1770</span>
+						<span>⭐ 6726</span>
+						<span>🔱 668</span>
 					</div>
-				<div class="stars-today">⭐ 817 stars this week</div>
+				<div class="stars-today">⭐ 452 stars this week</div>
 				</div>
 			</div>
 	
