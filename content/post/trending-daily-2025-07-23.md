@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-23
-date: 2025-07-23T09:59:26Z
+date: 2025-07-23T11:58:40Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15183</span>
-						<span>🔱 3803</span>
+						<span>⭐ 15395</span>
+						<span>🔱 3816</span>
 					</div>
 				<div class="stars-today">⭐ 964 stars today</div>
 				</div>
@@ -52,76 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 50681</span>
-						<span>🔱 3753</span>
+						<span>⭐ 50783</span>
+						<span>🔱 3760</span>
 					</div>
 				<div class="stars-today">⭐ 1930 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        roboflow /
+        OpenBB-finance /
 
-      supervision</a></p>
+      OpenBB</a></p>
 				<p>
-      We write your reusable computer vision tools. 💜
+      Investment Research for Everyone, Everywhere.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29640</span>
-						<span>🔱 2326</span>
+						<span>⭐ 44543</span>
+						<span>🔱 4024</span>
 					</div>
-				<div class="stars-today">⭐ 676 stars today</div>
+				<div class="stars-today">⭐ 495 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
+				<p><a href="https://github.com/moby/moby" target="_blank">
     
 
 
       
-        unclecode /
+        moby /
 
-      crawl4ai</a></p>
+      moby</a></p>
 				<p>
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+      The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49359</span>
-						<span>🔱 4776</span>
+						<span>🔠 Go</span>
+						<span>⭐ 70131</span>
+						<span>🔱 18779</span>
 					</div>
-				<div class="stars-today">⭐ 426 stars today</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
     
 
 
       
-        ChatGPTNextWeb /
+        juspay /
 
-      NextChat</a></p>
+      hyperswitch</a></p>
 				<p>
-      ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 84944</span>
-						<span>🔱 61105</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 22233</span>
+						<span>🔱 3879</span>
 					</div>
-				<div class="stars-today">⭐ 430 stars today</div>
+				<div class="stars-today">⭐ 231 stars today</div>
 				</div>
 			</div>
 	
@@ -140,98 +140,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 35953</span>
-						<span>🔱 3549</span>
+						<span>⭐ 35993</span>
+						<span>🔱 3551</span>
 					</div>
 				<div class="stars-today">⭐ 1160 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/better-auth/better-auth" target="_blank">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
     
 
 
       
-        better-auth /
+        donnemartin /
 
-      better-auth</a></p>
+      system-design-primer</a></p>
 				<p>
-      The most comprehensive authentication framework for TypeScript
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17560</span>
-						<span>🔱 1253</span>
-					</div>
-				<div class="stars-today">⭐ 336 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nn-zero-to-hero" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nn-zero-to-hero</a></p>
-				<p>
-      Neural Networks: Zero to Hero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14976</span>
-						<span>🔱 2104</span>
-					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fujiapple852/trippy" target="_blank">
-    
-
-
-      
-        fujiapple852 /
-
-      trippy</a></p>
-				<p>
-      A network diagnostic tool 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5435</span>
-						<span>🔱 141</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p1ngul1n0/blackbird" target="_blank">
-    
-
-
-      
-        p1ngul1n0 /
-
-      blackbird</a></p>
-				<p>
-      An OSINT tool to search for accounts by username and email in social networks.
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4197</span>
-						<span>🔱 491</span>
+						<span>⭐ 312445</span>
+						<span>🔱 51363</span>
+					</div>
+				<div class="stars-today">⭐ 309 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      supervision</a></p>
+				<p>
+      We write your reusable computer vision tools. 💜
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29668</span>
+						<span>🔱 2326</span>
+					</div>
+				<div class="stars-today">⭐ 676 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
+    
+
+
+      
+        zephyrproject-rtos /
+
+      zephyr</a></p>
+				<p>
+      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 12531</span>
+						<span>🔱 7676</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 31844</span>
+						<span>🔱 9276</span>
+					</div>
+				<div class="stars-today">⭐ 338 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frappe/hrms" target="_blank">
+    
+
+
+      
+        frappe /
+
+      hrms</a></p>
+				<p>
+      Open Source HR and Payroll Software
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2968</span>
+						<span>🔱 1263</span>
 					</div>
 				<div class="stars-today">⭐ 119 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Sjj1024/PakePlus" target="_blank">
+    
+
+
+      
+        Sjj1024 /
+
+      PakePlus</a></p>
+				<p>
+      Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 4749</span>
+						<span>🔱 3251</span>
+					</div>
+				<div class="stars-today">⭐ 225 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32713</span>
+						<span>🔱 4059</span>
+					</div>
+				<div class="stars-today">⭐ 99 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jj-vcs/jj" target="_blank">
+    
+
+
+      
+        jj-vcs /
+
+      jj</a></p>
+				<p>
+      A Git-compatible VCS that is both simple and powerful
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17851</span>
+						<span>🔱 592</span>
+					</div>
+				<div class="stars-today">⭐ 138 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steven2358/awesome-generative-ai" target="_blank">
+    
+
+
+      
+        steven2358 /
+
+      awesome-generative-ai</a></p>
+				<p>
+      A curated list of modern Generative Artificial Intelligence projects and services
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 8963</span>
+						<span>🔱 1014</span>
+					</div>
+				<div class="stars-today">⭐ 35 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 22774</span>
+						<span>🔱 1543</span>
+					</div>
+				<div class="stars-today">⭐ 42 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yuaotian/go-cursor-help" target="_blank">
+    
+
+
+      
+        yuaotian /
+
+      go-cursor-help</a></p>
+				<p>
+      解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 23709</span>
+						<span>🔱 2879</span>
+					</div>
+				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	
@@ -250,184 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5655</span>
-						<span>🔱 229</span>
+						<span>⭐ 5718</span>
+						<span>🔱 231</span>
 					</div>
 				<div class="stars-today">⭐ 1066 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheOdinProject/css-exercises" target="_blank">
-    
-
-
-      
-        TheOdinProject /
-
-      css-exercises</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 2115</span>
-						<span>🔱 82159</span>
-					</div>
-				<div class="stars-today">⭐ 22 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6011</span>
-						<span>🔱 303</span>
-					</div>
-				<div class="stars-today">⭐ 681 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
-    
-
-
-      
-        HandsOnLLM /
-
-      Hands-On-Large-Language-Models</a></p>
-				<p>
-      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12975</span>
-						<span>🔱 3007</span>
-					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
-    
-
-
-      
-        tracel-ai /
-
-      burn</a></p>
-				<p>
-      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12136</span>
-						<span>🔱 642</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
-    
-
-
-      
-        hyprwm /
-
-      Hyprland</a></p>
-				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 28604</span>
-						<span>🔱 1206</span>
-					</div>
-				<div class="stars-today">⭐ 219 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ankitects/anki" target="_blank">
-    
-
-
-      
-        ankitects /
-
-      anki</a></p>
-				<p>
-      Anki is a smart spaced repetition flashcard program
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22712</span>
-						<span>🔱 2417</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/OmniParser" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      OmniParser</a></p>
-				<p>
-      A simple screen parsing tool towards pure vision based GUI agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 22873</span>
-						<span>🔱 1926</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6023</span>
-						<span>🔱 824</span>
-					</div>
-				<div class="stars-today">⭐ 286 stars today</div>
 				</div>
 			</div>
 	

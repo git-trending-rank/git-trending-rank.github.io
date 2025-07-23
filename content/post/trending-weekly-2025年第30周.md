@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第30周
-date: 2025-07-23T09:59:26Z
+date: 2025-07-23T11:58:39Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69010</span>
-						<span>🔱 3678</span>
-					</div>
-				<div class="stars-today">⭐ 7091 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 50681</span>
-						<span>🔱 3753</span>
+						<span>⭐ 50783</span>
+						<span>🔱 3760</span>
 					</div>
 				<div class="stars-today">⭐ 5414 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 69021</span>
+						<span>🔱 3681</span>
+					</div>
+				<div class="stars-today">⭐ 7091 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6085</span>
-						<span>🔱 825</span>
+						<span>⭐ 6088</span>
+						<span>🔱 826</span>
 					</div>
 				<div class="stars-today">⭐ 1664 stars this week</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28604</span>
-						<span>🔱 1206</span>
+						<span>⭐ 28618</span>
+						<span>🔱 1205</span>
 					</div>
 				<div class="stars-today">⭐ 1560 stars this week</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6991</span>
-						<span>🔱 514</span>
+						<span>⭐ 7015</span>
+						<span>🔱 515</span>
 					</div>
 				<div class="stars-today">⭐ 2328 stars this week</div>
 				</div>
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22462</span>
+						<span>⭐ 22464</span>
 						<span>🔱 1723</span>
 					</div>
 				<div class="stars-today">⭐ 968 stars this week</div>
@@ -160,54 +160,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14825</span>
-						<span>🔱 1244</span>
+						<span>⭐ 14837</span>
+						<span>🔱 1245</span>
 					</div>
 				<div class="stars-today">⭐ 1246 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/segment-anything" target="_blank">
+				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
     
 
 
       
-        facebookresearch /
+        sherlock-project /
 
-      segment-anything</a></p>
+      sherlock</a></p>
 				<p>
-      The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51241</span>
-						<span>🔱 6004</span>
-					</div>
-				<div class="stars-today">⭐ 404 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
-    
-
-
-      
-        vanna-ai /
-
-      vanna</a></p>
-				<p>
-      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+      Hunt down social media accounts by username across social networks
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19565</span>
-						<span>🔱 1774</span>
+						<span>⭐ 67141</span>
+						<span>🔱 7714</span>
 					</div>
-				<div class="stars-today">⭐ 838 stars this week</div>
+				<div class="stars-today">⭐ 501 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
+    
+
+
+      
+        hesreallyhim /
+
+      awesome-claude-code</a></p>
+				<p>
+      A curated list of awesome commands, files, and workflows for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6033</span>
+						<span>🔱 304</span>
+					</div>
+				<div class="stars-today">⭐ 1805 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,76 +226,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7526</span>
-						<span>🔱 655</span>
+						<span>⭐ 7528</span>
+						<span>🔱 656</span>
 					</div>
 				<div class="stars-today">⭐ 482 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/strapi/strapi" target="_blank">
+				<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank">
     
 
 
       
-        strapi /
+        ChatGPTNextWeb /
 
-      strapi</a></p>
+      NextChat</a></p>
 				<p>
-      🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
+      ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68696</span>
-						<span>🔱 8786</span>
+						<span>⭐ 84959</span>
+						<span>🔱 61106</span>
 					</div>
-				<div class="stars-today">⭐ 1045 stars this week</div>
+				<div class="stars-today">⭐ 656 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/actions/runner-images" target="_blank">
+				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
     
 
 
       
-        actions /
+        OpenPipe /
 
-      runner-images</a></p>
+      ART</a></p>
 				<p>
-      GitHub Actions runner images
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 11563</span>
-						<span>🔱 3407</span>
-					</div>
-				<div class="stars-today">⭐ 105 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lastmile-ai/mcp-agent" target="_blank">
-    
-
-
-      
-        lastmile-ai /
-
-      mcp-agent</a></p>
-				<p>
-      Build effective agents using Model Context Protocol and simple workflow patterns
+      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6763</span>
-						<span>🔱 667</span>
+						<span>⭐ 3459</span>
+						<span>🔱 205</span>
 					</div>
-				<div class="stars-today">⭐ 474 stars this week</div>
+				<div class="stars-today">⭐ 1268 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/segment-anything" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      segment-anything</a></p>
+				<p>
+      The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 51244</span>
+						<span>🔱 6004</span>
+					</div>
+				<div class="stars-today">⭐ 404 stars this week</div>
 				</div>
 			</div>
 	

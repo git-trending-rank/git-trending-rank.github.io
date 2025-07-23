@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-23T09:59:26Z
+date: 2025-07-23T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33230</span>
-						<span>🔱 7907</span>
+						<span>⭐ 33248</span>
+						<span>🔱 7910</span>
 					</div>
 				<div class="stars-today">⭐ 9590 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4902</span>
+						<span>⭐ 4907</span>
 						<span>🔱 365</span>
 					</div>
 				<div class="stars-today">⭐ 3814 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7645</span>
+						<span>⭐ 7654</span>
 						<span>🔱 557</span>
 					</div>
 				<div class="stars-today">⭐ 6154 stars this month</div>
@@ -96,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10034</span>
-						<span>🔱 654</span>
+						<span>⭐ 10047</span>
+						<span>🔱 655</span>
 					</div>
 				<div class="stars-today">⭐ 5519 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7015</span>
+						<span>🔱 515</span>
+					</div>
+				<div class="stars-today">⭐ 5869 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+    
+
+
+      
+        maybe-finance /
+
+      maybe</a></p>
+				<p>
+      The personal finance app for everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 50783</span>
+						<span>🔱 3760</span>
+					</div>
+				<div class="stars-today">⭐ 5760 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19749</span>
+						<span>⭐ 19757</span>
 						<span>🔱 816</span>
 					</div>
 				<div class="stars-today">⭐ 6641 stars this month</div>
@@ -140,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34316</span>
-						<span>🔱 3855</span>
+						<span>⭐ 34324</span>
+						<span>🔱 3857</span>
 					</div>
 				<div class="stars-today">⭐ 6075 stars this month</div>
 				</div>
@@ -162,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 25446</span>
+						<span>⭐ 25472</span>
 						<span>🔱 1390</span>
 					</div>
 				<div class="stars-today">⭐ 11047 stars this month</div>
@@ -184,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29202</span>
-						<span>🔱 971</span>
+						<span>⭐ 29205</span>
+						<span>🔱 970</span>
 					</div>
 				<div class="stars-today">⭐ 4734 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
-    
-
-
-      
-        maybe-finance /
-
-      maybe</a></p>
-				<p>
-      The personal finance app for everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 50681</span>
-						<span>🔱 3753</span>
-					</div>
-				<div class="stars-today">⭐ 5760 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 75320</span>
-						<span>🔱 16649</span>
+						<span>⭐ 75326</span>
+						<span>🔱 16650</span>
 					</div>
 				<div class="stars-today">⭐ 2602 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/embabel/embabel-agent" target="_blank">
-    
-
-
-      
-        embabel /
-
-      embabel-agent</a></p>
-				<p>
-      Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 2256</span>
-						<span>🔱 178</span>
-					</div>
-				<div class="stars-today">⭐ 1766 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12717</span>
+						<span>⭐ 12730</span>
 						<span>🔱 945</span>
 					</div>
 				<div class="stars-today">⭐ 8775 stars this month</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5353</span>
-						<span>🔱 448</span>
+						<span>⭐ 5361</span>
+						<span>🔱 450</span>
 					</div>
 				<div class="stars-today">⭐ 4003 stars this month</div>
 				</div>
@@ -324,46 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stanford-oval/storm" target="_blank">
+				<p><a href="https://github.com/embabel/embabel-agent" target="_blank">
     
 
 
       
-        stanford-oval /
+        embabel /
 
-      storm</a></p>
+      embabel-agent</a></p>
 				<p>
-      An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.
+      Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26948</span>
-						<span>🔱 2422</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 2256</span>
+						<span>🔱 178</span>
 					</div>
-				<div class="stars-today">⭐ 2376 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
-    
-
-
-      
-        gorhill /
-
-      uBlock</a></p>
-				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 56672</span>
-						<span>🔱 3615</span>
-					</div>
-				<div class="stars-today">⭐ 2126 stars this month</div>
+				<div class="stars-today">⭐ 1766 stars this month</div>
 				</div>
 			</div>
 	
