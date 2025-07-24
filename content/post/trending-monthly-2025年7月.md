@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-24T09:58:51Z
+date: 2025-07-24T11:58:38Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      gemini-cli</a></p>
+				<p>
+      An open-source AI agent that brings the power of Gemini directly into your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 63413</span>
+						<span>🔱 5966</span>
+					</div>
+				<div class="stars-today">⭐ 63515 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33484</span>
-						<span>🔱 7939</span>
+						<span>⭐ 33507</span>
+						<span>🔱 7942</span>
 					</div>
 				<div class="stars-today">⭐ 9726 stars this month</div>
 				</div>
@@ -53,9 +75,31 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 4958</span>
-						<span>🔱 366</span>
+						<span>🔱 367</span>
 					</div>
 				<div class="stars-today">⭐ 3859 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
+    
+
+
+      
+        maybe-finance /
+
+      maybe</a></p>
+				<p>
+      The personal finance app for everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 52070</span>
+						<span>🔱 3829</span>
+					</div>
+				<div class="stars-today">⭐ 6341 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10141</span>
+						<span>⭐ 10149</span>
 						<span>🔱 663</span>
 					</div>
 				<div class="stars-today">⭐ 5626 stars this month</div>
@@ -118,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7266</span>
-						<span>🔱 533</span>
+						<span>⭐ 7291</span>
+						<span>🔱 534</span>
 					</div>
 				<div class="stars-today">⭐ 5882 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
-    
-
-
-      
-        maybe-finance /
-
-      maybe</a></p>
-				<p>
-      The personal finance app for everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 52022</span>
-						<span>🔱 3826</span>
-					</div>
-				<div class="stars-today">⭐ 6341 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19817</span>
+						<span>⭐ 19824</span>
 						<span>🔱 820</span>
 					</div>
 				<div class="stars-today">⭐ 6695 stars this month</div>
@@ -184,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34380</span>
-						<span>🔱 3861</span>
+						<span>⭐ 34382</span>
+						<span>🔱 3862</span>
 					</div>
 				<div class="stars-today">⭐ 6106 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 25703</span>
-						<span>🔱 1408</span>
-					</div>
-				<div class="stars-today">⭐ 10896 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29268</span>
+						<span>⭐ 29273</span>
 						<span>🔱 972</span>
 					</div>
 				<div class="stars-today">⭐ 4813 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 25721</span>
+						<span>🔱 1410</span>
+					</div>
+				<div class="stars-today">⭐ 10896 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 75403</span>
-						<span>🔱 16670</span>
+						<span>⭐ 75414</span>
+						<span>🔱 16672</span>
 					</div>
 				<div class="stars-today">⭐ 2665 stars this month</div>
 				</div>
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 12886</span>
-						<span>🔱 955</span>
+						<span>⭐ 12893</span>
+						<span>🔱 956</span>
 					</div>
 				<div class="stars-today">⭐ 8828 stars this month</div>
 				</div>
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5441</span>
-						<span>🔱 458</span>
+						<span>⭐ 5448</span>
+						<span>🔱 460</span>
 					</div>
 				<div class="stars-today">⭐ 4080 stars this month</div>
 				</div>
@@ -316,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3693</span>
-						<span>🔱 651</span>
+						<span>⭐ 3698</span>
+						<span>🔱 652</span>
 					</div>
 				<div class="stars-today">⭐ 1864 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/embabel/embabel-agent" target="_blank">
-    
-
-
-      
-        embabel /
-
-      embabel-agent</a></p>
-				<p>
-      Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 2272</span>
-						<span>🔱 178</span>
-					</div>
-				<div class="stars-today">⭐ 1775 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-24
-date: 2025-07-24T09:58:51Z
+date: 2025-07-24T11:58:38Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17444</span>
-						<span>🔱 3953</span>
+						<span>⭐ 17665</span>
+						<span>🔱 3965</span>
 					</div>
 				<div class="stars-today">⭐ 2632 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/maybe-finance/maybe" target="_blank">
-    
-
-
-      
-        maybe-finance /
-
-      maybe</a></p>
-				<p>
-      The personal finance app for everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 52022</span>
-						<span>🔱 3826</span>
-					</div>
-				<div class="stars-today">⭐ 618 stars today</div>
 				</div>
 			</div>
 	
@@ -74,208 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45232</span>
-						<span>🔱 4084</span>
+						<span>⭐ 45279</span>
+						<span>🔱 4091</span>
 					</div>
 				<div class="stars-today">⭐ 619 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moby/moby" target="_blank">
+				<p><a href="https://github.com/HumanSignal/label-studio" target="_blank">
     
 
 
       
-        moby /
+        HumanSignal /
 
-      moby</a></p>
+      label-studio</a></p>
 				<p>
-      The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 70251</span>
-						<span>🔱 18782</span>
-					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22463</span>
-						<span>🔱 3886</span>
-					</div>
-				<div class="stars-today">⭐ 61 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/remoteintech/remote-jobs" target="_blank">
-    
-
-
-      
-        remoteintech /
-
-      remote-jobs</a></p>
-				<p>
-      A list of semi to fully remote-friendly companies (jobs) in tech.
+      Label Studio is a multi-type data labeling and annotation tool with standardized output format
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 36438</span>
-						<span>🔱 3573</span>
-					</div>
-				<div class="stars-today">⭐ 615 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 312735</span>
-						<span>🔱 51387</span>
-					</div>
-				<div class="stars-today">⭐ 204 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29965</span>
-						<span>🔱 2351</span>
-					</div>
-				<div class="stars-today">⭐ 447 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
-    
-
-
-      
-        zephyrproject-rtos /
-
-      zephyr</a></p>
-				<p>
-      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 12624</span>
-						<span>🔱 7687</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      11 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32230</span>
-						<span>🔱 9399</span>
-					</div>
-				<div class="stars-today">⭐ 164 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frappe/hrms" target="_blank">
-    
-
-
-      
-        frappe /
-
-      hrms</a></p>
-				<p>
-      Open Source HR and Payroll Software
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3378</span>
-						<span>🔱 1291</span>
+						<span>⭐ 23511</span>
+						<span>🔱 2926</span>
 					</div>
 				<div class="stars-today">⭐ 88 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Sjj1024/PakePlus" target="_blank">
-    
-
-
-      
-        Sjj1024 /
-
-      PakePlus</a></p>
-				<p>
-      Turn any webpage/Vue/React and so on into desktop and mobile app under 5M with easy in few minutes. 轻松将任意网站/Vue/React等项目构建为轻量级(小于5M)多端桌面应用和手机应用仅需几分钟. https://ppofficial.netlify.app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 5151</span>
-						<span>🔱 3318</span>
-					</div>
-				<div class="stars-today">⭐ 126 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32922</span>
-						<span>🔱 4065</span>
+						<span>⭐ 32945</span>
+						<span>🔱 4068</span>
 					</div>
 				<div class="stars-today">⭐ 112 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jj-vcs/jj" target="_blank">
+				<p><a href="https://github.com/aaPanel/BillionMail" target="_blank">
     
 
 
       
-        jj-vcs /
+        aaPanel /
 
-      jj</a></p>
+      BillionMail</a></p>
 				<p>
-      A Git-compatible VCS that is both simple and powerful
+      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18025</span>
-						<span>🔱 592</span>
+						<span>🔠 Go</span>
+						<span>⭐ 7026</span>
+						<span>🔱 608</span>
 					</div>
-				<div class="stars-today">⭐ 179 stars today</div>
+				<div class="stars-today">⭐ 285 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steven2358/awesome-generative-ai" target="_blank">
+				<p><a href="https://github.com/frappe/hrms" target="_blank">
     
 
 
       
-        steven2358 /
+        frappe /
 
-      awesome-generative-ai</a></p>
+      hrms</a></p>
 				<p>
-      A curated list of modern Generative Artificial Intelligence projects and services
+      Open Source HR and Payroll Software
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 9208</span>
-						<span>🔱 1029</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3415</span>
+						<span>🔱 1296</span>
 					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
+				<div class="stars-today">⭐ 88 stars today</div>
 				</div>
 			</div>
 	
@@ -360,32 +162,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23067</span>
-						<span>🔱 1560</span>
+						<span>⭐ 23093</span>
+						<span>🔱 1562</span>
 					</div>
 				<div class="stars-today">⭐ 122 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
     
 
 
       
-        C4illin /
+        microsoft /
 
-      ConvertX</a></p>
+      generative-ai-for-beginners</a></p>
 				<p>
-      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6313</span>
-						<span>🔱 255</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 92424</span>
+						<span>🔱 47689</span>
 					</div>
-				<div class="stars-today">⭐ 709 stars today</div>
+				<div class="stars-today">⭐ 132 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/minio/minio" target="_blank">
+    
+
+
+      
+        minio /
+
+      minio</a></p>
+				<p>
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 53965</span>
+						<span>🔱 6026</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/rag-from-scratch" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      rag-from-scratch</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 4779</span>
+						<span>🔱 1335</span>
+					</div>
+				<div class="stars-today">⭐ 77 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
+    
+
+
+      
+        BerriAI /
+
+      litellm</a></p>
+				<p>
+      Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25912</span>
+						<span>🔱 3580</span>
+					</div>
+				<div class="stars-today">⭐ 71 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 22485</span>
+						<span>🔱 3886</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
 				</div>
 			</div>
 	

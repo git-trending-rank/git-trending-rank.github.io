@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第30周
-date: 2025-07-24T09:58:51Z
+date: 2025-07-24T11:58:39Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 52022</span>
-						<span>🔱 3826</span>
+						<span>⭐ 52070</span>
+						<span>🔱 3829</span>
 					</div>
 				<div class="stars-today">⭐ 5981 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69129</span>
+						<span>⭐ 69133</span>
 						<span>🔱 3688</span>
 					</div>
 				<div class="stars-today">⭐ 4981 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45279</span>
+						<span>🔱 4091</span>
+					</div>
+				<div class="stars-today">⭐ 1747 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6150</span>
+						<span>⭐ 6158</span>
 						<span>🔱 835</span>
 					</div>
 				<div class="stars-today">⭐ 1738 stars this week</div>
@@ -94,10 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28667</span>
-						<span>🔱 1208</span>
+						<span>⭐ 28672</span>
+						<span>🔱 1207</span>
 					</div>
 				<div class="stars-today">⭐ 1706 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
+    
+
+
+      
+        tracel-ai /
+
+      burn</a></p>
+				<p>
+      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12175</span>
+						<span>🔱 643</span>
+					</div>
+				<div class="stars-today">⭐ 588 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7266</span>
-						<span>🔱 533</span>
+						<span>⭐ 7291</span>
+						<span>🔱 534</span>
 					</div>
 				<div class="stars-today">⭐ 2174 stars this week</div>
 				</div>
@@ -138,54 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22507</span>
+						<span>⭐ 22509</span>
 						<span>🔱 1723</span>
 					</div>
 				<div class="stars-today">⭐ 1006 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14945</span>
-						<span>🔱 1258</span>
-					</div>
-				<div class="stars-today">⭐ 1057 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
-    
-
-
-      
-        sherlock-project /
-
-      sherlock</a></p>
-				<p>
-      Hunt down social media accounts by username across social networks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 67240</span>
-						<span>🔱 7719</span>
-					</div>
-				<div class="stars-today">⭐ 499 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,32 +204,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6249</span>
-						<span>🔱 316</span>
+						<span>⭐ 6259</span>
+						<span>🔱 318</span>
 					</div>
 				<div class="stars-today">⭐ 2028 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
     
 
 
       
-        Lightricks /
+        getzep /
 
-      LTX-Video</a></p>
+      graphiti</a></p>
 				<p>
-      Official repository for LTX-Video
+      Build Real-Time Knowledge Graphs for AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7558</span>
-						<span>🔱 658</span>
+						<span>⭐ 14948</span>
+						<span>🔱 1259</span>
 					</div>
-				<div class="stars-today">⭐ 513 stars this week</div>
+				<div class="stars-today">⭐ 1057 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hummingbot/hummingbot" target="_blank">
+    
+
+
+      
+        hummingbot /
+
+      hummingbot</a></p>
+				<p>
+      Open source software that helps you create and deploy high-frequency crypto trading bots
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13510</span>
+						<span>🔱 3722</span>
+					</div>
+				<div class="stars-today">⭐ 279 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/influxdata/telegraf" target="_blank">
+    
+
+
+      
+        influxdata /
+
+      telegraf</a></p>
+				<p>
+      Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 15991</span>
+						<span>🔱 5681</span>
+					</div>
+				<div class="stars-today">⭐ 239 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85024</span>
-						<span>🔱 61110</span>
+						<span>⭐ 85028</span>
+						<span>🔱 61111</span>
 					</div>
 				<div class="stars-today">⭐ 834 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
-    
-
-
-      
-        OpenPipe /
-
-      ART</a></p>
-				<p>
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3536</span>
-						<span>🔱 213</span>
-					</div>
-				<div class="stars-today">⭐ 994 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +314,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51281</span>
+						<span>⭐ 51282</span>
 						<span>🔱 6004</span>
 					</div>
 				<div class="stars-today">⭐ 404 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 312752</span>
+						<span>🔱 51390</span>
+					</div>
+				<div class="stars-today">⭐ 1248 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/actions/runner-images" target="_blank">
+    
+
+
+      
+        actions /
+
+      runner-images</a></p>
+				<p>
+      GitHub Actions runner images
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 11567</span>
+						<span>🔱 3407</span>
+					</div>
+				<div class="stars-today">⭐ 111 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
+    
+
+
+      
+        OpenPipe /
+
+      ART</a></p>
+				<p>
+      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3543</span>
+						<span>🔱 214</span>
+					</div>
+				<div class="stars-today">⭐ 994 stars this week</div>
 				</div>
 			</div>
 	
