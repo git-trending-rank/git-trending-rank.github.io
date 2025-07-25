@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第30周
-date: 2025-07-25T09:58:35Z
+date: 2025-07-25T11:58:43Z
 categories:
 - weekly
 keywords:
@@ -31,31 +31,9 @@ keywords:
 					<div>
 						<span>🔠 Ruby</span>
 						<span>⭐ 52268</span>
-						<span>🔱 3894</span>
+						<span>🔱 3905</span>
 					</div>
 				<div class="stars-today">⭐ 7224 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69246</span>
-						<span>🔱 3694</span>
-					</div>
-				<div class="stars-today">⭐ 3175 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45847</span>
-						<span>🔱 4160</span>
+						<span>⭐ 45894</span>
+						<span>🔱 4166</span>
 					</div>
 				<div class="stars-today">⭐ 2386 stars this week</div>
 				</div>
@@ -94,10 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6224</span>
+						<span>⭐ 6230</span>
 						<span>🔱 844</span>
 					</div>
 				<div class="stars-today">⭐ 1558 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 69279</span>
+						<span>🔱 3697</span>
+					</div>
+				<div class="stars-today">⭐ 3175 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28717</span>
-						<span>🔱 1213</span>
+						<span>⭐ 28718</span>
+						<span>🔱 1214</span>
 					</div>
 				<div class="stars-today">⭐ 1702 stars this week</div>
 				</div>
@@ -138,98 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12215</span>
+						<span>⭐ 12216</span>
 						<span>🔱 645</span>
 					</div>
 				<div class="stars-today">⭐ 599 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7454</span>
-						<span>🔱 550</span>
-					</div>
-				<div class="stars-today">⭐ 2090 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
-    
-
-
-      
-        gitleaks /
-
-      gitleaks</a></p>
-				<p>
-      Find secrets with Gitleaks 🔑
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22562</span>
-						<span>🔱 1729</span>
-					</div>
-				<div class="stars-today">⭐ 967 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6476</span>
-						<span>🔱 331</span>
-					</div>
-				<div class="stars-today">⭐ 2162 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15047</span>
-						<span>🔱 1274</span>
-					</div>
-				<div class="stars-today">⭐ 999 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13564</span>
+						<span>⭐ 13568</span>
 						<span>🔱 3727</span>
 					</div>
 				<div class="stars-today">⭐ 285 stars this week</div>
@@ -256,68 +168,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/influxdata/telegraf" target="_blank">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
     
 
 
       
-        influxdata /
+        musistudio /
 
-      telegraf</a></p>
+      claude-code-router</a></p>
 				<p>
-      Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 16022</span>
-						<span>🔱 5685</span>
-					</div>
-				<div class="stars-today">⭐ 238 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank">
-    
-
-
-      
-        ChatGPTNextWeb /
-
-      NextChat</a></p>
-				<p>
-      ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85095</span>
-						<span>🔱 61113</span>
+						<span>⭐ 7467</span>
+						<span>🔱 551</span>
 					</div>
-				<div class="stars-today">⭐ 896 stars this week</div>
+				<div class="stars-today">⭐ 2090 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/segment-anything" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        facebookresearch /
+        microsoft /
 
-      segment-anything</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+      11 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 51307</span>
-						<span>🔱 6011</span>
+						<span>⭐ 32442</span>
+						<span>🔱 9494</span>
 					</div>
-				<div class="stars-today">⭐ 283 stars this week</div>
+				<div class="stars-today">⭐ 1589 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 312912</span>
+						<span>⭐ 312918</span>
 						<span>🔱 51407</span>
 					</div>
 				<div class="stars-today">⭐ 1404 stars this week</div>
@@ -344,46 +234,178 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/actions/runner-images" target="_blank">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
     
 
 
       
-        actions /
+        hesreallyhim /
 
-      runner-images</a></p>
+      awesome-claude-code</a></p>
 				<p>
-      GitHub Actions runner images
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 11582</span>
-						<span>🔱 3408</span>
-					</div>
-				<div class="stars-today">⭐ 112 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
-    
-
-
-      
-        OpenPipe /
-
-      ART</a></p>
-				<p>
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+      A curated list of awesome commands, files, and workflows for Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3615</span>
-						<span>🔱 217</span>
+						<span>⭐ 6495</span>
+						<span>🔱 334</span>
 					</div>
-				<div class="stars-today">⭐ 727 stars this week</div>
+				<div class="stars-today">⭐ 2162 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frappe/hrms" target="_blank">
+    
+
+
+      
+        frappe /
+
+      hrms</a></p>
+				<p>
+      Open Source HR and Payroll Software
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3900</span>
+						<span>🔱 1330</span>
+					</div>
+				<div class="stars-today">⭐ 742 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
+    
+
+
+      
+        zephyrproject-rtos /
+
+      zephyr</a></p>
+				<p>
+      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 12646</span>
+						<span>🔱 7690</span>
+					</div>
+				<div class="stars-today">⭐ 152 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moby/moby" target="_blank">
+    
+
+
+      
+        moby /
+
+      moby</a></p>
+				<p>
+      The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 70269</span>
+						<span>🔱 18786</span>
+					</div>
+				<div class="stars-today">⭐ 183 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Dokploy/dokploy" target="_blank">
+    
+
+
+      
+        Dokploy /
+
+      dokploy</a></p>
+				<p>
+      Open Source Alternative to Vercel, Netlify and Heroku.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22077</span>
+						<span>🔱 1218</span>
+					</div>
+				<div class="stars-today">⭐ 630 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23307</span>
+						<span>🔱 1568</span>
+					</div>
+				<div class="stars-today">⭐ 563 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15057</span>
+						<span>🔱 1275</span>
+					</div>
+				<div class="stars-today">⭐ 999 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank">
+    
+
+
+      
+        ChatGPTNextWeb /
+
+      NextChat</a></p>
+				<p>
+      ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 85096</span>
+						<span>🔱 61112</span>
+					</div>
+				<div class="stars-today">⭐ 896 stars this week</div>
 				</div>
 			</div>
 	

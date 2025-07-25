@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-25T09:58:35Z
+date: 2025-07-25T11:58:43Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 63866</span>
-						<span>🔱 6031</span>
+						<span>⭐ 63893</span>
+						<span>🔱 6037</span>
 					</div>
 				<div class="stars-today">⭐ 63612 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33686</span>
-						<span>🔱 7965</span>
+						<span>⭐ 33697</span>
+						<span>🔱 7967</span>
 					</div>
 				<div class="stars-today">⭐ 9970 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      WebAgent</a></p>
-				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4994</span>
-						<span>🔱 372</span>
-					</div>
-				<div class="stars-today">⭐ 3910 stars this month</div>
 				</div>
 			</div>
 	
@@ -97,31 +75,31 @@ keywords:
 					<div>
 						<span>🔠 Ruby</span>
 						<span>⭐ 52268</span>
-						<span>🔱 3894</span>
+						<span>🔱 3905</span>
 					</div>
 				<div class="stars-today">⭐ 7583 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
     
 
 
       
-        googleapis /
+        Alibaba-NLP /
 
-      genai-toolbox</a></p>
+      WebAgent</a></p>
 				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
+      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7819</span>
-						<span>🔱 573</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4997</span>
+						<span>🔱 372</span>
 					</div>
-				<div class="stars-today">⭐ 6273 stars this month</div>
+				<div class="stars-today">⭐ 3910 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10242</span>
-						<span>🔱 667</span>
+						<span>⭐ 10252</span>
+						<span>🔱 668</span>
 					</div>
 				<div class="stars-today">⭐ 5685 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
     
 
 
       
-        musistudio /
+        googleapis /
 
-      claude-code-router</a></p>
+      genai-toolbox</a></p>
 				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+      MCP Toolbox for Databases is an open source MCP server for databases.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7454</span>
-						<span>🔱 550</span>
+						<span>🔠 Go</span>
+						<span>⭐ 7826</span>
+						<span>🔱 574</span>
 					</div>
-				<div class="stars-today">⭐ 6012 stars this month</div>
+				<div class="stars-today">⭐ 6273 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19880</span>
+						<span>⭐ 19885</span>
 						<span>🔱 822</span>
 					</div>
 				<div class="stars-today">⭐ 6721 stars this month</div>
@@ -192,46 +170,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
     
 
 
       
-        twentyhq /
+        hesreallyhim /
 
-      twenty</a></p>
+      awesome-claude-code</a></p>
 				<p>
-      Building a modern alternative to Salesforce, powered by the community.
+      A curated list of awesome commands, files, and workflows for Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34446</span>
-						<span>🔱 3865</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6495</span>
+						<span>🔱 334</span>
 					</div>
-				<div class="stars-today">⭐ 6140 stars this month</div>
+				<div class="stars-today">⭐ 5276 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
     
 
 
       
-        GyulyVGC /
+        musistudio /
 
-      sniffnet</a></p>
+      claude-code-router</a></p>
 				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29346</span>
-						<span>🔱 976</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7467</span>
+						<span>🔱 551</span>
 					</div>
-				<div class="stars-today">⭐ 4870 stars this month</div>
+				<div class="stars-today">⭐ 6012 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 25934</span>
+						<span>⭐ 25943</span>
 						<span>🔱 1419</span>
 					</div>
 				<div class="stars-today">⭐ 10899 stars this month</div>
@@ -258,24 +236,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
     
 
 
       
-        microsoft /
+        twentyhq /
 
-      ML-For-Beginners</a></p>
+      twenty</a></p>
 				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+      Building a modern alternative to Salesforce, powered by the community.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 75505</span>
-						<span>🔱 16688</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34449</span>
+						<span>🔱 3865</span>
 					</div>
-				<div class="stars-today">⭐ 2747 stars this month</div>
+				<div class="stars-today">⭐ 6140 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5533</span>
-						<span>🔱 464</span>
+						<span>⭐ 5537</span>
+						<span>🔱 463</span>
 					</div>
 				<div class="stars-today">⭐ 4143 stars this month</div>
 				</div>
@@ -316,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3747</span>
-						<span>🔱 658</span>
+						<span>⭐ 3750</span>
+						<span>🔱 663</span>
 					</div>
 				<div class="stars-today">⭐ 1920 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 75507</span>
+						<span>🔱 16689</span>
+					</div>
+				<div class="stars-today">⭐ 2747 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45894</span>
+						<span>🔱 4166</span>
+					</div>
+				<div class="stars-today">⭐ 3395 stars this month</div>
 				</div>
 			</div>
 	
