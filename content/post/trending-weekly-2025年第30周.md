@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第30周
-date: 2025-07-26T09:58:43Z
+date: 2025-07-26T11:58:44Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 52366</span>
-						<span>🔱 3943</span>
+						<span>⭐ 52371</span>
+						<span>🔱 3954</span>
 					</div>
 				<div class="stars-today">⭐ 7455 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46236</span>
+						<span>⭐ 46254</span>
 						<span>🔱 4193</span>
 					</div>
 				<div class="stars-today">⭐ 2807 stars this week</div>
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6289</span>
+						<span>⭐ 6297</span>
 						<span>🔱 849</span>
 					</div>
 				<div class="stars-today">⭐ 1340 stars this week</div>
@@ -80,24 +80,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
     
 
 
       
-        microsoft /
+        tracel-ai /
 
-      markitdown</a></p>
+      burn</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12246</span>
+						<span>🔱 645</span>
+					</div>
+				<div class="stars-today">⭐ 624 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frappe/hrms" target="_blank">
+    
+
+
+      
+        frappe /
+
+      hrms</a></p>
+				<p>
+      Open Source HR and Payroll Software
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69414</span>
-						<span>🔱 3712</span>
+						<span>⭐ 4425</span>
+						<span>🔱 1367</span>
 					</div>
-				<div class="stars-today">⭐ 2087 stars this week</div>
+				<div class="stars-today">⭐ 1151 stars this week</div>
 				</div>
 			</div>
 	
@@ -124,68 +146,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
     
 
 
       
-        tracel-ai /
+        donnemartin /
 
-      burn</a></p>
+      system-design-primer</a></p>
 				<p>
-      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12245</span>
-						<span>🔱 644</span>
-					</div>
-				<div class="stars-today">⭐ 624 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hummingbot/hummingbot" target="_blank">
-    
-
-
-      
-        hummingbot /
-
-      hummingbot</a></p>
-				<p>
-      Open source software that helps you create and deploy high-frequency crypto trading bots
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13621</span>
-						<span>🔱 3731</span>
+						<span>⭐ 313041</span>
+						<span>🔱 51433</span>
 					</div>
-				<div class="stars-today">⭐ 332 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7573</span>
-						<span>🔱 563</span>
-					</div>
-				<div class="stars-today">⭐ 1796 stars this week</div>
+				<div class="stars-today">⭐ 1447 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32559</span>
-						<span>🔱 9569</span>
+						<span>⭐ 32579</span>
+						<span>🔱 9571</span>
 					</div>
 				<div class="stars-today">⭐ 1616 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 313030</span>
-						<span>🔱 51427</span>
-					</div>
-				<div class="stars-today">⭐ 1447 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6649</span>
+						<span>⭐ 6667</span>
 						<span>🔱 339</span>
 					</div>
 				<div class="stars-today">⭐ 2300 stars this week</div>
@@ -256,24 +212,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frappe/hrms" target="_blank">
+				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
     
 
 
       
-        frappe /
+        BerriAI /
 
-      hrms</a></p>
+      litellm</a></p>
 				<p>
-      Open Source HR and Payroll Software
+      Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4396</span>
-						<span>🔱 1363</span>
+						<span>⭐ 26166</span>
+						<span>🔱 3610</span>
 					</div>
-				<div class="stars-today">⭐ 1151 stars this week</div>
+				<div class="stars-today">⭐ 545 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hummingbot/hummingbot" target="_blank">
+    
+
+
+      
+        hummingbot /
+
+      hummingbot</a></p>
+				<p>
+      Open source software that helps you create and deploy high-frequency crypto trading bots
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13625</span>
+						<span>🔱 3732</span>
+					</div>
+				<div class="stars-today">⭐ 332 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Dokploy/dokploy" target="_blank">
+    
+
+
+      
+        Dokploy /
+
+      dokploy</a></p>
+				<p>
+      Open Source Alternative to Vercel, Netlify and Heroku.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22168</span>
+						<span>🔱 1219</span>
+					</div>
+				<div class="stars-today">⭐ 632 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 12668</span>
+						<span>⭐ 12669</span>
 						<span>🔱 7693</span>
 					</div>
 				<div class="stars-today">⭐ 155 stars this week</div>
@@ -314,54 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 70326</span>
+						<span>⭐ 70329</span>
 						<span>🔱 18787</span>
 					</div>
 				<div class="stars-today">⭐ 183 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Dokploy/dokploy" target="_blank">
-    
-
-
-      
-        Dokploy /
-
-      dokploy</a></p>
-				<p>
-      Open Source Alternative to Vercel, Netlify and Heroku.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22161</span>
-						<span>🔱 1219</span>
-					</div>
-				<div class="stars-today">⭐ 632 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3</a></p>
-				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23361</span>
-						<span>🔱 1569</span>
-					</div>
-				<div class="stars-today">⭐ 730 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15133</span>
+						<span>⭐ 15134</span>
 						<span>🔱 1283</span>
 					</div>
 				<div class="stars-today">⭐ 967 stars this week</div>
@@ -388,24 +344,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChatGPTNextWeb/NextChat" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        ChatGPTNextWeb /
+        simstudioai /
 
-      NextChat</a></p>
+      sim</a></p>
 				<p>
-      ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android | Linux | Windows
+      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85144</span>
-						<span>🔱 61109</span>
+						<span>⭐ 6103</span>
+						<span>🔱 838</span>
 					</div>
-				<div class="stars-today">⭐ 939 stars this week</div>
+				<div class="stars-today">⭐ 1194 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/arc53/DocsGPT" target="_blank">
+    
+
+
+      
+        arc53 /
+
+      DocsGPT</a></p>
+				<p>
+      DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16759</span>
+						<span>🔱 1747</span>
+					</div>
+				<div class="stars-today">⭐ 434 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
+    
+
+
+      
+        gitleaks /
+
+      gitleaks</a></p>
+				<p>
+      Find secrets with Gitleaks 🔑
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 22588</span>
+						<span>🔱 1734</span>
+					</div>
+				<div class="stars-today">⭐ 687 stars this week</div>
 				</div>
 			</div>
 	

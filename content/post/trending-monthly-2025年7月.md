@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-26T09:58:42Z
+date: 2025-07-26T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      gemini-cli</a></p>
-				<p>
-      An open-source AI agent that brings the power of Gemini directly into your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 64209</span>
-						<span>🔱 6081</span>
-					</div>
-				<div class="stars-today">⭐ 60367 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33794</span>
-						<span>🔱 7987</span>
+						<span>⭐ 33807</span>
+						<span>🔱 7989</span>
 					</div>
 				<div class="stars-today">⭐ 10134 stars this month</div>
 				</div>
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 52366</span>
-						<span>🔱 3943</span>
+						<span>⭐ 52371</span>
+						<span>🔱 3954</span>
 					</div>
 				<div class="stars-today">⭐ 7822 stars this month</div>
 				</div>
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5044</span>
+						<span>⭐ 5046</span>
 						<span>🔱 376</span>
 					</div>
 				<div class="stars-today">⭐ 3945 stars this month</div>
@@ -104,24 +82,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
     
 
 
       
-        humanlayer /
+        google-gemini /
 
-      12-factor-agents</a></p>
+      gemini-cli</a></p>
 				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+      An open-source AI agent that brings the power of Gemini directly into your terminal.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10321</span>
-						<span>🔱 672</span>
+						<span>⭐ 64241</span>
+						<span>🔱 6085</span>
 					</div>
-				<div class="stars-today">⭐ 5763 stars this month</div>
+				<div class="stars-today">⭐ 60367 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7885</span>
-						<span>🔱 579</span>
+						<span>⭐ 7889</span>
+						<span>🔱 580</span>
 					</div>
 				<div class="stars-today">⭐ 6314 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10325</span>
+						<span>🔱 672</span>
+					</div>
+				<div class="stars-today">⭐ 5763 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19947</span>
+						<span>⭐ 19951</span>
 						<span>🔱 823</span>
 					</div>
 				<div class="stars-today">⭐ 6755 stars this month</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6649</span>
+						<span>⭐ 6667</span>
 						<span>🔱 339</span>
 					</div>
 				<div class="stars-today">⭐ 5278 stars this month</div>
@@ -206,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7573</span>
+						<span>⭐ 7584</span>
 						<span>🔱 563</span>
 					</div>
 				<div class="stars-today">⭐ 5850 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+    
+
+
+      
+        GyulyVGC /
+
+      sniffnet</a></p>
+				<p>
+      Comfortably monitor your Internet traffic 🕵️‍♂️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 29381</span>
+						<span>🔱 980</span>
+					</div>
+				<div class="stars-today">⭐ 4928 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46254</span>
+						<span>🔱 4193</span>
+					</div>
+				<div class="stars-today">⭐ 3983 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 26078</span>
+						<span>⭐ 26086</span>
 						<span>🔱 1431</span>
 					</div>
 				<div class="stars-today">⭐ 10913 stars this month</div>
@@ -250,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34507</span>
+						<span>⭐ 34509</span>
 						<span>🔱 3869</span>
 					</div>
 				<div class="stars-today">⭐ 6142 stars this month</div>
@@ -272,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5598</span>
+						<span>⭐ 5601</span>
 						<span>🔱 472</span>
 					</div>
 				<div class="stars-today">⭐ 4199 stars this month</div>
@@ -294,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3782</span>
-						<span>🔱 666</span>
+						<span>⭐ 3785</span>
+						<span>🔱 667</span>
 					</div>
 				<div class="stars-today">⭐ 1961 stars this month</div>
 				</div>
@@ -316,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 75569</span>
-						<span>🔱 16706</span>
+						<span>⭐ 75577</span>
+						<span>🔱 16709</span>
 					</div>
 				<div class="stars-today">⭐ 2808 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46236</span>
-						<span>🔱 4193</span>
-					</div>
-				<div class="stars-today">⭐ 3983 stars this month</div>
 				</div>
 			</div>
 	

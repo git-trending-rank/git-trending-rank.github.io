@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-26
-date: 2025-07-26T09:58:42Z
+date: 2025-07-26T11:58:44Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frappe/hrms" target="_blank">
+    
+
+
+      
+        frappe /
+
+      hrms</a></p>
+				<p>
+      Open Source HR and Payroll Software
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4425</span>
+						<span>🔱 1367</span>
+					</div>
+				<div class="stars-today">⭐ 486 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9075</span>
-						<span>🔱 643</span>
+						<span>⭐ 9109</span>
+						<span>🔱 644</span>
 					</div>
 				<div class="stars-today">⭐ 714 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/m1k1o/neko" target="_blank">
-    
-
-
-      
-        m1k1o /
-
-      neko</a></p>
-				<p>
-      A self hosted virtual browser that runs in docker and uses WebRTC.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 13833</span>
-						<span>🔱 864</span>
-					</div>
-				<div class="stars-today">⭐ 985 stars today</div>
 				</div>
 			</div>
 	
@@ -74,164 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22788</span>
-						<span>🔱 3894</span>
+						<span>⭐ 22800</span>
+						<span>🔱 3893</span>
 					</div>
 				<div class="stars-today">⭐ 219 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/semgrep/semgrep" target="_blank">
+				<p><a href="https://github.com/m1k1o/neko" target="_blank">
     
 
 
       
-        semgrep /
+        m1k1o /
 
-      semgrep</a></p>
+      neko</a></p>
 				<p>
-      Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+      A self hosted virtual browser that runs in docker and uses WebRTC.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 OCaml</span>
-						<span>⭐ 12331</span>
-						<span>🔱 750</span>
+						<span>🔠 Go</span>
+						<span>⭐ 13860</span>
+						<span>🔱 864</span>
 					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46236</span>
-						<span>🔱 4193</span>
-					</div>
-				<div class="stars-today">⭐ 622 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frappe/hrms" target="_blank">
-    
-
-
-      
-        frappe /
-
-      hrms</a></p>
-				<p>
-      Open Source HR and Payroll Software
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4396</span>
-						<span>🔱 1363</span>
-					</div>
-				<div class="stars-today">⭐ 486 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8999</span>
-						<span>🔱 571</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/software-mansion/react-native-reanimated" target="_blank">
-    
-
-
-      
-        software-mansion /
-
-      react-native-reanimated</a></p>
-				<p>
-      React Native's Animated library reimplemented
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9972</span>
-						<span>🔱 1389</span>
-					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steven2358/awesome-generative-ai" target="_blank">
-    
-
-
-      
-        steven2358 /
-
-      awesome-generative-ai</a></p>
-				<p>
-      A curated list of modern Generative Artificial Intelligence projects and services
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9508</span>
-						<span>🔱 1041</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
-    
-
-
-      
-        srbhr /
-
-      Resume-Matcher</a></p>
-				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19861</span>
-						<span>🔱 4105</span>
-					</div>
-				<div class="stars-today">⭐ 1814 stars today</div>
+				<div class="stars-today">⭐ 985 stars today</div>
 				</div>
 			</div>
 	
@@ -250,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7821</span>
+						<span>⭐ 7839</span>
 						<span>🔱 659</span>
 					</div>
 				<div class="stars-today">⭐ 542 stars today</div>
@@ -258,46 +126,156 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moby/moby" target="_blank">
+				<p><a href="https://github.com/keycloak/keycloak" target="_blank">
     
 
 
       
-        moby /
+        keycloak /
 
-      moby</a></p>
+      keycloak</a></p>
 				<p>
-      The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+      Open Source Identity and Access Management For Modern Applications and Services
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 70326</span>
-						<span>🔱 18787</span>
+						<span>🔠 Java</span>
+						<span>⭐ 28488</span>
+						<span>🔱 7457</span>
 					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
     
 
 
       
-        twbs /
+        BerriAI /
 
-      bootstrap</a></p>
+      litellm</a></p>
 				<p>
-      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+      Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 172717</span>
-						<span>🔱 79121</span>
+						<span>🔠 Python</span>
+						<span>⭐ 26166</span>
+						<span>🔱 3610</span>
+					</div>
+				<div class="stars-today">⭐ 48 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets management, PKI, and SSH access.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18964</span>
+						<span>🔱 1268</span>
+					</div>
+				<div class="stars-today">⭐ 16 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/confident-ai/deepeval" target="_blank">
+    
+
+
+      
+        confident-ai /
+
+      deepeval</a></p>
+				<p>
+      The LLM Evaluation Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9436</span>
+						<span>🔱 825</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/dataease" target="_blank">
+    
+
+
+      
+        dataease /
+
+      dataease</a></p>
+				<p>
+      🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 20724</span>
+						<span>🔱 3671</span>
+					</div>
+				<div class="stars-today">⭐ 109 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/goldbergyoni/nodebestpractices" target="_blank">
+    
+
+
+      
+        goldbergyoni /
+
+      nodebestpractices</a></p>
+				<p>
+      ✅ The Node.js best practices list (July 2024)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 103502</span>
+						<span>🔱 10518</span>
 					</div>
 				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
+    
+
+
+      
+        Raphire /
+
+      Win11Debloat</a></p>
+				<p>
+      A simple, easy to use PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 22988</span>
+						<span>🔱 955</span>
+					</div>
+				<div class="stars-today">⭐ 254 stars today</div>
 				</div>
 			</div>
 	
