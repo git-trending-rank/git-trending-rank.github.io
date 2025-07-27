@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-27
-date: 2025-07-27T13:58:45Z
+date: 2025-07-27T15:58:54Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26129</span>
-						<span>🔱 2385</span>
+						<span>⭐ 26180</span>
+						<span>🔱 2388</span>
 					</div>
 				<div class="stars-today">⭐ 192 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51782</span>
-						<span>🔱 6069</span>
+						<span>⭐ 51872</span>
+						<span>🔱 6077</span>
 					</div>
 				<div class="stars-today">⭐ 485 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4768</span>
-						<span>🔱 1396</span>
+						<span>⭐ 4795</span>
+						<span>🔱 1398</span>
 					</div>
 				<div class="stars-today">⭐ 318 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22940</span>
-						<span>🔱 3898</span>
+						<span>⭐ 22953</span>
+						<span>🔱 3899</span>
 					</div>
 				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1637</span>
-						<span>🔱 785</span>
+						<span>⭐ 1663</span>
+						<span>🔱 787</span>
 					</div>
 				<div class="stars-today">⭐ 22 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 56621</span>
-						<span>🔱 4579</span>
+						<span>⭐ 56662</span>
+						<span>🔱 4582</span>
 					</div>
 				<div class="stars-today">⭐ 25 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19267</span>
-						<span>🔱 1277</span>
+						<span>⭐ 19295</span>
+						<span>🔱 1279</span>
 					</div>
 				<div class="stars-today">⭐ 277 stars today</div>
 				</div>
