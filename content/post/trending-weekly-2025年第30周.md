@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第30周
-date: 2025-07-27T09:58:33Z
+date: 2025-07-27T11:58:51Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 52438</span>
-						<span>🔱 3980</span>
+						<span>⭐ 52449</span>
+						<span>🔱 3984</span>
 					</div>
 				<div class="stars-today">⭐ 7255 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46389</span>
-						<span>🔱 4212</span>
+						<span>⭐ 46403</span>
+						<span>🔱 4216</span>
 					</div>
 				<div class="stars-today">⭐ 3114 stars this week</div>
 				</div>
@@ -72,32 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6391</span>
-						<span>🔱 864</span>
+						<span>⭐ 6398</span>
+						<span>🔱 865</span>
 					</div>
 				<div class="stars-today">⭐ 1155 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
-    
-
-
-      
-        tracel-ai /
-
-      burn</a></p>
-				<p>
-      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12282</span>
-						<span>🔱 646</span>
-					</div>
-				<div class="stars-today">⭐ 609 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4720</span>
-						<span>🔱 1389</span>
+						<span>⭐ 4745</span>
+						<span>🔱 1392</span>
 					</div>
 				<div class="stars-today">⭐ 1715 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
+    
+
+
+      
+        tracel-ai /
+
+      burn</a></p>
+				<p>
+      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12284</span>
+						<span>🔱 646</span>
+					</div>
+				<div class="stars-today">⭐ 609 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28790</span>
+						<span>⭐ 28794</span>
 						<span>🔱 1216</span>
 					</div>
 				<div class="stars-today">⭐ 1426 stars this week</div>
@@ -160,54 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 313174</span>
-						<span>🔱 51449</span>
+						<span>⭐ 313186</span>
+						<span>🔱 51451</span>
 					</div>
 				<div class="stars-today">⭐ 1480 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      11 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32741</span>
-						<span>🔱 9624</span>
-					</div>
-				<div class="stars-today">⭐ 1699 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6950</span>
-						<span>🔱 347</span>
-					</div>
-				<div class="stars-today">⭐ 2434 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,76 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26301</span>
-						<span>🔱 3623</span>
+						<span>⭐ 26311</span>
+						<span>🔱 3626</span>
 					</div>
 				<div class="stars-today">⭐ 576 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hummingbot/hummingbot" target="_blank">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
     
 
 
       
-        hummingbot /
+        hesreallyhim /
 
-      hummingbot</a></p>
+      awesome-claude-code</a></p>
 				<p>
-      Open source software that helps you create and deploy high-frequency crypto trading bots
+      A curated list of awesome commands, files, and workflows for Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13676</span>
-						<span>🔱 3737</span>
+						<span>⭐ 6970</span>
+						<span>🔱 347</span>
 					</div>
-				<div class="stars-today">⭐ 393 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Dokploy/dokploy" target="_blank">
-    
-
-
-      
-        Dokploy /
-
-      dokploy</a></p>
-				<p>
-      Open Source Alternative to Vercel, Netlify and Heroku.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22271</span>
-						<span>🔱 1225</span>
-					</div>
-				<div class="stars-today">⭐ 699 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
-    
-
-
-      
-        zephyrproject-rtos /
-
-      zephyr</a></p>
-				<p>
-      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 12686</span>
-						<span>🔱 7694</span>
-					</div>
-				<div class="stars-today">⭐ 175 stars this week</div>
+				<div class="stars-today">⭐ 2434 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,32 +226,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 70346</span>
-						<span>🔱 18787</span>
+						<span>⭐ 70348</span>
+						<span>🔱 18786</span>
 					</div>
 				<div class="stars-today">⭐ 243 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/Dokploy/dokploy" target="_blank">
     
 
 
       
-        getzep /
+        Dokploy /
 
-      graphiti</a></p>
+      dokploy</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      Open Source Alternative to Vercel, Netlify and Heroku.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15201</span>
-						<span>🔱 1288</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22275</span>
+						<span>🔱 1226</span>
 					</div>
-				<div class="stars-today">⭐ 954 stars this week</div>
+				<div class="stars-today">⭐ 699 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 32751</span>
+						<span>🔱 9631</span>
+					</div>
+				<div class="stars-today">⭐ 1699 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
+    
+
+
+      
+        zephyrproject-rtos /
+
+      zephyr</a></p>
+				<p>
+      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 12687</span>
+						<span>🔱 7694</span>
+					</div>
+				<div class="stars-today">⭐ 175 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,54 +314,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6147</span>
-						<span>🔱 844</span>
+						<span>⭐ 6154</span>
+						<span>🔱 845</span>
 					</div>
 				<div class="stars-today">⭐ 1204 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/arc53/DocsGPT" target="_blank">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
     
 
 
       
-        arc53 /
+        unclecode /
 
-      DocsGPT</a></p>
+      crawl4ai</a></p>
 				<p>
-      DocsGPT is an open-source genAI tool that helps users get reliable answers from knowledge source, while avoiding hallucinations. It enables private and reliable information retrieval, with tooling and agentic system capability built in.
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16825</span>
-						<span>🔱 1747</span>
+						<span>🔠 Python</span>
+						<span>⭐ 49702</span>
+						<span>🔱 4824</span>
 					</div>
-				<div class="stars-today">⭐ 244 stars this week</div>
+				<div class="stars-today">⭐ 1498 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gitleaks/gitleaks" target="_blank">
+				<p><a href="https://github.com/software-mansion/react-native-reanimated" target="_blank">
     
 
 
       
-        gitleaks /
+        software-mansion /
 
-      gitleaks</a></p>
+      react-native-reanimated</a></p>
 				<p>
-      Find secrets with Gitleaks 🔑
+      React Native's Animated library reimplemented
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22634</span>
-						<span>🔱 1735</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9982</span>
+						<span>🔱 1389</span>
 					</div>
-				<div class="stars-today">⭐ 509 stars this week</div>
+				<div class="stars-today">⭐ 155 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+    
+
+
+      
+        Lissy93 /
+
+      web-check</a></p>
+				<p>
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25784</span>
+						<span>🔱 2057</span>
+					</div>
+				<div class="stars-today">⭐ 208 stars this week</div>
 				</div>
 			</div>
 	
