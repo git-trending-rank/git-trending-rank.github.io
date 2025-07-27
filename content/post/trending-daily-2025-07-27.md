@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-27
-date: 2025-07-27T11:58:50Z
+date: 2025-07-27T13:58:45Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26100</span>
-						<span>🔱 2384</span>
+						<span>⭐ 26129</span>
+						<span>🔱 2385</span>
 					</div>
 				<div class="stars-today">⭐ 192 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51712</span>
-						<span>🔱 6060</span>
+						<span>⭐ 51782</span>
+						<span>🔱 6069</span>
 					</div>
 				<div class="stars-today">⭐ 485 stars today</div>
 				</div>
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4745</span>
-						<span>🔱 1392</span>
+						<span>⭐ 4768</span>
+						<span>🔱 1396</span>
 					</div>
-				<div class="stars-today">⭐ 527 stars today</div>
+				<div class="stars-today">⭐ 318 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22925</span>
-						<span>🔱 3897</span>
+						<span>⭐ 22940</span>
+						<span>🔱 3898</span>
 					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
+				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1607</span>
-						<span>🔱 782</span>
+						<span>⭐ 1637</span>
+						<span>🔱 785</span>
 					</div>
 				<div class="stars-today">⭐ 22 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 56578</span>
-						<span>🔱 4577</span>
+						<span>⭐ 56621</span>
+						<span>🔱 4579</span>
 					</div>
 				<div class="stars-today">⭐ 25 stars today</div>
 				</div>
@@ -162,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19246</span>
+						<span>⭐ 19267</span>
 						<span>🔱 1277</span>
 					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
+				<div class="stars-today">⭐ 277 stars today</div>
 				</div>
 			</div>
 	
