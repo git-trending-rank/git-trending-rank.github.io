@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第31周
-date: 2025-07-28T09:59:31Z
+date: 2025-07-28T11:58:47Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+    
+
+
+      
+        srbhr /
+
+      Resume-Matcher</a></p>
+				<p>
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20493</span>
+						<span>🔱 4165</span>
+					</div>
+				<div class="stars-today">⭐ 10472 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
@@ -30,30 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46660</span>
-						<span>🔱 4246</span>
+						<span>⭐ 46675</span>
+						<span>🔱 4249</span>
 					</div>
 				<div class="stars-today">⭐ 3213 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6488</span>
-						<span>🔱 870</span>
-					</div>
-				<div class="stars-today">⭐ 1010 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,10 +74,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5042</span>
-						<span>🔱 1420</span>
+						<span>⭐ 5064</span>
+						<span>🔱 1423</span>
 					</div>
 				<div class="stars-today">⭐ 2019 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6494</span>
+						<span>🔱 871</span>
+					</div>
+				<div class="stars-today">⭐ 1010 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12337</span>
+						<span>⭐ 12344</span>
 						<span>🔱 647</span>
 					</div>
 				<div class="stars-today">⭐ 576 stars this week</div>
@@ -116,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 28843</span>
-						<span>🔱 1220</span>
+						<span>⭐ 28848</span>
+						<span>🔱 1221</span>
 					</div>
 				<div class="stars-today">⭐ 863 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 313331</span>
-						<span>🔱 51461</span>
-					</div>
-				<div class="stars-today">⭐ 1474 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26395</span>
-						<span>🔱 3634</span>
+						<span>⭐ 26407</span>
+						<span>🔱 3635</span>
 					</div>
 				<div class="stars-today">⭐ 685 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7210</span>
-						<span>🔱 359</span>
-					</div>
-				<div class="stars-today">⭐ 2402 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 70369</span>
+						<span>⭐ 70372</span>
 						<span>🔱 18787</span>
 					</div>
 				<div class="stars-today">⭐ 255 stars this week</div>
@@ -212,112 +190,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Dokploy/dokploy" target="_blank">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
     
 
 
       
-        Dokploy /
+        donnemartin /
 
-      dokploy</a></p>
+      system-design-primer</a></p>
 				<p>
-      Open Source Alternative to Vercel, Netlify and Heroku.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22379</span>
-						<span>🔱 1231</span>
-					</div>
-				<div class="stars-today">⭐ 775 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      11 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32900</span>
-						<span>🔱 9686</span>
-					</div>
-				<div class="stars-today">⭐ 1679 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
-    
-
-
-      
-        zephyrproject-rtos /
-
-      zephyr</a></p>
-				<p>
-      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 12704</span>
-						<span>🔱 7694</span>
-					</div>
-				<div class="stars-today">⭐ 188 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Sim Studio is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6218</span>
-						<span>🔱 850</span>
-					</div>
-				<div class="stars-today">⭐ 1008 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
-    
-
-
-      
-        unclecode /
-
-      crawl4ai</a></p>
-				<p>
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49818</span>
-						<span>🔱 4829</span>
+						<span>⭐ 313346</span>
+						<span>🔱 51461</span>
 					</div>
-				<div class="stars-today">⭐ 1390 stars this week</div>
+				<div class="stars-today">⭐ 1474 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10011</span>
+						<span>⭐ 10014</span>
 						<span>🔱 1389</span>
 					</div>
 				<div class="stars-today">⭐ 157 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/spring-projects/spring-boot" target="_blank">
+    
+
+
+      
+        spring-projects /
+
+      spring-boot</a></p>
+				<p>
+      Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 77902</span>
+						<span>🔱 41344</span>
+					</div>
+				<div class="stars-today">⭐ 106 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/myshell-ai/OpenVoice" target="_blank">
+    
+
+
+      
+        myshell-ai /
+
+      OpenVoice</a></p>
+				<p>
+      Instant voice cloning by MIT and MyShell. Audio foundation model.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33501</span>
+						<span>🔱 3583</span>
+					</div>
+				<div class="stars-today">⭐ 458 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,10 +292,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25895</span>
+						<span>⭐ 25904</span>
 						<span>🔱 2060</span>
 					</div>
 				<div class="stars-today">⭐ 212 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
+    
+
+
+      
+        zephyrproject-rtos /
+
+      zephyr</a></p>
+				<p>
+      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 12707</span>
+						<span>🔱 7695</span>
+					</div>
+				<div class="stars-today">⭐ 188 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 32916</span>
+						<span>🔱 9688</span>
+					</div>
+				<div class="stars-today">⭐ 1679 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langfuse/langfuse" target="_blank">
+    
+
+
+      
+        langfuse /
+
+      langfuse</a></p>
+				<p>
+      🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14229</span>
+						<span>🔱 1314</span>
+					</div>
+				<div class="stars-today">⭐ 301 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
+    
+
+
+      
+        hesreallyhim /
+
+      awesome-claude-code</a></p>
+				<p>
+      A curated list of awesome commands, files, and workflows for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7243</span>
+						<span>🔱 362</span>
+					</div>
+				<div class="stars-today">⭐ 2402 stars this week</div>
 				</div>
 			</div>
 	

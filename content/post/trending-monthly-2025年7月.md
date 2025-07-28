@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-28T09:59:31Z
+date: 2025-07-28T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34102</span>
-						<span>🔱 8039</span>
+						<span>⭐ 34110</span>
+						<span>🔱 8040</span>
 					</div>
 				<div class="stars-today">⭐ 10307 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5147</span>
+						<span>⭐ 5152</span>
 						<span>🔱 383</span>
 					</div>
 				<div class="stars-today">⭐ 4003 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8097</span>
+						<span>⭐ 8106</span>
 						<span>🔱 589</span>
 					</div>
 				<div class="stars-today">⭐ 6395 stars this month</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10563</span>
-						<span>🔱 688</span>
+						<span>⭐ 10575</span>
+						<span>🔱 689</span>
 					</div>
 				<div class="stars-today">⭐ 5789 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7210</span>
-						<span>🔱 359</span>
-					</div>
-				<div class="stars-today">⭐ 5445 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46660</span>
-						<span>🔱 4246</span>
+						<span>⭐ 46675</span>
+						<span>🔱 4249</span>
 					</div>
 				<div class="stars-today">⭐ 4427 stars this month</div>
 				</div>
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7978</span>
-						<span>🔱 593</span>
+						<span>⭐ 8031</span>
+						<span>🔱 595</span>
 					</div>
 				<div class="stars-today">⭐ 5690 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
+    
+
+
+      
+        hesreallyhim /
+
+      awesome-claude-code</a></p>
+				<p>
+      A curated list of awesome commands, files, and workflows for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7243</span>
+						<span>🔱 362</span>
+					</div>
+				<div class="stars-today">⭐ 5445 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 26382</span>
+						<span>⭐ 26400</span>
 						<span>🔱 1452</span>
 					</div>
 				<div class="stars-today">⭐ 10513 stars this month</div>
@@ -192,112 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+				<p><a href="https://github.com/snailyp/gemini-balance" target="_blank">
     
 
 
       
-        google-gemini /
+        snailyp /
 
-      gemini-cli</a></p>
+      gemini-balance</a></p>
 				<p>
-      An open-source AI agent that brings the power of Gemini directly into your terminal.
+      Gemini polling proxy service （gemini轮询代理服务）
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 64898</span>
-						<span>🔱 6175</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3857</span>
+						<span>🔱 688</span>
 					</div>
-				<div class="stars-today">⭐ 31091 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GraphiteEditor/Graphite" target="_blank">
-    
-
-
-      
-        GraphiteEditor /
-
-      Graphite</a></p>
-				<p>
-      An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20114</span>
-						<span>🔱 828</span>
-					</div>
-				<div class="stars-today">⭐ 6811 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners</a></p>
-				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 75742</span>
-						<span>🔱 16733</span>
-					</div>
-				<div class="stars-today">⭐ 2560 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
-    
-
-
-      
-        Kilo-Org /
-
-      kilocode</a></p>
-				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5737</span>
-						<span>🔱 489</span>
-					</div>
-				<div class="stars-today">⭐ 4284 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13384</span>
-						<span>🔱 1006</span>
-					</div>
-				<div class="stars-today">⭐ 8858 stars this month</div>
+				<div class="stars-today">⭐ 2043 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29500</span>
+						<span>⭐ 29504</span>
 						<span>🔱 985</span>
 					</div>
 				<div class="stars-today">⭐ 4972 stars this month</div>
@@ -324,24 +236,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
     
 
 
       
-        twentyhq /
+        Kilo-Org /
 
-      twenty</a></p>
+      kilocode</a></p>
 				<p>
-      Building a modern alternative to Salesforce, powered by the community.
+      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34603</span>
-						<span>🔱 3882</span>
+						<span>⭐ 5746</span>
+						<span>🔱 490</span>
 					</div>
-				<div class="stars-today">⭐ 5221 stars this month</div>
+				<div class="stars-today">⭐ 4284 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
+    
+
+
+      
+        zaidmukaddam /
+
+      scira</a></p>
+				<p>
+      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10117</span>
+						<span>🔱 1244</span>
+					</div>
+				<div class="stars-today">⭐ 1824 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 75745</span>
+						<span>🔱 16736</span>
+					</div>
+				<div class="stars-today">⭐ 2560 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      gemini-cli</a></p>
+				<p>
+      An open-source AI agent that brings the power of Gemini directly into your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 64919</span>
+						<span>🔱 6178</span>
+					</div>
+				<div class="stars-today">⭐ 31091 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      happy-llm</a></p>
+				<p>
+      📚 从零开始的大语言模型原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13396</span>
+						<span>🔱 1007</span>
+					</div>
+				<div class="stars-today">⭐ 8858 stars this month</div>
 				</div>
 			</div>
 	
