@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-29
-date: 2025-07-29T09:59:39Z
+date: 2025-07-29T11:58:45Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,68 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        9001 /
 
-      awesome-llm-apps</a></p>
+      copyparty</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53259</span>
-						<span>🔱 6201</span>
+						<span>⭐ 8582</span>
+						<span>🔱 250</span>
 					</div>
-				<div class="stars-today">⭐ 1003 stars today</div>
+				<div class="stars-today">⭐ 2504 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Genesis-Embodied-AI/Genesis" target="_blank">
+				<p><a href="https://github.com/cloudwego/eino" target="_blank">
     
 
 
       
-        Genesis-Embodied-AI /
+        cloudwego /
 
-      Genesis</a></p>
+      eino</a></p>
 				<p>
-      A generative world for general-purpose robotics & embodied AI learning.
+      The ultimate LLM/AI application development framework in Golang.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26726</span>
-						<span>🔱 2424</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5539</span>
+						<span>🔱 450</span>
 					</div>
-				<div class="stars-today">⭐ 436 stars today</div>
+				<div class="stars-today">⭐ 148 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/daveebbelaar/ai-cookbook" target="_blank">
+				<p><a href="https://github.com/n0-computer/iroh" target="_blank">
     
 
 
       
-        daveebbelaar /
+        n0-computer /
 
-      ai-cookbook</a></p>
+      iroh</a></p>
 				<p>
-      Examples and tutorials to help developers build AI systems
+      peer-2-peer that just works
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2299</span>
-						<span>🔱 830</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 6080</span>
+						<span>🔱 276</span>
 					</div>
-				<div class="stars-today">⭐ 392 stars today</div>
+				<div class="stars-today">⭐ 388 stars today</div>
 				</div>
 			</div>
 	
@@ -96,98 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 57370</span>
-						<span>🔱 4612</span>
+						<span>⭐ 57406</span>
+						<span>🔱 4616</span>
 					</div>
 				<div class="stars-today">⭐ 460 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53304</span>
+						<span>🔱 6207</span>
+					</div>
+				<div class="stars-today">⭐ 1003 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
     
 
 
       
         microsoft /
 
-      generative-ai-for-beginners</a></p>
+      PowerToys</a></p>
 				<p>
-      21 Lessons, Get Started Building with Generative AI 🔗 https://microsoft.github.io/generative-ai-for-beginners/
+      Windows system utilities to maximize productivity
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 93522</span>
-						<span>🔱 48288</span>
+						<span>🔠 C#</span>
+						<span>⭐ 121314</span>
+						<span>🔱 7218</span>
 					</div>
-				<div class="stars-today">⭐ 210 stars today</div>
+				<div class="stars-today">⭐ 82 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
+				<p><a href="https://github.com/lapce/lapce" target="_blank">
     
 
 
       
-        dgtlmoon /
+        lapce /
 
-      changedetection.io</a></p>
+      lapce</a></p>
 				<p>
-      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+      Lightning-fast and Powerful Code Editor written in Rust
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25621</span>
-						<span>🔱 1410</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 36843</span>
+						<span>🔱 1161</span>
 					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mikf/gallery-dl" target="_blank">
-    
-
-
-      
-        mikf /
-
-      gallery-dl</a></p>
-				<p>
-      Command-line program to download image galleries and collections from several image hosting sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14522</span>
-						<span>🔱 1159</span>
-					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/outline/outline" target="_blank">
-    
-
-
-      
-        outline /
-
-      outline</a></p>
-				<p>
-      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33319</span>
-						<span>🔱 2727</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
+				<div class="stars-today">⭐ 70 stars today</div>
 				</div>
 			</div>
 	
@@ -206,54 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 3089</span>
-						<span>🔱 683</span>
+						<span>⭐ 3172</span>
+						<span>🔱 684</span>
 					</div>
 				<div class="stars-today">⭐ 416 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattermost-community/focalboard" target="_blank">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
     
 
 
       
-        mattermost-community /
+        linshenkx /
 
-      focalboard</a></p>
+      prompt-optimizer</a></p>
 				<p>
-      Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+      一款提示词优化器，助力于编写高质量的提示词
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24212</span>
-						<span>🔱 2262</span>
+						<span>⭐ 10877</span>
+						<span>🔱 1345</span>
 					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
+				<div class="stars-today">⭐ 339 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SillyTavern/SillyTavern" target="_blank">
+				<p><a href="https://github.com/outline/outline" target="_blank">
     
 
 
       
-        SillyTavern /
+        outline /
 
-      SillyTavern</a></p>
+      outline</a></p>
 				<p>
-      LLM Frontend for Power Users.
+      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16758</span>
-						<span>🔱 3701</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33329</span>
+						<span>🔱 2727</span>
 					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8435</span>
+						<span>🔱 618</span>
+					</div>
+				<div class="stars-today">⭐ 414 stars today</div>
 				</div>
 			</div>
 	

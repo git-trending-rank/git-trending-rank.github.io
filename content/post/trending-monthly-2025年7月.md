@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-29T09:59:39Z
+date: 2025-07-29T11:58:45Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34256</span>
-						<span>🔱 8066</span>
+						<span>⭐ 34271</span>
+						<span>🔱 8069</span>
 					</div>
 				<div class="stars-today">⭐ 10451 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5209</span>
+						<span>⭐ 5217</span>
 						<span>🔱 388</span>
 					</div>
 				<div class="stars-today">⭐ 4055 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8196</span>
+						<span>⭐ 8201</span>
 						<span>🔱 601</span>
 					</div>
 				<div class="stars-today">⭐ 6534 stars this month</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10692</span>
-						<span>🔱 702</span>
+						<span>⭐ 10702</span>
+						<span>🔱 703</span>
 					</div>
 				<div class="stars-today">⭐ 5856 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46832</span>
-						<span>🔱 4269</span>
+						<span>⭐ 46846</span>
+						<span>🔱 4271</span>
 					</div>
 				<div class="stars-today">⭐ 4674 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8396</span>
-						<span>🔱 617</span>
+						<span>⭐ 8435</span>
+						<span>🔱 618</span>
 					</div>
 				<div class="stars-today">⭐ 5972 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7458</span>
-						<span>🔱 372</span>
+						<span>⭐ 7472</span>
+						<span>🔱 374</span>
 					</div>
 				<div class="stars-today">⭐ 5632 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 26598</span>
-						<span>🔱 1471</span>
+						<span>⭐ 26620</span>
+						<span>🔱 1473</span>
 					</div>
 				<div class="stars-today">⭐ 10470 stars this month</div>
 				</div>
@@ -206,120 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3889</span>
-						<span>🔱 691</span>
+						<span>⭐ 3892</span>
+						<span>🔱 692</span>
 					</div>
 				<div class="stars-today">⭐ 2045 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
-    
-
-
-      
-        GyulyVGC /
-
-      sniffnet</a></p>
-				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29578</span>
-						<span>🔱 989</span>
-					</div>
-				<div class="stars-today">⭐ 4913 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
-    
-
-
-      
-        Kilo-Org /
-
-      kilocode</a></p>
-				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5819</span>
-						<span>🔱 498</span>
-					</div>
-				<div class="stars-today">⭐ 4330 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
-    
-
-
-      
-        zaidmukaddam /
-
-      scira</a></p>
-				<p>
-      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10181</span>
-						<span>🔱 1250</span>
-					</div>
-				<div class="stars-today">⭐ 1834 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners</a></p>
-				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 75831</span>
-						<span>🔱 16768</span>
-					</div>
-				<div class="stars-today">⭐ 2595 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      gemini-cli</a></p>
-				<p>
-      An open-source AI agent that brings the power of Gemini directly into your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 65266</span>
-						<span>🔱 6225</span>
-					</div>
-				<div class="stars-today">⭐ 26570 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +228,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13522</span>
-						<span>🔱 1021</span>
+						<span>⭐ 13535</span>
+						<span>🔱 1023</span>
 					</div>
 				<div class="stars-today">⭐ 8921 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
+    
+
+
+      
+        zaidmukaddam /
+
+      scira</a></p>
+				<p>
+      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10185</span>
+						<span>🔱 1250</span>
+					</div>
+				<div class="stars-today">⭐ 1834 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6575</span>
+						<span>🔱 880</span>
+					</div>
+				<div class="stars-today">⭐ 2451 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
+    
+
+
+      
+        Kilo-Org /
+
+      kilocode</a></p>
+				<p>
+      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5827</span>
+						<span>🔱 498</span>
+					</div>
+				<div class="stars-today">⭐ 4330 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+    
+
+
+      
+        GyulyVGC /
+
+      sniffnet</a></p>
+				<p>
+      Comfortably monitor your Internet traffic 🕵️‍♂️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 29582</span>
+						<span>🔱 989</span>
+					</div>
+				<div class="stars-today">⭐ 4913 stars this month</div>
 				</div>
 			</div>
 	

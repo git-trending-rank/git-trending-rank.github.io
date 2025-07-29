@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第31周
-date: 2025-07-29T09:59:40Z
+date: 2025-07-29T11:58:45Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20670</span>
+						<span>⭐ 20687</span>
 						<span>🔱 4184</span>
 					</div>
 				<div class="stars-today">⭐ 8664 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46832</span>
-						<span>🔱 4269</span>
+						<span>⭐ 46846</span>
+						<span>🔱 4271</span>
 					</div>
 				<div class="stars-today">⭐ 3244 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5147</span>
+						<span>⭐ 5152</span>
 						<span>🔱 1434</span>
 					</div>
 				<div class="stars-today">⭐ 2296 stars this week</div>
@@ -82,88 +82,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+				<p><a href="https://github.com/remoteintech/remote-jobs" target="_blank">
     
 
 
       
-        langchain-ai /
+        remoteintech /
 
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6574</span>
-						<span>🔱 880</span>
-					</div>
-				<div class="stars-today">⭐ 800 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tracel-ai/burn" target="_blank">
-    
-
-
-      
-        tracel-ai /
-
-      burn</a></p>
+      remote-jobs</a></p>
 				<p>
-      Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
+      A list of semi to fully remote-friendly companies (jobs) in tech.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12379</span>
-						<span>🔱 648</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 37460</span>
+						<span>🔱 3648</span>
 					</div>
-				<div class="stars-today">⭐ 408 stars this week</div>
+				<div class="stars-today">⭐ 2814 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
     
 
 
       
-        hyprwm /
+        roboflow /
 
-      Hyprland</a></p>
+      supervision</a></p>
 				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 28907</span>
-						<span>🔱 1225</span>
-					</div>
-				<div class="stars-today">⭐ 667 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
-    
-
-
-      
-        BerriAI /
-
-      litellm</a></p>
-				<p>
-      Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+      We write your reusable computer vision tools. 💜
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26482</span>
-						<span>🔱 3650</span>
+						<span>⭐ 30951</span>
+						<span>🔱 2442</span>
 					</div>
-				<div class="stars-today">⭐ 734 stars this week</div>
+				<div class="stars-today">⭐ 1749 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,10 +140,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 70388</span>
+						<span>⭐ 70389</span>
 						<span>🔱 18790</span>
 					</div>
 				<div class="stars-today">⭐ 276 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6575</span>
+						<span>🔱 880</span>
+					</div>
+				<div class="stars-today">⭐ 800 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 313483</span>
-						<span>🔱 51483</span>
+						<span>⭐ 313497</span>
+						<span>🔱 51484</span>
 					</div>
 				<div class="stars-today">⭐ 1537 stars this week</div>
 				</div>
@@ -226,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10032</span>
+						<span>⭐ 10033</span>
 						<span>🔱 1392</span>
 					</div>
 				<div class="stars-today">⭐ 187 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SillyTavern/SillyTavern" target="_blank">
+    
+
+
+      
+        SillyTavern /
+
+      SillyTavern</a></p>
+				<p>
+      LLM Frontend for Power Users.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16766</span>
+						<span>🔱 3702</span>
+					</div>
+				<div class="stars-today">⭐ 279 stars this week</div>
 				</div>
 			</div>
 	
@@ -256,6 +256,50 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3</a></p>
+				<p>
+      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23512</span>
+						<span>🔱 1583</span>
+					</div>
+				<div class="stars-today">⭐ 854 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53304</span>
+						<span>🔱 6207</span>
+					</div>
+				<div class="stars-today">⭐ 2493 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/myshell-ai/OpenVoice" target="_blank">
     
 
@@ -270,76 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33609</span>
-						<span>🔱 3589</span>
+						<span>⭐ 33617</span>
+						<span>🔱 3590</span>
 					</div>
 				<div class="stars-today">⭐ 436 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
-    
-
-
-      
-        Lissy93 /
-
-      web-check</a></p>
-				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25985</span>
-						<span>🔱 2064</span>
-					</div>
-				<div class="stars-today">⭐ 260 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
-    
-
-
-      
-        zephyrproject-rtos /
-
-      zephyr</a></p>
-				<p>
-      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 12725</span>
-						<span>🔱 7701</span>
-					</div>
-				<div class="stars-today">⭐ 207 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      11 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33030</span>
-						<span>🔱 9742</span>
-					</div>
-				<div class="stars-today">⭐ 1620 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14305</span>
+						<span>⭐ 14308</span>
 						<span>🔱 1320</span>
 					</div>
 				<div class="stars-today">⭐ 312 stars this week</div>
@@ -366,24 +344,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
+				<p><a href="https://github.com/EpicGamesExt/raddebugger" target="_blank">
     
 
 
       
-        hesreallyhim /
+        EpicGamesExt /
 
-      awesome-claude-code</a></p>
+      raddebugger</a></p>
 				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
+      A native, user-mode, multi-process, graphical debugger.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7458</span>
-						<span>🔱 372</span>
+						<span>🔠 C</span>
+						<span>⭐ 5324</span>
+						<span>🔱 238</span>
 					</div>
-				<div class="stars-today">⭐ 2292 stars this week</div>
+				<div class="stars-today">⭐ 141 stars this week</div>
 				</div>
 			</div>
 	
