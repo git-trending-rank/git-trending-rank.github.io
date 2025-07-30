@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年7月
-date: 2025-07-30T10:00:06Z
+date: 2025-07-30T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34397</span>
-						<span>🔱 8085</span>
+						<span>⭐ 34415</span>
+						<span>🔱 8088</span>
 					</div>
 				<div class="stars-today">⭐ 10587 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5333</span>
-						<span>🔱 391</span>
+						<span>⭐ 5347</span>
+						<span>🔱 392</span>
 					</div>
 				<div class="stars-today">⭐ 4114 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8290</span>
-						<span>🔱 604</span>
+						<span>⭐ 8298</span>
+						<span>🔱 606</span>
 					</div>
 				<div class="stars-today">⭐ 6628 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10830</span>
-						<span>🔱 713</span>
+						<span>⭐ 10843</span>
+						<span>🔱 714</span>
 					</div>
 				<div class="stars-today">⭐ 5942 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47002</span>
-						<span>🔱 4285</span>
+						<span>⭐ 47012</span>
+						<span>🔱 4287</span>
 					</div>
 				<div class="stars-today">⭐ 4833 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8804</span>
-						<span>🔱 640</span>
+						<span>⭐ 8834</span>
+						<span>🔱 641</span>
 					</div>
 				<div class="stars-today">⭐ 6295 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7652</span>
+						<span>⭐ 7662</span>
 						<span>🔱 383</span>
 					</div>
 				<div class="stars-today">⭐ 5773 stars this month</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 26825</span>
+						<span>⭐ 26843</span>
 						<span>🔱 1485</span>
 					</div>
 				<div class="stars-today">⭐ 10506 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/snailyp/gemini-balance" target="_blank">
-    
-
-
-      
-        snailyp /
-
-      gemini-balance</a></p>
-				<p>
-      Gemini polling proxy service （gemini轮询代理服务）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3918</span>
-						<span>🔱 697</span>
-					</div>
-				<div class="stars-today">⭐ 2045 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13665</span>
-						<span>🔱 1036</span>
+						<span>⭐ 13671</span>
+						<span>🔱 1037</span>
 					</div>
 				<div class="stars-today">⭐ 8998 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zaidmukaddam/scira" target="_blank">
-    
-
-
-      
-        zaidmukaddam /
-
-      scira</a></p>
-				<p>
-      Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10215</span>
-						<span>🔱 1253</span>
-					</div>
-				<div class="stars-today">⭐ 1888 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6636</span>
+						<span>⭐ 6641</span>
 						<span>🔱 889</span>
 					</div>
 				<div class="stars-today">⭐ 2519 stars this month</div>
@@ -292,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5917</span>
+						<span>⭐ 5923</span>
 						<span>🔱 508</span>
 					</div>
 				<div class="stars-today">⭐ 4358 stars this month</div>
@@ -300,24 +256,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
     
 
 
       
-        GyulyVGC /
+        RSSNext /
 
-      sniffnet</a></p>
+      Folo</a></p>
 				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
+      🧡 Follow everything in one place
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29639</span>
-						<span>🔱 990</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30366</span>
+						<span>🔱 1372</span>
 					</div>
-				<div class="stars-today">⭐ 4606 stars this month</div>
+				<div class="stars-today">⭐ 3445 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+    
+
+
+      
+        gorhill /
+
+      uBlock</a></p>
+				<p>
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 56920</span>
+						<span>🔱 3627</span>
+					</div>
+				<div class="stars-today">⭐ 2236 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/snailyp/gemini-balance" target="_blank">
+    
+
+
+      
+        snailyp /
+
+      gemini-balance</a></p>
+				<p>
+      Gemini polling proxy service （gemini轮询代理服务）
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3924</span>
+						<span>🔱 697</span>
+					</div>
+				<div class="stars-today">⭐ 2045 stars this month</div>
 				</div>
 			</div>
 	

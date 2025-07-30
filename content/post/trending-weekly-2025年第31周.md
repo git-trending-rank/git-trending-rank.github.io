@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第31周
-date: 2025-07-30T10:00:06Z
+date: 2025-07-30T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20833</span>
+						<span>⭐ 20849</span>
 						<span>🔱 4197</span>
 					</div>
 				<div class="stars-today">⭐ 7747 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47002</span>
-						<span>🔱 4285</span>
+						<span>⭐ 47012</span>
+						<span>🔱 4287</span>
 					</div>
 				<div class="stars-today">⭐ 2913 stars this week</div>
 				</div>
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5249</span>
-						<span>🔱 1441</span>
+						<span>⭐ 5256</span>
+						<span>🔱 1443</span>
 					</div>
 				<div class="stars-today">⭐ 2262 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/remoteintech/remote-jobs" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        remoteintech /
+        Shubhamsaboo /
 
-      remote-jobs</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      A list of semi to fully remote-friendly companies (jobs) in tech.
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 37658</span>
-						<span>🔱 3657</span>
+						<span>🔠 Python</span>
+						<span>⭐ 53768</span>
+						<span>🔱 6245</span>
 					</div>
-				<div class="stars-today">⭐ 2080 stars this week</div>
+				<div class="stars-today">⭐ 2539 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,74 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31667</span>
-						<span>🔱 2522</span>
+						<span>⭐ 31714</span>
+						<span>🔱 2529</span>
 					</div>
 				<div class="stars-today">⭐ 1833 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moby/moby" target="_blank">
-    
-
-
-      
-        moby /
-
-      moby</a></p>
-				<p>
-      The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 70403</span>
-						<span>🔱 18792</span>
-					</div>
-				<div class="stars-today">⭐ 286 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6636</span>
-						<span>🔱 889</span>
-					</div>
-				<div class="stars-today">⭐ 595 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 313621</span>
-						<span>🔱 51496</span>
-					</div>
-				<div class="stars-today">⭐ 1352 stars this week</div>
 				</div>
 			</div>
 	
@@ -212,46 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SillyTavern/SillyTavern" target="_blank">
+				<p><a href="https://github.com/cloudwego/eino" target="_blank">
     
 
 
       
-        SillyTavern /
+        cloudwego /
 
-      SillyTavern</a></p>
+      eino</a></p>
 				<p>
-      LLM Frontend for Power Users.
+      The ultimate LLM/AI application development framework in Golang.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16823</span>
-						<span>🔱 3710</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5842</span>
+						<span>🔱 463</span>
 					</div>
-				<div class="stars-today">⭐ 483 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/spring-projects/spring-boot" target="_blank">
-    
-
-
-      
-        spring-projects /
-
-      spring-boot</a></p>
-				<p>
-      Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 77932</span>
-						<span>🔱 41356</span>
-					</div>
-				<div class="stars-today">⭐ 115 stars this week</div>
+				<div class="stars-today">⭐ 435 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23568</span>
+						<span>⭐ 23571</span>
 						<span>🔱 1586</span>
 					</div>
 				<div class="stars-today">⭐ 859 stars this week</div>
@@ -278,90 +192,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/remoteintech/remote-jobs" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        remoteintech /
 
-      awesome-llm-apps</a></p>
+      remote-jobs</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      A list of semi to fully remote-friendly companies (jobs) in tech.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 37673</span>
+						<span>🔱 3658</span>
+					</div>
+				<div class="stars-today">⭐ 2080 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SillyTavern/SillyTavern" target="_blank">
+    
+
+
+      
+        SillyTavern /
+
+      SillyTavern</a></p>
+				<p>
+      LLM Frontend for Power Users.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16826</span>
+						<span>🔱 3710</span>
+					</div>
+				<div class="stars-today">⭐ 483 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53743</span>
-						<span>🔱 6242</span>
+						<span>⭐ 33552</span>
+						<span>🔱 4123</span>
 					</div>
-				<div class="stars-today">⭐ 2539 stars this week</div>
+				<div class="stars-today">⭐ 965 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/myshell-ai/OpenVoice" target="_blank">
+				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
     
 
 
       
-        myshell-ai /
+        BerriAI /
 
-      OpenVoice</a></p>
+      litellm</a></p>
 				<p>
-      Instant voice cloning by MIT and MyShell. Audio foundation model.
+      Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33700</span>
-						<span>🔱 3596</span>
+						<span>⭐ 26546</span>
+						<span>🔱 3662</span>
 					</div>
-				<div class="stars-today">⭐ 321 stars this week</div>
+				<div class="stars-today">⭐ 754 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langfuse/langfuse" target="_blank">
+				<p><a href="https://github.com/spring-projects/spring-boot" target="_blank">
     
 
 
       
-        langfuse /
+        spring-projects /
 
-      langfuse</a></p>
+      spring-boot</a></p>
 				<p>
-      🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+      Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14400</span>
-						<span>🔱 1326</span>
+						<span>🔠 Java</span>
+						<span>⭐ 77934</span>
+						<span>🔱 41357</span>
 					</div>
-				<div class="stars-today">⭐ 354 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EpicGamesExt/raddebugger" target="_blank">
-    
-
-
-      
-        EpicGamesExt /
-
-      raddebugger</a></p>
-				<p>
-      A native, user-mode, multi-process, graphical debugger.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 5345</span>
-						<span>🔱 239</span>
-					</div>
-				<div class="stars-today">⭐ 143 stars this week</div>
+				<div class="stars-today">⭐ 115 stars this week</div>
 				</div>
 			</div>
 	
