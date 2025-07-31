@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-31
-date: 2025-07-31T07:58:43Z
+date: 2025-07-31T09:59:05Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14970</span>
-						<span>🔱 474</span>
+						<span>⭐ 15290</span>
+						<span>🔱 482</span>
 					</div>
 				<div class="stars-today">⭐ 3579 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32215</span>
-						<span>🔱 2571</span>
+						<span>⭐ 32268</span>
+						<span>🔱 2573</span>
 					</div>
 				<div class="stars-today">⭐ 752 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33769</span>
+						<span>⭐ 33788</span>
 						<span>🔱 2741</span>
 					</div>
 				<div class="stars-today">⭐ 256 stars today</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11587</span>
-						<span>🔱 1411</span>
+						<span>⭐ 11647</span>
+						<span>🔱 1416</span>
 					</div>
 				<div class="stars-today">⭐ 403 stars today</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 57972</span>
-						<span>🔱 4638</span>
+						<span>⭐ 57995</span>
+						<span>🔱 4639</span>
 					</div>
 				<div class="stars-today">⭐ 354 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      mcp-for-beginners</a></p>
+				<p>
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5920</span>
+						<span>🔱 1649</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14683</span>
-						<span>🔱 1164</span>
+						<span>⭐ 14695</span>
+						<span>🔱 1165</span>
 					</div>
 				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 387383</span>
-						<span>🔱 30919</span>
+						<span>⭐ 387435</span>
+						<span>🔱 30922</span>
 					</div>
 				<div class="stars-today">⭐ 483 stars today</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 4266</span>
-						<span>🔱 779</span>
+						<span>⭐ 4336</span>
+						<span>🔱 785</span>
 					</div>
 				<div class="stars-today">⭐ 664 stars today</div>
 				</div>
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5989</span>
+						<span>⭐ 6010</span>
 						<span>🔱 471</span>
 					</div>
 				<div class="stars-today">⭐ 304 stars today</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24424</span>
-						<span>🔱 2267</span>
+						<span>⭐ 24434</span>
+						<span>🔱 2268</span>
 					</div>
 				<div class="stars-today">⭐ 40 stars today</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3700</span>
-						<span>🔱 416</span>
+						<span>⭐ 3716</span>
+						<span>🔱 417</span>
 					</div>
 				<div class="stars-today">⭐ 118 stars today</div>
 				</div>
