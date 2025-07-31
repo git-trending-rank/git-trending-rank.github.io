@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-07-31
-date: 2025-07-31T09:59:05Z
+date: 2025-07-31T11:58:53Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,114 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kijai/ComfyUI-WanVideoWrapper" target="_blank">
+    
+
+
+      
+        kijai /
+
+      ComfyUI-WanVideoWrapper</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3548</span>
+						<span>🔱 265</span>
+					</div>
+				<div class="stars-today">⭐ 32 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stenzek/duckstation" target="_blank">
+    
+
+
+      
+        stenzek /
+
+      duckstation</a></p>
+				<p>
+      Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8561</span>
+						<span>🔱 770</span>
+					</div>
+				<div class="stars-today">⭐ 23 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SkyworkAI/SkyReels-V2" target="_blank">
+    
+
+
+      
+        SkyworkAI /
+
+      SkyReels-V2</a></p>
+				<p>
+      SkyReels-V2: Infinite-length Film Generative model
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3722</span>
+						<span>🔱 482</span>
+					</div>
+				<div class="stars-today">⭐ 20 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
+    
+
+
+      
+        OpenPipe /
+
+      ART</a></p>
+				<p>
+      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3989</span>
+						<span>🔱 247</span>
+					</div>
+				<div class="stars-today">⭐ 251 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EmenstaNougat/ESP32-BlueJammer" target="_blank">
+    
+
+
+      
+        EmenstaNougat /
+
+      ESP32-BlueJammer</a></p>
+				<p>
+      The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 3374</span>
+						<span>🔱 508</span>
+					</div>
+				<div class="stars-today">⭐ 499 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/9001/copyparty" target="_blank">
@@ -30,186 +138,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15290</span>
-						<span>🔱 482</span>
+						<span>⭐ 15476</span>
+						<span>🔱 493</span>
 					</div>
 				<div class="stars-today">⭐ 3579 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
     
 
 
       
-        roboflow /
+        puppeteer /
 
-      supervision</a></p>
+      puppeteer</a></p>
 				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32268</span>
-						<span>🔱 2573</span>
-					</div>
-				<div class="stars-today">⭐ 752 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/outline/outline" target="_blank">
-    
-
-
-      
-        outline /
-
-      outline</a></p>
-				<p>
-      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+      JavaScript API for Chrome and Firefox
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33788</span>
-						<span>🔱 2741</span>
+						<span>⭐ 91318</span>
+						<span>🔱 9240</span>
 					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
+				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
     
 
 
       
-        linshenkx /
+        Canner /
 
-      prompt-optimizer</a></p>
+      WrenAI</a></p>
 				<p>
-      一款提示词优化器，助力于编写高质量的提示词
+      ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11647</span>
-						<span>🔱 1416</span>
+						<span>⭐ 8994</span>
+						<span>🔱 927</span>
 					</div>
-				<div class="stars-today">⭐ 403 stars today</div>
+				<div class="stars-today">⭐ 126 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tldr-pages/tldr" target="_blank">
+				<p><a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank">
     
 
 
       
-        tldr-pages /
+        pointfreeco /
 
-      tldr</a></p>
+      swift-composable-architecture</a></p>
 				<p>
-      📚 Collaborative cheatsheets for console commands
+      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 57995</span>
-						<span>🔱 4639</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 13531</span>
+						<span>🔱 1555</span>
 					</div>
-				<div class="stars-today">⭐ 354 stars today</div>
+				<div class="stars-today">⭐ 7 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
+				<p><a href="https://github.com/fastrepl/hyprnote" target="_blank">
     
 
 
       
-        microsoft /
+        fastrepl /
 
-      mcp-for-beginners</a></p>
+      hyprnote</a></p>
 				<p>
-      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+      Local-first AI Notepad for Private Meetings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5920</span>
-						<span>🔱 1649</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3444</span>
+						<span>🔱 179</span>
 					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
+				<div class="stars-today">⭐ 466 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mikf/gallery-dl" target="_blank">
+				<p><a href="https://github.com/NemProject/nem" target="_blank">
     
 
 
       
-        mikf /
+        NemProject /
 
-      gallery-dl</a></p>
+      nem</a></p>
 				<p>
-      Command-line program to download image galleries and collections from several image hosting sites
+      number go up 💹
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14695</span>
-						<span>🔱 1165</span>
+						<span>🔠 Java</span>
+						<span>⭐ 35</span>
+						<span>🔱 15</span>
 					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
+				<div class="stars-today">⭐ 206 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sindresorhus/awesome" target="_blank">
+				<p><a href="https://github.com/linkwarden/linkwarden" target="_blank">
     
 
 
       
-        sindresorhus /
+        linkwarden /
 
-      awesome</a></p>
+      linkwarden</a></p>
 				<p>
-      😎 Awesome lists about all kinds of interesting topics
+      ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 387435</span>
-						<span>🔱 30922</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13235</span>
+						<span>🔱 515</span>
 					</div>
-				<div class="stars-today">⭐ 483 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects" target="_blank">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
     
 
 
       
-        ashishpatel26 /
+        rustdesk /
 
-      500-AI-Agents-Projects</a></p>
+      rustdesk</a></p>
 				<p>
-      The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 4336</span>
-						<span>🔱 785</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 94326</span>
+						<span>🔱 13804</span>
 					</div>
-				<div class="stars-today">⭐ 664 stars today</div>
+				<div class="stars-today">⭐ 162 stars today</div>
 				</div>
 			</div>
 	
@@ -228,54 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6010</span>
-						<span>🔱 471</span>
+						<span>⭐ 6024</span>
+						<span>🔱 470</span>
 					</div>
 				<div class="stars-today">⭐ 304 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattermost-community/focalboard" target="_blank">
-    
-
-
-      
-        mattermost-community /
-
-      focalboard</a></p>
-				<p>
-      Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24434</span>
-						<span>🔱 2268</span>
-					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
-    
-
-
-      
-        LMCache /
-
-      LMCache</a></p>
-				<p>
-      Supercharge Your LLM with the Fastest KV Cache Layer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3716</span>
-						<span>🔱 417</span>
-					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
 				</div>
 			</div>
 	

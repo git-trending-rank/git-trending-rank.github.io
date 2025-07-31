@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第31周
-date: 2025-07-31T09:59:05Z
+date: 2025-07-31T11:58:53Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">
     
 
 
       
-        srbhr /
+        QwenLM /
 
-      Resume-Matcher</a></p>
+      Qwen3-Coder</a></p>
 				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+      Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21001</span>
-						<span>🔱 4201</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10400</span>
+						<span>🔱 725</span>
 					</div>
-				<div class="stars-today">⭐ 5322 stars this week</div>
+				<div class="stars-today">⭐ 2693 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47172</span>
+						<span>⭐ 47180</span>
 						<span>🔱 4305</span>
 					</div>
 				<div class="stars-today">⭐ 2455 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+    
+
+
+      
+        srbhr /
+
+      Resume-Matcher</a></p>
+				<p>
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21012</span>
+						<span>🔱 4203</span>
+					</div>
+				<div class="stars-today">⭐ 5322 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5320</span>
-						<span>🔱 1450</span>
+						<span>⭐ 5330</span>
+						<span>🔱 1452</span>
 					</div>
 				<div class="stars-today">⭐ 2269 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53915</span>
-						<span>🔱 6268</span>
-					</div>
-				<div class="stars-today">⭐ 2860 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32268</span>
-						<span>🔱 2573</span>
-					</div>
-				<div class="stars-today">⭐ 2136 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/software-mansion/react-native-reanimated" target="_blank">
-    
-
-
-      
-        software-mansion /
-
-      react-native-reanimated</a></p>
-				<p>
-      React Native's Animated library reimplemented
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10059</span>
-						<span>🔱 1395</span>
-					</div>
-				<div class="stars-today">⭐ 209 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,142 +118,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6010</span>
-						<span>🔱 471</span>
+						<span>⭐ 6024</span>
+						<span>🔱 470</span>
 					</div>
 				<div class="stars-today">⭐ 705 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        QwenLM /
+        Shubhamsaboo /
 
-      Qwen3</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23625</span>
-						<span>🔱 1588</span>
+						<span>⭐ 53952</span>
+						<span>🔱 6270</span>
 					</div>
-				<div class="stars-today">⭐ 802 stars this week</div>
+				<div class="stars-today">⭐ 2860 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/remoteintech/remote-jobs" target="_blank">
+				<p><a href="https://github.com/software-mansion/react-native-reanimated" target="_blank">
     
 
 
       
-        remoteintech /
+        software-mansion /
 
-      remote-jobs</a></p>
+      react-native-reanimated</a></p>
 				<p>
-      A list of semi to fully remote-friendly companies (jobs) in tech.
+      React Native's Animated library reimplemented
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 37830</span>
-						<span>🔱 3667</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10062</span>
+						<span>🔱 1395</span>
 					</div>
-				<div class="stars-today">⭐ 1683 stars this week</div>
+				<div class="stars-today">⭐ 209 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SillyTavern/SillyTavern" target="_blank">
+				<p><a href="https://github.com/Genesis-Embodied-AI/Genesis" target="_blank">
     
 
 
       
-        SillyTavern /
+        Genesis-Embodied-AI /
 
-      SillyTavern</a></p>
+      Genesis</a></p>
 				<p>
-      LLM Frontend for Power Users.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16890</span>
-						<span>🔱 3714</span>
-					</div>
-				<div class="stars-today">⭐ 519 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+      A generative world for general-purpose robotics & embodied AI learning.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33632</span>
-						<span>🔱 4127</span>
+						<span>⭐ 26789</span>
+						<span>🔱 2437</span>
 					</div>
-				<div class="stars-today">⭐ 936 stars this week</div>
+				<div class="stars-today">⭐ 919 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
     
 
 
       
-        BerriAI /
+        roboflow /
 
-      litellm</a></p>
+      supervision</a></p>
 				<p>
-      Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
+      We write your reusable computer vision tools. 💜
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26649</span>
-						<span>🔱 3678</span>
+						<span>⭐ 32298</span>
+						<span>🔱 2575</span>
 					</div>
-				<div class="stars-today">⭐ 727 stars this week</div>
+				<div class="stars-today">⭐ 2136 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/spring-projects/spring-boot" target="_blank">
+				<p><a href="https://github.com/tldr-pages/tldr" target="_blank">
     
 
 
       
-        spring-projects /
+        tldr-pages /
 
-      spring-boot</a></p>
+      tldr</a></p>
 				<p>
-      Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
+      📚 Collaborative cheatsheets for console commands
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 77951</span>
-						<span>🔱 41360</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 58009</span>
+						<span>🔱 4641</span>
 					</div>
-				<div class="stars-today">⭐ 124 stars this week</div>
+				<div class="stars-today">⭐ 1421 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+    
+
+
+      
+        twbs /
+
+      bootstrap</a></p>
+				<p>
+      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 172743</span>
+						<span>🔱 79128</span>
+					</div>
+				<div class="stars-today">⭐ 221 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alamofire/Alamofire" target="_blank">
+    
+
+
+      
+        Alamofire /
+
+      Alamofire</a></p>
+				<p>
+      Elegant HTTP Networking in Swift
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 42032</span>
+						<span>🔱 7628</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars this week</div>
 				</div>
 			</div>
 	
