@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-01T09:59:27Z
+date: 2025-08-01T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34663</span>
-						<span>🔱 8129</span>
-					</div>
-				<div class="stars-today">⭐ 10814 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
@@ -52,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5523</span>
+						<span>⭐ 5532</span>
 						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 4331 stars this month</div>
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8463</span>
+						<span>⭐ 8472</span>
 						<span>🔱 617</span>
 					</div>
 				<div class="stars-today">⭐ 6793 stars this month</div>
@@ -82,24 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
     
 
 
       
-        humanlayer /
+        NanmiCoder /
 
-      12-factor-agents</a></p>
+      MediaCrawler</a></p>
 				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11097</span>
-						<span>🔱 736</span>
+						<span>🔠 Python</span>
+						<span>⭐ 34680</span>
+						<span>🔱 8133</span>
 					</div>
-				<div class="stars-today">⭐ 6129 stars this month</div>
+				<div class="stars-today">⭐ 10814 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47306</span>
-						<span>🔱 4322</span>
+						<span>⭐ 47315</span>
+						<span>🔱 4324</span>
 					</div>
 				<div class="stars-today">⭐ 5175 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11105</span>
+						<span>🔱 736</span>
+					</div>
+				<div class="stars-today">⭐ 6129 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9272</span>
-						<span>🔱 668</span>
+						<span>⭐ 9284</span>
+						<span>🔱 671</span>
 					</div>
 				<div class="stars-today">⭐ 6793 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8103</span>
+						<span>⭐ 8121</span>
 						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 6139 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 27231</span>
-						<span>🔱 1518</span>
+						<span>⭐ 27250</span>
+						<span>🔱 1519</span>
 					</div>
 				<div class="stars-today">⭐ 10710 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 15901</span>
-						<span>🔱 989</span>
+						<span>⭐ 15920</span>
+						<span>🔱 992</span>
 					</div>
 				<div class="stars-today">⭐ 8138 stars this month</div>
 				</div>
@@ -226,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6827</span>
-						<span>🔱 912</span>
+						<span>⭐ 6832</span>
+						<span>🔱 913</span>
 					</div>
 				<div class="stars-today">⭐ 2659 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 69973</span>
+						<span>🔱 3774</span>
+					</div>
+				<div class="stars-today">⭐ 10556 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13903</span>
-						<span>🔱 1062</span>
+						<span>⭐ 13916</span>
+						<span>🔱 1064</span>
 					</div>
 				<div class="stars-today">⭐ 9091 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
-    
-
-
-      
-        Kilo-Org /
-
-      kilocode</a></p>
-				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6138</span>
-						<span>🔱 534</span>
-					</div>
-				<div class="stars-today">⭐ 4500 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
-    
-
-
-      
-        RSSNext /
-
-      Folo</a></p>
-				<p>
-      🧡 Follow everything in one place
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30523</span>
-						<span>🔱 1374</span>
-					</div>
-				<div class="stars-today">⭐ 3551 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57022</span>
-						<span>🔱 3631</span>
+						<span>⭐ 57029</span>
+						<span>🔱 3633</span>
 					</div>
 				<div class="stars-today">⭐ 2317 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frappe/hrms" target="_blank">
+    
+
+
+      
+        frappe /
+
+      hrms</a></p>
+				<p>
+      Open Source HR and Payroll Software
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5412</span>
+						<span>🔱 1468</span>
+					</div>
+				<div class="stars-today">⭐ 2691 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15632</span>
-						<span>🔱 1340</span>
+						<span>⭐ 15653</span>
+						<span>🔱 1342</span>
 					</div>
 				<div class="stars-today">⭐ 3737 stars this month</div>
 				</div>

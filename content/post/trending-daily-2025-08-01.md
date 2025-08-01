@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-01
-date: 2025-08-01T09:59:27Z
+date: 2025-08-01T11:58:36Z
 categories:
 - daily
 keywords:
@@ -14,70 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kijai/ComfyUI-WanVideoWrapper" target="_blank">
-    
-
-
-      
-        kijai /
-
-      ComfyUI-WanVideoWrapper</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3720</span>
-						<span>🔱 280</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stenzek/duckstation" target="_blank">
-    
-
-
-      
-        stenzek /
-
-      duckstation</a></p>
-				<p>
-      Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8745</span>
-						<span>🔱 789</span>
-					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SkyworkAI/SkyReels-V2" target="_blank">
-    
-
-
-      
-        SkyworkAI /
-
-      SkyReels-V2</a></p>
-				<p>
-      SkyReels-V2: Infinite-length Film Generative model
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4020</span>
-						<span>🔱 496</span>
-					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
@@ -94,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4353</span>
+						<span>⭐ 4381</span>
 						<span>🔱 267</span>
 					</div>
 				<div class="stars-today">⭐ 279 stars today</div>
@@ -102,46 +38,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EmenstaNougat/ESP32-BlueJammer" target="_blank">
+				<p><a href="https://github.com/TandoorRecipes/recipes" target="_blank">
     
 
 
       
-        EmenstaNougat /
+        TandoorRecipes /
 
-      ESP32-BlueJammer</a></p>
+      recipes</a></p>
 				<p>
-      The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing. 
+      Application for managing recipes, planning meals, building shopping lists and much much more!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 3664</span>
-						<span>🔱 524</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 6554</span>
+						<span>🔱 655</span>
 					</div>
-				<div class="stars-today">⭐ 399 stars today</div>
+				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
+				<p><a href="https://github.com/devlikeapro/waha" target="_blank">
     
 
 
       
-        9001 /
+        devlikeapro /
 
-      copyparty</a></p>
+      waha</a></p>
 				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+      WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17002</span>
-						<span>🔱 549</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2413</span>
+						<span>🔱 650</span>
 					</div>
-				<div class="stars-today">⭐ 3325 stars today</div>
+				<div class="stars-today">⭐ 349 stars today</div>
 				</div>
 			</div>
 	
@@ -160,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 91460</span>
+						<span>⭐ 91473</span>
 						<span>🔱 9244</span>
 					</div>
 				<div class="stars-today">⭐ 26 stars today</div>
@@ -168,156 +104,178 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
+				<p><a href="https://github.com/kubesphere/kubesphere" target="_blank">
     
 
 
       
-        Canner /
+        kubesphere /
 
-      WrenAI</a></p>
+      kubesphere</a></p>
 				<p>
-      ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language, get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9349</span>
-						<span>🔱 946</span>
-					</div>
-				<div class="stars-today">⭐ 119 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank">
-    
-
-
-      
-        pointfreeco /
-
-      swift-composable-architecture</a></p>
-				<p>
-      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 13593</span>
-						<span>🔱 1556</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fastrepl/hyprnote" target="_blank">
-    
-
-
-      
-        fastrepl /
-
-      hyprnote</a></p>
-				<p>
-      Local-first AI Notepad for Private Meetings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3869</span>
-						<span>🔱 194</span>
-					</div>
-				<div class="stars-today">⭐ 174 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NemProject/nem" target="_blank">
-    
-
-
-      
-        NemProject /
-
-      nem</a></p>
-				<p>
-      number go up 💹
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 109</span>
-						<span>🔱 33</span>
-					</div>
-				<div class="stars-today">⭐ 154 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linkwarden/linkwarden" target="_blank">
-    
-
-
-      
-        linkwarden /
-
-      linkwarden</a></p>
-				<p>
-      ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13691</span>
-						<span>🔱 529</span>
-					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
-    
-
-
-      
-        rustdesk /
-
-      rustdesk</a></p>
-				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 94599</span>
-						<span>🔱 13840</span>
-					</div>
-				<div class="stars-today">⭐ 125 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudwego/eino" target="_blank">
-    
-
-
-      
-        cloudwego /
-
-      eino</a></p>
-				<p>
-      The ultimate LLM/AI application development framework in Golang.
+      The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6193</span>
-						<span>🔱 477</span>
+						<span>⭐ 16222</span>
+						<span>🔱 2427</span>
 					</div>
-				<div class="stars-today">⭐ 184 stars today</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eclipse-sumo/sumo" target="_blank">
+    
+
+
+      
+        eclipse-sumo /
+
+      sumo</a></p>
+				<p>
+      Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 2974</span>
+						<span>🔱 1573</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
+    
+
+
+      
+        9001 /
+
+      copyparty</a></p>
+				<p>
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17117</span>
+						<span>🔱 556</span>
+					</div>
+				<div class="stars-today">⭐ 3325 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+    
+
+
+      
+        dyad-sh /
+
+      dyad</a></p>
+				<p>
+      Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2741</span>
+						<span>🔱 417</span>
+					</div>
+				<div class="stars-today">⭐ 276 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stenzek/duckstation" target="_blank">
+    
+
+
+      
+        stenzek /
+
+      duckstation</a></p>
+				<p>
+      Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8761</span>
+						<span>🔱 789</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/playcanvas/editor" target="_blank">
+    
+
+
+      
+        playcanvas /
+
+      editor</a></p>
+				<p>
+      Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 358</span>
+						<span>🔱 62</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TideDra/zotero-arxiv-daily" target="_blank">
+    
+
+
+      
+        TideDra /
+
+      zotero-arxiv-daily</a></p>
+				<p>
+      Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2309</span>
+						<span>🔱 2228</span>
+					</div>
+				<div class="stars-today">⭐ 115 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Huanshere/VideoLingo" target="_blank">
+    
+
+
+      
+        Huanshere /
+
+      VideoLingo</a></p>
+				<p>
+      Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14206</span>
+						<span>🔱 1457</span>
+					</div>
+				<div class="stars-today">⭐ 105 stars today</div>
 				</div>
 			</div>
 	
