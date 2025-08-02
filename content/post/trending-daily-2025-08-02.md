@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-02
-date: 2025-08-02T09:58:31Z
+date: 2025-08-02T11:58:49Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,112 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
     
 
 
       
-        OpenPipe /
+        dyad-sh /
 
-      ART</a></p>
+      dyad</a></p>
 				<p>
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4664</span>
-						<span>🔱 283</span>
-					</div>
-				<div class="stars-today">⭐ 397 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TandoorRecipes/recipes" target="_blank">
-    
-
-
-      
-        TandoorRecipes /
-
-      recipes</a></p>
-				<p>
-      Application for managing recipes, planning meals, building shopping lists and much much more!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 6834</span>
-						<span>🔱 663</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/devlikeapro/waha" target="_blank">
-    
-
-
-      
-        devlikeapro /
-
-      waha</a></p>
-				<p>
-      WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+      Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2664</span>
-						<span>🔱 657</span>
+						<span>⭐ 3372</span>
+						<span>🔱 471</span>
 					</div>
-				<div class="stars-today">⭐ 152 stars today</div>
+				<div class="stars-today">⭐ 285 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
+				<p><a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank">
     
 
 
       
-        puppeteer /
+        pointfreeco /
 
-      puppeteer</a></p>
+      swift-composable-architecture</a></p>
 				<p>
-      JavaScript API for Chrome and Firefox
+      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 13598</span>
+						<span>🔱 1556</span>
+					</div>
+				<div class="stars-today">⭐ 58 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
+    
+
+
+      
+        MotiaDev /
+
+      motia</a></p>
+				<p>
+      Unified Backend Framework for APIs, Events, and AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 91572</span>
-						<span>🔱 9255</span>
+						<span>⭐ 4455</span>
+						<span>🔱 370</span>
 					</div>
-				<div class="stars-today">⭐ 159 stars today</div>
+				<div class="stars-today">⭐ 134 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBAS-Platform/openbas" target="_blank">
+    
+
+
+      
+        OpenBAS-Platform /
+
+      openbas</a></p>
+				<p>
+      Open Adversary Exposure Validation Platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 1192</span>
+						<span>🔱 144</span>
+					</div>
+				<div class="stars-today">⭐ 43 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tonsky/FiraCode" target="_blank">
+    
+
+
+      
+        tonsky /
+
+      FiraCode</a></p>
+				<p>
+      Free monospaced font with programming ligatures
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Clojure</span>
+						<span>⭐ 79587</span>
+						<span>🔱 3160</span>
+					</div>
+				<div class="stars-today">⭐ 34 stars today</div>
 				</div>
 			</div>
 	
@@ -118,142 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16354</span>
-						<span>🔱 2472</span>
+						<span>⭐ 16372</span>
+						<span>🔱 2475</span>
 					</div>
 				<div class="stars-today">⭐ 46 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/eclipse-sumo/sumo" target="_blank">
+				<p><a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">
     
 
 
       
-        eclipse-sumo /
+        trekhleb /
 
-      sumo</a></p>
+      javascript-algorithms</a></p>
 				<p>
-      Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
+      📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3192</span>
-						<span>🔱 1586</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 192482</span>
+						<span>🔱 30794</span>
 					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
+				<div class="stars-today">⭐ 63 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
+				<p><a href="https://github.com/jlevy/the-art-of-command-line" target="_blank">
     
 
 
       
-        9001 /
+        jlevy /
 
-      copyparty</a></p>
+      the-art-of-command-line</a></p>
 				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+      Master the command line, in one page
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17936</span>
-						<span>🔱 584</span>
+						<span>🔠 </span>
+						<span>⭐ 157380</span>
+						<span>🔱 14730</span>
 					</div>
-				<div class="stars-today">⭐ 1668 stars today</div>
+				<div class="stars-today">⭐ 70 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+				<p><a href="https://github.com/lydiahallie/javascript-questions" target="_blank">
     
 
 
       
-        dyad-sh /
+        lydiahallie /
 
-      dyad</a></p>
+      javascript-questions</a></p>
 				<p>
-      Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+      A long list of (advanced) JavaScript questions, and their explanations ✨ 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3326</span>
-						<span>🔱 464</span>
+						<span>🔠 </span>
+						<span>⭐ 64354</span>
+						<span>🔱 9151</span>
 					</div>
-				<div class="stars-today">⭐ 285 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stenzek/duckstation" target="_blank">
+				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
     
 
 
       
-        stenzek /
+        trimstray /
 
-      duckstation</a></p>
+      the-book-of-secret-knowledge</a></p>
 				<p>
-      Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8850</span>
-						<span>🔱 793</span>
+						<span>🔠 </span>
+						<span>⭐ 180556</span>
+						<span>🔱 11249</span>
 					</div>
-				<div class="stars-today">⭐ 211 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/playcanvas/editor" target="_blank">
-    
-
-
-      
-        playcanvas /
-
-      editor</a></p>
-				<p>
-      Powerful visual editor environment for building WebGL, WebGPU, WebXR apps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 564</span>
-						<span>🔱 71</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TideDra/zotero-arxiv-daily" target="_blank">
-    
-
-
-      
-        TideDra /
-
-      zotero-arxiv-daily</a></p>
-				<p>
-      Recommend new arxiv papers of your interest daily according to your Zotero libarary.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2498</span>
-						<span>🔱 2284</span>
-					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
+				<div class="stars-today">⭐ 153 stars today</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14409</span>
-						<span>🔱 1476</span>
+						<span>⭐ 14421</span>
+						<span>🔱 1477</span>
 					</div>
 				<div class="stars-today">⭐ 119 stars today</div>
 				</div>

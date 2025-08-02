@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-02T09:58:32Z
+date: 2025-08-02T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5559</span>
+						<span>⭐ 5564</span>
 						<span>🔱 408</span>
 					</div>
 				<div class="stars-today">⭐ 4381 stars this month</div>
@@ -60,28 +60,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34755</span>
-						<span>🔱 8144</span>
-					</div>
-				<div class="stars-today">⭐ 10690 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47505</span>
-						<span>🔱 4337</span>
+						<span>⭐ 47528</span>
+						<span>🔱 4338</span>
 					</div>
 				<div class="stars-today">⭐ 5305 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        humanlayer /
+        rustfs /
 
-      12-factor-agents</a></p>
+      rustfs</a></p>
 				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+      🚀 High-performance distributed object storage for MinIO alternative.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11187</span>
-						<span>🔱 742</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 6591</span>
+						<span>🔱 299</span>
 					</div>
-				<div class="stars-today">⭐ 6227 stars this month</div>
+				<div class="stars-today">⭐ 6308 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9426</span>
-						<span>🔱 683</span>
+						<span>⭐ 9439</span>
+						<span>🔱 684</span>
 					</div>
 				<div class="stars-today">⭐ 6782 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
     
 
 
       
-        hesreallyhim /
+        NanmiCoder /
 
-      awesome-claude-code</a></p>
+      MediaCrawler</a></p>
 				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8264</span>
-						<span>🔱 417</span>
+						<span>⭐ 34761</span>
+						<span>🔱 8144</span>
 					</div>
-				<div class="stars-today">⭐ 6274 stars this month</div>
+				<div class="stars-today">⭐ 10690 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11190</span>
+						<span>🔱 744</span>
+					</div>
+				<div class="stars-today">⭐ 6227 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,52 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 27423</span>
-						<span>🔱 1530</span>
+						<span>⭐ 27435</span>
+						<span>🔱 1533</span>
 					</div>
 				<div class="stars-today">⭐ 10724 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      AI coding agent, built for the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 16137</span>
-						<span>🔱 1010</span>
-					</div>
-				<div class="stars-today">⭐ 8172 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6890</span>
-						<span>🔱 921</span>
-					</div>
-				<div class="stars-today">⭐ 2721 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +206,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70043</span>
-						<span>🔱 3780</span>
+						<span>⭐ 70050</span>
+						<span>🔱 3781</span>
 					</div>
 				<div class="stars-today">⭐ 10575 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
     
 
 
       
-        datawhalechina /
+        hesreallyhim /
 
-      happy-llm</a></p>
+      awesome-claude-code</a></p>
 				<p>
-      📚 从零开始的大语言模型原理与实践教程
+      A curated list of awesome commands, files, and workflows for Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14033</span>
-						<span>🔱 1071</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8271</span>
+						<span>🔱 417</span>
 					</div>
-				<div class="stars-today">⭐ 8981 stars this month</div>
+				<div class="stars-today">⭐ 6274 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6895</span>
+						<span>🔱 922</span>
+					</div>
+				<div class="stars-today">⭐ 2721 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      AI coding agent, built for the terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 16153</span>
+						<span>🔱 1012</span>
+					</div>
+				<div class="stars-today">⭐ 8172 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/go-sdk" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      go-sdk</a></p>
+				<p>
+      The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1318</span>
+						<span>🔱 106</span>
+					</div>
+				<div class="stars-today">⭐ 900 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57070</span>
+						<span>⭐ 57077</span>
 						<span>🔱 3632</span>
 					</div>
 				<div class="stars-today">⭐ 2354 stars this month</div>
@@ -314,32 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5480</span>
-						<span>🔱 1472</span>
+						<span>⭐ 5485</span>
+						<span>🔱 1473</span>
 					</div>
 				<div class="stars-today">⭐ 2768 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15766</span>
-						<span>🔱 1352</span>
-					</div>
-				<div class="stars-today">⭐ 3808 stars this month</div>
 				</div>
 			</div>
 	
