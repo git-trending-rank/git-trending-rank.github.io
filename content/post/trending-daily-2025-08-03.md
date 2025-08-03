@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-03
-date: 2025-08-03T09:58:47Z
+date: 2025-08-03T11:58:33Z
 categories:
 - daily
 keywords:
@@ -30,120 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3958</span>
-						<span>🔱 524</span>
+						<span>⭐ 4087</span>
+						<span>🔱 530</span>
 					</div>
 				<div class="stars-today">⭐ 665 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank">
+				<p><a href="https://github.com/wg-easy/wg-easy" target="_blank">
     
 
 
       
-        pointfreeco /
+        wg-easy /
 
-      swift-composable-architecture</a></p>
+      wg-easy</a></p>
 				<p>
-      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 13653</span>
-						<span>🔱 1558</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
-    
-
-
-      
-        MotiaDev /
-
-      motia</a></p>
-				<p>
-      Unified Backend Framework for APIs, Events, and AI Agents
+      The easiest way to run WireGuard VPN + Web-based Admin UI.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4742</span>
-						<span>🔱 380</span>
+						<span>⭐ 20855</span>
+						<span>🔱 1997</span>
 					</div>
-				<div class="stars-today">⭐ 183 stars today</div>
+				<div class="stars-today">⭐ 244 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBAS-Platform/openbas" target="_blank">
+				<p><a href="https://github.com/eclipse-sumo/sumo" target="_blank">
     
 
 
       
-        OpenBAS-Platform /
+        eclipse-sumo /
 
-      openbas</a></p>
+      sumo</a></p>
 				<p>
-      Open Adversary Exposure Validation Platform
+      Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 1286</span>
-						<span>🔱 150</span>
+						<span>🔠 C++</span>
+						<span>⭐ 3232</span>
+						<span>🔱 1589</span>
 					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tonsky/FiraCode" target="_blank">
-    
-
-
-      
-        tonsky /
-
-      FiraCode</a></p>
-				<p>
-      Free monospaced font with programming ligatures
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 79753</span>
-						<span>🔱 3163</span>
-					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kubesphere/kubesphere" target="_blank">
-    
-
-
-      
-        kubesphere /
-
-      kubesphere</a></p>
-				<p>
-      The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 16479</span>
-						<span>🔱 2495</span>
-					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
+				<div class="stars-today">⭐ 225 stars today</div>
 				</div>
 			</div>
 	
@@ -162,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 192615</span>
+						<span>⭐ 192631</span>
 						<span>🔱 30798</span>
 					</div>
 				<div class="stars-today">⭐ 68 stars today</div>
@@ -170,90 +104,244 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jlevy/the-art-of-command-line" target="_blank">
+				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
     
 
 
       
-        jlevy /
+        XTLS /
 
-      the-art-of-command-line</a></p>
+      Xray-core</a></p>
 				<p>
-      Master the command line, in one page
+      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 157619</span>
-						<span>🔱 14740</span>
+						<span>🔠 Go</span>
+						<span>⭐ 30313</span>
+						<span>🔱 4469</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
+    
+
+
+      
+        jellyfin /
+
+      jellyfin</a></p>
+				<p>
+      The Free Software Media System - Server Backend & API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 41780</span>
+						<span>🔱 3745</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 61131</span>
+						<span>🔱 8622</span>
+					</div>
+				<div class="stars-today">⭐ 329 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 46160</span>
+						<span>🔱 1987</span>
+					</div>
+				<div class="stars-today">⭐ 109 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      AI coding agent, built for the terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 16415</span>
+						<span>🔱 1022</span>
+					</div>
+				<div class="stars-today">⭐ 240 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TideDra/zotero-arxiv-daily" target="_blank">
+    
+
+
+      
+        TideDra /
+
+      zotero-arxiv-daily</a></p>
+				<p>
+      Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2550</span>
+						<span>🔱 2315</span>
+					</div>
+				<div class="stars-today">⭐ 166 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TandoorRecipes/recipes" target="_blank">
+    
+
+
+      
+        TandoorRecipes /
+
+      recipes</a></p>
+				<p>
+      Application for managing recipes, planning meals, building shopping lists and much much more!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 6892</span>
+						<span>🔱 669</span>
+					</div>
+				<div class="stars-today">⭐ 231 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
+    
+
+
+      
+        MotiaDev /
+
+      motia</a></p>
+				<p>
+      Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4755</span>
+						<span>🔱 380</span>
+					</div>
+				<div class="stars-today">⭐ 183 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/reflex-dev/reflex" target="_blank">
+    
+
+
+      
+        reflex-dev /
+
+      reflex</a></p>
+				<p>
+      🕸️ Web apps in pure Python 🐍
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23897</span>
+						<span>🔱 1409</span>
 					</div>
 				<div class="stars-today">⭐ 81 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lydiahallie/javascript-questions" target="_blank">
+				<p><a href="https://github.com/flydelabs/flyde" target="_blank">
     
 
 
       
-        lydiahallie /
+        flydelabs /
 
-      javascript-questions</a></p>
+      flyde</a></p>
 				<p>
-      A long list of (advanced) JavaScript questions, and their explanations ✨ 
+      Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 64592</span>
-						<span>🔱 9170</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2703</span>
+						<span>🔱 112</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 138 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
+				<p><a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank">
     
 
 
       
-        trimstray /
+        pointfreeco /
 
-      the-book-of-secret-knowledge</a></p>
+      swift-composable-architecture</a></p>
 				<p>
-      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 180804</span>
-						<span>🔱 11263</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 13655</span>
+						<span>🔱 1558</span>
 					</div>
-				<div class="stars-today">⭐ 155 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Huanshere/VideoLingo" target="_blank">
-    
-
-
-      
-        Huanshere /
-
-      VideoLingo</a></p>
-				<p>
-      Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14605</span>
-						<span>🔱 1487</span>
-					</div>
-				<div class="stars-today">⭐ 229 stars today</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	

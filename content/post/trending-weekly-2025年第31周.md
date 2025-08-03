@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第31周
-date: 2025-08-03T09:58:47Z
+date: 2025-08-03T11:58:33Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6283</span>
+						<span>⭐ 6285</span>
 						<span>🔱 487</span>
 					</div>
 				<div class="stars-today">⭐ 989 stars this week</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54969</span>
-						<span>🔱 6436</span>
+						<span>⭐ 54993</span>
+						<span>🔱 6438</span>
 					</div>
 				<div class="stars-today">⭐ 3584 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-Coder</a></p>
-				<p>
-      Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10994</span>
-						<span>🔱 754</span>
-					</div>
-				<div class="stars-today">⭐ 1720 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,76 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12022</span>
+						<span>⭐ 12028</span>
 						<span>🔱 1462</span>
 					</div>
 				<div class="stars-today">⭐ 1659 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/outline/outline" target="_blank">
-    
-
-
-      
-        outline /
-
-      outline</a></p>
-				<p>
-      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33935</span>
-						<span>🔱 2745</span>
-					</div>
-				<div class="stars-today">⭐ 891 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47687</span>
-						<span>🔱 4362</span>
-					</div>
-				<div class="stars-today">⭐ 1335 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frappe/hrms" target="_blank">
-    
-
-
-      
-        frappe /
-
-      hrms</a></p>
-				<p>
-      Open Source HR and Payroll Software
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5593</span>
-						<span>🔱 1484</span>
-					</div>
-				<div class="stars-today">⭐ 1036 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 13653</span>
+						<span>⭐ 13655</span>
 						<span>🔱 1558</span>
 					</div>
 				<div class="stars-today">⭐ 99 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/outline/outline" target="_blank">
+    
+
+
+      
+        outline /
+
+      outline</a></p>
+				<p>
+      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33938</span>
+						<span>🔱 2745</span>
+					</div>
+				<div class="stars-today">⭐ 891 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-Coder</a></p>
+				<p>
+      Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11016</span>
+						<span>🔱 755</span>
+					</div>
+				<div class="stars-today">⭐ 1720 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2608</span>
-						<span>🔱 870</span>
+						<span>⭐ 2612</span>
+						<span>🔱 871</span>
 					</div>
 				<div class="stars-today">⭐ 997 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Genesis-Embodied-AI/Genesis" target="_blank">
-    
-
-
-      
-        Genesis-Embodied-AI /
-
-      Genesis</a></p>
-				<p>
-      A generative world for general-purpose robotics & embodied AI learning.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26921</span>
-						<span>🔱 2444</span>
-					</div>
-				<div class="stars-today">⭐ 1022 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32953</span>
+						<span>⭐ 32961</span>
 						<span>🔱 2639</span>
 					</div>
 				<div class="stars-today">⭐ 2644 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47699</span>
+						<span>🔱 4363</span>
+					</div>
+				<div class="stars-today">⭐ 1335 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+    
+
+
+      
+        dyad-sh /
+
+      dyad</a></p>
+				<p>
+      Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4087</span>
+						<span>🔱 530</span>
+					</div>
+				<div class="stars-today">⭐ 1326 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 94791</span>
-						<span>🔱 13865</span>
+						<span>⭐ 94805</span>
+						<span>🔱 13866</span>
 					</div>
 				<div class="stars-today">⭐ 866 stars this week</div>
 				</div>
@@ -294,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24554</span>
-						<span>🔱 2270</span>
+						<span>⭐ 24561</span>
+						<span>🔱 2271</span>
 					</div>
 				<div class="stars-today">⭐ 615 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tldr-pages/tldr" target="_blank">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
     
 
 
       
-        tldr-pages /
+        musistudio /
 
-      tldr</a></p>
+      claude-code-router</a></p>
 				<p>
-      📚 Collaborative cheatsheets for console commands
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 58229</span>
-						<span>🔱 4646</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9632</span>
+						<span>🔱 700</span>
 					</div>
-				<div class="stars-today">⭐ 1684 stars this week</div>
+				<div class="stars-today">⭐ 1903 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-03T09:58:47Z
+date: 2025-08-03T11:58:33Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47699</span>
+						<span>🔱 4363</span>
+					</div>
+				<div class="stars-today">⭐ 5529 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
@@ -30,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5594</span>
+						<span>⭐ 5597</span>
 						<span>🔱 412</span>
 					</div>
 				<div class="stars-today">⭐ 4378 stars this month</div>
@@ -52,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8583</span>
+						<span>⭐ 8587</span>
 						<span>🔱 623</span>
 					</div>
 				<div class="stars-today">⭐ 6908 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47687</span>
-						<span>🔱 4362</span>
-					</div>
-				<div class="stars-today">⭐ 5529 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6686</span>
-						<span>🔱 302</span>
-					</div>
-				<div class="stars-today">⭐ 6293 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9617</span>
-						<span>🔱 699</span>
+						<span>⭐ 9632</span>
+						<span>🔱 700</span>
 					</div>
 				<div class="stars-today">⭐ 6860 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        NanmiCoder /
+        rustfs /
 
-      MediaCrawler</a></p>
+      rustfs</a></p>
 				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      🚀 High-performance distributed object storage for MinIO alternative.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34824</span>
-						<span>🔱 8152</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 6697</span>
+						<span>🔱 302</span>
 					</div>
-				<div class="stars-today">⭐ 10189 stars this month</div>
+				<div class="stars-today">⭐ 6293 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11275</span>
-						<span>🔱 754</span>
+						<span>⭐ 11284</span>
+						<span>🔱 757</span>
 					</div>
 				<div class="stars-today">⭐ 6244 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 27601</span>
-						<span>🔱 1545</span>
-					</div>
-				<div class="stars-today">⭐ 10716 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70123</span>
+						<span>⭐ 70134</span>
 						<span>🔱 3791</span>
 					</div>
 				<div class="stars-today">⭐ 10594 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 27619</span>
+						<span>🔱 1546</span>
+					</div>
+				<div class="stars-today">⭐ 10716 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8378</span>
+						<span>⭐ 8386</span>
 						<span>🔱 426</span>
 					</div>
 				<div class="stars-today">⭐ 6306 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34832</span>
+						<span>🔱 8153</span>
+					</div>
+				<div class="stars-today">⭐ 10189 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6951</span>
+						<span>⭐ 6954</span>
 						<span>🔱 926</span>
 					</div>
 				<div class="stars-today">⭐ 2773 stars this month</div>
@@ -270,54 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 16384</span>
-						<span>🔱 1020</span>
+						<span>⭐ 16415</span>
+						<span>🔱 1022</span>
 					</div>
 				<div class="stars-today">⭐ 8130 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/go-sdk" target="_blank">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        dyad-sh /
 
-      go-sdk</a></p>
+      dyad</a></p>
 				<p>
-      The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
+      Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1359</span>
-						<span>🔱 107</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4087</span>
+						<span>🔱 530</span>
 					</div>
-				<div class="stars-today">⭐ 911 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
-    
-
-
-      
-        gorhill /
-
-      uBlock</a></p>
-				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 57127</span>
-						<span>🔱 3636</span>
-					</div>
-				<div class="stars-today">⭐ 2377 stars this month</div>
+				<div class="stars-today">⭐ 1852 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5593</span>
+						<span>⭐ 5599</span>
 						<span>🔱 1484</span>
 					</div>
 				<div class="stars-today">⭐ 2835 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dockur/macos" target="_blank">
+    
+
+
+      
+        dockur /
+
+      macos</a></p>
+				<p>
+      macOS inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 15924</span>
+						<span>🔱 668</span>
+					</div>
+				<div class="stars-today">⭐ 3956 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+    
+
+
+      
+        gorhill /
+
+      uBlock</a></p>
+				<p>
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 57134</span>
+						<span>🔱 3636</span>
+					</div>
+				<div class="stars-today">⭐ 2377 stars this month</div>
 				</div>
 			</div>
 	
