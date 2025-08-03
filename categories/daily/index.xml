@@ -6,7 +6,267 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 02 Aug 2025 23:58:37 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 Aug 2025 03:42:03 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-08-03</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-08-03/</link>
+        <pubDate>Sun, 03 Aug 2025 03:42:03 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-08-03/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dyad-sh/dyad&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dyad-sh /
+
+      dyad&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3786&lt;/span&gt;
+						&lt;span&gt;🔱 508&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 665 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pointfreeco/swift-composable-architecture&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pointfreeco /
+
+      swift-composable-architecture&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 13641&lt;/span&gt;
+						&lt;span&gt;🔱 1558&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/MotiaDev/motia&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        MotiaDev /
+
+      motia&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Unified Backend Framework for APIs, Events, and AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4678&lt;/span&gt;
+						&lt;span&gt;🔱 377&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 183 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenBAS-Platform/openbas&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        OpenBAS-Platform /
+
+      openbas&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open Adversary Exposure Validation Platform
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 1263&lt;/span&gt;
+						&lt;span&gt;🔱 149&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 56 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tonsky/FiraCode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tonsky /
+
+      FiraCode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free monospaced font with programming ligatures
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Clojure&lt;/span&gt;
+						&lt;span&gt;⭐ 79714&lt;/span&gt;
+						&lt;span&gt;🔱 3162&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 56 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/kubesphere/kubesphere&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        kubesphere /
+
+      kubesphere&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 16451&lt;/span&gt;
+						&lt;span&gt;🔱 2487&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 172 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trekhleb/javascript-algorithms&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trekhleb /
+
+      javascript-algorithms&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 192573&lt;/span&gt;
+						&lt;span&gt;🔱 30798&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 68 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jlevy/the-art-of-command-line&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jlevy /
+
+      the-art-of-command-line&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Master the command line, in one page
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 157556&lt;/span&gt;
+						&lt;span&gt;🔱 14735&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 81 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lydiahallie/javascript-questions&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lydiahallie /
+
+      javascript-questions&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A long list of (advanced) JavaScript questions, and their explanations ✨ 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 64516&lt;/span&gt;
+						&lt;span&gt;🔱 9164&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 36 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trimstray/the-book-of-secret-knowledge&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trimstray /
+
+      the-book-of-secret-knowledge&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 180736&lt;/span&gt;
+						&lt;span&gt;🔱 11257&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 155 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Huanshere/VideoLingo&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Huanshere /
+
+      VideoLingo&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Netflix-level subtitle cutting, translation, alignment, and even dubbing - one-click fully automated AI video subtitle team | Netflix级字幕切割、翻译、对齐、甚至加上配音，一键全自动视频搬运AI字幕组
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 14548&lt;/span&gt;
+						&lt;span&gt;🔱 1484&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 229 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-08-02</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-08-02/</link>
         <pubDate>Sat, 02 Aug 2025 23:58:37 +0000</pubDate>
