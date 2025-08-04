@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第32周
-date: 2025-08-04T10:01:39Z
+date: 2025-08-04T11:58:49Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6365</span>
+						<span>⭐ 6371</span>
 						<span>🔱 491</span>
 					</div>
 				<div class="stars-today">⭐ 981 stars this week</div>
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55272</span>
-						<span>🔱 6474</span>
+						<span>⭐ 55289</span>
+						<span>🔱 6478</span>
 					</div>
 				<div class="stars-today">⭐ 3271 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
     
 
 
       
-        linshenkx /
+        dyad-sh /
 
-      prompt-optimizer</a></p>
+      dyad</a></p>
 				<p>
-      一款提示词优化器，助力于编写高质量的提示词
+      Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12220</span>
-						<span>🔱 1475</span>
+						<span>⭐ 6057</span>
+						<span>🔱 659</span>
 					</div>
-				<div class="stars-today">⭐ 1739 stars this week</div>
+				<div class="stars-today">⭐ 2157 stars this week</div>
 				</div>
 			</div>
 	
@@ -104,68 +104,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/outline/outline" target="_blank">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
     
 
 
       
-        outline /
+        rustdesk /
 
-      outline</a></p>
+      rustdesk</a></p>
 				<p>
-      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34047</span>
-						<span>🔱 2753</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 94936</span>
+						<span>🔱 13889</span>
 					</div>
-				<div class="stars-today">⭐ 931 stars this week</div>
+				<div class="stars-today">⭐ 929 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">
+				<p><a href="https://github.com/tldr-pages/tldr" target="_blank">
     
 
 
       
-        QwenLM /
+        tldr-pages /
 
-      Qwen3-Coder</a></p>
+      tldr</a></p>
 				<p>
-      Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+      📚 Collaborative cheatsheets for console commands
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11197</span>
-						<span>🔱 763</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 58273</span>
+						<span>🔱 4648</span>
 					</div>
 				<div class="stars-today">⭐ 1499 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/daveebbelaar/ai-cookbook" target="_blank">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
     
 
 
       
-        daveebbelaar /
+        linshenkx /
 
-      ai-cookbook</a></p>
+      prompt-optimizer</a></p>
 				<p>
-      Examples and tutorials to help developers build AI systems
+      一款提示词优化器，助力于编写高质量的提示词
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2672</span>
-						<span>🔱 873</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12234</span>
+						<span>🔱 1478</span>
 					</div>
-				<div class="stars-today">⭐ 970 stars this week</div>
+				<div class="stars-today">⭐ 1739 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,120 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33153</span>
-						<span>🔱 2661</span>
+						<span>⭐ 33175</span>
+						<span>🔱 2664</span>
 					</div>
 				<div class="stars-today">⭐ 2742 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/outline/outline" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        outline /
 
-      OpenBB</a></p>
+      outline</a></p>
 				<p>
-      Investment Research for Everyone, Everywhere.
+      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34057</span>
+						<span>🔱 2753</span>
+					</div>
+				<div class="stars-today">⭐ 931 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      mcp-for-beginners</a></p>
+				<p>
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47849</span>
-						<span>🔱 4386</span>
+						<span>⭐ 6294</span>
+						<span>🔱 1791</span>
 					</div>
-				<div class="stars-today">⭐ 1339 stars this week</div>
+				<div class="stars-today">⭐ 623 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
     
 
 
       
-        dyad-sh /
+        rasbt /
 
-      dyad</a></p>
+      LLMs-from-scratch</a></p>
 				<p>
-      Free, local, open-source AI app builder | v0 / lovable / Bolt alternative | 🌟 Star if you like it!
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5855</span>
-						<span>🔱 650</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 61639</span>
+						<span>🔱 8671</span>
 					</div>
-				<div class="stars-today">⭐ 2157 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
-    
-
-
-      
-        rustdesk /
-
-      rustdesk</a></p>
-				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 94929</span>
-						<span>🔱 13884</span>
-					</div>
-				<div class="stars-today">⭐ 929 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattermost-community/focalboard" target="_blank">
-    
-
-
-      
-        mattermost-community /
-
-      focalboard</a></p>
-				<p>
-      Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24619</span>
-						<span>🔱 2277</span>
-					</div>
-				<div class="stars-today">⭐ 638 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9841</span>
-						<span>🔱 717</span>
-					</div>
-				<div class="stars-today">⭐ 2004 stars this week</div>
+				<div class="stars-today">⭐ 1302 stars this week</div>
 				</div>
 			</div>
 	

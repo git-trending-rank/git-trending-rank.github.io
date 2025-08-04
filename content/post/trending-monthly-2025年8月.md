@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-04T10:01:39Z
+date: 2025-08-04T11:58:50Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47849</span>
-						<span>🔱 4386</span>
+						<span>⭐ 47857</span>
+						<span>🔱 4387</span>
 					</div>
 				<div class="stars-today">⭐ 5667 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      WebAgent</a></p>
-				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5674</span>
-						<span>🔱 420</span>
-					</div>
-				<div class="stars-today">⭐ 4389 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8765</span>
+						<span>⭐ 8774</span>
 						<span>🔱 631</span>
 					</div>
 				<div class="stars-today">⭐ 6942 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
+    
+
+
+      
+        Alibaba-NLP /
+
+      WebAgent</a></p>
+				<p>
+      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5678</span>
+						<span>🔱 420</span>
+					</div>
+				<div class="stars-today">⭐ 4389 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9841</span>
-						<span>🔱 717</span>
+						<span>⭐ 9857</span>
+						<span>🔱 719</span>
 					</div>
 				<div class="stars-today">⭐ 6951 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6833</span>
-						<span>🔱 306</span>
-					</div>
-				<div class="stars-today">⭐ 6322 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      12-factor-agents</a></p>
-				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11437</span>
-						<span>🔱 769</span>
-					</div>
-				<div class="stars-today">⭐ 6232 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70218</span>
+						<span>⭐ 70227</span>
 						<span>🔱 3794</span>
 					</div>
 				<div class="stars-today">⭐ 10628 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀 High-performance distributed object storage for MinIO alternative.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 6846</span>
+						<span>🔱 306</span>
+					</div>
+				<div class="stars-today">⭐ 6322 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 27794</span>
-						<span>🔱 1556</span>
+						<span>⭐ 27817</span>
+						<span>🔱 1557</span>
 					</div>
 				<div class="stars-today">⭐ 10665 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11452</span>
+						<span>🔱 770</span>
+					</div>
+				<div class="stars-today">⭐ 6232 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,74 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8551</span>
-						<span>🔱 434</span>
+						<span>⭐ 8566</span>
+						<span>🔱 437</span>
 					</div>
 				<div class="stars-today">⭐ 6334 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34948</span>
-						<span>🔱 8170</span>
-					</div>
-				<div class="stars-today">⭐ 9738 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7022</span>
-						<span>🔱 931</span>
-					</div>
-				<div class="stars-today">⭐ 2812 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      AI coding agent, built for the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 17000</span>
-						<span>🔱 1052</span>
-					</div>
-				<div class="stars-today">⭐ 8126 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +228,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5855</span>
-						<span>🔱 650</span>
+						<span>⭐ 6057</span>
+						<span>🔱 659</span>
 					</div>
 				<div class="stars-today">⭐ 2439 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7027</span>
+						<span>🔱 931</span>
+					</div>
+				<div class="stars-today">⭐ 2812 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34954</span>
+						<span>🔱 8171</span>
+					</div>
+				<div class="stars-today">⭐ 9738 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      AI coding agent, built for the terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 17022</span>
+						<span>🔱 1054</span>
+					</div>
+				<div class="stars-today">⭐ 8126 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5679</span>
+						<span>⭐ 5685</span>
 						<span>🔱 1491</span>
 					</div>
 				<div class="stars-today">⭐ 2942 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/macos" target="_blank">
-    
-
-
-      
-        dockur /
-
-      macos</a></p>
-				<p>
-      macOS inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 15991</span>
-						<span>🔱 669</span>
-					</div>
-				<div class="stars-today">⭐ 3970 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 57186</span>
+						<span>⭐ 57199</span>
 						<span>🔱 3639</span>
 					</div>
 				<div class="stars-today">⭐ 2414 stars this month</div>

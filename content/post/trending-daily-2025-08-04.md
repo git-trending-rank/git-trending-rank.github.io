@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-04
-date: 2025-08-04T10:01:39Z
+date: 2025-08-04T11:58:49Z
 categories:
 - daily
 keywords:
@@ -30,230 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5855</span>
-						<span>🔱 650</span>
+						<span>⭐ 6057</span>
+						<span>🔱 659</span>
 					</div>
 				<div class="stars-today">⭐ 751 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wg-easy/wg-easy" target="_blank">
+				<p><a href="https://github.com/souzatharsis/podcastfy" target="_blank">
     
 
 
       
-        wg-easy /
+        souzatharsis /
 
-      wg-easy</a></p>
+      podcastfy</a></p>
 				<p>
-      The easiest way to run WireGuard VPN + Web-based Admin UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21272</span>
-						<span>🔱 2010</span>
-					</div>
-				<div class="stars-today">⭐ 274 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eclipse-sumo/sumo" target="_blank">
-    
-
-
-      
-        eclipse-sumo /
-
-      sumo</a></p>
-				<p>
-      Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3430</span>
-						<span>🔱 1596</span>
-					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">
-    
-
-
-      
-        trekhleb /
-
-      javascript-algorithms</a></p>
-				<p>
-      📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 192835</span>
-						<span>🔱 30820</span>
-					</div>
-				<div class="stars-today">⭐ 158 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
-    
-
-
-      
-        XTLS /
-
-      Xray-core</a></p>
-				<p>
-      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 30445</span>
-						<span>🔱 4477</span>
-					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
-    
-
-
-      
-        jellyfin /
-
-      jellyfin</a></p>
-				<p>
-      The Free Software Media System - Server Backend & API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 41942</span>
-						<span>🔱 3754</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
-    
-
-
-      
-        rasbt /
-
-      LLMs-from-scratch</a></p>
-				<p>
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 61595</span>
-						<span>🔱 8672</span>
-					</div>
-				<div class="stars-today">⭐ 362 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 46382</span>
-						<span>🔱 1991</span>
-					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      AI coding agent, built for the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 17000</span>
-						<span>🔱 1052</span>
-					</div>
-				<div class="stars-today">⭐ 282 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TideDra/zotero-arxiv-daily" target="_blank">
-    
-
-
-      
-        TideDra /
-
-      zotero-arxiv-daily</a></p>
-				<p>
-      Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+      An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2805</span>
-						<span>🔱 2393</span>
+						<span>⭐ 4322</span>
+						<span>🔱 523</span>
 					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
+				<div class="stars-today">⭐ 118 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TandoorRecipes/recipes" target="_blank">
+				<p><a href="https://github.com/actualbudget/actual" target="_blank">
     
 
 
       
-        TandoorRecipes /
+        actualbudget /
 
-      recipes</a></p>
+      actual</a></p>
 				<p>
-      Application for managing recipes, planning meals, building shopping lists and much much more!
+      A local-first personal finance app
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 7073</span>
-						<span>🔱 678</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20641</span>
+						<span>🔱 1672</span>
 					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4958</span>
+						<span>⭐ 4977</span>
 						<span>🔱 383</span>
 					</div>
 				<div class="stars-today">⭐ 291 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 61639</span>
+						<span>🔱 8671</span>
+					</div>
+				<div class="stars-today">⭐ 362 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MaaAssistantArknights/MaaAssistantArknights" target="_blank">
+    
+
+
+      
+        MaaAssistantArknights /
+
+      MaaAssistantArknights</a></p>
+				<p>
+      《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 17204</span>
+						<span>🔱 2246</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24300</span>
-						<span>🔱 1424</span>
+						<span>⭐ 24339</span>
+						<span>🔱 1425</span>
 					</div>
 				<div class="stars-today">⭐ 165 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/flydelabs/flyde" target="_blank">
+				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
     
 
 
       
-        flydelabs /
+        jellyfin /
 
-      flyde</a></p>
+      jellyfin</a></p>
 				<p>
-      Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
+      The Free Software Media System - Server Backend & API
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3192</span>
-						<span>🔱 136</span>
+						<span>🔠 C#</span>
+						<span>⭐ 41968</span>
+						<span>🔱 3754</span>
 					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank">
+				<p><a href="https://github.com/wg-easy/wg-easy" target="_blank">
     
 
 
       
-        pointfreeco /
+        wg-easy /
 
-      swift-composable-architecture</a></p>
+      wg-easy</a></p>
 				<p>
-      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+      The easiest way to run WireGuard VPN + Web-based Admin UI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 13715</span>
-						<span>🔱 1565</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21302</span>
+						<span>🔱 2012</span>
 					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
+				<div class="stars-today">⭐ 274 stars today</div>
 				</div>
 			</div>
 	
