@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 04 Aug 2025 10:01:39 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 04 Aug 2025 11:58:49 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-08-04</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-08-04/</link>
-        <pubDate>Mon, 04 Aug 2025 10:01:39 +0000</pubDate>
+        <pubDate>Mon, 04 Aug 2025 11:58:49 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-08-04/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,230 +33,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5855&lt;/span&gt;
-						&lt;span&gt;🔱 650&lt;/span&gt;
+						&lt;span&gt;⭐ 6057&lt;/span&gt;
+						&lt;span&gt;🔱 659&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 751 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/wg-easy/wg-easy&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/souzatharsis/podcastfy&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        wg-easy /
+        souzatharsis /
 
-      wg-easy&lt;/a&gt;&lt;/p&gt;
+      podcastfy&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The easiest way to run WireGuard VPN + Web-based Admin UI.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 21272&lt;/span&gt;
-						&lt;span&gt;🔱 2010&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 274 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/eclipse-sumo/sumo&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        eclipse-sumo /
-
-      sumo&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 3430&lt;/span&gt;
-						&lt;span&gt;🔱 1596&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 39 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/trekhleb/javascript-algorithms&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        trekhleb /
-
-      javascript-algorithms&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 192835&lt;/span&gt;
-						&lt;span&gt;🔱 30820&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 158 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/XTLS/Xray-core&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        XTLS /
-
-      Xray-core&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 30445&lt;/span&gt;
-						&lt;span&gt;🔱 4477&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 30 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jellyfin/jellyfin&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        jellyfin /
-
-      jellyfin&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Free Software Media System - Server Backend &amp; API
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 41942&lt;/span&gt;
-						&lt;span&gt;🔱 3754&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 41 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rasbt/LLMs-from-scratch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        rasbt /
-
-      LLMs-from-scratch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 61595&lt;/span&gt;
-						&lt;span&gt;🔱 8672&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 362 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Truly independent web browser
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 46382&lt;/span&gt;
-						&lt;span&gt;🔱 1991&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 128 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sst/opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sst /
-
-      opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI coding agent, built for the terminal.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 17000&lt;/span&gt;
-						&lt;span&gt;🔱 1052&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 282 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TideDra/zotero-arxiv-daily&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        TideDra /
-
-      zotero-arxiv-daily&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+      An Open Source Python alternative to NotebookLM&#39;s podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2805&lt;/span&gt;
-						&lt;span&gt;🔱 2393&lt;/span&gt;
+						&lt;span&gt;⭐ 4322&lt;/span&gt;
+						&lt;span&gt;🔱 523&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 118 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TandoorRecipes/recipes&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/actualbudget/actual&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        TandoorRecipes /
+        actualbudget /
 
-      recipes&lt;/a&gt;&lt;/p&gt;
+      actual&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Application for managing recipes, planning meals, building shopping lists and much much more!
+      A local-first personal finance app
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 7073&lt;/span&gt;
-						&lt;span&gt;🔱 678&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 20641&lt;/span&gt;
+						&lt;span&gt;🔱 1672&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 30 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,10 +99,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4958&lt;/span&gt;
+						&lt;span&gt;⭐ 4977&lt;/span&gt;
 						&lt;span&gt;🔱 383&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 291 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rasbt/LLMs-from-scratch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 61639&lt;/span&gt;
+						&lt;span&gt;🔱 8671&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 362 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/MaaAssistantArknights/MaaAssistantArknights&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        MaaAssistantArknights /
+
+      MaaAssistantArknights&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 17204&lt;/span&gt;
+						&lt;span&gt;🔱 2246&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 26 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,54 +165,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24300&lt;/span&gt;
-						&lt;span&gt;🔱 1424&lt;/span&gt;
+						&lt;span&gt;⭐ 24339&lt;/span&gt;
+						&lt;span&gt;🔱 1425&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 165 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/flydelabs/flyde&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jellyfin/jellyfin&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        flydelabs /
+        jellyfin /
 
-      flyde&lt;/a&gt;&lt;/p&gt;
+      jellyfin&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Open-source Visual programming for backend logic that integrates with existing codebases. Flyde bridges the gap between technical and non-technical team members. Product managers, designers, and backend developers can collaborate on the same visual flows.
+      The Free Software Media System - Server Backend &amp; API
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3192&lt;/span&gt;
-						&lt;span&gt;🔱 136&lt;/span&gt;
+						&lt;span&gt;🔠 C#&lt;/span&gt;
+						&lt;span&gt;⭐ 41968&lt;/span&gt;
+						&lt;span&gt;🔱 3754&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 172 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 41 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/pointfreeco/swift-composable-architecture&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/wg-easy/wg-easy&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        pointfreeco /
+        wg-easy /
 
-      swift-composable-architecture&lt;/a&gt;&lt;/p&gt;
+      wg-easy&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+      The easiest way to run WireGuard VPN + Web-based Admin UI.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Swift&lt;/span&gt;
-						&lt;span&gt;⭐ 13715&lt;/span&gt;
-						&lt;span&gt;🔱 1565&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 21302&lt;/span&gt;
+						&lt;span&gt;🔱 2012&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 63 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 274 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
