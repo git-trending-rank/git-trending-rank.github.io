@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-05T10:00:15Z
+date: 2025-08-05T11:58:49Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48110</span>
-						<span>🔱 4418</span>
+						<span>⭐ 48126</span>
+						<span>🔱 4417</span>
 					</div>
 				<div class="stars-today">⭐ 5860 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8854</span>
+						<span>⭐ 8862</span>
 						<span>🔱 641</span>
 					</div>
 				<div class="stars-today">⭐ 7122 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      WebAgent</a></p>
-				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5746</span>
-						<span>🔱 419</span>
-					</div>
-				<div class="stars-today">⭐ 4462 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,120 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10114</span>
-						<span>🔱 743</span>
+						<span>⭐ 10144</span>
+						<span>🔱 744</span>
 					</div>
 				<div class="stars-today">⭐ 7108 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
     
 
 
       
-        microsoft /
+        Alibaba-NLP /
 
-      markitdown</a></p>
+      WebAgent</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70320</span>
-						<span>🔱 3800</span>
+						<span>⭐ 5754</span>
+						<span>🔱 419</span>
 					</div>
-				<div class="stars-today">⭐ 10670 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6943</span>
-						<span>🔱 307</span>
-					</div>
-				<div class="stars-today">⭐ 6093 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 28016</span>
-						<span>🔱 1569</span>
-					</div>
-				<div class="stars-today">⭐ 10665 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      12-factor-agents</a></p>
-				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11564</span>
-						<span>🔱 773</span>
-					</div>
-				<div class="stars-today">⭐ 6046 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8716</span>
-						<span>🔱 449</span>
-					</div>
-				<div class="stars-today">⭐ 6074 stars this month</div>
+				<div class="stars-today">⭐ 4462 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7838</span>
-						<span>🔱 805</span>
+						<span>⭐ 8030</span>
+						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 4659 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70327</span>
+						<span>🔱 3800</span>
+					</div>
+				<div class="stars-today">⭐ 10670 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 28031</span>
+						<span>🔱 1572</span>
+					</div>
+				<div class="stars-today">⭐ 10665 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀 High-performance distributed object storage for MinIO alternative.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 6953</span>
+						<span>🔱 307</span>
+					</div>
+				<div class="stars-today">⭐ 6093 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
+    
+
+
+      
+        hesreallyhim /
+
+      awesome-claude-code</a></p>
+				<p>
+      A curated list of awesome commands, files, and workflows for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8731</span>
+						<span>🔱 450</span>
+					</div>
+				<div class="stars-today">⭐ 6074 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7077</span>
-						<span>🔱 936</span>
+						<span>⭐ 7084</span>
+						<span>🔱 937</span>
 					</div>
 				<div class="stars-today">⭐ 2870 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      12-factor-agents</a></p>
+				<p>
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11568</span>
+						<span>🔱 773</span>
+					</div>
+				<div class="stars-today">⭐ 6046 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frappe/hrms" target="_blank">
+    
+
+
+      
+        frappe /
+
+      hrms</a></p>
+				<p>
+      Open Source HR and Payroll Software
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5739</span>
+						<span>🔱 1497</span>
+					</div>
+				<div class="stars-today">⭐ 3031 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35070</span>
+						<span>⭐ 35079</span>
 						<span>🔱 8199</span>
 					</div>
 				<div class="stars-today">⭐ 8986 stars this month</div>
@@ -292,54 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 17300</span>
-						<span>🔱 1078</span>
+						<span>⭐ 17322</span>
+						<span>🔱 1079</span>
 					</div>
 				<div class="stars-today">⭐ 8541 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frappe/hrms" target="_blank">
-    
-
-
-      
-        frappe /
-
-      hrms</a></p>
-				<p>
-      Open Source HR and Payroll Software
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5736</span>
-						<span>🔱 1497</span>
-					</div>
-				<div class="stars-today">⭐ 3031 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
-    
-
-
-      
-        gorhill /
-
-      uBlock</a></p>
-				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 57243</span>
-						<span>🔱 3640</span>
-					</div>
-				<div class="stars-today">⭐ 2457 stars this month</div>
 				</div>
 			</div>
 	

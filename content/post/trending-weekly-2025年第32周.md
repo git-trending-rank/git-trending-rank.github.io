@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第32周
-date: 2025-08-05T10:00:15Z
+date: 2025-08-05T11:58:49Z
 categories:
 - weekly
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudwego/eino" target="_blank">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
     
 
 
       
-        cloudwego /
+        9001 /
 
-      eino</a></p>
+      copyparty</a></p>
 				<p>
-      The ultimate LLM/AI application development framework in Golang.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6435</span>
-						<span>🔱 495</span>
-					</div>
-				<div class="stars-today">⭐ 920 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55518</span>
-						<span>🔱 6514</span>
+						<span>⭐ 20321</span>
+						<span>🔱 693</span>
 					</div>
-				<div class="stars-today">⭐ 2628 stars this week</div>
+				<div class="stars-today">⭐ 14855 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7838</span>
-						<span>🔱 805</span>
+						<span>⭐ 8030</span>
+						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 4157 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudwego/eino" target="_blank">
+    
+
+
+      
+        cloudwego /
+
+      eino</a></p>
+				<p>
+      The ultimate LLM/AI application development framework in Golang.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6444</span>
+						<span>🔱 496</span>
+					</div>
+				<div class="stars-today">⭐ 920 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 13737</span>
-						<span>🔱 1566</span>
+						<span>⭐ 13738</span>
+						<span>🔱 1568</span>
 					</div>
 				<div class="stars-today">⭐ 210 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
     
 
 
       
-        rustdesk /
+        microsoft /
 
-      rustdesk</a></p>
+      mcp-for-beginners</a></p>
 				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 95055</span>
-						<span>🔱 13909</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6700</span>
+						<span>🔱 1865</span>
 					</div>
-				<div class="stars-today">⭐ 1006 stars this week</div>
+				<div class="stars-today">⭐ 707 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kijai/ComfyUI-WanVideoWrapper" target="_blank">
+    
+
+
+      
+        kijai /
+
+      ComfyUI-WanVideoWrapper</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3804</span>
+						<span>🔱 290</span>
+					</div>
+				<div class="stars-today">⭐ 334 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55539</span>
+						<span>🔱 6515</span>
+					</div>
+				<div class="stars-today">⭐ 2628 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 58355</span>
-						<span>🔱 4650</span>
+						<span>⭐ 58362</span>
+						<span>🔱 4651</span>
 					</div>
 				<div class="stars-today">⭐ 1247 stars this week</div>
 				</div>
@@ -162,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12390</span>
+						<span>⭐ 12395</span>
 						<span>🔱 1497</span>
 					</div>
 				<div class="stars-today">⭐ 1605 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 95066</span>
+						<span>🔱 13909</span>
+					</div>
+				<div class="stars-today">⭐ 1006 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33297</span>
-						<span>🔱 2680</span>
+						<span>⭐ 33303</span>
+						<span>🔱 2681</span>
 					</div>
 				<div class="stars-today">⭐ 2831 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/outline/outline" target="_blank">
-    
-
-
-      
-        outline /
-
-      outline</a></p>
-				<p>
-      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34128</span>
-						<span>🔱 2756</span>
-					</div>
-				<div class="stars-today">⭐ 992 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      mcp-for-beginners</a></p>
-				<p>
-      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6663</span>
-						<span>🔱 1856</span>
-					</div>
-				<div class="stars-today">⭐ 707 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62225</span>
-						<span>🔱 8711</span>
+						<span>⭐ 62247</span>
+						<span>🔱 8714</span>
 					</div>
 				<div class="stars-today">⭐ 1578 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/outline/outline" target="_blank">
+    
+
+
+      
+        outline /
+
+      outline</a></p>
+				<p>
+      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34136</span>
+						<span>🔱 2756</span>
+					</div>
+				<div class="stars-today">⭐ 992 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10144</span>
+						<span>🔱 744</span>
+					</div>
+				<div class="stars-today">⭐ 1762 stars this week</div>
 				</div>
 			</div>
 	

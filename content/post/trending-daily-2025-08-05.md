@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-05
-date: 2025-08-05T10:00:15Z
+date: 2025-08-05T11:58:49Z
 categories:
 - daily
 keywords:
@@ -30,120 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7838</span>
-						<span>🔱 805</span>
+						<span>⭐ 8030</span>
+						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 2024 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/souzatharsis/podcastfy" target="_blank">
-    
-
-
-      
-        souzatharsis /
-
-      podcastfy</a></p>
-				<p>
-      An Open Source Python alternative to NotebookLM's podcast feature: Transforming Multimodal Content into Captivating Multilingual Audio Conversations with GenAI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4799</span>
-						<span>🔱 548</span>
-					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actualbudget/actual" target="_blank">
-    
-
-
-      
-        actualbudget /
-
-      actual</a></p>
-				<p>
-      A local-first personal finance app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20973</span>
-						<span>🔱 1690</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
-    
-
-
-      
-        MotiaDev /
-
-      motia</a></p>
-				<p>
-      Modern Backend Framework that unifies APIs, background jobs, workflows, and AI agents into a single cohesive system with built-in observability and state management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5320</span>
-						<span>🔱 407</span>
-					</div>
-				<div class="stars-today">⭐ 235 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
-    
-
-
-      
-        rasbt /
-
-      LLMs-from-scratch</a></p>
-				<p>
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62225</span>
-						<span>🔱 8711</span>
-					</div>
-				<div class="stars-today">⭐ 521 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MaaAssistantArknights/MaaAssistantArknights" target="_blank">
-    
-
-
-      
-        MaaAssistantArknights /
-
-      MaaAssistantArknights</a></p>
-				<p>
-      《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 17320</span>
-						<span>🔱 2251</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +52,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24770</span>
-						<span>🔱 1453</span>
+						<span>⭐ 24812</span>
+						<span>🔱 1458</span>
 					</div>
 				<div class="stars-today">⭐ 456 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
+				<p><a href="https://github.com/ethereum/solidity" target="_blank">
     
 
 
       
-        jellyfin /
+        ethereum /
 
-      jellyfin</a></p>
+      solidity</a></p>
 				<p>
-      The Free Software Media System - Server Backend & API
+      Solidity, the Smart Contract Programming Language
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 24704</span>
+						<span>🔱 6137</span>
+					</div>
+				<div class="stars-today">⭐ 10 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      mcp-for-beginners</a></p>
+				<p>
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6700</span>
+						<span>🔱 1865</span>
+					</div>
+				<div class="stars-today">⭐ 133 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6449</span>
+						<span>🔱 883</span>
+					</div>
+				<div class="stars-today">⭐ 102 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/actualbudget/actual" target="_blank">
+    
+
+
+      
+        actualbudget /
+
+      actual</a></p>
+				<p>
+      A local-first personal finance app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21007</span>
+						<span>🔱 1692</span>
+					</div>
+				<div class="stars-today">⭐ 74 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank">
+    
+
+
+      
+        pointfreeco /
+
+      swift-composable-architecture</a></p>
+				<p>
+      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 13738</span>
+						<span>🔱 1568</span>
+					</div>
+				<div class="stars-today">⭐ 51 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 359490</span>
+						<span>🔱 37728</span>
+					</div>
+				<div class="stars-today">⭐ 332 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hashcat/hashcat" target="_blank">
+    
+
+
+      
+        hashcat /
+
+      hashcat</a></p>
+				<p>
+      World's fastest and most advanced password recovery utility
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 23401</span>
+						<span>🔱 3153</span>
+					</div>
+				<div class="stars-today">⭐ 64 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TideDra/zotero-arxiv-daily" target="_blank">
+    
+
+
+      
+        TideDra /
+
+      zotero-arxiv-daily</a></p>
+				<p>
+      Recommend new arxiv papers of your interest daily according to your Zotero libarary.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2880</span>
+						<span>🔱 2447</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huiyadanli/RevokeMsgPatcher" target="_blank">
+    
+
+
+      
+        huiyadanli /
+
+      RevokeMsgPatcher</a></p>
+				<p>
+       A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 42157</span>
-						<span>🔱 3761</span>
+						<span>⭐ 33743</span>
+						<span>🔱 3725</span>
 					</div>
-				<div class="stars-today">⭐ 198 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21653</span>
-						<span>🔱 2027</span>
+						<span>⭐ 21686</span>
+						<span>🔱 2029</span>
 					</div>
 				<div class="stars-today">⭐ 430 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thewh1teagle/vibe" target="_blank">
+    
+
+
+      
+        thewh1teagle /
+
+      vibe</a></p>
+				<p>
+      Transcribe on your own!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3222</span>
+						<span>🔱 192</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
