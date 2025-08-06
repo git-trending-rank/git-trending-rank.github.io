@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-06T10:00:27Z
+date: 2025-08-06T11:58:58Z
 categories:
 - monthly
 keywords:
@@ -30,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48342</span>
-						<span>🔱 4449</span>
+						<span>⭐ 48359</span>
+						<span>🔱 4450</span>
 					</div>
 				<div class="stars-today">⭐ 6091 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox</a></p>
-				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 8923</span>
-						<span>🔱 646</span>
-					</div>
-				<div class="stars-today">⭐ 7198 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10514</span>
-						<span>🔱 779</span>
-					</div>
-				<div class="stars-today">⭐ 7354 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      WebAgent</a></p>
-				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5789</span>
-						<span>🔱 421</span>
-					</div>
-				<div class="stars-today">⭐ 4472 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9885</span>
-						<span>🔱 948</span>
+						<span>⭐ 10011</span>
+						<span>🔱 962</span>
 					</div>
 				<div class="stars-today">⭐ 6453 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10541</span>
+						<span>🔱 780</span>
+					</div>
+				<div class="stars-today">⭐ 7354 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70456</span>
-						<span>🔱 3809</span>
+						<span>⭐ 70464</span>
+						<span>🔱 3810</span>
 					</div>
 				<div class="stars-today">⭐ 10751 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+    
+
+
+      
+        googleapis /
+
+      genai-toolbox</a></p>
+				<p>
+      MCP Toolbox for Databases is an open source MCP server for databases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 8929</span>
+						<span>🔱 647</span>
+					</div>
+				<div class="stars-today">⭐ 7198 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 28233</span>
+						<span>⭐ 28247</span>
 						<span>🔱 1589</span>
 					</div>
 				<div class="stars-today">⭐ 10733 stars this month</div>
@@ -170,24 +148,44 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
     
 
 
       
-        rustfs /
+        Alibaba-NLP /
 
-      rustfs</a></p>
+      WebAgent</a></p>
 				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
+      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7033</span>
-						<span>🔱 308</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5791</span>
+						<span>🔱 421</span>
 					</div>
-				<div class="stars-today">⭐ 6098 stars this month</div>
+				<div class="stars-today">⭐ 4472 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7146</span>
+						<span>🔱 946</span>
+					</div>
+				<div class="stars-today">⭐ 2914 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,52 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8862</span>
-						<span>🔱 459</span>
+						<span>⭐ 8872</span>
+						<span>🔱 460</span>
 					</div>
 				<div class="stars-today">⭐ 6085 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7138</span>
-						<span>🔱 946</span>
-					</div>
-				<div class="stars-today">⭐ 2914 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      12-factor-agents</a></p>
-				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11650</span>
-						<span>🔱 781</span>
-					</div>
-				<div class="stars-today">⭐ 5882 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5789</span>
+						<span>⭐ 5793</span>
 						<span>🔱 1506</span>
 					</div>
 				<div class="stars-today">⭐ 3078 stars this month</div>
@@ -278,24 +234,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
     
 
 
       
-        NanmiCoder /
+        humanlayer /
 
-      MediaCrawler</a></p>
+      12-factor-agents</a></p>
 				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35179</span>
-						<span>🔱 8214</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11656</span>
+						<span>🔱 781</span>
 					</div>
-				<div class="stars-today">⭐ 8151 stars this month</div>
+				<div class="stars-today">⭐ 5882 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 17586</span>
-						<span>🔱 1093</span>
+						<span>⭐ 17610</span>
+						<span>🔱 1094</span>
 					</div>
 				<div class="stars-today">⭐ 8597 stars this month</div>
 				</div>

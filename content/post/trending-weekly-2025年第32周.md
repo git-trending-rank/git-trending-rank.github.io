@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第32周
-date: 2025-08-06T10:00:26Z
+date: 2025-08-06T11:58:58Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20977</span>
-						<span>🔱 726</span>
+						<span>⭐ 21015</span>
+						<span>🔱 729</span>
 					</div>
 				<div class="stars-today">⭐ 11747 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9885</span>
-						<span>🔱 948</span>
+						<span>⭐ 10011</span>
+						<span>🔱 962</span>
 					</div>
 				<div class="stars-today">⭐ 5875 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudwego/eino" target="_blank">
-    
-
-
-      
-        cloudwego /
-
-      eino</a></p>
-				<p>
-      The ultimate LLM/AI application development framework in Golang.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6491</span>
-						<span>🔱 502</span>
-					</div>
-				<div class="stars-today">⭐ 911 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 13785</span>
-						<span>🔱 1571</span>
+						<span>⭐ 13787</span>
+						<span>🔱 1570</span>
 					</div>
 				<div class="stars-today">⭐ 231 stars this week</div>
 				</div>
@@ -118,30 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7388</span>
-						<span>🔱 1954</span>
+						<span>⭐ 7410</span>
+						<span>🔱 1957</span>
 					</div>
 				<div class="stars-today">⭐ 1021 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kijai/ComfyUI-WanVideoWrapper" target="_blank">
+				<p><a href="https://github.com/cloudwego/eino" target="_blank">
     
 
 
       
-        kijai /
+        cloudwego /
 
-      ComfyUI-WanVideoWrapper</a></p>
-				<p></p>
+      eino</a></p>
+				<p>
+      The ultimate LLM/AI application development framework in Golang.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3834</span>
-						<span>🔱 290</span>
+						<span>🔠 Go</span>
+						<span>⭐ 6494</span>
+						<span>🔱 502</span>
 					</div>
-				<div class="stars-today">⭐ 330 stars this week</div>
+				<div class="stars-today">⭐ 911 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,54 +140,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55814</span>
-						<span>🔱 6561</span>
+						<span>⭐ 55841</span>
+						<span>🔱 6575</span>
 					</div>
 				<div class="stars-today">⭐ 2296 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tldr-pages/tldr" target="_blank">
+				<p><a href="https://github.com/charmbracelet/bubbletea" target="_blank">
     
 
 
       
-        tldr-pages /
+        charmbracelet /
 
-      tldr</a></p>
+      bubbletea</a></p>
 				<p>
-      📚 Collaborative cheatsheets for console commands
+      A powerful little TUI framework 🏗
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 58423</span>
-						<span>🔱 4652</span>
+						<span>🔠 Go</span>
+						<span>⭐ 33974</span>
+						<span>🔱 961</span>
 					</div>
-				<div class="stars-today">⭐ 982 stars this week</div>
+				<div class="stars-today">⭐ 327 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+				<p><a href="https://github.com/workadventure/workadventure" target="_blank">
     
 
 
       
-        linshenkx /
+        workadventure /
 
-      prompt-optimizer</a></p>
+      workadventure</a></p>
 				<p>
-      一款提示词优化器，助力于编写高质量的提示词
+      A collaborative web application (virtual office) presented as a 16-bit RPG video game
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12522</span>
-						<span>🔱 1516</span>
+						<span>⭐ 4762</span>
+						<span>🔱 698</span>
 					</div>
-				<div class="stars-today">⭐ 1531 stars this week</div>
+				<div class="stars-today">⭐ 115 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kijai/ComfyUI-WanVideoWrapper" target="_blank">
+    
+
+
+      
+        kijai /
+
+      ComfyUI-WanVideoWrapper</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3836</span>
+						<span>🔱 290</span>
+					</div>
+				<div class="stars-today">⭐ 330 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,32 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 95160</span>
-						<span>🔱 13925</span>
+						<span>⭐ 95164</span>
+						<span>🔱 13923</span>
 					</div>
 				<div class="stars-today">⭐ 1064 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+				<p><a href="https://github.com/eclipse-sumo/sumo" target="_blank">
     
 
 
       
-        roboflow /
+        eclipse-sumo /
 
-      supervision</a></p>
+      sumo</a></p>
 				<p>
-      We write your reusable computer vision tools. 💜
+      Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33368</span>
-						<span>🔱 2688</span>
+						<span>🔠 C++</span>
+						<span>⭐ 3510</span>
+						<span>🔱 1603</span>
 					</div>
-				<div class="stars-today">⭐ 2358 stars this week</div>
+				<div class="stars-today">⭐ 614 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,32 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62451</span>
-						<span>🔱 8742</span>
+						<span>⭐ 62461</span>
+						<span>🔱 8745</span>
 					</div>
 				<div class="stars-today">⭐ 2050 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/outline/outline" target="_blank">
+				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
     
 
 
       
-        outline /
+        comfyanonymous /
 
-      outline</a></p>
+      ComfyUI</a></p>
 				<p>
-      The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34200</span>
-						<span>🔱 2759</span>
+						<span>🔠 Python</span>
+						<span>⭐ 84575</span>
+						<span>🔱 9383</span>
 					</div>
-				<div class="stars-today">⭐ 828 stars this week</div>
+				<div class="stars-today">⭐ 729 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10514</span>
-						<span>🔱 779</span>
+						<span>⭐ 10541</span>
+						<span>🔱 780</span>
 					</div>
 				<div class="stars-today">⭐ 1749 stars this week</div>
 				</div>
