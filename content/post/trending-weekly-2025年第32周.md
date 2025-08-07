@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第32周
-date: 2025-08-07T10:00:00Z
+date: 2025-08-07T11:58:35Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
-    
-
-
-      
-        9001 /
-
-      copyparty</a></p>
-				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21426</span>
-						<span>🔱 740</span>
-					</div>
-				<div class="stars-today">⭐ 8492 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
@@ -52,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11219</span>
-						<span>🔱 1030</span>
+						<span>⭐ 11278</span>
+						<span>🔱 1029</span>
 					</div>
 				<div class="stars-today">⭐ 7977 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pointfreeco/swift-composable-architecture" target="_blank">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
     
 
 
       
-        pointfreeco /
+        9001 /
 
-      swift-composable-architecture</a></p>
+      copyparty</a></p>
 				<p>
-      A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 13792</span>
-						<span>🔱 1572</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21446</span>
+						<span>🔱 742</span>
 					</div>
-				<div class="stars-today">⭐ 275 stars this week</div>
+				<div class="stars-today">⭐ 8492 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12431</span>
+						<span>🔱 1371</span>
+					</div>
+				<div class="stars-today">⭐ 1038 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7797</span>
-						<span>🔱 2106</span>
+						<span>⭐ 7825</span>
+						<span>🔱 2108</span>
 					</div>
 				<div class="stars-today">⭐ 1634 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudwego/eino" target="_blank">
+				<p><a href="https://github.com/ollama/ollama" target="_blank">
     
 
 
       
-        cloudwego /
+        ollama /
 
-      eino</a></p>
+      ollama</a></p>
 				<p>
-      The ultimate LLM/AI application development framework in Golang.
+      Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6545</span>
-						<span>🔱 505</span>
+						<span>⭐ 149213</span>
+						<span>🔱 12717</span>
 					</div>
-				<div class="stars-today">⭐ 634 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56172</span>
-						<span>🔱 6638</span>
-					</div>
-				<div class="stars-today">⭐ 2165 stars this week</div>
+				<div class="stars-today">⭐ 1189 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,140 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 34042</span>
+						<span>⭐ 34050</span>
 						<span>🔱 963</span>
 					</div>
 				<div class="stars-today">⭐ 325 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/workadventure/workadventure" target="_blank">
-    
-
-
-      
-        workadventure /
-
-      workadventure</a></p>
-				<p>
-      A collaborative web application (virtual office) presented as a 16-bit RPG video game
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4814</span>
-						<span>🔱 701</span>
-					</div>
-				<div class="stars-today">⭐ 101 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kijai/ComfyUI-WanVideoWrapper" target="_blank">
-    
-
-
-      
-        kijai /
-
-      ComfyUI-WanVideoWrapper</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3864</span>
-						<span>🔱 292</span>
-					</div>
-				<div class="stars-today">⭐ 332 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
-    
-
-
-      
-        rustdesk /
-
-      rustdesk</a></p>
-				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 95251</span>
-						<span>🔱 13942</span>
-					</div>
-				<div class="stars-today">⭐ 991 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eclipse-sumo/sumo" target="_blank">
-    
-
-
-      
-        eclipse-sumo /
-
-      sumo</a></p>
-				<p>
-      Eclipse SUMO is an open source, highly portable, microscopic and continuous traffic simulation package designed to handle large networks. It allows for intermodal simulation including pedestrians and comes with a large set of tools for scenario creation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3547</span>
-						<span>🔱 1604</span>
-					</div>
-				<div class="stars-today">⭐ 626 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
-    
-
-
-      
-        rasbt /
-
-      LLMs-from-scratch</a></p>
-				<p>
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62676</span>
-						<span>🔱 8781</span>
-					</div>
-				<div class="stars-today">⭐ 2057 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
-    
-
-
-      
-        comfyanonymous /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 84710</span>
-						<span>🔱 9393</span>
-					</div>
-				<div class="stars-today">⭐ 729 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +162,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10981</span>
-						<span>🔱 807</span>
+						<span>⭐ 11029</span>
+						<span>🔱 811</span>
 					</div>
 				<div class="stars-today">⭐ 1742 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 62694</span>
+						<span>🔱 8783</span>
+					</div>
+				<div class="stars-today">⭐ 2057 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56203</span>
+						<span>🔱 6644</span>
+					</div>
+				<div class="stars-today">⭐ 2165 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp</a></p>
+				<p>
+      LLM inference in C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 84182</span>
+						<span>🔱 12599</span>
+					</div>
+				<div class="stars-today">⭐ 463 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
+    
+
+
+      
+        comfyanonymous /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 84719</span>
+						<span>🔱 9396</span>
+					</div>
+				<div class="stars-today">⭐ 729 stars this week</div>
 				</div>
 			</div>
 	

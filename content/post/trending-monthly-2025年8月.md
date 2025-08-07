@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-07T10:00:00Z
+date: 2025-08-07T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Investment Research for Everyone, Everywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48511</span>
-						<span>🔱 4467</span>
-					</div>
-				<div class="stars-today">⭐ 6312 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11219</span>
-						<span>🔱 1030</span>
+						<span>⭐ 11278</span>
+						<span>🔱 1029</span>
 					</div>
 				<div class="stars-today">⭐ 8334 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Investment Research for Everyone, Everywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48523</span>
+						<span>🔱 4468</span>
+					</div>
+				<div class="stars-today">⭐ 6312 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10981</span>
-						<span>🔱 807</span>
+						<span>⭐ 11029</span>
+						<span>🔱 811</span>
 					</div>
 				<div class="stars-today">⭐ 7691 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70547</span>
+						<span>⭐ 70560</span>
 						<span>🔱 3816</span>
 					</div>
 				<div class="stars-today">⭐ 10856 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox</a></p>
-				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 8997</span>
-						<span>🔱 650</span>
-					</div>
-				<div class="stars-today">⭐ 7252 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 28458</span>
-						<span>🔱 1599</span>
+						<span>⭐ 28476</span>
+						<span>🔱 1600</span>
 					</div>
 				<div class="stars-today">⭐ 10775 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      WebAgent</a></p>
-				<p>
-      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5839</span>
-						<span>🔱 423</span>
-					</div>
-				<div class="stars-today">⭐ 4469 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7207</span>
+						<span>⭐ 7216</span>
 						<span>🔱 954</span>
 					</div>
 				<div class="stars-today">⭐ 2966 stars this month</div>
@@ -204,10 +160,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9081</span>
+						<span>⭐ 9099</span>
 						<span>🔱 470</span>
 					</div>
 				<div class="stars-today">⭐ 6116 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
+    
+
+
+      
+        googleapis /
+
+      genai-toolbox</a></p>
+				<p>
+      MCP Toolbox for Databases is an open source MCP server for databases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9001</span>
+						<span>🔱 651</span>
+					</div>
+				<div class="stars-today">⭐ 7252 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alibaba-NLP/WebAgent" target="_blank">
+    
+
+
+      
+        Alibaba-NLP /
+
+      WebAgent</a></p>
+				<p>
+      🌐 WebAgent for Information Seeking built by Tongyi Lab: WebWalker & WebDancer & WebSailor & WebShaper https://arxiv.org/abs/2507.15061 https://arxiv.org/pdf/2507.02592
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5844</span>
+						<span>🔱 424</span>
+					</div>
+				<div class="stars-today">⭐ 4469 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5843</span>
+						<span>⭐ 5846</span>
 						<span>🔱 1512</span>
 					</div>
 				<div class="stars-today">⭐ 3128 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/12-factor-agents" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      12-factor-agents</a></p>
-				<p>
-      What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11893</span>
-						<span>🔱 796</span>
-					</div>
-				<div class="stars-today">⭐ 5695 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 17838</span>
-						<span>🔱 1117</span>
+						<span>⭐ 17855</span>
+						<span>🔱 1118</span>
 					</div>
 				<div class="stars-today">⭐ 8702 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35268</span>
+						<span>🔱 8228</span>
+					</div>
+				<div class="stars-today">⭐ 7751 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+    
+
+
+      
+        gorhill /
+
+      uBlock</a></p>
+				<p>
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 57346</span>
+						<span>🔱 3645</span>
+					</div>
+				<div class="stars-today">⭐ 2532 stars this month</div>
 				</div>
 			</div>
 	
