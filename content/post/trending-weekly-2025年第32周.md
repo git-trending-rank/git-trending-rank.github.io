@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第32周
-date: 2025-08-08T09:59:24Z
+date: 2025-08-08T11:58:54Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11546</span>
-						<span>🔱 1066</span>
+						<span>⭐ 11569</span>
+						<span>🔱 1069</span>
 					</div>
 				<div class="stars-today">⭐ 8908 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21860</span>
-						<span>🔱 763</span>
+						<span>⭐ 21900</span>
+						<span>🔱 766</span>
 					</div>
 				<div class="stars-today">⭐ 5959 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12894</span>
-						<span>🔱 1406</span>
+						<span>⭐ 12931</span>
+						<span>🔱 1408</span>
 					</div>
 				<div class="stars-today">⭐ 2476 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      mcp-for-beginners</a></p>
-				<p>
-      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8093</span>
-						<span>🔱 2188</span>
-					</div>
-				<div class="stars-today">⭐ 1914 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,76 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 149517</span>
-						<span>🔱 12748</span>
+						<span>⭐ 149539</span>
+						<span>🔱 12749</span>
 					</div>
 				<div class="stars-today">⭐ 1206 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/bubbletea" target="_blank">
+				<p><a href="https://github.com/actualbudget/actual" target="_blank">
     
 
 
       
-        charmbracelet /
+        actualbudget /
 
-      bubbletea</a></p>
+      actual</a></p>
 				<p>
-      A powerful little TUI framework 🏗
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34123</span>
-						<span>🔱 964</span>
-					</div>
-				<div class="stars-today">⭐ 340 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+      A local-first personal finance app
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11353</span>
-						<span>🔱 839</span>
+						<span>⭐ 21319</span>
+						<span>🔱 1715</span>
 					</div>
-				<div class="stars-today">⭐ 1985 stars this week</div>
+				<div class="stars-today">⭐ 769 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
     
 
 
       
-        rasbt /
+        microsoft /
 
-      LLMs-from-scratch</a></p>
+      mcp-for-beginners</a></p>
 				<p>
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 62823</span>
-						<span>🔱 8809</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8118</span>
+						<span>🔱 2190</span>
 					</div>
-				<div class="stars-today">⭐ 2137 stars this week</div>
+				<div class="stars-today">⭐ 1914 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56396</span>
-						<span>🔱 6661</span>
+						<span>⭐ 56405</span>
+						<span>🔱 6663</span>
 					</div>
 				<div class="stars-today">⭐ 2326 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 62836</span>
+						<span>🔱 8809</span>
+					</div>
+				<div class="stars-today">⭐ 2137 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11380</span>
+						<span>🔱 843</span>
+					</div>
+				<div class="stars-today">⭐ 1985 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 84291</span>
+						<span>⭐ 84301</span>
 						<span>🔱 12611</span>
 					</div>
 				<div class="stars-today">⭐ 543 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-cookbook</a></p>
+				<p>
+      Examples and guides for using the OpenAI API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 66473</span>
+						<span>🔱 11021</span>
+					</div>
+				<div class="stars-today">⭐ 603 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lvgl/lvgl" target="_blank">
+    
+
+
+      
+        lvgl /
+
+      lvgl</a></p>
+				<p>
+      Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 20725</span>
+						<span>🔱 3763</span>
+					</div>
+				<div class="stars-today">⭐ 202 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 84827</span>
+						<span>⭐ 84834</span>
 						<span>🔱 9412</span>
 					</div>
 				<div class="stars-today">⭐ 765 stars this week</div>
