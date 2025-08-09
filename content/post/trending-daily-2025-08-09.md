@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-09
-date: 2025-08-09T09:58:36Z
+date: 2025-08-09T11:58:59Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13202</span>
-						<span>🔱 1430</span>
-					</div>
-				<div class="stars-today">⭐ 499 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-cookbook</a></p>
-				<p>
-      Examples and guides for using the OpenAI API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66704</span>
-						<span>🔱 11046</span>
-					</div>
-				<div class="stars-today">⭐ 331 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/openai/codex" target="_blank">
@@ -74,54 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33090</span>
-						<span>🔱 3836</span>
+						<span>⭐ 33129</span>
+						<span>🔱 3840</span>
 					</div>
 				<div class="stars-today">⭐ 569 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
+				<p><a href="https://github.com/xiaoyaocz/dart_simple_live" target="_blank">
     
 
 
       
-        netbirdio /
+        xiaoyaocz /
 
-      netbird</a></p>
+      dart_simple_live</a></p>
 				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+      简简单单的看直播
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 17970</span>
-						<span>🔱 836</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 11959</span>
+						<span>🔱 828</span>
 					</div>
-				<div class="stars-today">⭐ 197 stars today</div>
+				<div class="stars-today">⭐ 132 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FFmpeg/asm-lessons" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        FFmpeg /
+        nautechsystems /
 
-      asm-lessons</a></p>
+      nautilus_trader</a></p>
 				<p>
-      FFMPEG Assembly Language Lessons
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 7824</span>
-						<span>🔱 229</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13228</span>
+						<span>🔱 1433</span>
 					</div>
-				<div class="stars-today">⭐ 443 stars today</div>
+				<div class="stars-today">⭐ 499 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nomic-ai/gpt4all" target="_blank">
+    
+
+
+      
+        nomic-ai /
+
+      gpt4all</a></p>
+				<p>
+      GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 73991</span>
+						<span>🔱 8073</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
@@ -140,142 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6255</span>
-						<span>🔱 391</span>
+						<span>⭐ 6277</span>
+						<span>🔱 393</span>
 					</div>
 				<div class="stars-today">⭐ 71 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/python-poetry/poetry" target="_blank">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
     
 
 
       
-        python-poetry /
+        exo-explore /
 
-      poetry</a></p>
+      exo</a></p>
 				<p>
-      Python packaging and dependency management made easy
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33792</span>
-						<span>🔱 2369</span>
+						<span>⭐ 29382</span>
+						<span>🔱 1883</span>
 					</div>
-				<div class="stars-today">⭐ 25 stars today</div>
+				<div class="stars-today">⭐ 62 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-python" target="_blank">
+				<p><a href="https://github.com/steveiliop56/tinyauth" target="_blank">
     
 
 
       
-        google /
+        steveiliop56 /
 
-      adk-python</a></p>
+      tinyauth</a></p>
 				<p>
-      An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+      The simplest way to protect your apps with a login screen.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3912</span>
+						<span>🔱 109</span>
+					</div>
+				<div class="stars-today">⭐ 81 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11927</span>
-						<span>🔱 1648</span>
+						<span>⭐ 2682</span>
+						<span>🔱 263</span>
 					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
+				<div class="stars-today">⭐ 132 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+				<p><a href="https://github.com/libsdl-org/SDL" target="_blank">
     
 
 
       
-        browserbase /
+        libsdl-org /
 
-      stagehand</a></p>
+      SDL</a></p>
 				<p>
-      The AI Browser Automation Framework
+      Simple Directmedia Layer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15959</span>
-						<span>🔱 955</span>
+						<span>🔠 C</span>
+						<span>⭐ 13004</span>
+						<span>🔱 2289</span>
 					</div>
-				<div class="stars-today">⭐ 311 stars today</div>
+				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/e2b-dev/awesome-ai-agents" target="_blank">
+				<p><a href="https://github.com/sinaptik-ai/pandas-ai" target="_blank">
     
 
 
       
-        e2b-dev /
+        sinaptik-ai /
 
-      awesome-ai-agents</a></p>
+      pandas-ai</a></p>
 				<p>
-      A list of AI autonomous agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 20841</span>
-						<span>🔱 1654</span>
-					</div>
-				<div class="stars-today">⭐ 96 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/backstage/backstage" target="_blank">
-    
-
-
-      
-        backstage /
-
-      backstage</a></p>
-				<p>
-      Backstage is an open framework for building developer portals
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31085</span>
-						<span>🔱 6720</span>
-					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-samples" target="_blank">
-    
-
-
-      
-        google /
-
-      adk-samples</a></p>
-				<p>
-      A collection of sample agents built with Agent Development (ADK) 
+      Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4388</span>
-						<span>🔱 1233</span>
+						<span>⭐ 21484</span>
+						<span>🔱 2087</span>
 					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
+				<div class="stars-today">⭐ 132 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28002</span>
-						<span>🔱 4146</span>
+						<span>⭐ 28023</span>
+						<span>🔱 4148</span>
 					</div>
 				<div class="stars-today">⭐ 64 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tadata-org/fastapi_mcp" target="_blank">
+    
+
+
+      
+        tadata-org /
+
+      fastapi_mcp</a></p>
+				<p>
+      Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6932</span>
+						<span>🔱 577</span>
+					</div>
+				<div class="stars-today">⭐ 88 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/self-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      self-llm</a></p>
+				<p>
+      《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 22830</span>
+						<span>🔱 2301</span>
+					</div>
+				<div class="stars-today">⭐ 220 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zumerlab/snapdom" target="_blank">
+    
+
+
+      
+        zumerlab /
+
+      snapdom</a></p>
+				<p>
+      snapDOM captures HTML elements to images with exceptional speed and accuracy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 4822</span>
+						<span>🔱 157</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	
