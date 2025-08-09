@@ -6,7 +6,895 @@
         <description>Recent content in Posts on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 08 Aug 2025 23:58:54 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 09 Aug 2025 03:13:16 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-08-09</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-08-09/</link>
+        <pubDate>Sat, 09 Aug 2025 03:13:16 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-08-09/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nautechsystems/nautilus_trader&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A high-performance algorithmic trading platform and event-driven backtester
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 13129&lt;/span&gt;
+						&lt;span&gt;🔱 1426&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 499 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-cookbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      openai-cookbook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Examples and guides for using the OpenAI API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 66634&lt;/span&gt;
+						&lt;span&gt;🔱 11039&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 331 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/codex&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      codex&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Lightweight coding agent that runs in your terminal
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 32927&lt;/span&gt;
+						&lt;span&gt;🔱 3818&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 569 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/netbirdio/netbird&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        netbirdio /
+
+      netbird&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 17928&lt;/span&gt;
+						&lt;span&gt;🔱 832&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 197 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/FFmpeg/asm-lessons&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        FFmpeg /
+
+      asm-lessons&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FFMPEG Assembly Language Lessons
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 7758&lt;/span&gt;
+						&lt;span&gt;🔱 225&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 443 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/polarsource/polar&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        polarsource /
+
+      polar&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open source engine for your digital products. Sell SaaS and digital products in minutes.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6179&lt;/span&gt;
+						&lt;span&gt;🔱 387&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 71 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/python-poetry/poetry&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        python-poetry /
+
+      poetry&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Python packaging and dependency management made easy
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 33768&lt;/span&gt;
+						&lt;span&gt;🔱 2368&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/adk-python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google /
+
+      adk-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 11863&lt;/span&gt;
+						&lt;span&gt;🔱 1646&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 89 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/browserbase/stagehand&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        browserbase /
+
+      stagehand&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The AI Browser Automation Framework
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 15918&lt;/span&gt;
+						&lt;span&gt;🔱 951&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 311 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/e2b-dev/awesome-ai-agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        e2b-dev /
+
+      awesome-ai-agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A list of AI autonomous agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 20724&lt;/span&gt;
+						&lt;span&gt;🔱 1650&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 96 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/backstage/backstage&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        backstage /
+
+      backstage&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Backstage is an open framework for building developer portals
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 31036&lt;/span&gt;
+						&lt;span&gt;🔱 6716&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 29 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/adk-samples&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google /
+
+      adk-samples&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of sample agents built with Agent Development (ADK) 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 4298&lt;/span&gt;
+						&lt;span&gt;🔱 1226&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 66 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      openai-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The official Python library for the OpenAI API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 27903&lt;/span&gt;
+						&lt;span&gt;🔱 4140&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
+        <title>GitHub 趋势 2025年8月</title>
+        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B48%E6%9C%88/</link>
+        <pubDate>Sat, 09 Aug 2025 03:13:16 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B48%E6%9C%88/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dyad-sh/dyad&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dyad-sh /
+
+      dyad&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11700&lt;/span&gt;
+						&lt;span&gt;🔱 1082&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9918 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenBB-finance/OpenBB&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Investment Research for Everyone, Everywhere.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 48690&lt;/span&gt;
+						&lt;span&gt;🔱 4497&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6588 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/musistudio/claude-code-router&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        musistudio /
+
+      claude-code-router&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11541&lt;/span&gt;
+						&lt;span&gt;🔱 856&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8447 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/markitdown&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      markitdown&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Python tool for converting files and office documents to Markdown.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 70676&lt;/span&gt;
+						&lt;span&gt;🔱 3825&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10901 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 28787&lt;/span&gt;
+						&lt;span&gt;🔱 1624&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10792 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/open_deep_research&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7319&lt;/span&gt;
+						&lt;span&gt;🔱 964&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3076 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hesreallyhim/awesome-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hesreallyhim /
+
+      awesome-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A curated list of awesome commands, files, and workflows for Claude Code
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9438&lt;/span&gt;
+						&lt;span&gt;🔱 493&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6209 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/frappe/hrms&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        frappe /
+
+      hrms&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open Source HR and Payroll Software
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 5926&lt;/span&gt;
+						&lt;span&gt;🔱 1516&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3241 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sst/opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        sst /
+
+      opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI coding agent, built for the terminal.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 18295&lt;/span&gt;
+						&lt;span&gt;🔱 1147&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7893 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gorhill/uBlock&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        gorhill /
+
+      uBlock&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 57433&lt;/span&gt;
+						&lt;span&gt;🔱 3652&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2605 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/getzep/graphiti&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        getzep /
+
+      graphiti&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Build Real-Time Knowledge Graphs for AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 16214&lt;/span&gt;
+						&lt;span&gt;🔱 1398&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4084 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NanmiCoder/MediaCrawler&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 35366&lt;/span&gt;
+						&lt;span&gt;🔱 8241&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6924 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
+        <title>GitHub 趋势 2025年第32周</title>
+        <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC32%E5%91%A8/</link>
+        <pubDate>Sat, 09 Aug 2025 03:13:16 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC32%E5%91%A8/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dyad-sh/dyad&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dyad-sh /
+
+      dyad&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11700&lt;/span&gt;
+						&lt;span&gt;🔱 1082&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8863 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/9001/copyparty&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        9001 /
+
+      copyparty&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 22093&lt;/span&gt;
+						&lt;span&gt;🔱 780&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4696 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nautechsystems/nautilus_trader&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A high-performance algorithmic trading platform and event-driven backtester
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 13129&lt;/span&gt;
+						&lt;span&gt;🔱 1426&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2976 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ollama/ollama&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ollama /
+
+      ollama&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 149613&lt;/span&gt;
+						&lt;span&gt;🔱 12755&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1344 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/actualbudget/actual&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        actualbudget /
+
+      actual&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A local-first personal finance app
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 21352&lt;/span&gt;
+						&lt;span&gt;🔱 1718&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 794 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/mcp-for-beginners&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      mcp-for-beginners&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 8211&lt;/span&gt;
+						&lt;span&gt;🔱 2220&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2113 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 56482&lt;/span&gt;
+						&lt;span&gt;🔱 6672&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1967 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rasbt/LLMs-from-scratch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 62912&lt;/span&gt;
+						&lt;span&gt;🔱 8816&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2208 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/musistudio/claude-code-router&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        musistudio /
+
+      claude-code-router&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11541&lt;/span&gt;
+						&lt;span&gt;🔱 856&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2180 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LLM inference in C/C++
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 84363&lt;/span&gt;
+						&lt;span&gt;🔱 12626&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 620 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-cookbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      openai-cookbook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Examples and guides for using the OpenAI API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 66634&lt;/span&gt;
+						&lt;span&gt;🔱 11039&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 882 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lvgl/lvgl&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lvgl /
+
+      lvgl&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C&lt;/span&gt;
+						&lt;span&gt;⭐ 20754&lt;/span&gt;
+						&lt;span&gt;🔱 3764&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 415 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/comfyanonymous/ComfyUI&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        comfyanonymous /
+
+      ComfyUI&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 84907&lt;/span&gt;
+						&lt;span&gt;🔱 9415&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 802 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-08-08</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-08-08/</link>
         <pubDate>Fri, 08 Aug 2025 23:58:54 +0000</pubDate>
@@ -301,590 +1189,6 @@
 						&lt;span&gt;🔱 4137&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 19 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
-        <title>GitHub 趋势 2025年8月</title>
-        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B48%E6%9C%88/</link>
-        <pubDate>Fri, 08 Aug 2025 23:58:54 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B48%E6%9C%88/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dyad-sh/dyad&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dyad-sh /
-
-      dyad&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11685&lt;/span&gt;
-						&lt;span&gt;🔱 1082&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9619 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenBB-finance/OpenBB&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Investment Research for Everyone, Everywhere.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 48679&lt;/span&gt;
-						&lt;span&gt;🔱 4496&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6472 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/musistudio/claude-code-router&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        musistudio /
-
-      claude-code-router&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11520&lt;/span&gt;
-						&lt;span&gt;🔱 851&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8135 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/markitdown&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      markitdown&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Python tool for converting files and office documents to Markdown.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 70670&lt;/span&gt;
-						&lt;span&gt;🔱 3824&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10873 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 28770&lt;/span&gt;
-						&lt;span&gt;🔱 1625&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10789 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/open_deep_research&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7310&lt;/span&gt;
-						&lt;span&gt;🔱 963&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3029 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/hesreallyhim/awesome-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A curated list of awesome commands, files, and workflows for Claude Code
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9418&lt;/span&gt;
-						&lt;span&gt;🔱 488&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6194 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/frappe/hrms&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        frappe /
-
-      hrms&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open Source HR and Payroll Software
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5922&lt;/span&gt;
-						&lt;span&gt;🔱 1516&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3185 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sst/opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sst /
-
-      opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI coding agent, built for the terminal.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 18270&lt;/span&gt;
-						&lt;span&gt;🔱 1144&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8054 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/gorhill/uBlock&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        gorhill /
-
-      uBlock&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 57431&lt;/span&gt;
-						&lt;span&gt;🔱 3652&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2559 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/getzep/graphiti&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        getzep /
-
-      graphiti&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Build Real-Time Knowledge Graphs for AI Agents
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16206&lt;/span&gt;
-						&lt;span&gt;🔱 1398&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4074 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NanmiCoder/MediaCrawler&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 35360&lt;/span&gt;
-						&lt;span&gt;🔱 8239&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7193 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
-        <title>GitHub 趋势 2025年第32周</title>
-        <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC32%E5%91%A8/</link>
-        <pubDate>Fri, 08 Aug 2025 23:58:54 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC32%E5%91%A8/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dyad-sh/dyad&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dyad-sh /
-
-      dyad&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11685&lt;/span&gt;
-						&lt;span&gt;🔱 1082&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8908 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/9001/copyparty&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        9001 /
-
-      copyparty&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 22048&lt;/span&gt;
-						&lt;span&gt;🔱 776&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5959 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nautechsystems/nautilus_trader&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A high-performance algorithmic trading platform and event-driven backtester
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 13097&lt;/span&gt;
-						&lt;span&gt;🔱 1425&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2476 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ollama/ollama&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ollama /
-
-      ollama&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 149599&lt;/span&gt;
-						&lt;span&gt;🔱 12756&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1206 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/actualbudget/actual&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        actualbudget /
-
-      actual&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A local-first personal finance app
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 21341&lt;/span&gt;
-						&lt;span&gt;🔱 1717&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 769 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/mcp-for-beginners&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      mcp-for-beginners&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8192&lt;/span&gt;
-						&lt;span&gt;🔱 2217&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1914 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56468&lt;/span&gt;
-						&lt;span&gt;🔱 6671&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2326 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rasbt/LLMs-from-scratch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        rasbt /
-
-      LLMs-from-scratch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 62896&lt;/span&gt;
-						&lt;span&gt;🔱 8814&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2137 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/musistudio/claude-code-router&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        musistudio /
-
-      claude-code-router&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11520&lt;/span&gt;
-						&lt;span&gt;🔱 851&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1985 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ggml-org /
-
-      llama.cpp&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      LLM inference in C/C++
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 84354&lt;/span&gt;
-						&lt;span&gt;🔱 12623&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 543 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-cookbook&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openai /
-
-      openai-cookbook&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Examples and guides for using the OpenAI API
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 66607&lt;/span&gt;
-						&lt;span&gt;🔱 11035&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 603 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lvgl/lvgl&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lvgl /
-
-      lvgl&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C&lt;/span&gt;
-						&lt;span&gt;⭐ 20751&lt;/span&gt;
-						&lt;span&gt;🔱 3764&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 202 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/comfyanonymous/ComfyUI&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        comfyanonymous /
-
-      ComfyUI&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 84893&lt;/span&gt;
-						&lt;span&gt;🔱 9415&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 765 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

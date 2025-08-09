@@ -6,7 +6,311 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 08 Aug 2025 23:58:54 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 09 Aug 2025 03:13:16 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-08-09</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-08-09/</link>
+        <pubDate>Sat, 09 Aug 2025 03:13:16 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-08-09/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nautechsystems/nautilus_trader&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A high-performance algorithmic trading platform and event-driven backtester
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 13129&lt;/span&gt;
+						&lt;span&gt;🔱 1426&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 499 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-cookbook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      openai-cookbook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Examples and guides for using the OpenAI API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 66634&lt;/span&gt;
+						&lt;span&gt;🔱 11039&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 331 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/codex&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      codex&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Lightweight coding agent that runs in your terminal
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 32927&lt;/span&gt;
+						&lt;span&gt;🔱 3818&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 569 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/netbirdio/netbird&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        netbirdio /
+
+      netbird&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 17928&lt;/span&gt;
+						&lt;span&gt;🔱 832&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 197 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/FFmpeg/asm-lessons&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        FFmpeg /
+
+      asm-lessons&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FFMPEG Assembly Language Lessons
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 7758&lt;/span&gt;
+						&lt;span&gt;🔱 225&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 443 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/polarsource/polar&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        polarsource /
+
+      polar&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open source engine for your digital products. Sell SaaS and digital products in minutes.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6179&lt;/span&gt;
+						&lt;span&gt;🔱 387&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 71 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/python-poetry/poetry&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        python-poetry /
+
+      poetry&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Python packaging and dependency management made easy
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 33768&lt;/span&gt;
+						&lt;span&gt;🔱 2368&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/adk-python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google /
+
+      adk-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 11863&lt;/span&gt;
+						&lt;span&gt;🔱 1646&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 89 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/browserbase/stagehand&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        browserbase /
+
+      stagehand&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The AI Browser Automation Framework
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 15918&lt;/span&gt;
+						&lt;span&gt;🔱 951&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 311 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/e2b-dev/awesome-ai-agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        e2b-dev /
+
+      awesome-ai-agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A list of AI autonomous agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 20724&lt;/span&gt;
+						&lt;span&gt;🔱 1650&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 96 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/backstage/backstage&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        backstage /
+
+      backstage&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Backstage is an open framework for building developer portals
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 31036&lt;/span&gt;
+						&lt;span&gt;🔱 6716&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 29 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/adk-samples&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google /
+
+      adk-samples&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of sample agents built with Agent Development (ADK) 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 4298&lt;/span&gt;
+						&lt;span&gt;🔱 1226&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 66 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      openai-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The official Python library for the OpenAI API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 27903&lt;/span&gt;
+						&lt;span&gt;🔱 4140&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-08-08</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-08-08/</link>
         <pubDate>Fri, 08 Aug 2025 23:58:54 +0000</pubDate>
