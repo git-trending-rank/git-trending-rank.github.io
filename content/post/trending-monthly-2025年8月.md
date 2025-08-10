@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-10T09:58:48Z
+date: 2025-08-10T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48829</span>
-						<span>🔱 4518</span>
+						<span>⭐ 48838</span>
+						<span>🔱 4520</span>
 					</div>
 				<div class="stars-today">⭐ 6655 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11972</span>
-						<span>🔱 1117</span>
+						<span>⭐ 11987</span>
+						<span>🔱 1119</span>
 					</div>
 				<div class="stars-today">⭐ 10081 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11836</span>
-						<span>🔱 871</span>
+						<span>⭐ 11854</span>
+						<span>🔱 875</span>
 					</div>
 				<div class="stars-today">⭐ 8618 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70781</span>
+						<span>⭐ 70785</span>
 						<span>🔱 3838</span>
 					</div>
 				<div class="stars-today">⭐ 10909 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28976</span>
+						<span>⭐ 28992</span>
 						<span>🔱 1644</span>
 					</div>
 				<div class="stars-today">⭐ 10732 stars this month</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9715</span>
-						<span>🔱 521</span>
+						<span>⭐ 9728</span>
+						<span>🔱 523</span>
 					</div>
 				<div class="stars-today">⭐ 6259 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frappe/hrms" target="_blank">
-    
-
-
-      
-        frappe /
-
-      hrms</a></p>
-				<p>
-      Open Source HR and Payroll Software
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5963</span>
-						<span>🔱 1521</span>
-					</div>
-				<div class="stars-today">⭐ 3257 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18576</span>
-						<span>🔱 1168</span>
+						<span>⭐ 18589</span>
+						<span>🔱 1169</span>
 					</div>
 				<div class="stars-today">⭐ 7805 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gorhill/uBlock" target="_blank">
+				<p><a href="https://github.com/frappe/hrms" target="_blank">
     
 
 
       
-        gorhill /
+        frappe /
 
-      uBlock</a></p>
+      hrms</a></p>
 				<p>
-      uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+      Open Source HR and Payroll Software
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 57499</span>
-						<span>🔱 3657</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5964</span>
+						<span>🔱 1521</span>
 					</div>
-				<div class="stars-today">⭐ 2639 stars this month</div>
+				<div class="stars-today">⭐ 3257 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16315</span>
+						<span>⭐ 16330</span>
 						<span>🔱 1409</span>
 					</div>
 				<div class="stars-today">⭐ 4110 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 13441</span>
+						<span>🔱 1442</span>
+					</div>
+				<div class="stars-today">⭐ 3629 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第32周
-date: 2025-08-10T09:58:48Z
+date: 2025-08-10T11:58:46Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11972</span>
-						<span>🔱 1117</span>
+						<span>⭐ 11987</span>
+						<span>🔱 1119</span>
 					</div>
 				<div class="stars-today">⭐ 8429 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13430</span>
+						<span>⭐ 13441</span>
 						<span>🔱 1442</span>
 					</div>
 				<div class="stars-today">⭐ 3224 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 33618</span>
+						<span>🔱 3888</span>
+					</div>
+				<div class="stars-today">⭐ 1599 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8359</span>
-						<span>🔱 2260</span>
+						<span>⭐ 8374</span>
+						<span>🔱 2261</span>
 					</div>
 				<div class="stars-today">⭐ 2146 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-cookbook</a></p>
+				<p>
+      Examples and guides for using the OpenAI API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 66786</span>
+						<span>🔱 11061</span>
+					</div>
+				<div class="stars-today">⭐ 1065 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 149757</span>
+						<span>⭐ 149768</span>
 						<span>🔱 12767</span>
 					</div>
 				<div class="stars-today">⭐ 1362 stars this week</div>
@@ -118,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21423</span>
+						<span>⭐ 21426</span>
 						<span>🔱 1721</span>
 					</div>
 				<div class="stars-today">⭐ 834 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33578</span>
-						<span>🔱 3884</span>
-					</div>
-				<div class="stars-today">⭐ 1599 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-cookbook</a></p>
-				<p>
-      Examples and guides for using the OpenAI API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66785</span>
-						<span>🔱 11060</span>
-					</div>
-				<div class="stars-today">⭐ 1065 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 84462</span>
-						<span>🔱 12640</span>
+						<span>⭐ 84467</span>
+						<span>🔱 12642</span>
 					</div>
 				<div class="stars-today">⭐ 665 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
+				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
     
 
 
       
-        9001 /
+        vllm-project /
 
-      copyparty</a></p>
+      vllm</a></p>
 				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+      A high-throughput and memory-efficient inference and serving engine for LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22432</span>
-						<span>🔱 803</span>
+						<span>⭐ 54721</span>
+						<span>🔱 9260</span>
 					</div>
-				<div class="stars-today">⭐ 4149 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jesseduffield/lazygit" target="_blank">
-    
-
-
-      
-        jesseduffield /
-
-      lazygit</a></p>
-				<p>
-      simple terminal UI for git commands
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 63306</span>
-						<span>🔱 2175</span>
-					</div>
-				<div class="stars-today">⭐ 749 stars this week</div>
+				<div class="stars-today">⭐ 917 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 20800</span>
-						<span>🔱 3766</span>
+						<span>⭐ 20806</span>
+						<span>🔱 3767</span>
 					</div>
 				<div class="stars-today">⭐ 445 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/python-poetry/poetry" target="_blank">
+    
+
+
+      
+        python-poetry /
+
+      poetry</a></p>
+				<p>
+      Python packaging and dependency management made easy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33801</span>
+						<span>🔱 2371</span>
+					</div>
+				<div class="stars-today">⭐ 324 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      stagehand</a></p>
+				<p>
+      The AI Browser Automation Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16007</span>
+						<span>🔱 958</span>
+					</div>
+				<div class="stars-today">⭐ 1071 stars this week</div>
 				</div>
 			</div>
 	
