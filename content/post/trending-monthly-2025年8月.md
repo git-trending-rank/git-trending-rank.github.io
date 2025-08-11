@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-11T09:58:49Z
+date: 2025-08-11T11:58:54Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48919</span>
+						<span>⭐ 48925</span>
 						<span>🔱 4537</span>
 					</div>
 				<div class="stars-today">⭐ 6755 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12208</span>
-						<span>🔱 1146</span>
+						<span>⭐ 12225</span>
+						<span>🔱 1147</span>
 					</div>
 				<div class="stars-today">⭐ 10259 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12116</span>
-						<span>🔱 895</span>
+						<span>⭐ 12133</span>
+						<span>🔱 897</span>
 					</div>
 				<div class="stars-today">⭐ 8717 stars this month</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70883</span>
-						<span>🔱 3845</span>
+						<span>⭐ 70898</span>
+						<span>🔱 3846</span>
 					</div>
 				<div class="stars-today">⭐ 10951 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
+    
+
+
+      
+        OpenPipe /
+
+      ART</a></p>
+				<p>
+      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5420</span>
+						<span>🔱 340</span>
+					</div>
+				<div class="stars-today">⭐ 4553 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7417</span>
+						<span>⭐ 7422</span>
 						<span>🔱 980</span>
 					</div>
 				<div class="stars-today">⭐ 3133 stars this month</div>
@@ -138,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29152</span>
-						<span>🔱 1656</span>
+						<span>⭐ 29165</span>
+						<span>🔱 1658</span>
 					</div>
 				<div class="stars-today">⭐ 10635 stars this month</div>
 				</div>
@@ -160,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9899</span>
-						<span>🔱 534</span>
+						<span>⭐ 9915</span>
+						<span>🔱 535</span>
 					</div>
 				<div class="stars-today">⭐ 6296 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      AI coding agent, built for the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 18775</span>
-						<span>🔱 1188</span>
-					</div>
-				<div class="stars-today">⭐ 7664 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6006</span>
+						<span>⭐ 6011</span>
 						<span>🔱 1525</span>
 					</div>
 				<div class="stars-today">⭐ 3281 stars this month</div>
@@ -212,24 +212,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
     
 
 
       
-        getzep /
+        sst /
 
-      graphiti</a></p>
+      opencode</a></p>
 				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
+      AI coding agent, built for the terminal.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16500</span>
-						<span>🔱 1425</span>
+						<span>🔠 Go</span>
+						<span>⭐ 18791</span>
+						<span>🔱 1190</span>
 					</div>
-				<div class="stars-today">⭐ 4174 stars this month</div>
+				<div class="stars-today">⭐ 7664 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13599</span>
+						<span>⭐ 13606</span>
 						<span>🔱 1467</span>
 					</div>
 				<div class="stars-today">⭐ 3843 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/getzep/graphiti" target="_blank">
+    
+
+
+      
+        getzep /
+
+      graphiti</a></p>
+				<p>
+      Build Real-Time Knowledge Graphs for AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16514</span>
+						<span>🔱 1426</span>
+					</div>
+				<div class="stars-today">⭐ 4174 stars this month</div>
 				</div>
 			</div>
 	
