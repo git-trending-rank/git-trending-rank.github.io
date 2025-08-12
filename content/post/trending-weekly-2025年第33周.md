@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第33周
-date: 2025-08-12T17:58:37Z
+date: 2025-08-12T19:58:38Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13733</span>
-						<span>🔱 1484</span>
+						<span>⭐ 13739</span>
+						<span>🔱 1485</span>
 					</div>
 				<div class="stars-today">⭐ 3569 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12435</span>
-						<span>🔱 1169</span>
+						<span>⭐ 12450</span>
+						<span>🔱 1170</span>
 					</div>
 				<div class="stars-today">⭐ 5995 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 34622</span>
-						<span>🔱 3952</span>
+						<span>⭐ 34631</span>
+						<span>🔱 3953</span>
 					</div>
 				<div class="stars-today">⭐ 2518 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 150010</span>
-						<span>🔱 12794</span>
+						<span>⭐ 150019</span>
+						<span>🔱 12798</span>
 					</div>
 				<div class="stars-today">⭐ 1378 stars this week</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66951</span>
-						<span>🔱 11095</span>
+						<span>⭐ 66956</span>
+						<span>🔱 11094</span>
 					</div>
 				<div class="stars-today">⭐ 1168 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      mcp-for-beginners</a></p>
-				<p>
-      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8919</span>
-						<span>🔱 2413</span>
-					</div>
-				<div class="stars-today">⭐ 2289 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16207</span>
+						<span>⭐ 16211</span>
 						<span>🔱 962</span>
 					</div>
 				<div class="stars-today">⭐ 1174 stars this week</div>
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 20924</span>
+						<span>⭐ 20926</span>
 						<span>🔱 3778</span>
 					</div>
 				<div class="stars-today">⭐ 511 stars this week</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54975</span>
-						<span>🔱 9319</span>
+						<span>⭐ 54979</span>
+						<span>🔱 9321</span>
 					</div>
 				<div class="stars-today">⭐ 969 stars this week</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29510</span>
-						<span>🔱 5360</span>
+						<span>⭐ 29534</span>
+						<span>🔱 5361</span>
 					</div>
 				<div class="stars-today">⭐ 1662 stars this week</div>
 				</div>
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7198</span>
+						<span>⭐ 7201</span>
 						<span>🔱 947</span>
 					</div>
 				<div class="stars-today">⭐ 796 stars this week</div>
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21550</span>
+						<span>⭐ 21553</span>
 						<span>🔱 1730</span>
 					</div>
 				<div class="stars-today">⭐ 808 stars this week</div>
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 84695</span>
+						<span>⭐ 84702</span>
 						<span>🔱 12677</span>
 					</div>
 				<div class="stars-today">⭐ 704 stars this week</div>
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16882</span>
-						<span>🔱 2845</span>
+						<span>⭐ 16906</span>
+						<span>🔱 2848</span>
 					</div>
 				<div class="stars-today">⭐ 1113 stars this week</div>
 				</div>
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2205</span>
+						<span>⭐ 2206</span>
 						<span>🔱 187</span>
 					</div>
 				<div class="stars-today">⭐ 63 stars this week</div>
