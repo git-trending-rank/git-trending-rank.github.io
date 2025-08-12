@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-12T09:58:48Z
+date: 2025-08-12T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48994</span>
-						<span>🔱 4552</span>
+						<span>⭐ 48999</span>
+						<span>🔱 4553</span>
 					</div>
 				<div class="stars-today">⭐ 6835 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12378</span>
+						<span>⭐ 12389</span>
 						<span>🔱 1167</span>
 					</div>
 				<div class="stars-today">⭐ 10449 stars this month</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12316</span>
-						<span>🔱 914</span>
+						<span>⭐ 12327</span>
+						<span>🔱 916</span>
 					</div>
 				<div class="stars-today">⭐ 8892 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      supervision</a></p>
+				<p>
+      We write your reusable computer vision tools. 💜
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33540</span>
+						<span>🔱 2708</span>
+					</div>
+				<div class="stars-today">⭐ 6779 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +118,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71019</span>
+						<span>⭐ 71031</span>
 						<span>🔱 3856</span>
 					</div>
 				<div class="stars-today">⭐ 11008 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7465</span>
+						<span>🔱 985</span>
+					</div>
+				<div class="stars-today">⭐ 3158 stars this month</div>
 				</div>
 			</div>
 	
@@ -126,48 +168,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7460</span>
-						<span>🔱 984</span>
-					</div>
-				<div class="stars-today">⭐ 3158 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29330</span>
-						<span>🔱 1667</span>
-					</div>
-				<div class="stars-today">⭐ 10554 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
     
 
@@ -182,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10110</span>
-						<span>🔱 549</span>
+						<span>⭐ 10130</span>
+						<span>🔱 550</span>
 					</div>
 				<div class="stars-today">⭐ 6384 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 13713</span>
+						<span>🔱 1478</span>
+					</div>
+				<div class="stars-today">⭐ 3993 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6059</span>
-						<span>🔱 1530</span>
+						<span>⭐ 6063</span>
+						<span>🔱 1531</span>
 					</div>
 				<div class="stars-today">⭐ 3310 stars this month</div>
 				</div>
@@ -226,54 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18999</span>
-						<span>🔱 1201</span>
+						<span>⭐ 19012</span>
+						<span>🔱 1202</span>
 					</div>
 				<div class="stars-today">⭐ 7502 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        nautechsystems /
+        anthropics /
 
-      nautilus_trader</a></p>
+      claude-code</a></p>
 				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13703</span>
-						<span>🔱 1478</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29342</span>
+						<span>🔱 1668</span>
 					</div>
-				<div class="stars-today">⭐ 3993 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/getzep/graphiti" target="_blank">
-    
-
-
-      
-        getzep /
-
-      graphiti</a></p>
-				<p>
-      Build Real-Time Knowledge Graphs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16642</span>
-						<span>🔱 1443</span>
-					</div>
-				<div class="stars-today">⭐ 4123 stars this month</div>
+				<div class="stars-today">⭐ 10554 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第33周
-date: 2025-08-12T09:58:48Z
+date: 2025-08-12T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12378</span>
-						<span>🔱 1167</span>
-					</div>
-				<div class="stars-today">⭐ 5995 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13703</span>
+						<span>⭐ 13713</span>
 						<span>🔱 1478</span>
 					</div>
 				<div class="stars-today">⭐ 3569 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+    
+
+
+      
+        dyad-sh /
+
+      dyad</a></p>
+				<p>
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12389</span>
+						<span>🔱 1167</span>
+					</div>
+				<div class="stars-today">⭐ 5995 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 34550</span>
-						<span>🔱 3942</span>
+						<span>⭐ 34578</span>
+						<span>🔱 3944</span>
 					</div>
 				<div class="stars-today">⭐ 2518 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      mcp-for-beginners</a></p>
-				<p>
-      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8857</span>
-						<span>🔱 2391</span>
-					</div>
-				<div class="stars-today">⭐ 2289 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 149974</span>
+						<span>⭐ 149986</span>
 						<span>🔱 12789</span>
 					</div>
 				<div class="stars-today">⭐ 1378 stars this week</div>
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66922</span>
-						<span>🔱 11085</span>
+						<span>⭐ 66929</span>
+						<span>🔱 11089</span>
 					</div>
 				<div class="stars-today">⭐ 1168 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
     
 
 
       
-        ggml-org /
+        microsoft /
 
-      llama.cpp</a></p>
+      mcp-for-beginners</a></p>
 				<p>
-      LLM inference in C/C++
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 84659</span>
-						<span>🔱 12677</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8873</span>
+						<span>🔱 2395</span>
 					</div>
-				<div class="stars-today">⭐ 704 stars this week</div>
+				<div class="stars-today">⭐ 2289 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16171</span>
+						<span>⭐ 16178</span>
 						<span>🔱 962</span>
 					</div>
 				<div class="stars-today">⭐ 1174 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actualbudget/actual" target="_blank">
-    
-
-
-      
-        actualbudget /
-
-      actual</a></p>
-				<p>
-      A local-first personal finance app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21533</span>
-						<span>🔱 1730</span>
-					</div>
-				<div class="stars-today">⭐ 808 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 20909</span>
+						<span>⭐ 20912</span>
 						<span>🔱 3777</span>
 					</div>
 				<div class="stars-today">⭐ 511 stars this week</div>
@@ -250,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54943</span>
+						<span>⭐ 54952</span>
 						<span>🔱 9313</span>
 					</div>
 				<div class="stars-today">⭐ 969 stars this week</div>
@@ -258,46 +214,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jesseduffield/lazygit" target="_blank">
+				<p><a href="https://github.com/umami-software/umami" target="_blank">
     
 
 
       
-        jesseduffield /
+        umami-software /
 
-      lazygit</a></p>
+      umami</a></p>
 				<p>
-      simple terminal UI for git commands
+      Umami is a modern, privacy-focused alternative to Google Analytics.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 63438</span>
-						<span>🔱 2181</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29429</span>
+						<span>🔱 5354</span>
 					</div>
-				<div class="stars-today">⭐ 836 stars this week</div>
+				<div class="stars-today">⭐ 1662 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/python-poetry/poetry" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        python-poetry /
+        simstudioai /
 
-      poetry</a></p>
+      sim</a></p>
 				<p>
-      Python packaging and dependency management made easy
+      Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33838</span>
-						<span>🔱 2371</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7190</span>
+						<span>🔱 945</span>
 					</div>
-				<div class="stars-today">⭐ 343 stars this week</div>
+				<div class="stars-today">⭐ 796 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/actualbudget/actual" target="_blank">
+    
+
+
+      
+        actualbudget /
+
+      actual</a></p>
+				<p>
+      A local-first personal finance app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21537</span>
+						<span>🔱 1730</span>
+					</div>
+				<div class="stars-today">⭐ 808 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp</a></p>
+				<p>
+      LLM inference in C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 84669</span>
+						<span>🔱 12677</span>
+					</div>
+				<div class="stars-today">⭐ 704 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub</a></p>
+				<p>
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16793</span>
+						<span>🔱 2832</span>
+					</div>
+				<div class="stars-today">⭐ 1113 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-go" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-go</a></p>
+				<p>
+      The official Go library for the OpenAI API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2199</span>
+						<span>🔱 187</span>
+					</div>
+				<div class="stars-today">⭐ 63 stars this week</div>
 				</div>
 			</div>
 	
