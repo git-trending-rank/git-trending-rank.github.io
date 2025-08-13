@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-13T17:58:51Z
+date: 2025-08-13T19:58:38Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49103</span>
-						<span>🔱 4572</span>
+						<span>⭐ 49109</span>
+						<span>🔱 4573</span>
 					</div>
 				<div class="stars-today">⭐ 6905 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12657</span>
-						<span>🔱 1194</span>
+						<span>⭐ 12671</span>
+						<span>🔱 1196</span>
 					</div>
 				<div class="stars-today">⭐ 10590 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12693</span>
-						<span>🔱 944</span>
+						<span>⭐ 12708</span>
+						<span>🔱 946</span>
 					</div>
 				<div class="stars-today">⭐ 9034 stars this month</div>
 				</div>
@@ -94,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7538</span>
+						<span>⭐ 7542</span>
 						<span>🔱 995</span>
 					</div>
 				<div class="stars-today">⭐ 3192 stars this month</div>
@@ -116,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71179</span>
+						<span>⭐ 71180</span>
 						<span>🔱 3866</span>
 					</div>
 				<div class="stars-today">⭐ 11119 stars this month</div>
@@ -133,12 +133,12 @@ keywords:
 
       ART</a></p>
 				<p>
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
+      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5567</span>
+						<span>⭐ 5569</span>
 						<span>🔱 349</span>
 					</div>
 				<div class="stars-today">⭐ 4383 stars this month</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13832</span>
-						<span>🔱 1496</span>
+						<span>⭐ 13836</span>
+						<span>🔱 1495</span>
 					</div>
 				<div class="stars-today">⭐ 4103 stars this month</div>
 				</div>
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10386</span>
+						<span>⭐ 10399</span>
 						<span>🔱 567</span>
 					</div>
 				<div class="stars-today">⭐ 6505 stars this month</div>
@@ -204,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6111</span>
+						<span>⭐ 6116</span>
 						<span>🔱 1541</span>
 					</div>
 				<div class="stars-today">⭐ 3361 stars this month</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 29367</span>
-						<span>🔱 1260</span>
+						<span>⭐ 29372</span>
+						<span>🔱 1261</span>
 					</div>
 				<div class="stars-today">⭐ 2578 stars this month</div>
 				</div>
@@ -247,9 +247,9 @@ keywords:
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19273</span>
-						<span>🔱 1224</span>
+						<span>🔠 Go</span>
+						<span>⭐ 19288</span>
+						<span>🔱 1227</span>
 					</div>
 				<div class="stars-today">⭐ 7499 stars this month</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55104</span>
-						<span>🔱 9347</span>
+						<span>⭐ 55117</span>
+						<span>🔱 9350</span>
 					</div>
 				<div class="stars-today">⭐ 3015 stars this month</div>
 				</div>
