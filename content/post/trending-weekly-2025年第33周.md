@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第33周
-date: 2025-08-13T09:58:50Z
+date: 2025-08-13T11:58:44Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13798</span>
-						<span>🔱 1494</span>
+						<span>⭐ 13802</span>
+						<span>🔱 1495</span>
 					</div>
 				<div class="stars-today">⭐ 3454 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12580</span>
-						<span>🔱 1183</span>
-					</div>
-				<div class="stars-today">⭐ 4187 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 34735</span>
-						<span>🔱 3962</span>
+						<span>⭐ 34742</span>
+						<span>🔱 3966</span>
 					</div>
 				<div class="stars-today">⭐ 2867 stars this week</div>
 				</div>
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 150075</span>
+						<span>⭐ 150081</span>
 						<span>🔱 12803</span>
 					</div>
 				<div class="stars-today">⭐ 1371 stars this week</div>
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 66979</span>
-						<span>🔱 11104</span>
+						<span>⭐ 66991</span>
+						<span>🔱 11105</span>
 					</div>
 				<div class="stars-today">⭐ 1224 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
-    
-
-
-      
-        browserbase /
-
-      stagehand</a></p>
-				<p>
-      The AI Browser Automation Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16251</span>
-						<span>🔱 964</span>
-					</div>
-				<div class="stars-today">⭐ 1193 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 20970</span>
+						<span>⭐ 20977</span>
 						<span>🔱 3780</span>
 					</div>
 				<div class="stars-today">⭐ 542 stars this week</div>
@@ -170,112 +126,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
     
 
 
       
-        vllm-project /
+        dyad-sh /
 
-      vllm</a></p>
+      dyad</a></p>
 				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55053</span>
-						<span>🔱 9340</span>
-					</div>
-				<div class="stars-today">⭐ 1002 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/umami-software/umami" target="_blank">
-    
-
-
-      
-        umami-software /
-
-      umami</a></p>
-				<p>
-      Umami is a modern, privacy-focused alternative to Google Analytics.
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29712</span>
-						<span>🔱 5365</span>
+						<span>⭐ 12590</span>
+						<span>🔱 1185</span>
 					</div>
-				<div class="stars-today">⭐ 1856 stars this week</div>
+				<div class="stars-today">⭐ 4187 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
     
 
 
       
-        simstudioai /
+        menloresearch /
 
-      sim</a></p>
+      jan</a></p>
 				<p>
-      Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7241</span>
-						<span>🔱 950</span>
+						<span>⭐ 36537</span>
+						<span>🔱 2135</span>
 					</div>
-				<div class="stars-today">⭐ 726 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/actualbudget/actual" target="_blank">
-    
-
-
-      
-        actualbudget /
-
-      actual</a></p>
-				<p>
-      A local-first personal finance app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21583</span>
-						<span>🔱 1731</span>
-					</div>
-				<div class="stars-today">⭐ 524 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
-    
-
-
-      
-        ggml-org /
-
-      llama.cpp</a></p>
-				<p>
-      LLM inference in C/C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 84750</span>
-						<span>🔱 12685</span>
-					</div>
-				<div class="stars-today">⭐ 791 stars this week</div>
+				<div class="stars-today">⭐ 1067 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17023</span>
-						<span>🔱 2864</span>
+						<span>⭐ 17038</span>
+						<span>🔱 2865</span>
 					</div>
 				<div class="stars-today">⭐ 1300 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/umami-software/umami" target="_blank">
+    
+
+
+      
+        umami-software /
+
+      umami</a></p>
+				<p>
+      Umami is a modern, privacy-focused alternative to Google Analytics.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29730</span>
+						<span>🔱 5366</span>
+					</div>
+				<div class="stars-today">⭐ 1856 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jesseduffield/lazygit" target="_blank">
+    
+
+
+      
+        jesseduffield /
+
+      lazygit</a></p>
+				<p>
+      simple terminal UI for git commands
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 63505</span>
+						<span>🔱 2184</span>
+					</div>
+				<div class="stars-today">⭐ 853 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
+    
+
+
+      
+        vllm-project /
+
+      vllm</a></p>
+				<p>
+      A high-throughput and memory-efficient inference and serving engine for LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55065</span>
+						<span>🔱 9344</span>
+					</div>
+				<div class="stars-today">⭐ 1002 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2226</span>
-						<span>🔱 188</span>
+						<span>⭐ 2231</span>
+						<span>🔱 190</span>
 					</div>
 				<div class="stars-today">⭐ 68 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      stagehand</a></p>
+				<p>
+      The AI Browser Automation Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16258</span>
+						<span>🔱 964</span>
+					</div>
+				<div class="stars-today">⭐ 1193 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datalab-to/surya" target="_blank">
+    
+
+
+      
+        datalab-to /
+
+      surya</a></p>
+				<p>
+      OCR, layout analysis, reading order, table recognition in 90+ languages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18112</span>
+						<span>🔱 1224</span>
+					</div>
+				<div class="stars-today">⭐ 168 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hao-ai-lab/FastVideo" target="_blank">
+    
+
+
+      
+        hao-ai-lab /
+
+      FastVideo</a></p>
+				<p>
+      A unified inference and post-training framework for accelerated video generation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1942</span>
+						<span>🔱 140</span>
+					</div>
+				<div class="stars-today">⭐ 168 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tadata-org/fastapi_mcp" target="_blank">
+    
+
+
+      
+        tadata-org /
+
+      fastapi_mcp</a></p>
+				<p>
+      Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7879</span>
+						<span>🔱 638</span>
+					</div>
+				<div class="stars-today">⭐ 962 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/open-webui/open-webui" target="_blank">
+    
+
+
+      
+        open-webui /
+
+      open-webui</a></p>
+				<p>
+      User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 106469</span>
+						<span>🔱 14365</span>
+					</div>
+				<div class="stars-today">⭐ 1200 stars this week</div>
 				</div>
 			</div>
 	
