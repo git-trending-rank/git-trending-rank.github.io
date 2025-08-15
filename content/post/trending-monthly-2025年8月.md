@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-15T09:58:49Z
+date: 2025-08-15T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22094</span>
-						<span>🔱 4303</span>
+						<span>⭐ 22102</span>
+						<span>🔱 4305</span>
 					</div>
 				<div class="stars-today">⭐ 12992 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12909</span>
+						<span>⭐ 12921</span>
 						<span>🔱 1219</span>
 					</div>
 				<div class="stars-today">⭐ 10961 stars this month</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49243</span>
-						<span>🔱 4586</span>
+						<span>⭐ 49251</span>
+						<span>🔱 4588</span>
 					</div>
 				<div class="stars-today">⭐ 7022 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13163</span>
-						<span>🔱 981</span>
-					</div>
-				<div class="stars-today">⭐ 9168 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33835</span>
-						<span>🔱 2730</span>
+						<span>⭐ 33840</span>
+						<span>🔱 2731</span>
 					</div>
 				<div class="stars-today">⭐ 6972 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13183</span>
+						<span>🔱 982</span>
+					</div>
+				<div class="stars-today">⭐ 9168 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7705</span>
-						<span>🔱 1012</span>
+						<span>⭐ 7727</span>
+						<span>🔱 1014</span>
 					</div>
 				<div class="stars-today">⭐ 3311 stars this month</div>
 				</div>
@@ -160,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13958</span>
+						<span>⭐ 13971</span>
 						<span>🔱 1501</span>
 					</div>
 				<div class="stars-today">⭐ 4269 stars this month</div>
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6187</span>
+						<span>⭐ 6192</span>
 						<span>🔱 1550</span>
 					</div>
 				<div class="stars-today">⭐ 3442 stars this month</div>
@@ -204,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10648</span>
+						<span>⭐ 10661</span>
 						<span>🔱 578</span>
 					</div>
 				<div class="stars-today">⭐ 6719 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 71533</span>
-						<span>🔱 3901</span>
-					</div>
-				<div class="stars-today">⭐ 10656 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5677</span>
+						<span>⭐ 5684</span>
 						<span>🔱 353</span>
 					</div>
 				<div class="stars-today">⭐ 4028 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hyprwm/Hyprland" target="_blank">
-    
-
-
-      
-        hyprwm /
-
-      Hyprland</a></p>
-				<p>
-      Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 29446</span>
-						<span>🔱 1263</span>
-					</div>
-				<div class="stars-today">⭐ 2620 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55297</span>
-						<span>🔱 9394</span>
+						<span>⭐ 55304</span>
+						<span>🔱 9400</span>
 					</div>
 				<div class="stars-today">⭐ 3107 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      AI coding agent, built for the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 19588</span>
-						<span>🔱 1251</span>
-					</div>
-				<div class="stars-today">⭐ 7331 stars this month</div>
 				</div>
 			</div>
 	

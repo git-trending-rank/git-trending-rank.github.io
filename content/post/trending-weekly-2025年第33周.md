@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第33周
-date: 2025-08-15T09:58:49Z
+date: 2025-08-15T11:58:51Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5768</span>
+						<span>🔱 1194</span>
+					</div>
+				<div class="stars-today">⭐ 504 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/openai/codex" target="_blank">
@@ -30,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 35007</span>
-						<span>🔱 4005</span>
+						<span>⭐ 35018</span>
+						<span>🔱 4007</span>
 					</div>
 				<div class="stars-today">⭐ 2964 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+				<p><a href="https://github.com/xiaoyaocz/dart_simple_live" target="_blank">
     
 
 
       
-        nautechsystems /
+        xiaoyaocz /
 
-      nautilus_trader</a></p>
+      dart_simple_live</a></p>
 				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
+      简简单单的看直播
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13958</span>
-						<span>🔱 1501</span>
+						<span>🔠 Dart</span>
+						<span>⭐ 12481</span>
+						<span>🔱 992</span>
 					</div>
-				<div class="stars-today">⭐ 1461 stars this week</div>
+				<div class="stars-today">⭐ 668 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36945</span>
+						<span>⭐ 36955</span>
 						<span>🔱 2159</span>
 					</div>
 				<div class="stars-today">⭐ 1541 stars this week</div>
@@ -82,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        openai /
+        nautechsystems /
 
-      openai-cookbook</a></p>
+      nautilus_trader</a></p>
 				<p>
-      Examples and guides for using the OpenAI API
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 67146</span>
-						<span>🔱 11131</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13971</span>
+						<span>🔱 1501</span>
 					</div>
-				<div class="stars-today">⭐ 924 stars this week</div>
+				<div class="stars-today">⭐ 1461 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29895</span>
+						<span>⭐ 29897</span>
 						<span>🔱 5378</span>
 					</div>
 				<div class="stars-today">⭐ 2217 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/external-secrets/external-secrets" target="_blank">
+    
+
+
+      
+        external-secrets /
+
+      external-secrets</a></p>
+				<p>
+      External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5496</span>
+						<span>🔱 1037</span>
+					</div>
+				<div class="stars-today">⭐ 136 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/idosal/git-mcp" target="_blank">
+    
+
+
+      
+        idosal /
+
+      git-mcp</a></p>
+				<p>
+      Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5184</span>
+						<span>🔱 382</span>
+					</div>
+				<div class="stars-today">⭐ 1208 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,120 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 55954</span>
+						<span>⭐ 55958</span>
 						<span>🔱 2928</span>
 					</div>
 				<div class="stars-today">⭐ 837 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-go" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-go</a></p>
-				<p>
-      The official Go library for the OpenAI API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2310</span>
-						<span>🔱 192</span>
-					</div>
-				<div class="stars-today">⭐ 133 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lvgl/lvgl" target="_blank">
-    
-
-
-      
-        lvgl /
-
-      lvgl</a></p>
-				<p>
-      Embedded graphics library to create beautiful UIs for any MCU, MPU and display type. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 21068</span>
-						<span>🔱 3786</span>
-					</div>
-				<div class="stars-today">⭐ 544 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17281</span>
-						<span>🔱 2883</span>
-					</div>
-				<div class="stars-today">⭐ 1491 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/filamentphp/filament" target="_blank">
-    
-
-
-      
-        filamentphp /
-
-      filament</a></p>
-				<p>
-      A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 25674</span>
-						<span>🔱 3664</span>
-					</div>
-				<div class="stars-today">⭐ 350 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16389</span>
-						<span>🔱 1450</span>
-					</div>
-				<div class="stars-today">⭐ 744 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8510</span>
-						<span>🔱 667</span>
+						<span>⭐ 8533</span>
+						<span>🔱 668</span>
 					</div>
 				<div class="stars-today">⭐ 1557 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29995</span>
-						<span>🔱 1924</span>
-					</div>
-				<div class="stars-today">⭐ 736 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 74891</span>
+						<span>⭐ 74898</span>
 						<span>🔱 4693</span>
 					</div>
 				<div class="stars-today">⭐ 658 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop</a></p>
+				<p>
+      The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16395</span>
+						<span>🔱 1450</span>
+					</div>
+				<div class="stars-today">⭐ 744 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/filamentphp/filament" target="_blank">
+    
+
+
+      
+        filamentphp /
+
+      filament</a></p>
+				<p>
+      A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 25677</span>
+						<span>🔱 3664</span>
+					</div>
+				<div class="stars-today">⭐ 350 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub</a></p>
+				<p>
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17290</span>
+						<span>🔱 2883</span>
+					</div>
+				<div class="stars-today">⭐ 1491 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3402</span>
+						<span>🔱 351</span>
+					</div>
+				<div class="stars-today">⭐ 964 stars this week</div>
 				</div>
 			</div>
 	
