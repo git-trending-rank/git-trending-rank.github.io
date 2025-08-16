@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-16T09:58:36Z
+date: 2025-08-16T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22182</span>
-						<span>🔱 4311</span>
+						<span>⭐ 22188</span>
+						<span>🔱 4313</span>
 					</div>
 				<div class="stars-today">⭐ 13110 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13025</span>
-						<span>🔱 1241</span>
+						<span>⭐ 13033</span>
+						<span>🔱 1242</span>
 					</div>
 				<div class="stars-today">⭐ 11064 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49346</span>
-						<span>🔱 4603</span>
+						<span>⭐ 49355</span>
+						<span>🔱 4605</span>
 					</div>
 				<div class="stars-today">⭐ 6882 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33897</span>
-						<span>🔱 2734</span>
+						<span>⭐ 33902</span>
+						<span>🔱 2735</span>
 					</div>
 				<div class="stars-today">⭐ 7060 stars this month</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13314</span>
+						<span>⭐ 13329</span>
 						<span>🔱 993</span>
 					</div>
 				<div class="stars-today">⭐ 8887 stars this month</div>
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7834</span>
+						<span>⭐ 7838</span>
 						<span>🔱 1034</span>
 					</div>
 				<div class="stars-today">⭐ 3432 stars this month</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14028</span>
-						<span>🔱 1504</span>
+						<span>⭐ 14033</span>
+						<span>🔱 1506</span>
 					</div>
 				<div class="stars-today">⭐ 4340 stars this month</div>
 				</div>
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6228</span>
+						<span>⭐ 6230</span>
 						<span>🔱 1553</span>
 					</div>
 				<div class="stars-today">⭐ 3479 stars this month</div>
@@ -204,32 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10791</span>
-						<span>🔱 588</span>
+						<span>⭐ 10806</span>
+						<span>🔱 589</span>
 					</div>
 				<div class="stars-today">⭐ 6775 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        OpenPipe /
+        coleam00 /
 
-      ART</a></p>
+      Archon</a></p>
 				<p>
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5723</span>
-						<span>🔱 355</span>
+						<span>⭐ 6023</span>
+						<span>🔱 1261</span>
 					</div>
-				<div class="stars-today">⭐ 3651 stars this month</div>
+				<div class="stars-today">⭐ 695 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55385</span>
-						<span>🔱 9413</span>
+						<span>⭐ 55389</span>
+						<span>🔱 9415</span>
 					</div>
 				<div class="stars-today">⭐ 3143 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
+    
+
+
+      
+        OpenPipe /
+
+      ART</a></p>
+				<p>
+      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5729</span>
+						<span>🔱 355</span>
+					</div>
+				<div class="stars-today">⭐ 3651 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-16
-date: 2025-08-16T09:58:36Z
+date: 2025-08-16T11:58:36Z
 categories:
 - daily
 keywords:
@@ -16,288 +16,266 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tadata-org/fastapi_mcp" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        tadata-org /
+        coleam00 /
 
-      fastapi_mcp</a></p>
+      Archon</a></p>
 				<p>
-      Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8817</span>
-						<span>🔱 691</span>
+						<span>⭐ 6023</span>
+						<span>🔱 1261</span>
 					</div>
-				<div class="stars-today">⭐ 222 stars today</div>
+				<div class="stars-today">⭐ 318 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ubicloud/ubicloud" target="_blank">
-    
-
-
-      
-        ubicloud /
-
-      ubicloud</a></p>
-				<p>
-      Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 9591</span>
-						<span>🔱 409</span>
-					</div>
-				<div class="stars-today">⭐ 861 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/budtmo/docker-android" target="_blank">
-    
-
-
-      
-        budtmo /
-
-      docker-android</a></p>
-				<p>
-      Android in docker solution with noVNC supported and video recording
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12175</span>
-						<span>🔱 1446</span>
-					</div>
-				<div class="stars-today">⭐ 221 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/manycore-research/SpatialLM" target="_blank">
-    
-
-
-      
-        manycore-research /
-
-      SpatialLM</a></p>
-				<p>
-      SpatialLM: Training Large Language Models for Structured Indoor Modeling
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3769</span>
-						<span>🔱 289</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+				<p><a href="https://github.com/microsoft/poml" target="_blank">
     
 
 
       
         microsoft /
 
-      magentic-ui</a></p>
+      poml</a></p>
 				<p>
-      A research prototype of a human-centered web agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7335</span>
-						<span>🔱 741</span>
-					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datalab-to/marker" target="_blank">
-    
-
-
-      
-        datalab-to /
-
-      marker</a></p>
-				<p>
-      Convert PDF to markdown + JSON quickly with high accuracy
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27844</span>
-						<span>🔱 1817</span>
-					</div>
-				<div class="stars-today">⭐ 108 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/redis/go-redis" target="_blank">
-    
-
-
-      
-        redis /
-
-      go-redis</a></p>
-				<p>
-      Redis Go client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21390</span>
-						<span>🔱 2484</span>
-					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/qarmin/czkawka" target="_blank">
-    
-
-
-      
-        qarmin /
-
-      czkawka</a></p>
-				<p>
-      Multi functional app to find duplicates, empty folders, similar images etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 25267</span>
-						<span>🔱 782</span>
-					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Librum-Reader/Librum" target="_blank">
-    
-
-
-      
-        Librum-Reader /
-
-      Librum</a></p>
-				<p>
-      The Librum client application
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 5019</span>
-						<span>🔱 168</span>
-					</div>
-				<div class="stars-today">⭐ 86 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 71822</span>
-						<span>🔱 3914</span>
-					</div>
-				<div class="stars-today">⭐ 327 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jitsi/jitsi-meet" target="_blank">
-    
-
-
-      
-        jitsi /
-
-      jitsi-meet</a></p>
-				<p>
-      Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+      Prompt Orchestration Markup Language
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26655</span>
-						<span>🔱 7365</span>
+						<span>⭐ 2642</span>
+						<span>🔱 111</span>
 					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
+				<div class="stars-today">⭐ 511 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/maui" target="_blank">
+				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
     
 
 
       
-        dotnet /
+        LMCache /
 
-      maui</a></p>
+      LMCache</a></p>
 				<p>
-      .NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.
+      Supercharge Your LLM with the Fastest KV Cache Layer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4274</span>
+						<span>🔱 485</span>
+					</div>
+				<div class="stars-today">⭐ 23 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 410723</span>
+						<span>🔱 38521</span>
+					</div>
+				<div class="stars-today">⭐ 484 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/farhanashrafdev/90DaysOfCyberSecurity" target="_blank">
+    
+
+
+      
+        farhanashrafdev /
+
+      90DaysOfCyberSecurity</a></p>
+				<p>
+      This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 10690</span>
+						<span>🔱 1217</span>
+					</div>
+				<div class="stars-today">⭐ 295 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">
+    
+
+
+      
+        jaywcjlove /
+
+      awesome-mac</a></p>
+				<p>
+       Now we have become very big, Different from the original idea. Collect premium software in various categories.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 86772</span>
+						<span>🔱 6681</span>
+					</div>
+				<div class="stars-today">⭐ 576 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tsoding/nob.h" target="_blank">
+    
+
+
+      
+        tsoding /
+
+      nob.h</a></p>
+				<p>
+      Header only library for writing build recipes in C. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 1424</span>
+						<span>🔱 90</span>
+					</div>
+				<div class="stars-today">⭐ 39 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/IBM/mcp-context-forge" target="_blank">
+    
+
+
+      
+        IBM /
+
+      mcp-context-forge</a></p>
+				<p>
+      A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1113</span>
+						<span>🔱 184</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+    
+
+
+      
+        emcie-co /
+
+      parlant</a></p>
+				<p>
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3886</span>
+						<span>🔱 391</span>
+					</div>
+				<div class="stars-today">⭐ 409 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
+    
+
+
+      
+        PixiEditor /
+
+      PixiEditor</a></p>
+				<p>
+      PixiEditor is a Universal Editor for all your 2D needs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 22919</span>
-						<span>🔱 1871</span>
+						<span>⭐ 3325</span>
+						<span>🔱 140</span>
 					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
+				<div class="stars-today">⭐ 214 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/wire" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        google /
+        Shubhamsaboo /
 
-      wire</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Compile-time Dependency Injection for Go
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 14160</span>
-						<span>🔱 668</span>
+						<span>🔠 Python</span>
+						<span>⭐ 58069</span>
+						<span>🔱 6939</span>
 					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
+				<div class="stars-today">⭐ 445 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dtyq/magic" target="_blank">
+    
+
+
+      
+        dtyq /
+
+      magic</a></p>
+				<p>
+      The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 1822</span>
+						<span>🔱 214</span>
+					</div>
+				<div class="stars-today">⭐ 146 stars today</div>
 				</div>
 			</div>
 	
