@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-17T09:58:51Z
+date: 2025-08-17T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22284</span>
+						<span>⭐ 22292</span>
 						<span>🔱 4318</span>
 					</div>
 				<div class="stars-today">⭐ 13191 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13126</span>
-						<span>🔱 1255</span>
+						<span>⭐ 13130</span>
+						<span>🔱 1256</span>
 					</div>
 				<div class="stars-today">⭐ 11151 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49554</span>
-						<span>🔱 4627</span>
+						<span>⭐ 49583</span>
+						<span>🔱 4629</span>
 					</div>
 				<div class="stars-today">⭐ 6652 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33927</span>
+						<span>⭐ 33930</span>
 						<span>🔱 2737</span>
 					</div>
 				<div class="stars-today">⭐ 7106 stars this month</div>
@@ -118,30 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13486</span>
-						<span>🔱 998</span>
+						<span>⭐ 13504</span>
+						<span>🔱 1001</span>
 					</div>
 				<div class="stars-today">⭐ 8553 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        langchain-ai /
+        coleam00 /
 
-      open_deep_research</a></p>
-				<p></p>
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7904</span>
-						<span>🔱 1045</span>
+						<span>⭐ 6993</span>
+						<span>🔱 1382</span>
 					</div>
-				<div class="stars-today">⭐ 3502 stars this month</div>
+				<div class="stars-today">⭐ 934 stars this month</div>
 				</div>
 			</div>
 	
@@ -161,9 +163,29 @@ keywords:
 					<div>
 						<span>🔠 Rust</span>
 						<span>⭐ 14082</span>
-						<span>🔱 1509</span>
+						<span>🔱 1510</span>
 					</div>
 				<div class="stars-today">⭐ 4385 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7909</span>
+						<span>🔱 1046</span>
+					</div>
+				<div class="stars-today">⭐ 3502 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6259</span>
+						<span>⭐ 6261</span>
 						<span>🔱 1555</span>
 					</div>
 				<div class="stars-today">⭐ 3502 stars this month</div>
@@ -204,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10981</span>
+						<span>⭐ 10991</span>
 						<span>🔱 598</span>
 					</div>
 				<div class="stars-today">⭐ 6821 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6921</span>
-						<span>🔱 1373</span>
-					</div>
-				<div class="stars-today">⭐ 934 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55450</span>
+						<span>⭐ 55456</span>
 						<span>🔱 9426</span>
 					</div>
 				<div class="stars-today">⭐ 3093 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
-    
-
-
-      
-        OpenPipe /
-
-      ART</a></p>
-				<p>
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5783</span>
-						<span>🔱 361</span>
-					</div>
-				<div class="stars-today">⭐ 3281 stars this month</div>
 				</div>
 			</div>
 	
