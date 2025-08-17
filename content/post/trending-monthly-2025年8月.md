@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-17T13:58:38Z
+date: 2025-08-17T15:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22303</span>
-						<span>🔱 4318</span>
+						<span>⭐ 22316</span>
+						<span>🔱 4319</span>
 					</div>
 				<div class="stars-today">⭐ 13191 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13138</span>
-						<span>🔱 1256</span>
+						<span>⭐ 13147</span>
+						<span>🔱 1258</span>
 					</div>
 				<div class="stars-today">⭐ 11151 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49613</span>
-						<span>🔱 4632</span>
+						<span>⭐ 49664</span>
+						<span>🔱 4633</span>
 					</div>
 				<div class="stars-today">⭐ 6652 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33932</span>
-						<span>🔱 2736</span>
+						<span>⭐ 33936</span>
+						<span>🔱 2737</span>
 					</div>
 				<div class="stars-today">⭐ 7106 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13526</span>
-						<span>🔱 1004</span>
+						<span>⭐ 13545</span>
+						<span>🔱 1005</span>
 					</div>
 				<div class="stars-today">⭐ 8553 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7102</span>
-						<span>🔱 1398</span>
+						<span>⭐ 7218</span>
+						<span>🔱 1414</span>
 					</div>
 				<div class="stars-today">⭐ 934 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14089</span>
-						<span>🔱 1512</span>
+						<span>⭐ 14092</span>
+						<span>🔱 1510</span>
 					</div>
 				<div class="stars-today">⭐ 4385 stars this month</div>
 				</div>
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7914</span>
+						<span>⭐ 7924</span>
 						<span>🔱 1047</span>
 					</div>
 				<div class="stars-today">⭐ 3502 stars this month</div>
@@ -204,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6267</span>
+						<span>⭐ 6269</span>
 						<span>🔱 1555</span>
 					</div>
 				<div class="stars-today">⭐ 3502 stars this month</div>
@@ -226,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11015</span>
-						<span>🔱 599</span>
+						<span>⭐ 11033</span>
+						<span>🔱 600</span>
 					</div>
 				<div class="stars-today">⭐ 6821 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      mcp-for-beginners</a></p>
+				<p>
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9214</span>
+						<span>🔱 2534</span>
+					</div>
+				<div class="stars-today">⭐ 4017 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55463</span>
-						<span>🔱 9426</span>
+						<span>⭐ 55474</span>
+						<span>🔱 9431</span>
 					</div>
 				<div class="stars-today">⭐ 3093 stars this month</div>
 				</div>
