@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-18
-date: 2025-08-18T05:58:37Z
+date: 2025-08-18T07:58:50Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7931</span>
-						<span>🔱 1494</span>
+						<span>⭐ 8074</span>
+						<span>🔱 1506</span>
 					</div>
 				<div class="stars-today">⭐ 990 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5115</span>
-						<span>🔱 473</span>
+						<span>⭐ 5233</span>
+						<span>🔱 478</span>
 					</div>
 				<div class="stars-today">⭐ 460 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59043</span>
-						<span>🔱 7077</span>
+						<span>⭐ 59145</span>
+						<span>🔱 7088</span>
 					</div>
 				<div class="stars-today">⭐ 441 stars today</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 1622</span>
+						<span>⭐ 1626</span>
 						<span>🔱 95</span>
 					</div>
 				<div class="stars-today">⭐ 123 stars today</div>
@@ -113,12 +113,12 @@ keywords:
 
       cai</a></p>
 				<p>
-      Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
+      Cybersecurity AI (CAI), the framework for AI Security
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2750</span>
+						<span>⭐ 2783</span>
 						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 120 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 4150</span>
-						<span>🔱 170</span>
+						<span>⭐ 4209</span>
+						<span>🔱 171</span>
 					</div>
 				<div class="stars-today">⭐ 488 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 2437</span>
-						<span>🔱 253</span>
+						<span>⭐ 2504</span>
+						<span>🔱 255</span>
 					</div>
 				<div class="stars-today">⭐ 289 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4589</span>
-						<span>🔱 507</span>
+						<span>⭐ 4617</span>
+						<span>🔱 511</span>
 					</div>
 				<div class="stars-today">⭐ 136 stars today</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 9509</span>
+						<span>⭐ 9517</span>
 						<span>🔱 1746</span>
 					</div>
 				<div class="stars-today">⭐ 58 stars today</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49961</span>
-						<span>🔱 4660</span>
+						<span>⭐ 50016</span>
+						<span>🔱 4665</span>
 					</div>
 				<div class="stars-today">⭐ 241 stars today</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 36511</span>
+						<span>⭐ 36540</span>
 						<span>🔱 7041</span>
 					</div>
 				<div class="stars-today">⭐ 39 stars today</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70645</span>
+						<span>⭐ 70676</span>
 						<span>🔱 5337</span>
 					</div>
 				<div class="stars-today">⭐ 123 stars today</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6275</span>
-						<span>🔱 492</span>
+						<span>⭐ 6305</span>
+						<span>🔱 493</span>
 					</div>
 				<div class="stars-today">⭐ 70 stars today</div>
 				</div>
