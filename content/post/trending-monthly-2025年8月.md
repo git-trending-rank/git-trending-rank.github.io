@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-18T09:58:35Z
+date: 2025-08-18T11:58:54Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22436</span>
-						<span>🔱 4331</span>
+						<span>⭐ 22448</span>
+						<span>🔱 4333</span>
 					</div>
 				<div class="stars-today">⭐ 13297 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13245</span>
-						<span>🔱 1273</span>
+						<span>⭐ 13258</span>
+						<span>🔱 1272</span>
 					</div>
 				<div class="stars-today">⭐ 11233 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50049</span>
-						<span>🔱 4669</span>
+						<span>⭐ 50074</span>
+						<span>🔱 4671</span>
 					</div>
 				<div class="stars-today">⭐ 6794 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8329</span>
+						<span>🔱 1528</span>
+					</div>
+				<div class="stars-today">⭐ 1987 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33972</span>
-						<span>🔱 2738</span>
+						<span>⭐ 33979</span>
+						<span>🔱 2739</span>
 					</div>
 				<div class="stars-today">⭐ 6997 stars this month</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13719</span>
+						<span>⭐ 13745</span>
 						<span>🔱 1016</span>
 					</div>
 				<div class="stars-today">⭐ 8385 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8220</span>
-						<span>🔱 1514</span>
-					</div>
-				<div class="stars-today">⭐ 1987 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,30 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14144</span>
-						<span>🔱 1516</span>
+						<span>⭐ 14148</span>
+						<span>🔱 1517</span>
 					</div>
 				<div class="stars-today">⭐ 4425 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7980</span>
-						<span>🔱 1053</span>
-					</div>
-				<div class="stars-today">⭐ 3326 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +184,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6312</span>
+						<span>⭐ 6316</span>
 						<span>🔱 1556</span>
 					</div>
 				<div class="stars-today">⭐ 3532 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7984</span>
+						<span>🔱 1055</span>
+					</div>
+				<div class="stars-today">⭐ 3326 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11235</span>
+						<span>⭐ 11247</span>
 						<span>🔱 610</span>
 					</div>
 				<div class="stars-today">⭐ 6928 stars this month</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55572</span>
-						<span>🔱 9452</span>
+						<span>⭐ 55578</span>
+						<span>🔱 9455</span>
 					</div>
 				<div class="stars-today">⭐ 3062 stars this month</div>
 				</div>

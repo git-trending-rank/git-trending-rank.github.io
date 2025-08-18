@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-18
-date: 2025-08-18T09:58:35Z
+date: 2025-08-18T11:58:54Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8220</span>
-						<span>🔱 1514</span>
+						<span>⭐ 8329</span>
+						<span>🔱 1528</span>
 					</div>
 				<div class="stars-today">⭐ 990 stars today</div>
 				</div>
@@ -52,186 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5365</span>
-						<span>🔱 488</span>
+						<span>⭐ 5440</span>
+						<span>🔱 489</span>
 					</div>
 				<div class="stars-today">⭐ 460 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59233</span>
-						<span>🔱 7098</span>
-					</div>
-				<div class="stars-today">⭐ 441 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tsoding/nob.h" target="_blank">
-    
-
-
-      
-        tsoding /
-
-      nob.h</a></p>
-				<p>
-      Header only library for writing build recipes in C. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 1635</span>
-						<span>🔱 95</span>
-					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
-    
-
-
-      
-        aliasrobotics /
-
-      cai</a></p>
-				<p>
-      Cybersecurity AI (CAI), the framework for AI Security
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2824</span>
-						<span>🔱 405</span>
-					</div>
-				<div class="stars-today">⭐ 120 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
-    
-
-
-      
-        PixiEditor /
-
-      PixiEditor</a></p>
-				<p>
-      PixiEditor is a Universal Editor for all your 2D needs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 4264</span>
-						<span>🔱 174</span>
-					</div>
-				<div class="stars-today">⭐ 488 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
-    
-
-
-      
-        dtyq /
-
-      magic</a></p>
-				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 2556</span>
-						<span>🔱 257</span>
-					</div>
-				<div class="stars-today">⭐ 289 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
-    
-
-
-      
-        LMCache /
-
-      LMCache</a></p>
-				<p>
-      Supercharge Your LLM with the Fastest KV Cache Layer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4640</span>
-						<span>🔱 513</span>
-					</div>
-				<div class="stars-today">⭐ 136 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/colmap/colmap" target="_blank">
-    
-
-
-      
-        colmap /
-
-      colmap</a></p>
-				<p>
-      COLMAP - Structure-from-Motion and Multi-View Stereo
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 9526</span>
-						<span>🔱 1747</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data aggregator for humans and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50049</span>
-						<span>🔱 4669</span>
-					</div>
-				<div class="stars-today">⭐ 241 stars today</div>
 				</div>
 			</div>
 	
@@ -250,32 +74,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 36564</span>
-						<span>🔱 7044</span>
+						<span>⭐ 36580</span>
+						<span>🔱 7045</span>
 					</div>
 				<div class="stars-today">⭐ 39 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
     
 
 
       
-        clash-verge-rev /
+        rasbt /
 
-      clash-verge-rev</a></p>
+      LLMs-from-scratch</a></p>
 				<p>
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 64394</span>
+						<span>🔱 9035</span>
+					</div>
+				<div class="stars-today">⭐ 255 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/enescingoz/awesome-n8n-templates" target="_blank">
+    
+
+
+      
+        enescingoz /
+
+      awesome-n8n-templates</a></p>
+				<p>
+      Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 8919</span>
+						<span>🔱 2684</span>
+					</div>
+				<div class="stars-today">⭐ 139 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
+    
+
+
+      
+        PixiEditor /
+
+      PixiEditor</a></p>
+				<p>
+      PixiEditor is a Universal Editor for all your 2D needs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 4301</span>
+						<span>🔱 175</span>
+					</div>
+				<div class="stars-today">⭐ 488 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/immich-app/immich" target="_blank">
+    
+
+
+      
+        immich-app /
+
+      immich</a></p>
+				<p>
+      High performance self-hosted photo and video management solution.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70716</span>
-						<span>🔱 5341</span>
+						<span>⭐ 73123</span>
+						<span>🔱 3859</span>
 					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
+				<div class="stars-today">⭐ 75 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 59294</span>
+						<span>🔱 7106</span>
+					</div>
+				<div class="stars-today">⭐ 441 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6327</span>
-						<span>🔱 495</span>
+						<span>⭐ 6354</span>
+						<span>🔱 496</span>
 					</div>
 				<div class="stars-today">⭐ 70 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Financial data aggregator for humans and AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50074</span>
+						<span>🔱 4671</span>
+					</div>
+				<div class="stars-today">⭐ 241 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+    
+
+
+      
+        bytebot-ai /
+
+      bytebot</a></p>
+				<p>
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1432</span>
+						<span>🔱 119</span>
+					</div>
+				<div class="stars-today">⭐ 184 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mfts/papermark" target="_blank">
+    
+
+
+      
+        mfts /
+
+      papermark</a></p>
+				<p>
+      Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7083</span>
+						<span>🔱 978</span>
+					</div>
+				<div class="stars-today">⭐ 64 stars today</div>
 				</div>
 			</div>
 	
