@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-18
-date: 2025-08-18T04:27:20Z
+date: 2025-08-18T05:58:37Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7858</span>
-						<span>🔱 1484</span>
+						<span>⭐ 7931</span>
+						<span>🔱 1494</span>
 					</div>
 				<div class="stars-today">⭐ 990 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5046</span>
-						<span>🔱 471</span>
+						<span>⭐ 5115</span>
+						<span>🔱 473</span>
 					</div>
 				<div class="stars-today">⭐ 460 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58983</span>
-						<span>🔱 7069</span>
+						<span>⭐ 59043</span>
+						<span>🔱 7077</span>
 					</div>
 				<div class="stars-today">⭐ 441 stars today</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 1613</span>
+						<span>⭐ 1622</span>
 						<span>🔱 95</span>
 					</div>
 				<div class="stars-today">⭐ 123 stars today</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2732</span>
+						<span>⭐ 2750</span>
 						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 120 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 4124</span>
-						<span>🔱 167</span>
+						<span>⭐ 4150</span>
+						<span>🔱 170</span>
 					</div>
 				<div class="stars-today">⭐ 488 stars today</div>
 				</div>
@@ -157,13 +157,13 @@ keywords:
 
       magic</a></p>
 				<p>
-      Super Magic (超级麦吉). The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 2379</span>
-						<span>🔱 247</span>
+						<span>⭐ 2437</span>
+						<span>🔱 253</span>
 					</div>
 				<div class="stars-today">⭐ 289 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4567</span>
-						<span>🔱 504</span>
+						<span>⭐ 4589</span>
+						<span>🔱 507</span>
 					</div>
 				<div class="stars-today">⭐ 136 stars today</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 9502</span>
+						<span>⭐ 9509</span>
 						<span>🔱 1746</span>
 					</div>
 				<div class="stars-today">⭐ 58 stars today</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49931</span>
-						<span>🔱 4655</span>
+						<span>⭐ 49961</span>
+						<span>🔱 4660</span>
 					</div>
 				<div class="stars-today">⭐ 241 stars today</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 36497</span>
+						<span>⭐ 36511</span>
 						<span>🔱 7041</span>
 					</div>
 				<div class="stars-today">⭐ 39 stars today</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70625</span>
-						<span>🔱 5335</span>
+						<span>⭐ 70645</span>
+						<span>🔱 5337</span>
 					</div>
 				<div class="stars-today">⭐ 123 stars today</div>
 				</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6258</span>
+						<span>⭐ 6275</span>
 						<span>🔱 492</span>
 					</div>
 				<div class="stars-today">⭐ 70 stars today</div>
