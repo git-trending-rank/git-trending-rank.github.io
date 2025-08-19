@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第34周
-date: 2025-08-19T09:58:50Z
+date: 2025-08-19T11:58:43Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 9825</span>
+						<span>⭐ 9832</span>
 						<span>🔱 428</span>
 					</div>
 				<div class="stars-today">⭐ 3807 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apple/embedding-atlas" target="_blank">
-    
-
-
-      
-        apple /
-
-      embedding-atlas</a></p>
-				<p>
-      Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2784</span>
-						<span>🔱 119</span>
-					</div>
-				<div class="stars-today">⭐ 1845 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17538</span>
-						<span>🔱 1604</span>
+						<span>⭐ 17556</span>
+						<span>🔱 1607</span>
 					</div>
 				<div class="stars-today">⭐ 1821 stars this week</div>
 				</div>
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 2834</span>
-						<span>🔱 284</span>
+						<span>⭐ 2847</span>
+						<span>🔱 286</span>
 					</div>
 				<div class="stars-today">⭐ 1136 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/denizsafak/abogen" target="_blank">
+				<p><a href="https://github.com/apple/embedding-atlas" target="_blank">
     
 
 
       
-        denizsafak /
+        apple /
 
-      abogen</a></p>
+      embedding-atlas</a></p>
 				<p>
-      Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+      Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2850</span>
-						<span>🔱 143</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2792</span>
+						<span>🔱 119</span>
 					</div>
-				<div class="stars-today">⭐ 840 stars this week</div>
+				<div class="stars-today">⭐ 1845 stars this week</div>
 				</div>
 			</div>
 	
@@ -148,48 +126,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trailofbits/buttercup" target="_blank">
-    
-
-
-      
-        trailofbits /
-
-      buttercup</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 949</span>
-						<span>🔱 96</span>
-					</div>
-				<div class="stars-today">⭐ 479 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/menloresearch/jan" target="_blank">
-    
-
-
-      
-        menloresearch /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37218</span>
-						<span>🔱 2185</span>
-					</div>
-				<div class="stars-today">⭐ 1151 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/tadata-org/fastapi_mcp" target="_blank">
     
 
@@ -204,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9124</span>
-						<span>🔱 715</span>
+						<span>⭐ 9135</span>
+						<span>🔱 714</span>
 					</div>
 				<div class="stars-today">⭐ 1743 stars this week</div>
 				</div>
@@ -227,31 +163,73 @@ keywords:
 					<div>
 						<span>🔠 Go</span>
 						<span>⭐ 75198</span>
-						<span>🔱 4707</span>
+						<span>🔱 4708</span>
 					</div>
 				<div class="stars-today">⭐ 912 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nomic-ai/gpt4all" target="_blank">
+				<p><a href="https://github.com/menloresearch/jan" target="_blank">
     
 
 
       
-        nomic-ai /
+        menloresearch /
 
-      gpt4all</a></p>
+      jan</a></p>
 				<p>
-      GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 76474</span>
-						<span>🔱 8250</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37223</span>
+						<span>🔱 2185</span>
 					</div>
-				<div class="stars-today">⭐ 2009 stars this week</div>
+				<div class="stars-today">⭐ 1151 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
+    
+
+
+      
+        PixiEditor /
+
+      PixiEditor</a></p>
+				<p>
+      PixiEditor is a Universal Editor for all your 2D needs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 4687</span>
+						<span>🔱 188</span>
+					</div>
+				<div class="stars-today">⭐ 1418 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trailofbits/buttercup" target="_blank">
+    
+
+
+      
+        trailofbits /
+
+      buttercup</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 960</span>
+						<span>🔱 96</span>
+					</div>
+				<div class="stars-today">⭐ 479 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26799</span>
+						<span>⭐ 26801</span>
 						<span>🔱 7380</span>
 					</div>
 				<div class="stars-today">⭐ 601 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/librespot-org/librespot" target="_blank">
-    
-
-
-      
-        librespot-org /
-
-      librespot</a></p>
-				<p>
-      Open Source Spotify client library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5513</span>
-						<span>🔱 718</span>
-					</div>
-				<div class="stars-today">⭐ 75 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 25847</span>
-						<span>🔱 3688</span>
+						<span>⭐ 25853</span>
+						<span>🔱 3690</span>
 					</div>
 				<div class="stars-today">⭐ 430 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nomic-ai/gpt4all" target="_blank">
+    
+
+
+      
+        nomic-ai /
+
+      gpt4all</a></p>
+				<p>
+      GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 76475</span>
+						<span>🔱 8250</span>
+					</div>
+				<div class="stars-today">⭐ 2009 stars this week</div>
 				</div>
 			</div>
 	
