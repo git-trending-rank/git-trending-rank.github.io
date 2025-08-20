@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-20
-date: 2025-08-20T05:58:38Z
+date: 2025-08-20T07:58:36Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6785</span>
-						<span>🔱 577</span>
+						<span>⭐ 6911</span>
+						<span>🔱 578</span>
 					</div>
 				<div class="stars-today">⭐ 544 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9799</span>
-						<span>🔱 1695</span>
+						<span>⭐ 9843</span>
+						<span>🔱 1700</span>
 					</div>
 				<div class="stars-today">⭐ 1198 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4844</span>
+						<span>⭐ 4861</span>
 						<span>🔱 529</span>
 					</div>
 				<div class="stars-today">⭐ 65 stars today</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9276</span>
-						<span>🔱 796</span>
+						<span>⭐ 9316</span>
+						<span>🔱 799</span>
 					</div>
 				<div class="stars-today">⭐ 276 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 65893</span>
+						<span>🔱 9280</span>
+					</div>
+				<div class="stars-today">⭐ 1101 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50597</span>
-						<span>🔱 4727</span>
+						<span>⭐ 50621</span>
+						<span>🔱 4730</span>
 					</div>
 				<div class="stars-today">⭐ 347 stars today</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 4834</span>
-						<span>🔱 845</span>
+						<span>⭐ 4859</span>
+						<span>🔱 848</span>
 					</div>
 				<div class="stars-today">⭐ 19 stars today</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60378</span>
-						<span>🔱 7248</span>
+						<span>⭐ 60424</span>
+						<span>🔱 7255</span>
 					</div>
 				<div class="stars-today">⭐ 679 stars today</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2230</span>
-						<span>🔱 336</span>
+						<span>⭐ 2274</span>
+						<span>🔱 340</span>
 					</div>
 				<div class="stars-today">⭐ 66 stars today</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 73680</span>
-						<span>🔱 3884</span>
+						<span>⭐ 73707</span>
+						<span>🔱 3886</span>
 					</div>
 				<div class="stars-today">⭐ 348 stars today</div>
 				</div>
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 4952</span>
+						<span>⭐ 4973</span>
 						<span>🔱 197</span>
 					</div>
 				<div class="stars-today">⭐ 393 stars today</div>
@@ -248,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7212</span>
+						<span>⭐ 7225</span>
 						<span>🔱 501</span>
 					</div>
 				<div class="stars-today">⭐ 88 stars today</div>
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 35228</span>
-						<span>🔱 2703</span>
+						<span>⭐ 35262</span>
+						<span>🔱 2707</span>
 					</div>
 				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5822</span>
-						<span>🔱 757</span>
+						<span>⭐ 5855</span>
+						<span>🔱 758</span>
 					</div>
 				<div class="stars-today">⭐ 157 stars today</div>
 				</div>
