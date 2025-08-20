@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-20T09:58:50Z
+date: 2025-08-20T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9884</span>
-						<span>🔱 1702</span>
+						<span>⭐ 9895</span>
+						<span>🔱 1705</span>
 					</div>
 				<div class="stars-today">⭐ 4413 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13459</span>
-						<span>🔱 1298</span>
+						<span>⭐ 13465</span>
+						<span>🔱 1297</span>
 					</div>
 				<div class="stars-today">⭐ 11437 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
-    
-
-
-      
-        srbhr /
-
-      Resume-Matcher</a></p>
-				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22685</span>
-						<span>🔱 4353</span>
-					</div>
-				<div class="stars-today">⭐ 13539 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50646</span>
-						<span>🔱 4738</span>
+						<span>⭐ 50661</span>
+						<span>🔱 4740</span>
 					</div>
 				<div class="stars-today">⭐ 7393 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+    
+
+
+      
+        srbhr /
+
+      Resume-Matcher</a></p>
+				<p>
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22695</span>
+						<span>🔱 4354</span>
+					</div>
+				<div class="stars-today">⭐ 13539 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14179</span>
-						<span>🔱 1051</span>
+						<span>⭐ 14198</span>
+						<span>🔱 1052</span>
 					</div>
 				<div class="stars-today">⭐ 8128 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6404</span>
-						<span>🔱 1568</span>
+						<span>⭐ 6407</span>
+						<span>🔱 1572</span>
 					</div>
 				<div class="stars-today">⭐ 3624 stars this month</div>
 				</div>
@@ -162,52 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14242</span>
-						<span>🔱 1533</span>
+						<span>⭐ 14246</span>
+						<span>🔱 1534</span>
 					</div>
 				<div class="stars-today">⭐ 4496 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34172</span>
-						<span>🔱 2759</span>
-					</div>
-				<div class="stars-today">⭐ 6786 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open_deep_research</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8116</span>
-						<span>🔱 1073</span>
-					</div>
-				<div class="stars-today">⭐ 2942 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3001</span>
-						<span>🔱 295</span>
+						<span>⭐ 3012</span>
+						<span>🔱 296</span>
 					</div>
 				<div class="stars-today">⭐ 1782 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A curated list of awesome commands, files, and workflows for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11653</span>
-						<span>🔱 625</span>
-					</div>
-				<div class="stars-today">⭐ 7218 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +206,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55795</span>
-						<span>🔱 9517</span>
+						<span>⭐ 55807</span>
+						<span>🔱 9519</span>
 					</div>
 				<div class="stars-today">⭐ 3174 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      supervision</a></p>
+				<p>
+      We write your reusable computer vision tools. 💜
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34174</span>
+						<span>🔱 2758</span>
+					</div>
+				<div class="stars-today">⭐ 6786 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open_deep_research" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open_deep_research</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8127</span>
+						<span>🔱 1074</span>
+					</div>
+				<div class="stars-today">⭐ 2942 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 3118</span>
+						<span>🔱 216</span>
+					</div>
+				<div class="stars-today">⭐ 1380 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
+    
+
+
+      
+        hesreallyhim /
+
+      awesome-claude-code</a></p>
+				<p>
+      A curated list of awesome commands, files, and workflows for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11672</span>
+						<span>🔱 626</span>
+					</div>
+				<div class="stars-today">⭐ 7218 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp</a></p>
+				<p>
+      LLM inference in C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 85186</span>
+						<span>🔱 12761</span>
+					</div>
+				<div class="stars-today">⭐ 2178 stars this month</div>
 				</div>
 			</div>
 	

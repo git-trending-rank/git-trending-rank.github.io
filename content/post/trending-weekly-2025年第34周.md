@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第34周
-date: 2025-08-20T09:58:50Z
+date: 2025-08-20T11:58:50Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 9917</span>
-						<span>🔱 433</span>
+						<span>⭐ 9925</span>
+						<span>🔱 432</span>
 					</div>
 				<div class="stars-today">⭐ 3705 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+				<p><a href="https://github.com/microsoft/poml" target="_blank">
     
 
 
       
-        bytedance /
+        microsoft /
 
-      UI-TARS-desktop</a></p>
+      poml</a></p>
 				<p>
-      The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+      Prompt Orchestration Markup Language
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17728</span>
-						<span>🔱 1634</span>
+						<span>⭐ 3477</span>
+						<span>🔱 157</span>
 					</div>
-				<div class="stars-today">⭐ 1908 stars this week</div>
+				<div class="stars-today">⭐ 2668 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3001</span>
-						<span>🔱 295</span>
+						<span>⭐ 3012</span>
+						<span>🔱 296</span>
 					</div>
 				<div class="stars-today">⭐ 1346 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apple/embedding-atlas" target="_blank">
-    
-
-
-      
-        apple /
-
-      embedding-atlas</a></p>
-				<p>
-      Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2934</span>
-						<span>🔱 123</span>
-					</div>
-				<div class="stars-today">⭐ 1695 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5638</span>
+						<span>⭐ 5641</span>
 						<span>🔱 1049</span>
 					</div>
 				<div class="stars-today">⭐ 348 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop</a></p>
+				<p>
+      The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17741</span>
+						<span>🔱 1635</span>
+					</div>
+				<div class="stars-today">⭐ 1908 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
+    
+
+
+      
+        PixiEditor /
+
+      PixiEditor</a></p>
+				<p>
+      PixiEditor is a Universal Editor for all your 2D needs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 5027</span>
+						<span>🔱 200</span>
+					</div>
+				<div class="stars-today">⭐ 1675 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9267</span>
-						<span>🔱 719</span>
+						<span>⭐ 9281</span>
+						<span>🔱 718</span>
 					</div>
 				<div class="stars-today">⭐ 1456 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 60509</span>
+						<span>🔱 7265</span>
+					</div>
+				<div class="stars-today">⭐ 3072 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 75277</span>
+						<span>⭐ 75287</span>
 						<span>🔱 4711</span>
 					</div>
 				<div class="stars-today">⭐ 948 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/embedding-atlas" target="_blank">
+    
+
+
+      
+        apple /
+
+      embedding-atlas</a></p>
+				<p>
+      Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2944</span>
+						<span>🔱 125</span>
+					</div>
+				<div class="stars-today">⭐ 1695 stars this week</div>
 				</div>
 			</div>
 	
@@ -192,110 +258,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
+				<p><a href="https://github.com/conductor-oss/conductor" target="_blank">
     
 
 
       
-        PixiEditor /
+        conductor-oss /
 
-      PixiEditor</a></p>
+      conductor</a></p>
 				<p>
-      PixiEditor is a Universal Editor for all your 2D needs
+      Conductor is an event driven orchestration platform providing durable and highly resilient execution engine for your applications
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 5004</span>
-						<span>🔱 199</span>
+						<span>🔠 Java</span>
+						<span>⭐ 26294</span>
+						<span>🔱 678</span>
 					</div>
-				<div class="stars-today">⭐ 1675 stars this week</div>
+				<div class="stars-today">⭐ 1414 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trailofbits/buttercup" target="_blank">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
     
 
 
       
-        trailofbits /
+        moeru-ai /
 
-      buttercup</a></p>
-				<p></p>
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1044</span>
-						<span>🔱 105</span>
+						<span>🔠 Vue</span>
+						<span>⭐ 3118</span>
+						<span>🔱 216</span>
 					</div>
-				<div class="stars-today">⭐ 328 stars this week</div>
+				<div class="stars-today">⭐ 691 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jitsi/jitsi-meet" target="_blank">
+				<p><a href="https://github.com/chroma-core/chroma" target="_blank">
     
 
 
       
-        jitsi /
+        chroma-core /
 
-      jitsi-meet</a></p>
+      chroma</a></p>
 				<p>
-      Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+      Open-source search and retrieval database for AI applications.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26834</span>
-						<span>🔱 7380</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 21835</span>
+						<span>🔱 1723</span>
 					</div>
-				<div class="stars-today">⭐ 615 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/filamentphp/filament" target="_blank">
-    
-
-
-      
-        filamentphp /
-
-      filament</a></p>
-				<p>
-      A powerful open source UI framework for Laravel • Build and ship admin panels & apps fast with Livewire
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 25891</span>
-						<span>🔱 3697</span>
-					</div>
-				<div class="stars-today">⭐ 446 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nomic-ai/gpt4all" target="_blank">
-    
-
-
-      
-        nomic-ai /
-
-      gpt4all</a></p>
-				<p>
-      GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 76501</span>
-						<span>🔱 8252</span>
-					</div>
-				<div class="stars-today">⭐ 632 stars this week</div>
+				<div class="stars-today">⭐ 174 stars this week</div>
 				</div>
 			</div>
 	
