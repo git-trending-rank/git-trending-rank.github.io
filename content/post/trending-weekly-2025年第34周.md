@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第34周
-date: 2025-08-22T11:58:39Z
+date: 2025-08-22T13:58:49Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10193</span>
-						<span>🔱 1765</span>
+						<span>⭐ 10210</span>
+						<span>🔱 1768</span>
 					</div>
 				<div class="stars-today">⭐ 4622 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 6388</span>
+						<span>⭐ 6462</span>
 						<span>🔱 458</span>
 					</div>
 				<div class="stars-today">⭐ 2615 stars this week</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10504</span>
-						<span>🔱 1262</span>
+						<span>⭐ 10626</span>
+						<span>🔱 1272</span>
 					</div>
 				<div class="stars-today">⭐ 2315 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3242</span>
+						<span>⭐ 3247</span>
 						<span>🔱 311</span>
 					</div>
 				<div class="stars-today">⭐ 1532 stars this week</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3771</span>
+						<span>⭐ 3781</span>
 						<span>🔱 173</span>
 					</div>
 				<div class="stars-today">⭐ 1767 stars this week</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 5448</span>
+						<span>⭐ 5458</span>
 						<span>🔱 219</span>
 					</div>
 				<div class="stars-today">⭐ 2295 stars this week</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61213</span>
-						<span>🔱 7382</span>
+						<span>⭐ 61240</span>
+						<span>🔱 7385</span>
 					</div>
 				<div class="stars-today">⭐ 3526 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2024</span>
-						<span>🔱 220</span>
+						<span>⭐ 2045</span>
+						<span>🔱 221</span>
 					</div>
 				<div class="stars-today">⭐ 84 stars this week</div>
 				</div>
