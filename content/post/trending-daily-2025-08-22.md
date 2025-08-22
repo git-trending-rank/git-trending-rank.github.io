@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-22
-date: 2025-08-22T13:58:49Z
+date: 2025-08-22T15:58:41Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10626</span>
-						<span>🔱 1272</span>
+						<span>⭐ 10809</span>
+						<span>🔱 1331</span>
 					</div>
 				<div class="stars-today">⭐ 1211 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 6462</span>
-						<span>🔱 458</span>
+						<span>⭐ 6572</span>
+						<span>🔱 468</span>
 					</div>
 				<div class="stars-today">⭐ 1757 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36735</span>
+						<span>⭐ 36744</span>
 						<span>🔱 10470</span>
 					</div>
 				<div class="stars-today">⭐ 110 stars today</div>
@@ -91,15 +91,15 @@ keywords:
 
       SQLBot</a></p>
 				<p>
-      基于大模型和 RAG 的智能问数系统。Intelligent questioning system based on LLMs and RAG.
+      基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 781</span>
-						<span>🔱 100</span>
+						<span>⭐ 801</span>
+						<span>🔱 101</span>
 					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
+				<div class="stars-today">⭐ 79 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9992</span>
-						<span>🔱 902</span>
+						<span>⭐ 10021</span>
+						<span>🔱 903</span>
 					</div>
 				<div class="stars-today">⭐ 24 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2885</span>
-						<span>🔱 384</span>
+						<span>⭐ 2932</span>
+						<span>🔱 390</span>
 					</div>
 				<div class="stars-today">⭐ 420 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7698</span>
-						<span>🔱 535</span>
+						<span>⭐ 7743</span>
+						<span>🔱 536</span>
 					</div>
 				<div class="stars-today">⭐ 116 stars today</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23480</span>
+						<span>⭐ 23520</span>
 						<span>🔱 1309</span>
 					</div>
 				<div class="stars-today">⭐ 95 stars today</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 92076</span>
+						<span>⭐ 92082</span>
 						<span>🔱 9279</span>
 					</div>
 				<div class="stars-today">⭐ 123 stars today</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2045</span>
-						<span>🔱 221</span>
+						<span>⭐ 2061</span>
+						<span>🔱 220</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13842</span>
+						<span>⭐ 13868</span>
 						<span>🔱 2022</span>
 					</div>
 				<div class="stars-today">⭐ 285 stars today</div>
@@ -272,10 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20987</span>
-						<span>🔱 1593</span>
+						<span>⭐ 21002</span>
+						<span>🔱 1594</span>
 					</div>
-				<div class="stars-today">⭐ 134 stars today</div>
+				<div class="stars-today">⭐ 47 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 6391</span>
-						<span>🔱 691</span>
+						<span>⭐ 6421</span>
+						<span>🔱 692</span>
 					</div>
-				<div class="stars-today">⭐ 409 stars today</div>
+				<div class="stars-today">⭐ 81 stars today</div>
 				</div>
 			</div>
 	
