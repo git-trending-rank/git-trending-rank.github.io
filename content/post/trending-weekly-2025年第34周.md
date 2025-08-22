@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第34周
-date: 2025-08-22T17:58:34Z
+date: 2025-08-22T19:58:39Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10244</span>
-						<span>🔱 1771</span>
+						<span>⭐ 10252</span>
+						<span>🔱 1776</span>
 					</div>
 				<div class="stars-today">⭐ 4622 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 6644</span>
-						<span>🔱 471</span>
+						<span>⭐ 6716</span>
+						<span>🔱 476</span>
 					</div>
 				<div class="stars-today">⭐ 2615 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10926</span>
-						<span>🔱 1335</span>
+						<span>⭐ 11019</span>
+						<span>🔱 1343</span>
 					</div>
 				<div class="stars-today">⭐ 2315 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3260</span>
+						<span>⭐ 3264</span>
 						<span>🔱 312</span>
 					</div>
 				<div class="stars-today">⭐ 1532 stars this week</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3804</span>
-						<span>🔱 175</span>
+						<span>⭐ 3813</span>
+						<span>🔱 177</span>
 					</div>
 				<div class="stars-today">⭐ 1767 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 5474</span>
-						<span>🔱 219</span>
+						<span>⭐ 5480</span>
+						<span>🔱 220</span>
 					</div>
 				<div class="stars-today">⭐ 2295 stars this week</div>
 				</div>
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61284</span>
-						<span>🔱 7393</span>
+						<span>⭐ 61307</span>
+						<span>🔱 7400</span>
 					</div>
 				<div class="stars-today">⭐ 3526 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1326</span>
+						<span>🔱 191</span>
+					</div>
+				<div class="stars-today">⭐ 603 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2085</span>
-						<span>🔱 220</span>
+						<span>⭐ 2103</span>
+						<span>🔱 222</span>
 					</div>
 				<div class="stars-today">⭐ 84 stars this week</div>
 				</div>
