@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-21T23:58:35Z
+date: 2025-08-22T03:01:27Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10119</span>
-						<span>🔱 1758</span>
+						<span>⭐ 10136</span>
+						<span>🔱 1761</span>
 					</div>
-				<div class="stars-today">⭐ 4785 stars this month</div>
+				<div class="stars-today">⭐ 4949 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13581</span>
+						<span>⭐ 13592</span>
 						<span>🔱 1318</span>
 					</div>
-				<div class="stars-today">⭐ 11521 stars this month</div>
+				<div class="stars-today">⭐ 11593 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12461</span>
-						<span>🔱 851</span>
+						<span>⭐ 12472</span>
+						<span>🔱 852</span>
 					</div>
-				<div class="stars-today">⭐ 7368 stars this month</div>
+				<div class="stars-today">⭐ 7381 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50917</span>
-						<span>🔱 4771</span>
+						<span>⭐ 50929</span>
+						<span>🔱 4774</span>
 					</div>
-				<div class="stars-today">⭐ 7602 stars this month</div>
+				<div class="stars-today">⭐ 7561 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14541</span>
-						<span>🔱 1078</span>
+						<span>⭐ 14579</span>
+						<span>🔱 1080</span>
 					</div>
-				<div class="stars-today">⭐ 8078 stars this month</div>
+				<div class="stars-today">⭐ 8075 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 5403</span>
-						<span>🔱 371</span>
+						<span>⭐ 5695</span>
+						<span>🔱 384</span>
 					</div>
-				<div class="stars-today">⭐ 1652 stars this month</div>
+				<div class="stars-today">⭐ 3265 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14350</span>
-						<span>🔱 1545</span>
+						<span>⭐ 14358</span>
+						<span>🔱 1546</span>
 					</div>
-				<div class="stars-today">⭐ 4534 stars this month</div>
+				<div class="stars-today">⭐ 4588 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6461</span>
-						<span>🔱 1581</span>
+						<span>⭐ 6466</span>
+						<span>🔱 1582</span>
 					</div>
-				<div class="stars-today">⭐ 3664 stars this month</div>
+				<div class="stars-today">⭐ 3672 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3188</span>
-						<span>🔱 310</span>
+						<span>⭐ 3204</span>
+						<span>🔱 311</span>
 					</div>
-				<div class="stars-today">⭐ 1949 stars this month</div>
+				<div class="stars-today">⭐ 2082 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22828</span>
-						<span>🔱 4363</span>
+						<span>⭐ 22835</span>
+						<span>🔱 4364</span>
 					</div>
-				<div class="stars-today">⭐ 13341 stars this month</div>
+				<div class="stars-today">⭐ 10948 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55962</span>
-						<span>🔱 9557</span>
+						<span>⭐ 55974</span>
+						<span>🔱 9561</span>
 					</div>
-				<div class="stars-today">⭐ 3238 stars this month</div>
+				<div class="stars-today">⭐ 3262 stars this month</div>
 				</div>
 			</div>
 	
@@ -267,15 +267,15 @@ keywords:
 
       sim</a></p>
 				<p>
-      Sim is an open-source AI agent workflow builder. Sim Studio's interface is a lightweight, intuitive way to quickly build and deploy LLMs that connect with your favorite tools.
+      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9855</span>
-						<span>🔱 1202</span>
+						<span>⭐ 10019</span>
+						<span>🔱 1225</span>
 					</div>
-				<div class="stars-today">⭐ 2970 stars this month</div>
+				<div class="stars-today">⭐ 3931 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8216</span>
-						<span>🔱 1087</span>
+						<span>⭐ 8226</span>
+						<span>🔱 1088</span>
 					</div>
-				<div class="stars-today">⭐ 2770 stars this month</div>
+				<div class="stars-today">⭐ 2503 stars this month</div>
 				</div>
 			</div>
 	
