@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第34周
-date: 2025-08-23T09:58:53Z
+date: 2025-08-23T11:58:34Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10312</span>
-						<span>🔱 1791</span>
+						<span>⭐ 10318</span>
+						<span>🔱 1792</span>
 					</div>
 				<div class="stars-today">⭐ 4465 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 7227</span>
-						<span>🔱 508</span>
+						<span>⭐ 7381</span>
+						<span>🔱 529</span>
 					</div>
 				<div class="stars-today">⭐ 4280 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+    
+
+
+      
+        emcie-co /
+
+      parlant</a></p>
+				<p>
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7391</span>
+						<span>🔱 611</span>
+					</div>
+				<div class="stars-today">⭐ 3801 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,76 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11469</span>
-						<span>🔱 1386</span>
+						<span>⭐ 11501</span>
+						<span>🔱 1390</span>
 					</div>
 				<div class="stars-today">⭐ 3434 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
+				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
     
 
 
       
-        dtyq /
+        aliasrobotics /
 
-      magic</a></p>
+      cai</a></p>
 				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+      Cybersecurity AI (CAI), the framework for AI Security
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 3314</span>
-						<span>🔱 314</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3036</span>
+						<span>🔱 435</span>
 					</div>
-				<div class="stars-today">⭐ 1487 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/poml" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      poml</a></p>
-				<p>
-      Prompt Orchestration Markup Language
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3854</span>
-						<span>🔱 177</span>
-					</div>
-				<div class="stars-today">⭐ 1369 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
-    
-
-
-      
-        PixiEditor /
-
-      PixiEditor</a></p>
-				<p>
-      PixiEditor is a Universal Editor for all your 2D needs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 5517</span>
-						<span>🔱 221</span>
-					</div>
-				<div class="stars-today">⭐ 2391 stars this week</div>
+				<div class="stars-today">⭐ 847 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61466</span>
-						<span>🔱 7434</span>
+						<span>⭐ 61491</span>
+						<span>🔱 7439</span>
 					</div>
 				<div class="stars-today">⭐ 3662 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dtyq/magic" target="_blank">
+    
+
+
+      
+        dtyq /
+
+      magic</a></p>
+				<p>
+      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 3319</span>
+						<span>🔱 315</span>
+					</div>
+				<div class="stars-today">⭐ 1487 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leantime/leantime" target="_blank">
+    
+
+
+      
+        Leantime /
+
+      leantime</a></p>
+				<p>
+      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 6748</span>
+						<span>🔱 712</span>
+					</div>
+				<div class="stars-today">⭐ 780 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
+    
+
+
+      
+        PixiEditor /
+
+      PixiEditor</a></p>
+				<p>
+      PixiEditor is a Universal Editor for all your 2D needs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 5521</span>
+						<span>🔱 221</span>
+					</div>
+				<div class="stars-today">⭐ 2391 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/googletest" target="_blank">
+    
+
+
+      
+        google /
+
+      googletest</a></p>
+				<p>
+      GoogleTest - Google Testing and Mocking Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 36821</span>
+						<span>🔱 10477</span>
+					</div>
+				<div class="stars-today">⭐ 171 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1549</span>
-						<span>🔱 226</span>
+						<span>⭐ 1589</span>
+						<span>🔱 229</span>
 					</div>
 				<div class="stars-today">⭐ 603 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SpecterOps/BloodHound" target="_blank">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
     
 
 
       
-        SpecterOps /
+        winapps-org /
 
-      BloodHound</a></p>
+      winapps</a></p>
 				<p>
-      Six Degrees of Domain Admin
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2207</span>
-						<span>🔱 227</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 4485</span>
+						<span>🔱 153</span>
 					</div>
-				<div class="stars-today">⭐ 129 stars this week</div>
+				<div class="stars-today">⭐ 795 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+    
+
+
+      
+        plait-board /
+
+      drawnix</a></p>
+				<p>
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5231</span>
+						<span>🔱 416</span>
+					</div>
+				<div class="stars-today">⭐ 851 stars this week</div>
 				</div>
 			</div>
 	

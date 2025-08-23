@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-23T09:58:53Z
+date: 2025-08-23T11:58:34Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10312</span>
-						<span>🔱 1791</span>
+						<span>⭐ 10318</span>
+						<span>🔱 1792</span>
 					</div>
 				<div class="stars-today">⭐ 5080 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13675</span>
-						<span>🔱 1328</span>
+						<span>⭐ 13679</span>
+						<span>🔱 1329</span>
 					</div>
 				<div class="stars-today">⭐ 11637 stars this month</div>
 				</div>
@@ -74,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 7227</span>
-						<span>🔱 508</span>
+						<span>⭐ 7381</span>
+						<span>🔱 529</span>
 					</div>
 				<div class="stars-today">⭐ 4897 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        QwenLM /
+        simstudioai /
 
-      Qwen3-Coder</a></p>
+      sim</a></p>
 				<p>
-      Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12553</span>
-						<span>🔱 859</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11501</span>
+						<span>🔱 1390</span>
 					</div>
-				<div class="stars-today">⭐ 7451 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51039</span>
-						<span>🔱 4789</span>
-					</div>
-				<div class="stars-today">⭐ 7196 stars this month</div>
+				<div class="stars-today">⭐ 4853 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14826</span>
-						<span>🔱 1097</span>
+						<span>⭐ 14840</span>
+						<span>🔱 1098</span>
 					</div>
 				<div class="stars-today">⭐ 8121 stars this month</div>
 				</div>
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3314</span>
-						<span>🔱 314</span>
+						<span>⭐ 3319</span>
+						<span>🔱 315</span>
 					</div>
 				<div class="stars-today">⭐ 2173 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Financial data platform for analysts, quants and AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51045</span>
+						<span>🔱 4789</span>
+					</div>
+				<div class="stars-today">⭐ 7196 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14417</span>
+						<span>⭐ 14419</span>
 						<span>🔱 1554</span>
 					</div>
 				<div class="stars-today">⭐ 4625 stars this month</div>
@@ -192,46 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">
     
 
 
       
-        simstudioai /
+        QwenLM /
 
-      sim</a></p>
+      Qwen3-Coder</a></p>
 				<p>
-      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11469</span>
-						<span>🔱 1386</span>
-					</div>
-				<div class="stars-today">⭐ 4853 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frappe/hrms" target="_blank">
-    
-
-
-      
-        frappe /
-
-      hrms</a></p>
-				<p>
-      Open Source HR and Payroll Software
+      Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6505</span>
-						<span>🔱 1592</span>
+						<span>⭐ 12558</span>
+						<span>🔱 860</span>
 					</div>
-				<div class="stars-today">⭐ 3595 stars this month</div>
+				<div class="stars-today">⭐ 7451 stars this month</div>
 				</div>
 			</div>
 	
@@ -251,9 +229,75 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 56076</span>
-						<span>🔱 9583</span>
+						<span>🔱 9584</span>
 					</div>
 				<div class="stars-today">⭐ 3263 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp</a></p>
+				<p>
+      LLM inference in C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 85358</span>
+						<span>🔱 12790</span>
+					</div>
+				<div class="stars-today">⭐ 2250 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudwego/eino" target="_blank">
+    
+
+
+      
+        cloudwego /
+
+      eino</a></p>
+				<p>
+      The ultimate LLM/AI application development framework in Golang.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6907</span>
+						<span>🔱 536</span>
+					</div>
+				<div class="stars-today">⭐ 1764 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hao-ai-lab/FastVideo" target="_blank">
+    
+
+
+      
+        hao-ai-lab /
+
+      FastVideo</a></p>
+				<p>
+      A unified inference and post-training framework for accelerated video generation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2056</span>
+						<span>🔱 151</span>
+					</div>
+				<div class="stars-today">⭐ 410 stars this month</div>
 				</div>
 			</div>
 	

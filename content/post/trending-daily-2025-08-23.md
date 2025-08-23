@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-23
-date: 2025-08-23T09:58:53Z
+date: 2025-08-23T11:58:34Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11469</span>
-						<span>🔱 1386</span>
-					</div>
-				<div class="stars-today">⭐ 1211 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
@@ -52,10 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 7227</span>
-						<span>🔱 508</span>
+						<span>⭐ 7381</span>
+						<span>🔱 529</span>
 					</div>
 				<div class="stars-today">⭐ 1757 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+    
+
+
+      
+        plait-board /
+
+      drawnix</a></p>
+				<p>
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5231</span>
+						<span>🔱 416</span>
+					</div>
+				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Budibase/budibase" target="_blank">
+    
+
+
+      
+        Budibase /
+
+      budibase</a></p>
+				<p>
+      Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25824</span>
+						<span>🔱 1864</span>
+					</div>
+				<div class="stars-today">⭐ 295 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11501</span>
+						<span>🔱 1390</span>
+					</div>
+				<div class="stars-today">⭐ 1211 stars today</div>
 				</div>
 			</div>
 	
@@ -74,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 36814</span>
-						<span>🔱 10478</span>
+						<span>⭐ 36821</span>
+						<span>🔱 10477</span>
 					</div>
 				<div class="stars-today">⭐ 110 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
-    
-
-
-      
-        dataease /
-
-      SQLBot</a></p>
-				<p>
-      基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 928</span>
-						<span>🔱 108</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dream-num/univer" target="_blank">
-    
-
-
-      
-        dream-num /
-
-      univer</a></p>
-				<p>
-      Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10218</span>
-						<span>🔱 911</span>
-					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
 				</div>
 			</div>
 	
@@ -140,142 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3247</span>
+						<span>⭐ 3270</span>
 						<span>🔱 422</span>
 					</div>
 				<div class="stars-today">⭐ 420 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/puckeditor/puck" target="_blank">
-    
-
-
-      
-        puckeditor /
-
-      puck</a></p>
-				<p>
-      The visual editor for React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8067</span>
-						<span>🔱 548</span>
-					</div>
-				<div class="stars-today">⭐ 146 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Dokploy/dokploy" target="_blank">
-    
-
-
-      
-        Dokploy /
-
-      dokploy</a></p>
-				<p>
-      Open Source Alternative to Vercel, Netlify and Heroku.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23743</span>
-						<span>🔱 1324</span>
-					</div>
-				<div class="stars-today">⭐ 120 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/puppeteer/puppeteer" target="_blank">
-    
-
-
-      
-        puppeteer /
-
-      puppeteer</a></p>
-				<p>
-      JavaScript API for Chrome and Firefox
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 92147</span>
-						<span>🔱 9281</span>
-					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SpecterOps/BloodHound" target="_blank">
-    
-
-
-      
-        SpecterOps /
-
-      BloodHound</a></p>
-				<p>
-      Six Degrees of Domain Admin
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2207</span>
-						<span>🔱 227</span>
-					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextjs/saas-starter" target="_blank">
-    
-
-
-      
-        nextjs /
-
-      saas-starter</a></p>
-				<p>
-      Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13997</span>
-						<span>🔱 2040</span>
-					</div>
-				<div class="stars-today">⭐ 285 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21095</span>
-						<span>🔱 1600</span>
-					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +162,296 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 6723</span>
-						<span>🔱 711</span>
+						<span>⭐ 6748</span>
+						<span>🔱 712</span>
 					</div>
 				<div class="stars-today">⭐ 54 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+    
+
+
+      
+        clash-verge-rev /
+
+      clash-verge-rev</a></p>
+				<p>
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 71520</span>
+						<span>🔱 5396</span>
+					</div>
+				<div class="stars-today">⭐ 155 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 4485</span>
+						<span>🔱 153</span>
+					</div>
+				<div class="stars-today">⭐ 668 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zigtools/zls" target="_blank">
+    
+
+
+      
+        zigtools /
+
+      zls</a></p>
+				<p>
+      A language server for Zig supporting developers with features like autocomplete and goto definition
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 4032</span>
+						<span>🔱 379</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1589</span>
+						<span>🔱 229</span>
+					</div>
+				<div class="stars-today">⭐ 342 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/scottpetrovic/mesh2motion-app" target="_blank">
+    
+
+
+      
+        scottpetrovic /
+
+      mesh2motion-app</a></p>
+				<p>
+      Import a 3D Model and automatically assign and export animations
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 695</span>
+						<span>🔱 66</span>
+					</div>
+				<div class="stars-today">⭐ 123 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/puckeditor/puck" target="_blank">
+    
+
+
+      
+        puckeditor /
+
+      puck</a></p>
+				<p>
+      The visual editor for React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8095</span>
+						<span>🔱 549</span>
+					</div>
+				<div class="stars-today">⭐ 146 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dream-num/univer" target="_blank">
+    
+
+
+      
+        dream-num /
+
+      univer</a></p>
+				<p>
+      Univer is a full-stack framework for creating and editing spreadsheets, documents, and slides on both web and server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10232</span>
+						<span>🔱 910</span>
+					</div>
+				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepseek-ai/awesome-deepseek-integration" target="_blank">
+    
+
+
+      
+        deepseek-ai /
+
+      awesome-deepseek-integration</a></p>
+				<p>
+      Integrate the DeepSeek API into popular softwares
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 33490</span>
+						<span>🔱 3723</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/highway" target="_blank">
+    
+
+
+      
+        google /
+
+      highway</a></p>
+				<p>
+      Performance-portable, length-agnostic SIMD with runtime dispatch
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4877</span>
+						<span>🔱 373</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chartdb/chartdb" target="_blank">
+    
+
+
+      
+        chartdb /
+
+      chartdb</a></p>
+				<p>
+      Database diagrams editor that allows you to visualize and design your DB with a single query.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17980</span>
+						<span>🔱 963</span>
+					</div>
+				<div class="stars-today">⭐ 59 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+    
+
+
+      
+        dataease /
+
+      SQLBot</a></p>
+				<p>
+      基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 937</span>
+						<span>🔱 109</span>
+					</div>
+				<div class="stars-today">⭐ 58 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pestphp/pest" target="_blank">
+    
+
+
+      
+        pestphp /
+
+      pest</a></p>
+				<p>
+      Pest is an elegant PHP testing Framework with a focus on simplicity, meticulously designed to bring back the joy of testing in PHP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 10626</span>
+						<span>🔱 402</span>
+					</div>
+				<div class="stars-today">⭐ 16 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA-NeMo/RL" target="_blank">
+    
+
+
+      
+        NVIDIA-NeMo /
+
+      RL</a></p>
+				<p>
+      Scalable toolkit for efficient model reinforcement
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 683</span>
+						<span>🔱 108</span>
+					</div>
+				<div class="stars-today">⭐ 3 stars today</div>
 				</div>
 			</div>
 	
