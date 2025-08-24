@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-24T09:58:47Z
+date: 2025-08-24T11:58:42Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10479</span>
-						<span>🔱 1810</span>
+						<span>⭐ 10498</span>
+						<span>🔱 1812</span>
 					</div>
 				<div class="stars-today">⭐ 5199 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13734</span>
+						<span>⭐ 13737</span>
 						<span>🔱 1330</span>
 					</div>
 				<div class="stars-today">⭐ 11680 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 8547</span>
-						<span>🔱 622</span>
+						<span>⭐ 8674</span>
+						<span>🔱 635</span>
 					</div>
 				<div class="stars-today">⭐ 6009 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11727</span>
-						<span>🔱 1365</span>
+						<span>⭐ 11749</span>
+						<span>🔱 1366</span>
 					</div>
 				<div class="stars-today">⭐ 5575 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14970</span>
-						<span>🔱 1115</span>
+						<span>⭐ 14979</span>
+						<span>🔱 1116</span>
 					</div>
 				<div class="stars-today">⭐ 7920 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3380</span>
-						<span>🔱 317</span>
+						<span>⭐ 3386</span>
+						<span>🔱 318</span>
 					</div>
 				<div class="stars-today">⭐ 2259 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51128</span>
-						<span>🔱 4796</span>
-					</div>
-				<div class="stars-today">⭐ 6720 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14454</span>
-						<span>🔱 1558</span>
+						<span>⭐ 14457</span>
+						<span>🔱 1559</span>
 					</div>
 				<div class="stars-today">⭐ 4649 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Financial data platform for analysts, quants and AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51136</span>
+						<span>🔱 4797</span>
+					</div>
+				<div class="stars-today">⭐ 6720 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 5091</span>
+						<span>🔱 167</span>
+					</div>
+				<div class="stars-today">⭐ 1864 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,98 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12594</span>
+						<span>⭐ 12596</span>
 						<span>🔱 862</span>
 					</div>
 				<div class="stars-today">⭐ 6023 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm</a></p>
-				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56137</span>
-						<span>🔱 9609</span>
-					</div>
-				<div class="stars-today">⭐ 3206 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
-    
-
-
-      
-        ggml-org /
-
-      llama.cpp</a></p>
-				<p>
-      LLM inference in C/C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 85423</span>
-						<span>🔱 12805</span>
-					</div>
-				<div class="stars-today">⭐ 2242 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudwego/eino" target="_blank">
-    
-
-
-      
-        cloudwego /
-
-      eino</a></p>
-				<p>
-      The ultimate LLM/AI application development framework in Golang.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6936</span>
-						<span>🔱 536</span>
-					</div>
-				<div class="stars-today">⭐ 1763 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hao-ai-lab/FastVideo" target="_blank">
-    
-
-
-      
-        hao-ai-lab /
-
-      FastVideo</a></p>
-				<p>
-      A unified inference and post-training framework for accelerated video generation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2077</span>
-						<span>🔱 153</span>
-					</div>
-				<div class="stars-today">⭐ 418 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第34周
-date: 2025-08-24T09:58:47Z
+date: 2025-08-24T11:58:42Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10479</span>
-						<span>🔱 1810</span>
-					</div>
-				<div class="stars-today">⭐ 4256 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 8547</span>
-						<span>🔱 622</span>
+						<span>⭐ 8674</span>
+						<span>🔱 635</span>
 					</div>
 				<div class="stars-today">⭐ 5373 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        emcie-co /
+        coleam00 /
 
-      parlant</a></p>
+      Archon</a></p>
 				<p>
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7446</span>
-						<span>🔱 612</span>
+						<span>⭐ 10498</span>
+						<span>🔱 1812</span>
 					</div>
-				<div class="stars-today">⭐ 3495 stars this week</div>
+				<div class="stars-today">⭐ 4256 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,164 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11727</span>
-						<span>🔱 1365</span>
+						<span>⭐ 11749</span>
+						<span>🔱 1366</span>
 					</div>
 				<div class="stars-today">⭐ 4321 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
     
 
 
       
-        aliasrobotics /
+        emcie-co /
 
-      cai</a></p>
+      parlant</a></p>
 				<p>
-      Cybersecurity AI (CAI), the framework for AI Security
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3101</span>
-						<span>🔱 438</span>
+						<span>⭐ 7453</span>
+						<span>🔱 612</span>
 					</div>
-				<div class="stars-today">⭐ 687 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61723</span>
-						<span>🔱 7477</span>
-					</div>
-				<div class="stars-today">⭐ 3472 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
-    
-
-
-      
-        dtyq /
-
-      magic</a></p>
-				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 3380</span>
-						<span>🔱 317</span>
-					</div>
-				<div class="stars-today">⭐ 1496 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Leantime/leantime" target="_blank">
-    
-
-
-      
-        Leantime /
-
-      leantime</a></p>
-				<p>
-      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 7073</span>
-						<span>🔱 724</span>
-					</div>
-				<div class="stars-today">⭐ 1146 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
-    
-
-
-      
-        PixiEditor /
-
-      PixiEditor</a></p>
-				<p>
-      PixiEditor is a Universal Editor for all your 2D needs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 5610</span>
-						<span>🔱 221</span>
-					</div>
-				<div class="stars-today">⭐ 2174 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/googletest" target="_blank">
-    
-
-
-      
-        google /
-
-      googletest</a></p>
-				<p>
-      GoogleTest - Google Testing and Mocking Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 36865</span>
-						<span>🔱 10481</span>
-					</div>
-				<div class="stars-today">⭐ 252 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1961</span>
-						<span>🔱 251</span>
-					</div>
-				<div class="stars-today">⭐ 925 stars this week</div>
+				<div class="stars-today">⭐ 3495 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 4974</span>
-						<span>🔱 163</span>
+						<span>⭐ 5091</span>
+						<span>🔱 167</span>
 					</div>
 				<div class="stars-today">⭐ 1085 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leantime/leantime" target="_blank">
+    
+
+
+      
+        Leantime /
+
+      leantime</a></p>
+				<p>
+      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 7104</span>
+						<span>🔱 725</span>
+					</div>
+				<div class="stars-today">⭐ 1146 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +162,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6130</span>
-						<span>🔱 481</span>
+						<span>⭐ 6195</span>
+						<span>🔱 485</span>
 					</div>
 				<div class="stars-today">⭐ 1057 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2014</span>
+						<span>🔱 254</span>
+					</div>
+				<div class="stars-today">⭐ 925 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/googletest" target="_blank">
+    
+
+
+      
+        google /
+
+      googletest</a></p>
+				<p>
+      GoogleTest - Google Testing and Mocking Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 36868</span>
+						<span>🔱 10481</span>
+					</div>
+				<div class="stars-today">⭐ 252 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
+    
+
+
+      
+        aliasrobotics /
+
+      cai</a></p>
+				<p>
+      Cybersecurity AI (CAI), the framework for AI Security
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3104</span>
+						<span>🔱 438</span>
+					</div>
+				<div class="stars-today">⭐ 687 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
+    
+
+
+      
+        PixiEditor /
+
+      PixiEditor</a></p>
+				<p>
+      PixiEditor is a Universal Editor for all your 2D needs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 5621</span>
+						<span>🔱 222</span>
+					</div>
+				<div class="stars-today">⭐ 2174 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 61752</span>
+						<span>🔱 7481</span>
+					</div>
+				<div class="stars-today">⭐ 3472 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SpecterOps/BloodHound" target="_blank">
+    
+
+
+      
+        SpecterOps /
+
+      BloodHound</a></p>
+				<p>
+      Six Degrees of Domain Admin
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2231</span>
+						<span>🔱 227</span>
+					</div>
+				<div class="stars-today">⭐ 297 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitwarden/clients" target="_blank">
+    
+
+
+      
+        bitwarden /
+
+      clients</a></p>
+				<p>
+      Bitwarden client apps (web, browser extension, desktop, and cli).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11008</span>
+						<span>🔱 1463</span>
+					</div>
+				<div class="stars-today">⭐ 385 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dtyq/magic" target="_blank">
+    
+
+
+      
+        dtyq /
+
+      magic</a></p>
+				<p>
+      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 3386</span>
+						<span>🔱 318</span>
+					</div>
+				<div class="stars-today">⭐ 1496 stars this week</div>
 				</div>
 			</div>
 	
