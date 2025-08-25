@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-25T09:58:34Z
+date: 2025-08-25T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10654</span>
-						<span>🔱 1837</span>
+						<span>⭐ 10672</span>
+						<span>🔱 1839</span>
 					</div>
 				<div class="stars-today">⭐ 5389 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13816</span>
-						<span>🔱 1339</span>
-					</div>
-				<div class="stars-today">⭐ 11731 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 9944</span>
-						<span>🔱 736</span>
+						<span>⭐ 10035</span>
+						<span>🔱 744</span>
 					</div>
 				<div class="stars-today">⭐ 7262 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+    
+
+
+      
+        dyad-sh /
+
+      dyad</a></p>
+				<p>
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13820</span>
+						<span>🔱 1340</span>
+					</div>
+				<div class="stars-today">⭐ 11731 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12025</span>
-						<span>🔱 1397</span>
+						<span>⭐ 12046</span>
+						<span>🔱 1398</span>
 					</div>
 				<div class="stars-today">⭐ 5840 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15146</span>
-						<span>🔱 1131</span>
+						<span>⭐ 15164</span>
+						<span>🔱 1132</span>
 					</div>
 				<div class="stars-today">⭐ 7799 stars this month</div>
 				</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3479</span>
-						<span>🔱 336</span>
+						<span>⭐ 3482</span>
+						<span>🔱 338</span>
 					</div>
 				<div class="stars-today">⭐ 2318 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 6999</span>
+						<span>🔱 213</span>
+					</div>
+				<div class="stars-today">⭐ 2416 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14526</span>
-						<span>🔱 1568</span>
+						<span>⭐ 14533</span>
+						<span>🔱 1569</span>
 					</div>
 				<div class="stars-today">⭐ 4688 stars this month</div>
 				</div>
@@ -184,54 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51245</span>
-						<span>🔱 4814</span>
+						<span>⭐ 51250</span>
+						<span>🔱 4816</span>
 					</div>
 				<div class="stars-today">⭐ 5994 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
     
 
 
       
-        winapps-org /
+        plait-board /
 
-      winapps</a></p>
+      drawnix</a></p>
 				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6896</span>
-						<span>🔱 212</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6774</span>
+						<span>🔱 513</span>
 					</div>
-				<div class="stars-today">⭐ 2416 stars this month</div>
+				<div class="stars-today">⭐ 3876 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-Coder" target="_blank">
+				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
     
 
 
       
-        QwenLM /
+        vllm-project /
 
-      Qwen3-Coder</a></p>
+      vllm</a></p>
 				<p>
-      Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+      A high-throughput and memory-efficient inference and serving engine for LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12723</span>
-						<span>🔱 869</span>
+						<span>⭐ 56245</span>
+						<span>🔱 9639</span>
 					</div>
-				<div class="stars-today">⭐ 4790 stars this month</div>
+				<div class="stars-today">⭐ 3175 stars this month</div>
 				</div>
 			</div>
 	

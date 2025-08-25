@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-25
-date: 2025-08-25T09:58:35Z
+date: 2025-08-25T11:58:51Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+    
+
+
+      
+        plait-board /
+
+      drawnix</a></p>
+				<p>
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6774</span>
+						<span>🔱 513</span>
+					</div>
+				<div class="stars-today">⭐ 948 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2796</span>
+						<span>🔱 314</span>
+					</div>
+				<div class="stars-today">⭐ 443 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
@@ -30,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6896</span>
-						<span>🔱 212</span>
+						<span>⭐ 6999</span>
+						<span>🔱 213</span>
 					</div>
 				<div class="stars-today">⭐ 651 stars today</div>
 				</div>
@@ -52,208 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 9944</span>
-						<span>🔱 736</span>
+						<span>⭐ 10035</span>
+						<span>🔱 744</span>
 					</div>
 				<div class="stars-today">⭐ 1300 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2691</span>
-						<span>🔱 310</span>
-					</div>
-				<div class="stars-today">⭐ 443 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/scottpetrovic/mesh2motion-app" target="_blank">
-    
-
-
-      
-        scottpetrovic /
-
-      mesh2motion-app</a></p>
-				<p>
-      Import a 3D Model and automatically assign and export animations
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1157</span>
-						<span>🔱 93</span>
-					</div>
-				<div class="stars-today">⭐ 197 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 366231</span>
-						<span>🔱 63967</span>
-					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
-    
-
-
-      
-        plait-board /
-
-      drawnix</a></p>
-				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6652</span>
-						<span>🔱 510</span>
-					</div>
-				<div class="stars-today">⭐ 948 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
-    
-
-
-      
-        midday-ai /
-
-      midday</a></p>
-				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11389</span>
-						<span>🔱 1033</span>
-					</div>
-				<div class="stars-today">⭐ 219 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
-    
-
-
-      
-        yt-dlp /
-
-      yt-dlp</a></p>
-				<p>
-      A feature-rich command-line audio/video downloader
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 123845</span>
-						<span>🔱 9875</span>
-					</div>
-				<div class="stars-today">⭐ 131 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/django/django" target="_blank">
-    
-
-
-      
-        django /
-
-      django</a></p>
-				<p>
-      The Web framework for perfectionists with deadlines.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 84755</span>
-						<span>🔱 32854</span>
-					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Klipper3d/klipper" target="_blank">
-    
-
-
-      
-        Klipper3d /
-
-      klipper</a></p>
-				<p>
-      Klipper is a 3d-printer firmware
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 10728</span>
-						<span>🔱 5650</span>
-					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Java</a></p>
-				<p>
-      All Algorithms implemented in Java
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 62946</span>
-						<span>🔱 20184</span>
-					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
 			</div>
 	
@@ -272,164 +118,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4363</span>
-						<span>🔱 518</span>
+						<span>⭐ 4407</span>
+						<span>🔱 521</span>
 					</div>
 				<div class="stars-today">⭐ 482 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/willccbb/verifiers" target="_blank">
     
 
 
       
-        simstudioai /
+        willccbb /
 
-      sim</a></p>
+      verifiers</a></p>
 				<p>
-      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+      Verifiers for LLM Reinforcement Learning
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12025</span>
-						<span>🔱 1397</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2092</span>
+						<span>🔱 268</span>
 					</div>
-				<div class="stars-today">⭐ 303 stars today</div>
+				<div class="stars-today">⭐ 270 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/puckeditor/puck" target="_blank">
+				<p><a href="https://github.com/spotDL/spotify-downloader" target="_blank">
     
 
 
       
-        puckeditor /
+        spotDL /
 
-      puck</a></p>
+      spotify-downloader</a></p>
 				<p>
-      The visual editor for React
+      Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8709</span>
-						<span>🔱 568</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21280</span>
+						<span>🔱 1889</span>
 					</div>
-				<div class="stars-today">⭐ 325 stars today</div>
+				<div class="stars-today">⭐ 32 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+				<p><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     
 
 
       
-        RSSNext /
+        anuraghazra /
 
-      Folo</a></p>
+      github-readme-stats</a></p>
 				<p>
-      🧡 Follow everything in one place
+      ⚡ Dynamically generated stats for your github readmes
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32317</span>
-						<span>🔱 1496</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 75334</span>
+						<span>🔱 25739</span>
 					</div>
-				<div class="stars-today">⭐ 333 stars today</div>
+				<div class="stars-today">⭐ 97 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dream-num/univer" target="_blank">
+				<p><a href="https://github.com/karpathy/nn-zero-to-hero" target="_blank">
     
 
 
       
-        dream-num /
+        karpathy /
 
-      univer</a></p>
+      nn-zero-to-hero</a></p>
 				<p>
-      Build AI-native spreadsheets. Univer is a full-stack framework for creating and editing spreadsheets on both web and server. With Univer MCP, Univer Spreadsheets is driven directly through natural language.
+      Neural Networks: Zero to Hero
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10626</span>
-						<span>🔱 921</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15548</span>
+						<span>🔱 2197</span>
 					</div>
-				<div class="stars-today">⭐ 207 stars today</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leantime/leantime" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        Leantime /
+        asgeirtj /
 
-      leantime</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 7421</span>
-						<span>🔱 739</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9179</span>
+						<span>🔱 2005</span>
 					</div>
-				<div class="stars-today">⭐ 365 stars today</div>
+				<div class="stars-today">⭐ 253 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
     
 
 
       
         microsoft /
 
-      ai-agents-for-beginners</a></p>
+      generative-ai-for-beginners</a></p>
 				<p>
-      11 Lessons to Get Started Building AI Agents
+      21 Lessons, Get Started Building with Generative AI 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35199</span>
-						<span>🔱 11200</span>
+						<span>⭐ 95752</span>
+						<span>🔱 50082</span>
 					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Budibase/budibase" target="_blank">
-    
-
-
-      
-        Budibase /
-
-      budibase</a></p>
-				<p>
-      Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26354</span>
-						<span>🔱 1897</span>
-					</div>
-				<div class="stars-today">⭐ 243 stars today</div>
+				<div class="stars-today">⭐ 167 stars today</div>
 				</div>
 			</div>
 	
@@ -448,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 40629</span>
+						<span>⭐ 40668</span>
 						<span>🔱 4164</span>
 					</div>
 				<div class="stars-today">⭐ 339 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+    
+
+
+      
+        yt-dlp /
+
+      yt-dlp</a></p>
+				<p>
+      A feature-rich command-line audio/video downloader
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 123878</span>
+						<span>🔱 9877</span>
+					</div>
+				<div class="stars-today">⭐ 131 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rothgar/awesome-tuis" target="_blank">
+    
+
+
+      
+        rothgar /
+
+      awesome-tuis</a></p>
+				<p>
+      List of projects that provide terminal user interfaces
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 11099</span>
+						<span>🔱 430</span>
+					</div>
+				<div class="stars-today">⭐ 194 stars today</div>
 				</div>
 			</div>
 	

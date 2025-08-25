@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第35周
-date: 2025-08-25T09:58:35Z
+date: 2025-08-25T11:58:51Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 9944</span>
-						<span>🔱 736</span>
+						<span>⭐ 10035</span>
+						<span>🔱 744</span>
 					</div>
 				<div class="stars-today">⭐ 6633 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10654</span>
-						<span>🔱 1837</span>
-					</div>
-				<div class="stars-today">⭐ 3441 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12025</span>
-						<span>🔱 1397</span>
+						<span>⭐ 12046</span>
+						<span>🔱 1398</span>
 					</div>
 				<div class="stars-today">⭐ 4608 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
-    
-
-
-      
-        emcie-co /
-
-      parlant</a></p>
-				<p>
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7660</span>
-						<span>🔱 638</span>
-					</div>
-				<div class="stars-today">⭐ 3046 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6896</span>
-						<span>🔱 212</span>
+						<span>⭐ 6999</span>
+						<span>🔱 213</span>
 					</div>
 				<div class="stars-today">⭐ 1825 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leantime/leantime" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        Leantime /
+        coleam00 /
 
-      leantime</a></p>
+      Archon</a></p>
 				<p>
-      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 7421</span>
-						<span>🔱 739</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10672</span>
+						<span>🔱 1839</span>
 					</div>
-				<div class="stars-today">⭐ 1488 stars this week</div>
+				<div class="stars-today">⭐ 3441 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+    
+
+
+      
+        emcie-co /
+
+      parlant</a></p>
+				<p>
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7684</span>
+						<span>🔱 640</span>
+					</div>
+				<div class="stars-today">⭐ 3046 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6652</span>
-						<span>🔱 510</span>
+						<span>⭐ 6774</span>
+						<span>🔱 513</span>
 					</div>
 				<div class="stars-today">⭐ 1900 stars this week</div>
 				</div>
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2691</span>
-						<span>🔱 310</span>
+						<span>⭐ 2796</span>
+						<span>🔱 314</span>
 					</div>
 				<div class="stars-today">⭐ 1406 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Leantime/leantime" target="_blank">
+    
+
+
+      
+        Leantime /
+
+      leantime</a></p>
+				<p>
+      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 7435</span>
+						<span>🔱 741</span>
+					</div>
+				<div class="stars-today">⭐ 1488 stars this week</div>
 				</div>
 			</div>
 	
@@ -214,6 +214,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/firecrawl/firecrawl" target="_blank">
+    
+
+
+      
+        firecrawl /
+
+      firecrawl</a></p>
+				<p>
+      The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51829</span>
+						<span>🔱 4490</span>
+					</div>
+				<div class="stars-today">⭐ 3033 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
     
 
@@ -228,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3161</span>
+						<span>⭐ 3168</span>
 						<span>🔱 440</span>
 					</div>
 				<div class="stars-today">⭐ 611 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
-    
-
-
-      
-        PixiEditor /
-
-      PixiEditor</a></p>
-				<p>
-      PixiEditor is a Universal Editor for all your 2D needs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 5733</span>
-						<span>🔱 223</span>
-					</div>
-				<div class="stars-today">⭐ 1826 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 62305</span>
-						<span>🔱 7541</span>
-					</div>
-				<div class="stars-today">⭐ 3300 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SpecterOps/BloodHound" target="_blank">
-    
-
-
-      
-        SpecterOps /
-
-      BloodHound</a></p>
-				<p>
-      Six Degrees of Domain Admin
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2268</span>
-						<span>🔱 227</span>
-					</div>
-				<div class="stars-today">⭐ 316 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11042</span>
+						<span>⭐ 11043</span>
 						<span>🔱 1464</span>
 					</div>
 				<div class="stars-today">⭐ 397 stars this week</div>
@@ -324,24 +280,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
+				<p><a href="https://github.com/PixiEditor/PixiEditor" target="_blank">
     
 
 
       
-        dtyq /
+        PixiEditor /
 
-      magic</a></p>
+      PixiEditor</a></p>
 				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+      PixiEditor is a Universal Editor for all your 2D needs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 3479</span>
-						<span>🔱 336</span>
+						<span>🔠 C#</span>
+						<span>⭐ 5738</span>
+						<span>🔱 223</span>
 					</div>
-				<div class="stars-today">⭐ 1278 stars this week</div>
+				<div class="stars-today">⭐ 1826 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9179</span>
+						<span>🔱 2005</span>
+					</div>
+				<div class="stars-today">⭐ 707 stars this week</div>
 				</div>
 			</div>
 	
