@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-26
-date: 2025-08-26T09:58:35Z
+date: 2025-08-26T11:58:39Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10129</span>
+						<span>🔱 2083</span>
+					</div>
+				<div class="stars-today">⭐ 439 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
@@ -30,98 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8710</span>
-						<span>🔱 618</span>
+						<span>⭐ 8790</span>
+						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 690 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3879</span>
-						<span>🔱 395</span>
-					</div>
-				<div class="stars-today">⭐ 825 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
-    
-
-
-      
-        winapps-org /
-
-      winapps</a></p>
-				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 7465</span>
-						<span>🔱 225</span>
-					</div>
-				<div class="stars-today">⭐ 1850 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 10677</span>
-						<span>🔱 801</span>
-					</div>
-				<div class="stars-today">⭐ 1367 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
-    
-
-
-      
-        HunxByts /
-
-      GhostTrack</a></p>
-				<p>
-      Useful tool to track location or mobile number
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4901</span>
-						<span>🔱 569</span>
-					</div>
-				<div class="stars-today">⭐ 670 stars today</div>
 				</div>
 			</div>
 	
@@ -140,120 +74,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2358</span>
-						<span>🔱 276</span>
+						<span>⭐ 2371</span>
+						<span>🔱 277</span>
 					</div>
 				<div class="stars-today">⭐ 307 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/spotDL/spotify-downloader" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
     
 
 
       
-        spotDL /
+        HKUDS /
 
-      spotify-downloader</a></p>
+      DeepCode</a></p>
 				<p>
-      Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21630</span>
-						<span>🔱 1897</span>
+						<span>⭐ 3917</span>
+						<span>🔱 401</span>
 					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
+				<div class="stars-today">⭐ 825 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
     
 
 
       
-        anuraghazra /
+        TheAlgorithms /
 
-      github-readme-stats</a></p>
+      Java</a></p>
 				<p>
-      ⚡ Dynamically generated stats for your github readmes
+      All Algorithms implemented in Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 62975</span>
+						<span>🔱 20189</span>
+					</div>
+				<div class="stars-today">⭐ 128 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6689</span>
+						<span>🔱 508</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eythaann/Seelen-UI" target="_blank">
+    
+
+
+      
+        eythaann /
+
+      Seelen-UI</a></p>
+				<p>
+      The Fully Customizable Desktop Environment for Windows 10/11.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 10720</span>
+						<span>🔱 327</span>
+					</div>
+				<div class="stars-today">⭐ 278 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tw93/Pake" target="_blank">
+    
+
+
+      
+        tw93 /
+
+      Pake</a></p>
+				<p>
+      🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 75510</span>
-						<span>🔱 25749</span>
+						<span>⭐ 41313</span>
+						<span>🔱 7716</span>
 					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nn-zero-to-hero" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nn-zero-to-hero</a></p>
-				<p>
-      Neural Networks: Zero to Hero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15957</span>
-						<span>🔱 2224</span>
-					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9992</span>
-						<span>🔱 2075</span>
-					</div>
-				<div class="stars-today">⭐ 439 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 96070</span>
-						<span>🔱 50170</span>
-					</div>
-				<div class="stars-today">⭐ 185 stars today</div>
+				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
@@ -272,54 +206,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 41068</span>
-						<span>🔱 4178</span>
+						<span>⭐ 41108</span>
+						<span>🔱 4181</span>
 					</div>
 				<div class="stars-today">⭐ 494 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+				<p><a href="https://github.com/IBM/mcp-context-forge" target="_blank">
     
 
 
       
-        yt-dlp /
+        IBM /
 
-      yt-dlp</a></p>
+      mcp-context-forge</a></p>
 				<p>
-      A feature-rich command-line audio/video downloader
+      A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 124189</span>
-						<span>🔱 9898</span>
+						<span>⭐ 1727</span>
+						<span>🔱 216</span>
 					</div>
-				<div class="stars-today">⭐ 327 stars today</div>
+				<div class="stars-today">⭐ 121 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rothgar/awesome-tuis" target="_blank">
+				<p><a href="https://github.com/vanshb03/Summer2026-Internships" target="_blank">
     
 
 
       
-        rothgar /
+        vanshb03 /
 
-      awesome-tuis</a></p>
+      Summer2026-Internships</a></p>
 				<p>
-      List of projects that provide terminal user interfaces
+      Collection of Summer 2026 tech internships!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 11686</span>
-						<span>🔱 449</span>
+						<span>⭐ 6208</span>
+						<span>🔱 237</span>
 					</div>
-				<div class="stars-today">⭐ 173 stars today</div>
+				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opf/openproject" target="_blank">
+    
+
+
+      
+        opf /
+
+      openproject</a></p>
+				<p>
+      OpenProject is the leading open source project management software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 11840</span>
+						<span>🔱 2733</span>
+					</div>
+				<div class="stars-today">⭐ 48 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21669</span>
+						<span>🔱 1498</span>
+					</div>
+				<div class="stars-today">⭐ 65 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
+    
+
+
+      
+        HandsOnLLM /
+
+      Hands-On-Large-Language-Models</a></p>
+				<p>
+      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14478</span>
+						<span>🔱 3426</span>
+					</div>
+				<div class="stars-today">⭐ 69 stars today</div>
 				</div>
 			</div>
 	

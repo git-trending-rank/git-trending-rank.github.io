@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-26T09:58:35Z
+date: 2025-08-26T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
+    
+
+
+      
+        9001 /
+
+      copyparty</a></p>
+				<p>
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26791</span>
+						<span>🔱 973</span>
+					</div>
+				<div class="stars-today">⭐ 25362 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/coleam00/Archon" target="_blank">
@@ -30,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10794</span>
+						<span>⭐ 10799</span>
 						<span>🔱 1858</span>
 					</div>
 				<div class="stars-today">⭐ 5547 stars this month</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 10677</span>
-						<span>🔱 801</span>
+						<span>⭐ 10718</span>
+						<span>🔱 807</span>
 					</div>
 				<div class="stars-today">⭐ 8546 stars this month</div>
 				</div>
@@ -82,6 +104,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 7520</span>
+						<span>🔱 225</span>
+					</div>
+				<div class="stars-today">⭐ 4205 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
@@ -96,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12269</span>
-						<span>🔱 1423</span>
+						<span>⭐ 12284</span>
+						<span>🔱 1424</span>
 					</div>
 				<div class="stars-today">⭐ 6129 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15352</span>
-						<span>🔱 1148</span>
-					</div>
-				<div class="stars-today">⭐ 7826 stars this month</div>
 				</div>
 			</div>
 	
@@ -148,24 +170,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
     
 
 
       
-        winapps-org /
+        plait-board /
 
-      winapps</a></p>
+      drawnix</a></p>
 				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 7465</span>
-						<span>🔱 225</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8790</span>
+						<span>🔱 626</span>
 					</div>
-				<div class="stars-today">⭐ 4205 stars this month</div>
+				<div class="stars-today">⭐ 4257 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14592</span>
-						<span>🔱 1578</span>
+						<span>⭐ 14594</span>
+						<span>🔱 1579</span>
 					</div>
 				<div class="stars-today">⭐ 4749 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15370</span>
+						<span>🔱 1148</span>
+					</div>
+				<div class="stars-today">⭐ 7826 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51372</span>
-						<span>🔱 4832</span>
+						<span>⭐ 51378</span>
+						<span>🔱 4833</span>
 					</div>
 				<div class="stars-today">⭐ 5512 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+				<p><a href="https://github.com/openai/codex" target="_blank">
     
 
 
       
-        plait-board /
+        openai /
 
-      drawnix</a></p>
+      codex</a></p>
 				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+      Lightweight coding agent that runs in your terminal
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8710</span>
-						<span>🔱 618</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 36501</span>
+						<span>🔱 4196</span>
 					</div>
-				<div class="stars-today">⭐ 4257 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm</a></p>
-				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56342</span>
-						<span>🔱 9671</span>
-					</div>
-				<div class="stars-today">⭐ 3180 stars this month</div>
+				<div class="stars-today">⭐ 5169 stars this month</div>
 				</div>
 			</div>
 	
