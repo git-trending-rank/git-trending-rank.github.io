@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-27T13:58:47Z
+date: 2025-08-27T15:58:44Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 11080</span>
+						<span>⭐ 11110</span>
 						<span>🔱 854</span>
 					</div>
 				<div class="stars-today">⭐ 9129 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10910</span>
+						<span>⭐ 10920</span>
 						<span>🔱 1879</span>
 					</div>
 				<div class="stars-today">⭐ 5675 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13977</span>
-						<span>🔱 1360</span>
+						<span>⭐ 13986</span>
+						<span>🔱 1362</span>
 					</div>
 				<div class="stars-today">⭐ 11842 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27099</span>
-						<span>🔱 988</span>
+						<span>⭐ 27124</span>
+						<span>🔱 990</span>
 					</div>
 				<div class="stars-today">⭐ 25530 stars this month</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9335</span>
+						<span>⭐ 9374</span>
 						<span>🔱 670</span>
 					</div>
 				<div class="stars-today">⭐ 6084 stars this month</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 7778</span>
+						<span>⭐ 7790</span>
 						<span>🔱 232</span>
 					</div>
 				<div class="stars-today">⭐ 4660 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12461</span>
-						<span>🔱 1434</span>
+						<span>⭐ 12474</span>
+						<span>🔱 1441</span>
 					</div>
 				<div class="stars-today">⭐ 6345 stars this month</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3608</span>
+						<span>⭐ 3612</span>
 						<span>🔱 351</span>
 					</div>
 				<div class="stars-today">⭐ 2472 stars this month</div>
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14653</span>
+						<span>⭐ 14655</span>
 						<span>🔱 1590</span>
 					</div>
 				<div class="stars-today">⭐ 4803 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oraios/serena" target="_blank">
+    
+
+
+      
+        oraios /
+
+      serena</a></p>
+				<p>
+      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10116</span>
+						<span>🔱 700</span>
+					</div>
+				<div class="stars-today">⭐ 5169 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15558</span>
+						<span>⭐ 15574</span>
 						<span>🔱 1165</span>
 					</div>
 				<div class="stars-today">⭐ 7902 stars this month</div>
@@ -250,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36734</span>
+						<span>⭐ 36756</span>
 						<span>🔱 4223</span>
 					</div>
 				<div class="stars-today">⭐ 5315 stars this month</div>
