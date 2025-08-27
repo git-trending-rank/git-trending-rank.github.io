@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-27T09:58:43Z
+date: 2025-08-27T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
     
 
 
       
-        9001 /
+        moeru-ai /
 
-      copyparty</a></p>
+      airi</a></p>
 				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27062</span>
-						<span>🔱 986</span>
+						<span>🔠 Vue</span>
+						<span>⭐ 11061</span>
+						<span>🔱 852</span>
 					</div>
-				<div class="stars-today">⭐ 25530 stars this month</div>
+				<div class="stars-today">⭐ 9129 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10895</span>
-						<span>🔱 1877</span>
+						<span>⭐ 10901</span>
+						<span>🔱 1879</span>
 					</div>
 				<div class="stars-today">⭐ 5675 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 11031</span>
-						<span>🔱 847</span>
-					</div>
-				<div class="stars-today">⭐ 9129 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13962</span>
-						<span>🔱 1359</span>
+						<span>⭐ 13971</span>
+						<span>🔱 1360</span>
 					</div>
 				<div class="stars-today">⭐ 11842 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
+    
+
+
+      
+        9001 /
+
+      copyparty</a></p>
+				<p>
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27078</span>
+						<span>🔱 987</span>
+					</div>
+				<div class="stars-today">⭐ 25530 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+    
+
+
+      
+        plait-board /
+
+      drawnix</a></p>
+				<p>
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9296</span>
+						<span>🔱 665</span>
+					</div>
+				<div class="stars-today">⭐ 6084 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 7744</span>
+						<span>⭐ 7767</span>
 						<span>🔱 231</span>
 					</div>
 				<div class="stars-today">⭐ 4660 stars this month</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12435</span>
-						<span>🔱 1434</span>
+						<span>⭐ 12446</span>
+						<span>🔱 1433</span>
 					</div>
 				<div class="stars-today">⭐ 6345 stars this month</div>
 				</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3602</span>
+						<span>⭐ 3604</span>
 						<span>🔱 350</span>
 					</div>
 				<div class="stars-today">⭐ 2472 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
-    
-
-
-      
-        plait-board /
-
-      drawnix</a></p>
-				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9265</span>
-						<span>🔱 663</span>
-					</div>
-				<div class="stars-today">⭐ 6084 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14643</span>
-						<span>🔱 1587</span>
+						<span>⭐ 14647</span>
+						<span>🔱 1588</span>
 					</div>
 				<div class="stars-today">⭐ 4803 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15526</span>
-						<span>🔱 1163</span>
+						<span>⭐ 15537</span>
+						<span>🔱 1165</span>
 					</div>
 				<div class="stars-today">⭐ 7902 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51458</span>
-						<span>🔱 4840</span>
-					</div>
-				<div class="stars-today">⭐ 5309 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36683</span>
-						<span>🔱 4219</span>
+						<span>⭐ 36704</span>
+						<span>🔱 4221</span>
 					</div>
 				<div class="stars-today">⭐ 5315 stars this month</div>
 				</div>
