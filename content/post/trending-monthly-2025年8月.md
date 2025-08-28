@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-28T09:58:57Z
+date: 2025-08-28T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
+    
+
+
+      
+        charmbracelet /
+
+      crush</a></p>
+				<p>
+      The glamourous AI coding agent for your favourite terminal 💘
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 10939</span>
+						<span>🔱 532</span>
+					</div>
+				<div class="stars-today">⭐ 10945 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 11393</span>
-						<span>🔱 882</span>
+						<span>⭐ 11412</span>
+						<span>🔱 884</span>
 					</div>
 				<div class="stars-today">⭐ 9454 stars this month</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11000</span>
-						<span>🔱 1890</span>
+						<span>⭐ 11010</span>
+						<span>🔱 1892</span>
 					</div>
 				<div class="stars-today">⭐ 5775 stars this month</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14039</span>
+						<span>⭐ 14045</span>
 						<span>🔱 1373</span>
 					</div>
 				<div class="stars-today">⭐ 11898 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
-    
-
-
-      
-        9001 /
-
-      copyparty</a></p>
-				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27265</span>
-						<span>🔱 1010</span>
-					</div>
-				<div class="stars-today">⭐ 24829 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9678</span>
-						<span>🔱 697</span>
+						<span>⭐ 9694</span>
+						<span>🔱 698</span>
 					</div>
 				<div class="stars-today">⭐ 6585 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
-    
-
-
-      
-        winapps-org /
-
-      winapps</a></p>
-				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 7903</span>
-						<span>🔱 235</span>
-					</div>
-				<div class="stars-today">⭐ 4889 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12561</span>
+						<span>⭐ 12567</span>
 						<span>🔱 1452</span>
 					</div>
 				<div class="stars-today">⭐ 6451 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
+    
+
+
+      
+        9001 /
+
+      copyparty</a></p>
+				<p>
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27285</span>
+						<span>🔱 1010</span>
+					</div>
+				<div class="stars-today">⭐ 24829 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 7919</span>
+						<span>🔱 235</span>
+					</div>
+				<div class="stars-today">⭐ 4889 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3648</span>
+						<span>⭐ 3653</span>
 						<span>🔱 359</span>
 					</div>
 				<div class="stars-today">⭐ 2533 stars this month</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14688</span>
-						<span>🔱 1591</span>
+						<span>⭐ 14693</span>
+						<span>🔱 1592</span>
 					</div>
 				<div class="stars-today">⭐ 4841 stars this month</div>
 				</div>
@@ -228,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10225</span>
-						<span>🔱 713</span>
+						<span>⭐ 10241</span>
+						<span>🔱 714</span>
 					</div>
 				<div class="stars-today">⭐ 5169 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15697</span>
-						<span>🔱 1175</span>
-					</div>
-				<div class="stars-today">⭐ 7974 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36955</span>
+						<span>⭐ 36976</span>
 						<span>🔱 4244</span>
 					</div>
 				<div class="stars-today">⭐ 5517 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14783</span>
+						<span>🔱 2584</span>
+					</div>
+				<div class="stars-today">⭐ 5320 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15710</span>
+						<span>🔱 1174</span>
+					</div>
+				<div class="stars-today">⭐ 7974 stars this month</div>
 				</div>
 			</div>
 	

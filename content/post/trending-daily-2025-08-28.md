@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-28
-date: 2025-08-28T09:58:58Z
+date: 2025-08-28T11:58:46Z
 categories:
 - daily
 keywords:
@@ -30,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14570</span>
-						<span>🔱 2570</span>
+						<span>⭐ 14783</span>
+						<span>🔱 2584</span>
 					</div>
 				<div class="stars-today">⭐ 2634 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
     
 
 
       
-        plait-board /
+        Canner /
 
-      drawnix</a></p>
+      WrenAI</a></p>
 				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9678</span>
-						<span>🔱 697</span>
+						<span>⭐ 10078</span>
+						<span>🔱 1035</span>
 					</div>
-				<div class="stars-today">⭐ 510 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server & Web Interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1768</span>
-						<span>🔱 223</span>
-					</div>
-				<div class="stars-today">⭐ 160 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/terminal" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      terminal</a></p>
-				<p>
-      The new Windows Terminal and the original Windows console host, all in the same place!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 99488</span>
-						<span>🔱 8709</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
+				<div class="stars-today">⭐ 84 stars today</div>
 				</div>
 			</div>
 	
@@ -118,120 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29526</span>
-						<span>🔱 2037</span>
+						<span>⭐ 29544</span>
+						<span>🔱 2038</span>
 					</div>
 				<div class="stars-today">⭐ 104 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nn-zero-to-hero" target="_blank">
+				<p><a href="https://github.com/chroma-core/chroma" target="_blank">
     
 
 
       
-        karpathy /
+        chroma-core /
 
-      nn-zero-to-hero</a></p>
+      chroma</a></p>
 				<p>
-      Neural Networks: Zero to Hero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16746</span>
-						<span>🔱 2287</span>
-					</div>
-				<div class="stars-today">⭐ 399 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/santinic/audiblez" target="_blank">
-    
-
-
-      
-        santinic /
-
-      audiblez</a></p>
-				<p>
-      Generate audiobooks from e-books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4857</span>
-						<span>🔱 323</span>
-					</div>
-				<div class="stars-today">⭐ 55 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/googleapis/genai-toolbox" target="_blank">
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox</a></p>
-				<p>
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10038</span>
-						<span>🔱 768</span>
-					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenPipe/ART" target="_blank">
-    
-
-
-      
-        OpenPipe /
-
-      ART</a></p>
-				<p>
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6283</span>
-						<span>🔱 390</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eythaann/Seelen-UI" target="_blank">
-    
-
-
-      
-        eythaann /
-
-      Seelen-UI</a></p>
-				<p>
-      The Fully Customizable Desktop Environment for Windows 10/11.
+      Open-source search and retrieval database for AI applications.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11664</span>
-						<span>🔱 359</span>
+						<span>⭐ 22243</span>
+						<span>🔱 1753</span>
 					</div>
-				<div class="stars-today">⭐ 526 stars today</div>
+				<div class="stars-today">⭐ 138 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +118,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 173061</span>
-						<span>🔱 79133</span>
+						<span>⭐ 173064</span>
+						<span>🔱 79136</span>
 					</div>
 				<div class="stars-today">⭐ 25 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/willccbb/verifiers" target="_blank">
+				<p><a href="https://github.com/santinic/audiblez" target="_blank">
     
 
 
       
-        willccbb /
+        santinic /
 
-      verifiers</a></p>
+      audiblez</a></p>
 				<p>
-      Verifiers for LLM Reinforcement Learning
+      Generate audiobooks from e-books
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2693</span>
-						<span>🔱 295</span>
+						<span>⭐ 4894</span>
+						<span>🔱 323</span>
 					</div>
-				<div class="stars-today">⭐ 180 stars today</div>
+				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/spf13/cobra" target="_blank">
+				<p><a href="https://github.com/karpathy/nn-zero-to-hero" target="_blank">
     
 
 
       
-        spf13 /
+        karpathy /
 
-      cobra</a></p>
+      nn-zero-to-hero</a></p>
 				<p>
-      A Commander for modern Go CLI interactions
+      Neural Networks: Zero to Hero
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16774</span>
+						<span>🔱 2290</span>
+					</div>
+				<div class="stars-today">⭐ 399 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hashicorp/terraform" target="_blank">
+    
+
+
+      
+        hashicorp /
+
+      terraform</a></p>
+				<p>
+      Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 41654</span>
-						<span>🔱 2985</span>
+						<span>⭐ 46242</span>
+						<span>🔱 9991</span>
 					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7061</span>
+						<span>🔱 522</span>
+					</div>
+				<div class="stars-today">⭐ 252 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/terminal" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      terminal</a></p>
+				<p>
+      The new Windows Terminal and the original Windows console host, all in the same place!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 99500</span>
+						<span>🔱 8711</span>
+					</div>
+				<div class="stars-today">⭐ 44 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opf/openproject" target="_blank">
+    
+
+
+      
+        opf /
+
+      openproject</a></p>
+				<p>
+      OpenProject is the leading open source project management software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 12123</span>
+						<span>🔱 2756</span>
+					</div>
+				<div class="stars-today">⭐ 200 stars today</div>
 				</div>
 			</div>
 	
