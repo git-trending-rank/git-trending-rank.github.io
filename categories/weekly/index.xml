@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 28 Aug 2025 09:58:58 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Aug 2025 11:58:46 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第35周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC35%E5%91%A8/</link>
-        <pubDate>Thu, 28 Aug 2025 09:58:58 +0000</pubDate>
+        <pubDate>Thu, 28 Aug 2025 11:58:46 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC35%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Vue&lt;/span&gt;
-						&lt;span&gt;⭐ 11393&lt;/span&gt;
-						&lt;span&gt;🔱 882&lt;/span&gt;
+						&lt;span&gt;⭐ 11412&lt;/span&gt;
+						&lt;span&gt;🔱 884&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7949 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/asgeirtj/system_prompts_leaks&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 14783&lt;/span&gt;
+						&lt;span&gt;🔱 2584&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4411 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9678&lt;/span&gt;
-						&lt;span&gt;🔱 697&lt;/span&gt;
+						&lt;span&gt;⭐ 9694&lt;/span&gt;
+						&lt;span&gt;🔱 698&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4852 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -77,54 +99,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 7903&lt;/span&gt;
+						&lt;span&gt;⭐ 7919&lt;/span&gt;
 						&lt;span&gt;🔱 235&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4096 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/simstudioai/sim&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        simstudioai /
-
-      sim&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Sim is an open-source AI agent workflow builder. Sim&#39;s interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12561&lt;/span&gt;
-						&lt;span&gt;🔱 1452&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4657 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/asgeirtj/system_prompts_leaks&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14570&lt;/span&gt;
-						&lt;span&gt;🔱 2570&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4411 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,10 +121,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4353&lt;/span&gt;
+						&lt;span&gt;⭐ 4362&lt;/span&gt;
 						&lt;span&gt;🔱 445&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3301 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/simstudioai/sim&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        simstudioai /
+
+      sim&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Sim is an open-source AI agent workflow builder. Sim&#39;s interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 12567&lt;/span&gt;
+						&lt;span&gt;🔱 1452&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4657 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,7 +165,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 36938&lt;/span&gt;
+						&lt;span&gt;⭐ 36939&lt;/span&gt;
 						&lt;span&gt;🔱 10489&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 325 stars this week&lt;/div&gt;
@@ -187,142 +187,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 PHP&lt;/span&gt;
-						&lt;span&gt;⭐ 7642&lt;/span&gt;
+						&lt;span&gt;⭐ 7643&lt;/span&gt;
 						&lt;span&gt;🔱 746&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1720 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Budibase/budibase&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Budibase /
-
-      budibase&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 26531&lt;/span&gt;
-						&lt;span&gt;🔱 1917&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1070 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/firecrawl/firecrawl&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        firecrawl /
-
-      firecrawl&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 52826&lt;/span&gt;
-						&lt;span&gt;🔱 4542&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2955 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/epicenter-so/epicenter&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        epicenter-so /
-
-      epicenter&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2895&lt;/span&gt;
-						&lt;span&gt;🔱 169&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 590 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/qlib&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      qlib&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 29079&lt;/span&gt;
-						&lt;span&gt;🔱 4492&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 474 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/puckeditor/puck&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        puckeditor /
-
-      puck&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The visual editor for React
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8926&lt;/span&gt;
-						&lt;span&gt;🔱 585&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1355 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bytebot-ai/bytebot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        bytebot-ai /
-
-      bytebot&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2688&lt;/span&gt;
-						&lt;span&gt;🔱 217&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 467 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -341,7 +209,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7047&lt;/span&gt;
+						&lt;span&gt;⭐ 7061&lt;/span&gt;
 						&lt;span&gt;🔱 522&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 511 stars this week&lt;/div&gt;
@@ -349,46 +217,134 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bitwarden/clients&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Budibase/budibase&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        bitwarden /
+        Budibase /
 
-      clients&lt;/a&gt;&lt;/p&gt;
+      budibase&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Bitwarden client apps (web, browser extension, desktop, and cli).
+      Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11108&lt;/span&gt;
-						&lt;span&gt;🔱 1469&lt;/span&gt;
+						&lt;span&gt;⭐ 26534&lt;/span&gt;
+						&lt;span&gt;🔱 1917&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 438 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1070 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/emcie-co/parlant&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/puckeditor/puck&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        emcie-co /
+        puckeditor /
 
-      parlant&lt;/a&gt;&lt;/p&gt;
+      puck&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+      The visual editor for React
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 8936&lt;/span&gt;
+						&lt;span&gt;🔱 585&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1355 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/qlib&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      qlib&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&amp;D process.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8150&lt;/span&gt;
-						&lt;span&gt;🔱 673&lt;/span&gt;
+						&lt;span&gt;⭐ 29087&lt;/span&gt;
+						&lt;span&gt;🔱 4492&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1004 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 474 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/louislam/uptime-kuma&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        louislam /
+
+      uptime-kuma&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A fancy self-hosted monitoring tool
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 74248&lt;/span&gt;
+						&lt;span&gt;🔱 6577&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 724 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/psygreg/linuxtoys&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        psygreg /
+
+      linuxtoys&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of tools for Linux in a user-friendly way.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 623&lt;/span&gt;
+						&lt;span&gt;🔱 35&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 130 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/firecrawl/firecrawl&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        firecrawl /
+
+      firecrawl&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 52868&lt;/span&gt;
+						&lt;span&gt;🔱 4544&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2955 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 28 Aug 2025 09:58:58 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 28 Aug 2025 11:58:46 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-08-28</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-08-28/</link>
-        <pubDate>Thu, 28 Aug 2025 09:58:58 +0000</pubDate>
+        <pubDate>Thu, 28 Aug 2025 11:58:46 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-08-28/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,76 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14570&lt;/span&gt;
-						&lt;span&gt;🔱 2570&lt;/span&gt;
+						&lt;span&gt;⭐ 14783&lt;/span&gt;
+						&lt;span&gt;🔱 2584&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2634 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/plait-board/drawnix&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Canner/WrenAI&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        plait-board /
+        Canner /
 
-      drawnix&lt;/a&gt;&lt;/p&gt;
+      WrenAI&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9678&lt;/span&gt;
-						&lt;span&gt;🔱 697&lt;/span&gt;
+						&lt;span&gt;⭐ 10078&lt;/span&gt;
+						&lt;span&gt;🔱 1035&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 510 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/QuentinFuxa/WhisperLiveKit&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Python package for Real-time, Local Speech-to-Text and Speaker Diarization. FastAPI Server &amp; Web Interface
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1768&lt;/span&gt;
-						&lt;span&gt;🔱 223&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 160 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/terminal&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      terminal&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The new Windows Terminal and the original Windows console host, all in the same place!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 99488&lt;/span&gt;
-						&lt;span&gt;🔱 8709&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 44 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 84 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,120 +77,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 29526&lt;/span&gt;
-						&lt;span&gt;🔱 2037&lt;/span&gt;
+						&lt;span&gt;⭐ 29544&lt;/span&gt;
+						&lt;span&gt;🔱 2038&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 104 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/karpathy/nn-zero-to-hero&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/chroma-core/chroma&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        karpathy /
+        chroma-core /
 
-      nn-zero-to-hero&lt;/a&gt;&lt;/p&gt;
+      chroma&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Neural Networks: Zero to Hero
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16746&lt;/span&gt;
-						&lt;span&gt;🔱 2287&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 399 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/santinic/audiblez&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        santinic /
-
-      audiblez&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Generate audiobooks from e-books
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4857&lt;/span&gt;
-						&lt;span&gt;🔱 323&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 55 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/googleapis/genai-toolbox&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        googleapis /
-
-      genai-toolbox&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      MCP Toolbox for Databases is an open source MCP server for databases.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 10038&lt;/span&gt;
-						&lt;span&gt;🔱 768&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 121 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenPipe/ART&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        OpenPipe /
-
-      ART&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, and more!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6283&lt;/span&gt;
-						&lt;span&gt;🔱 390&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 74 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/eythaann/Seelen-UI&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        eythaann /
-
-      Seelen-UI&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Fully Customizable Desktop Environment for Windows 10/11.
+      Open-source search and retrieval database for AI applications.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 11664&lt;/span&gt;
-						&lt;span&gt;🔱 359&lt;/span&gt;
+						&lt;span&gt;⭐ 22243&lt;/span&gt;
+						&lt;span&gt;🔱 1753&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 526 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 138 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,54 +121,142 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 MDX&lt;/span&gt;
-						&lt;span&gt;⭐ 173061&lt;/span&gt;
-						&lt;span&gt;🔱 79133&lt;/span&gt;
+						&lt;span&gt;⭐ 173064&lt;/span&gt;
+						&lt;span&gt;🔱 79136&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/willccbb/verifiers&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/santinic/audiblez&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        willccbb /
+        santinic /
 
-      verifiers&lt;/a&gt;&lt;/p&gt;
+      audiblez&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Verifiers for LLM Reinforcement Learning
+      Generate audiobooks from e-books
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2693&lt;/span&gt;
-						&lt;span&gt;🔱 295&lt;/span&gt;
+						&lt;span&gt;⭐ 4894&lt;/span&gt;
+						&lt;span&gt;🔱 323&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 180 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 55 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/karpathy/nn-zero-to-hero&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        spf13 /
+        karpathy /
 
-      cobra&lt;/a&gt;&lt;/p&gt;
+      nn-zero-to-hero&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A Commander for modern Go CLI interactions
+      Neural Networks: Zero to Hero
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 16774&lt;/span&gt;
+						&lt;span&gt;🔱 2290&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 399 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hashicorp/terraform&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hashicorp /
+
+      terraform&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 41654&lt;/span&gt;
-						&lt;span&gt;🔱 2985&lt;/span&gt;
+						&lt;span&gt;⭐ 46242&lt;/span&gt;
+						&lt;span&gt;🔱 9991&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 27 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/MODSetter/SurfSense&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        MODSetter /
+
+      SurfSense&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7061&lt;/span&gt;
+						&lt;span&gt;🔱 522&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 252 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/terminal&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      terminal&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The new Windows Terminal and the original Windows console host, all in the same place!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 99500&lt;/span&gt;
+						&lt;span&gt;🔱 8711&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 44 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/opf/openproject&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        opf /
+
+      openproject&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      OpenProject is the leading open source project management software.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Ruby&lt;/span&gt;
+						&lt;span&gt;⭐ 12123&lt;/span&gt;
+						&lt;span&gt;🔱 2756&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 200 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
