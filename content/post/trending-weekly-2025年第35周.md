@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第35周
-date: 2025-08-29T09:58:41Z
+date: 2025-08-29T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 11663</span>
-						<span>🔱 913</span>
-					</div>
-				<div class="stars-today">⭐ 6729 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16765</span>
-						<span>🔱 2781</span>
+						<span>⭐ 16886</span>
+						<span>🔱 2788</span>
 					</div>
 				<div class="stars-today">⭐ 6616 stars this week</div>
 				</div>
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9823</span>
-						<span>🔱 711</span>
+						<span>⭐ 9830</span>
+						<span>🔱 712</span>
 					</div>
 				<div class="stars-today">⭐ 5130 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 11685</span>
+						<span>🔱 913</span>
+					</div>
+				<div class="stars-today">⭐ 6729 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8000</span>
+						<span>⭐ 8007</span>
 						<span>🔱 238</span>
 					</div>
 				<div class="stars-today">⭐ 4227 stars this week</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4428</span>
-						<span>🔱 454</span>
+						<span>⭐ 4436</span>
+						<span>🔱 455</span>
 					</div>
 				<div class="stars-today">⭐ 3300 stars this week</div>
 				</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12825</span>
-						<span>🔱 1494</span>
+						<span>⭐ 12850</span>
+						<span>🔱 1496</span>
 					</div>
 				<div class="stars-today">⭐ 3259 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7272</span>
+						<span>🔱 534</span>
+					</div>
+				<div class="stars-today">⭐ 615 stars this week</div>
 				</div>
 			</div>
 	
@@ -170,50 +192,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leantime/leantime" target="_blank">
-    
-
-
-      
-        Leantime /
-
-      leantime</a></p>
-				<p>
-      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 7715</span>
-						<span>🔱 749</span>
-					</div>
-				<div class="stars-today">⭐ 1342 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7257</span>
-						<span>🔱 534</span>
-					</div>
-				<div class="stars-today">⭐ 615 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/Budibase/budibase" target="_blank">
     
 
@@ -228,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26586</span>
+						<span>⭐ 26589</span>
 						<span>🔱 1921</span>
 					</div>
 				<div class="stars-today">⭐ 1067 stars this week</div>
@@ -250,10 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9036</span>
+						<span>⭐ 9038</span>
 						<span>🔱 587</span>
 					</div>
 				<div class="stars-today">⭐ 1444 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
+    
+
+
+      
+        TheAlgorithms /
+
+      Java</a></p>
+				<p>
+      All Algorithms implemented in Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 63151</span>
+						<span>🔱 20218</span>
+					</div>
+				<div class="stars-today">⭐ 410 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+    
+
+
+      
+        twbs /
+
+      bootstrap</a></p>
+				<p>
+      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 173180</span>
+						<span>🔱 79143</span>
+					</div>
+				<div class="stars-today">⭐ 286 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codexu/note-gen" target="_blank">
+    
+
+
+      
+        codexu /
+
+      note-gen</a></p>
+				<p>
+      A cross-platform Markdown AI note-taking software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8156</span>
+						<span>🔱 542</span>
+					</div>
+				<div class="stars-today">⭐ 390 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,76 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29190</span>
-						<span>🔱 4506</span>
+						<span>⭐ 29195</span>
+						<span>🔱 4507</span>
 					</div>
 				<div class="stars-today">⭐ 522 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
+				<p><a href="https://github.com/Leantime/leantime" target="_blank">
     
 
 
       
-        louislam /
+        Leantime /
 
-      uptime-kuma</a></p>
+      leantime</a></p>
 				<p>
-      A fancy self-hosted monitoring tool
+      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 74357</span>
-						<span>🔱 6585</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 7722</span>
+						<span>🔱 749</span>
 					</div>
-				<div class="stars-today">⭐ 746 stars this week</div>
+				<div class="stars-today">⭐ 1342 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/psygreg/linuxtoys" target="_blank">
+				<p><a href="https://github.com/Arindam200/awesome-ai-apps" target="_blank">
     
 
 
       
-        psygreg /
+        Arindam200 /
 
-      linuxtoys</a></p>
+      awesome-ai-apps</a></p>
 				<p>
-      A collection of tools for Linux in a user-friendly way.
+      A collection of projects showcasing RAG, agents, workflows, and other AI use cases
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 666</span>
-						<span>🔱 36</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4335</span>
+						<span>🔱 561</span>
 					</div>
-				<div class="stars-today">⭐ 134 stars this week</div>
+				<div class="stars-today">⭐ 1099 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/firecrawl/firecrawl" target="_blank">
+				<p><a href="https://github.com/microsoft/terminal" target="_blank">
     
 
 
       
-        firecrawl /
+        microsoft /
 
-      firecrawl</a></p>
+      terminal</a></p>
 				<p>
-      The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data 🔥
+      The new Windows Terminal and the original Windows console host, all in the same place!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 53222</span>
-						<span>🔱 4577</span>
+						<span>🔠 C++</span>
+						<span>⭐ 99644</span>
+						<span>🔱 8719</span>
 					</div>
-				<div class="stars-today">⭐ 2735 stars this week</div>
+				<div class="stars-today">⭐ 319 stars this week</div>
 				</div>
 			</div>
 	

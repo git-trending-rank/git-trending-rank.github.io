@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-08-29
-date: 2025-08-29T09:58:41Z
+date: 2025-08-29T11:58:37Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
     
 
 
       
-        asgeirtj /
+        QuentinFuxa /
 
-      system_prompts_leaks</a></p>
+      WhisperLiveKit</a></p>
 				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16765</span>
-						<span>🔱 2781</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2054</span>
+						<span>🔱 239</span>
 					</div>
-				<div class="stars-today">⭐ 2084 stars today</div>
+				<div class="stars-today">⭐ 640 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/mcp" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      mcp</a></p>
+				<p>
+      Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 622</span>
+						<span>🔱 91</span>
+					</div>
+				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
 			</div>
 	
@@ -52,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10588</span>
-						<span>🔱 1077</span>
+						<span>⭐ 10623</span>
+						<span>🔱 1078</span>
 					</div>
 				<div class="stars-today">⭐ 120 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/firecracker-microvm/firecracker" target="_blank">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
     
 
 
       
-        firecracker-microvm /
+        OpenBMB /
 
-      firecracker</a></p>
+      MiniCPM-V</a></p>
 				<p>
-      Secure and fast microVMs for serverless computing.
+      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and Video Understanding on Your Phone
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29780</span>
-						<span>🔱 2052</span>
+						<span>🔠 Python</span>
+						<span>⭐ 20372</span>
+						<span>🔱 1489</span>
 					</div>
-				<div class="stars-today">⭐ 267 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chroma-core/chroma" target="_blank">
-    
-
-
-      
-        chroma-core /
-
-      chroma</a></p>
-				<p>
-      Open-source search and retrieval database for AI applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22569</span>
-						<span>🔱 1768</span>
-					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
+				<div class="stars-today">⭐ 75 stars today</div>
 				</div>
 			</div>
 	
@@ -118,98 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 173167</span>
-						<span>🔱 79145</span>
+						<span>⭐ 173180</span>
+						<span>🔱 79143</span>
 					</div>
 				<div class="stars-today">⭐ 157 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/santinic/audiblez" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
     
 
 
       
-        santinic /
+        TheAlgorithms /
 
-      audiblez</a></p>
+      Python</a></p>
 				<p>
-      Generate audiobooks from e-books
+      All Algorithms implemented in Python
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5252</span>
-						<span>🔱 342</span>
+						<span>⭐ 204984</span>
+						<span>🔱 47529</span>
 					</div>
-				<div class="stars-today">⭐ 474 stars today</div>
+				<div class="stars-today">⭐ 214 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nn-zero-to-hero" target="_blank">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
     
 
 
       
-        karpathy /
+        humanlayer /
 
-      nn-zero-to-hero</a></p>
+      humanlayer</a></p>
 				<p>
-      Neural Networks: Zero to Hero
+      HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17060</span>
-						<span>🔱 2307</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1332</span>
+						<span>🔱 136</span>
 					</div>
-				<div class="stars-today">⭐ 413 stars today</div>
+				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hashicorp/terraform" target="_blank">
+				<p><a href="https://github.com/nats-io/nats-server" target="_blank">
     
 
 
       
-        hashicorp /
+        nats-io /
 
-      terraform</a></p>
+      nats-server</a></p>
 				<p>
-      Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+      High-Performance server for NATS.io, the cloud and edge native messaging system.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 46350</span>
-						<span>🔱 10004</span>
+						<span>⭐ 17921</span>
+						<span>🔱 1623</span>
 					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
+				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+				<p><a href="https://github.com/spf13/cobra" target="_blank">
     
 
 
       
-        MODSetter /
+        spf13 /
 
-      SurfSense</a></p>
+      cobra</a></p>
 				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+      A Commander for modern Go CLI interactions
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7257</span>
-						<span>🔱 534</span>
+						<span>🔠 Go</span>
+						<span>⭐ 41670</span>
+						<span>🔱 2984</span>
 					</div>
-				<div class="stars-today">⭐ 101 stars today</div>
+				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 99633</span>
+						<span>⭐ 99644</span>
 						<span>🔱 8719</span>
 					</div>
 				<div class="stars-today">⭐ 168 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16886</span>
+						<span>🔱 2788</span>
+					</div>
+				<div class="stars-today">⭐ 2084 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mercurjs/mercur" target="_blank">
+    
+
+
+      
+        mercurjs /
+
+      mercur</a></p>
+				<p>
+      Open-source multi-vendor marketplace platform for B2B & B2C. Built on top of MedusaJS. Create your own custom marketplace. 🛍️ 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 703</span>
+						<span>🔱 155</span>
+					</div>
+				<div class="stars-today">⭐ 55 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/transformerlab/transformerlab-app" target="_blank">
+    
+
+
+      
+        transformerlab /
+
+      transformerlab-app</a></p>
+				<p>
+      Open Source Application for Advanced LLM + Diffusion Engineering: interact, train, fine-tune, and evaluate large language models on your own computer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3942</span>
+						<span>🔱 365</span>
+					</div>
+				<div class="stars-today">⭐ 49 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 12346</span>
-						<span>🔱 2769</span>
+						<span>⭐ 12361</span>
+						<span>🔱 2770</span>
 					</div>
 				<div class="stars-today">⭐ 39 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 25020</span>
+						<span>🔱 3923</span>
+					</div>
+				<div class="stars-today">⭐ 519 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 96575</span>
+						<span>🔱 14188</span>
+					</div>
+				<div class="stars-today">⭐ 96 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 60714</span>
+						<span>🔱 6614</span>
+					</div>
+				<div class="stars-today">⭐ 295 stars today</div>
 				</div>
 			</div>
 	

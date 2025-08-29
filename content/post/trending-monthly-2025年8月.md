@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-29T09:58:41Z
+date: 2025-08-29T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        charmbracelet /
+        coleam00 /
 
-      crush</a></p>
+      Archon</a></p>
 				<p>
-      The glamourous AI coding agent for your favourite terminal 💘
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11103</span>
-						<span>🔱 538</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11114</span>
+						<span>🔱 1916</span>
 					</div>
-				<div class="stars-today">⭐ 10978 stars this month</div>
+				<div class="stars-today">⭐ 5872 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 11663</span>
+						<span>⭐ 11685</span>
 						<span>🔱 913</span>
 					</div>
 				<div class="stars-today">⭐ 9789 stars this month</div>
@@ -60,24 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
     
 
 
       
-        coleam00 /
+        charmbracelet /
 
-      Archon</a></p>
+      crush</a></p>
 				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+      The glamourous AI coding agent for your favourite terminal 💘
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11099</span>
-						<span>🔱 1915</span>
+						<span>🔠 Go</span>
+						<span>⭐ 11112</span>
+						<span>🔱 539</span>
 					</div>
-				<div class="stars-today">⭐ 5872 stars this month</div>
+				<div class="stars-today">⭐ 10978 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14099</span>
+						<span>⭐ 14104</span>
 						<span>🔱 1388</span>
 					</div>
 				<div class="stars-today">⭐ 11940 stars this month</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9823</span>
-						<span>🔱 711</span>
+						<span>⭐ 9830</span>
+						<span>🔱 712</span>
 					</div>
 				<div class="stars-today">⭐ 6781 stars this month</div>
 				</div>
@@ -140,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12825</span>
-						<span>🔱 1494</span>
+						<span>⭐ 12850</span>
+						<span>🔱 1496</span>
 					</div>
 				<div class="stars-today">⭐ 6510 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        9001 /
+        asgeirtj /
 
-      copyparty</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27552</span>
-						<span>🔱 1032</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16886</span>
+						<span>🔱 2788</span>
 					</div>
-				<div class="stars-today">⭐ 22661 stars this month</div>
+				<div class="stars-today">⭐ 7165 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8000</span>
+						<span>⭐ 8007</span>
 						<span>🔱 238</span>
 					</div>
 				<div class="stars-today">⭐ 5024 stars this month</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3699</span>
+						<span>⭐ 3703</span>
 						<span>🔱 363</span>
 					</div>
 				<div class="stars-today">⭐ 2577 stars this month</div>
@@ -236,28 +236,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/oraios/serena" target="_blank">
-    
-
-
-      
-        oraios /
-
-      serena</a></p>
-				<p>
-      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10352</span>
-						<span>🔱 720</span>
-					</div>
-				<div class="stars-today">⭐ 5221 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/openai/codex" target="_blank">
     
 
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37216</span>
+						<span>⭐ 37239</span>
 						<span>🔱 4270</span>
 					</div>
 				<div class="stars-today">⭐ 5734 stars this month</div>
@@ -280,24 +258,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
     
 
 
       
-        asgeirtj /
+        9001 /
 
-      system_prompts_leaks</a></p>
+      copyparty</a></p>
 				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16765</span>
-						<span>🔱 2781</span>
+						<span>🔠 Python</span>
+						<span>⭐ 27573</span>
+						<span>🔱 1032</span>
 					</div>
-				<div class="stars-today">⭐ 7165 stars this month</div>
+				<div class="stars-today">⭐ 22661 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oraios/serena" target="_blank">
+    
+
+
+      
+        oraios /
+
+      serena</a></p>
+				<p>
+      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10363</span>
+						<span>🔱 721</span>
+					</div>
+				<div class="stars-today">⭐ 5221 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15837</span>
-						<span>🔱 1186</span>
+						<span>⭐ 15853</span>
+						<span>🔱 1188</span>
 					</div>
 				<div class="stars-today">⭐ 7738 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp</a></p>
+				<p>
+      LLM inference in C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 85706</span>
+						<span>🔱 12860</span>
+					</div>
+				<div class="stars-today">⭐ 2326 stars this month</div>
 				</div>
 			</div>
 	
