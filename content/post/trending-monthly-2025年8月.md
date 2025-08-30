@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-30T09:58:37Z
+date: 2025-08-30T11:58:45Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11186</span>
+						<span>⭐ 11189</span>
 						<span>🔱 1930</span>
 					</div>
 				<div class="stars-today">⭐ 5980 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 11824</span>
-						<span>🔱 933</span>
+						<span>⭐ 11841</span>
+						<span>🔱 935</span>
 					</div>
 				<div class="stars-today">⭐ 10025 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
-    
-
-
-      
-        charmbracelet /
-
-      crush</a></p>
-				<p>
-      The glamourous AI coding agent for your favourite terminal 💘
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11235</span>
-						<span>🔱 547</span>
-					</div>
-				<div class="stars-today">⭐ 11145 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14150</span>
-						<span>🔱 1390</span>
+						<span>⭐ 14155</span>
+						<span>🔱 1391</span>
 					</div>
 				<div class="stars-today">⭐ 11971 stars this month</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9904</span>
-						<span>🔱 719</span>
+						<span>⭐ 9923</span>
+						<span>🔱 721</span>
 					</div>
 				<div class="stars-today">⭐ 6830 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
+    
+
+
+      
+        charmbracelet /
+
+      crush</a></p>
+				<p>
+      The glamourous AI coding agent for your favourite terminal 💘
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 11251</span>
+						<span>🔱 548</span>
+					</div>
+				<div class="stars-today">⭐ 11145 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13017</span>
-						<span>🔱 1518</span>
+						<span>⭐ 13043</span>
+						<span>🔱 1519</span>
 					</div>
 				<div class="stars-today">⭐ 6780 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17246</span>
-						<span>🔱 2816</span>
+						<span>⭐ 17270</span>
+						<span>🔱 2818</span>
 					</div>
 				<div class="stars-today">⭐ 9005 stars this month</div>
 				</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8098</span>
-						<span>🔱 244</span>
+						<span>⭐ 8116</span>
+						<span>🔱 245</span>
 					</div>
 				<div class="stars-today">⭐ 5101 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
-    
-
-
-      
-        dtyq /
-
-      magic</a></p>
-				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 3726</span>
-						<span>🔱 368</span>
-					</div>
-				<div class="stars-today">⭐ 2611 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14773</span>
-						<span>🔱 1602</span>
+						<span>⭐ 14775</span>
+						<span>🔱 1603</span>
 					</div>
 				<div class="stars-today">⭐ 4894 stars this month</div>
 				</div>
@@ -250,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37395</span>
-						<span>🔱 4303</span>
+						<span>⭐ 37409</span>
+						<span>🔱 4304</span>
 					</div>
 				<div class="stars-today">⭐ 5959 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
-    
-
-
-      
-        9001 /
-
-      copyparty</a></p>
-				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27776</span>
-						<span>🔱 1041</span>
-					</div>
-				<div class="stars-today">⭐ 18691 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10445</span>
-						<span>🔱 723</span>
+						<span>⭐ 10457</span>
+						<span>🔱 724</span>
 					</div>
 				<div class="stars-today">⭐ 5082 stars this month</div>
 				</div>
@@ -316,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15938</span>
-						<span>🔱 1194</span>
+						<span>⭐ 15943</span>
+						<span>🔱 1196</span>
 					</div>
 				<div class="stars-today">⭐ 7511 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
+    
+
+
+      
+        9001 /
+
+      copyparty</a></p>
+				<p>
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27794</span>
+						<span>🔱 1042</span>
+					</div>
+				<div class="stars-today">⭐ 18691 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 85775</span>
+						<span>⭐ 85780</span>
 						<span>🔱 12869</span>
 					</div>
 				<div class="stars-today">⭐ 2349 stars this month</div>

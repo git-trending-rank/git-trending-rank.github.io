@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第35周
-date: 2025-08-30T09:58:37Z
+date: 2025-08-30T11:58:46Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17246</span>
-						<span>🔱 2816</span>
+						<span>⭐ 17270</span>
+						<span>🔱 2818</span>
 					</div>
 				<div class="stars-today">⭐ 8467 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9904</span>
-						<span>🔱 719</span>
+						<span>⭐ 9923</span>
+						<span>🔱 721</span>
 					</div>
 				<div class="stars-today">⭐ 4826 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 11824</span>
-						<span>🔱 933</span>
-					</div>
-				<div class="stars-today">⭐ 5324 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8098</span>
-						<span>🔱 244</span>
+						<span>⭐ 8116</span>
+						<span>🔱 245</span>
 					</div>
 				<div class="stars-today">⭐ 4255 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 11841</span>
+						<span>🔱 935</span>
+					</div>
+				<div class="stars-today">⭐ 5324 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4510</span>
+						<span>⭐ 4527</span>
 						<span>🔱 460</span>
 					</div>
 				<div class="stars-today">⭐ 3211 stars this week</div>
@@ -126,24 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
     
 
 
       
-        simstudioai /
+        HunxByts /
 
-      sim</a></p>
+      GhostTrack</a></p>
 				<p>
-      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+      Useful tool to track location or mobile number
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13017</span>
-						<span>🔱 1518</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5143</span>
+						<span>🔱 598</span>
 					</div>
-				<div class="stars-today">⭐ 2337 stars this week</div>
+				<div class="stars-today">⭐ 2209 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,142 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7318</span>
-						<span>🔱 534</span>
+						<span>⭐ 7325</span>
+						<span>🔱 536</span>
 					</div>
 				<div class="stars-today">⭐ 808 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/googletest" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        google /
+        simstudioai /
 
-      googletest</a></p>
+      sim</a></p>
 				<p>
-      GoogleTest - Google Testing and Mocking Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 36962</span>
-						<span>🔱 10492</span>
-					</div>
-				<div class="stars-today">⭐ 233 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Budibase/budibase" target="_blank">
-    
-
-
-      
-        Budibase /
-
-      budibase</a></p>
-				<p>
-      Create business apps and automate workflows in minutes. Supports PostgreSQL, MySQL, MariaDB, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀 No code / Low code platform..
+      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26623</span>
-						<span>🔱 1924</span>
+						<span>⭐ 13043</span>
+						<span>🔱 1519</span>
 					</div>
-				<div class="stars-today">⭐ 832 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/puckeditor/puck" target="_blank">
-    
-
-
-      
-        puckeditor /
-
-      puck</a></p>
-				<p>
-      The visual editor for React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9096</span>
-						<span>🔱 591</span>
-					</div>
-				<div class="stars-today">⭐ 1353 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Java</a></p>
-				<p>
-      All Algorithms implemented in Java
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 63171</span>
-						<span>🔱 20224</span>
-					</div>
-				<div class="stars-today">⭐ 412 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
-    
-
-
-      
-        twbs /
-
-      bootstrap</a></p>
-				<p>
-      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 173262</span>
-						<span>🔱 79150</span>
-					</div>
-				<div class="stars-today">⭐ 354 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codexu/note-gen" target="_blank">
-    
-
-
-      
-        codexu /
-
-      note-gen</a></p>
-				<p>
-      A cross-platform Markdown AI note-taking software.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8230</span>
-						<span>🔱 544</span>
-					</div>
-				<div class="stars-today">⭐ 416 stars this week</div>
+				<div class="stars-today">⭐ 2337 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,54 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29297</span>
-						<span>🔱 4525</span>
+						<span>⭐ 29312</span>
+						<span>🔱 4528</span>
 					</div>
 				<div class="stars-today">⭐ 553 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Leantime/leantime" target="_blank">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
     
 
 
       
-        Leantime /
+        Canner /
 
-      leantime</a></p>
+      WrenAI</a></p>
 				<p>
-      Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 7778</span>
-						<span>🔱 750</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10893</span>
+						<span>🔱 1095</span>
 					</div>
-				<div class="stars-today">⭐ 1351 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Arindam200/awesome-ai-apps" target="_blank">
-    
-
-
-      
-        Arindam200 /
-
-      awesome-ai-apps</a></p>
-				<p>
-      A collection of projects showcasing RAG, agents, workflows, and other AI use cases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4455</span>
-						<span>🔱 572</span>
-					</div>
-				<div class="stars-today">⭐ 964 stars this week</div>
+				<div class="stars-today">⭐ 780 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,10 +250,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 99754</span>
-						<span>🔱 8719</span>
+						<span>⭐ 99762</span>
+						<span>🔱 8720</span>
 					</div>
 				<div class="stars-today">⭐ 417 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RSSNext/Folo" target="_blank">
+    
+
+
+      
+        RSSNext /
+
+      Folo</a></p>
+				<p>
+      🧡 Follow everything in one place
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33083</span>
+						<span>🔱 1542</span>
+					</div>
+				<div class="stars-today">⭐ 1538 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+    
+
+
+      
+        twbs /
+
+      bootstrap</a></p>
+				<p>
+      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 173265</span>
+						<span>🔱 79150</span>
+					</div>
+				<div class="stars-today">⭐ 354 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/googletest" target="_blank">
+    
+
+
+      
+        google /
+
+      googletest</a></p>
+				<p>
+      GoogleTest - Google Testing and Mocking Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 36964</span>
+						<span>🔱 10493</span>
+					</div>
+				<div class="stars-today">⭐ 233 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
+    
+
+
+      
+        TheAlgorithms /
+
+      Java</a></p>
+				<p>
+      All Algorithms implemented in Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 63174</span>
+						<span>🔱 20225</span>
+					</div>
+				<div class="stars-today">⭐ 412 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/puckeditor/puck" target="_blank">
+    
+
+
+      
+        puckeditor /
+
+      puck</a></p>
+				<p>
+      The visual editor for React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9098</span>
+						<span>🔱 591</span>
+					</div>
+				<div class="stars-today">⭐ 1353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codexu/note-gen" target="_blank">
+    
+
+
+      
+        codexu /
+
+      note-gen</a></p>
+				<p>
+      A cross-platform Markdown AI note-taking software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8243</span>
+						<span>🔱 544</span>
+					</div>
+				<div class="stars-today">⭐ 416 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5357</span>
+						<span>🔱 505</span>
+					</div>
+				<div class="stars-today">⭐ 332 stars this week</div>
 				</div>
 			</div>
 	
