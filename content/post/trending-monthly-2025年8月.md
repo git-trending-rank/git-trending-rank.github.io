@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年8月
-date: 2025-08-31T09:58:42Z
+date: 2025-08-31T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11247</span>
-						<span>🔱 1949</span>
+						<span>⭐ 11251</span>
+						<span>🔱 1951</span>
 					</div>
 				<div class="stars-today">⭐ 6044 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 11953</span>
-						<span>🔱 948</span>
+						<span>⭐ 11965</span>
+						<span>🔱 949</span>
 					</div>
 				<div class="stars-today">⭐ 10162 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14196</span>
-						<span>🔱 1395</span>
+						<span>⭐ 14198</span>
+						<span>🔱 1397</span>
 					</div>
 				<div class="stars-today">⭐ 11994 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
-    
-
-
-      
-        plait-board /
-
-      drawnix</a></p>
-				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10081</span>
-						<span>🔱 733</span>
-					</div>
-				<div class="stars-today">⭐ 6886 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
-    
-
-
-      
-        charmbracelet /
-
-      crush</a></p>
-				<p>
-      The glamourous AI coding agent for your favourite terminal 💘
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11366</span>
-						<span>🔱 552</span>
-					</div>
-				<div class="stars-today">⭐ 11104 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13242</span>
-						<span>🔱 1541</span>
+						<span>⭐ 13264</span>
+						<span>🔱 1542</span>
 					</div>
 				<div class="stars-today">⭐ 6951 stars this month</div>
 				</div>
@@ -162,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17436</span>
-						<span>🔱 2837</span>
+						<span>⭐ 17450</span>
+						<span>🔱 2838</span>
 					</div>
 				<div class="stars-today">⭐ 9334 stars this month</div>
 				</div>
@@ -184,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8226</span>
+						<span>⭐ 8236</span>
 						<span>🔱 248</span>
 					</div>
 				<div class="stars-today">⭐ 4947 stars this month</div>
@@ -206,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14811</span>
-						<span>🔱 1606</span>
+						<span>⭐ 14815</span>
+						<span>🔱 1607</span>
 					</div>
 				<div class="stars-today">⭐ 4892 stars this month</div>
 				</div>
@@ -228,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37565</span>
+						<span>⭐ 37581</span>
 						<span>🔱 4324</span>
 					</div>
 				<div class="stars-today">⭐ 6070 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
+    
+
+
+      
+        charmbracelet /
+
+      crush</a></p>
+				<p>
+      The glamourous AI coding agent for your favourite terminal 💘
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 11372</span>
+						<span>🔱 552</span>
+					</div>
+				<div class="stars-today">⭐ 11104 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10533</span>
+						<span>⭐ 10542</span>
 						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 4840 stars this month</div>
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16038</span>
+						<span>⭐ 16046</span>
 						<span>🔱 1203</span>
 					</div>
 				<div class="stars-today">⭐ 7211 stars this month</div>
@@ -280,24 +258,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
+				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
     
 
 
       
-        9001 /
+        vllm-project /
 
-      copyparty</a></p>
+      vllm</a></p>
 				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+      A high-throughput and memory-efficient inference and serving engine for LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27984</span>
-						<span>🔱 1056</span>
+						<span>⭐ 56742</span>
+						<span>🔱 9789</span>
 					</div>
-				<div class="stars-today">⭐ 15607 stars this month</div>
+				<div class="stars-today">⭐ 3256 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 85826</span>
+						<span>⭐ 85834</span>
 						<span>🔱 12882</span>
 					</div>
 				<div class="stars-today">⭐ 2370 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hao-ai-lab/FastVideo" target="_blank">
+    
+
+
+      
+        hao-ai-lab /
+
+      FastVideo</a></p>
+				<p>
+      A unified inference and post-training framework for accelerated video generation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2116</span>
+						<span>🔱 158</span>
+					</div>
+				<div class="stars-today">⭐ 450 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
+    
+
+
+      
+        9001 /
+
+      copyparty</a></p>
+				<p>
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27991</span>
+						<span>🔱 1057</span>
+					</div>
+				<div class="stars-today">⭐ 15607 stars this month</div>
 				</div>
 			</div>
 	

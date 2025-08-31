@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第35周
-date: 2025-08-31T09:58:42Z
+date: 2025-08-31T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17436</span>
-						<span>🔱 2837</span>
+						<span>⭐ 17450</span>
+						<span>🔱 2838</span>
 					</div>
 				<div class="stars-today">⭐ 8812 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10081</span>
+						<span>⭐ 10093</span>
 						<span>🔱 733</span>
 					</div>
 				<div class="stars-today">⭐ 4633 stars this week</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8226</span>
+						<span>⭐ 8236</span>
 						<span>🔱 248</span>
 					</div>
 				<div class="stars-today">⭐ 3606 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 11953</span>
-						<span>🔱 948</span>
-					</div>
-				<div class="stars-today">⭐ 4377 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4647</span>
+						<span>⭐ 4651</span>
 						<span>🔱 506</span>
 					</div>
 				<div class="stars-today">⭐ 2945 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 11965</span>
+						<span>🔱 949</span>
+					</div>
+				<div class="stars-today">⭐ 4377 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5203</span>
+						<span>⭐ 5204</span>
 						<span>🔱 603</span>
 					</div>
 				<div class="stars-today">⭐ 1871 stars this week</div>
@@ -162,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7370</span>
+						<span>⭐ 7373</span>
 						<span>🔱 541</span>
 					</div>
 				<div class="stars-today">⭐ 845 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13242</span>
-						<span>🔱 1541</span>
-					</div>
-				<div class="stars-today">⭐ 1631 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29418</span>
-						<span>🔱 4544</span>
-					</div>
-				<div class="stars-today">⭐ 630 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11050</span>
-						<span>🔱 1109</span>
+						<span>⭐ 11068</span>
+						<span>🔱 1110</span>
 					</div>
 				<div class="stars-today">⭐ 1005 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dockur/windows" target="_blank">
+    
+
+
+      
+        dockur /
+
+      windows</a></p>
+				<p>
+      Windows inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 38460</span>
+						<span>🔱 2883</span>
+					</div>
+				<div class="stars-today">⭐ 1108 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+    
+
+
+      
+        twbs /
+
+      bootstrap</a></p>
+				<p>
+      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 173284</span>
+						<span>🔱 79151</span>
+					</div>
+				<div class="stars-today">⭐ 436 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29428</span>
+						<span>🔱 4545</span>
+					</div>
+				<div class="stars-today">⭐ 630 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codexu/note-gen" target="_blank">
+    
+
+
+      
+        codexu /
+
+      note-gen</a></p>
+				<p>
+      A cross-platform Markdown AI note-taking software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8365</span>
+						<span>🔱 551</span>
+					</div>
+				<div class="stars-today">⭐ 488 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 99788</span>
+						<span>⭐ 99787</span>
 						<span>🔱 8722</span>
 					</div>
 				<div class="stars-today">⭐ 517 stars this week</div>
@@ -272,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33152</span>
+						<span>⭐ 33159</span>
 						<span>🔱 1548</span>
 					</div>
 				<div class="stars-today">⭐ 1378 stars this week</div>
@@ -280,134 +324,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
     
 
 
       
-        twbs /
+        laramies /
 
-      bootstrap</a></p>
+      theHarvester</a></p>
 				<p>
-      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 173283</span>
-						<span>🔱 79151</span>
-					</div>
-				<div class="stars-today">⭐ 436 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/googletest" target="_blank">
-    
-
-
-      
-        google /
-
-      googletest</a></p>
-				<p>
-      GoogleTest - Google Testing and Mocking Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 36970</span>
-						<span>🔱 10497</span>
-					</div>
-				<div class="stars-today">⭐ 149 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Java</a></p>
-				<p>
-      All Algorithms implemented in Java
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 63199</span>
-						<span>🔱 20231</span>
-					</div>
-				<div class="stars-today">⭐ 412 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/puckeditor/puck" target="_blank">
-    
-
-
-      
-        puckeditor /
-
-      puck</a></p>
-				<p>
-      The visual editor for React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9159</span>
-						<span>🔱 594</span>
-					</div>
-				<div class="stars-today">⭐ 975 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codexu/note-gen" target="_blank">
-    
-
-
-      
-        codexu /
-
-      note-gen</a></p>
-				<p>
-      A cross-platform Markdown AI note-taking software.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8355</span>
-						<span>🔱 551</span>
-					</div>
-				<div class="stars-today">⭐ 488 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      E-mails, subdomains and names Harvester - OSINT 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5395</span>
-						<span>🔱 507</span>
+						<span>⭐ 13608</span>
+						<span>🔱 2262</span>
 					</div>
-				<div class="stars-today">⭐ 338 stars this week</div>
+				<div class="stars-today">⭐ 179 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
+    
+
+
+      
+        X-PLUG /
+
+      MobileAgent</a></p>
+				<p>
+       Mobile-Agent: The Powerful GUI Agent Family
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5161</span>
+						<span>🔱 515</span>
+					</div>
+				<div class="stars-today">⭐ 353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 37581</span>
+						<span>🔱 4324</span>
+					</div>
+				<div class="stars-today">⭐ 1494 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      MiniCPM-V</a></p>
+				<p>
+      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20657</span>
+						<span>🔱 1514</span>
+					</div>
+				<div class="stars-today">⭐ 483 stars this week</div>
 				</div>
 			</div>
 	
