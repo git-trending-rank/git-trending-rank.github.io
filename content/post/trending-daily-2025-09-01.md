@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-01
-date: 2025-09-01T09:58:51Z
+date: 2025-09-01T11:58:50Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5218</span>
-						<span>🔱 456</span>
-					</div>
-				<div class="stars-today">⭐ 445 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/dockur/windows" target="_blank">
@@ -52,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39968</span>
-						<span>🔱 2964</span>
+						<span>⭐ 40126</span>
+						<span>🔱 2981</span>
 					</div>
 				<div class="stars-today">⭐ 715 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
-    
-
-
-      
-        laramies /
-
-      theHarvester</a></p>
-				<p>
-      E-mails, subdomains and names Harvester - OSINT 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13868</span>
-						<span>🔱 2273</span>
-					</div>
-				<div class="stars-today">⭐ 214 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26093</span>
-						<span>🔱 3976</span>
-					</div>
-				<div class="stars-today">⭐ 683 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 206195</span>
-						<span>🔱 47671</span>
-					</div>
-				<div class="stars-today">⭐ 437 stars today</div>
 				</div>
 			</div>
 	
@@ -140,54 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 1924</span>
-						<span>🔱 126</span>
+						<span>⭐ 1979</span>
+						<span>🔱 128</span>
 					</div>
 				<div class="stars-today">⭐ 123 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gunnarmorling/1brc" target="_blank">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
     
 
 
       
-        gunnarmorling /
+        juspay /
 
-      1brc</a></p>
+      hyperswitch</a></p>
 				<p>
-      1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 7264</span>
-						<span>🔱 2067</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bevyengine/bevy" target="_blank">
-    
-
-
-      
-        bevyengine /
-
-      bevy</a></p>
-				<p>
-      A refreshingly simple data-driven game engine built in Rust
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 41517</span>
-						<span>🔱 4084</span>
+						<span>⭐ 26107</span>
+						<span>🔱 3976</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 683 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
+    
+
+
+      
+        QuentinFuxa /
+
+      WhisperLiveKit</a></p>
+				<p>
+      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5305</span>
+						<span>🔱 462</span>
+					</div>
+				<div class="stars-today">⭐ 445 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16907</span>
+						<span>⭐ 16917</span>
 						<span>🔱 2448</span>
 					</div>
 				<div class="stars-today">⭐ 204 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lllyasviel/Fooocus" target="_blank">
+    
+
+
+      
+        lllyasviel /
+
+      Fooocus</a></p>
+				<p>
+      Focus on prompting and generating
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46145</span>
+						<span>🔱 7420</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
+    
+
+
+      
+        laramies /
+
+      theHarvester</a></p>
+				<p>
+      E-mails, subdomains and names Harvester - OSINT 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13886</span>
+						<span>🔱 2274</span>
+					</div>
+				<div class="stars-today">⭐ 214 stars today</div>
 				</div>
 			</div>
 	
@@ -228,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1855</span>
+						<span>⭐ 1869</span>
 						<span>🔱 176</span>
 					</div>
 				<div class="stars-today">⭐ 60 stars today</div>
@@ -236,90 +192,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        paperless-ngx /
+        resemble-ai /
 
-      paperless-ngx</a></p>
+      chatterbox</a></p>
 				<p>
-      A community-supported supercharged document management system: scan, index and archive all your documents
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31446</span>
-						<span>🔱 1920</span>
+						<span>⭐ 10859</span>
+						<span>🔱 1386</span>
 					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
+				<div class="stars-today">⭐ 357 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elixir-lang/expert" target="_blank">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
     
 
 
       
-        elixir-lang /
+        OpenBMB /
 
-      expert</a></p>
+      MiniCPM-V</a></p>
 				<p>
-      Official Elixir Language Server Protocol implementation
+      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Elixir</span>
-						<span>⭐ 1200</span>
-						<span>🔱 24</span>
+						<span>🔠 Python</span>
+						<span>⭐ 20864</span>
+						<span>🔱 1536</span>
 					</div>
-				<div class="stars-today">⭐ 126 stars today</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/comprehensive-rust" target="_blank">
+				<p><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects" target="_blank">
     
 
 
       
-        google /
+        ashishpatel26 /
 
-      comprehensive-rust</a></p>
+      500-AI-Agents-Projects</a></p>
 				<p>
-      This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 31157</span>
-						<span>🔱 1853</span>
-					</div>
-				<div class="stars-today">⭐ 60 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/awesomedata/awesome-public-datasets" target="_blank">
-    
-
-
-      
-        awesomedata /
-
-      awesome-public-datasets</a></p>
-				<p>
-      A topic-centric list of HQ open datasets.
+      The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 65455</span>
-						<span>🔱 10321</span>
+						<span>⭐ 6969</span>
+						<span>🔱 1308</span>
 					</div>
-				<div class="stars-today">⭐ 323 stars today</div>
+				<div class="stars-today">⭐ 699 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zakirullin/cognitive-load" target="_blank">
+    
+
+
+      
+        zakirullin /
+
+      cognitive-load</a></p>
+				<p>
+      🧠 Cognitive Load is what matters
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 9437</span>
+						<span>🔱 200</span>
+					</div>
+				<div class="stars-today">⭐ 676 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/denizsafak/abogen" target="_blank">
+    
+
+
+      
+        denizsafak /
+
+      abogen</a></p>
+				<p>
+      Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3114</span>
+						<span>🔱 159</span>
+					</div>
+				<div class="stars-today">⭐ 97 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bevyengine/bevy" target="_blank">
+    
+
+
+      
+        bevyengine /
+
+      bevy</a></p>
+				<p>
+      A refreshingly simple data-driven game engine built in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 41527</span>
+						<span>🔱 4084</span>
+					</div>
+				<div class="stars-today">⭐ 36 stars today</div>
 				</div>
 			</div>
 	

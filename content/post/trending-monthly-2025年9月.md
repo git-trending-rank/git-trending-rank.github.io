@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-01T09:58:51Z
+date: 2025-09-01T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11311</span>
+						<span>⭐ 11314</span>
 						<span>🔱 1966</span>
 					</div>
 				<div class="stars-today">⭐ 6111 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 12132</span>
-						<span>🔱 972</span>
+						<span>⭐ 12147</span>
+						<span>🔱 975</span>
 					</div>
 				<div class="stars-today">⭐ 10300 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14253</span>
-						<span>🔱 1400</span>
-					</div>
-				<div class="stars-today">⭐ 11830 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13500</span>
-						<span>🔱 1568</span>
+						<span>⭐ 13509</span>
+						<span>🔱 1569</span>
 					</div>
 				<div class="stars-today">⭐ 7167 stars this month</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17670</span>
-						<span>🔱 2858</span>
+						<span>⭐ 17695</span>
+						<span>🔱 2862</span>
 					</div>
 				<div class="stars-today">⭐ 9514 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+    
+
+
+      
+        dyad-sh /
+
+      dyad</a></p>
+				<p>
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14257</span>
+						<span>🔱 1401</span>
+					</div>
+				<div class="stars-today">⭐ 11830 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8311</span>
+						<span>⭐ 8318</span>
 						<span>🔱 251</span>
 					</div>
 				<div class="stars-today">⭐ 4999 stars this month</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14865</span>
-						<span>🔱 1615</span>
+						<span>⭐ 14868</span>
+						<span>🔱 1616</span>
 					</div>
 				<div class="stars-today">⭐ 4897 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6330</span>
-						<span>🔱 796</span>
-					</div>
-				<div class="stars-today">⭐ 3712 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37753</span>
-						<span>🔱 4354</span>
+						<span>⭐ 37765</span>
+						<span>🔱 4358</span>
 					</div>
 				<div class="stars-today">⭐ 6203 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Opinionated Arch/Hyprland Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 6344</span>
+						<span>🔱 796</span>
+					</div>
+				<div class="stars-today">⭐ 3712 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dtyq/magic" target="_blank">
+    
+
+
+      
+        dtyq /
+
+      magic</a></p>
+				<p>
+      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 3756</span>
+						<span>🔱 382</span>
+					</div>
+				<div class="stars-today">⭐ 2630 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11503</span>
-						<span>🔱 560</span>
+						<span>⭐ 11507</span>
+						<span>🔱 561</span>
 					</div>
 				<div class="stars-today">⭐ 9141 stars this month</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10138</span>
-						<span>🔱 2958</span>
+						<span>⭐ 10142</span>
+						<span>🔱 2960</span>
 					</div>
 				<div class="stars-today">⭐ 4148 stars this month</div>
 				</div>
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10654</span>
+						<span>⭐ 10665</span>
 						<span>🔱 732</span>
 					</div>
 				<div class="stars-today">⭐ 4457 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
-    
-
-
-      
-        musistudio /
-
-      claude-code-router</a></p>
-				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16190</span>
-						<span>🔱 1210</span>
-					</div>
-				<div class="stars-today">⭐ 7062 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56829</span>
+						<span>⭐ 56841</span>
 						<span>🔱 9806</span>
 					</div>
 				<div class="stars-today">⭐ 3214 stars this month</div>
@@ -338,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 85885</span>
+						<span>⭐ 85890</span>
 						<span>🔱 12888</span>
 					</div>
 				<div class="stars-today">⭐ 2370 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+    
+
+
+      
+        musistudio /
+
+      claude-code-router</a></p>
+				<p>
+      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16194</span>
+						<span>🔱 1210</span>
+					</div>
+				<div class="stars-today">⭐ 7062 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2128</span>
+						<span>⭐ 2129</span>
 						<span>🔱 158</span>
 					</div>
 				<div class="stars-today">⭐ 447 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
-    
-
-
-      
-        9001 /
-
-      copyparty</a></p>
-				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28212</span>
-						<span>🔱 1072</span>
-					</div>
-				<div class="stars-today">⭐ 12458 stars this month</div>
 				</div>
 			</div>
 	
