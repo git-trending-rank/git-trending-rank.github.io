@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-02
-date: 2025-09-02T15:58:36Z
+date: 2025-09-02T17:58:45Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 42484</span>
-						<span>🔱 3105</span>
+						<span>⭐ 42633</span>
+						<span>🔱 3112</span>
 					</div>
 				<div class="stars-today">⭐ 1965 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36645</span>
-						<span>🔱 4895</span>
+						<span>⭐ 36736</span>
+						<span>🔱 4901</span>
 					</div>
 				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2623</span>
-						<span>🔱 170</span>
+						<span>⭐ 2640</span>
+						<span>🔱 174</span>
 					</div>
 				<div class="stars-today">⭐ 576 stars today</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8221</span>
-						<span>🔱 1492</span>
+						<span>⭐ 8322</span>
+						<span>🔱 1513</span>
 					</div>
 				<div class="stars-today">⭐ 1081 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 65371</span>
-						<span>🔱 8055</span>
-					</div>
-				<div class="stars-today">⭐ 535 stars today</div>
 				</div>
 			</div>
 	
@@ -138,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1976</span>
-						<span>🔱 93</span>
+						<span>⭐ 2006</span>
+						<span>🔱 99</span>
 					</div>
 				<div class="stars-today">⭐ 117 stars today</div>
 				</div>
@@ -160,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11371</span>
-						<span>🔱 1429</span>
+						<span>⭐ 11414</span>
+						<span>🔱 1433</span>
 					</div>
 				<div class="stars-today">⭐ 443 stars today</div>
 				</div>
@@ -182,10 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18170</span>
-						<span>🔱 4389</span>
+						<span>⭐ 18191</span>
+						<span>🔱 4390</span>
 					</div>
-				<div class="stars-today">⭐ 189 stars today</div>
+				<div class="stars-today">⭐ 118 stars today</div>
 				</div>
 			</div>
 	
@@ -204,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1963</span>
-						<span>🔱 73</span>
+						<span>⭐ 2000</span>
+						<span>🔱 76</span>
 					</div>
 				<div class="stars-today">⭐ 160 stars today</div>
 				</div>
@@ -226,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 97056</span>
-						<span>🔱 14254</span>
+						<span>⭐ 97082</span>
+						<span>🔱 14256</span>
 					</div>
 				<div class="stars-today">⭐ 132 stars today</div>
 				</div>
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3389</span>
-						<span>🔱 282</span>
+						<span>⭐ 3438</span>
+						<span>🔱 286</span>
 					</div>
 				<div class="stars-today">⭐ 172 stars today</div>
 				</div>
@@ -270,10 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 31271</span>
-						<span>🔱 1858</span>
+						<span>⭐ 31304</span>
+						<span>🔱 1861</span>
 					</div>
-				<div class="stars-today">⭐ 314 stars today</div>
+				<div class="stars-today">⭐ 85 stars today</div>
 				</div>
 			</div>
 	
@@ -292,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10752</span>
-						<span>🔱 3004</span>
+						<span>⭐ 10768</span>
+						<span>🔱 3006</span>
 					</div>
 				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
