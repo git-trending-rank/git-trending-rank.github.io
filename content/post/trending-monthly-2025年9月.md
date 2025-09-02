@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-02T13:58:40Z
+date: 2025-09-02T15:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11388</span>
-						<span>🔱 1980</span>
+						<span>⭐ 11394</span>
+						<span>🔱 1981</span>
 					</div>
 				<div class="stars-today">⭐ 6173 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 12332</span>
-						<span>🔱 1000</span>
+						<span>⭐ 12360</span>
+						<span>🔱 1002</span>
 					</div>
 				<div class="stars-today">⭐ 10466 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10472</span>
-						<span>🔱 771</span>
+						<span>⭐ 10487</span>
+						<span>🔱 773</span>
 					</div>
 				<div class="stars-today">⭐ 7161 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18174</span>
-						<span>🔱 2933</span>
+						<span>⭐ 18201</span>
+						<span>🔱 2939</span>
 					</div>
 				<div class="stars-today">⭐ 9729 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13637</span>
-						<span>🔱 1582</span>
+						<span>⭐ 13648</span>
+						<span>🔱 1584</span>
 					</div>
 				<div class="stars-today">⭐ 7396 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8423</span>
+						<span>⭐ 8429</span>
 						<span>🔱 253</span>
 					</div>
 				<div class="stars-today">⭐ 5066 stars this month</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14907</span>
+						<span>⭐ 14910</span>
 						<span>🔱 1616</span>
 					</div>
 				<div class="stars-today">⭐ 4927 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37982</span>
-						<span>🔱 4389</span>
+						<span>⭐ 38004</span>
+						<span>🔱 4393</span>
 					</div>
 				<div class="stars-today">⭐ 6340 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6542</span>
+						<span>⭐ 6559</span>
 						<span>🔱 808</span>
 					</div>
 				<div class="stars-today">⭐ 3743 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14308</span>
-						<span>🔱 1405</span>
+						<span>⭐ 14313</span>
+						<span>🔱 1406</span>
 					</div>
 				<div class="stars-today">⭐ 11623 stars this month</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3798</span>
+						<span>⭐ 3804</span>
 						<span>🔱 386</span>
 					</div>
 				<div class="stars-today">⭐ 2549 stars this month</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11643</span>
-						<span>🔱 571</span>
+						<span>⭐ 11657</span>
+						<span>🔱 572</span>
 					</div>
 				<div class="stars-today">⭐ 7817 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      mcp-for-beginners</a></p>
-				<p>
-      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10221</span>
-						<span>🔱 2981</span>
-					</div>
-				<div class="stars-today">⭐ 4144 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56966</span>
+						<span>⭐ 56975</span>
 						<span>🔱 9838</span>
 					</div>
 				<div class="stars-today">⭐ 3246 stars this month</div>
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 85936</span>
-						<span>🔱 12906</span>
+						<span>⭐ 85942</span>
+						<span>🔱 12904</span>
 					</div>
 				<div class="stars-today">⭐ 2387 stars this month</div>
 				</div>
@@ -360,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11299</span>
+						<span>⭐ 11308</span>
 						<span>🔱 1133</span>
 					</div>
 				<div class="stars-today">⭐ 1877 stars this month</div>
@@ -382,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10839</span>
-						<span>🔱 752</span>
+						<span>⭐ 10859</span>
+						<span>🔱 755</span>
 					</div>
 				<div class="stars-today">⭐ 4319 stars this month</div>
 				</div>
