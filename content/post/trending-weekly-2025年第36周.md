@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第36周
-date: 2025-09-02T09:58:38Z
+date: 2025-09-02T11:58:38Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18081</span>
-						<span>🔱 2915</span>
+						<span>⭐ 18125</span>
+						<span>🔱 2924</span>
 					</div>
 				<div class="stars-today">⭐ 8555 stars this week</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5850</span>
-						<span>🔱 502</span>
+						<span>⭐ 5880</span>
+						<span>🔱 504</span>
 					</div>
 				<div class="stars-today">⭐ 4622 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
-    
-
-
-      
-        plait-board /
-
-      drawnix</a></p>
-				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10446</span>
-						<span>🔱 770</span>
-					</div>
-				<div class="stars-today">⭐ 3400 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5053</span>
-						<span>🔱 581</span>
-					</div>
-				<div class="stars-today">⭐ 1916 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41932</span>
-						<span>🔱 3077</span>
+						<span>⭐ 42124</span>
+						<span>🔱 3087</span>
 					</div>
 				<div class="stars-today">⭐ 3277 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
     
 
 
       
-        moeru-ai /
+        plait-board /
 
-      airi</a></p>
+      drawnix</a></p>
 				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 12313</span>
-						<span>🔱 995</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10462</span>
+						<span>🔱 770</span>
 					</div>
-				<div class="stars-today">⭐ 2133 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7466</span>
-						<span>🔱 560</span>
-					</div>
-				<div class="stars-today">⭐ 899 stars this week</div>
+				<div class="stars-today">⭐ 3400 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14075</span>
-						<span>🔱 2282</span>
+						<span>⭐ 14088</span>
+						<span>🔱 2283</span>
 					</div>
 				<div class="stars-today">⭐ 617 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
-    
-
-
-      
-        Canner /
-
-      WrenAI</a></p>
-				<p>
-      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11279</span>
-						<span>🔱 1132</span>
-					</div>
-				<div class="stars-today">⭐ 1284 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21065</span>
-						<span>🔱 1548</span>
+						<span>⭐ 21076</span>
+						<span>🔱 1549</span>
 					</div>
 				<div class="stars-today">⭐ 771 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
     
 
 
       
-        HunxByts /
+        Canner /
 
-      GhostTrack</a></p>
+      WrenAI</a></p>
 				<p>
-      Useful tool to track location or mobile number
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5333</span>
-						<span>🔱 613</span>
-					</div>
-				<div class="stars-today">⭐ 870 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codexu/note-gen" target="_blank">
-    
-
-
-      
-        codexu /
-
-      note-gen</a></p>
-				<p>
-      A cross-platform Markdown AI note-taking software.
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8757</span>
-						<span>🔱 570</span>
+						<span>⭐ 11289</span>
+						<span>🔱 1132</span>
 					</div>
-				<div class="stars-today">⭐ 729 stars this week</div>
+				<div class="stars-today">⭐ 1284 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26312</span>
+						<span>⭐ 26345</span>
 						<span>🔱 3988</span>
 					</div>
 				<div class="stars-today">⭐ 1695 stars this week</div>
@@ -302,24 +192,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
     
 
 
       
-        twbs /
+        MODSetter /
 
-      bootstrap</a></p>
+      SurfSense</a></p>
 				<p>
-      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 173317</span>
-						<span>🔱 79155</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7468</span>
+						<span>🔱 560</span>
 					</div>
-				<div class="stars-today">⭐ 477 stars this week</div>
+				<div class="stars-today">⭐ 899 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codexu/note-gen" target="_blank">
+    
+
+
+      
+        codexu /
+
+      note-gen</a></p>
+				<p>
+      A cross-platform Markdown AI note-taking software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8767</span>
+						<span>🔱 572</span>
+					</div>
+				<div class="stars-today">⭐ 729 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+    
+
+
+      
+        bytebot-ai /
+
+      bytebot</a></p>
+				<p>
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3298</span>
+						<span>🔱 272</span>
+					</div>
+				<div class="stars-today">⭐ 744 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firecracker-microvm/firecracker" target="_blank">
+    
+
+
+      
+        firecracker-microvm /
+
+      firecracker</a></p>
+				<p>
+      Secure and fast microVMs for serverless computing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 30076</span>
+						<span>🔱 2062</span>
+					</div>
+				<div class="stars-today">⭐ 930 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,54 +294,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29684</span>
-						<span>🔱 4588</span>
+						<span>⭐ 29695</span>
+						<span>🔱 4589</span>
 					</div>
 				<div class="stars-today">⭐ 769 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/willccbb/verifiers" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
     
 
 
       
-        willccbb /
+        HKUDS /
 
-      verifiers</a></p>
+      DeepCode</a></p>
 				<p>
-      Verifiers for LLM Reinforcement Learning
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2854</span>
-						<span>🔱 312</span>
+						<span>⭐ 5073</span>
+						<span>🔱 584</span>
 					</div>
-				<div class="stars-today">⭐ 716 stars this week</div>
+				<div class="stars-today">⭐ 1916 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
     
 
 
       
-        X-PLUG /
+        jwasham /
 
-      MobileAgent</a></p>
+      coding-interview-university</a></p>
 				<p>
-       Mobile-Agent: The Powerful GUI Agent Family
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 326165</span>
+						<span>🔱 80155</span>
+					</div>
+				<div class="stars-today">⭐ 1335 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
+    
+
+
+      
+        twbs /
+
+      bootstrap</a></p>
+				<p>
+      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 173321</span>
+						<span>🔱 79155</span>
+					</div>
+				<div class="stars-today">⭐ 477 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/IBM/mcp-context-forge" target="_blank">
+    
+
+
+      
+        IBM /
+
+      mcp-context-forge</a></p>
+				<p>
+      A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5319</span>
-						<span>🔱 522</span>
+						<span>⭐ 2257</span>
+						<span>🔱 261</span>
 					</div>
-				<div class="stars-today">⭐ 347 stars this week</div>
+				<div class="stars-today">⭐ 603 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gunnarmorling/1brc" target="_blank">
+    
+
+
+      
+        gunnarmorling /
+
+      1brc</a></p>
+				<p>
+      1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 7285</span>
+						<span>🔱 2071</span>
+					</div>
+				<div class="stars-today">⭐ 152 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 99841</span>
+						<span>⭐ 99843</span>
 						<span>🔱 8725</span>
 					</div>
 				<div class="stars-today">⭐ 564 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 37942</span>
-						<span>🔱 4383</span>
-					</div>
-				<div class="stars-today">⭐ 1502 stars this week</div>
 				</div>
 			</div>
 	

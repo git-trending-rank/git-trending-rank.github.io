@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-02T09:58:38Z
+date: 2025-09-02T11:58:38Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11372</span>
-						<span>🔱 1978</span>
+						<span>⭐ 11380</span>
+						<span>🔱 1979</span>
 					</div>
 				<div class="stars-today">⭐ 6173 stars this month</div>
 				</div>
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 12313</span>
-						<span>🔱 995</span>
+						<span>⭐ 12322</span>
+						<span>🔱 996</span>
 					</div>
 				<div class="stars-today">⭐ 10466 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
     
 
 
       
-        simstudioai /
+        plait-board /
 
-      sim</a></p>
+      drawnix</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13623</span>
-						<span>🔱 1580</span>
+						<span>⭐ 10462</span>
+						<span>🔱 770</span>
 					</div>
-				<div class="stars-today">⭐ 7396 stars this month</div>
+				<div class="stars-today">⭐ 7161 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18081</span>
-						<span>🔱 2915</span>
+						<span>⭐ 18125</span>
+						<span>🔱 2924</span>
 					</div>
 				<div class="stars-today">⭐ 9729 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        dyad-sh /
+        simstudioai /
 
-      dyad</a></p>
+      sim</a></p>
 				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+      Open-source platform to build and deploy AI agent workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14299</span>
-						<span>🔱 1404</span>
+						<span>⭐ 13629</span>
+						<span>🔱 1582</span>
 					</div>
-				<div class="stars-today">⭐ 11623 stars this month</div>
+				<div class="stars-today">⭐ 7396 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8400</span>
+						<span>⭐ 8413</span>
 						<span>🔱 253</span>
 					</div>
 				<div class="stars-today">⭐ 5066 stars this month</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14900</span>
+						<span>⭐ 14903</span>
 						<span>🔱 1616</span>
 					</div>
 				<div class="stars-today">⭐ 4927 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37942</span>
-						<span>🔱 4383</span>
+						<span>⭐ 37961</span>
+						<span>🔱 4387</span>
 					</div>
 				<div class="stars-today">⭐ 6340 stars this month</div>
 				</div>
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6516</span>
+						<span>⭐ 6527</span>
 						<span>🔱 806</span>
 					</div>
 				<div class="stars-today">⭐ 3743 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+    
+
+
+      
+        dyad-sh /
+
+      dyad</a></p>
+				<p>
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14302</span>
+						<span>🔱 1404</span>
+					</div>
+				<div class="stars-today">⭐ 11623 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3793</span>
-						<span>🔱 385</span>
+						<span>⭐ 3795</span>
+						<span>🔱 386</span>
 					</div>
 				<div class="stars-today">⭐ 2549 stars this month</div>
 				</div>
@@ -250,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11625</span>
+						<span>⭐ 11633</span>
 						<span>🔱 571</span>
 					</div>
 				<div class="stars-today">⭐ 7817 stars this month</div>
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 10207</span>
+						<span>⭐ 10212</span>
 						<span>🔱 2977</span>
 					</div>
 				<div class="stars-today">⭐ 4144 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oraios/serena" target="_blank">
-    
-
-
-      
-        oraios /
-
-      serena</a></p>
-				<p>
-      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10802</span>
-						<span>🔱 745</span>
-					</div>
-				<div class="stars-today">⭐ 4319 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56945</span>
+						<span>⭐ 56952</span>
 						<span>🔱 9833</span>
 					</div>
 				<div class="stars-today">⭐ 3246 stars this month</div>
@@ -338,54 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 85926</span>
-						<span>🔱 12904</span>
+						<span>⭐ 85929</span>
+						<span>🔱 12905</span>
 					</div>
 				<div class="stars-today">⭐ 2387 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/musistudio/claude-code-router" target="_blank">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
     
 
 
       
-        musistudio /
+        Canner /
 
-      claude-code-router</a></p>
+      WrenAI</a></p>
 				<p>
-      Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16327</span>
-						<span>🔱 1217</span>
+						<span>⭐ 11289</span>
+						<span>🔱 1132</span>
 					</div>
-				<div class="stars-today">⭐ 7028 stars this month</div>
+				<div class="stars-today">⭐ 1877 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hao-ai-lab/FastVideo" target="_blank">
+				<p><a href="https://github.com/oraios/serena" target="_blank">
     
 
 
       
-        hao-ai-lab /
+        oraios /
 
-      FastVideo</a></p>
+      serena</a></p>
 				<p>
-      A unified inference and post-training framework for accelerated video generation.
+      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2154</span>
-						<span>🔱 159</span>
+						<span>⭐ 10819</span>
+						<span>🔱 749</span>
 					</div>
-				<div class="stars-today">⭐ 457 stars this month</div>
+				<div class="stars-today">⭐ 4319 stars this month</div>
 				</div>
 			</div>
 	

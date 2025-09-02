@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-02
-date: 2025-09-02T09:58:38Z
+date: 2025-09-02T11:58:38Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41932</span>
-						<span>🔱 3077</span>
+						<span>⭐ 42124</span>
+						<span>🔱 3087</span>
 					</div>
 				<div class="stars-today">⭐ 1792 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/crewAIInc/crewAI" target="_blank">
+    
+
+
+      
+        crewAIInc /
+
+      crewAI</a></p>
+				<p>
+      Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36456</span>
+						<span>🔱 4882</span>
+					</div>
+				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
@@ -52,186 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2573</span>
-						<span>🔱 163</span>
+						<span>⭐ 2602</span>
+						<span>🔱 165</span>
 					</div>
 				<div class="stars-today">⭐ 240 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26312</span>
-						<span>🔱 3988</span>
-					</div>
-				<div class="stars-today">⭐ 188 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5850</span>
-						<span>🔱 502</span>
-					</div>
-				<div class="stars-today">⭐ 1415 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
-    
-
-
-      
-        activepieces /
-
-      activepieces</a></p>
-				<p>
-      AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17143</span>
-						<span>🔱 2464</span>
-					</div>
-				<div class="stars-today">⭐ 192 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lllyasviel/Fooocus" target="_blank">
-    
-
-
-      
-        lllyasviel /
-
-      Fooocus</a></p>
-				<p>
-      Focus on prompting and generating
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46296</span>
-						<span>🔱 7424</span>
-					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
-    
-
-
-      
-        laramies /
-
-      theHarvester</a></p>
-				<p>
-      E-mails, subdomains and names Harvester - OSINT 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14075</span>
-						<span>🔱 2282</span>
-					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2025</span>
-						<span>🔱 182</span>
-					</div>
-				<div class="stars-today">⭐ 220 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11275</span>
-						<span>🔱 1423</span>
-					</div>
-				<div class="stars-today">⭐ 401 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      MiniCPM-V</a></p>
-				<p>
-      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21065</span>
-						<span>🔱 1548</span>
-					</div>
-				<div class="stars-today">⭐ 214 stars today</div>
 				</div>
 			</div>
 	
@@ -250,76 +96,206 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 7900</span>
-						<span>🔱 1451</span>
+						<span>⭐ 7990</span>
+						<span>🔱 1461</span>
 					</div>
 				<div class="stars-today">⭐ 632 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zakirullin/cognitive-load" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        zakirullin /
+        Shubhamsaboo /
 
-      cognitive-load</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      🧠 Cognitive Load is what matters
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9997</span>
-						<span>🔱 208</span>
-					</div>
-				<div class="stars-today">⭐ 592 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/denizsafak/abogen" target="_blank">
-    
-
-
-      
-        denizsafak /
-
-      abogen</a></p>
-				<p>
-      Generate audiobooks from EPUBs, PDFs and text with synchronized captions.
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3371</span>
-						<span>🔱 170</span>
+						<span>⭐ 65259</span>
+						<span>🔱 8035</span>
 					</div>
-				<div class="stars-today">⭐ 95 stars today</div>
+				<div class="stars-today">⭐ 535 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bevyengine/bevy" target="_blank">
+				<p><a href="https://github.com/google/mangle" target="_blank">
     
 
 
       
-        bevyengine /
+        google /
 
-      bevy</a></p>
+      mangle</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1940</span>
+						<span>🔱 92</span>
+					</div>
+				<div class="stars-today">⭐ 117 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
 				<p>
-      A refreshingly simple data-driven game engine built in Rust
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11315</span>
+						<span>🔱 1424</span>
+					</div>
+				<div class="stars-today">⭐ 401 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+    
+
+
+      
+        pedroslopez /
+
+      whatsapp-web.js</a></p>
+				<p>
+      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 18134</span>
+						<span>🔱 4383</span>
+					</div>
+				<div class="stars-today">⭐ 189 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LukeGus/Termix" target="_blank">
+    
+
+
+      
+        LukeGus /
+
+      Termix</a></p>
+				<p>
+      Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1895</span>
+						<span>🔱 71</span>
+					</div>
+				<div class="stars-today">⭐ 206 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 41709</span>
-						<span>🔱 4087</span>
+						<span>⭐ 97013</span>
+						<span>🔱 14248</span>
 					</div>
-				<div class="stars-today">⭐ 235 stars today</div>
+				<div class="stars-today">⭐ 132 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+    
+
+
+      
+        bytebot-ai /
+
+      bytebot</a></p>
+				<p>
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3298</span>
+						<span>🔱 272</span>
+					</div>
+				<div class="stars-today">⭐ 200 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/comprehensive-rust" target="_blank">
+    
+
+
+      
+        google /
+
+      comprehensive-rust</a></p>
+				<p>
+      This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31226</span>
+						<span>🔱 1856</span>
+					</div>
+				<div class="stars-today">⭐ 314 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/projectdiscovery/nuclei-templates" target="_blank">
+    
+
+
+      
+        projectdiscovery /
+
+      nuclei-templates</a></p>
+				<p>
+      Community curated list of templates for the nuclei engine to find security vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10726</span>
+						<span>🔱 3002</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	
