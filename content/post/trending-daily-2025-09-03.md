@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-03
-date: 2025-09-03T15:59:02Z
+date: 2025-09-03T17:58:49Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18558</span>
-						<span>🔱 4413</span>
+						<span>⭐ 18616</span>
+						<span>🔱 4417</span>
 					</div>
 				<div class="stars-today">⭐ 294 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 43875</span>
-						<span>🔱 3178</span>
+						<span>⭐ 43905</span>
+						<span>🔱 3180</span>
 					</div>
 				<div class="stars-today">⭐ 1634 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2764</span>
+						<span>⭐ 2776</span>
 						<span>🔱 181</span>
 					</div>
 				<div class="stars-today">⭐ 145 stars today</div>
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 122892</span>
-						<span>🔱 7327</span>
+						<span>⭐ 122907</span>
+						<span>🔱 7329</span>
 					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
+				<div class="stars-today">⭐ 95 stars today</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2375</span>
+						<span>⭐ 2407</span>
 						<span>🔱 88</span>
 					</div>
 				<div class="stars-today">⭐ 387 stars today</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 3788</span>
+						<span>⭐ 3818</span>
 						<span>🔱 338</span>
 					</div>
 				<div class="stars-today">⭐ 92 stars today</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9106</span>
-						<span>🔱 1634</span>
+						<span>⭐ 9156</span>
+						<span>🔱 1638</span>
 					</div>
 				<div class="stars-today">⭐ 966 stars today</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 12632</span>
+						<span>⭐ 12641</span>
 						<span>🔱 2012</span>
 					</div>
 				<div class="stars-today">⭐ 39 stars today</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 5863</span>
-						<span>🔱 1802</span>
+						<span>⭐ 5875</span>
+						<span>🔱 1803</span>
 					</div>
 				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
@@ -228,10 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Bicep</span>
-						<span>⭐ 18807</span>
+						<span>⭐ 18814</span>
 						<span>🔱 3970</span>
 					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 8824</span>
+						<span>⭐ 8833</span>
 						<span>🔱 2992</span>
 					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 7256</span>
-						<span>🔱 972</span>
+						<span>⭐ 7300</span>
+						<span>🔱 979</span>
 					</div>
 				<div class="stars-today">⭐ 767 stars today</div>
 				</div>
@@ -294,10 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 19190</span>
+						<span>⭐ 19217</span>
 						<span>🔱 4626</span>
 					</div>
-				<div class="stars-today">⭐ 109 stars today</div>
+				<div class="stars-today">⭐ 105 stars today</div>
 				</div>
 			</div>
 	
@@ -311,13 +311,13 @@ keywords:
 
       serena</a></p>
 				<p>
-      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11098</span>
-						<span>🔱 779</span>
+						<span>⭐ 11131</span>
+						<span>🔱 783</span>
 					</div>
 				<div class="stars-today">⭐ 198 stars today</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28153</span>
-						<span>🔱 2698</span>
+						<span>⭐ 28164</span>
+						<span>🔱 2700</span>
 					</div>
 				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5281</span>
-						<span>🔱 639</span>
+						<span>⭐ 5303</span>
+						<span>🔱 643</span>
 					</div>
 				<div class="stars-today">⭐ 158 stars today</div>
 				</div>
@@ -382,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17326</span>
+						<span>⭐ 17345</span>
 						<span>🔱 2488</span>
 					</div>
 				<div class="stars-today">⭐ 130 stars today</div>
@@ -404,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 20540</span>
-						<span>🔱 1748</span>
+						<span>⭐ 20556</span>
+						<span>🔱 1750</span>
 					</div>
 				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
@@ -426,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 48105</span>
-						<span>🔱 10814</span>
+						<span>⭐ 48118</span>
+						<span>🔱 10816</span>
 					</div>
 				<div class="stars-today">⭐ 100 stars today</div>
 				</div>
@@ -448,10 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 821</span>
-						<span>🔱 42</span>
+						<span>⭐ 835</span>
+						<span>🔱 43</span>
 					</div>
-				<div class="stars-today">⭐ 91 stars today</div>
+				<div class="stars-today">⭐ 76 stars today</div>
 				</div>
 			</div>
 	
