@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-03
-date: 2025-09-03T05:58:39Z
+date: 2025-09-03T07:58:54Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 43334</span>
-						<span>🔱 3148</span>
+						<span>⭐ 43527</span>
+						<span>🔱 3157</span>
 					</div>
 				<div class="stars-today">⭐ 1979 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37139</span>
-						<span>🔱 4923</span>
+						<span>⭐ 37244</span>
+						<span>🔱 4927</span>
 					</div>
 				<div class="stars-today">⭐ 189 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2700</span>
+						<span>⭐ 2715</span>
 						<span>🔱 177</span>
 					</div>
 				<div class="stars-today">⭐ 584 stars today</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8744</span>
-						<span>🔱 1574</span>
+						<span>⭐ 8832</span>
+						<span>🔱 1590</span>
 					</div>
 				<div class="stars-today">⭐ 1066 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wxxsfxyzm/InstallerX-Revived" target="_blank">
+    
+
+
+      
+        wxxsfxyzm /
+
+      InstallerX-Revived</a></p>
+				<p>
+      More Expressive InstallerX !
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 1046</span>
+						<span>🔱 31</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
 				</div>
 			</div>
 	
@@ -116,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2100</span>
+						<span>⭐ 2113</span>
 						<span>🔱 103</span>
 					</div>
 				<div class="stars-today">⭐ 138 stars today</div>
@@ -138,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11557</span>
-						<span>🔱 1441</span>
+						<span>⭐ 11590</span>
+						<span>🔱 1442</span>
 					</div>
 				<div class="stars-today">⭐ 444 stars today</div>
 				</div>
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18289</span>
-						<span>🔱 4395</span>
+						<span>⭐ 18308</span>
+						<span>🔱 4396</span>
 					</div>
 				<div class="stars-today">⭐ 102 stars today</div>
 				</div>
@@ -182,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2171</span>
-						<span>🔱 80</span>
+						<span>⭐ 2209</span>
+						<span>🔱 83</span>
 					</div>
 				<div class="stars-today">⭐ 153 stars today</div>
 				</div>
@@ -204,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 97228</span>
-						<span>🔱 14271</span>
+						<span>⭐ 97265</span>
+						<span>🔱 14277</span>
 					</div>
 				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
@@ -226,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3738</span>
-						<span>🔱 317</span>
+						<span>⭐ 3805</span>
+						<span>🔱 327</span>
 					</div>
 				<div class="stars-today">⭐ 147 stars today</div>
 				</div>
@@ -248,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 31447</span>
-						<span>🔱 1867</span>
+						<span>⭐ 31479</span>
+						<span>🔱 1868</span>
 					</div>
 				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10813</span>
-						<span>🔱 3008</span>
+						<span>⭐ 10825</span>
+						<span>🔱 3009</span>
 					</div>
 				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
