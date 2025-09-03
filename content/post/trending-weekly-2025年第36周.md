@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第36周
-date: 2025-09-03T09:58:49Z
+date: 2025-09-03T11:58:53Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 18444</span>
-						<span>🔱 2961</span>
-					</div>
-				<div class="stars-today">⭐ 7663 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6067</span>
-						<span>🔱 515</span>
+						<span>⭐ 6081</span>
+						<span>🔱 516</span>
 					</div>
 				<div class="stars-today">⭐ 4965 stars this week</div>
 				</div>
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 43713</span>
-						<span>🔱 3166</span>
+						<span>⭐ 43793</span>
+						<span>🔱 3172</span>
 					</div>
 				<div class="stars-today">⭐ 5312 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        plait-board /
+        asgeirtj /
 
-      drawnix</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10580</span>
-						<span>🔱 782</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 18461</span>
+						<span>🔱 2963</span>
 					</div>
-				<div class="stars-today">⭐ 1648 stars this week</div>
+				<div class="stars-today">⭐ 7663 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21132</span>
-						<span>🔱 1555</span>
+						<span>⭐ 21137</span>
+						<span>🔱 1556</span>
 					</div>
 				<div class="stars-today">⭐ 939 stars this week</div>
 				</div>
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11422</span>
-						<span>🔱 1145</span>
+						<span>⭐ 11437</span>
+						<span>🔱 1146</span>
 					</div>
 				<div class="stars-today">⭐ 1369 stars this week</div>
 				</div>
@@ -184,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26458</span>
+						<span>⭐ 26463</span>
 						<span>🔱 3995</span>
 					</div>
 				<div class="stars-today">⭐ 1949 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7510</span>
-						<span>🔱 563</span>
-					</div>
-				<div class="stars-today">⭐ 760 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codexu/note-gen" target="_blank">
-    
-
-
-      
-        codexu /
-
-      note-gen</a></p>
-				<p>
-      A cross-platform Markdown AI note-taking software.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8898</span>
-						<span>🔱 579</span>
-					</div>
-				<div class="stars-today">⭐ 832 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3897</span>
-						<span>🔱 339</span>
+						<span>⭐ 3940</span>
+						<span>🔱 354</span>
 					</div>
 				<div class="stars-today">⭐ 850 stars this week</div>
 				</div>
@@ -272,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 30124</span>
+						<span>⭐ 30128</span>
 						<span>🔱 2063</span>
 					</div>
 				<div class="stars-today">⭐ 903 stars this week</div>
@@ -280,112 +214,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
     
 
 
       
-        microsoft /
+        MODSetter /
 
-      qlib</a></p>
+      SurfSense</a></p>
 				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29798</span>
-						<span>🔱 4607</span>
+						<span>⭐ 7515</span>
+						<span>🔱 563</span>
 					</div>
-				<div class="stars-today">⭐ 815 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5209</span>
-						<span>🔱 622</span>
-					</div>
-				<div class="stars-today">⭐ 1154 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
-    
-
-
-      
-        jwasham /
-
-      coding-interview-university</a></p>
-				<p>
-      A complete computer science study plan to become a software engineer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 326264</span>
-						<span>🔱 80162</span>
-					</div>
-				<div class="stars-today">⭐ 1428 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twbs/bootstrap" target="_blank">
-    
-
-
-      
-        twbs /
-
-      bootstrap</a></p>
-				<p>
-      The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 173340</span>
-						<span>🔱 79152</span>
-					</div>
-				<div class="stars-today">⭐ 483 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/IBM/mcp-context-forge" target="_blank">
-    
-
-
-      
-        IBM /
-
-      mcp-context-forge</a></p>
-				<p>
-      A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API endpoints to MCP, composes virtual MCP servers with added security and observability, and converts between protocols (stdio, SSE, Streamable HTTP).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2310</span>
-						<span>🔱 264</span>
-					</div>
-				<div class="stars-today">⭐ 528 stars this week</div>
+				<div class="stars-today">⭐ 760 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,10 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 7301</span>
+						<span>⭐ 7302</span>
 						<span>🔱 2073</span>
 					</div>
 				<div class="stars-today">⭐ 164 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JetBrains/koog" target="_blank">
+    
+
+
+      
+        JetBrains /
+
+      koog</a></p>
+				<p>
+      Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 2742</span>
+						<span>🔱 179</span>
+					</div>
+				<div class="stars-today">⭐ 1045 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29803</span>
+						<span>🔱 4607</span>
+					</div>
+				<div class="stars-today">⭐ 815 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+    
+
+
+      
+        pedroslopez /
+
+      whatsapp-web.js</a></p>
+				<p>
+      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 18380</span>
+						<span>🔱 4399</span>
+					</div>
+				<div class="stars-today">⭐ 453 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 326281</span>
+						<span>🔱 80162</span>
+					</div>
+				<div class="stars-today">⭐ 1428 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 99869</span>
+						<span>⭐ 99872</span>
 						<span>🔱 8729</span>
 					</div>
 				<div class="stars-today">⭐ 573 stars this week</div>

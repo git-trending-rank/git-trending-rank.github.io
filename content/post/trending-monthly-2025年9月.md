@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-03T09:58:49Z
+date: 2025-09-03T11:58:53Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11463</span>
+						<span>⭐ 11466</span>
 						<span>🔱 1988</span>
 					</div>
 				<div class="stars-today">⭐ 6244 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 12466</span>
-						<span>🔱 1020</span>
+						<span>⭐ 12478</span>
+						<span>🔱 1021</span>
 					</div>
 				<div class="stars-today">⭐ 10639 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
-    
-
-
-      
-        plait-board /
-
-      drawnix</a></p>
-				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10580</span>
-						<span>🔱 782</span>
-					</div>
-				<div class="stars-today">⭐ 7354 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18444</span>
-						<span>🔱 2961</span>
+						<span>⭐ 18461</span>
+						<span>🔱 2963</span>
 					</div>
 				<div class="stars-today">⭐ 10192 stars this month</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13797</span>
-						<span>🔱 1618</span>
+						<span>⭐ 13811</span>
+						<span>🔱 1620</span>
 					</div>
 				<div class="stars-today">⭐ 7507 stars this month</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8495</span>
-						<span>🔱 254</span>
+						<span>⭐ 8500</span>
+						<span>🔱 255</span>
 					</div>
 				<div class="stars-today">⭐ 5157 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14933</span>
-						<span>🔱 1617</span>
-					</div>
-				<div class="stars-today">⭐ 4934 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38199</span>
-						<span>🔱 4424</span>
+						<span>⭐ 38220</span>
+						<span>🔱 4426</span>
 					</div>
 				<div class="stars-today">⭐ 6525 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14935</span>
+						<span>🔱 1618</span>
+					</div>
+				<div class="stars-today">⭐ 4934 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6658</span>
-						<span>🔱 813</span>
+						<span>⭐ 6670</span>
+						<span>🔱 814</span>
 					</div>
 				<div class="stars-today">⭐ 3878 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14353</span>
-						<span>🔱 1414</span>
-					</div>
-				<div class="stars-today">⭐ 10963 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3836</span>
+						<span>⭐ 3840</span>
 						<span>🔱 389</span>
 					</div>
 				<div class="stars-today">⭐ 2558 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dockur/windows" target="_blank">
+    
+
+
+      
+        dockur /
+
+      windows</a></p>
+				<p>
+      Windows inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 43793</span>
+						<span>🔱 3172</span>
+					</div>
+				<div class="stars-today">⭐ 6406 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11741</span>
-						<span>🔱 576</span>
+						<span>⭐ 11753</span>
+						<span>🔱 575</span>
 					</div>
 				<div class="stars-today">⭐ 6342 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm</a></p>
-				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57071</span>
-						<span>🔱 9871</span>
-					</div>
-				<div class="stars-today">⭐ 3294 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
-    
-
-
-      
-        ggml-org /
-
-      llama.cpp</a></p>
-				<p>
-      LLM inference in C/C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 85982</span>
-						<span>🔱 12907</span>
-					</div>
-				<div class="stars-today">⭐ 2402 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
-    
-
-
-      
-        Canner /
-
-      WrenAI</a></p>
-				<p>
-      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11422</span>
-						<span>🔱 1145</span>
-					</div>
-				<div class="stars-today">⭐ 1925 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10998</span>
-						<span>🔱 771</span>
+						<span>⭐ 11032</span>
+						<span>🔱 773</span>
 					</div>
 				<div class="stars-today">⭐ 4297 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
+    
+
+
+      
+        vllm-project /
+
+      vllm</a></p>
+				<p>
+      A high-throughput and memory-efficient inference and serving engine for LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57076</span>
+						<span>🔱 9873</span>
+					</div>
+				<div class="stars-today">⭐ 3294 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
+    
+
+
+      
+        Canner /
+
+      WrenAI</a></p>
+				<p>
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11437</span>
+						<span>🔱 1146</span>
+					</div>
+				<div class="stars-today">⭐ 1925 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+    
+
+
+      
+        dyad-sh /
+
+      dyad</a></p>
+				<p>
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14359</span>
+						<span>🔱 1414</span>
+					</div>
+				<div class="stars-today">⭐ 10963 stars this month</div>
 				</div>
 			</div>
 	
