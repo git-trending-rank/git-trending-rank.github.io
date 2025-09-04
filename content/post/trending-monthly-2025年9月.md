@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-04T09:58:49Z
+date: 2025-09-04T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11520</span>
-						<span>🔱 1994</span>
+						<span>⭐ 11528</span>
+						<span>🔱 1995</span>
 					</div>
 				<div class="stars-today">⭐ 6327 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 12587</span>
-						<span>🔱 1041</span>
+						<span>⭐ 12594</span>
+						<span>🔱 1042</span>
 					</div>
 				<div class="stars-today">⭐ 10770 stars this month</div>
 				</div>
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18706</span>
-						<span>🔱 2987</span>
+						<span>⭐ 18739</span>
+						<span>🔱 2992</span>
 					</div>
 				<div class="stars-today">⭐ 10484 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
     
 
 
       
-        simstudioai /
+        plait-board /
 
-      sim</a></p>
+      drawnix</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13964</span>
-						<span>🔱 1662</span>
+						<span>⭐ 10650</span>
+						<span>🔱 796</span>
 					</div>
-				<div class="stars-today">⭐ 7682 stars this month</div>
+				<div class="stars-today">⭐ 7457 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8559</span>
+						<span>⭐ 8570</span>
 						<span>🔱 258</span>
 					</div>
 				<div class="stars-today">⭐ 5234 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13979</span>
+						<span>🔱 1667</span>
+					</div>
+				<div class="stars-today">⭐ 7682 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38457</span>
+						<span>⭐ 38485</span>
 						<span>🔱 4439</span>
 					</div>
 				<div class="stars-today">⭐ 6735 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14963</span>
-						<span>🔱 1621</span>
-					</div>
-				<div class="stars-today">⭐ 4955 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6757</span>
+						<span>⭐ 6770</span>
 						<span>🔱 825</span>
 					</div>
 				<div class="stars-today">⭐ 3942 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
-    
-
-
-      
-        dtyq /
-
-      magic</a></p>
-				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 3869</span>
-						<span>🔱 393</span>
-					</div>
-				<div class="stars-today">⭐ 2584 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,76 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44171</span>
-						<span>🔱 3205</span>
+						<span>⭐ 44201</span>
+						<span>🔱 3208</span>
 					</div>
 				<div class="stars-today">⭐ 7269 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
+				<p><a href="https://github.com/dtyq/magic" target="_blank">
     
 
 
       
-        charmbracelet /
+        dtyq /
 
-      crush</a></p>
+      magic</a></p>
 				<p>
-      The glamourous AI coding agent for your favourite terminal 💘
+      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11864</span>
-						<span>🔱 581</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 3872</span>
+						<span>🔱 395</span>
 					</div>
-				<div class="stars-today">⭐ 5392 stars this month</div>
+				<div class="stars-today">⭐ 2584 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/oraios/serena" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        oraios /
+        nautechsystems /
 
-      serena</a></p>
+      nautilus_trader</a></p>
 				<p>
-      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11338</span>
-						<span>🔱 796</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 14965</span>
+						<span>🔱 1622</span>
 					</div>
-				<div class="stars-today">⭐ 4297 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm</a></p>
-				<p>
-      A high-throughput and memory-efficient inference and serving engine for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57163</span>
-						<span>🔱 9892</span>
-					</div>
-				<div class="stars-today">⭐ 3366 stars this month</div>
+				<div class="stars-today">⭐ 4955 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11566</span>
-						<span>🔱 1155</span>
+						<span>⭐ 11570</span>
+						<span>🔱 1156</span>
 					</div>
 				<div class="stars-today">⭐ 2052 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+				<p><a href="https://github.com/oraios/serena" target="_blank">
     
 
 
       
-        dyad-sh /
+        oraios /
 
-      dyad</a></p>
+      serena</a></p>
 				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14410</span>
-						<span>🔱 1422</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11355</span>
+						<span>🔱 797</span>
 					</div>
-				<div class="stars-today">⭐ 10246 stars this month</div>
+				<div class="stars-today">⭐ 4297 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
+    
+
+
+      
+        charmbracelet /
+
+      crush</a></p>
+				<p>
+      The glamourous AI coding agent for your favourite terminal 💘
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 11870</span>
+						<span>🔱 581</span>
+					</div>
+				<div class="stars-today">⭐ 5392 stars this month</div>
 				</div>
 			</div>
 	

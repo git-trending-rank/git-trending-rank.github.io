@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-04
-date: 2025-09-04T09:58:49Z
+date: 2025-09-04T11:58:37Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
     
 
 
       
-        pedroslopez /
+        bytebot-ai /
 
-      whatsapp-web.js</a></p>
+      bytebot</a></p>
 				<p>
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19033</span>
-						<span>🔱 4445</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4298</span>
+						<span>🔱 425</span>
 					</div>
-				<div class="stars-today">⭐ 327 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/windows" target="_blank">
-    
-
-
-      
-        dockur /
-
-      windows</a></p>
-				<p>
-      Windows inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44171</span>
-						<span>🔱 3205</span>
-					</div>
-				<div class="stars-today">⭐ 1553 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/koog" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      koog</a></p>
-				<p>
-      Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 2858</span>
-						<span>🔱 186</span>
-					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Windows system utilities to maximize productivity
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 123084</span>
-						<span>🔱 7334</span>
-					</div>
-				<div class="stars-today">⭐ 79 stars today</div>
+				<div class="stars-today">⭐ 638 stars today</div>
 				</div>
 			</div>
 	
@@ -118,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2686</span>
+						<span>⭐ 2722</span>
 						<span>🔱 99</span>
 					</div>
 				<div class="stars-today">⭐ 401 stars today</div>
@@ -126,200 +60,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/appcypher/awesome-mcp-servers" target="_blank">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
     
 
 
       
-        appcypher /
+        rustdesk /
 
-      awesome-mcp-servers</a></p>
+      rustdesk</a></p>
 				<p>
-      Awesome MCP Servers - A curated list of Model Context Protocol servers
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 4101</span>
-						<span>🔱 361</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 97435</span>
+						<span>🔱 14284</span>
 					</div>
-				<div class="stars-today">⭐ 124 stars today</div>
+				<div class="stars-today">⭐ 306 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects" target="_blank">
+				<p><a href="https://github.com/crewAIInc/crewAI" target="_blank">
     
 
 
       
-        ashishpatel26 /
+        crewAIInc /
 
-      500-AI-Agents-Projects</a></p>
+      crewAI</a></p>
 				<p>
-      The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9596</span>
-						<span>🔱 1691</span>
-					</div>
-				<div class="stars-today">⭐ 934 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kgrzybek/modular-monolith-with-ddd" target="_blank">
-    
-
-
-      
-        kgrzybek /
-
-      modular-monolith-with-ddd</a></p>
-				<p>
-      Full Modular Monolith application with Domain-Driven Design approach.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 12707</span>
-						<span>🔱 2020</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fullstackhero/dotnet-starter-kit" target="_blank">
-    
-
-
-      
-        fullstackhero /
-
-      dotnet-starter-kit</a></p>
-				<p>
-      Production Grade Cloud-Ready .NET 9 Starter Kit (Web API + Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200+ Development Hours! All Batteries Included.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 5960</span>
-						<span>🔱 1812</span>
-					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jasontaylordev/CleanArchitecture" target="_blank">
-    
-
-
-      
-        jasontaylordev /
-
-      CleanArchitecture</a></p>
-				<p>
-      Clean Architecture Solution Template for ASP.NET Core
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Bicep</span>
-						<span>⭐ 18864</span>
-						<span>🔱 3972</span>
-					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/eShop" target="_blank">
-    
-
-
-      
-        dotnet /
-
-      eShop</a></p>
-				<p>
-      A reference .NET application implementing an eCommerce site
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 8905</span>
-						<span>🔱 3009</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
-    
-
-
-      
-        chiphuyen /
-
-      aie-book</a></p>
-				<p>
-      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 7610</span>
-						<span>🔱 1008</span>
-					</div>
-				<div class="stars-today">⭐ 855 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dipakkr/A-to-Z-Resources-for-Students" target="_blank">
-    
-
-
-      
-        dipakkr /
-
-      A-to-Z-Resources-for-Students</a></p>
-				<p>
-      ✅ Curated list of resources for college students 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 19489</span>
-						<span>🔱 4645</span>
-					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oraios/serena" target="_blank">
-    
-
-
-      
-        oraios /
-
-      serena</a></p>
-				<p>
-      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+      Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11338</span>
-						<span>🔱 796</span>
+						<span>⭐ 37464</span>
+						<span>🔱 4946</span>
 					</div>
-				<div class="stars-today">⭐ 229 stars today</div>
+				<div class="stars-today">⭐ 804 stars today</div>
 				</div>
 			</div>
 	
@@ -338,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28275</span>
+						<span>⭐ 28285</span>
 						<span>🔱 2706</span>
 					</div>
 				<div class="stars-today">⭐ 42 stars today</div>
@@ -346,112 +126,200 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
     
 
 
       
-        HKUDS /
+        microsoft /
 
-      DeepCode</a></p>
+      PowerToys</a></p>
 				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+      Windows system utilities to maximize productivity
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 123100</span>
+						<span>🔱 7334</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+    
+
+
+      
+        pedroslopez /
+
+      whatsapp-web.js</a></p>
+				<p>
+      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 19068</span>
+						<span>🔱 4448</span>
+					</div>
+				<div class="stars-today">⭐ 327 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
+    
+
+
+      
+        trufflesecurity /
+
+      trufflehog</a></p>
+				<p>
+      Find, verify, and analyze leaked credentials
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20443</span>
+						<span>🔱 1971</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eriklindernoren/ML-From-Scratch" target="_blank">
+    
+
+
+      
+        eriklindernoren /
+
+      ML-From-Scratch</a></p>
+				<p>
+      Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5478</span>
-						<span>🔱 673</span>
+						<span>⭐ 27785</span>
+						<span>🔱 4848</span>
 					</div>
-				<div class="stars-today">⭐ 160 stars today</div>
+				<div class="stars-today">⭐ 188 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
+				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
     
 
 
       
-        activepieces /
+        pocketbase /
 
-      activepieces</a></p>
+      pocketbase</a></p>
 				<p>
-      AI Agents & MCPs & AI Workflow Automation • (280+ MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+      Open Source realtime backend in 1 file
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17475</span>
-						<span>🔱 2506</span>
+						<span>🔠 Go</span>
+						<span>⭐ 50296</span>
+						<span>🔱 2605</span>
 					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
+				<div class="stars-today">⭐ 50 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+				<p><a href="https://github.com/weaviate/elysia" target="_blank">
     
 
 
       
-        kestra-io /
+        weaviate /
 
-      kestra</a></p>
+      elysia</a></p>
 				<p>
-      ⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+      Python package and backend for the Elysia platform app.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 20709</span>
-						<span>🔱 1763</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1242</span>
+						<span>🔱 160</span>
 					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+				<p><a href="https://github.com/socfortress/Wazuh-Rules" target="_blank">
     
 
 
       
-        TapXWorld /
+        socfortress /
 
-      ChinaTextbook</a></p>
+      Wazuh-Rules</a></p>
 				<p>
-      所有小初高、大学PDF教材。
+      Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 48348</span>
-						<span>🔱 10844</span>
+						<span>🔠 Python</span>
+						<span>⭐ 915</span>
+						<span>🔱 241</span>
 					</div>
-				<div class="stars-today">⭐ 97 stars today</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/carthage-software/mago" target="_blank">
+				<p><a href="https://github.com/ansible/ansible" target="_blank">
     
 
 
       
-        carthage-software /
+        ansible /
 
-      mago</a></p>
+      ansible</a></p>
 				<p>
-      Mago is a toolchain for PHP that aims to provide a set of tools to help developers write better code.
+      Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 66171</span>
+						<span>🔱 24072</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
+    
+
+
+      
+        tensorzero /
+
+      tensorzero</a></p>
+				<p>
+      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 977</span>
-						<span>🔱 45</span>
+						<span>⭐ 9926</span>
+						<span>🔱 665</span>
 					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
+				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
 			</div>
 	

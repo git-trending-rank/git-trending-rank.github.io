@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第36周
-date: 2025-09-04T09:58:49Z
+date: 2025-09-04T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6200</span>
-						<span>🔱 526</span>
-					</div>
-				<div class="stars-today">⭐ 4965 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/dockur/windows" target="_blank">
@@ -52,32 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44171</span>
-						<span>🔱 3205</span>
+						<span>⭐ 44201</span>
+						<span>🔱 3208</span>
 					</div>
 				<div class="stars-today">⭐ 6797 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
     
 
 
       
-        asgeirtj /
+        QuentinFuxa /
 
-      system_prompts_leaks</a></p>
+      WhisperLiveKit</a></p>
 				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 18706</span>
-						<span>🔱 2987</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6210</span>
+						<span>🔱 528</span>
 					</div>
-				<div class="stars-today">⭐ 5585 stars this week</div>
+				<div class="stars-today">⭐ 4965 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+    
+
+
+      
+        bytebot-ai /
+
+      bytebot</a></p>
+				<p>
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4298</span>
+						<span>🔱 425</span>
+					</div>
+				<div class="stars-today">⭐ 1394 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14176</span>
-						<span>🔱 2286</span>
+						<span>⭐ 14179</span>
+						<span>🔱 2287</span>
 					</div>
 				<div class="stars-today">⭐ 861 stars this week</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21200</span>
+						<span>⭐ 21202</span>
 						<span>🔱 1558</span>
 					</div>
 				<div class="stars-today">⭐ 934 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 18739</span>
+						<span>🔱 2992</span>
+					</div>
+				<div class="stars-today">⭐ 5585 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11566</span>
-						<span>🔱 1155</span>
+						<span>⭐ 11570</span>
+						<span>🔱 1156</span>
 					</div>
 				<div class="stars-today">⭐ 1521 stars this week</div>
 				</div>
@@ -162,120 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26510</span>
+						<span>⭐ 26514</span>
 						<span>🔱 4001</span>
 					</div>
 				<div class="stars-today">⭐ 2051 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firecracker-microvm/firecracker" target="_blank">
-    
-
-
-      
-        firecracker-microvm /
-
-      firecracker</a></p>
-				<p>
-      Secure and fast microVMs for serverless computing.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 30160</span>
-						<span>🔱 2065</span>
-					</div>
-				<div class="stars-today">⭐ 849 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7548</span>
-						<span>🔱 564</span>
-					</div>
-				<div class="stars-today">⭐ 563 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gunnarmorling/1brc" target="_blank">
-    
-
-
-      
-        gunnarmorling /
-
-      1brc</a></p>
-				<p>
-      1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 7317</span>
-						<span>🔱 2074</span>
-					</div>
-				<div class="stars-today">⭐ 186 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/koog" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      koog</a></p>
-				<p>
-      Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 2858</span>
-						<span>🔱 186</span>
-					</div>
-				<div class="stars-today">⭐ 1142 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29874</span>
-						<span>🔱 4616</span>
-					</div>
-				<div class="stars-today">⭐ 848 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +206,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19033</span>
-						<span>🔱 4445</span>
+						<span>⭐ 19068</span>
+						<span>🔱 4448</span>
 					</div>
 				<div class="stars-today">⭐ 746 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+				<p><a href="https://github.com/JetBrains/koog" target="_blank">
     
 
 
       
-        jwasham /
+        JetBrains /
 
-      coding-interview-university</a></p>
+      koog</a></p>
 				<p>
-      A complete computer science study plan to become a software engineer.
+      Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 326363</span>
-						<span>🔱 80173</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 2864</span>
+						<span>🔱 188</span>
 					</div>
-				<div class="stars-today">⭐ 1483 stars this week</div>
+				<div class="stars-today">⭐ 1142 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/terminal" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        microsoft /
+        resemble-ai /
 
-      terminal</a></p>
+      chatterbox</a></p>
 				<p>
-      The new Windows Terminal and the original Windows console host, all in the same place!
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 99906</span>
-						<span>🔱 8731</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11687</span>
+						<span>🔱 1451</span>
 					</div>
-				<div class="stars-today">⭐ 553 stars this week</div>
+				<div class="stars-today">⭐ 1269 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gristlabs/grist-core" target="_blank">
+    
+
+
+      
+        gristlabs /
+
+      grist-core</a></p>
+				<p>
+      Grist is the evolution of spreadsheets.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9240</span>
+						<span>🔱 445</span>
+					</div>
+				<div class="stars-today">⭐ 261 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gunnarmorling/1brc" target="_blank">
+    
+
+
+      
+        gunnarmorling /
+
+      1brc</a></p>
+				<p>
+      1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 7318</span>
+						<span>🔱 2074</span>
+					</div>
+				<div class="stars-today">⭐ 186 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
+    
+
+
+      
+        X-PLUG /
+
+      MobileAgent</a></p>
+				<p>
+       Mobile-Agent: The Powerful GUI Agent Family
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5395</span>
+						<span>🔱 528</span>
+					</div>
+				<div class="stars-today">⭐ 315 stars this week</div>
 				</div>
 			</div>
 	
