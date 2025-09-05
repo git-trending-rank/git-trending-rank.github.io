@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-05
-date: 2025-09-05T09:58:39Z
+date: 2025-09-05T11:58:58Z
 categories:
 - daily
 keywords:
@@ -30,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4952</span>
-						<span>🔱 512</span>
+						<span>⭐ 5005</span>
+						<span>🔱 516</span>
 					</div>
 				<div class="stars-today">⭐ 394 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LukeGus/Termix" target="_blank">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
     
 
 
       
-        LukeGus /
+        microsoft /
 
-      Termix</a></p>
+      BitNet</a></p>
 				<p>
-      Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3063</span>
-						<span>🔱 116</span>
-					</div>
-				<div class="stars-today">⭐ 422 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
-    
-
-
-      
-        rustdesk /
-
-      rustdesk</a></p>
-				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 97660</span>
-						<span>🔱 14311</span>
-					</div>
-				<div class="stars-today">⭐ 130 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/crewAIInc/crewAI" target="_blank">
-    
-
-
-      
-        crewAIInc /
-
-      crewAI</a></p>
-				<p>
-      Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37673</span>
-						<span>🔱 4971</span>
+						<span>⭐ 21361</span>
+						<span>🔱 1627</span>
 					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
+				<div class="stars-today">⭐ 134 stars today</div>
 				</div>
 			</div>
 	
@@ -118,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28412</span>
-						<span>🔱 2716</span>
+						<span>⭐ 28431</span>
+						<span>🔱 2717</span>
 					</div>
 				<div class="stars-today">⭐ 175 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Windows system utilities to maximize productivity
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 123274</span>
-						<span>🔱 7338</span>
-					</div>
-				<div class="stars-today">⭐ 253 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
-    
-
-
-      
-        pedroslopez /
-
-      whatsapp-web.js</a></p>
-				<p>
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19185</span>
-						<span>🔱 4460</span>
-					</div>
-				<div class="stars-today">⭐ 627 stars today</div>
 				</div>
 			</div>
 	
@@ -184,142 +96,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20633</span>
-						<span>🔱 1979</span>
+						<span>⭐ 20659</span>
+						<span>🔱 1980</span>
 					</div>
 				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/eriklindernoren/ML-From-Scratch" target="_blank">
+				<p><a href="https://github.com/mack-a/v2ray-agent" target="_blank">
     
 
 
       
-        eriklindernoren /
+        mack-a /
 
-      ML-From-Scratch</a></p>
+      v2ray-agent</a></p>
 				<p>
-      Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.
+      Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 16886</span>
+						<span>🔱 5077</span>
+					</div>
+				<div class="stars-today">⭐ 259 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nukeop/nuclear" target="_blank">
+    
+
+
+      
+        nukeop /
+
+      nuclear</a></p>
+				<p>
+      Streaming music player that finds free music for you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14175</span>
+						<span>🔱 1145</span>
+					</div>
+				<div class="stars-today">⭐ 99 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EvolutionAPI/evolution-api" target="_blank">
+    
+
+
+      
+        EvolutionAPI /
+
+      evolution-api</a></p>
+				<p>
+      Evolution API is an open-source WhatsApp integration API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5082</span>
+						<span>🔱 4095</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/appcypher/awesome-mcp-servers" target="_blank">
+    
+
+
+      
+        appcypher /
+
+      awesome-mcp-servers</a></p>
+				<p>
+      Awesome MCP Servers - A curated list of Model Context Protocol servers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4235</span>
+						<span>🔱 373</span>
+					</div>
+				<div class="stars-today">⭐ 344 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+    
+
+
+      
+        emcie-co /
+
+      parlant</a></p>
+				<p>
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28132</span>
-						<span>🔱 4869</span>
+						<span>⭐ 8780</span>
+						<span>🔱 739</span>
 					</div>
-				<div class="stars-today">⭐ 239 stars today</div>
+				<div class="stars-today">⭐ 308 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
     
 
 
       
-        pocketbase /
+        coleam00 /
 
-      pocketbase</a></p>
+      ottomator-agents</a></p>
 				<p>
-      Open Source realtime backend in 1 file
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 50543</span>
-						<span>🔱 2618</span>
-					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/weaviate/elysia" target="_blank">
-    
-
-
-      
-        weaviate /
-
-      elysia</a></p>
-				<p>
-      Python package and backend for the Elysia platform app.
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1382</span>
-						<span>🔱 172</span>
+						<span>⭐ 3793</span>
+						<span>🔱 1411</span>
 					</div>
-				<div class="stars-today">⭐ 129 stars today</div>
+				<div class="stars-today">⭐ 19 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/socfortress/Wazuh-Rules" target="_blank">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
     
 
 
       
-        socfortress /
+        kestra-io /
 
-      Wazuh-Rules</a></p>
+      kestra</a></p>
 				<p>
-      Advanced Wazuh Rules for more accurate threat detection. Feel free to implement within your own Wazuh environment, contribute, or fork!
+      ⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 20760</span>
+						<span>🔱 1766</span>
+					</div>
+				<div class="stars-today">⭐ 203 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AI4Finance-Foundation/FinGPT" target="_blank">
+    
+
+
+      
+        AI4Finance-Foundation /
+
+      FinGPT</a></p>
+				<p>
+      FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17208</span>
+						<span>🔱 2466</span>
+					</div>
+				<div class="stars-today">⭐ 49 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 48408</span>
+						<span>🔱 10866</span>
+					</div>
+				<div class="stars-today">⭐ 242 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/airflow" target="_blank">
+    
+
+
+      
+        apache /
+
+      airflow</a></p>
+				<p>
+      Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1026</span>
-						<span>🔱 249</span>
+						<span>⭐ 41887</span>
+						<span>🔱 15524</span>
 					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
+				<div class="stars-today">⭐ 22 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ansible/ansible" target="_blank">
+				<p><a href="https://github.com/wazuh/wazuh" target="_blank">
     
 
 
       
-        ansible /
+        wazuh /
 
-      ansible</a></p>
+      wazuh</a></p>
 				<p>
-      Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+      Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 66300</span>
-						<span>🔱 24074</span>
+						<span>🔠 C</span>
+						<span>⭐ 13275</span>
+						<span>🔱 1959</span>
 					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorzero/tensorzero" target="_blank">
-    
-
-
-      
-        tensorzero /
-
-      tensorzero</a></p>
-				<p>
-      TensorZero is an open-source stack for industrial-grade LLM applications. It unifies an LLM gateway, observability, optimization, evaluation, and experimentation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10155</span>
-						<span>🔱 673</span>
-					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
+				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
 			</div>
 	

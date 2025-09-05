@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-05T09:58:39Z
+date: 2025-09-05T11:58:58Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11598</span>
-						<span>🔱 2009</span>
-					</div>
-				<div class="stars-today">⭐ 6390 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 12827</span>
-						<span>🔱 1065</span>
+						<span>⭐ 12850</span>
+						<span>🔱 1068</span>
 					</div>
 				<div class="stars-today">⭐ 10892 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11604</span>
+						<span>🔱 2009</span>
+					</div>
+				<div class="stars-today">⭐ 6390 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18951</span>
-						<span>🔱 3026</span>
+						<span>⭐ 18974</span>
+						<span>🔱 3031</span>
 					</div>
 				<div class="stars-today">⭐ 10750 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
     
 
 
       
-        plait-board /
+        langchain-ai /
 
-      drawnix</a></p>
+      open-swe</a></p>
 				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+      An Open-Source Asynchronous Coding Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10722</span>
-						<span>🔱 804</span>
+						<span>⭐ 4602</span>
+						<span>🔱 583</span>
 					</div>
-				<div class="stars-today">⭐ 7310 stars this month</div>
+				<div class="stars-today">⭐ 4545 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8735</span>
+						<span>⭐ 8747</span>
 						<span>🔱 264</span>
 					</div>
 				<div class="stars-today">⭐ 5295 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14136</span>
-						<span>🔱 1707</span>
+						<span>⭐ 14144</span>
+						<span>🔱 1712</span>
 					</div>
 				<div class="stars-today">⭐ 7811 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38712</span>
-						<span>🔱 4469</span>
+						<span>⭐ 38731</span>
+						<span>🔱 4471</span>
 					</div>
 				<div class="stars-today">⭐ 6960 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6865</span>
-						<span>🔱 832</span>
+						<span>⭐ 6871</span>
+						<span>🔱 833</span>
 					</div>
 				<div class="stars-today">⭐ 3975 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44379</span>
-						<span>🔱 3227</span>
+						<span>⭐ 44396</span>
+						<span>🔱 3230</span>
 					</div>
 				<div class="stars-today">⭐ 7653 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3913</span>
+						<span>⭐ 3915</span>
 						<span>🔱 395</span>
 					</div>
 				<div class="stars-today">⭐ 2543 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15030</span>
-						<span>🔱 1630</span>
-					</div>
-				<div class="stars-today">⭐ 4967 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11661</span>
-						<span>🔱 1166</span>
+						<span>⭐ 11666</span>
+						<span>🔱 1167</span>
 					</div>
 				<div class="stars-today">⭐ 2134 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/googletest" target="_blank">
+    
+
+
+      
+        google /
+
+      googletest</a></p>
+				<p>
+      GoogleTest - Google Testing and Mocking Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 37006</span>
+						<span>🔱 10505</span>
+					</div>
+				<div class="stars-today">⭐ 537 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11488</span>
-						<span>🔱 801</span>
+						<span>⭐ 11505</span>
+						<span>🔱 802</span>
 					</div>
 				<div class="stars-today">⭐ 4245 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/crush" target="_blank">
+				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
     
 
 
       
-        charmbracelet /
+        aliasrobotics /
 
-      crush</a></p>
+      cai</a></p>
 				<p>
-      The glamourous AI coding agent for your favourite terminal 💘
+      Cybersecurity AI (CAI), the framework for AI Security
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11963</span>
-						<span>🔱 585</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3494</span>
+						<span>🔱 477</span>
 					</div>
-				<div class="stars-today">⭐ 5042 stars this month</div>
+				<div class="stars-today">⭐ 1550 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/librespot-org/librespot" target="_blank">
+    
+
+
+      
+        librespot-org /
+
+      librespot</a></p>
+				<p>
+      Open Source Spotify client library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5578</span>
+						<span>🔱 729</span>
+					</div>
+				<div class="stars-today">⭐ 202 stars this month</div>
 				</div>
 			</div>
 	

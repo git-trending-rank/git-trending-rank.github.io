@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第36周
-date: 2025-09-05T09:58:42Z
+date: 2025-09-05T11:58:59Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44379</span>
-						<span>🔱 3227</span>
+						<span>⭐ 44396</span>
+						<span>🔱 3230</span>
 					</div>
 				<div class="stars-today">⭐ 7173 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6314</span>
+						<span>⭐ 6325</span>
 						<span>🔱 537</span>
 					</div>
 				<div class="stars-today">⭐ 4447 stars this week</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4952</span>
-						<span>🔱 512</span>
+						<span>⭐ 5005</span>
+						<span>🔱 516</span>
 					</div>
 				<div class="stars-today">⭐ 1696 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2131</span>
+						<span>🔱 197</span>
+					</div>
+				<div class="stars-today">⭐ 838 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14214</span>
+						<span>⭐ 14219</span>
 						<span>🔱 2289</span>
 					</div>
 				<div class="stars-today">⭐ 888 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      MiniCPM-V</a></p>
-				<p>
-      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21287</span>
-						<span>🔱 1576</span>
-					</div>
-				<div class="stars-today">⭐ 923 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 18951</span>
-						<span>🔱 3026</span>
-					</div>
-				<div class="stars-today">⭐ 3763 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
-    
-
-
-      
-        Canner /
-
-      WrenAI</a></p>
-				<p>
-      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11661</span>
-						<span>🔱 1166</span>
-					</div>
-				<div class="stars-today">⭐ 1479 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 26654</span>
-						<span>🔱 4006</span>
-					</div>
-				<div class="stars-today">⭐ 2100 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19185</span>
-						<span>🔱 4460</span>
+						<span>⭐ 19194</span>
+						<span>🔱 4461</span>
 					</div>
 				<div class="stars-today">⭐ 1356 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 26659</span>
+						<span>🔱 4007</span>
+					</div>
+				<div class="stars-today">⭐ 2100 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      MiniCPM-V</a></p>
+				<p>
+      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21296</span>
+						<span>🔱 1577</span>
+					</div>
+				<div class="stars-today">⭐ 923 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 2888</span>
+						<span>⭐ 2893</span>
 						<span>🔱 189</span>
 					</div>
 				<div class="stars-today">⭐ 1254 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11887</span>
-						<span>🔱 1471</span>
-					</div>
-				<div class="stars-today">⭐ 1275 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9314</span>
-						<span>🔱 451</span>
+						<span>⭐ 9318</span>
+						<span>🔱 452</span>
 					</div>
 				<div class="stars-today">⭐ 329 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dotnet/eShop" target="_blank">
+    
+
+
+      
+        dotnet /
+
+      eShop</a></p>
+				<p>
+      A reference .NET application implementing an eCommerce site
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 8932</span>
+						<span>🔱 3015</span>
+					</div>
+				<div class="stars-today">⭐ 203 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5575</span>
+						<span>🔱 708</span>
+					</div>
+				<div class="stars-today">⭐ 1161 stars this week</div>
 				</div>
 			</div>
 	
@@ -302,24 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
+				<p><a href="https://github.com/weaviate/elysia" target="_blank">
     
 
 
       
-        X-PLUG /
+        weaviate /
 
-      MobileAgent</a></p>
+      elysia</a></p>
 				<p>
-       Mobile-Agent: The Powerful GUI Agent Family
+      Python package and backend for the Elysia platform app.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5437</span>
-						<span>🔱 532</span>
+						<span>⭐ 1392</span>
+						<span>🔱 172</span>
 					</div>
-				<div class="stars-today">⭐ 309 stars this week</div>
+				<div class="stars-today">⭐ 505 stars this week</div>
 				</div>
 			</div>
 	
