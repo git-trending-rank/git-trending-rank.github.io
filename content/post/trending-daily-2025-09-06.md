@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-06
-date: 2025-09-06T09:58:36Z
+date: 2025-09-06T11:58:49Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
     
 
 
       
-        bytebot-ai /
+        zama-ai /
 
-      bytebot</a></p>
+      fhevm</a></p>
 				<p>
-      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5514</span>
-						<span>🔱 574</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 16895</span>
+						<span>🔱 694</span>
 					</div>
-				<div class="stars-today">⭐ 719 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21519</span>
-						<span>🔱 1633</span>
-					</div>
-				<div class="stars-today">⭐ 144 stars today</div>
+				<div class="stars-today">⭐ 182 stars today</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28533</span>
+						<span>⭐ 28540</span>
 						<span>🔱 2728</span>
 					</div>
 				<div class="stars-today">⭐ 148 stars today</div>
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20846</span>
+						<span>⭐ 20868</span>
 						<span>🔱 1987</span>
 					</div>
 				<div class="stars-today">⭐ 216 stars today</div>
@@ -104,112 +82,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mack-a/v2ray-agent" target="_blank">
+				<p><a href="https://github.com/rails/rails" target="_blank">
     
 
 
       
-        mack-a /
+        rails /
 
-      v2ray-agent</a></p>
+      rails</a></p>
 				<p>
-      Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+      Ruby on Rails
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 17043</span>
-						<span>🔱 5096</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 57437</span>
+						<span>🔱 21949</span>
 					</div>
-				<div class="stars-today">⭐ 281 stars today</div>
+				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nukeop/nuclear" target="_blank">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
     
 
 
       
-        nukeop /
+        microsoft /
 
-      nuclear</a></p>
+      BitNet</a></p>
 				<p>
-      Streaming music player that finds free music for you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14447</span>
-						<span>🔱 1152</span>
-					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EvolutionAPI/evolution-api" target="_blank">
-    
-
-
-      
-        EvolutionAPI /
-
-      evolution-api</a></p>
-				<p>
-      Evolution API is an open-source WhatsApp integration API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5227</span>
-						<span>🔱 4109</span>
-					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/appcypher/awesome-mcp-servers" target="_blank">
-    
-
-
-      
-        appcypher /
-
-      awesome-mcp-servers</a></p>
-				<p>
-      Awesome MCP Servers - A curated list of Model Context Protocol servers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4449</span>
-						<span>🔱 390</span>
-					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
-    
-
-
-      
-        emcie-co /
-
-      parlant</a></p>
-				<p>
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9050</span>
-						<span>🔱 756</span>
+						<span>⭐ 21527</span>
+						<span>🔱 1634</span>
 					</div>
-				<div class="stars-today">⭐ 297 stars today</div>
+				<div class="stars-today">⭐ 144 stars today</div>
 				</div>
 			</div>
 	
@@ -228,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3859</span>
+						<span>⭐ 3864</span>
 						<span>🔱 1419</span>
 					</div>
 				<div class="stars-today">⭐ 34 stars today</div>
@@ -236,68 +148,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
     
 
 
       
-        kestra-io /
+        emcie-co /
 
-      kestra</a></p>
+      parlant</a></p>
 				<p>
-      ⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9075</span>
+						<span>🔱 756</span>
+					</div>
+				<div class="stars-today">⭐ 297 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mack-a/v2ray-agent" target="_blank">
+    
+
+
+      
+        mack-a /
+
+      v2ray-agent</a></p>
+				<p>
+      Xray、Tuic、hysteria2、sing-box 八合一一键脚本
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 17055</span>
+						<span>🔱 5097</span>
+					</div>
+				<div class="stars-today">⭐ 281 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/quarkusio/quarkus" target="_blank">
+    
+
+
+      
+        quarkusio /
+
+      quarkus</a></p>
+				<p>
+      Quarkus: Supersonic Subatomic Java. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 20900</span>
-						<span>🔱 1779</span>
+						<span>⭐ 14888</span>
+						<span>🔱 2945</span>
 					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AI4Finance-Foundation/FinGPT" target="_blank">
-    
-
-
-      
-        AI4Finance-Foundation /
-
-      FinGPT</a></p>
-				<p>
-      FinGPT: Open-Source Financial Large Language Models! Revolutionize 🔥 We release the trained model on HuggingFace.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17409</span>
-						<span>🔱 2476</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 48544</span>
-						<span>🔱 10878</span>
-					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
+				<div class="stars-today">⭐ 6 stars today</div>
 				</div>
 			</div>
 	
@@ -316,32 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42059</span>
-						<span>🔱 15538</span>
+						<span>⭐ 42079</span>
+						<span>🔱 15539</span>
 					</div>
 				<div class="stars-today">⭐ 40 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/wazuh/wazuh" target="_blank">
+				<p><a href="https://github.com/apple/embedding-atlas" target="_blank">
     
 
 
       
-        wazuh /
+        apple /
 
-      wazuh</a></p>
+      embedding-atlas</a></p>
 				<p>
-      Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
+      Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 13390</span>
-						<span>🔱 1964</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3465</span>
+						<span>🔱 167</span>
 					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
+				<div class="stars-today">⭐ 49 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Eventual-Inc/Daft" target="_blank">
+    
+
+
+      
+        Eventual-Inc /
+
+      Daft</a></p>
+				<p>
+      Distributed query engine providing simple and reliable data processing for any modality and scale
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 3487</span>
+						<span>🔱 270</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF</a></p>
+				<p>
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 65120</span>
+						<span>🔱 5559</span>
+					</div>
+				<div class="stars-today">⭐ 69 stars today</div>
 				</div>
 			</div>
 	

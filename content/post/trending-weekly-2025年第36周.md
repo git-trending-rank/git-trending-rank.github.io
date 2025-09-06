@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第36周
-date: 2025-09-06T09:58:36Z
+date: 2025-09-06T11:58:49Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44509</span>
+						<span>⭐ 44516</span>
 						<span>🔱 3236</span>
 					</div>
 				<div class="stars-today">⭐ 7329 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6404</span>
-						<span>🔱 542</span>
-					</div>
-				<div class="stars-today">⭐ 4205 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5514</span>
-						<span>🔱 574</span>
+						<span>⭐ 5543</span>
+						<span>🔱 576</span>
 					</div>
 				<div class="stars-today">⭐ 2346 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
+    
+
+
+      
+        QuentinFuxa /
+
+      WhisperLiveKit</a></p>
+				<p>
+      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6408</span>
+						<span>🔱 543</span>
+					</div>
+				<div class="stars-today">⭐ 4205 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2179</span>
+						<span>⭐ 2183</span>
 						<span>🔱 205</span>
 					</div>
 				<div class="stars-today">⭐ 790 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
-    
-
-
-      
-        laramies /
-
-      theHarvester</a></p>
-				<p>
-      E-mails, subdomains and names Harvester - OSINT 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14263</span>
-						<span>🔱 2290</span>
-					</div>
-				<div class="stars-today">⭐ 896 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19224</span>
+						<span>⭐ 19226</span>
 						<span>🔱 4464</span>
 					</div>
 				<div class="stars-today">⭐ 1452 stars this week</div>
@@ -148,24 +126,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+				<p><a href="https://github.com/elixir-lang/expert" target="_blank">
     
 
 
       
-        juspay /
+        elixir-lang /
 
-      hyperswitch</a></p>
+      expert</a></p>
 				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
+      Official Elixir Language Server Protocol implementation
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 27038</span>
-						<span>🔱 4019</span>
+						<span>🔠 Elixir</span>
+						<span>⭐ 1362</span>
+						<span>🔱 30</span>
 					</div>
-				<div class="stars-today">⭐ 1720 stars this week</div>
+				<div class="stars-today">⭐ 522 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
+    
+
+
+      
+        chiphuyen /
+
+      aie-book</a></p>
+				<p>
+      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 7926</span>
+						<span>🔱 1050</span>
+					</div>
+				<div class="stars-today">⭐ 1881 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21360</span>
-						<span>🔱 1590</span>
+						<span>⭐ 21363</span>
+						<span>🔱 1591</span>
 					</div>
 				<div class="stars-today">⭐ 934 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/koog" target="_blank">
+				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
     
 
 
       
-        JetBrains /
+        laramies /
 
-      koog</a></p>
+      theHarvester</a></p>
 				<p>
-      Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+      E-mails, subdomains and names Harvester - OSINT 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 2912</span>
-						<span>🔱 193</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14268</span>
+						<span>🔱 2290</span>
 					</div>
-				<div class="stars-today">⭐ 1260 stars this week</div>
+				<div class="stars-today">⭐ 896 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9380</span>
+						<span>⭐ 9385</span>
 						<span>🔱 457</span>
 					</div>
 				<div class="stars-today">⭐ 404 stars this week</div>
@@ -236,24 +236,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/eShop" target="_blank">
+				<p><a href="https://github.com/JetBrains/koog" target="_blank">
     
 
 
       
-        dotnet /
+        JetBrains /
 
-      eShop</a></p>
+      koog</a></p>
 				<p>
-      A reference .NET application implementing an eCommerce site
+      Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 8955</span>
-						<span>🔱 3019</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 2914</span>
+						<span>🔱 193</span>
 					</div>
-				<div class="stars-today">⭐ 224 stars this week</div>
+				<div class="stars-today">⭐ 1260 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5639</span>
-						<span>🔱 731</span>
+						<span>⭐ 5647</span>
+						<span>🔱 734</span>
 					</div>
 				<div class="stars-today">⭐ 1159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7449</span>
+						<span>🔱 774</span>
+					</div>
+				<div class="stars-today">⭐ 203 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/comprehensive-rust" target="_blank">
+    
+
+
+      
+        google /
+
+      comprehensive-rust</a></p>
+				<p>
+      This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31659</span>
+						<span>🔱 1875</span>
+					</div>
+				<div class="stars-today">⭐ 968 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 28540</span>
+						<span>🔱 2728</span>
+					</div>
+				<div class="stars-today">⭐ 383 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 7349</span>
+						<span>⭐ 7350</span>
 						<span>🔱 2080</span>
 					</div>
 				<div class="stars-today">⭐ 204 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/weaviate/elysia" target="_blank">
-    
-
-
-      
-        weaviate /
-
-      elysia</a></p>
-				<p>
-      Python package and backend for the Elysia platform app.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1444</span>
-						<span>🔱 185</span>
-					</div>
-				<div class="stars-today">⭐ 551 stars this week</div>
 				</div>
 			</div>
 	
