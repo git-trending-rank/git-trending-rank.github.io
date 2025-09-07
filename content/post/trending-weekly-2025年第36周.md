@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第36周
-date: 2025-09-07T19:58:32Z
+date: 2025-09-07T21:58:32Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44677</span>
-						<span>🔱 3247</span>
+						<span>⭐ 44689</span>
+						<span>🔱 3246</span>
 					</div>
 				<div class="stars-today">⭐ 6784 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5825</span>
-						<span>🔱 621</span>
+						<span>⭐ 5834</span>
+						<span>🔱 622</span>
 					</div>
 				<div class="stars-today">⭐ 2671 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19266</span>
+						<span>⭐ 19268</span>
 						<span>🔱 4472</span>
 					</div>
 				<div class="stars-today">⭐ 1471 stars this week</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2261</span>
+						<span>⭐ 2268</span>
 						<span>🔱 210</span>
 					</div>
 				<div class="stars-today">⭐ 599 stars this week</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6497</span>
-						<span>🔱 555</span>
+						<span>⭐ 6505</span>
+						<span>🔱 556</span>
 					</div>
 				<div class="stars-today">⭐ 2964 stars this week</div>
 				</div>
@@ -135,7 +135,7 @@ keywords:
 
       koog</a></p>
 				<p>
-      Koog is the official Kotlin framework for building and running robust, scalable and production-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+      Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
     </p>
 				<div class="repo-stats">
 					<div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9466</span>
+						<span>⭐ 9471</span>
 						<span>🔱 459</span>
 					</div>
 				<div class="stars-today">⭐ 467 stars this week</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21454</span>
+						<span>⭐ 21455</span>
 						<span>🔱 1594</span>
 					</div>
 				<div class="stars-today">⭐ 816 stars this week</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12245</span>
-						<span>🔱 1530</span>
+						<span>⭐ 12259</span>
+						<span>🔱 1533</span>
 					</div>
 				<div class="stars-today">⭐ 1588 stars this week</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28692</span>
-						<span>🔱 2739</span>
+						<span>⭐ 28698</span>
+						<span>🔱 2740</span>
 					</div>
 				<div class="stars-today">⭐ 491 stars this week</div>
 				</div>
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2424</span>
+						<span>⭐ 2431</span>
 						<span>🔱 114</span>
 					</div>
 				<div class="stars-today">⭐ 558 stars this week</div>
@@ -270,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7519</span>
+						<span>⭐ 7521</span>
 						<span>🔱 780</span>
 					</div>
 				<div class="stars-today">⭐ 213 stars this week</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 7359</span>
-						<span>🔱 2082</span>
+						<span>⭐ 7360</span>
+						<span>🔱 2081</span>
 					</div>
 				<div class="stars-today">⭐ 196 stars this week</div>
 				</div>
@@ -314,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Elixir</span>
-						<span>⭐ 1382</span>
+						<span>⭐ 1384</span>
 						<span>🔱 30</span>
 					</div>
 				<div class="stars-today">⭐ 351 stars this week</div>
@@ -336,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 31750</span>
+						<span>⭐ 31752</span>
 						<span>🔱 1879</span>
 					</div>
 				<div class="stars-today">⭐ 904 stars this week</div>
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3870</span>
-						<span>🔱 278</span>
+						<span>⭐ 3887</span>
+						<span>🔱 279</span>
 					</div>
 				<div class="stars-today">⭐ 216 stars this week</div>
 				</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 8970</span>
-						<span>🔱 3022</span>
+						<span>⭐ 8971</span>
+						<span>🔱 3023</span>
 					</div>
 				<div class="stars-today">⭐ 243 stars this week</div>
 				</div>
@@ -402,7 +402,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21153</span>
+						<span>⭐ 21162</span>
 						<span>🔱 2004</span>
 					</div>
 				<div class="stars-today">⭐ 564 stars this week</div>
