@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-07T09:58:34Z
+date: 2025-09-07T11:58:54Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 13053</span>
-						<span>🔱 1100</span>
-					</div>
-				<div class="stars-today">⭐ 11231 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/coleam00/Archon" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11687</span>
+						<span>⭐ 11693</span>
 						<span>🔱 2024</span>
 					</div>
 				<div class="stars-today">⭐ 6506 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 13060</span>
+						<span>🔱 1100</span>
+					</div>
+				<div class="stars-today">⭐ 11231 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19232</span>
-						<span>🔱 3062</span>
+						<span>⭐ 19241</span>
+						<span>🔱 3063</span>
 					</div>
 				<div class="stars-today">⭐ 11082 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+    
+
+
+      
+        plait-board /
+
+      drawnix</a></p>
+				<p>
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10786</span>
+						<span>🔱 807</span>
+					</div>
+				<div class="stars-today">⭐ 7166 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8898</span>
+						<span>⭐ 8904</span>
 						<span>🔱 269</span>
 					</div>
 				<div class="stars-today">⭐ 5545 stars this month</div>
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14325</span>
+						<span>⭐ 14331</span>
 						<span>🔱 1751</span>
 					</div>
 				<div class="stars-today">⭐ 7705 stars this month</div>
@@ -140,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 39145</span>
+						<span>⭐ 39164</span>
 						<span>🔱 4529</span>
 					</div>
 				<div class="stars-today">⭐ 7280 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4721</span>
-						<span>🔱 589</span>
-					</div>
-				<div class="stars-today">⭐ 4644 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44617</span>
-						<span>🔱 3242</span>
+						<span>⭐ 44628</span>
+						<span>🔱 3244</span>
 					</div>
 				<div class="stars-today">⭐ 7923 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 7104</span>
+						<span>⭐ 7110</span>
 						<span>🔱 853</span>
 					</div>
 				<div class="stars-today">⭐ 4035 stars this month</div>
@@ -228,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 3971</span>
+						<span>⭐ 3974</span>
 						<span>🔱 398</span>
 					</div>
 				<div class="stars-today">⭐ 2588 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open-swe</a></p>
+				<p>
+      An Open-Source Asynchronous Coding Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4726</span>
+						<span>🔱 589</span>
+					</div>
+				<div class="stars-today">⭐ 4644 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3572</span>
+						<span>⭐ 3575</span>
 						<span>🔱 484</span>
 					</div>
 				<div class="stars-today">⭐ 1591 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/librespot-org/librespot" target="_blank">
-    
-
-
-      
-        librespot-org /
-
-      librespot</a></p>
-				<p>
-      Open Source Spotify client library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5604</span>
-						<span>🔱 729</span>
-					</div>
-				<div class="stars-today">⭐ 218 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
-    
-
-
-      
-        Canner /
-
-      WrenAI</a></p>
-				<p>
-      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11732</span>
-						<span>🔱 1174</span>
-					</div>
-				<div class="stars-today">⭐ 2209 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37031</span>
+						<span>⭐ 37032</span>
 						<span>🔱 10505</span>
 					</div>
 				<div class="stars-today">⭐ 546 stars this month</div>
@@ -324,46 +302,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/oraios/serena" target="_blank">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
     
 
 
       
-        oraios /
+        Canner /
 
-      serena</a></p>
+      WrenAI</a></p>
 				<p>
-      A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11688</span>
-						<span>🔱 809</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11736</span>
+						<span>🔱 1174</span>
 					</div>
-				<div class="stars-today">⭐ 4071 stars this month</div>
+				<div class="stars-today">⭐ 2209 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
+				<p><a href="https://github.com/librespot-org/librespot" target="_blank">
     
 
 
       
-        OpenBMB /
+        librespot-org /
 
-      MiniCPM-V</a></p>
+      librespot</a></p>
 				<p>
-      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+      Open Source Spotify client library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21423</span>
-						<span>🔱 1592</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 5606</span>
+						<span>🔱 729</span>
 					</div>
-				<div class="stars-today">⭐ 1479 stars this month</div>
+				<div class="stars-today">⭐ 218 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5789</span>
+						<span>⭐ 5790</span>
 						<span>🔱 1066</span>
 					</div>
 				<div class="stars-today">⭐ 525 stars this month</div>
