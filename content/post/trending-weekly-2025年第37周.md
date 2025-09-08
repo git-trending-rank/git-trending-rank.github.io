@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第37周
-date: 2025-09-08T09:58:42Z
+date: 2025-09-08T11:58:48Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44760</span>
+						<span>⭐ 44774</span>
 						<span>🔱 3253</span>
 					</div>
 				<div class="stars-today">⭐ 6152 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5959</span>
-						<span>🔱 632</span>
+						<span>⭐ 5981</span>
+						<span>🔱 633</span>
 					</div>
 				<div class="stars-today">⭐ 2808 stars this week</div>
 				</div>
@@ -74,120 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19280</span>
+						<span>⭐ 19283</span>
 						<span>🔱 4474</span>
 					</div>
 				<div class="stars-today">⭐ 1444 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2300</span>
-						<span>🔱 210</span>
-					</div>
-				<div class="stars-today">⭐ 580 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6574</span>
-						<span>🔱 564</span>
-					</div>
-				<div class="stars-today">⭐ 2535 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/koog" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      koog</a></p>
-				<p>
-      Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 2963</span>
-						<span>🔱 200</span>
-					</div>
-				<div class="stars-today">⭐ 1154 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gristlabs/grist-core" target="_blank">
-    
-
-
-      
-        gristlabs /
-
-      grist-core</a></p>
-				<p>
-      Grist is the evolution of spreadsheets.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9488</span>
-						<span>🔱 461</span>
-					</div>
-				<div class="stars-today">⭐ 473 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      MiniCPM-V</a></p>
-				<p>
-      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21478</span>
-						<span>🔱 1595</span>
-					</div>
-				<div class="stars-today">⭐ 780 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +96,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12321</span>
-						<span>🔱 1544</span>
+						<span>⭐ 12332</span>
+						<span>🔱 1546</span>
 					</div>
 				<div class="stars-today">⭐ 1709 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2305</span>
+						<span>🔱 211</span>
+					</div>
+				<div class="stars-today">⭐ 580 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/mangle" target="_blank">
+    
+
+
+      
+        google /
+
+      mangle</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2481</span>
+						<span>🔱 117</span>
+					</div>
+				<div class="stars-today">⭐ 614 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,118 +160,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 28728</span>
-						<span>🔱 2740</span>
+						<span>⭐ 28733</span>
+						<span>🔱 2741</span>
 					</div>
 				<div class="stars-today">⭐ 610 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/mangle" target="_blank">
+				<p><a href="https://github.com/JetBrains/koog" target="_blank">
     
 
 
       
-        google /
+        JetBrains /
 
-      mangle</a></p>
-				<p></p>
+      koog</a></p>
+				<p>
+      Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2474</span>
-						<span>🔱 117</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 2965</span>
+						<span>🔱 200</span>
 					</div>
-				<div class="stars-today">⭐ 614 stars this week</div>
+				<div class="stars-today">⭐ 1154 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
     
 
 
       
-        microsoft /
+        chiphuyen /
 
-      RD-Agent</a></p>
+      aie-book</a></p>
 				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7544</span>
-						<span>🔱 782</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 8113</span>
+						<span>🔱 1068</span>
 					</div>
-				<div class="stars-today">⭐ 244 stars this week</div>
+				<div class="stars-today">⭐ 1882 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gunnarmorling/1brc" target="_blank">
+				<p><a href="https://github.com/gristlabs/grist-core" target="_blank">
     
 
 
       
-        gunnarmorling /
+        gristlabs /
 
-      1brc</a></p>
+      grist-core</a></p>
 				<p>
-      1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+      Grist is the evolution of spreadsheets.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 7369</span>
-						<span>🔱 2081</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9495</span>
+						<span>🔱 461</span>
 					</div>
-				<div class="stars-today">⭐ 176 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elixir-lang/expert" target="_blank">
-    
-
-
-      
-        elixir-lang /
-
-      expert</a></p>
-				<p>
-      Official Elixir Language Server Protocol implementation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Elixir</span>
-						<span>⭐ 1396</span>
-						<span>🔱 30</span>
-					</div>
-				<div class="stars-today">⭐ 254 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/comprehensive-rust" target="_blank">
-    
-
-
-      
-        google /
-
-      comprehensive-rust</a></p>
-				<p>
-      This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 31797</span>
-						<span>🔱 1882</span>
-					</div>
-				<div class="stars-today">⭐ 896 stars this week</div>
+				<div class="stars-today">⭐ 473 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4029</span>
+						<span>⭐ 4041</span>
 						<span>🔱 283</span>
 					</div>
 				<div class="stars-today">⭐ 484 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/eShop" target="_blank">
-    
-
-
-      
-        dotnet /
-
-      eShop</a></p>
-				<p>
-      A reference .NET application implementing an eCommerce site
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 8979</span>
-						<span>🔱 3026</span>
-					</div>
-				<div class="stars-today">⭐ 241 stars this week</div>
 				</div>
 			</div>
 	
@@ -402,10 +270,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21206</span>
-						<span>🔱 2006</span>
+						<span>⭐ 21218</span>
+						<span>🔱 2007</span>
 					</div>
 				<div class="stars-today">⭐ 771 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7548</span>
+						<span>🔱 782</span>
+					</div>
+				<div class="stars-today">⭐ 244 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 97846</span>
+						<span>🔱 14334</span>
+					</div>
+				<div class="stars-today">⭐ 1059 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/comprehensive-rust" target="_blank">
+    
+
+
+      
+        google /
+
+      comprehensive-rust</a></p>
+				<p>
+      This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31802</span>
+						<span>🔱 1882</span>
+					</div>
+				<div class="stars-today">⭐ 896 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dotnet/eShop" target="_blank">
+    
+
+
+      
+        dotnet /
+
+      eShop</a></p>
+				<p>
+      A reference .NET application implementing an eCommerce site
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 8983</span>
+						<span>🔱 3026</span>
+					</div>
+				<div class="stars-today">⭐ 241 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      MiniCPM-V</a></p>
+				<p>
+      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21485</span>
+						<span>🔱 1595</span>
+					</div>
+				<div class="stars-today">⭐ 780 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 30003</span>
+						<span>🔱 4082</span>
+					</div>
+				<div class="stars-today">⭐ 3816 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/uutils/coreutils" target="_blank">
+    
+
+
+      
+        uutils /
+
+      coreutils</a></p>
+				<p>
+      Cross-platform Rust rewrite of the GNU coreutils
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21225</span>
+						<span>🔱 1537</span>
+					</div>
+				<div class="stars-today">⭐ 91 stars this week</div>
 				</div>
 			</div>
 	

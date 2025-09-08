@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-08
-date: 2025-09-08T09:58:42Z
+date: 2025-09-08T11:58:48Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10448</span>
-						<span>🔱 844</span>
+						<span>⭐ 10516</span>
+						<span>🔱 850</span>
 					</div>
-				<div class="stars-today">⭐ 264 stars today</div>
+				<div class="stars-today">⭐ 1190 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      11 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 36637</span>
+						<span>🔱 11874</span>
+					</div>
+				<div class="stars-today">⭐ 139 stars today</div>
 				</div>
 			</div>
 	
@@ -52,76 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17619</span>
+						<span>⭐ 17674</span>
 						<span>🔱 746</span>
 					</div>
-				<div class="stars-today">⭐ 524 stars today</div>
+				<div class="stars-today">⭐ 273 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
     
 
 
       
-        coleam00 /
+        bytedance /
 
-      ottomator-agents</a></p>
+      UI-TARS-desktop</a></p>
 				<p>
-      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4089</span>
-						<span>🔱 1447</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18339</span>
+						<span>🔱 1749</span>
 					</div>
-				<div class="stars-today">⭐ 99 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29985</span>
-						<span>🔱 4082</span>
-					</div>
-				<div class="stars-today">⭐ 1975 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FIRST-Tech-Challenge/FtcRobotController" target="_blank">
-    
-
-
-      
-        FIRST-Tech-Challenge /
-
-      FtcRobotController</a></p>
-				<p>
-      FTC Android Studio Workspace for robot programming in Android Studio
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 1030</span>
-						<span>🔱 6737</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
+				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 23694</span>
+						<span>⭐ 23702</span>
 						<span>🔱 11524</span>
 					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
+				<div class="stars-today">⭐ 135 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9004</span>
-						<span>🔱 874</span>
+						<span>⭐ 9046</span>
+						<span>🔱 876</span>
 					</div>
-				<div class="stars-today">⭐ 305 stars today</div>
+				<div class="stars-today">⭐ 561 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/11cafe/jaaz" target="_blank">
+    
+
+
+      
+        11cafe /
+
+      jaaz</a></p>
+				<p>
+      The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2651</span>
+						<span>🔱 262</span>
+					</div>
+				<div class="stars-today">⭐ 67 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools</a></p>
+				<p>
+      FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 81667</span>
+						<span>🔱 22778</span>
+					</div>
+				<div class="stars-today">⭐ 294 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      generative-ai-for-beginners</a></p>
+				<p>
+      21 Lessons, Get Started Building with Generative AI 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 97052</span>
+						<span>🔱 50855</span>
+					</div>
+				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
 			</div>
 	
@@ -184,186 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 65697</span>
-						<span>🔱 5589</span>
+						<span>⭐ 65745</span>
+						<span>🔱 5596</span>
 					</div>
-				<div class="stars-today">⭐ 288 stars today</div>
+				<div class="stars-today">⭐ 367 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Eventual-Inc/Daft" target="_blank">
+				<p><a href="https://github.com/Cinnamon/kotaemon" target="_blank">
     
 
 
       
-        Eventual-Inc /
+        Cinnamon /
 
-      Daft</a></p>
+      kotaemon</a></p>
 				<p>
-      Distributed query engine providing simple and reliable data processing for any modality and scale
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4029</span>
-						<span>🔱 283</span>
-					</div>
-				<div class="stars-today">⭐ 307 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
+      An open-source RAG-based tool for chatting with your documents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21804</span>
-						<span>🔱 1661</span>
+						<span>⭐ 23233</span>
+						<span>🔱 1900</span>
 					</div>
-				<div class="stars-today">⭐ 119 stars today</div>
+				<div class="stars-today">⭐ 138 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/uutils/coreutils" target="_blank">
+				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
     
 
 
       
-        uutils /
+        Zie619 /
 
-      coreutils</a></p>
+      n8n-workflows</a></p>
 				<p>
-      Cross-platform Rust rewrite of the GNU coreutils
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21213</span>
-						<span>🔱 1537</span>
-					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
-    
-
-
-      
-        pathwaycom /
-
-      pathway</a></p>
-				<p>
-      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38160</span>
-						<span>🔱 1120</span>
-					</div>
-				<div class="stars-today">⭐ 2214 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pathwaycom/llm-app" target="_blank">
-    
-
-
-      
-        pathwaycom /
-
-      llm-app</a></p>
-				<p>
-      Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 35894</span>
-						<span>🔱 967</span>
-					</div>
-				<div class="stars-today">⭐ 2063 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/henrygd/beszel" target="_blank">
-    
-
-
-      
-        henrygd /
-
-      beszel</a></p>
-				<p>
-      Lightweight server monitoring hub with historical data, docker stats, and alerts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 14871</span>
-						<span>🔱 453</span>
-					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ossu/computer-science" target="_blank">
-    
-
-
-      
-        ossu /
-
-      computer-science</a></p>
-				<p>
-      🎓 Path to a free self-taught education in Computer Science!
+      all of the workflows of n8n i could find (also from the site itself)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 192364</span>
-						<span>🔱 24009</span>
+						<span>⭐ 26743</span>
+						<span>🔱 740</span>
 					</div>
-				<div class="stars-today">⭐ 413 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 47526</span>
-						<span>🔱 2061</span>
-					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
+				<div class="stars-today">⭐ 226 stars today</div>
 				</div>
 			</div>
 	
@@ -382,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2241</span>
-						<span>🔱 215</span>
+						<span>⭐ 2280</span>
+						<span>🔱 220</span>
 					</div>
-				<div class="stars-today">⭐ 225 stars today</div>
+				<div class="stars-today">⭐ 514 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/uutils/coreutils" target="_blank">
+    
+
+
+      
+        uutils /
+
+      coreutils</a></p>
+				<p>
+      Cross-platform Rust rewrite of the GNU coreutils
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21225</span>
+						<span>🔱 1537</span>
+					</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
