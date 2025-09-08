@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-08
-date: 2025-09-08T21:58:44Z
+date: 2025-09-08T23:58:32Z
 categories:
 - daily
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10705</span>
+						<span>⭐ 10725</span>
 						<span>🔱 861</span>
 					</div>
 				<div class="stars-today">⭐ 1190 stars today</div>
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 36833</span>
-						<span>🔱 11924</span>
+						<span>⭐ 36857</span>
+						<span>🔱 11929</span>
 					</div>
-				<div class="stars-today">⭐ 139 stars today</div>
+				<div class="stars-today">⭐ 311 stars today</div>
 				</div>
 			</div>
 	
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17790</span>
+						<span>⭐ 17796</span>
 						<span>🔱 748</span>
 					</div>
 				<div class="stars-today">⭐ 273 stars today</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18409</span>
+						<span>⭐ 18420</span>
 						<span>🔱 1756</span>
 					</div>
 				<div class="stars-today">⭐ 26 stars today</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 23747</span>
+						<span>⭐ 23754</span>
 						<span>🔱 11524</span>
 					</div>
 				<div class="stars-today">⭐ 135 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9207</span>
-						<span>🔱 885</span>
+						<span>⭐ 9235</span>
+						<span>🔱 886</span>
 					</div>
 				<div class="stars-today">⭐ 561 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2887</span>
-						<span>🔱 269</span>
+						<span>⭐ 2923</span>
+						<span>🔱 270</span>
 					</div>
 				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 81902</span>
-						<span>🔱 22821</span>
+						<span>⭐ 81926</span>
+						<span>🔱 22826</span>
 					</div>
 				<div class="stars-today">⭐ 549 stars today</div>
 				</div>
@@ -206,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 97231</span>
-						<span>🔱 50887</span>
+						<span>⭐ 97258</span>
+						<span>🔱 50893</span>
 					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
+				<div class="stars-today">⭐ 263 stars today</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 65958</span>
-						<span>🔱 5602</span>
+						<span>⭐ 65973</span>
+						<span>🔱 5604</span>
 					</div>
 				<div class="stars-today">⭐ 367 stars today</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23370</span>
+						<span>⭐ 23386</span>
 						<span>🔱 1913</span>
 					</div>
 				<div class="stars-today">⭐ 128 stars today</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 26967</span>
-						<span>🔱 773</span>
+						<span>⭐ 26999</span>
+						<span>🔱 774</span>
 					</div>
 				<div class="stars-today">⭐ 296 stars today</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2410</span>
-						<span>🔱 228</span>
+						<span>⭐ 2414</span>
+						<span>🔱 230</span>
 					</div>
 				<div class="stars-today">⭐ 514 stars today</div>
 				</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21281</span>
+						<span>⭐ 21291</span>
 						<span>🔱 1538</span>
 					</div>
 				<div class="stars-today">⭐ 110 stars today</div>
