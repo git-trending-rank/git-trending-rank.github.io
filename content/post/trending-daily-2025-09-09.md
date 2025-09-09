@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-09
-date: 2025-09-09T09:59:01Z
+date: 2025-09-09T11:58:43Z
 categories:
 - daily
 keywords:
@@ -30,252 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10980</span>
-						<span>🔱 878</span>
+						<span>⭐ 11014</span>
+						<span>🔱 879</span>
 					</div>
 				<div class="stars-today">⭐ 1178 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      12 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 37162</span>
-						<span>🔱 11977</span>
-					</div>
-				<div class="stars-today">⭐ 183 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
-    
-
-
-      
-        zama-ai /
-
-      fhevm</a></p>
-				<p>
-      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17935</span>
-						<span>🔱 752</span>
-					</div>
-				<div class="stars-today">⭐ 301 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18561</span>
-						<span>🔱 1763</span>
-					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openwrt/openwrt" target="_blank">
-    
-
-
-      
-        openwrt /
-
-      openwrt</a></p>
-				<p>
-      This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 23814</span>
-						<span>🔱 11526</span>
-					</div>
-				<div class="stars-today">⭐ 135 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Kilo-Org/kilocode" target="_blank">
-    
-
-
-      
-        Kilo-Org /
-
-      kilocode</a></p>
-				<p>
-      Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects like Roo Code and Cline, while building our own vision. Follow us: kilocode.ai/social
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9410</span>
-						<span>🔱 898</span>
-					</div>
-				<div class="stars-today">⭐ 558 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/11cafe/jaaz" target="_blank">
-    
-
-
-      
-        11cafe /
-
-      jaaz</a></p>
-				<p>
-      The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3265</span>
-						<span>🔱 292</span>
-					</div>
-				<div class="stars-today">⭐ 103 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 82214</span>
-						<span>🔱 22875</span>
-					</div>
-				<div class="stars-today">⭐ 459 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 97468</span>
-						<span>🔱 50934</span>
-					</div>
-				<div class="stars-today">⭐ 130 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
-    
-
-
-      
-        Stirling-Tools /
-
-      Stirling-PDF</a></p>
-				<p>
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 66137</span>
-						<span>🔱 5620</span>
-					</div>
-				<div class="stars-today">⭐ 382 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Cinnamon/kotaemon" target="_blank">
-    
-
-
-      
-        Cinnamon /
-
-      kotaemon</a></p>
-				<p>
-      An open-source RAG-based tool for chatting with your documents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23536</span>
-						<span>🔱 1920</span>
-					</div>
-				<div class="stars-today">⭐ 116 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
-    
-
-
-      
-        Zie619 /
-
-      n8n-workflows</a></p>
-				<p>
-      all of the workflows of n8n i could find (also from the site itself)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 27387</span>
-						<span>🔱 843</span>
-					</div>
-				<div class="stars-today">⭐ 204 stars today</div>
 				</div>
 			</div>
 	
@@ -294,32 +52,296 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2599</span>
-						<span>🔱 245</span>
+						<span>⭐ 2619</span>
+						<span>🔱 247</span>
 					</div>
 				<div class="stars-today">⭐ 522 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/uutils/coreutils" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        uutils /
+        x1xhlol /
 
-      coreutils</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      Cross-platform Rust rewrite of the GNU coreutils
+      FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 82269</span>
+						<span>🔱 22889</span>
+					</div>
+				<div class="stars-today">⭐ 459 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF</a></p>
+				<p>
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 66166</span>
+						<span>🔱 5620</span>
+					</div>
+				<div class="stars-today">⭐ 382 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel/examples" target="_blank">
+    
+
+
+      
+        vercel /
+
+      examples</a></p>
+				<p>
+      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4129</span>
+						<span>🔱 1398</span>
+					</div>
+				<div class="stars-today">⭐ 67 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Cinnamon/kotaemon" target="_blank">
+    
+
+
+      
+        Cinnamon /
+
+      kotaemon</a></p>
+				<p>
+      An open-source RAG-based tool for chatting with your documents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23557</span>
+						<span>🔱 1921</span>
+					</div>
+				<div class="stars-today">⭐ 116 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pathwaycom/llm-app" target="_blank">
+    
+
+
+      
+        pathwaycom /
+
+      llm-app</a></p>
+				<p>
+      Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 37730</span>
+						<span>🔱 1020</span>
+					</div>
+				<div class="stars-today">⭐ 1889 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hiroi-sora/Umi-OCR" target="_blank">
+    
+
+
+      
+        hiroi-sora /
+
+      Umi-OCR</a></p>
+				<p>
+      OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36690</span>
+						<span>🔱 3631</span>
+					</div>
+				<div class="stars-today">⭐ 126 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/11cafe/jaaz" target="_blank">
+    
+
+
+      
+        11cafe /
+
+      jaaz</a></p>
+				<p>
+      The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3321</span>
+						<span>🔱 298</span>
+					</div>
+				<div class="stars-today">⭐ 103 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
+    
+
+
+      
+        pathwaycom /
+
+      pathway</a></p>
+				<p>
+      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40169</span>
+						<span>🔱 1214</span>
+					</div>
+				<div class="stars-today">⭐ 1513 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ClemensElflein/OpenMower" target="_blank">
+    
+
+
+      
+        ClemensElflein /
+
+      OpenMower</a></p>
+				<p>
+      Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5943</span>
+						<span>🔱 344</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21346</span>
-						<span>🔱 1540</span>
+						<span>⭐ 31846</span>
+						<span>🔱 4134</span>
 					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
+				<div class="stars-today">⭐ 1583 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Eventual-Inc/Daft" target="_blank">
+    
+
+
+      
+        Eventual-Inc /
+
+      Daft</a></p>
+				<p>
+      Distributed query engine providing simple and reliable data processing for any modality and scale
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4096</span>
+						<span>🔱 287</span>
+					</div>
+				<div class="stars-today">⭐ 226 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/immich-app/immich" target="_blank">
+    
+
+
+      
+        immich-app /
+
+      immich</a></p>
+				<p>
+      High performance self-hosted photo and video management solution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 75965</span>
+						<span>🔱 4016</span>
+					</div>
+				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      AutoAgent</a></p>
+				<p>
+      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6100</span>
+						<span>🔱 839</span>
+					</div>
+				<div class="stars-today">⭐ 59 stars today</div>
 				</div>
 			</div>
 	

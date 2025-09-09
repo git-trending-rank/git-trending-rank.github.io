@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第37周
-date: 2025-09-09T09:59:01Z
+date: 2025-09-09T11:58:43Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/windows" target="_blank">
-    
-
-
-      
-        dockur /
-
-      windows</a></p>
-				<p>
-      Windows inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44895</span>
-						<span>🔱 3264</span>
-					</div>
-				<div class="stars-today">⭐ 4651 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
@@ -52,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6156</span>
-						<span>🔱 664</span>
+						<span>⭐ 6172</span>
+						<span>🔱 668</span>
 					</div>
 				<div class="stars-today">⭐ 2846 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dockur/windows" target="_blank">
+    
+
+
+      
+        dockur /
+
+      windows</a></p>
+				<p>
+      Windows inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 44913</span>
+						<span>🔱 3264</span>
+					</div>
+				<div class="stars-today">⭐ 4651 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LukeGus/Termix" target="_blank">
+    
+
+
+      
+        LukeGus /
+
+      Termix</a></p>
+				<p>
+      Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3293</span>
+						<span>🔱 126</span>
+					</div>
+				<div class="stars-today">⭐ 1487 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19319</span>
-						<span>🔱 4482</span>
+						<span>⭐ 19322</span>
+						<span>🔱 4483</span>
 					</div>
 				<div class="stars-today">⭐ 1263 stars this week</div>
 				</div>
@@ -96,140 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12446</span>
-						<span>🔱 1565</span>
+						<span>⭐ 12453</span>
+						<span>🔱 1566</span>
 					</div>
 				<div class="stars-today">⭐ 1475 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2357</span>
-						<span>🔱 219</span>
-					</div>
-				<div class="stars-today">⭐ 437 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/mangle" target="_blank">
-    
-
-
-      
-        google /
-
-      mangle</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2546</span>
-						<span>🔱 120</span>
-					</div>
-				<div class="stars-today">⭐ 672 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 28776</span>
-						<span>🔱 2744</span>
-					</div>
-				<div class="stars-today">⭐ 662 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/koog" target="_blank">
-    
-
-
-      
-        JetBrains /
-
-      koog</a></p>
-				<p>
-      Koog is the official Kotlin framework for building predictable, fault-tolerant and enterprise-ready AI agents across all platforms – from backend services to Android and iOS, JVM, and even in-browser environments. Koog is based on our AI products expertise and provides proven solutions for complex LLM and AI problems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 2984</span>
-						<span>🔱 203</span>
-					</div>
-				<div class="stars-today">⭐ 971 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
-    
-
-
-      
-        chiphuyen /
-
-      aie-book</a></p>
-				<p>
-      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 8180</span>
-						<span>🔱 1077</span>
-					</div>
-				<div class="stars-today">⭐ 1873 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gristlabs/grist-core" target="_blank">
-    
-
-
-      
-        gristlabs /
-
-      grist-core</a></p>
-				<p>
-      Grist is the evolution of spreadsheets.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9535</span>
-						<span>🔱 463</span>
-					</div>
-				<div class="stars-today">⭐ 475 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4086</span>
+						<span>⭐ 4096</span>
 						<span>🔱 287</span>
 					</div>
 				<div class="stars-today">⭐ 721 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 28779</span>
+						<span>🔱 2745</span>
+					</div>
+				<div class="stars-today">⭐ 662 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21292</span>
+						<span>⭐ 21300</span>
 						<span>🔱 2009</span>
 					</div>
 				<div class="stars-today">⭐ 866 stars this week</div>
@@ -278,134 +192,88 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
     
 
 
       
-        microsoft /
+        emcie-co /
 
-      RD-Agent</a></p>
+      parlant</a></p>
 				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7585</span>
-						<span>🔱 789</span>
+						<span>⭐ 11014</span>
+						<span>🔱 879</span>
 					</div>
-				<div class="stars-today">⭐ 258 stars this week</div>
+				<div class="stars-today">⭐ 2730 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
-    
-
-
-      
-        rustdesk /
-
-      rustdesk</a></p>
-				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 97942</span>
-						<span>🔱 14355</span>
-					</div>
-				<div class="stars-today">⭐ 999 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/comprehensive-rust" target="_blank">
+				<p><a href="https://github.com/google/mangle" target="_blank">
     
 
 
       
         google /
 
-      comprehensive-rust</a></p>
-				<p>
-      This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
-    </p>
+      mangle</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 31836</span>
-						<span>🔱 1889</span>
+						<span>🔠 Go</span>
+						<span>⭐ 2548</span>
+						<span>🔱 121</span>
 					</div>
-				<div class="stars-today">⭐ 655 stars this week</div>
+				<div class="stars-today">⭐ 672 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/eShop" target="_blank">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
     
 
 
       
-        dotnet /
+        Stirling-Tools /
 
-      eShop</a></p>
+      Stirling-PDF</a></p>
 				<p>
-      A reference .NET application implementing an eCommerce site
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 8996</span>
-						<span>🔱 3028</span>
+						<span>🔠 Java</span>
+						<span>⭐ 66166</span>
+						<span>🔱 5620</span>
 					</div>
-				<div class="stars-today">⭐ 256 stars this week</div>
+				<div class="stars-today">⭐ 1145 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
     
 
 
       
-        OpenBMB /
+        humanlayer /
 
-      MiniCPM-V</a></p>
+      humanlayer</a></p>
 				<p>
-      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+      HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more. Bring your LLM and Framework of choice and start giving your AI agents safe access to the world. Agentic Workflows, human in the loop, tool calling
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21531</span>
-						<span>🔱 1601</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2358</span>
+						<span>🔱 219</span>
 					</div>
-				<div class="stars-today">⭐ 631 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 31832</span>
-						<span>🔱 4133</span>
-					</div>
-				<div class="stars-today">⭐ 3985 stars this week</div>
+				<div class="stars-today">⭐ 437 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,10 +292,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21346</span>
-						<span>🔱 1540</span>
+						<span>⭐ 21351</span>
+						<span>🔱 1541</span>
 					</div>
 				<div class="stars-today">⭐ 186 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 97948</span>
+						<span>🔱 14357</span>
+					</div>
+				<div class="stars-today">⭐ 999 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+    
+
+
+      
+        kestra-io /
+
+      kestra</a></p>
+				<p>
+      ⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 21003</span>
+						<span>🔱 1788</span>
+					</div>
+				<div class="stars-today">⭐ 534 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/comprehensive-rust" target="_blank">
+    
+
+
+      
+        google /
+
+      comprehensive-rust</a></p>
+				<p>
+      This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31839</span>
+						<span>🔱 1890</span>
+					</div>
+				<div class="stars-today">⭐ 655 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
+    
+
+
+      
+        pocketbase /
+
+      pocketbase</a></p>
+				<p>
+      Open Source realtime backend in 1 file
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 50659</span>
+						<span>🔱 2625</span>
+					</div>
+				<div class="stars-today">⭐ 441 stars this week</div>
 				</div>
 			</div>
 	

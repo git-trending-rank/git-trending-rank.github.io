@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-09T09:59:01Z
+date: 2025-09-09T11:58:43Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11790</span>
-						<span>🔱 2047</span>
+						<span>⭐ 11792</span>
+						<span>🔱 2048</span>
 					</div>
 				<div class="stars-today">⭐ 6575 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 13259</span>
-						<span>🔱 1118</span>
+						<span>⭐ 13271</span>
+						<span>🔱 1121</span>
 					</div>
 				<div class="stars-today">⭐ 11405 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19537</span>
-						<span>🔱 3104</span>
+						<span>⭐ 19552</span>
+						<span>🔱 3106</span>
 					</div>
 				<div class="stars-today">⭐ 11330 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ubicloud/ubicloud" target="_blank">
-    
-
-
-      
-        ubicloud /
-
-      ubicloud</a></p>
-				<p>
-      Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 10241</span>
-						<span>🔱 460</span>
-					</div>
-				<div class="stars-today">⭐ 4937 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10919</span>
+						<span>⭐ 10923</span>
 						<span>🔱 817</span>
 					</div>
 				<div class="stars-today">⭐ 7212 stars this month</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9041</span>
-						<span>🔱 273</span>
+						<span>⭐ 9047</span>
+						<span>🔱 274</span>
 					</div>
 				<div class="stars-today">⭐ 5685 stars this month</div>
 				</div>
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14520</span>
+						<span>⭐ 14526</span>
 						<span>🔱 1788</span>
 					</div>
 				<div class="stars-today">⭐ 7496 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ubicloud/ubicloud" target="_blank">
+    
+
+
+      
+        ubicloud /
+
+      ubicloud</a></p>
+				<p>
+      Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 10244</span>
+						<span>🔱 460</span>
+					</div>
+				<div class="stars-today">⭐ 4937 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44895</span>
+						<span>⭐ 44913</span>
 						<span>🔱 3264</span>
 					</div>
 				<div class="stars-today">⭐ 8142 stars this month</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 39666</span>
-						<span>🔱 4604</span>
+						<span>⭐ 39685</span>
+						<span>🔱 4612</span>
 					</div>
 				<div class="stars-today">⭐ 7094 stars this month</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 4050</span>
+						<span>⭐ 4051</span>
 						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 2642 stars this month</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 7379</span>
+						<span>⭐ 7395</span>
 						<span>🔱 871</span>
 					</div>
 				<div class="stars-today">⭐ 4072 stars this month</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3703</span>
+						<span>⭐ 3711</span>
 						<span>🔱 507</span>
 					</div>
 				<div class="stars-today">⭐ 1674 stars this month</div>
@@ -298,28 +298,6 @@ keywords:
 						<span>🔱 10508</span>
 					</div>
 				<div class="stars-today">⭐ 555 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/librespot-org/librespot" target="_blank">
-    
-
-
-      
-        librespot-org /
-
-      librespot</a></p>
-				<p>
-      Open Source Spotify client library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5641</span>
-						<span>🔱 732</span>
-					</div>
-				<div class="stars-today">⭐ 243 stars this month</div>
 				</div>
 			</div>
 	
