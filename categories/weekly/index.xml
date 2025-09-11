@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 11 Sep 2025 09:58:40 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 11 Sep 2025 11:58:56 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第37周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC37%E5%91%A8/</link>
-        <pubDate>Thu, 11 Sep 2025 09:58:40 +0000</pubDate>
+        <pubDate>Thu, 11 Sep 2025 11:58:56 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC37%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,6 +17,26 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Physical-Intelligence/openpi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Physical-Intelligence /
+
+      openpi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6072&lt;/span&gt;
+						&lt;span&gt;🔱 727&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 696 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/bytebot-ai/bytebot&#34; target=&#34;_blank&#34;&gt;
@@ -33,8 +53,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6567&lt;/span&gt;
-						&lt;span&gt;🔱 720&lt;/span&gt;
+						&lt;span&gt;⭐ 6581&lt;/span&gt;
+						&lt;span&gt;🔱 723&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2435 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,10 +75,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 66833&lt;/span&gt;
-						&lt;span&gt;🔱 5659&lt;/span&gt;
+						&lt;span&gt;⭐ 66857&lt;/span&gt;
+						&lt;span&gt;🔱 5661&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1716 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/registry&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 3512&lt;/span&gt;
+						&lt;span&gt;🔱 280&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 645 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/emcie-co/parlant&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        emcie-co /
+
+      parlant&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 11657&lt;/span&gt;
+						&lt;span&gt;🔱 932&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3193 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,7 +141,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 21401&lt;/span&gt;
+						&lt;span&gt;⭐ 21405&lt;/span&gt;
 						&lt;span&gt;🔱 1547&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 337 stars this week&lt;/div&gt;
@@ -99,52 +163,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 4316&lt;/span&gt;
+						&lt;span&gt;⭐ 4318&lt;/span&gt;
 						&lt;span&gt;🔱 295&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 954 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Physical-Intelligence/openpi&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Physical-Intelligence /
-
-      openpi&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5987&lt;/span&gt;
-						&lt;span&gt;🔱 718&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 696 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/emcie-co/parlant&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        emcie-co /
-
-      parlant&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11650&lt;/span&gt;
-						&lt;span&gt;🔱 931&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3193 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -163,54 +185,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 21397&lt;/span&gt;
-						&lt;span&gt;🔱 2015&lt;/span&gt;
+						&lt;span&gt;⭐ 21399&lt;/span&gt;
+						&lt;span&gt;🔱 2016&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 982 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/resemble-ai/chatterbox&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      SoTA open-source TTS
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12611&lt;/span&gt;
-						&lt;span&gt;🔱 1599&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 922 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LukeGus/Termix&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        LukeGus /
-
-      Termix&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3520&lt;/span&gt;
-						&lt;span&gt;🔱 135&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1127 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -229,98 +207,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4171&lt;/span&gt;
-						&lt;span&gt;🔱 343&lt;/span&gt;
+						&lt;span&gt;⭐ 4189&lt;/span&gt;
+						&lt;span&gt;🔱 346&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1401 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/registry&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/resemble-ai/chatterbox&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        modelcontextprotocol /
+        resemble-ai /
 
-      registry&lt;/a&gt;&lt;/p&gt;
+      chatterbox&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A community driven registry service for Model Context Protocol (MCP) servers.
+      SoTA open-source TTS
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 3475&lt;/span&gt;
-						&lt;span&gt;🔱 278&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 12616&lt;/span&gt;
+						&lt;span&gt;🔱 1600&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 645 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 922 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/pedroslopez/whatsapp-web.js&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Cinnamon/kotaemon&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        pedroslopez /
+        Cinnamon /
 
-      whatsapp-web.js&lt;/a&gt;&lt;/p&gt;
+      kotaemon&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+      An open-source RAG-based tool for chatting with your documents.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 19385&lt;/span&gt;
-						&lt;span&gt;🔱 4492&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 23920&lt;/span&gt;
+						&lt;span&gt;🔱 1952&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 872 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dockur/windows&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dockur /
-
-      windows&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Windows inside a Docker container.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 45102&lt;/span&gt;
-						&lt;span&gt;🔱 3280&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1243 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/aquasecurity/trivy&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        aquasecurity /
-
-      trivy&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 28857&lt;/span&gt;
-						&lt;span&gt;🔱 2744&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 706 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 828 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -339,32 +273,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 37799&lt;/span&gt;
-						&lt;span&gt;🔱 12150&lt;/span&gt;
+						&lt;span&gt;⭐ 37829&lt;/span&gt;
+						&lt;span&gt;🔱 12156&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1425 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/pocketbase/pocketbase&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pedroslopez/whatsapp-web.js&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        pocketbase /
+        pedroslopez /
 
-      pocketbase&lt;/a&gt;&lt;/p&gt;
+      whatsapp-web.js&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Open Source realtime backend in 1 file
+      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 50757&lt;/span&gt;
-						&lt;span&gt;🔱 2629&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 19388&lt;/span&gt;
+						&lt;span&gt;🔱 4491&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 481 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 872 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zama-ai/fhevm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        zama-ai /
+
+      fhevm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 18229&lt;/span&gt;
+						&lt;span&gt;🔱 762&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1702 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/examples&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel /
+
+      examples&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4492&lt;/span&gt;
+						&lt;span&gt;🔱 1425&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 374 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/kestra-io/kestra&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        kestra-io /
+
+      kestra&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 21091&lt;/span&gt;
+						&lt;span&gt;🔱 1802&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 508 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -383,32 +383,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 31908&lt;/span&gt;
+						&lt;span&gt;⭐ 31912&lt;/span&gt;
 						&lt;span&gt;🔱 1895&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 375 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/weaviate/elysia&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        weaviate /
-
-      elysia&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Python package and backend for the Elysia platform app.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1598&lt;/span&gt;
-						&lt;span&gt;🔱 210&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 439 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
