@@ -6,7 +6,417 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 10 Sep 2025 23:58:56 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 11 Sep 2025 02:53:36 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-09-11</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-09-11/</link>
+        <pubDate>Thu, 11 Sep 2025 02:53:36 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-09-11/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Physical-Intelligence/openpi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Physical-Intelligence /
+
+      openpi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 5645&lt;/span&gt;
+						&lt;span&gt;🔱 687&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 332 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/registry&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 3221&lt;/span&gt;
+						&lt;span&gt;🔱 264&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 361 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/examples&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel /
+
+      examples&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4443&lt;/span&gt;
+						&lt;span&gt;🔱 1420&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 196 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      12 Lessons to Get Started Building AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 37639&lt;/span&gt;
+						&lt;span&gt;🔱 12114&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 225 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/11cafe/jaaz&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        11cafe /
+
+      jaaz&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The world&#39;s first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4018&lt;/span&gt;
+						&lt;span&gt;🔱 336&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 412 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/twitter/the-algorithm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        twitter /
+
+      the-algorithm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Source code for the X Recommendation Algorithm
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Scala&lt;/span&gt;
+						&lt;span&gt;⭐ 65521&lt;/span&gt;
+						&lt;span&gt;🔱 12393&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1053 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ZuodaoTech/everyone-can-use-english&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ZuodaoTech /
+
+      everyone-can-use-english&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      人人都能用英语
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 27257&lt;/span&gt;
+						&lt;span&gt;🔱 4000&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 118 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tesseract-ocr/tesseract&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tesseract-ocr /
+
+      tesseract&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Tesseract Open Source OCR Engine (main repository)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 69477&lt;/span&gt;
+						&lt;span&gt;🔱 10186&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 57 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/aisheets&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        huggingface /
+
+      aisheets&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Build, enrich, and transform datasets using AI models with no code
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1257&lt;/span&gt;
+						&lt;span&gt;🔱 110&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 91 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely &amp; Orchids.app (And other Open Sourced) System Prompts, Tools &amp; AI Models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 83215&lt;/span&gt;
+						&lt;span&gt;🔱 23110&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 698 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ahujasid/blender-mcp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ahujasid /
+
+      blender-mcp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13329&lt;/span&gt;
+						&lt;span&gt;🔱 1258&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 76 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/AutoAgent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HKUDS /
+
+      AutoAgent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      &#34;AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework&#34;
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6557&lt;/span&gt;
+						&lt;span&gt;🔱 869&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 307 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Stirling-Tools/Stirling-PDF&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 66731&lt;/span&gt;
+						&lt;span&gt;🔱 5653&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 384 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/heroui-inc/heroui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        heroui-inc /
+
+      heroui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 25764&lt;/span&gt;
+						&lt;span&gt;🔱 1911&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 107 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ClemensElflein/OpenMower&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ClemensElflein /
+
+      OpenMower&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Let&#39;s upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 6134&lt;/span&gt;
+						&lt;span&gt;🔱 353&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 130 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/1Panel-dev/MaxKB&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        1Panel-dev /
+
+      MaxKB&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 18254&lt;/span&gt;
+						&lt;span&gt;🔱 2369&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 75 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ntdevlabs/tiny11builder&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ntdevlabs /
+
+      tiny11builder&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Scripts to build a trimmed-down Windows 11 image.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 PowerShell&lt;/span&gt;
+						&lt;span&gt;⭐ 13134&lt;/span&gt;
+						&lt;span&gt;🔱 1042&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 105 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/terminal&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      terminal&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The new Windows Terminal and the original Windows console host, all in the same place!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 100171&lt;/span&gt;
+						&lt;span&gt;🔱 8748&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 79 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-09-10</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-09-10/</link>
         <pubDate>Wed, 10 Sep 2025 23:58:56 +0000</pubDate>
