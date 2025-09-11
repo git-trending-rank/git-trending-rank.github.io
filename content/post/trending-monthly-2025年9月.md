@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-11T09:58:41Z
+date: 2025-09-11T11:58:56Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11905</span>
-						<span>🔱 2070</span>
-					</div>
-				<div class="stars-today">⭐ 6676 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 13466</span>
+						<span>⭐ 13474</span>
 						<span>🔱 1135</span>
 					</div>
 				<div class="stars-today">⭐ 11405 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11909</span>
+						<span>🔱 2072</span>
+					</div>
+				<div class="stars-today">⭐ 6676 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19768</span>
-						<span>🔱 3131</span>
+						<span>⭐ 19782</span>
+						<span>🔱 3133</span>
 					</div>
 				<div class="stars-today">⭐ 11598 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
-    
-
-
-      
-        plait-board /
-
-      drawnix</a></p>
-				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11073</span>
-						<span>🔱 832</span>
-					</div>
-				<div class="stars-today">⭐ 7046 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9155</span>
+						<span>⭐ 9160</span>
 						<span>🔱 276</span>
 					</div>
 				<div class="stars-today">⭐ 5801 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+    
+
+
+      
+        plait-board /
+
+      drawnix</a></p>
+				<p>
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11077</span>
+						<span>🔱 832</span>
+					</div>
+				<div class="stars-today">⭐ 7046 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14728</span>
+						<span>⭐ 14730</span>
 						<span>🔱 1827</span>
 					</div>
 				<div class="stars-today">⭐ 7679 stars this month</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45102</span>
+						<span>⭐ 45113</span>
 						<span>🔱 3280</span>
 					</div>
 				<div class="stars-today">⭐ 8399 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
-    
-
-
-      
-        twitter /
-
-      the-algorithm</a></p>
-				<p>
-      Source code for the X Recommendation Algorithm
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Scala</span>
-						<span>⭐ 65727</span>
-						<span>🔱 12415</span>
-					</div>
-				<div class="stars-today">⭐ 1773 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 40113</span>
+						<span>⭐ 40128</span>
 						<span>🔱 4657</span>
 					</div>
 				<div class="stars-today">⭐ 6443 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ubicloud/ubicloud" target="_blank">
-    
-
-
-      
-        ubicloud /
-
-      ubicloud</a></p>
-				<p>
-      Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 10311</span>
-						<span>🔱 462</span>
-					</div>
-				<div class="stars-today">⭐ 4854 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
-    
-
-
-      
-        dtyq /
-
-      magic</a></p>
-				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 4107</span>
-						<span>🔱 407</span>
-					</div>
-				<div class="stars-today">⭐ 2685 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 7689</span>
-						<span>🔱 898</span>
+						<span>⭐ 7700</span>
+						<span>🔱 900</span>
 					</div>
 				<div class="stars-today">⭐ 4135 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dtyq/magic" target="_blank">
+    
+
+
+      
+        dtyq /
+
+      magic</a></p>
+				<p>
+      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 4109</span>
+						<span>🔱 407</span>
+					</div>
+				<div class="stars-today">⭐ 2685 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3798</span>
-						<span>🔱 519</span>
+						<span>⭐ 3800</span>
+						<span>🔱 520</span>
 					</div>
 				<div class="stars-today">⭐ 1786 stars this month</div>
 				</div>
@@ -316,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21578</span>
+						<span>⭐ 21579</span>
 						<span>🔱 1605</span>
 					</div>
 				<div class="stars-today">⭐ 1631 stars this month</div>
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37072</span>
+						<span>⭐ 37074</span>
 						<span>🔱 10516</span>
 					</div>
 				<div class="stars-today">⭐ 565 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30281</span>
+						<span>🔱 4682</span>
+					</div>
+				<div class="stars-today">⭐ 2275 stars this month</div>
 				</div>
 			</div>
 	

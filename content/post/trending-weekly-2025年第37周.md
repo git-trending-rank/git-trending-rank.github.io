@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第37周
-date: 2025-09-11T09:58:40Z
+date: 2025-09-11T11:58:56Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,26 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
+    
+
+
+      
+        Physical-Intelligence /
+
+      openpi</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6072</span>
+						<span>🔱 727</span>
+					</div>
+				<div class="stars-today">⭐ 696 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
@@ -30,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6567</span>
-						<span>🔱 720</span>
+						<span>⭐ 6581</span>
+						<span>🔱 723</span>
 					</div>
 				<div class="stars-today">⭐ 2435 stars this week</div>
 				</div>
@@ -52,10 +72,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 66833</span>
-						<span>🔱 5659</span>
+						<span>⭐ 66857</span>
+						<span>🔱 5661</span>
 					</div>
 				<div class="stars-today">⭐ 1716 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry</a></p>
+				<p>
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3512</span>
+						<span>🔱 280</span>
+					</div>
+				<div class="stars-today">⭐ 645 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+    
+
+
+      
+        emcie-co /
+
+      parlant</a></p>
+				<p>
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11657</span>
+						<span>🔱 932</span>
+					</div>
+				<div class="stars-today">⭐ 3193 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21401</span>
+						<span>⭐ 21405</span>
 						<span>🔱 1547</span>
 					</div>
 				<div class="stars-today">⭐ 337 stars this week</div>
@@ -96,52 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4316</span>
+						<span>⭐ 4318</span>
 						<span>🔱 295</span>
 					</div>
 				<div class="stars-today">⭐ 954 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
-    
-
-
-      
-        Physical-Intelligence /
-
-      openpi</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5987</span>
-						<span>🔱 718</span>
-					</div>
-				<div class="stars-today">⭐ 696 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
-    
-
-
-      
-        emcie-co /
-
-      parlant</a></p>
-				<p>
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11650</span>
-						<span>🔱 931</span>
-					</div>
-				<div class="stars-today">⭐ 3193 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,54 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21397</span>
-						<span>🔱 2015</span>
+						<span>⭐ 21399</span>
+						<span>🔱 2016</span>
 					</div>
 				<div class="stars-today">⭐ 982 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12611</span>
-						<span>🔱 1599</span>
-					</div>
-				<div class="stars-today">⭐ 922 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LukeGus/Termix" target="_blank">
-    
-
-
-      
-        LukeGus /
-
-      Termix</a></p>
-				<p>
-      Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3520</span>
-						<span>🔱 135</span>
-					</div>
-				<div class="stars-today">⭐ 1127 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,98 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4171</span>
-						<span>🔱 343</span>
+						<span>⭐ 4189</span>
+						<span>🔱 346</span>
 					</div>
 				<div class="stars-today">⭐ 1401 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        resemble-ai /
 
-      registry</a></p>
+      chatterbox</a></p>
 				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3475</span>
-						<span>🔱 278</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12616</span>
+						<span>🔱 1600</span>
 					</div>
-				<div class="stars-today">⭐ 645 stars this week</div>
+				<div class="stars-today">⭐ 922 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+				<p><a href="https://github.com/Cinnamon/kotaemon" target="_blank">
     
 
 
       
-        pedroslopez /
+        Cinnamon /
 
-      whatsapp-web.js</a></p>
+      kotaemon</a></p>
 				<p>
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+      An open-source RAG-based tool for chatting with your documents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19385</span>
-						<span>🔱 4492</span>
+						<span>🔠 Python</span>
+						<span>⭐ 23920</span>
+						<span>🔱 1952</span>
 					</div>
-				<div class="stars-today">⭐ 872 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/windows" target="_blank">
-    
-
-
-      
-        dockur /
-
-      windows</a></p>
-				<p>
-      Windows inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 45102</span>
-						<span>🔱 3280</span>
-					</div>
-				<div class="stars-today">⭐ 1243 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 28857</span>
-						<span>🔱 2744</span>
-					</div>
-				<div class="stars-today">⭐ 706 stars this week</div>
+				<div class="stars-today">⭐ 828 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,32 +270,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 37799</span>
-						<span>🔱 12150</span>
+						<span>⭐ 37829</span>
+						<span>🔱 12156</span>
 					</div>
 				<div class="stars-today">⭐ 1425 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pocketbase/pocketbase" target="_blank">
+				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
     
 
 
       
-        pocketbase /
+        pedroslopez /
 
-      pocketbase</a></p>
+      whatsapp-web.js</a></p>
 				<p>
-      Open Source realtime backend in 1 file
+      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 50757</span>
-						<span>🔱 2629</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 19388</span>
+						<span>🔱 4491</span>
 					</div>
-				<div class="stars-today">⭐ 481 stars this week</div>
+				<div class="stars-today">⭐ 872 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
+    
+
+
+      
+        zama-ai /
+
+      fhevm</a></p>
+				<p>
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18229</span>
+						<span>🔱 762</span>
+					</div>
+				<div class="stars-today">⭐ 1702 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel/examples" target="_blank">
+    
+
+
+      
+        vercel /
+
+      examples</a></p>
+				<p>
+      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4492</span>
+						<span>🔱 1425</span>
+					</div>
+				<div class="stars-today">⭐ 374 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+    
+
+
+      
+        kestra-io /
+
+      kestra</a></p>
+				<p>
+      ⚡ Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 21091</span>
+						<span>🔱 1802</span>
+					</div>
+				<div class="stars-today">⭐ 508 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 31908</span>
+						<span>⭐ 31912</span>
 						<span>🔱 1895</span>
 					</div>
 				<div class="stars-today">⭐ 375 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/weaviate/elysia" target="_blank">
-    
-
-
-      
-        weaviate /
-
-      elysia</a></p>
-				<p>
-      Python package and backend for the Elysia platform app.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1598</span>
-						<span>🔱 210</span>
-					</div>
-				<div class="stars-today">⭐ 439 stars this week</div>
 				</div>
 			</div>
 	

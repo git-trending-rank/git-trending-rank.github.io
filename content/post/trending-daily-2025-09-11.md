@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-11
-date: 2025-09-11T09:58:41Z
+date: 2025-09-11T11:58:56Z
 categories:
 - daily
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5987</span>
-						<span>🔱 718</span>
+						<span>⭐ 6072</span>
+						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 332 stars today</div>
 				</div>
@@ -50,76 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3475</span>
-						<span>🔱 278</span>
+						<span>⭐ 3512</span>
+						<span>🔱 280</span>
 					</div>
 				<div class="stars-today">⭐ 361 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/examples" target="_blank">
-    
-
-
-      
-        vercel /
-
-      examples</a></p>
-				<p>
-      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4483</span>
-						<span>🔱 1424</span>
-					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      12 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 37799</span>
-						<span>🔱 12150</span>
-					</div>
-				<div class="stars-today">⭐ 225 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/11cafe/jaaz" target="_blank">
-    
-
-
-      
-        11cafe /
-
-      jaaz</a></p>
-				<p>
-      The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4171</span>
-						<span>🔱 343</span>
-					</div>
-				<div class="stars-today">⭐ 412 stars today</div>
 				</div>
 			</div>
 	
@@ -138,162 +72,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 65727</span>
-						<span>🔱 12415</span>
+						<span>⭐ 65788</span>
+						<span>🔱 12422</span>
 					</div>
 				<div class="stars-today">⭐ 1053 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
+				<p><a href="https://github.com/google/material-design-icons" target="_blank">
     
 
 
       
-        ZuodaoTech /
+        google /
 
-      everyone-can-use-english</a></p>
+      material-design-icons</a></p>
 				<p>
-      人人都能用英语
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27498</span>
-						<span>🔱 4021</span>
-					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tesseract-ocr/tesseract" target="_blank">
-    
-
-
-      
-        tesseract-ocr /
-
-      tesseract</a></p>
-				<p>
-      Tesseract Open Source OCR Engine (main repository)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 69532</span>
-						<span>🔱 10190</span>
-					</div>
-				<div class="stars-today">⭐ 57 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/aisheets" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      aisheets</a></p>
-				<p>
-      Build, enrich, and transform datasets using AI models with no code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1331</span>
-						<span>🔱 112</span>
-					</div>
-				<div class="stars-today">⭐ 91 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
+      Material Design icons by Google (Material Symbols)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 83384</span>
-						<span>🔱 23134</span>
+						<span>⭐ 52067</span>
+						<span>🔱 9671</span>
 					</div>
-				<div class="stars-today">⭐ 698 stars today</div>
+				<div class="stars-today">⭐ 5 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ahujasid/blender-mcp" target="_blank">
+				<p><a href="https://github.com/ccfos/nightingale" target="_blank">
     
 
 
       
-        ahujasid /
+        ccfos /
 
-      blender-mcp</a></p>
-				<p></p>
+      nightingale</a></p>
+				<p>
+      Nightingale for monitoring and alerting, just as Grafana for visualization.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13384</span>
-						<span>🔱 1259</span>
+						<span>🔠 Go</span>
+						<span>⭐ 11636</span>
+						<span>🔱 1579</span>
 					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
+				<div class="stars-today">⭐ 205 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
+				<p><a href="https://github.com/mxrch/GHunt" target="_blank">
     
 
 
       
-        HKUDS /
+        mxrch /
 
-      AutoAgent</a></p>
+      GHunt</a></p>
 				<p>
-      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+      🕵️‍♂️ Offensive Google framework.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6637</span>
-						<span>🔱 874</span>
+						<span>⭐ 17384</span>
+						<span>🔱 1476</span>
 					</div>
-				<div class="stars-today">⭐ 307 stars today</div>
+				<div class="stars-today">⭐ 289 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+				<p><a href="https://github.com/agno-agi/agno" target="_blank">
     
 
 
       
-        Stirling-Tools /
+        agno-agi /
 
-      Stirling-PDF</a></p>
+      agno</a></p>
 				<p>
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
+      High-performance runtime for multi-agent systems. Build, run and manage secure multi-agent systems in your cloud.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 66833</span>
-						<span>🔱 5659</span>
+						<span>🔠 Python</span>
+						<span>⭐ 33095</span>
+						<span>🔱 4216</span>
 					</div>
-				<div class="stars-today">⭐ 384 stars today</div>
+				<div class="stars-today">⭐ 80 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aaPanel/BillionMail" target="_blank">
+    
+
+
+      
+        aaPanel /
+
+      BillionMail</a></p>
+				<p>
+      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 10054</span>
+						<span>🔱 896</span>
+					</div>
+				<div class="stars-today">⭐ 209 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
+    
+
+
+      
+        MotiaDev /
+
+      motia</a></p>
+				<p>
+      Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7933</span>
+						<span>🔱 601</span>
+					</div>
+				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
 			</div>
 	
@@ -312,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25864</span>
-						<span>🔱 1917</span>
+						<span>⭐ 25886</span>
+						<span>🔱 1919</span>
 					</div>
 				<div class="stars-today">⭐ 107 stars today</div>
 				</div>
@@ -334,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 6149</span>
+						<span>⭐ 6155</span>
 						<span>🔱 356</span>
 					</div>
 				<div class="stars-today">⭐ 130 stars today</div>
@@ -342,68 +256,156 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/1Panel-dev/MaxKB" target="_blank">
+				<p><a href="https://github.com/epfml/ML_course" target="_blank">
     
 
 
       
-        1Panel-dev /
+        epfml /
 
-      MaxKB</a></p>
+      ML_course</a></p>
 				<p>
-      🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+      EPFL Machine Learning Course, Fall 2025
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 1373</span>
+						<span>🔱 936</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+    
+
+
+      
+        NationalSecurityAgency /
+
+      ghidra</a></p>
+				<p>
+      Ghidra is a software reverse engineering (SRE) framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 60103</span>
+						<span>🔱 6699</span>
+					</div>
+				<div class="stars-today">⭐ 59 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supabase/supabase" target="_blank">
+    
+
+
+      
+        supabase /
+
+      supabase</a></p>
+				<p>
+      The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 88288</span>
+						<span>🔱 9781</span>
+					</div>
+				<div class="stars-today">⭐ 76 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Azure/azure-sdk-for-python" target="_blank">
+    
+
+
+      
+        Azure /
+
+      azure-sdk-for-python</a></p>
+				<p>
+      This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18315</span>
-						<span>🔱 2375</span>
+						<span>⭐ 5070</span>
+						<span>🔱 3107</span>
 					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
+				<div class="stars-today">⭐ 1 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        ntdevlabs /
+        x1xhlol /
 
-      tiny11builder</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      Scripts to build a trimmed-down Windows 11 image.
+      FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 13206</span>
-						<span>🔱 1044</span>
+						<span>🔠 </span>
+						<span>⭐ 83427</span>
+						<span>🔱 23143</span>
 					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
+				<div class="stars-today">⭐ 698 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/terminal" target="_blank">
+				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
     
 
 
       
-        microsoft /
+        Zie619 /
 
-      terminal</a></p>
+      n8n-workflows</a></p>
 				<p>
-      The new Windows Terminal and the original Windows console host, all in the same place!
+      all of the workflows of n8n i could find (also from the site itself)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 100218</span>
-						<span>🔱 8754</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 28196</span>
+						<span>🔱 1039</span>
 					</div>
-				<div class="stars-today">⭐ 79 stars today</div>
+				<div class="stars-today">⭐ 421 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 49134</span>
+						<span>🔱 11060</span>
+					</div>
+				<div class="stars-today">⭐ 226 stars today</div>
 				</div>
 			</div>
 	
