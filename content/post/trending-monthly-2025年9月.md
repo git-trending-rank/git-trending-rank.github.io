@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-12T09:58:59Z
+date: 2025-09-12T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 13575</span>
-						<span>🔱 1147</span>
+						<span>⭐ 13586</span>
+						<span>🔱 1149</span>
 					</div>
 				<div class="stars-today">⭐ 11439 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11951</span>
+						<span>⭐ 11954</span>
 						<span>🔱 2079</span>
 					</div>
 				<div class="stars-today">⭐ 6730 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19981</span>
-						<span>🔱 3166</span>
+						<span>⭐ 20004</span>
+						<span>🔱 3168</span>
 					</div>
 				<div class="stars-today">⭐ 11683 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9205</span>
+						<span>⭐ 9212</span>
 						<span>🔱 276</span>
 					</div>
 				<div class="stars-today">⭐ 5824 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11141</span>
+						<span>⭐ 11147</span>
 						<span>🔱 840</span>
 					</div>
 				<div class="stars-today">⭐ 7021 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14776</span>
-						<span>🔱 1835</span>
+						<span>⭐ 14783</span>
+						<span>🔱 1838</span>
 					</div>
 				<div class="stars-today">⭐ 7724 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45197</span>
-						<span>🔱 3286</span>
+						<span>⭐ 45204</span>
+						<span>🔱 3287</span>
 					</div>
 				<div class="stars-today">⭐ 8458 stars this month</div>
 				</div>
@@ -184,10 +184,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 40308</span>
-						<span>🔱 4683</span>
+						<span>⭐ 40326</span>
+						<span>🔱 4689</span>
 					</div>
 				<div class="stars-today">⭐ 6178 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
+    
+
+
+      
+        Physical-Intelligence /
+
+      openpi</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6861</span>
+						<span>🔱 776</span>
+					</div>
+				<div class="stars-today">⭐ 2108 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 7795</span>
+						<span>⭐ 7804</span>
 						<span>🔱 906</span>
 					</div>
 				<div class="stars-today">⭐ 4094 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
-    
-
-
-      
-        dtyq /
-
-      magic</a></p>
-				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 4131</span>
-						<span>🔱 412</span>
-					</div>
-				<div class="stars-today">⭐ 2677 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3839</span>
+						<span>⭐ 3842</span>
 						<span>🔱 528</span>
 					</div>
 				<div class="stars-today">⭐ 1815 stars this month</div>
@@ -258,24 +256,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
+				<p><a href="https://github.com/dtyq/magic" target="_blank">
     
 
 
       
-        OpenBMB /
+        dtyq /
 
-      MiniCPM-V</a></p>
+      magic</a></p>
 				<p>
-      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21608</span>
-						<span>🔱 1610</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 4135</span>
+						<span>🔱 412</span>
 					</div>
-				<div class="stars-today">⭐ 1640 stars this month</div>
+				<div class="stars-today">⭐ 2677 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37076</span>
+						<span>⭐ 37078</span>
 						<span>🔱 10519</span>
 					</div>
 				<div class="stars-today">⭐ 568 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      MiniCPM-V</a></p>
+				<p>
+      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21609</span>
+						<span>🔱 1611</span>
+					</div>
+				<div class="stars-today">⭐ 1640 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30351</span>
-						<span>🔱 4691</span>
+						<span>⭐ 30353</span>
+						<span>🔱 4692</span>
 					</div>
 				<div class="stars-today">⭐ 2311 stars this month</div>
 				</div>
