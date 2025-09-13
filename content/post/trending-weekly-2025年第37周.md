@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第37周
-date: 2025-09-13T09:58:41Z
+date: 2025-09-13T11:58:48Z
 categories:
 - weekly
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7240</span>
-						<span>🔱 799</span>
+						<span>⭐ 7260</span>
+						<span>🔱 801</span>
 					</div>
 				<div class="stars-today">⭐ 2395 stars this week</div>
 				</div>
@@ -50,32 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3970</span>
+						<span>⭐ 3975</span>
 						<span>🔱 302</span>
 					</div>
 				<div class="stars-today">⭐ 1700 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
-    
-
-
-      
-        Stirling-Tools /
-
-      Stirling-PDF</a></p>
-				<p>
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 67071</span>
-						<span>🔱 5676</span>
-					</div>
-				<div class="stars-today">⭐ 2021 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11890</span>
+						<span>⭐ 11895</span>
 						<span>🔱 952</span>
 					</div>
 				<div class="stars-today">⭐ 3040 stars this week</div>
@@ -102,46 +80,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
     
 
 
       
-        bytebot-ai /
+        Stirling-Tools /
 
-      bytebot</a></p>
+      Stirling-PDF</a></p>
 				<p>
-      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6820</span>
-						<span>🔱 751</span>
+						<span>🔠 Java</span>
+						<span>⭐ 67076</span>
+						<span>🔱 5676</span>
 					</div>
-				<div class="stars-today">⭐ 1709 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/uutils/coreutils" target="_blank">
-    
-
-
-      
-        uutils /
-
-      coreutils</a></p>
-				<p>
-      Cross-platform Rust rewrite of the GNU coreutils
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21457</span>
-						<span>🔱 1549</span>
-					</div>
-				<div class="stars-today">⭐ 379 stars this week</div>
+				<div class="stars-today">⭐ 2021 stars this week</div>
 				</div>
 			</div>
 	
@@ -168,50 +124,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
-    
-
-
-      
-        trufflesecurity /
-
-      trufflehog</a></p>
-				<p>
-      Find, verify, and analyze leaked credentials
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21509</span>
-						<span>🔱 2023</span>
-					</div>
-				<div class="stars-today">⭐ 789 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/11cafe/jaaz" target="_blank">
-    
-
-
-      
-        11cafe /
-
-      jaaz</a></p>
-				<p>
-      The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4390</span>
-						<span>🔱 355</span>
-					</div>
-				<div class="stars-today">⭐ 1847 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/vercel/examples" target="_blank">
     
 
@@ -226,10 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4585</span>
+						<span>⭐ 4586</span>
 						<span>🔱 1433</span>
 					</div>
 				<div class="stars-today">⭐ 567 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firebase/genkit" target="_blank">
+    
+
+
+      
+        firebase /
+
+      genkit</a></p>
+				<p>
+      An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3232</span>
+						<span>🔱 392</span>
+					</div>
+				<div class="stars-today">⭐ 437 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24063</span>
+						<span>⭐ 24064</span>
 						<span>🔱 1966</span>
 					</div>
 				<div class="stars-today">⭐ 1044 stars this week</div>
@@ -270,32 +204,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38158</span>
-						<span>🔱 12272</span>
+						<span>⭐ 38171</span>
+						<span>🔱 12275</span>
 					</div>
 				<div class="stars-today">⭐ 1843 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
     
 
 
       
-        resemble-ai /
+        trufflesecurity /
 
-      chatterbox</a></p>
+      trufflehog</a></p>
 				<p>
-      SoTA open-source TTS
+      Find, verify, and analyze leaked credentials
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12714</span>
-						<span>🔱 1613</span>
+						<span>🔠 Go</span>
+						<span>⭐ 21519</span>
+						<span>🔱 2023</span>
 					</div>
-				<div class="stars-today">⭐ 776 stars this week</div>
+				<div class="stars-today">⭐ 789 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
+    
+
+
+      
+        Zie619 /
+
+      n8n-workflows</a></p>
+				<p>
+      all of the workflows of n8n i could find (also from the site itself)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 29259</span>
+						<span>🔱 1199</span>
+					</div>
+				<div class="stars-today">⭐ 2849 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/11cafe/jaaz" target="_blank">
+    
+
+
+      
+        11cafe /
+
+      jaaz</a></p>
+				<p>
+      The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4396</span>
+						<span>🔱 356</span>
+					</div>
+				<div class="stars-today">⭐ 1847 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18549</span>
-						<span>🔱 778</span>
+						<span>⭐ 18563</span>
+						<span>🔱 779</span>
 					</div>
 				<div class="stars-today">⭐ 1617 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+    
+
+
+      
+        bytebot-ai /
+
+      bytebot</a></p>
+				<p>
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6827</span>
+						<span>🔱 751</span>
+					</div>
+				<div class="stars-today">⭐ 1709 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12723</span>
+						<span>🔱 1615</span>
+					</div>
+				<div class="stars-today">⭐ 776 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,32 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26216</span>
-						<span>🔱 1928</span>
+						<span>⭐ 26221</span>
+						<span>🔱 1929</span>
 					</div>
 				<div class="stars-today">⭐ 777 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/awslabs/agent-squad" target="_blank">
-    
-
-
-      
-        awslabs /
-
-      agent-squad</a></p>
-				<p>
-      Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6827</span>
-						<span>🔱 607</span>
-					</div>
-				<div class="stars-today">⭐ 316 stars this week</div>
 				</div>
 			</div>
 	

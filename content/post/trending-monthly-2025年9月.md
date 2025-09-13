@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-13T09:58:41Z
+date: 2025-09-13T11:58:48Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 13660</span>
-						<span>🔱 1156</span>
+						<span>⭐ 13667</span>
+						<span>🔱 1157</span>
 					</div>
 				<div class="stars-today">⭐ 11526 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11988</span>
+						<span>⭐ 11991</span>
 						<span>🔱 2082</span>
 					</div>
 				<div class="stars-today">⭐ 6769 stars this month</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20120</span>
-						<span>🔱 3180</span>
+						<span>⭐ 20130</span>
+						<span>🔱 3181</span>
 					</div>
 				<div class="stars-today">⭐ 11884 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+    
+
+
+      
+        twitter /
+
+      the-algorithm</a></p>
+				<p>
+      Source code for the X Recommendation Algorithm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Scala</span>
+						<span>⭐ 66331</span>
+						<span>🔱 12480</span>
+					</div>
+				<div class="stars-today">⭐ 2914 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9258</span>
+						<span>⭐ 9259</span>
 						<span>🔱 278</span>
 					</div>
 				<div class="stars-today">⭐ 5829 stars this month</div>
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11186</span>
+						<span>⭐ 11188</span>
 						<span>🔱 841</span>
 					</div>
 				<div class="stars-today">⭐ 7034 stars this month</div>
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14834</span>
+						<span>⭐ 14839</span>
 						<span>🔱 1845</span>
 					</div>
 				<div class="stars-today">⭐ 7762 stars this month</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45273</span>
+						<span>⭐ 45279</span>
 						<span>🔱 3292</span>
 					</div>
 				<div class="stars-today">⭐ 8544 stars this month</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 40482</span>
-						<span>🔱 4711</span>
+						<span>⭐ 40503</span>
+						<span>🔱 4712</span>
 					</div>
 				<div class="stars-today">⭐ 5975 stars this month</div>
 				</div>
@@ -204,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7240</span>
-						<span>🔱 799</span>
+						<span>⭐ 7260</span>
+						<span>🔱 801</span>
 					</div>
 				<div class="stars-today">⭐ 2724 stars this month</div>
 				</div>
@@ -226,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 7849</span>
+						<span>⭐ 7857</span>
 						<span>🔱 911</span>
 					</div>
 				<div class="stars-today">⭐ 4035 stars this month</div>
@@ -248,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67850</span>
-						<span>🔱 8499</span>
+						<span>⭐ 67887</span>
+						<span>🔱 8511</span>
 					</div>
 				<div class="stars-today">⭐ 10857 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
-    
-
-
-      
-        aliasrobotics /
-
-      cai</a></p>
-				<p>
-      Cybersecurity AI (CAI), the framework for AI Security
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3865</span>
-						<span>🔱 529</span>
-					</div>
-				<div class="stars-today">⭐ 1851 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dtyq/magic" target="_blank">
-    
-
-
-      
-        dtyq /
-
-      magic</a></p>
-				<p>
-      Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 4159</span>
-						<span>🔱 412</span>
-					</div>
-				<div class="stars-today">⭐ 2646 stars this month</div>
 				</div>
 			</div>
 	
@@ -322,6 +300,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30410</span>
+						<span>🔱 4706</span>
+					</div>
+				<div class="stars-today">⭐ 2342 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
     
 
@@ -340,28 +340,6 @@ keywords:
 						<span>🔱 1616</span>
 					</div>
 				<div class="stars-today">⭐ 1661 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30406</span>
-						<span>🔱 4705</span>
-					</div>
-				<div class="stars-today">⭐ 2342 stars this month</div>
 				</div>
 			</div>
 	
