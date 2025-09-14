@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-14T09:58:41Z
+date: 2025-09-14T11:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 13722</span>
-						<span>🔱 1166</span>
+						<span>⭐ 13729</span>
+						<span>🔱 1167</span>
 					</div>
 				<div class="stars-today">⭐ 11590 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12028</span>
-						<span>🔱 2089</span>
-					</div>
-				<div class="stars-today">⭐ 6799 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20214</span>
-						<span>🔱 3192</span>
+						<span>⭐ 20222</span>
+						<span>🔱 3195</span>
 					</div>
 				<div class="stars-today">⭐ 11968 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        twitter /
+        coleam00 /
 
-      the-algorithm</a></p>
+      Archon</a></p>
 				<p>
-      Source code for the X Recommendation Algorithm
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Scala</span>
-						<span>⭐ 66440</span>
-						<span>🔱 12495</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12030</span>
+						<span>🔱 2090</span>
 					</div>
-				<div class="stars-today">⭐ 2962 stars this month</div>
+				<div class="stars-today">⭐ 6799 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9322</span>
+						<span>⭐ 9326</span>
 						<span>🔱 282</span>
 					</div>
 				<div class="stars-today">⭐ 5865 stars this month</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11225</span>
-						<span>🔱 845</span>
+						<span>⭐ 11230</span>
+						<span>🔱 846</span>
 					</div>
 				<div class="stars-today">⭐ 7032 stars this month</div>
 				</div>
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14889</span>
-						<span>🔱 1855</span>
+						<span>⭐ 14892</span>
+						<span>🔱 1856</span>
 					</div>
 				<div class="stars-today">⭐ 7775 stars this month</div>
 				</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45324</span>
-						<span>🔱 3299</span>
+						<span>⭐ 45331</span>
+						<span>🔱 3300</span>
 					</div>
 				<div class="stars-today">⭐ 8597 stars this month</div>
 				</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 40632</span>
-						<span>🔱 4734</span>
+						<span>⭐ 40642</span>
+						<span>🔱 4735</span>
 					</div>
 				<div class="stars-today">⭐ 5982 stars this month</div>
 				</div>
@@ -226,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7373</span>
+						<span>⭐ 7382</span>
 						<span>🔱 817</span>
 					</div>
 				<div class="stars-today">⭐ 3050 stars this month</div>
@@ -234,46 +212,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
     
 
 
       
-        basecamp /
+        MODSetter /
 
-      omarchy</a></p>
+      SurfSense</a></p>
 				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 7950</span>
-						<span>🔱 914</span>
-					</div>
-				<div class="stars-today">⭐ 3956 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68208</span>
-						<span>🔱 8580</span>
+						<span>⭐ 7690</span>
+						<span>🔱 583</span>
 					</div>
-				<div class="stars-today">⭐ 10979 stars this month</div>
+				<div class="stars-today">⭐ 1383 stars this month</div>
 				</div>
 			</div>
 	
@@ -293,9 +249,53 @@ keywords:
 					<div>
 						<span>🔠 C++</span>
 						<span>⭐ 37105</span>
-						<span>🔱 10522</span>
+						<span>🔱 10523</span>
 					</div>
 				<div class="stars-today">⭐ 574 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 68228</span>
+						<span>🔱 8583</span>
+					</div>
+				<div class="stars-today">⭐ 10979 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Opinionated Arch/Hyprland Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 7959</span>
+						<span>🔱 914</span>
+					</div>
+				<div class="stars-today">⭐ 3956 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30456</span>
-						<span>🔱 4712</span>
+						<span>⭐ 30464</span>
+						<span>🔱 4715</span>
 					</div>
 				<div class="stars-today">⭐ 2360 stars this month</div>
 				</div>
@@ -336,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21684</span>
+						<span>⭐ 21685</span>
 						<span>🔱 1618</span>
 					</div>
 				<div class="stars-today">⭐ 1694 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
+    
+
+
+      
+        trufflesecurity /
+
+      trufflehog</a></p>
+				<p>
+      Find, verify, and analyze leaked credentials
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21615</span>
+						<span>🔱 2029</span>
+					</div>
+				<div class="stars-today">⭐ 1396 stars this month</div>
 				</div>
 			</div>
 	

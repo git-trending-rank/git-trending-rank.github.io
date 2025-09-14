@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-14
-date: 2025-09-14T09:58:40Z
+date: 2025-09-14T11:58:41Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 49157</span>
-						<span>🔱 7877</span>
+						<span>⭐ 49211</span>
+						<span>🔱 7882</span>
 					</div>
 				<div class="stars-today">⭐ 157 stars today</div>
 				</div>
@@ -52,76 +52,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4294</span>
-						<span>🔱 153</span>
+						<span>⭐ 4332</span>
+						<span>🔱 155</span>
 					</div>
 				<div class="stars-today">⭐ 853 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
+				<p><a href="https://github.com/SkyworkAI/DeepResearchAgent" target="_blank">
     
 
 
       
-        MotiaDev /
+        SkyworkAI /
 
-      motia</a></p>
+      DeepResearchAgent</a></p>
 				<p>
-      Modern Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+      DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8334</span>
-						<span>🔱 621</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1715</span>
+						<span>🔱 272</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
+				<p><a href="https://github.com/ccxt/ccxt" target="_blank">
     
 
 
       
-        grpc /
+        ccxt /
 
-      grpc-go</a></p>
+      ccxt</a></p>
 				<p>
-      The Go language implementation of gRPC. HTTP/2 based RPC
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22289</span>
-						<span>🔱 4568</span>
-					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
-    
-
-
-      
-        sentient-agi /
-
-      ROMA</a></p>
-				<p>
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+      A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1979</span>
-						<span>🔱 192</span>
+						<span>⭐ 38070</span>
+						<span>🔱 8161</span>
 					</div>
-				<div class="stars-today">⭐ 290 stars today</div>
+				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 68228</span>
+						<span>🔱 8583</span>
+					</div>
+				<div class="stars-today">⭐ 364 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24122</span>
+						<span>🔱 2534</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/midday-ai/midday" target="_blank">
+    
+
+
+      
+        midday-ai /
+
+      midday</a></p>
+				<p>
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11968</span>
+						<span>🔱 1093</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
 			</div>
 	
@@ -140,142 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 4407</span>
-						<span>🔱 547</span>
+						<span>⭐ 4427</span>
+						<span>🔱 550</span>
 					</div>
 				<div class="stars-today">⭐ 46 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Azure/azure-sdk-for-python" target="_blank">
+				<p><a href="https://github.com/deepset-ai/haystack" target="_blank">
     
 
 
       
-        Azure /
+        deepset-ai /
 
-      azure-sdk-for-python</a></p>
+      haystack</a></p>
 				<p>
-      This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python. 
+      AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5325</span>
-						<span>🔱 3115</span>
+						<span>⭐ 22262</span>
+						<span>🔱 2348</span>
 					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
+				<p><a href="https://github.com/docker/mcp-gateway" target="_blank">
     
 
 
       
-        CodebuffAI /
+        docker /
 
-      codebuff</a></p>
+      mcp-gateway</a></p>
 				<p>
-      Generate code from the terminal!
+      docker mcp CLI plugin / MCP Gateway
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 372</span>
+						<span>🔱 59</span>
+					</div>
+				<div class="stars-today">⭐ 23 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firebase/genkit" target="_blank">
+    
+
+
+      
+        firebase /
+
+      genkit</a></p>
+				<p>
+      Google's multi-model AI framework in Javascript, Go and Python
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1562</span>
-						<span>🔱 182</span>
+						<span>⭐ 3308</span>
+						<span>🔱 398</span>
 					</div>
-				<div class="stars-today">⭐ 320 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
-    
-
-
-      
-        protocolbuffers /
-
-      protobuf</a></p>
-				<p>
-      Protocol Buffers - Google's data interchange format
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 69068</span>
-						<span>🔱 15863</span>
-					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebook/folly" target="_blank">
-    
-
-
-      
-        facebook /
-
-      folly</a></p>
-				<p>
-      An open-source C++ library developed and used at Facebook.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 29838</span>
-						<span>🔱 5774</span>
-					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/transformers" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      transformers</a></p>
-				<p>
-      🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 149733</span>
-						<span>🔱 30388</span>
-					</div>
-				<div class="stars-today">⭐ 61 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17263</span>
-						<span>🔱 1449</span>
-					</div>
-				<div class="stars-today">⭐ 69 stars today</div>
+				<div class="stars-today">⭐ 192 stars today</div>
 				</div>
 			</div>
 	
@@ -294,74 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 21511</span>
-						<span>🔱 1120</span>
+						<span>⭐ 21543</span>
+						<span>🔱 1121</span>
 					</div>
 				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fla-org/flash-linear-attention" target="_blank">
+				<p><a href="https://github.com/unclecode/crawl4ai" target="_blank">
     
 
 
       
-        fla-org /
+        unclecode /
 
-      flash-linear-attention</a></p>
+      crawl4ai</a></p>
 				<p>
-      🚀 Efficient implementations of state-of-the-art linear attention models
+      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3261</span>
-						<span>🔱 252</span>
+						<span>⭐ 52845</span>
+						<span>🔱 5268</span>
 					</div>
-				<div class="stars-today">⭐ 9 stars today</div>
+				<div class="stars-today">⭐ 160 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/garak" target="_blank">
+				<p><a href="https://github.com/Arindam200/awesome-ai-apps" target="_blank">
     
 
 
       
-        NVIDIA /
+        Arindam200 /
 
-      garak</a></p>
+      awesome-ai-apps</a></p>
 				<p>
-      the LLM vulnerability scanner
+      A collection of projects showcasing RAG, agents, workflows, and other AI use cases
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5720</span>
-						<span>🔱 596</span>
+						<span>⭐ 5342</span>
+						<span>🔱 670</span>
 					</div>
-				<div class="stars-today">⭐ 215 stars today</div>
+				<div class="stars-today">⭐ 79 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
     
 
 
       
-        Physical-Intelligence /
+        donnemartin /
 
-      openpi</a></p>
-				<p></p>
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7373</span>
-						<span>🔱 817</span>
+						<span>⭐ 319499</span>
+						<span>🔱 52231</span>
 					</div>
-				<div class="stars-today">⭐ 396 stars today</div>
+				<div class="stars-today">⭐ 117 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ml-explore/mlx-lm" target="_blank">
+    
+
+
+      
+        ml-explore /
+
+      mlx-lm</a></p>
+				<p>
+      Run LLMs with MLX
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1895</span>
+						<span>🔱 226</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
 				</div>
 			</div>
 	
