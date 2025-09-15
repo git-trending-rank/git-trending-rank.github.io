@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-15
-date: 2025-09-15T09:58:44Z
+date: 2025-09-15T11:58:41Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 74059</span>
+						<span>🔱 4113</span>
+					</div>
+				<div class="stars-today">⭐ 702 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
@@ -30,208 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 49654</span>
-						<span>🔱 7909</span>
+						<span>⭐ 49673</span>
+						<span>🔱 7911</span>
 					</div>
 				<div class="stars-today">⭐ 692 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trueadm/ripple" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        trueadm /
+        x1xhlol /
 
-      ripple</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      the elegant TypeScript UI framework
+      FULL v0, Cursor, Manus, Augment Code, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser, Xcode, Trae AI, Cluely & Orchids.app (And other Open Sourced) System Prompts, Tools & AI Models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 4622</span>
-						<span>🔱 166</span>
+						<span>🔠 </span>
+						<span>⭐ 84947</span>
+						<span>🔱 23417</span>
 					</div>
-				<div class="stars-today">⭐ 304 stars today</div>
+				<div class="stars-today">⭐ 685 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SkyworkAI/DeepResearchAgent" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        SkyworkAI /
+        virattt /
 
-      DeepResearchAgent</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2084</span>
-						<span>🔱 297</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ccxt/ccxt" target="_blank">
-    
-
-
-      
-        ccxt /
-
-      ccxt</a></p>
-				<p>
-      A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38284</span>
-						<span>🔱 8172</span>
+						<span>⭐ 40167</span>
+						<span>🔱 7111</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 114 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+				<p><a href="https://github.com/SoftFever/OrcaSlicer" target="_blank">
     
 
 
       
-        ItzCrazyKns /
+        SoftFever /
 
-      Perplexica</a></p>
+      OrcaSlicer</a></p>
 				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+      G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24422</span>
-						<span>🔱 2559</span>
+						<span>🔠 C++</span>
+						<span>⭐ 10743</span>
+						<span>🔱 1381</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/midday-ai/midday" target="_blank">
-    
-
-
-      
-        midday-ai /
-
-      midday</a></p>
-				<p>
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12144</span>
-						<span>🔱 1103</span>
-					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ReVanced/revanced-patches" target="_blank">
-    
-
-
-      
-        ReVanced /
-
-      revanced-patches</a></p>
-				<p>
-      🧩 Patches for ReVanced
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 4554</span>
-						<span>🔱 558</span>
-					</div>
-				<div class="stars-today">⭐ 185 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepset-ai/haystack" target="_blank">
-    
-
-
-      
-        deepset-ai /
-
-      haystack</a></p>
-				<p>
-      AI orchestration framework to build customizable, production-ready LLM applications. Connect components (models, vector DBs, file converters) to pipelines or agents that can interact with your data. With advanced retrieval methods, it's best suited for building RAG, question answering, semantic search or conversational agent chatbots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22490</span>
-						<span>🔱 2360</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/docker/mcp-gateway" target="_blank">
-    
-
-
-      
-        docker /
-
-      mcp-gateway</a></p>
-				<p>
-      docker mcp CLI plugin / MCP Gateway
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 537</span>
-						<span>🔱 64</span>
-					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
-    
-
-
-      
-        firebase /
-
-      genkit</a></p>
-				<p>
-      Google's multi-model AI framework in Javascript, Go and Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3503</span>
-						<span>🔱 411</span>
-					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
+				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 21832</span>
-						<span>🔱 1129</span>
+						<span>⭐ 21848</span>
+						<span>🔱 1130</span>
 					</div>
 				<div class="stars-today">⭐ 357 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24443</span>
+						<span>🔱 2559</span>
+					</div>
+				<div class="stars-today">⭐ 36 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      AI coding agent, built for the terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23204</span>
+						<span>🔱 1610</span>
+					</div>
+				<div class="stars-today">⭐ 175 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
+    
+
+
+      
+        Zie619 /
+
+      n8n-workflows</a></p>
+				<p>
+      all of the workflows of n8n i could find (also from the site itself)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 30067</span>
+						<span>🔱 1414</span>
+					</div>
+				<div class="stars-today">⭐ 361 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ccxt/ccxt" target="_blank">
+    
+
+
+      
+        ccxt /
+
+      ccxt</a></p>
+				<p>
+      A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38299</span>
+						<span>🔱 8173</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/midday-ai/midday" target="_blank">
+    
+
+
+      
+        midday-ai /
+
+      midday</a></p>
+				<p>
+      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview & your own Assistant made for Freelancers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12159</span>
+						<span>🔱 1103</span>
+					</div>
+				<div class="stars-today">⭐ 36 stars today</div>
 				</div>
 			</div>
 	
@@ -272,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53102</span>
+						<span>⭐ 53125</span>
 						<span>🔱 5291</span>
 					</div>
 				<div class="stars-today">⭐ 157 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Arindam200/awesome-ai-apps" target="_blank">
-    
-
-
-      
-        Arindam200 /
-
-      awesome-ai-apps</a></p>
-				<p>
-      A collection of projects showcasing RAG, agents, workflows, and other AI use cases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5765</span>
-						<span>🔱 690</span>
-					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
-    
-
-
-      
-        donnemartin /
-
-      system-design-primer</a></p>
-				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 319703</span>
-						<span>🔱 52259</span>
-					</div>
-				<div class="stars-today">⭐ 112 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2038</span>
+						<span>⭐ 2047</span>
 						<span>🔱 236</span>
 					</div>
 				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+    
+
+
+      
+        CorentinJ /
+
+      Real-Time-Voice-Cloning</a></p>
+				<p>
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55478</span>
+						<span>🔱 9135</span>
+					</div>
+				<div class="stars-today">⭐ 201 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mnh-jansson/open-battery-information" target="_blank">
+    
+
+
+      
+        mnh-jansson /
+
+      open-battery-information</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 388</span>
+						<span>🔱 100</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6120</span>
+						<span>🔱 847</span>
+					</div>
+				<div class="stars-today">⭐ 177 stars today</div>
 				</div>
 			</div>
 	

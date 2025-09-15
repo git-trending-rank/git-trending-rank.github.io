@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-15T09:58:43Z
+date: 2025-09-15T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 13819</span>
+						<span>⭐ 13827</span>
 						<span>🔱 1178</span>
 					</div>
 				<div class="stars-today">⭐ 11635 stars this month</div>
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20390</span>
-						<span>🔱 3216</span>
+						<span>⭐ 20402</span>
+						<span>🔱 3219</span>
 					</div>
 				<div class="stars-today">⭐ 12018 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
     
 
 
       
-        coleam00 /
+        twitter /
 
-      Archon</a></p>
+      the-algorithm</a></p>
 				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+      Source code for the X Recommendation Algorithm
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12055</span>
-						<span>🔱 2093</span>
+						<span>🔠 Scala</span>
+						<span>⭐ 66517</span>
+						<span>🔱 12508</span>
 					</div>
-				<div class="stars-today">⭐ 6641 stars this month</div>
+				<div class="stars-today">⭐ 3103 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9381</span>
+						<span>⭐ 9391</span>
 						<span>🔱 285</span>
 					</div>
 				<div class="stars-today">⭐ 5927 stars this month</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11294</span>
-						<span>🔱 852</span>
+						<span>⭐ 11301</span>
+						<span>🔱 851</span>
 					</div>
 				<div class="stars-today">⭐ 7035 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14978</span>
+						<span>⭐ 14986</span>
 						<span>🔱 1868</span>
 					</div>
 				<div class="stars-today">⭐ 7818 stars this month</div>
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45386</span>
-						<span>🔱 3307</span>
+						<span>⭐ 45395</span>
+						<span>🔱 3308</span>
 					</div>
 				<div class="stars-today">⭐ 8636 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12057</span>
+						<span>🔱 2093</span>
+					</div>
+				<div class="stars-today">⭐ 6641 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 40865</span>
-						<span>🔱 4763</span>
+						<span>⭐ 40884</span>
+						<span>🔱 4764</span>
 					</div>
 				<div class="stars-today">⭐ 5951 stars this month</div>
 				</div>
@@ -204,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7446</span>
+						<span>⭐ 7450</span>
 						<span>🔱 831</span>
 					</div>
 				<div class="stars-today">⭐ 3148 stars this month</div>
@@ -226,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7725</span>
+						<span>⭐ 7727</span>
 						<span>🔱 587</span>
 					</div>
 				<div class="stars-today">⭐ 1383 stars this month</div>
@@ -248,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37108</span>
+						<span>⭐ 37110</span>
 						<span>🔱 10524</span>
 					</div>
 				<div class="stars-today">⭐ 578 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 8061</span>
-						<span>🔱 918</span>
-					</div>
-				<div class="stars-today">⭐ 3933 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30528</span>
+						<span>⭐ 30535</span>
 						<span>🔱 4723</span>
 					</div>
 				<div class="stars-today">⭐ 2369 stars this month</div>
@@ -300,24 +300,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
     
 
 
       
-        OpenBMB /
+        basecamp /
 
-      MiniCPM-V</a></p>
+      omarchy</a></p>
 				<p>
-      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
+      Opinionated Arch/Hyprland Setup
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21710</span>
-						<span>🔱 1622</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 8068</span>
+						<span>🔱 919</span>
 					</div>
-				<div class="stars-today">⭐ 1705 stars this month</div>
+				<div class="stars-today">⭐ 3933 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21694</span>
-						<span>🔱 2035</span>
+						<span>⭐ 21696</span>
+						<span>🔱 2036</span>
 					</div>
 				<div class="stars-today">⭐ 1484 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+    
+
+
+      
+        pedroslopez /
+
+      whatsapp-web.js</a></p>
+				<p>
+      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 19479</span>
+						<span>🔱 4508</span>
+					</div>
+				<div class="stars-today">⭐ 1904 stars this month</div>
 				</div>
 			</div>
 	

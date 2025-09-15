@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第38周
-date: 2025-09-15T09:58:44Z
+date: 2025-09-15T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -28,7 +28,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7446</span>
+						<span>⭐ 7450</span>
 						<span>🔱 831</span>
 					</div>
 				<div class="stars-today">⭐ 2871 stars this week</div>
@@ -50,98 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4163</span>
-						<span>🔱 314</span>
+						<span>⭐ 4169</span>
+						<span>🔱 317</span>
 					</div>
 				<div class="stars-today">⭐ 1915 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
-    
-
-
-      
-        Stirling-Tools /
-
-      Stirling-PDF</a></p>
-				<p>
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 67293</span>
-						<span>🔱 5699</span>
-					</div>
-				<div class="stars-today">⭐ 1817 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
-    
-
-
-      
-        firebase /
-
-      genkit</a></p>
-				<p>
-      Google's multi-model AI framework in Javascript, Go and Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3503</span>
-						<span>🔱 411</span>
-					</div>
-				<div class="stars-today">⭐ 534 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/examples" target="_blank">
-    
-
-
-      
-        vercel /
-
-      examples</a></p>
-				<p>
-      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4645</span>
-						<span>🔱 1440</span>
-					</div>
-				<div class="stars-today">⭐ 609 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
-    
-
-
-      
-        emcie-co /
-
-      parlant</a></p>
-				<p>
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12055</span>
-						<span>🔱 968</span>
-					</div>
-				<div class="stars-today">⭐ 2564 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 49654</span>
-						<span>🔱 7909</span>
+						<span>⭐ 49673</span>
+						<span>🔱 7911</span>
 					</div>
 				<div class="stars-today">⭐ 947 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/vercel/examples" target="_blank">
     
 
 
       
-        microsoft /
+        vercel /
 
-      ai-agents-for-beginners</a></p>
+      examples</a></p>
 				<p>
-      12 Lessons to Get Started Building AI Agents
+      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38466</span>
-						<span>🔱 12392</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4649</span>
+						<span>🔱 1440</span>
 					</div>
-				<div class="stars-today">⭐ 1888 stars this week</div>
+				<div class="stars-today">⭐ 609 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +116,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 30032</span>
-						<span>🔱 1405</span>
+						<span>⭐ 30067</span>
+						<span>🔱 1414</span>
 					</div>
 				<div class="stars-today">⭐ 3098 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF</a></p>
+				<p>
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 67299</span>
+						<span>🔱 5699</span>
+					</div>
+				<div class="stars-today">⭐ 1817 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      12 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 38479</span>
+						<span>🔱 12396</span>
+					</div>
+				<div class="stars-today">⭐ 1888 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
+    
+
+
+      
+        grpc /
+
+      grpc-go</a></p>
+				<p>
+      The Go language implementation of gRPC. HTTP/2 based RPC
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 22306</span>
+						<span>🔱 4573</span>
+					</div>
+				<div class="stars-today">⭐ 139 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+    
+
+
+      
+        emcie-co /
+
+      parlant</a></p>
+				<p>
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12058</span>
+						<span>🔱 969</span>
+					</div>
+				<div class="stars-today">⭐ 2564 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24180</span>
+						<span>⭐ 24186</span>
 						<span>🔱 1974</span>
 					</div>
 				<div class="stars-today">⭐ 1012 stars this week</div>
@@ -248,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4540</span>
+						<span>⭐ 4551</span>
 						<span>🔱 368</span>
 					</div>
 				<div class="stars-today">⭐ 1917 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heroui-inc/heroui" target="_blank">
+    
+
+
+      
+        heroui-inc /
+
+      heroui</a></p>
+				<p>
+      🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26395</span>
+						<span>🔱 1931</span>
+					</div>
+				<div class="stars-today">⭐ 944 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4406</span>
+						<span>⭐ 4408</span>
 						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 598 stars this week</div>
@@ -292,76 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21694</span>
-						<span>🔱 2035</span>
+						<span>⭐ 21696</span>
+						<span>🔱 2036</span>
 					</div>
 				<div class="stars-today">⭐ 511 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
+				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
     
 
 
       
-        zama-ai /
+        NationalSecurityAgency /
 
-      fhevm</a></p>
+      ghidra</a></p>
 				<p>
-      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+      Ghidra is a software reverse engineering (SRE) framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18946</span>
-						<span>🔱 798</span>
+						<span>🔠 Java</span>
+						<span>⭐ 60456</span>
+						<span>🔱 6731</span>
 					</div>
-				<div class="stars-today">⭐ 1450 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
-    
-
-
-      
-        grpc /
-
-      grpc-go</a></p>
-				<p>
-      The Go language implementation of gRPC. HTTP/2 based RPC
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22306</span>
-						<span>🔱 4572</span>
-					</div>
-				<div class="stars-today">⭐ 139 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/awslabs/agent-squad" target="_blank">
-    
-
-
-      
-        awslabs /
-
-      agent-squad</a></p>
-				<p>
-      Flexible and powerful framework for managing multiple AI agents and handling complex conversations
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6875</span>
-						<span>🔱 608</span>
-					</div>
-				<div class="stars-today">⭐ 254 stars this week</div>
+				<div class="stars-today">⭐ 490 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10673</span>
+						<span>⭐ 10686</span>
 						<span>🔱 952</span>
 					</div>
 				<div class="stars-today">⭐ 933 stars this week</div>
@@ -388,46 +366,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
+				<p><a href="https://github.com/google/material-design-icons" target="_blank">
     
 
 
       
-        openai /
+        google /
 
-      codex</a></p>
+      material-design-icons</a></p>
 				<p>
-      Lightweight coding agent that runs in your terminal
+      Material Design icons by Google (Material Symbols)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 40865</span>
-						<span>🔱 4763</span>
+						<span>🔠 </span>
+						<span>⭐ 52211</span>
+						<span>🔱 9672</span>
 					</div>
-				<div class="stars-today">⭐ 1527 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ast-grep/ast-grep" target="_blank">
-    
-
-
-      
-        ast-grep /
-
-      ast-grep</a></p>
-				<p>
-      ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10418</span>
-						<span>🔱 267</span>
-					</div>
-				<div class="stars-today">⭐ 283 stars this week</div>
+				<div class="stars-today">⭐ 180 stars this week</div>
 				</div>
 			</div>
 	
