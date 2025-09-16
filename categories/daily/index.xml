@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 16 Sep 2025 09:58:39 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 16 Sep 2025 11:58:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-09-16</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-09-16/</link>
-        <pubDate>Tue, 16 Sep 2025 09:58:39 +0000</pubDate>
+        <pubDate>Tue, 16 Sep 2025 11:58:52 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-09-16/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,252 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 74690&lt;/span&gt;
-						&lt;span&gt;🔱 4145&lt;/span&gt;
+						&lt;span&gt;⭐ 74822&lt;/span&gt;
+						&lt;span&gt;🔱 4151&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 756 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/PowerShell/PowerShell&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        PowerShell /
-
-      PowerShell&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      PowerShell for every system!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 49811&lt;/span&gt;
-						&lt;span&gt;🔱 7922&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 484 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 85434&lt;/span&gt;
-						&lt;span&gt;🔱 23498&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 704 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An AI Hedge Fund Team
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 40452&lt;/span&gt;
-						&lt;span&gt;🔱 7133&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 132 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/SoftFever/OrcaSlicer&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        SoftFever /
-
-      OrcaSlicer&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 10879&lt;/span&gt;
-						&lt;span&gt;🔱 1386&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/simdjson/simdjson&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        simdjson /
-
-      simdjson&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 22078&lt;/span&gt;
-						&lt;span&gt;🔱 1141&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 309 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ItzCrazyKns/Perplexica&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 24759&lt;/span&gt;
-						&lt;span&gt;🔱 2578&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 326 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sst/opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sst /
-
-      opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI coding agent, built for the terminal.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23641&lt;/span&gt;
-						&lt;span&gt;🔱 1635&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 189 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Zie619/n8n-workflows&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Zie619 /
-
-      n8n-workflows&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      all of the workflows of n8n i could find (also from the site itself)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 30661&lt;/span&gt;
-						&lt;span&gt;🔱 1498&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 496 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ccxt/ccxt&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ccxt /
-
-      ccxt&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 38548&lt;/span&gt;
-						&lt;span&gt;🔱 8190&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 239 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/midday-ai/midday&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        midday-ai /
-
-      midday&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant made for Freelancers
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12331&lt;/span&gt;
-						&lt;span&gt;🔱 1113&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 192 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/unclecode/crawl4ai&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        unclecode /
-
-      crawl4ai&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 53372&lt;/span&gt;
-						&lt;span&gt;🔱 5304&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 289 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,52 +55,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2155&lt;/span&gt;
-						&lt;span&gt;🔱 237&lt;/span&gt;
+						&lt;span&gt;⭐ 2159&lt;/span&gt;
+						&lt;span&gt;🔱 239&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 157 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/CorentinJ/Real-Time-Voice-Cloning&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dataease/SQLBot&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        CorentinJ /
+        dataease /
 
-      Real-Time-Voice-Cloning&lt;/a&gt;&lt;/p&gt;
+      SQLBot&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+      基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56032&lt;/span&gt;
-						&lt;span&gt;🔱 9171&lt;/span&gt;
+						&lt;span&gt;⭐ 1725&lt;/span&gt;
+						&lt;span&gt;🔱 209&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 266 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 104 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mnh-jansson/open-battery-information&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/SkyworkAI/DeepResearchAgent&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        mnh-jansson /
+        SkyworkAI /
 
-      open-battery-information&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
+      DeepResearchAgent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
+    &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 472&lt;/span&gt;
-						&lt;span&gt;🔱 107&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2154&lt;/span&gt;
+						&lt;span&gt;🔱 308&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 335 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An AI Hedge Fund Team
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 40451&lt;/span&gt;
+						&lt;span&gt;🔱 7135&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 132 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ccxt/ccxt&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ccxt /
+
+      ccxt&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 38552&lt;/span&gt;
+						&lt;span&gt;🔱 8192&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 239 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -361,10 +165,184 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6415&lt;/span&gt;
-						&lt;span&gt;🔱 873&lt;/span&gt;
+						&lt;span&gt;⭐ 6429&lt;/span&gt;
+						&lt;span&gt;🔱 874&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 186 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PaddlePaddle/PaddleOCR&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 53914&lt;/span&gt;
+						&lt;span&gt;🔱 8617&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 61 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Plachtaa/seed-vc&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Plachtaa /
+
+      seed-vc&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      zero-shot voice conversion &amp; singing voice conversion, with real-time support
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3015&lt;/span&gt;
+						&lt;span&gt;🔱 363&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/BasedHardware/omi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        BasedHardware /
+
+      omi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI wearables. Put it on, speak, transcribe, automatically
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C&lt;/span&gt;
+						&lt;span&gt;⭐ 6384&lt;/span&gt;
+						&lt;span&gt;🔱 962&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 83 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mnh-jansson/open-battery-information&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mnh-jansson /
+
+      open-battery-information&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 477&lt;/span&gt;
+						&lt;span&gt;🔱 107&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ArthurBrussee/brush&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ArthurBrussee /
+
+      brush&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      3D Reconstruction for all
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 2274&lt;/span&gt;
+						&lt;span&gt;🔱 106&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PowerShell/PowerShell&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        PowerShell /
+
+      PowerShell&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      PowerShell for every system!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C#&lt;/span&gt;
+						&lt;span&gt;⭐ 49807&lt;/span&gt;
+						&lt;span&gt;🔱 7922&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 484 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ItzCrazyKns/Perplexica&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 24782&lt;/span&gt;
+						&lt;span&gt;🔱 2578&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 326 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TheAlgorithms/Python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        TheAlgorithms /
+
+      Python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      All Algorithms implemented in Python
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 207103&lt;/span&gt;
+						&lt;span&gt;🔱 47798&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 59 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

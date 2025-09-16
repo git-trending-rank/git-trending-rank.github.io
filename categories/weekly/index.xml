@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 16 Sep 2025 09:58:39 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 16 Sep 2025 11:58:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第38周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC38%E5%91%A8/</link>
-        <pubDate>Tue, 16 Sep 2025 09:58:39 +0000</pubDate>
+        <pubDate>Tue, 16 Sep 2025 11:58:52 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC38%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -31,7 +31,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7516&lt;/span&gt;
+						&lt;span&gt;⭐ 7517&lt;/span&gt;
 						&lt;span&gt;🔱 842&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2940 stars this week&lt;/div&gt;
@@ -53,8 +53,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 4295&lt;/span&gt;
-						&lt;span&gt;🔱 323&lt;/span&gt;
+						&lt;span&gt;⭐ 4310&lt;/span&gt;
+						&lt;span&gt;🔱 324&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2032 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -75,7 +75,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 49811&lt;/span&gt;
+						&lt;span&gt;⭐ 49807&lt;/span&gt;
 						&lt;span&gt;🔱 7922&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1395 stars this week&lt;/div&gt;
@@ -83,24 +83,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/examples&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CorentinJ/Real-Time-Voice-Cloning&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        vercel /
+        CorentinJ /
 
-      examples&lt;/a&gt;&lt;/p&gt;
+      Real-Time-Voice-Cloning&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4681&lt;/span&gt;
-						&lt;span&gt;🔱 1441&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 56046&lt;/span&gt;
+						&lt;span&gt;🔱 9172&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 596 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 651 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -119,54 +119,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 30661&lt;/span&gt;
-						&lt;span&gt;🔱 1498&lt;/span&gt;
+						&lt;span&gt;⭐ 30675&lt;/span&gt;
+						&lt;span&gt;🔱 1505&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3377 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Stirling-Tools/Stirling-PDF&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/examples&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Stirling-Tools /
+        vercel /
 
-      Stirling-PDF&lt;/a&gt;&lt;/p&gt;
+      examples&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
+      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 67380&lt;/span&gt;
-						&lt;span&gt;🔱 5701&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4682&lt;/span&gt;
+						&lt;span&gt;🔱 1441&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1538 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      12 Lessons to Get Started Building AI Agents
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 38680&lt;/span&gt;
-						&lt;span&gt;🔱 12462&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1853 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 596 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -185,7 +163,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 22324&lt;/span&gt;
+						&lt;span&gt;⭐ 22322&lt;/span&gt;
 						&lt;span&gt;🔱 4573&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 154 stars this week&lt;/div&gt;
@@ -193,68 +171,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/emcie-co/parlant&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        emcie-co /
+        microsoft /
 
-      parlant&lt;/a&gt;&lt;/p&gt;
+      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+      12 Lessons to Get Started Building AI Agents
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12139&lt;/span&gt;
-						&lt;span&gt;🔱 972&lt;/span&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 38697&lt;/span&gt;
+						&lt;span&gt;🔱 12468&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1515 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1853 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Cinnamon/kotaemon&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ItzCrazyKns/Perplexica&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Cinnamon /
+        ItzCrazyKns /
 
-      kotaemon&lt;/a&gt;&lt;/p&gt;
+      Perplexica&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      An open-source RAG-based tool for chatting with your documents.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24246&lt;/span&gt;
-						&lt;span&gt;🔱 1977&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 951 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/11cafe/jaaz&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        11cafe /
-
-      jaaz&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The world&#39;s first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4614&lt;/span&gt;
-						&lt;span&gt;🔱 371&lt;/span&gt;
+						&lt;span&gt;⭐ 24782&lt;/span&gt;
+						&lt;span&gt;🔱 2578&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1862 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 601 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -273,7 +229,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 26465&lt;/span&gt;
+						&lt;span&gt;⭐ 26468&lt;/span&gt;
 						&lt;span&gt;🔱 1932&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 998 stars this week&lt;/div&gt;
@@ -281,90 +237,68 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Eventual-Inc/Daft&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zama-ai/fhevm&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Eventual-Inc /
+        zama-ai /
 
-      Daft&lt;/a&gt;&lt;/p&gt;
+      fhevm&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Distributed query engine providing simple and reliable data processing for any modality and scale
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 4431&lt;/span&gt;
-						&lt;span&gt;🔱 299&lt;/span&gt;
+						&lt;span&gt;⭐ 19136&lt;/span&gt;
+						&lt;span&gt;🔱 801&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 373 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1298 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/trufflesecurity/trufflehog&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Vanilagy/mediabunny&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        trufflesecurity /
+        Vanilagy /
 
-      trufflehog&lt;/a&gt;&lt;/p&gt;
+      mediabunny&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Find, verify, and analyze leaked credentials
+      Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 21766&lt;/span&gt;
-						&lt;span&gt;🔱 2040&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3137&lt;/span&gt;
+						&lt;span&gt;🔱 97&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 482 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 890 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NationalSecurityAgency/ghidra&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ml-explore/mlx-lm&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        NationalSecurityAgency /
+        ml-explore /
 
-      ghidra&lt;/a&gt;&lt;/p&gt;
+      mlx-lm&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Ghidra is a software reverse engineering (SRE) framework
+      Run LLMs with MLX
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 60512&lt;/span&gt;
-						&lt;span&gt;🔱 6734&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 2159&lt;/span&gt;
+						&lt;span&gt;🔱 239&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 506 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/aaPanel/BillionMail&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        aaPanel /
-
-      BillionMail&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 10834&lt;/span&gt;
-						&lt;span&gt;🔱 967&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1104 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 316 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -383,10 +317,120 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 52235&lt;/span&gt;
+						&lt;span&gt;⭐ 52237&lt;/span&gt;
 						&lt;span&gt;🔱 9676&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 191 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/twitter/the-algorithm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        twitter /
+
+      the-algorithm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Source code for the X Recommendation Algorithm
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Scala&lt;/span&gt;
+						&lt;span&gt;⭐ 66610&lt;/span&gt;
+						&lt;span&gt;🔱 12517&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3079 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trueadm/ripple&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trueadm /
+
+      ripple&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      the elegant TypeScript UI framework
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4786&lt;/span&gt;
+						&lt;span&gt;🔱 173&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2863 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ntdevlabs/tiny11builder&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ntdevlabs /
+
+      tiny11builder&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Scripts to build a trimmed-down Windows 11 image.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 PowerShell&lt;/span&gt;
+						&lt;span&gt;⭐ 13832&lt;/span&gt;
+						&lt;span&gt;🔱 1091&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 963 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ZuodaoTech/everyone-can-use-english&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ZuodaoTech /
+
+      everyone-can-use-english&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      人人都能用英语
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 28290&lt;/span&gt;
+						&lt;span&gt;🔱 4120&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1424 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/AutoAgent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HKUDS /
+
+      AutoAgent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      &#34;AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework&#34;
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6958&lt;/span&gt;
+						&lt;span&gt;🔱 916&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 906 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

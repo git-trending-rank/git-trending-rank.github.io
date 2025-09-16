@@ -6,10 +6,10 @@
         <description>Recent content on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 16 Sep 2025 09:58:39 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 16 Sep 2025 11:58:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-09-16</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-09-16/</link>
-        <pubDate>Tue, 16 Sep 2025 09:58:39 +0000</pubDate>
+        <pubDate>Tue, 16 Sep 2025 11:58:52 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-09-16/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,252 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 74690&lt;/span&gt;
-						&lt;span&gt;🔱 4145&lt;/span&gt;
+						&lt;span&gt;⭐ 74822&lt;/span&gt;
+						&lt;span&gt;🔱 4151&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 756 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/PowerShell/PowerShell&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        PowerShell /
-
-      PowerShell&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      PowerShell for every system!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 49811&lt;/span&gt;
-						&lt;span&gt;🔱 7922&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 484 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 85434&lt;/span&gt;
-						&lt;span&gt;🔱 23498&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 704 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An AI Hedge Fund Team
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 40452&lt;/span&gt;
-						&lt;span&gt;🔱 7133&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 132 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/SoftFever/OrcaSlicer&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        SoftFever /
-
-      OrcaSlicer&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 10879&lt;/span&gt;
-						&lt;span&gt;🔱 1386&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/simdjson/simdjson&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        simdjson /
-
-      simdjson&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 22078&lt;/span&gt;
-						&lt;span&gt;🔱 1141&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 309 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ItzCrazyKns/Perplexica&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 24759&lt;/span&gt;
-						&lt;span&gt;🔱 2578&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 326 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sst/opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sst /
-
-      opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI coding agent, built for the terminal.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23641&lt;/span&gt;
-						&lt;span&gt;🔱 1635&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 189 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Zie619/n8n-workflows&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Zie619 /
-
-      n8n-workflows&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      all of the workflows of n8n i could find (also from the site itself)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 30661&lt;/span&gt;
-						&lt;span&gt;🔱 1498&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 496 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ccxt/ccxt&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ccxt /
-
-      ccxt&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 38548&lt;/span&gt;
-						&lt;span&gt;🔱 8190&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 239 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/midday-ai/midday&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        midday-ai /
-
-      midday&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Invoicing, Time tracking, File reconciliation, Storage, Financial Overview &amp; your own Assistant made for Freelancers
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12331&lt;/span&gt;
-						&lt;span&gt;🔱 1113&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 192 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/unclecode/crawl4ai&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        unclecode /
-
-      crawl4ai&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don&#39;t be shy, join here: https://discord.gg/jP8KfhDhyN
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 53372&lt;/span&gt;
-						&lt;span&gt;🔱 5304&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 289 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,52 +55,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2155&lt;/span&gt;
-						&lt;span&gt;🔱 237&lt;/span&gt;
+						&lt;span&gt;⭐ 2159&lt;/span&gt;
+						&lt;span&gt;🔱 239&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 157 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/CorentinJ/Real-Time-Voice-Cloning&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dataease/SQLBot&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        CorentinJ /
+        dataease /
 
-      Real-Time-Voice-Cloning&lt;/a&gt;&lt;/p&gt;
+      SQLBot&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+      基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56032&lt;/span&gt;
-						&lt;span&gt;🔱 9171&lt;/span&gt;
+						&lt;span&gt;⭐ 1725&lt;/span&gt;
+						&lt;span&gt;🔱 209&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 266 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 104 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mnh-jansson/open-battery-information&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/SkyworkAI/DeepResearchAgent&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        mnh-jansson /
+        SkyworkAI /
 
-      open-battery-information&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
+      DeepResearchAgent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
+    &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 472&lt;/span&gt;
-						&lt;span&gt;🔱 107&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2154&lt;/span&gt;
+						&lt;span&gt;🔱 308&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 335 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An AI Hedge Fund Team
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 40451&lt;/span&gt;
+						&lt;span&gt;🔱 7135&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 132 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ccxt/ccxt&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ccxt /
+
+      ccxt&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 38552&lt;/span&gt;
+						&lt;span&gt;🔱 8192&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 239 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -361,70 +165,118 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6415&lt;/span&gt;
-						&lt;span&gt;🔱 873&lt;/span&gt;
+						&lt;span&gt;⭐ 6429&lt;/span&gt;
+						&lt;span&gt;🔱 874&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 186 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
-        <title>GitHub 趋势 2025年第38周</title>
-        <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC38%E5%91%A8/</link>
-        <pubDate>Tue, 16 Sep 2025 09:58:39 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC38%E5%91%A8/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Physical-Intelligence/openpi&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PaddlePaddle/PaddleOCR&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Physical-Intelligence /
+        PaddlePaddle /
 
-      openpi&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
+      PaddleOCR&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
+    &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7516&lt;/span&gt;
-						&lt;span&gt;🔱 842&lt;/span&gt;
+						&lt;span&gt;⭐ 53914&lt;/span&gt;
+						&lt;span&gt;🔱 8617&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2940 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 61 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/registry&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Plachtaa/seed-vc&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        modelcontextprotocol /
+        Plachtaa /
 
-      registry&lt;/a&gt;&lt;/p&gt;
+      seed-vc&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A community driven registry service for Model Context Protocol (MCP) servers.
+      zero-shot voice conversion &amp; singing voice conversion, with real-time support
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 4295&lt;/span&gt;
-						&lt;span&gt;🔱 323&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3015&lt;/span&gt;
+						&lt;span&gt;🔱 363&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2032 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/BasedHardware/omi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        BasedHardware /
+
+      omi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI wearables. Put it on, speak, transcribe, automatically
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C&lt;/span&gt;
+						&lt;span&gt;⭐ 6384&lt;/span&gt;
+						&lt;span&gt;🔱 962&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 83 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mnh-jansson/open-battery-information&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mnh-jansson /
+
+      open-battery-information&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 477&lt;/span&gt;
+						&lt;span&gt;🔱 107&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ArthurBrussee/brush&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ArthurBrussee /
+
+      brush&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      3D Reconstruction for all
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 2274&lt;/span&gt;
+						&lt;span&gt;🔱 106&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -443,318 +295,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 49811&lt;/span&gt;
+						&lt;span&gt;⭐ 49807&lt;/span&gt;
 						&lt;span&gt;🔱 7922&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1395 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 484 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/examples&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ItzCrazyKns/Perplexica&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        vercel /
+        ItzCrazyKns /
 
-      examples&lt;/a&gt;&lt;/p&gt;
+      Perplexica&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4681&lt;/span&gt;
-						&lt;span&gt;🔱 1441&lt;/span&gt;
+						&lt;span&gt;⭐ 24782&lt;/span&gt;
+						&lt;span&gt;🔱 2578&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 596 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 326 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Zie619/n8n-workflows&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TheAlgorithms/Python&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Zie619 /
+        TheAlgorithms /
 
-      n8n-workflows&lt;/a&gt;&lt;/p&gt;
+      Python&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      all of the workflows of n8n i could find (also from the site itself)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 30661&lt;/span&gt;
-						&lt;span&gt;🔱 1498&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3377 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Stirling-Tools/Stirling-PDF&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Stirling-Tools /
-
-      Stirling-PDF&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 67380&lt;/span&gt;
-						&lt;span&gt;🔱 5701&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1538 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      12 Lessons to Get Started Building AI Agents
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 38680&lt;/span&gt;
-						&lt;span&gt;🔱 12462&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1853 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/grpc/grpc-go&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        grpc /
-
-      grpc-go&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Go language implementation of gRPC. HTTP/2 based RPC
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 22324&lt;/span&gt;
-						&lt;span&gt;🔱 4573&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 154 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/emcie-co/parlant&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        emcie-co /
-
-      parlant&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+      All Algorithms implemented in Python
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12139&lt;/span&gt;
-						&lt;span&gt;🔱 972&lt;/span&gt;
+						&lt;span&gt;⭐ 207103&lt;/span&gt;
+						&lt;span&gt;🔱 47798&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1515 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Cinnamon/kotaemon&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Cinnamon /
-
-      kotaemon&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source RAG-based tool for chatting with your documents.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24246&lt;/span&gt;
-						&lt;span&gt;🔱 1977&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 951 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/11cafe/jaaz&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        11cafe /
-
-      jaaz&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The world&#39;s first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4614&lt;/span&gt;
-						&lt;span&gt;🔱 371&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1862 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/heroui-inc/heroui&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        heroui-inc /
-
-      heroui&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 26465&lt;/span&gt;
-						&lt;span&gt;🔱 1932&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 998 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Eventual-Inc/Daft&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Eventual-Inc /
-
-      Daft&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Distributed query engine providing simple and reliable data processing for any modality and scale
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 4431&lt;/span&gt;
-						&lt;span&gt;🔱 299&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 373 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/trufflesecurity/trufflehog&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        trufflesecurity /
-
-      trufflehog&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Find, verify, and analyze leaked credentials
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 21766&lt;/span&gt;
-						&lt;span&gt;🔱 2040&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 482 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NationalSecurityAgency/ghidra&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NationalSecurityAgency /
-
-      ghidra&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Ghidra is a software reverse engineering (SRE) framework
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 60512&lt;/span&gt;
-						&lt;span&gt;🔱 6734&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 506 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/aaPanel/BillionMail&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        aaPanel /
-
-      BillionMail&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 10834&lt;/span&gt;
-						&lt;span&gt;🔱 967&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1104 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google/material-design-icons&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        google /
-
-      material-design-icons&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Material Design icons by Google (Material Symbols)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 52235&lt;/span&gt;
-						&lt;span&gt;🔱 9676&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 191 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 59 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -767,7 +355,7 @@
         <item>
         <title>GitHub 趋势 2025年9月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B49%E6%9C%88/</link>
-        <pubDate>Tue, 16 Sep 2025 09:58:38 +0000</pubDate>
+        <pubDate>Tue, 16 Sep 2025 11:58:52 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B49%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -791,8 +379,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Vue&lt;/span&gt;
-						&lt;span&gt;⭐ 13897&lt;/span&gt;
-						&lt;span&gt;🔱 1182&lt;/span&gt;
+						&lt;span&gt;⭐ 13913&lt;/span&gt;
+						&lt;span&gt;🔱 1184&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11725 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -813,8 +401,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 20524&lt;/span&gt;
-						&lt;span&gt;🔱 3230&lt;/span&gt;
+						&lt;span&gt;⭐ 20536&lt;/span&gt;
+						&lt;span&gt;🔱 3232&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12174 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -835,8 +423,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Scala&lt;/span&gt;
-						&lt;span&gt;⭐ 66597&lt;/span&gt;
-						&lt;span&gt;🔱 12515&lt;/span&gt;
+						&lt;span&gt;⭐ 66610&lt;/span&gt;
+						&lt;span&gt;🔱 12517&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3149 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -857,7 +445,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 9454&lt;/span&gt;
+						&lt;span&gt;⭐ 9460&lt;/span&gt;
 						&lt;span&gt;🔱 286&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5983 stars this month&lt;/div&gt;
@@ -879,7 +467,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11362&lt;/span&gt;
+						&lt;span&gt;⭐ 11365&lt;/span&gt;
 						&lt;span&gt;🔱 858&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7073 stars this month&lt;/div&gt;
@@ -901,8 +489,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 15040&lt;/span&gt;
-						&lt;span&gt;🔱 1875&lt;/span&gt;
+						&lt;span&gt;⭐ 15046&lt;/span&gt;
+						&lt;span&gt;🔱 1876&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7904 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -923,32 +511,30 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 45465&lt;/span&gt;
-						&lt;span&gt;🔱 3311&lt;/span&gt;
+						&lt;span&gt;⭐ 45470&lt;/span&gt;
+						&lt;span&gt;🔱 3312&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8693 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/coleam00/Archon&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Physical-Intelligence/openpi&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        coleam00 /
+        Physical-Intelligence /
 
-      Archon&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    &lt;/p&gt;
+      openpi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12096&lt;/span&gt;
-						&lt;span&gt;🔱 2098&lt;/span&gt;
+						&lt;span&gt;⭐ 7517&lt;/span&gt;
+						&lt;span&gt;🔱 842&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6357 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3214 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -967,30 +553,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 41280&lt;/span&gt;
-						&lt;span&gt;🔱 4808&lt;/span&gt;
+						&lt;span&gt;⭐ 41334&lt;/span&gt;
+						&lt;span&gt;🔱 4812&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6084 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Physical-Intelligence/openpi&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/coleam00/Archon&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Physical-Intelligence /
+        coleam00 /
 
-      openpi&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
+      Archon&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7516&lt;/span&gt;
-						&lt;span&gt;🔱 842&lt;/span&gt;
+						&lt;span&gt;⭐ 12097&lt;/span&gt;
+						&lt;span&gt;🔱 2098&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3214 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6357 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -1009,7 +597,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7762&lt;/span&gt;
+						&lt;span&gt;⭐ 7769&lt;/span&gt;
 						&lt;span&gt;🔱 589&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1399 stars this month&lt;/div&gt;
@@ -1031,7 +619,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 37120&lt;/span&gt;
+						&lt;span&gt;⭐ 37122&lt;/span&gt;
 						&lt;span&gt;🔱 10528&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 582 stars this month&lt;/div&gt;
@@ -1053,8 +641,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 30597&lt;/span&gt;
-						&lt;span&gt;🔱 4729&lt;/span&gt;
+						&lt;span&gt;⭐ 30603&lt;/span&gt;
+						&lt;span&gt;🔱 4730&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2361 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -1075,7 +663,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 8193&lt;/span&gt;
+						&lt;span&gt;⭐ 8202&lt;/span&gt;
 						&lt;span&gt;🔱 923&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3932 stars this month&lt;/div&gt;
@@ -1097,7 +685,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 21766&lt;/span&gt;
+						&lt;span&gt;⭐ 21783&lt;/span&gt;
 						&lt;span&gt;🔱 2040&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1550 stars this month&lt;/div&gt;
@@ -1105,24 +693,480 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/pedroslopez/whatsapp-web.js&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zed-industries/zed&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        pedroslopez /
+        zed-industries /
 
-      whatsapp-web.js&lt;/a&gt;&lt;/p&gt;
+      zed&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 65716&lt;/span&gt;
+						&lt;span&gt;🔱 5280&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2058 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/laramies/theHarvester&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        laramies /
+
+      theHarvester&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      E-mails, subdomains and names Harvester - OSINT 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 14414&lt;/span&gt;
+						&lt;span&gt;🔱 2303&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1235 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
+        <title>GitHub 趋势 2025年第38周</title>
+        <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC38%E5%91%A8/</link>
+        <pubDate>Tue, 16 Sep 2025 11:58:52 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC38%E5%91%A8/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Physical-Intelligence/openpi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Physical-Intelligence /
+
+      openpi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7517&lt;/span&gt;
+						&lt;span&gt;🔱 842&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2940 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/registry&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 4310&lt;/span&gt;
+						&lt;span&gt;🔱 324&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2032 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PowerShell/PowerShell&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        PowerShell /
+
+      PowerShell&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      PowerShell for every system!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C#&lt;/span&gt;
+						&lt;span&gt;⭐ 49807&lt;/span&gt;
+						&lt;span&gt;🔱 7922&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1395 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CorentinJ/Real-Time-Voice-Cloning&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CorentinJ /
+
+      Real-Time-Voice-Cloning&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 56046&lt;/span&gt;
+						&lt;span&gt;🔱 9172&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 651 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Zie619/n8n-workflows&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Zie619 /
+
+      n8n-workflows&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      all of the workflows of n8n i could find (also from the site itself)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 HTML&lt;/span&gt;
+						&lt;span&gt;⭐ 30675&lt;/span&gt;
+						&lt;span&gt;🔱 1505&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3377 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/examples&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel /
+
+      examples&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4682&lt;/span&gt;
+						&lt;span&gt;🔱 1441&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 596 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/grpc/grpc-go&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        grpc /
+
+      grpc-go&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Go language implementation of gRPC. HTTP/2 based RPC
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 22322&lt;/span&gt;
+						&lt;span&gt;🔱 4573&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 154 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      12 Lessons to Get Started Building AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 38697&lt;/span&gt;
+						&lt;span&gt;🔱 12468&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1853 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ItzCrazyKns/Perplexica&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 24782&lt;/span&gt;
+						&lt;span&gt;🔱 2578&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 601 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/heroui-inc/heroui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        heroui-inc /
+
+      heroui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 26468&lt;/span&gt;
+						&lt;span&gt;🔱 1932&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 998 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zama-ai/fhevm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        zama-ai /
+
+      fhevm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 19136&lt;/span&gt;
+						&lt;span&gt;🔱 801&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1298 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Vanilagy/mediabunny&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Vanilagy /
+
+      mediabunny&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3137&lt;/span&gt;
+						&lt;span&gt;🔱 97&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 890 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ml-explore/mlx-lm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ml-explore /
+
+      mlx-lm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Run LLMs with MLX
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 2159&lt;/span&gt;
+						&lt;span&gt;🔱 239&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 316 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/material-design-icons&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google /
+
+      material-design-icons&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Material Design icons by Google (Material Symbols)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 52237&lt;/span&gt;
+						&lt;span&gt;🔱 9676&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 191 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/twitter/the-algorithm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        twitter /
+
+      the-algorithm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Source code for the X Recommendation Algorithm
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Scala&lt;/span&gt;
+						&lt;span&gt;⭐ 66610&lt;/span&gt;
+						&lt;span&gt;🔱 12517&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3079 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trueadm/ripple&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trueadm /
+
+      ripple&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      the elegant TypeScript UI framework
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 19519&lt;/span&gt;
-						&lt;span&gt;🔱 4510&lt;/span&gt;
+						&lt;span&gt;⭐ 4786&lt;/span&gt;
+						&lt;span&gt;🔱 173&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1924 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2863 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ntdevlabs/tiny11builder&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ntdevlabs /
+
+      tiny11builder&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Scripts to build a trimmed-down Windows 11 image.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 PowerShell&lt;/span&gt;
+						&lt;span&gt;⭐ 13832&lt;/span&gt;
+						&lt;span&gt;🔱 1091&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 963 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ZuodaoTech/everyone-can-use-english&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ZuodaoTech /
+
+      everyone-can-use-english&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      人人都能用英语
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 28290&lt;/span&gt;
+						&lt;span&gt;🔱 4120&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1424 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/AutoAgent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HKUDS /
+
+      AutoAgent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      &#34;AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework&#34;
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6958&lt;/span&gt;
+						&lt;span&gt;🔱 916&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 906 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
