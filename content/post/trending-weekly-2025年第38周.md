@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第38周
-date: 2025-09-16T09:58:39Z
+date: 2025-09-16T11:58:52Z
 categories:
 - weekly
 keywords:
@@ -28,7 +28,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7516</span>
+						<span>⭐ 7517</span>
 						<span>🔱 842</span>
 					</div>
 				<div class="stars-today">⭐ 2940 stars this week</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4295</span>
-						<span>🔱 323</span>
+						<span>⭐ 4310</span>
+						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 2032 stars this week</div>
 				</div>
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 49811</span>
+						<span>⭐ 49807</span>
 						<span>🔱 7922</span>
 					</div>
 				<div class="stars-today">⭐ 1395 stars this week</div>
@@ -80,24 +80,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel/examples" target="_blank">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
     
 
 
       
-        vercel /
+        CorentinJ /
 
-      examples</a></p>
+      Real-Time-Voice-Cloning</a></p>
 				<p>
-      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4681</span>
-						<span>🔱 1441</span>
+						<span>🔠 Python</span>
+						<span>⭐ 56046</span>
+						<span>🔱 9172</span>
 					</div>
-				<div class="stars-today">⭐ 596 stars this week</div>
+				<div class="stars-today">⭐ 651 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,54 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 30661</span>
-						<span>🔱 1498</span>
+						<span>⭐ 30675</span>
+						<span>🔱 1505</span>
 					</div>
 				<div class="stars-today">⭐ 3377 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+				<p><a href="https://github.com/vercel/examples" target="_blank">
     
 
 
       
-        Stirling-Tools /
+        vercel /
 
-      Stirling-PDF</a></p>
+      examples</a></p>
 				<p>
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
+      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 67380</span>
-						<span>🔱 5701</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4682</span>
+						<span>🔱 1441</span>
 					</div>
-				<div class="stars-today">⭐ 1538 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      12 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38680</span>
-						<span>🔱 12462</span>
-					</div>
-				<div class="stars-today">⭐ 1853 stars this week</div>
+				<div class="stars-today">⭐ 596 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22324</span>
+						<span>⭐ 22322</span>
 						<span>🔱 4573</span>
 					</div>
 				<div class="stars-today">⭐ 154 stars this week</div>
@@ -190,68 +168,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
     
 
 
       
-        emcie-co /
+        microsoft /
 
-      parlant</a></p>
+      ai-agents-for-beginners</a></p>
 				<p>
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+      12 Lessons to Get Started Building AI Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12139</span>
-						<span>🔱 972</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 38697</span>
+						<span>🔱 12468</span>
 					</div>
-				<div class="stars-today">⭐ 1515 stars this week</div>
+				<div class="stars-today">⭐ 1853 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Cinnamon/kotaemon" target="_blank">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
     
 
 
       
-        Cinnamon /
+        ItzCrazyKns /
 
-      kotaemon</a></p>
+      Perplexica</a></p>
 				<p>
-      An open-source RAG-based tool for chatting with your documents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24246</span>
-						<span>🔱 1977</span>
-					</div>
-				<div class="stars-today">⭐ 951 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/11cafe/jaaz" target="_blank">
-    
-
-
-      
-        11cafe /
-
-      jaaz</a></p>
-				<p>
-      The world's first open-source multimodal creative assistant This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4614</span>
-						<span>🔱 371</span>
+						<span>⭐ 24782</span>
+						<span>🔱 2578</span>
 					</div>
-				<div class="stars-today">⭐ 1862 stars this week</div>
+				<div class="stars-today">⭐ 601 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26465</span>
+						<span>⭐ 26468</span>
 						<span>🔱 1932</span>
 					</div>
 				<div class="stars-today">⭐ 998 stars this week</div>
@@ -278,90 +234,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Eventual-Inc/Daft" target="_blank">
+				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
     
 
 
       
-        Eventual-Inc /
+        zama-ai /
 
-      Daft</a></p>
+      fhevm</a></p>
 				<p>
-      Distributed query engine providing simple and reliable data processing for any modality and scale
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4431</span>
-						<span>🔱 299</span>
+						<span>⭐ 19136</span>
+						<span>🔱 801</span>
 					</div>
-				<div class="stars-today">⭐ 373 stars this week</div>
+				<div class="stars-today">⭐ 1298 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
+				<p><a href="https://github.com/Vanilagy/mediabunny" target="_blank">
     
 
 
       
-        trufflesecurity /
+        Vanilagy /
 
-      trufflehog</a></p>
+      mediabunny</a></p>
 				<p>
-      Find, verify, and analyze leaked credentials
+      Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21766</span>
-						<span>🔱 2040</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3137</span>
+						<span>🔱 97</span>
 					</div>
-				<div class="stars-today">⭐ 482 stars this week</div>
+				<div class="stars-today">⭐ 890 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NationalSecurityAgency/ghidra" target="_blank">
+				<p><a href="https://github.com/ml-explore/mlx-lm" target="_blank">
     
 
 
       
-        NationalSecurityAgency /
+        ml-explore /
 
-      ghidra</a></p>
+      mlx-lm</a></p>
 				<p>
-      Ghidra is a software reverse engineering (SRE) framework
+      Run LLMs with MLX
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 60512</span>
-						<span>🔱 6734</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2159</span>
+						<span>🔱 239</span>
 					</div>
-				<div class="stars-today">⭐ 506 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aaPanel/BillionMail" target="_blank">
-    
-
-
-      
-        aaPanel /
-
-      BillionMail</a></p>
-				<p>
-      BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/asfXzBUhZr
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10834</span>
-						<span>🔱 967</span>
-					</div>
-				<div class="stars-today">⭐ 1104 stars this week</div>
+				<div class="stars-today">⭐ 316 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,10 +314,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 52235</span>
+						<span>⭐ 52237</span>
 						<span>🔱 9676</span>
 					</div>
 				<div class="stars-today">⭐ 191 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+    
+
+
+      
+        twitter /
+
+      the-algorithm</a></p>
+				<p>
+      Source code for the X Recommendation Algorithm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Scala</span>
+						<span>⭐ 66610</span>
+						<span>🔱 12517</span>
+					</div>
+				<div class="stars-today">⭐ 3079 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trueadm/ripple" target="_blank">
+    
+
+
+      
+        trueadm /
+
+      ripple</a></p>
+				<p>
+      the elegant TypeScript UI framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 4786</span>
+						<span>🔱 173</span>
+					</div>
+				<div class="stars-today">⭐ 2863 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
+    
+
+
+      
+        ntdevlabs /
+
+      tiny11builder</a></p>
+				<p>
+      Scripts to build a trimmed-down Windows 11 image.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 13832</span>
+						<span>🔱 1091</span>
+					</div>
+				<div class="stars-today">⭐ 963 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
+    
+
+
+      
+        ZuodaoTech /
+
+      everyone-can-use-english</a></p>
+				<p>
+      人人都能用英语
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28290</span>
+						<span>🔱 4120</span>
+					</div>
+				<div class="stars-today">⭐ 1424 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      AutoAgent</a></p>
+				<p>
+      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6958</span>
+						<span>🔱 916</span>
+					</div>
+				<div class="stars-today">⭐ 906 stars this week</div>
 				</div>
 			</div>
 	

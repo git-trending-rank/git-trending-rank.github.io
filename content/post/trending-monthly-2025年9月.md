@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-16T09:58:38Z
+date: 2025-09-16T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 13897</span>
-						<span>🔱 1182</span>
+						<span>⭐ 13913</span>
+						<span>🔱 1184</span>
 					</div>
 				<div class="stars-today">⭐ 11725 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20524</span>
-						<span>🔱 3230</span>
+						<span>⭐ 20536</span>
+						<span>🔱 3232</span>
 					</div>
 				<div class="stars-today">⭐ 12174 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 66597</span>
-						<span>🔱 12515</span>
+						<span>⭐ 66610</span>
+						<span>🔱 12517</span>
 					</div>
 				<div class="stars-today">⭐ 3149 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9454</span>
+						<span>⭐ 9460</span>
 						<span>🔱 286</span>
 					</div>
 				<div class="stars-today">⭐ 5983 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11362</span>
+						<span>⭐ 11365</span>
 						<span>🔱 858</span>
 					</div>
 				<div class="stars-today">⭐ 7073 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15040</span>
-						<span>🔱 1875</span>
+						<span>⭐ 15046</span>
+						<span>🔱 1876</span>
 					</div>
 				<div class="stars-today">⭐ 7904 stars this month</div>
 				</div>
@@ -162,32 +162,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45465</span>
-						<span>🔱 3311</span>
+						<span>⭐ 45470</span>
+						<span>🔱 3312</span>
 					</div>
 				<div class="stars-today">⭐ 8693 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
     
 
 
       
-        coleam00 /
+        Physical-Intelligence /
 
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
+      openpi</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12096</span>
-						<span>🔱 2098</span>
+						<span>⭐ 7517</span>
+						<span>🔱 842</span>
 					</div>
-				<div class="stars-today">⭐ 6357 stars this month</div>
+				<div class="stars-today">⭐ 3214 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,30 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 41280</span>
-						<span>🔱 4808</span>
+						<span>⭐ 41334</span>
+						<span>🔱 4812</span>
 					</div>
 				<div class="stars-today">⭐ 6084 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        Physical-Intelligence /
+        coleam00 /
 
-      openpi</a></p>
-				<p></p>
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7516</span>
-						<span>🔱 842</span>
+						<span>⭐ 12097</span>
+						<span>🔱 2098</span>
 					</div>
-				<div class="stars-today">⭐ 3214 stars this month</div>
+				<div class="stars-today">⭐ 6357 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7762</span>
+						<span>⭐ 7769</span>
 						<span>🔱 589</span>
 					</div>
 				<div class="stars-today">⭐ 1399 stars this month</div>
@@ -270,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37120</span>
+						<span>⭐ 37122</span>
 						<span>🔱 10528</span>
 					</div>
 				<div class="stars-today">⭐ 582 stars this month</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30597</span>
-						<span>🔱 4729</span>
+						<span>⭐ 30603</span>
+						<span>🔱 4730</span>
 					</div>
 				<div class="stars-today">⭐ 2361 stars this month</div>
 				</div>
@@ -314,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8193</span>
+						<span>⭐ 8202</span>
 						<span>🔱 923</span>
 					</div>
 				<div class="stars-today">⭐ 3932 stars this month</div>
@@ -336,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21766</span>
+						<span>⭐ 21783</span>
 						<span>🔱 2040</span>
 					</div>
 				<div class="stars-today">⭐ 1550 stars this month</div>
@@ -344,24 +344,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+				<p><a href="https://github.com/zed-industries/zed" target="_blank">
     
 
 
       
-        pedroslopez /
+        zed-industries /
 
-      whatsapp-web.js</a></p>
+      zed</a></p>
 				<p>
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19519</span>
-						<span>🔱 4510</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 65716</span>
+						<span>🔱 5280</span>
 					</div>
-				<div class="stars-today">⭐ 1924 stars this month</div>
+				<div class="stars-today">⭐ 2058 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
+    
+
+
+      
+        laramies /
+
+      theHarvester</a></p>
+				<p>
+      E-mails, subdomains and names Harvester - OSINT 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14414</span>
+						<span>🔱 2303</span>
+					</div>
+				<div class="stars-today">⭐ 1235 stars this month</div>
 				</div>
 			</div>
 	
