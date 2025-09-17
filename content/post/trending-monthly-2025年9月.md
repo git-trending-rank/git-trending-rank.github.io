@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-17T09:59:09Z
+date: 2025-09-17T11:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 13998</span>
-						<span>🔱 1192</span>
+						<span>⭐ 14011</span>
+						<span>🔱 1193</span>
 					</div>
 				<div class="stars-today">⭐ 11800 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20649</span>
-						<span>🔱 3247</span>
+						<span>⭐ 20662</span>
+						<span>🔱 3249</span>
 					</div>
 				<div class="stars-today">⭐ 12276 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 66698</span>
-						<span>🔱 12522</span>
+						<span>⭐ 66706</span>
+						<span>🔱 12521</span>
 					</div>
 				<div class="stars-today">⭐ 3244 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
-    
-
-
-      
-        winapps-org /
-
-      winapps</a></p>
-				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 9517</span>
-						<span>🔱 288</span>
-					</div>
-				<div class="stars-today">⭐ 6034 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11431</span>
+						<span>⭐ 11438</span>
 						<span>🔱 864</span>
 					</div>
 				<div class="stars-today">⭐ 7123 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 9521</span>
+						<span>🔱 288</span>
+					</div>
+				<div class="stars-today">⭐ 6034 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15106</span>
+						<span>⭐ 15109</span>
 						<span>🔱 1884</span>
 					</div>
 				<div class="stars-today">⭐ 7953 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45543</span>
-						<span>🔱 3316</span>
+						<span>⭐ 45556</span>
+						<span>🔱 3317</span>
 					</div>
 				<div class="stars-today">⭐ 8751 stars this month</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7592</span>
-						<span>🔱 851</span>
+						<span>⭐ 7594</span>
+						<span>🔱 850</span>
 					</div>
 				<div class="stars-today">⭐ 3285 stars this month</div>
 				</div>
@@ -204,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 41763</span>
-						<span>🔱 4870</span>
+						<span>⭐ 41812</span>
+						<span>🔱 4872</span>
 					</div>
 				<div class="stars-today">⭐ 6443 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12130</span>
-						<span>🔱 2105</span>
-					</div>
-				<div class="stars-today">⭐ 6087 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7834</span>
+						<span>⭐ 7836</span>
 						<span>🔱 590</span>
 					</div>
 				<div class="stars-today">⭐ 1413 stars this month</div>
@@ -292,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30660</span>
+						<span>⭐ 30666</span>
 						<span>🔱 4740</span>
 					</div>
 				<div class="stars-today">⭐ 2374 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 8319</span>
-						<span>🔱 923</span>
-					</div>
-				<div class="stars-today">⭐ 3973 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21918</span>
-						<span>🔱 2047</span>
+						<span>⭐ 21935</span>
+						<span>🔱 2048</span>
 					</div>
 				<div class="stars-today">⭐ 1639 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zed-industries/zed" target="_blank">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
     
 
 
       
-        zed-industries /
+        OpenBMB /
 
-      zed</a></p>
+      MiniCPM-V</a></p>
 				<p>
-      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 65827</span>
-						<span>🔱 5295</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21744</span>
+						<span>🔱 1623</span>
 					</div>
-				<div class="stars-today">⭐ 2117 stars this month</div>
+				<div class="stars-today">⭐ 1733 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12132</span>
+						<span>🔱 2105</span>
+					</div>
+				<div class="stars-today">⭐ 6087 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Opinionated Arch/Hyprland Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 8333</span>
+						<span>🔱 923</span>
+					</div>
+				<div class="stars-today">⭐ 3973 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14448</span>
+						<span>⭐ 14450</span>
 						<span>🔱 2303</span>
 					</div>
 				<div class="stars-today">⭐ 1240 stars this month</div>

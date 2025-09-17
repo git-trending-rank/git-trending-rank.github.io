@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第38周
-date: 2025-09-17T09:59:09Z
+date: 2025-09-17T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -28,10 +28,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7592</span>
-						<span>🔱 851</span>
+						<span>⭐ 7594</span>
+						<span>🔱 850</span>
 					</div>
 				<div class="stars-today">⭐ 2755 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
+    
+
+
+      
+        CodebuffAI /
+
+      codebuff</a></p>
+				<p>
+      Generate code from the terminal!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1793</span>
+						<span>🔱 215</span>
+					</div>
+				<div class="stars-today">⭐ 1282 stars this week</div>
 				</div>
 			</div>
 	
@@ -50,274 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4484</span>
-						<span>🔱 334</span>
+						<span>⭐ 4500</span>
+						<span>🔱 335</span>
 					</div>
 				<div class="stars-today">⭐ 1958 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
-    
-
-
-      
-        PowerShell /
-
-      PowerShell</a></p>
-				<p>
-      PowerShell for every system!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 49995</span>
-						<span>🔱 7933</span>
-					</div>
-				<div class="stars-today">⭐ 1526 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
-    
-
-
-      
-        CorentinJ /
-
-      Real-Time-Voice-Cloning</a></p>
-				<p>
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56201</span>
-						<span>🔱 9181</span>
-					</div>
-				<div class="stars-today">⭐ 1130 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
-    
-
-
-      
-        Zie619 /
-
-      n8n-workflows</a></p>
-				<p>
-      all of the workflows of n8n i could find (also from the site itself)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 31194</span>
-						<span>🔱 1665</span>
-					</div>
-				<div class="stars-today">⭐ 3315 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/examples" target="_blank">
-    
-
-
-      
-        vercel /
-
-      examples</a></p>
-				<p>
-      Enjoy our curated collection of examples and solutions. Use these patterns to build your own robust and scalable applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4706</span>
-						<span>🔱 1444</span>
-					</div>
-				<div class="stars-today">⭐ 536 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
-    
-
-
-      
-        grpc /
-
-      grpc-go</a></p>
-				<p>
-      The Go language implementation of gRPC. HTTP/2 based RPC
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22339</span>
-						<span>🔱 4572</span>
-					</div>
-				<div class="stars-today">⭐ 167 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      12 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38814</span>
-						<span>🔱 12513</span>
-					</div>
-				<div class="stars-today">⭐ 1513 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica</a></p>
-				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25088</span>
-						<span>🔱 2601</span>
-					</div>
-				<div class="stars-today">⭐ 851 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/heroui-inc/heroui" target="_blank">
-    
-
-
-      
-        heroui-inc /
-
-      heroui</a></p>
-				<p>
-      🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26551</span>
-						<span>🔱 1933</span>
-					</div>
-				<div class="stars-today">⭐ 1052 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
-    
-
-
-      
-        zama-ai /
-
-      fhevm</a></p>
-				<p>
-      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19284</span>
-						<span>🔱 803</span>
-					</div>
-				<div class="stars-today">⭐ 1240 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Vanilagy/mediabunny" target="_blank">
-    
-
-
-      
-        Vanilagy /
-
-      mediabunny</a></p>
-				<p>
-      Pure TypeScript media toolkit for reading, writing, and converting video and audio files, directly in the browser.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3233</span>
-						<span>🔱 100</span>
-					</div>
-				<div class="stars-today">⭐ 882 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ml-explore/mlx-lm" target="_blank">
-    
-
-
-      
-        ml-explore /
-
-      mlx-lm</a></p>
-				<p>
-      Run LLMs with MLX
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2322</span>
-						<span>🔱 249</span>
-					</div>
-				<div class="stars-today">⭐ 337 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/material-design-icons" target="_blank">
-    
-
-
-      
-        google /
-
-      material-design-icons</a></p>
-				<p>
-      Material Design icons by Google (Material Symbols)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 52256</span>
-						<span>🔱 9677</span>
-					</div>
-				<div class="stars-today">⭐ 213 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +94,296 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 66698</span>
-						<span>🔱 12522</span>
+						<span>⭐ 66706</span>
+						<span>🔱 12521</span>
 					</div>
 				<div class="stars-today">⭐ 2590 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+    
+
+
+      
+        CorentinJ /
+
+      Real-Time-Voice-Cloning</a></p>
+				<p>
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56218</span>
+						<span>🔱 9183</span>
+					</div>
+				<div class="stars-today">⭐ 1130 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
+    
+
+
+      
+        PowerShell /
+
+      PowerShell</a></p>
+				<p>
+      PowerShell for every system!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 49991</span>
+						<span>🔱 7934</span>
+					</div>
+				<div class="stars-today">⭐ 1526 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
+    
+
+
+      
+        Zie619 /
+
+      n8n-workflows</a></p>
+				<p>
+      all of the workflows of n8n i could find (also from the site itself)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 31243</span>
+						<span>🔱 1676</span>
+					</div>
+				<div class="stars-today">⭐ 3315 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25115</span>
+						<span>🔱 2606</span>
+					</div>
+				<div class="stars-today">⭐ 851 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firebase/genkit" target="_blank">
+    
+
+
+      
+        firebase /
+
+      genkit</a></p>
+				<p>
+      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3634</span>
+						<span>🔱 417</span>
+					</div>
+				<div class="stars-today">⭐ 799 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
+    
+
+
+      
+        grpc /
+
+      grpc-go</a></p>
+				<p>
+      The Go language implementation of gRPC. HTTP/2 based RPC
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 22341</span>
+						<span>🔱 4572</span>
+					</div>
+				<div class="stars-today">⭐ 167 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/heroui-inc/heroui" target="_blank">
+    
+
+
+      
+        heroui-inc /
+
+      heroui</a></p>
+				<p>
+      🚀 Beautiful, fast and modern React UI library. (Previously NextUI)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26557</span>
+						<span>🔱 1934</span>
+					</div>
+				<div class="stars-today">⭐ 1052 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ccfos/nightingale" target="_blank">
+    
+
+
+      
+        ccfos /
+
+      nightingale</a></p>
+				<p>
+      Nightingale for monitoring and alerting, just as Grafana for visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 12237</span>
+						<span>🔱 1609</span>
+					</div>
+				<div class="stars-today">⭐ 825 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ml-explore/mlx-lm" target="_blank">
+    
+
+
+      
+        ml-explore /
+
+      mlx-lm</a></p>
+				<p>
+      Run LLMs with MLX
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2307</span>
+						<span>🔱 250</span>
+					</div>
+				<div class="stars-today">⭐ 337 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 76676</span>
+						<span>🔱 4234</span>
+					</div>
+				<div class="stars-today">⭐ 2265 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/material-design-icons" target="_blank">
+    
+
+
+      
+        google /
+
+      material-design-icons</a></p>
+				<p>
+      Material Design icons by Google (Material Symbols)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 52259</span>
+						<span>🔱 9677</span>
+					</div>
+				<div class="stars-today">⭐ 213 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+    
+
+
+      
+        TibixDev /
+
+      winboat</a></p>
+				<p>
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4009</span>
+						<span>🔱 106</span>
+					</div>
+				<div class="stars-today">⭐ 1291 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 49795</span>
+						<span>🔱 11201</span>
+					</div>
+				<div class="stars-today">⭐ 960 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,7 +402,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4941</span>
+						<span>⭐ 4952</span>
 						<span>🔱 178</span>
 					</div>
 				<div class="stars-today">⭐ 2914 stars this week</div>
@@ -366,68 +410,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
+				<p><a href="https://github.com/NVIDIA/garak" target="_blank">
     
 
 
       
-        ntdevlabs /
+        NVIDIA /
 
-      tiny11builder</a></p>
+      garak</a></p>
 				<p>
-      Scripts to build a trimmed-down Windows 11 image.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 13918</span>
-						<span>🔱 1099</span>
-					</div>
-				<div class="stars-today">⭐ 950 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
-    
-
-
-      
-        ZuodaoTech /
-
-      everyone-can-use-english</a></p>
-				<p>
-      人人都能用英语
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28395</span>
-						<span>🔱 4133</span>
-					</div>
-				<div class="stars-today">⭐ 1420 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      AutoAgent</a></p>
-				<p>
-      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+      the LLM vulnerability scanner
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7010</span>
-						<span>🔱 919</span>
+						<span>⭐ 5840</span>
+						<span>🔱 621</span>
 					</div>
-				<div class="stars-today">⭐ 844 stars this week</div>
+				<div class="stars-today">⭐ 679 stars this week</div>
 				</div>
 			</div>
 	
