@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-18T09:58:57Z
+date: 2025-09-18T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 14074</span>
+						<span>⭐ 14080</span>
 						<span>🔱 1206</span>
 					</div>
 				<div class="stars-today">⭐ 11888 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20750</span>
+						<span>⭐ 20757</span>
 						<span>🔱 3256</span>
 					</div>
 				<div class="stars-today">⭐ 12372 stars this month</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 66772</span>
+						<span>⭐ 66774</span>
 						<span>🔱 12523</span>
 					</div>
 				<div class="stars-today">⭐ 3337 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
-    
-
-
-      
-        plait-board /
-
-      drawnix</a></p>
-				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11479</span>
-						<span>🔱 870</span>
-					</div>
-				<div class="stars-today">⭐ 7166 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9559</span>
+						<span>⭐ 9561</span>
 						<span>🔱 291</span>
 					</div>
 				<div class="stars-today">⭐ 6081 stars this month</div>
@@ -126,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
     
 
 
       
-        simstudioai /
+        plait-board /
 
-      sim</a></p>
+      drawnix</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15157</span>
-						<span>🔱 1889</span>
+						<span>⭐ 11481</span>
+						<span>🔱 872</span>
 					</div>
-				<div class="stars-today">⭐ 8006 stars this month</div>
+				<div class="stars-today">⭐ 7166 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45651</span>
-						<span>🔱 3323</span>
+						<span>⭐ 45657</span>
+						<span>🔱 3324</span>
 					</div>
 				<div class="stars-today">⭐ 8823 stars this month</div>
 				</div>
@@ -182,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7630</span>
+						<span>⭐ 7635</span>
 						<span>🔱 856</span>
 					</div>
 				<div class="stars-today">⭐ 3347 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15164</span>
+						<span>🔱 1890</span>
+					</div>
+				<div class="stars-today">⭐ 8006 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 42324</span>
-						<span>🔱 4920</span>
+						<span>⭐ 42366</span>
+						<span>🔱 4925</span>
 					</div>
 				<div class="stars-today">⭐ 6768 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+    
+
+
+      
+        dataease /
+
+      SQLBot</a></p>
+				<p>
+      基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2306</span>
+						<span>🔱 256</span>
+					</div>
+				<div class="stars-today">⭐ 1780 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7878</span>
-						<span>🔱 595</span>
+						<span>⭐ 7879</span>
+						<span>🔱 596</span>
 					</div>
 				<div class="stars-today">⭐ 1464 stars this month</div>
 				</div>
@@ -248,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37150</span>
+						<span>⭐ 37149</span>
 						<span>🔱 10532</span>
 					</div>
 				<div class="stars-today">⭐ 611 stars this month</div>
@@ -270,32 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30716</span>
-						<span>🔱 4746</span>
+						<span>⭐ 30719</span>
+						<span>🔱 4747</span>
 					</div>
 				<div class="stars-today">⭐ 2387 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
     
 
 
       
-        trufflesecurity /
+        CorentinJ /
 
-      trufflehog</a></p>
+      Real-Time-Voice-Cloning</a></p>
 				<p>
-      Find, verify, and analyze leaked credentials
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22059</span>
-						<span>🔱 2052</span>
+						<span>🔠 Python</span>
+						<span>⭐ 56393</span>
+						<span>🔱 9197</span>
 					</div>
-				<div class="stars-today">⭐ 1768 stars this month</div>
+				<div class="stars-today">⭐ 1481 stars this month</div>
 				</div>
 			</div>
 	
@@ -322,68 +344,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
     
 
 
       
-        coleam00 /
+        trufflesecurity /
 
-      Archon</a></p>
+      trufflehog</a></p>
 				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+      Find, verify, and analyze leaked credentials
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12162</span>
-						<span>🔱 2108</span>
+						<span>🔠 Go</span>
+						<span>⭐ 22075</span>
+						<span>🔱 2052</span>
 					</div>
-				<div class="stars-today">⭐ 5200 stars this month</div>
+				<div class="stars-today">⭐ 1768 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        basecamp /
+        resemble-ai /
 
-      omarchy</a></p>
+      chatterbox</a></p>
 				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 8500</span>
-						<span>🔱 940</span>
-					</div>
-				<div class="stars-today">⭐ 4036 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
-    
-
-
-      
-        laramies /
-
-      theHarvester</a></p>
-				<p>
-      E-mails, subdomains and names Harvester - OSINT 
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14482</span>
-						<span>🔱 2303</span>
+						<span>⭐ 13013</span>
+						<span>🔱 1659</span>
 					</div>
-				<div class="stars-today">⭐ 1272 stars this month</div>
+				<div class="stars-today">⭐ 2802 stars this month</div>
 				</div>
 			</div>
 	

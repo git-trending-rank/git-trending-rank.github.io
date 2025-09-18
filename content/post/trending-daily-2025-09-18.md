@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-18
-date: 2025-09-18T09:58:57Z
+date: 2025-09-18T11:58:37Z
 categories:
 - daily
 keywords:
@@ -14,26 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/category-labs/monad" target="_blank">
-    
-
-
-      
-        category-labs /
-
-      monad</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 709</span>
-						<span>🔱 175</span>
-					</div>
-				<div class="stars-today">⭐ 96 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
@@ -50,316 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77894</span>
-						<span>🔱 4289</span>
+						<span>⭐ 78005</span>
+						<span>🔱 4291</span>
 					</div>
 				<div class="stars-today">⭐ 1903 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/category-labs/monad-bft" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
     
 
 
       
-        category-labs /
+        TheAlgorithms /
 
-      monad-bft</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 364</span>
-						<span>🔱 107</span>
-					</div>
-				<div class="stars-today">⭐ 13 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WebKit/WebKit" target="_blank">
-    
-
-
-      
-        WebKit /
-
-      WebKit</a></p>
+      Python</a></p>
 				<p>
-      Home of the WebKit project, the browser engine used by Safari, Mail, App Store and many other applications on macOS, iOS and Linux.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9137</span>
-						<span>🔱 1683</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica</a></p>
-				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25355</span>
-						<span>🔱 2620</span>
-					</div>
-				<div class="stars-today">⭐ 338 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 42324</span>
-						<span>🔱 4920</span>
-					</div>
-				<div class="stars-today">⭐ 487 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
-    
-
-
-      
-        nocodb /
-
-      nocodb</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source Airtable Alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 57237</span>
-						<span>🔱 4171</span>
-					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
-    
-
-
-      
-        dataease /
-
-      SQLBot</a></p>
-				<p>
-      基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+      All Algorithms implemented in Python
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2291</span>
-						<span>🔱 255</span>
+						<span>⭐ 207476</span>
+						<span>🔱 47838</span>
 					</div>
-				<div class="stars-today">⭐ 378 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5827</span>
-						<span>🔱 530</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40900</span>
-						<span>🔱 7190</span>
-					</div>
-				<div class="stars-today">⭐ 260 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      DeepResearch</a></p>
-				<p>
-      Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8428</span>
-						<span>🔱 609</span>
-					</div>
-				<div class="stars-today">⭐ 662 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      AI coding agent, built for the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24217</span>
-						<span>🔱 1693</span>
-					</div>
-				<div class="stars-today">⭐ 260 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nanobrowser/nanobrowser" target="_blank">
-    
-
-
-      
-        nanobrowser /
-
-      nanobrowser</a></p>
-				<p>
-      Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9584</span>
-						<span>🔱 960</span>
-					</div>
-				<div class="stars-today">⭐ 69 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jordanbaird/Ice" target="_blank">
-    
-
-
-      
-        jordanbaird /
-
-      Ice</a></p>
-				<p>
-      Powerful menu bar manager for macOS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 22448</span>
-						<span>🔱 436</span>
-					</div>
-				<div class="stars-today">⭐ 160 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
-    
-
-
-      
-        flutter /
-
-      flutter</a></p>
-				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 172589</span>
-						<span>🔱 29223</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/detectron2" target="_blank">
-    
-
-
-      
-        facebookresearch /
-
-      detectron2</a></p>
-				<p>
-      Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33083</span>
-						<span>🔱 7801</span>
-					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
+				<div class="stars-today">⭐ 295 stars today</div>
 				</div>
 			</div>
 	
@@ -378,10 +74,338 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 39091</span>
+						<span>⭐ 39113</span>
 						<span>🔱 6875</span>
 					</div>
 				<div class="stars-today">⭐ 42 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/flutter/flutter" target="_blank">
+    
+
+
+      
+        flutter /
+
+      flutter</a></p>
+				<p>
+      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 172599</span>
+						<span>🔱 29220</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
+    
+
+
+      
+        Alibaba-NLP /
+
+      DeepResearch</a></p>
+				<p>
+      Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8516</span>
+						<span>🔱 614</span>
+					</div>
+				<div class="stars-today">⭐ 662 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/category-labs/monad" target="_blank">
+    
+
+
+      
+        category-labs /
+
+      monad</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 731</span>
+						<span>🔱 177</span>
+					</div>
+				<div class="stars-today">⭐ 96 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TEN-framework/ten-framework" target="_blank">
+    
+
+
+      
+        TEN-framework /
+
+      ten-framework</a></p>
+				<p>
+       Open-source framework for conversational voice AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 7620</span>
+						<span>🔱 883</span>
+					</div>
+				<div class="stars-today">⭐ 134 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 328319</span>
+						<span>🔱 80481</span>
+					</div>
+				<div class="stars-today">⭐ 482 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BasedHardware/omi" target="_blank">
+    
+
+
+      
+        BasedHardware /
+
+      omi</a></p>
+				<p>
+      AI wearables. Put it on, speak, transcribe, automatically
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 6709</span>
+						<span>🔱 982</span>
+					</div>
+				<div class="stars-today">⭐ 191 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linera-io/linera-protocol" target="_blank">
+    
+
+
+      
+        linera-io /
+
+      linera-protocol</a></p>
+				<p>
+      Main repository for the Linera protocol
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 28857</span>
+						<span>🔱 1942</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+    
+
+
+      
+        dataease /
+
+      SQLBot</a></p>
+				<p>
+      基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2306</span>
+						<span>🔱 256</span>
+					</div>
+				<div class="stars-today">⭐ 378 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ArthurBrussee/brush" target="_blank">
+    
+
+
+      
+        ArthurBrussee /
+
+      brush</a></p>
+				<p>
+      3D Reconstruction for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2576</span>
+						<span>🔱 113</span>
+					</div>
+				<div class="stars-today">⭐ 224 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54528</span>
+						<span>🔱 8656</span>
+					</div>
+				<div class="stars-today">⭐ 465 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      unsloth</a></p>
+				<p>
+      Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45634</span>
+						<span>🔱 3723</span>
+					</div>
+				<div class="stars-today">⭐ 75 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 42366</span>
+						<span>🔱 4925</span>
+					</div>
+				<div class="stars-today">⭐ 487 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tenstorrent/tt-metal" target="_blank">
+    
+
+
+      
+        tenstorrent /
+
+      tt-metal</a></p>
+				<p>
+      🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1147</span>
+						<span>🔱 264</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40915</span>
+						<span>🔱 7190</span>
+					</div>
+				<div class="stars-today">⭐ 260 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
+    
+
+
+      
+        cypress-io /
+
+      cypress</a></p>
+				<p>
+      Fast, easy and reliable testing for anything that runs in a browser.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 48900</span>
+						<span>🔱 3329</span>
+					</div>
+				<div class="stars-today">⭐ 16 stars today</div>
 				</div>
 			</div>
 	
