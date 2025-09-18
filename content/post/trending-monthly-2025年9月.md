@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-18T17:58:39Z
+date: 2025-09-18T19:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 14090</span>
+						<span>⭐ 14092</span>
 						<span>🔱 1204</span>
 					</div>
 				<div class="stars-today">⭐ 11888 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20776</span>
+						<span>⭐ 20781</span>
 						<span>🔱 3259</span>
 					</div>
 				<div class="stars-today">⭐ 12372 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 66781</span>
+						<span>⭐ 66783</span>
 						<span>🔱 12524</span>
 					</div>
 				<div class="stars-today">⭐ 3337 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9572</span>
+						<span>⭐ 9576</span>
 						<span>🔱 291</span>
 					</div>
 				<div class="stars-today">⭐ 6081 stars this month</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11490</span>
-						<span>🔱 873</span>
+						<span>⭐ 11491</span>
+						<span>🔱 874</span>
 					</div>
 				<div class="stars-today">⭐ 7166 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45692</span>
+						<span>⭐ 45699</span>
 						<span>🔱 3327</span>
 					</div>
 				<div class="stars-today">⭐ 8823 stars this month</div>
@@ -160,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7645</span>
+						<span>⭐ 7648</span>
 						<span>🔱 858</span>
 					</div>
 				<div class="stars-today">⭐ 3347 stars this month</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15187</span>
-						<span>🔱 1894</span>
+						<span>⭐ 15188</span>
+						<span>🔱 1895</span>
 					</div>
 				<div class="stars-today">⭐ 8006 stars this month</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 42494</span>
-						<span>🔱 4934</span>
+						<span>⭐ 42525</span>
+						<span>🔱 4935</span>
 					</div>
 				<div class="stars-today">⭐ 6768 stars this month</div>
 				</div>
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2352</span>
+						<span>⭐ 2358</span>
 						<span>🔱 259</span>
 					</div>
 				<div class="stars-today">⭐ 1780 stars this month</div>
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7888</span>
+						<span>⭐ 7893</span>
 						<span>🔱 597</span>
 					</div>
 				<div class="stars-today">⭐ 1464 stars this month</div>
@@ -270,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37150</span>
+						<span>⭐ 37151</span>
 						<span>🔱 10533</span>
 					</div>
 				<div class="stars-today">⭐ 611 stars this month</div>
@@ -314,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56456</span>
+						<span>⭐ 56466</span>
 						<span>🔱 9202</span>
 					</div>
 				<div class="stars-today">⭐ 1481 stars this month</div>
@@ -358,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22103</span>
+						<span>⭐ 22114</span>
 						<span>🔱 2051</span>
 					</div>
 				<div class="stars-today">⭐ 1768 stars this month</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13026</span>
-						<span>🔱 1663</span>
+						<span>⭐ 13030</span>
+						<span>🔱 1666</span>
 					</div>
 				<div class="stars-today">⭐ 2802 stars this month</div>
 				</div>
