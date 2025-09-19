@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-19
-date: 2025-09-19T03:58:46Z
+date: 2025-09-19T05:58:35Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 78807</span>
-						<span>🔱 4326</span>
+						<span>⭐ 78897</span>
+						<span>🔱 4328</span>
 					</div>
 				<div class="stars-today">⭐ 1386 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 207652</span>
-						<span>🔱 47855</span>
+						<span>⭐ 207676</span>
+						<span>🔱 47856</span>
 					</div>
 				<div class="stars-today">⭐ 109 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 39212</span>
+						<span>⭐ 39222</span>
 						<span>🔱 6877</span>
 					</div>
 				<div class="stars-today">⭐ 271 stars today</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 172707</span>
-						<span>🔱 29228</span>
+						<span>⭐ 172719</span>
+						<span>🔱 29230</span>
 					</div>
 				<div class="stars-today">⭐ 190 stars today</div>
 				</div>
@@ -113,13 +113,13 @@ keywords:
 
       DeepResearch</a></p>
 				<p>
-      Tongyi DeepResearch, the Leading Open-source DeepResearch Agent
+      Tongyi DeepResearch, the Leading Open-source Deep Research Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9135</span>
-						<span>🔱 671</span>
+						<span>⭐ 9246</span>
+						<span>🔱 676</span>
 					</div>
 				<div class="stars-today">⭐ 1346 stars today</div>
 				</div>
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 764</span>
+						<span>⭐ 774</span>
 						<span>🔱 180</span>
 					</div>
 				<div class="stars-today">⭐ 470 stars today</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 7753</span>
-						<span>🔱 891</span>
+						<span>⭐ 7779</span>
+						<span>🔱 894</span>
 					</div>
 				<div class="stars-today">⭐ 135 stars today</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 328566</span>
-						<span>🔱 80505</span>
+						<span>⭐ 328602</span>
+						<span>🔱 80508</span>
 					</div>
 				<div class="stars-today">⭐ 445 stars today</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 6853</span>
-						<span>🔱 986</span>
+						<span>⭐ 6869</span>
+						<span>🔱 987</span>
 					</div>
 				<div class="stars-today">⭐ 86 stars today</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29215</span>
-						<span>🔱 1961</span>
+						<span>⭐ 29260</span>
+						<span>🔱 1963</span>
 					</div>
 				<div class="stars-today">⭐ 505 stars today</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2426</span>
-						<span>🔱 263</span>
+						<span>⭐ 2446</span>
+						<span>🔱 266</span>
 					</div>
 				<div class="stars-today">⭐ 253 stars today</div>
 				</div>
@@ -270,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2674</span>
+						<span>⭐ 2685</span>
 						<span>🔱 117</span>
 					</div>
 				<div class="stars-today">⭐ 37 stars today</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54783</span>
-						<span>🔱 8663</span>
+						<span>⭐ 54825</span>
+						<span>🔱 8664</span>
 					</div>
 				<div class="stars-today">⭐ 152 stars today</div>
 				</div>
@@ -309,13 +309,13 @@ keywords:
 
       unsloth</a></p>
 				<p>
-      Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+      Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45751</span>
-						<span>🔱 3730</span>
+						<span>⭐ 45770</span>
+						<span>🔱 3731</span>
 					</div>
 				<div class="stars-today">⭐ 56 stars today</div>
 				</div>
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 42676</span>
-						<span>🔱 4950</span>
+						<span>⭐ 42722</span>
+						<span>🔱 4955</span>
 					</div>
 				<div class="stars-today">⭐ 584 stars today</div>
 				</div>
@@ -358,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 1185</span>
+						<span>⭐ 1189</span>
 						<span>🔱 267</span>
 					</div>
 				<div class="stars-today">⭐ 13 stars today</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41010</span>
-						<span>🔱 7200</span>
+						<span>⭐ 41019</span>
+						<span>🔱 7202</span>
 					</div>
 				<div class="stars-today">⭐ 245 stars today</div>
 				</div>
@@ -402,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49028</span>
-						<span>🔱 3334</span>
+						<span>⭐ 49050</span>
+						<span>🔱 3336</span>
 					</div>
 				<div class="stars-today">⭐ 27 stars today</div>
 				</div>
