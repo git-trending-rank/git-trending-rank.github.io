@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-19
-date: 2025-09-19T09:58:38Z
+date: 2025-09-19T11:58:44Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,90 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
     
 
 
       
-        microsoft /
+        Alibaba-NLP /
 
-      markitdown</a></p>
+      DeepResearch</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Tongyi Deep Research, the Leading Open-source Deep Research Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79150</span>
-						<span>🔱 4337</span>
+						<span>⭐ 9521</span>
+						<span>🔱 705</span>
 					</div>
-				<div class="stars-today">⭐ 1386 stars today</div>
+				<div class="stars-today">⭐ 1346 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
     
 
 
       
-        TheAlgorithms /
+        LazyVim /
 
-      Python</a></p>
+      LazyVim</a></p>
 				<p>
-      All Algorithms implemented in Python
+      Neovim config for the lazy
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 207736</span>
-						<span>🔱 47862</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 22525</span>
+						<span>🔱 1605</span>
 					</div>
-				<div class="stars-today">⭐ 109 stars today</div>
+				<div class="stars-today">⭐ 25 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/curl/curl" target="_blank">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
     
 
 
       
-        curl /
+        basecamp /
 
-      curl</a></p>
+      omarchy</a></p>
 				<p>
-      A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+      Opinionated Arch/Hyprland Setup
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 39249</span>
-						<span>🔱 6878</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 8656</span>
+						<span>🔱 955</span>
 					</div>
-				<div class="stars-today">⭐ 271 stars today</div>
+				<div class="stars-today">⭐ 210 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
+    
+
+
+      
+        WebGoat /
+
+      WebGoat</a></p>
+				<p>
+      WebGoat is a deliberately insecure application
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7784</span>
+						<span>🔱 6716</span>
+					</div>
+				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
 			</div>
 	
@@ -96,118 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 172742</span>
-						<span>🔱 29228</span>
+						<span>⭐ 172755</span>
+						<span>🔱 29230</span>
 					</div>
 				<div class="stars-today">⭐ 190 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
+				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
     
 
 
       
-        Alibaba-NLP /
+        nocodb /
 
-      DeepResearch</a></p>
+      nocodb</a></p>
 				<p>
-      Tongyi Deep Research, the Leading Open-source Deep Research Agent
+      🔥 🔥 🔥 Open Source Airtable Alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 57297</span>
+						<span>🔱 4176</span>
+					</div>
+				<div class="stars-today">⭐ 260 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/detectron2" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      detectron2</a></p>
+				<p>
+      Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9460</span>
-						<span>🔱 695</span>
+						<span>⭐ 33136</span>
+						<span>🔱 7803</span>
 					</div>
-				<div class="stars-today">⭐ 1346 stars today</div>
+				<div class="stars-today">⭐ 230 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/category-labs/monad" target="_blank">
+				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
     
 
 
       
-        category-labs /
+        fmtlib /
 
-      monad</a></p>
-				<p></p>
+      fmt</a></p>
+				<p>
+      A modern formatting library
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 793</span>
-						<span>🔱 182</span>
+						<span>⭐ 22351</span>
+						<span>🔱 2708</span>
 					</div>
-				<div class="stars-today">⭐ 470 stars today</div>
+				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TEN-framework/ten-framework" target="_blank">
+				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
     
 
 
       
-        TEN-framework /
+        Gar-b-age /
 
-      ten-framework</a></p>
+      CookLikeHOC</a></p>
 				<p>
-       Open-source framework for conversational voice AI agents.
+      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 7822</span>
-						<span>🔱 898</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6589</span>
+						<span>🔱 807</span>
 					</div>
-				<div class="stars-today">⭐ 135 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
-    
-
-
-      
-        jwasham /
-
-      coding-interview-university</a></p>
-				<p>
-      A complete computer science study plan to become a software engineer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 328695</span>
-						<span>🔱 80522</span>
-					</div>
-				<div class="stars-today">⭐ 445 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BasedHardware/omi" target="_blank">
-    
-
-
-      
-        BasedHardware /
-
-      omi</a></p>
-				<p>
-      AI wearables. Put it on, speak, transcribe, automatically
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6903</span>
-						<span>🔱 990</span>
-					</div>
-				<div class="stars-today">⭐ 86 stars today</div>
+				<div class="stars-today">⭐ 1959 stars today</div>
 				</div>
 			</div>
 	
@@ -226,186 +228,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29373</span>
-						<span>🔱 1973</span>
+						<span>⭐ 29430</span>
+						<span>🔱 1976</span>
 					</div>
 				<div class="stars-today">⭐ 505 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
     
 
 
       
-        dataease /
+        microsoft /
 
-      SQLBot</a></p>
+      AI-For-Beginners</a></p>
 				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+      12 Weeks, 24 Lessons, AI for All!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2504</span>
-						<span>🔱 271</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 40425</span>
+						<span>🔱 7973</span>
 					</div>
-				<div class="stars-today">⭐ 253 stars today</div>
+				<div class="stars-today">⭐ 134 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ArthurBrussee/brush" target="_blank">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
     
 
 
       
-        ArthurBrussee /
+        CopilotKit /
 
-      brush</a></p>
+      CopilotKit</a></p>
 				<p>
-      3D Reconstruction for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2713</span>
-						<span>🔱 117</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
-    
-
-
-      
-        PaddlePaddle /
-
-      PaddleOCR</a></p>
-				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54941</span>
-						<span>🔱 8669</span>
-					</div>
-				<div class="stars-today">⭐ 152 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45809</span>
-						<span>🔱 3740</span>
-					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 42837</span>
-						<span>🔱 4964</span>
-					</div>
-				<div class="stars-today">⭐ 584 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tenstorrent/tt-metal" target="_blank">
-    
-
-
-      
-        tenstorrent /
-
-      tt-metal</a></p>
-				<p>
-      🤘 TT-NN operator library, and TT-Metalium low level kernel programming model.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1202</span>
-						<span>🔱 267</span>
-					</div>
-				<div class="stars-today">⭐ 13 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41055</span>
-						<span>🔱 7210</span>
-					</div>
-				<div class="stars-today">⭐ 245 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
-    
-
-
-      
-        cypress-io /
-
-      cypress</a></p>
-				<p>
-      Fast, easy and reliable testing for anything that runs in a browser.
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49086</span>
-						<span>🔱 3340</span>
+						<span>⭐ 23106</span>
+						<span>🔱 3117</span>
 					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
+				<div class="stars-today">⭐ 67 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 79237</span>
+						<span>🔱 4342</span>
+					</div>
+				<div class="stars-today">⭐ 1386 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitnami/containers" target="_blank">
+    
+
+
+      
+        bitnami /
+
+      containers</a></p>
+				<p>
+      Bitnami container images
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 4084</span>
+						<span>🔱 6159</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5929</span>
+						<span>🔱 536</span>
+					</div>
+				<div class="stars-today">⭐ 261 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitnami/charts" target="_blank">
+    
+
+
+      
+        bitnami /
+
+      charts</a></p>
+				<p>
+      Bitnami Helm Charts
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Smarty</span>
+						<span>⭐ 9974</span>
+						<span>🔱 10133</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-19T09:58:38Z
+date: 2025-09-19T11:58:44Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 14150</span>
-						<span>🔱 1209</span>
-					</div>
-				<div class="stars-today">⭐ 11839 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
@@ -52,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20840</span>
+						<span>⭐ 20854</span>
 						<span>🔱 3271</span>
 					</div>
 				<div class="stars-today">⭐ 12430 stars this month</div>
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 66814</span>
+						<span>⭐ 66822</span>
 						<span>🔱 12529</span>
 					</div>
 				<div class="stars-today">⭐ 3400 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 14158</span>
+						<span>🔱 1209</span>
+					</div>
+				<div class="stars-today">⭐ 11839 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9601</span>
-						<span>🔱 292</span>
+						<span>⭐ 9605</span>
+						<span>🔱 293</span>
 					</div>
 				<div class="stars-today">⭐ 6062 stars this month</div>
 				</div>
@@ -118,10 +118,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11519</span>
+						<span>⭐ 11524</span>
 						<span>🔱 876</span>
 					</div>
 				<div class="stars-today">⭐ 7193 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
+    
+
+
+      
+        Physical-Intelligence /
+
+      openpi</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7667</span>
+						<span>🔱 862</span>
+					</div>
+				<div class="stars-today">⭐ 3380 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,52 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45770</span>
-						<span>🔱 3334</span>
+						<span>⭐ 45778</span>
+						<span>🔱 3335</span>
 					</div>
 				<div class="stars-today">⭐ 8921 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
-    
-
-
-      
-        Physical-Intelligence /
-
-      openpi</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7666</span>
-						<span>🔱 862</span>
-					</div>
-				<div class="stars-today">⭐ 3380 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15219</span>
-						<span>🔱 1902</span>
-					</div>
-				<div class="stars-today">⭐ 8032 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 42837</span>
-						<span>🔱 4964</span>
+						<span>⭐ 42874</span>
+						<span>🔱 4968</span>
 					</div>
 				<div class="stars-today">⭐ 7235 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15220</span>
+						<span>🔱 1902</span>
+					</div>
+				<div class="stars-today">⭐ 8032 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2504</span>
-						<span>🔱 271</span>
+						<span>⭐ 2510</span>
+						<span>🔱 272</span>
 					</div>
 				<div class="stars-today">⭐ 1810 stars this month</div>
 				</div>
@@ -248,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7912</span>
+						<span>⭐ 7919</span>
 						<span>🔱 601</span>
 					</div>
 				<div class="stars-today">⭐ 1498 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/googletest" target="_blank">
-    
-
-
-      
-        google /
-
-      googletest</a></p>
-				<p>
-      GoogleTest - Google Testing and Mocking Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 37156</span>
-						<span>🔱 10533</span>
-					</div>
-				<div class="stars-today">⭐ 608 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30758</span>
+						<span>⭐ 30761</span>
 						<span>🔱 4755</span>
 					</div>
 				<div class="stars-today">⭐ 2375 stars this month</div>
@@ -314,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56569</span>
-						<span>🔱 9212</span>
+						<span>⭐ 56580</span>
+						<span>🔱 9213</span>
 					</div>
 				<div class="stars-today">⭐ 1644 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry</a></p>
+				<p>
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4732</span>
+						<span>🔱 350</span>
+					</div>
+				<div class="stars-today">⭐ 2636 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21793</span>
+						<span>⭐ 21799</span>
 						<span>🔱 1625</span>
 					</div>
 				<div class="stars-today">⭐ 1761 stars this month</div>
@@ -358,10 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22161</span>
-						<span>🔱 2051</span>
+						<span>⭐ 22174</span>
+						<span>🔱 2053</span>
 					</div>
 				<div class="stars-today">⭐ 1920 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/googletest" target="_blank">
+    
+
+
+      
+        google /
+
+      googletest</a></p>
+				<p>
+      GoogleTest - Google Testing and Mocking Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 37157</span>
+						<span>🔱 10533</span>
+					</div>
+				<div class="stars-today">⭐ 608 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13072</span>
-						<span>🔱 1672</span>
+						<span>⭐ 13077</span>
+						<span>🔱 1674</span>
 					</div>
 				<div class="stars-today">⭐ 2815 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Opinionated Arch/Hyprland Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 8656</span>
+						<span>🔱 955</span>
+					</div>
+				<div class="stars-today">⭐ 4085 stars this month</div>
 				</div>
 			</div>
 	
