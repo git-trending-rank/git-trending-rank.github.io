@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 20 Sep 2025 09:58:38 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 20 Sep 2025 11:58:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第38周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC38%E5%91%A8/</link>
-        <pubDate>Sat, 20 Sep 2025 09:58:38 +0000</pubDate>
+        <pubDate>Sat, 20 Sep 2025 11:58:52 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC38%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10870&lt;/span&gt;
-						&lt;span&gt;🔱 806&lt;/span&gt;
+						&lt;span&gt;⭐ 10983&lt;/span&gt;
+						&lt;span&gt;🔱 815&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3337 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 79425&lt;/span&gt;
-						&lt;span&gt;🔱 4357&lt;/span&gt;
+						&lt;span&gt;⭐ 79439&lt;/span&gt;
+						&lt;span&gt;🔱 4360&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6284 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -77,32 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56694&lt;/span&gt;
+						&lt;span&gt;⭐ 56705&lt;/span&gt;
 						&lt;span&gt;🔱 9215&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1652 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sentient-agi/ROMA&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sentient-agi /
-
-      ROMA&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3024&lt;/span&gt;
-						&lt;span&gt;🔱 318&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1473 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,7 +99,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 25486&lt;/span&gt;
+						&lt;span&gt;⭐ 25488&lt;/span&gt;
 						&lt;span&gt;🔱 2641&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1480 stars this week&lt;/div&gt;
@@ -129,24 +107,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/trueadm/ripple&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sentient-agi/ROMA&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        trueadm /
+        sentient-agi /
 
-      ripple&lt;/a&gt;&lt;/p&gt;
+      ROMA&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      the elegant TypeScript UI framework
+      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5168&lt;/span&gt;
-						&lt;span&gt;🔱 190&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3048&lt;/span&gt;
+						&lt;span&gt;🔱 340&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1784 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1473 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dataease/SQLBot&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dataease /
+
+      SQLBot&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 2570&lt;/span&gt;
+						&lt;span&gt;🔱 277&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1075 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,30 +165,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 32243&lt;/span&gt;
-						&lt;span&gt;🔱 1932&lt;/span&gt;
+						&lt;span&gt;⭐ 32262&lt;/span&gt;
+						&lt;span&gt;🔱 1943&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3226 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Physical-Intelligence/openpi&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nocodb/nocodb&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Physical-Intelligence /
+        nocodb /
 
-      openpi&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
+      nocodb&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥 🔥 🔥 Open Source Airtable Alternative
+    &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7694&lt;/span&gt;
-						&lt;span&gt;🔱 867&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 57490&lt;/span&gt;
+						&lt;span&gt;🔱 4195&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 766 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 521 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TEN-framework/ten-framework&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        TEN-framework /
+
+      ten-framework&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+       Open-source framework for conversational voice AI agents.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C&lt;/span&gt;
+						&lt;span&gt;⭐ 7868&lt;/span&gt;
+						&lt;span&gt;🔱 913&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 490 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -215,156 +239,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/registry&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/SkyworkAI/DeepResearchAgent&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        modelcontextprotocol /
+        SkyworkAI /
 
-      registry&lt;/a&gt;&lt;/p&gt;
+      DeepResearchAgent&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A community driven registry service for Model Context Protocol (MCP) servers.
+      DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 4793&lt;/span&gt;
-						&lt;span&gt;🔱 352&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2511&lt;/span&gt;
+						&lt;span&gt;🔱 340&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 912 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dataease/SQLBot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dataease /
-
-      SQLBot&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2566&lt;/span&gt;
-						&lt;span&gt;🔱 277&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1075 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/AutoAgent&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        HKUDS /
-
-      AutoAgent&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      &#34;AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework&#34;
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7208&lt;/span&gt;
-						&lt;span&gt;🔱 956&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 404 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/CodebuffAI/codebuff&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        CodebuffAI /
-
-      codebuff&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Generate code from the terminal!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1999&lt;/span&gt;
-						&lt;span&gt;🔱 233&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 929 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/grpc/grpc-go&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        grpc /
-
-      grpc-go&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Go language implementation of gRPC. HTTP/2 based RPC
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 22366&lt;/span&gt;
-						&lt;span&gt;🔱 4571&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 178 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NVIDIA/garak&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NVIDIA /
-
-      garak&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      the LLM vulnerability scanner
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5950&lt;/span&gt;
-						&lt;span&gt;🔱 628&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 592 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/qgis/QGIS&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        qgis /
-
-      QGIS&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 12407&lt;/span&gt;
-						&lt;span&gt;🔱 3241&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 605 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 900 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -383,32 +275,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3839&lt;/span&gt;
-						&lt;span&gt;🔱 439&lt;/span&gt;
+						&lt;span&gt;⭐ 3843&lt;/span&gt;
+						&lt;span&gt;🔱 440&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 750 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nocodb/nocodb&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        nocodb /
+        virattt /
 
-      nocodb&lt;/a&gt;&lt;/p&gt;
+      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🔥 🔥 🔥 Open Source Airtable Alternative
+      An AI Hedge Fund Team
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 57473&lt;/span&gt;
-						&lt;span&gt;🔱 4196&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 41105&lt;/span&gt;
+						&lt;span&gt;🔱 7221&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 521 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1170 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -435,24 +327,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ccfos/nightingale&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/registry&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ccfos /
+        modelcontextprotocol /
 
-      nightingale&lt;/a&gt;&lt;/p&gt;
+      registry&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Nightingale for monitoring and alerting, just as Grafana for visualization.
+      A community driven registry service for Model Context Protocol (MCP) servers.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 12369&lt;/span&gt;
-						&lt;span&gt;🔱 1618&lt;/span&gt;
+						&lt;span&gt;⭐ 4799&lt;/span&gt;
+						&lt;span&gt;🔱 352&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 446 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 912 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/grpc/grpc-go&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        grpc /
+
+      grpc-go&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Go language implementation of gRPC. HTTP/2 based RPC
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 22366&lt;/span&gt;
+						&lt;span&gt;🔱 4571&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 178 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
