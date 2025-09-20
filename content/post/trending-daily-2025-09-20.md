@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-20
-date: 2025-09-20T09:58:38Z
+date: 2025-09-20T11:58:52Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
+    
+
+
+      
+        Gar-b-age /
+
+      CookLikeHOC</a></p>
+				<p>
+      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7836</span>
+						<span>🔱 956</span>
+					</div>
+				<div class="stars-today">⭐ 2905 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
@@ -30,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10870</span>
-						<span>🔱 806</span>
+						<span>⭐ 10983</span>
+						<span>🔱 815</span>
 					</div>
 				<div class="stars-today">⭐ 1026 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
-    
-
-
-      
-        LazyVim /
-
-      LazyVim</a></p>
-				<p>
-      Neovim config for the lazy
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 22679</span>
-						<span>🔱 1609</span>
-					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 8852</span>
-						<span>🔱 965</span>
-					</div>
-				<div class="stars-today">⭐ 151 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
-    
-
-
-      
-        WebGoat /
-
-      WebGoat</a></p>
-				<p>
-      WebGoat is a deliberately insecure application
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7955</span>
-						<span>🔱 6725</span>
-					</div>
-				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
@@ -118,54 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 172900</span>
-						<span>🔱 29237</span>
+						<span>⭐ 172910</span>
+						<span>🔱 29239</span>
 					</div>
 				<div class="stars-today">⭐ 167 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
+				<p><a href="https://github.com/winfunc/opcode" target="_blank">
     
 
 
       
-        nocodb /
+        winfunc /
 
-      nocodb</a></p>
+      opcode</a></p>
 				<p>
-      🔥 🔥 🔥 Open Source Airtable Alternative
+      A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57473</span>
-						<span>🔱 4196</span>
+						<span>⭐ 16687</span>
+						<span>🔱 1234</span>
 					</div>
-				<div class="stars-today">⭐ 61 stars today</div>
+				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/detectron2" target="_blank">
+				<p><a href="https://github.com/tldraw/tldraw" target="_blank">
     
 
 
       
-        facebookresearch /
+        tldraw /
 
-      detectron2</a></p>
+      tldraw</a></p>
 				<p>
-      Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
+      very good whiteboard SDK / infinite canvas SDK
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33279</span>
-						<span>🔱 7808</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 41914</span>
+						<span>🔱 2709</span>
 					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
+				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 22398</span>
+						<span>⭐ 22405</span>
 						<span>🔱 2713</span>
 					</div>
 				<div class="stars-today">⭐ 9 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
-    
-
-
-      
-        Gar-b-age /
-
-      CookLikeHOC</a></p>
-				<p>
-      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7724</span>
-						<span>🔱 943</span>
-					</div>
-				<div class="stars-today">⭐ 2905 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29861</span>
-						<span>🔱 2011</span>
+						<span>⭐ 29894</span>
+						<span>🔱 2012</span>
 					</div>
 				<div class="stars-today">⭐ 606 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/grafana/loki" target="_blank">
+    
+
+
+      
+        grafana /
+
+      loki</a></p>
+				<p>
+      Like Prometheus, but for logs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26459</span>
+						<span>🔱 3785</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
 				</div>
 			</div>
 	
@@ -250,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 40880</span>
-						<span>🔱 8017</span>
+						<span>⭐ 40926</span>
+						<span>🔱 8020</span>
 					</div>
 				<div class="stars-today">⭐ 170 stars today</div>
 				</div>
@@ -272,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23412</span>
+						<span>⭐ 23427</span>
 						<span>🔱 3143</span>
 					</div>
 				<div class="stars-today">⭐ 75 stars today</div>
@@ -280,90 +236,156 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/OpenMind/OM1" target="_blank">
     
 
 
       
-        microsoft /
+        OpenMind /
 
-      markitdown</a></p>
+      OM1</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      Modular AI runtime for robots
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79425</span>
-						<span>🔱 4357</span>
+						<span>⭐ 393</span>
+						<span>🔱 94</span>
 					</div>
-				<div class="stars-today">⭐ 1244 stars today</div>
+				<div class="stars-today">⭐ 49 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bitnami/containers" target="_blank">
+				<p><a href="https://github.com/9001/copyparty" target="_blank">
     
 
 
       
-        bitnami /
+        9001 /
 
-      containers</a></p>
+      copyparty</a></p>
 				<p>
-      Bitnami container images
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 4140</span>
-						<span>🔱 6163</span>
-					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6089</span>
-						<span>🔱 539</span>
+						<span>⭐ 30258</span>
+						<span>🔱 1187</span>
 					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
+				<div class="stars-today">⭐ 131 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bitnami/charts" target="_blank">
+				<p><a href="https://github.com/knownsec/aipyapp" target="_blank">
     
 
 
       
-        bitnami /
+        knownsec /
 
-      charts</a></p>
+      aipyapp</a></p>
 				<p>
-      Bitnami Helm Charts
+      AI-Powered Python & Python-Powered AI (Python-Use)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Smarty</span>
-						<span>⭐ 10022</span>
-						<span>🔱 10142</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2074</span>
+						<span>🔱 169</span>
 					</div>
-				<div class="stars-today">⭐ 5 stars today</div>
+				<div class="stars-today">⭐ 58 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
+    
+
+
+      
+        cypress-io /
+
+      cypress</a></p>
+				<p>
+      Fast, easy and reliable testing for anything that runs in a browser.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 49109</span>
+						<span>🔱 3342</span>
+					</div>
+				<div class="stars-today">⭐ 174 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      unsloth</a></p>
+				<p>
+      Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45856</span>
+						<span>🔱 3750</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/odoo/odoo" target="_blank">
+    
+
+
+      
+        odoo /
+
+      odoo</a></p>
+				<p>
+      Odoo. Open Source Apps To Grow Your Business.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45861</span>
+						<span>🔱 29640</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OvidijusParsiunas/deep-chat" target="_blank">
+    
+
+
+      
+        OvidijusParsiunas /
+
+      deep-chat</a></p>
+				<p>
+      Fully customizable AI chatbot component for your website
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2763</span>
+						<span>🔱 367</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	

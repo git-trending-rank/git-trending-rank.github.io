@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-20T09:58:38Z
+date: 2025-09-20T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20936</span>
+						<span>⭐ 20940</span>
 						<span>🔱 3283</span>
 					</div>
 				<div class="stars-today">⭐ 12507 stars this month</div>
@@ -52,32 +52,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 66858</span>
-						<span>🔱 12534</span>
+						<span>⭐ 66860</span>
+						<span>🔱 12535</span>
 					</div>
 				<div class="stars-today">⭐ 3450 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
     
 
 
       
-        moeru-ai /
+        Physical-Intelligence /
 
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
+      openpi</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 14208</span>
-						<span>🔱 1210</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7697</span>
+						<span>🔱 867</span>
 					</div>
-				<div class="stars-today">⭐ 11571 stars this month</div>
+				<div class="stars-today">⭐ 3406 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 9635</span>
+						<span>⭐ 9637</span>
 						<span>🔱 294</span>
 					</div>
 				<div class="stars-today">⭐ 6005 stars this month</div>
@@ -104,66 +102,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
     
 
 
       
-        plait-board /
+        moeru-ai /
 
-      drawnix</a></p>
+      airi</a></p>
 				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11557</span>
-						<span>🔱 883</span>
+						<span>🔠 Vue</span>
+						<span>⭐ 14212</span>
+						<span>🔱 1210</span>
 					</div>
-				<div class="stars-today">⭐ 7178 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
-    
-
-
-      
-        Physical-Intelligence /
-
-      openpi</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7694</span>
-						<span>🔱 867</span>
-					</div>
-				<div class="stars-today">⭐ 3406 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/windows" target="_blank">
-    
-
-
-      
-        dockur /
-
-      windows</a></p>
-				<p>
-      Windows inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 45838</span>
-						<span>🔱 3338</span>
-					</div>
-				<div class="stars-today">⭐ 9017 stars this month</div>
+				<div class="stars-today">⭐ 11571 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,32 +138,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 43079</span>
-						<span>🔱 5012</span>
+						<span>⭐ 43093</span>
+						<span>🔱 5016</span>
 					</div>
 				<div class="stars-today">⭐ 7607 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/dockur/windows" target="_blank">
     
 
 
       
-        simstudioai /
+        dockur /
 
-      sim</a></p>
+      windows</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      Windows inside a Docker container.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 45845</span>
+						<span>🔱 3338</span>
+					</div>
+				<div class="stars-today">⭐ 9017 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+    
+
+
+      
+        plait-board /
+
+      drawnix</a></p>
+				<p>
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15250</span>
-						<span>🔱 1909</span>
+						<span>⭐ 11560</span>
+						<span>🔱 884</span>
 					</div>
-				<div class="stars-today">⭐ 7919 stars this month</div>
+				<div class="stars-today">⭐ 7178 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2566</span>
+						<span>⭐ 2570</span>
 						<span>🔱 277</span>
 					</div>
 				<div class="stars-today">⭐ 1971 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15254</span>
+						<span>🔱 1909</span>
+					</div>
+				<div class="stars-today">⭐ 7919 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,54 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7945</span>
-						<span>🔱 602</span>
+						<span>⭐ 7947</span>
+						<span>🔱 603</span>
 					</div>
 				<div class="stars-today">⭐ 1521 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30799</span>
-						<span>🔱 4759</span>
-					</div>
-				<div class="stars-today">⭐ 2376 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
-    
-
-
-      
-        CorentinJ /
-
-      Real-Time-Voice-Cloning</a></p>
-				<p>
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56694</span>
-						<span>🔱 9215</span>
-					</div>
-				<div class="stars-today">⭐ 1817 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +270,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4793</span>
+						<span>⭐ 4799</span>
 						<span>🔱 352</span>
 					</div>
 				<div class="stars-today">⭐ 2707 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+    
+
+
+      
+        CorentinJ /
+
+      Real-Time-Voice-Cloning</a></p>
+				<p>
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56705</span>
+						<span>🔱 9215</span>
+					</div>
+				<div class="stars-today">⭐ 1817 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30801</span>
+						<span>🔱 4758</span>
+					</div>
+				<div class="stars-today">⭐ 2376 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
+    
+
+
+      
+        Alibaba-NLP /
+
+      DeepResearch</a></p>
+				<p>
+      Tongyi Deep Research, the Leading Open-source Deep Research Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10983</span>
+						<span>🔱 815</span>
+					</div>
+				<div class="stars-today">⭐ 4847 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21814</span>
+						<span>⭐ 21815</span>
 						<span>🔱 1627</span>
 					</div>
 				<div class="stars-today">⭐ 1778 stars this month</div>
@@ -358,54 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22228</span>
+						<span>⭐ 22232</span>
 						<span>🔱 2055</span>
 					</div>
 				<div class="stars-today">⭐ 2005 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/googletest" target="_blank">
-    
-
-
-      
-        google /
-
-      googletest</a></p>
-				<p>
-      GoogleTest - Google Testing and Mocking Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 37169</span>
-						<span>🔱 10534</span>
-					</div>
-				<div class="stars-today">⭐ 609 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13132</span>
-						<span>🔱 1683</span>
-					</div>
-				<div class="stars-today">⭐ 2863 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 8852</span>
-						<span>🔱 965</span>
+						<span>⭐ 8862</span>
+						<span>🔱 967</span>
 					</div>
 				<div class="stars-today">⭐ 4132 stars this month</div>
 				</div>
