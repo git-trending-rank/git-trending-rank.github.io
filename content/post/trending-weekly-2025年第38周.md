@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第38周
-date: 2025-09-21T09:58:38Z
+date: 2025-09-21T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11801</span>
-						<span>🔱 875</span>
+						<span>⭐ 11901</span>
+						<span>🔱 886</span>
 					</div>
 				<div class="stars-today">⭐ 4610 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79520</span>
-						<span>🔱 4363</span>
+						<span>⭐ 79528</span>
+						<span>🔱 4364</span>
 					</div>
 				<div class="stars-today">⭐ 6418 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56790</span>
+						<span>⭐ 56800</span>
 						<span>🔱 9222</span>
 					</div>
 				<div class="stars-today">⭐ 1660 stars this week</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25544</span>
-						<span>🔱 2645</span>
+						<span>⭐ 25552</span>
+						<span>🔱 2646</span>
 					</div>
 				<div class="stars-today">⭐ 1475 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
-    
-
-
-      
-        sentient-agi /
-
-      ROMA</a></p>
-				<p>
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3142</span>
-						<span>🔱 400</span>
-					</div>
-				<div class="stars-today">⭐ 1297 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2600</span>
+						<span>⭐ 2606</span>
 						<span>🔱 279</span>
 					</div>
 				<div class="stars-today">⭐ 1114 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
+    
+
+
+      
+        sentient-agi /
+
+      ROMA</a></p>
+				<p>
+      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3154</span>
+						<span>🔱 403</span>
+					</div>
+				<div class="stars-today">⭐ 1297 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 32435</span>
-						<span>🔱 1988</span>
+						<span>⭐ 32455</span>
+						<span>🔱 1990</span>
 					</div>
 				<div class="stars-today">⭐ 3067 stars this week</div>
 				</div>
@@ -184,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57543</span>
-						<span>🔱 4199</span>
+						<span>⭐ 57548</span>
+						<span>🔱 4200</span>
 					</div>
 				<div class="stars-today">⭐ 667 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+    
+
+
+      
+        LazyVim /
+
+      LazyVim</a></p>
+				<p>
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 22711</span>
+						<span>🔱 1612</span>
+					</div>
+				<div class="stars-today">⭐ 290 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 20034</span>
+						<span>🔱 440</span>
+					</div>
+				<div class="stars-today">⭐ 396 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 7902</span>
+						<span>⭐ 7904</span>
 						<span>🔱 917</span>
 					</div>
 				<div class="stars-today">⭐ 506 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
-    
-
-
-      
-        PowerShell /
-
-      PowerShell</a></p>
-				<p>
-      PowerShell for every system!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 50061</span>
-						<span>🔱 7943</span>
-					</div>
-				<div class="stars-today">⭐ 1505 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SkyworkAI/DeepResearchAgent" target="_blank">
-    
-
-
-      
-        SkyworkAI /
-
-      DeepResearchAgent</a></p>
-				<p>
-      DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2560</span>
-						<span>🔱 341</span>
-					</div>
-				<div class="stars-today">⭐ 875 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
-    
-
-
-      
-        firebase /
-
-      genkit</a></p>
-				<p>
-      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3878</span>
-						<span>🔱 444</span>
-					</div>
-				<div class="stars-today">⭐ 627 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,76 +272,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41171</span>
-						<span>🔱 7235</span>
+						<span>⭐ 41182</span>
+						<span>🔱 7237</span>
 					</div>
 				<div class="stars-today">⭐ 1178 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ml-explore/mlx-lm" target="_blank">
+				<p><a href="https://github.com/simdjson/simdjson" target="_blank">
     
 
 
       
-        ml-explore /
+        simdjson /
 
-      mlx-lm</a></p>
+      simdjson</a></p>
 				<p>
-      Run LLMs with MLX
+      Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 22228</span>
+						<span>🔱 1149</span>
+					</div>
+				<div class="stars-today">⭐ 960 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2389</span>
-						<span>🔱 255</span>
+						<span>⭐ 6138</span>
+						<span>🔱 543</span>
 					</div>
-				<div class="stars-today">⭐ 525 stars this week</div>
+				<div class="stars-today">⭐ 640 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+				<p><a href="https://github.com/go-task/task" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        go-task /
 
-      registry</a></p>
+      task</a></p>
 				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
+      A task runner / simpler Make alternative written in Go
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4844</span>
-						<span>🔱 358</span>
+						<span>⭐ 13680</span>
+						<span>🔱 732</span>
 					</div>
-				<div class="stars-today">⭐ 845 stars this week</div>
+				<div class="stars-today">⭐ 160 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
+				<p><a href="https://github.com/openai/codex" target="_blank">
     
 
 
       
-        grpc /
+        openai /
 
-      grpc-go</a></p>
+      codex</a></p>
 				<p>
-      The Go language implementation of gRPC. HTTP/2 based RPC
+      Lightweight coding agent that runs in your terminal
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22372</span>
-						<span>🔱 4573</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 43282</span>
+						<span>🔱 5051</span>
 					</div>
-				<div class="stars-today">⭐ 136 stars this week</div>
+				<div class="stars-today">⭐ 2674 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SkyworkAI/DeepResearchAgent" target="_blank">
+    
+
+
+      
+        SkyworkAI /
+
+      DeepResearchAgent</a></p>
+				<p>
+      DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2563</span>
+						<span>🔱 341</span>
+					</div>
+				<div class="stars-today">⭐ 875 stars this week</div>
 				</div>
 			</div>
 	

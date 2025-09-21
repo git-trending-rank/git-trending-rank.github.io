@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-21T09:58:38Z
+date: 2025-09-21T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 21003</span>
+						<span>⭐ 21011</span>
 						<span>🔱 3290</span>
 					</div>
 				<div class="stars-today">⭐ 12567 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 66891</span>
+						<span>⭐ 66895</span>
 						<span>🔱 12540</span>
 					</div>
 				<div class="stars-today">⭐ 3486 stars this month</div>
@@ -72,54 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7712</span>
+						<span>⭐ 7713</span>
 						<span>🔱 869</span>
 					</div>
 				<div class="stars-today">⭐ 3426 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
-    
-
-
-      
-        winapps-org /
-
-      winapps</a></p>
-				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 9673</span>
-						<span>🔱 295</span>
-					</div>
-				<div class="stars-today">⭐ 6001 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 14256</span>
-						<span>🔱 1215</span>
-					</div>
-				<div class="stars-today">⭐ 11021 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 43266</span>
-						<span>🔱 5047</span>
+						<span>⭐ 43282</span>
+						<span>🔱 5051</span>
 					</div>
 				<div class="stars-today">⭐ 7677 stars this month</div>
 				</div>
@@ -160,10 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45883</span>
+						<span>⭐ 45891</span>
 						<span>🔱 3345</span>
 					</div>
 				<div class="stars-today">⭐ 9072 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 9683</span>
+						<span>🔱 295</span>
+					</div>
+				<div class="stars-today">⭐ 6001 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11589</span>
+						<span>⭐ 11593</span>
 						<span>🔱 885</span>
 					</div>
 				<div class="stars-today">⭐ 7122 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 14263</span>
+						<span>🔱 1216</span>
+					</div>
+				<div class="stars-today">⭐ 11021 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2600</span>
+						<span>⭐ 2606</span>
 						<span>🔱 279</span>
 					</div>
 				<div class="stars-today">⭐ 1974 stars this month</div>
@@ -212,24 +212,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
     
 
 
       
-        simstudioai /
+        Alibaba-NLP /
 
-      sim</a></p>
+      DeepResearch</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      Tongyi Deep Research, the Leading Open-source Deep Research Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15291</span>
-						<span>🔱 1917</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11901</span>
+						<span>🔱 886</span>
 					</div>
-				<div class="stars-today">⭐ 7389 stars this month</div>
+				<div class="stars-today">⭐ 5025 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7987</span>
+						<span>⭐ 7991</span>
 						<span>🔱 607</span>
 					</div>
 				<div class="stars-today">⭐ 1526 stars this month</div>
@@ -270,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4844</span>
+						<span>⭐ 4853</span>
 						<span>🔱 358</span>
 					</div>
 				<div class="stars-today">⭐ 2752 stars this month</div>
@@ -292,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56790</span>
+						<span>⭐ 56800</span>
 						<span>🔱 9222</span>
 					</div>
 				<div class="stars-today">⭐ 1935 stars this month</div>
@@ -314,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30853</span>
+						<span>⭐ 30860</span>
 						<span>🔱 4768</span>
 					</div>
 				<div class="stars-today">⭐ 2364 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      DeepResearch</a></p>
-				<p>
-      Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11801</span>
-						<span>🔱 875</span>
-					</div>
-				<div class="stars-today">⭐ 5025 stars this month</div>
 				</div>
 			</div>
 	
@@ -366,46 +344,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        trufflesecurity /
+        simstudioai /
 
-      trufflehog</a></p>
+      sim</a></p>
 				<p>
-      Find, verify, and analyze leaked credentials
+      Open-source platform to build and deploy AI agent workflows.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22266</span>
-						<span>🔱 2056</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15295</span>
+						<span>🔱 1917</span>
 					</div>
-				<div class="stars-today">⭐ 2044 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 8937</span>
-						<span>🔱 978</span>
-					</div>
-				<div class="stars-today">⭐ 4269 stars this month</div>
+				<div class="stars-today">⭐ 7389 stars this month</div>
 				</div>
 			</div>
 	

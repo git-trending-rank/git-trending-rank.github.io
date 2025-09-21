@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-21
-date: 2025-09-21T09:58:38Z
+date: 2025-09-21T11:58:36Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
-    
-
-
-      
-        Gar-b-age /
-
-      CookLikeHOC</a></p>
-				<p>
-      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10605</span>
-						<span>🔱 1172</span>
-					</div>
-				<div class="stars-today">⭐ 1300 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
@@ -52,76 +30,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11801</span>
-						<span>🔱 875</span>
+						<span>⭐ 11901</span>
+						<span>🔱 886</span>
 					</div>
-				<div class="stars-today">⭐ 1462 stars today</div>
+				<div class="stars-today">⭐ 935 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/flutter/flutter" target="_blank">
+				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
     
 
 
       
-        flutter /
+        Gar-b-age /
 
-      flutter</a></p>
+      CookLikeHOC</a></p>
 				<p>
-      Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 173024</span>
-						<span>🔱 29244</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10827</span>
+						<span>🔱 1189</span>
 					</div>
-				<div class="stars-today">⭐ 166 stars today</div>
+				<div class="stars-today">⭐ 3019 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/winfunc/opcode" target="_blank">
+				<p><a href="https://github.com/torvalds/linux" target="_blank">
     
 
 
       
-        winfunc /
+        torvalds /
 
-      opcode</a></p>
+      linux</a></p>
 				<p>
-      A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+      Linux kernel source tree
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16898</span>
-						<span>🔱 1252</span>
+						<span>🔠 C</span>
+						<span>⭐ 202531</span>
+						<span>🔱 57811</span>
 					</div>
-				<div class="stars-today">⭐ 79 stars today</div>
+				<div class="stars-today">⭐ 83 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tldraw/tldraw" target="_blank">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
     
 
 
       
-        tldraw /
+        LazyVim /
 
-      tldraw</a></p>
+      LazyVim</a></p>
 				<p>
-      very good whiteboard SDK / infinite canvas SDK
+      Neovim config for the lazy
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42114</span>
-						<span>🔱 2719</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 22711</span>
+						<span>🔱 1612</span>
 					</div>
-				<div class="stars-today">⭐ 81 stars today</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools</a></p>
+				<p>
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 86815</span>
+						<span>🔱 23857</span>
+					</div>
+				<div class="stars-today">⭐ 391 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Opinionated Arch/Hyprland Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 8946</span>
+						<span>🔱 979</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars today</div>
 				</div>
 			</div>
 	
@@ -140,76 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 22449</span>
+						<span>⭐ 22454</span>
 						<span>🔱 2717</span>
 					</div>
-				<div class="stars-today">⭐ 55 stars today</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linera-io/linera-protocol" target="_blank">
+				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
     
 
 
       
-        linera-io /
+        WECENG /
 
-      linera-protocol</a></p>
+      ticket-purchase</a></p>
 				<p>
-      Main repository for the Linera protocol
+      大麦自动抢票，支持人员、城市、日期场次、价格选择
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 30106</span>
-						<span>🔱 2022</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2500</span>
+						<span>🔱 364</span>
 					</div>
-				<div class="stars-today">⭐ 502 stars today</div>
+				<div class="stars-today">⭐ 296 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/grafana/loki" target="_blank">
+				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
     
 
 
       
-        grafana /
+        WebGoat /
 
-      loki</a></p>
+      WebGoat</a></p>
 				<p>
-      Like Prometheus, but for logs.
+      WebGoat is a deliberately insecure application
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 26544</span>
-						<span>🔱 3789</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7996</span>
+						<span>🔱 6704</span>
 					</div>
-				<div class="stars-today">⭐ 6 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 41338</span>
-						<span>🔱 8072</span>
-					</div>
-				<div class="stars-today">⭐ 494 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23595</span>
-						<span>🔱 3157</span>
+						<span>⭐ 23610</span>
+						<span>🔱 3156</span>
 					</div>
-				<div class="stars-today">⭐ 323 stars today</div>
+				<div class="stars-today">⭐ 188 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenMind/OM1" target="_blank">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
     
 
 
       
-        OpenMind /
+        microsoft /
 
-      OM1</a></p>
+      AI-For-Beginners</a></p>
 				<p>
-      Modular AI runtime for robots
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 41374</span>
+						<span>🔱 8076</span>
+					</div>
+				<div class="stars-today">⭐ 463 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/AI-Researcher" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      AI-Researcher</a></p>
+				<p>
+      [NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 500</span>
-						<span>🔱 99</span>
+						<span>⭐ 2540</span>
+						<span>🔱 312</span>
 					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tldraw/tldraw" target="_blank">
+    
+
+
+      
+        tldraw /
+
+      tldraw</a></p>
+				<p>
+      very good whiteboard SDK / infinite canvas SDK
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42131</span>
+						<span>🔱 2719</span>
+					</div>
+				<div class="stars-today">⭐ 81 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 369059</span>
+						<span>🔱 64204</span>
+					</div>
+				<div class="stars-today">⭐ 329 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ml-explore/mlx-swift-examples" target="_blank">
+    
+
+
+      
+        ml-explore /
+
+      mlx-swift-examples</a></p>
+				<p>
+      Examples using MLX Swift
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 2098</span>
+						<span>🔱 306</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35892</span>
+						<span>🔱 5775</span>
+					</div>
+				<div class="stars-today">⭐ 86 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ytdl-org/youtube-dl" target="_blank">
+    
+
+
+      
+        ytdl-org /
+
+      youtube-dl</a></p>
+				<p>
+      Command-line program to download videos from YouTube.com and other video sites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 137343</span>
+						<span>🔱 10470</span>
+					</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/JetBrains/intellij-community" target="_blank">
+    
+
+
+      
+        JetBrains /
+
+      intellij-community</a></p>
+				<p>
+      IntelliJ IDEA & IntelliJ Platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 18800</span>
+						<span>🔱 5561</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MatsuriDayo/NekoBoxForAndroid" target="_blank">
+    
+
+
+      
+        MatsuriDayo /
+
+      NekoBoxForAndroid</a></p>
+				<p>
+      NekoBox for Android / sing-box / universal proxy toolchain for Android
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 16088</span>
+						<span>🔱 1319</span>
+					</div>
+				<div class="stars-today">⭐ 32 stars today</div>
 				</div>
 			</div>
 	
@@ -272,120 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30477</span>
-						<span>🔱 1198</span>
+						<span>⭐ 30499</span>
+						<span>🔱 1201</span>
 					</div>
 				<div class="stars-today">⭐ 139 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/knownsec/aipyapp" target="_blank">
-    
-
-
-      
-        knownsec /
-
-      aipyapp</a></p>
-				<p>
-      AI-Powered Python & Python-Powered AI (Python-Use)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2205</span>
-						<span>🔱 174</span>
-					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cypress-io/cypress" target="_blank">
-    
-
-
-      
-        cypress-io /
-
-      cypress</a></p>
-				<p>
-      Fast, easy and reliable testing for anything that runs in a browser.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 49240</span>
-						<span>🔱 3345</span>
-					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek-R1, Qwen3, Gemma 3, TTS 2x faster with 70% less VRAM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45980</span>
-						<span>🔱 3756</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/odoo/odoo" target="_blank">
-    
-
-
-      
-        odoo /
-
-      odoo</a></p>
-				<p>
-      Odoo. Open Source Apps To Grow Your Business.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46011</span>
-						<span>🔱 29653</span>
-					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OvidijusParsiunas/deep-chat" target="_blank">
-    
-
-
-      
-        OvidijusParsiunas /
-
-      deep-chat</a></p>
-				<p>
-      Fully customizable AI chatbot component for your website
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2995</span>
-						<span>🔱 378</span>
-					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
 				</div>
 			</div>
 	
