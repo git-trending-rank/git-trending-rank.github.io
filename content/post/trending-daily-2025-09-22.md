@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-22
-date: 2025-09-22T09:58:43Z
+date: 2025-09-22T11:58:46Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      DeepResearch</a></p>
-				<p>
-      Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13374</span>
-						<span>🔱 967</span>
-					</div>
-				<div class="stars-today">⭐ 957 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
@@ -52,230 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12651</span>
-						<span>🔱 1345</span>
+						<span>⭐ 12884</span>
+						<span>🔱 1363</span>
 					</div>
 				<div class="stars-today">⭐ 2891 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/torvalds/linux" target="_blank">
+				<p><a href="https://github.com/bevyengine/bevy" target="_blank">
     
 
 
       
-        torvalds /
+        bevyengine /
 
-      linux</a></p>
+      bevy</a></p>
 				<p>
-      Linux kernel source tree
+      A refreshingly simple data-driven game engine built in Rust
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 202842</span>
-						<span>🔱 57827</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 42036</span>
+						<span>🔱 4115</span>
 					</div>
-				<div class="stars-today">⭐ 108 stars today</div>
+				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
     
 
 
       
-        LazyVim /
+        Alibaba-NLP /
 
-      LazyVim</a></p>
+      DeepResearch</a></p>
 				<p>
-      Neovim config for the lazy
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 22875</span>
-						<span>🔱 1620</span>
-					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 87241</span>
-						<span>🔱 23934</span>
-					</div>
-				<div class="stars-today">⭐ 293 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 9186</span>
-						<span>🔱 987</span>
-					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
-    
-
-
-      
-        fmtlib /
-
-      fmt</a></p>
-				<p>
-      A modern formatting library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 22522</span>
-						<span>🔱 2718</span>
-					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
-    
-
-
-      
-        WECENG /
-
-      ticket-purchase</a></p>
-				<p>
-      大麦自动抢票，支持人员、城市、日期场次、价格选择
+      Tongyi Deep Research, the Leading Open-source Deep Research Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3004</span>
-						<span>🔱 411</span>
+						<span>⭐ 13494</span>
+						<span>🔱 977</span>
 					</div>
-				<div class="stars-today">⭐ 164 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
-    
-
-
-      
-        WebGoat /
-
-      WebGoat</a></p>
-				<p>
-      WebGoat is a deliberately insecure application
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8140</span>
-						<span>🔱 6718</span>
-					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
-    
-
-
-      
-        CopilotKit /
-
-      CopilotKit</a></p>
-				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23826</span>
-						<span>🔱 3168</span>
-					</div>
-				<div class="stars-today">⭐ 190 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 41907</span>
-						<span>🔱 8124</span>
-					</div>
-				<div class="stars-today">⭐ 458 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AI-Researcher" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      AI-Researcher</a></p>
-				<p>
-      [NeurIPS2025] "AI-Researcher: Autonomous Scientific Innovation" -- A production-ready version: https://novix.science/chat
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2791</span>
-						<span>🔱 328</span>
-					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
+				<div class="stars-today">⭐ 957 stars today</div>
 				</div>
 			</div>
 	
@@ -294,76 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42358</span>
-						<span>🔱 2727</span>
+						<span>⭐ 42378</span>
+						<span>🔱 2728</span>
 					</div>
 				<div class="stars-today">⭐ 229 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
     
 
 
       
-        EbookFoundation /
+        elastic /
 
-      free-programming-books</a></p>
+      elasticsearch</a></p>
 				<p>
-      📚 Freely available programming books
+      Free and Open Source, Distributed, RESTful Search Engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 369408</span>
-						<span>🔱 64235</span>
+						<span>🔠 Java</span>
+						<span>⭐ 73862</span>
+						<span>🔱 25460</span>
 					</div>
-				<div class="stars-today">⭐ 218 stars today</div>
+				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ml-explore/mlx-swift-examples" target="_blank">
+				<p><a href="https://github.com/torvalds/linux" target="_blank">
     
 
 
       
-        ml-explore /
+        torvalds /
 
-      mlx-swift-examples</a></p>
+      linux</a></p>
 				<p>
-      Examples using MLX Swift
+      Linux kernel source tree
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 2165</span>
-						<span>🔱 307</span>
+						<span>🔠 C</span>
+						<span>⭐ 202866</span>
+						<span>🔱 57831</span>
 					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
+				<div class="stars-today">⭐ 108 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+				<p><a href="https://github.com/LizardByte/Sunshine" target="_blank">
     
 
 
       
-        mindsdb /
+        LizardByte /
 
-      mindsdb</a></p>
+      Sunshine</a></p>
 				<p>
-      AI Analytics Engine that can answer questions over large scale data. - The only MCP Server you'll ever need
+      Self-hosted game stream host for Moonlight.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36069</span>
-						<span>🔱 5787</span>
+						<span>🔠 C++</span>
+						<span>⭐ 29017</span>
+						<span>🔱 1374</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 38 stars today</div>
 				</div>
 			</div>
 	
@@ -382,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 137574</span>
+						<span>⭐ 137590</span>
 						<span>🔱 10481</span>
 					</div>
 				<div class="stars-today">⭐ 34 stars today</div>
@@ -390,68 +192,244 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/intellij-community" target="_blank">
+				<p><a href="https://github.com/mindcraft-bots/mindcraft" target="_blank">
     
 
 
       
-        JetBrains /
+        mindcraft-bots /
 
-      intellij-community</a></p>
+      mindcraft</a></p>
 				<p>
-      IntelliJ IDEA & IntelliJ Platform
+      Minecraft AI with LLMs+Mineflayer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 18921</span>
-						<span>🔱 5567</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3850</span>
+						<span>🔱 547</span>
 					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
+				<div class="stars-today">⭐ 21 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MatsuriDayo/NekoBoxForAndroid" target="_blank">
+				<p><a href="https://github.com/eslint/eslint" target="_blank">
     
 
 
       
-        MatsuriDayo /
+        eslint /
 
-      NekoBoxForAndroid</a></p>
+      eslint</a></p>
 				<p>
-      NekoBox for Android / sing-box / universal proxy toolchain for Android
+      Find and fix problems in your JavaScript code.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 16202</span>
-						<span>🔱 1325</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 26293</span>
+						<span>🔱 4799</span>
 					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
+				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/9001/copyparty" target="_blank">
+				<p><a href="https://github.com/poteto/hiring-without-whiteboards" target="_blank">
     
 
 
       
-        9001 /
+        poteto /
 
-      copyparty</a></p>
+      hiring-without-whiteboards</a></p>
 				<p>
-      Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+      ⭐️ Companies that don't have a broken hiring process
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 49424</span>
+						<span>🔱 3834</span>
+					</div>
+				<div class="stars-today">⭐ 70 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
+    
+
+
+      
+        AUTOMATIC1111 /
+
+      stable-diffusion-webui</a></p>
+				<p>
+      Stable Diffusion web UI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30801</span>
-						<span>🔱 1219</span>
+						<span>⭐ 156618</span>
+						<span>🔱 29061</span>
 					</div>
-				<div class="stars-today">⭐ 252 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yangshun/tech-interview-handbook" target="_blank">
+    
+
+
+      
+        yangshun /
+
+      tech-interview-handbook</a></p>
+				<p>
+      💯 Curated coding interview preparation materials for busy software engineers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 129909</span>
+						<span>🔱 15794</span>
+					</div>
+				<div class="stars-today">⭐ 76 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 369442</span>
+						<span>🔱 64238</span>
+					</div>
+				<div class="stars-today">⭐ 218 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lllyasviel/Fooocus" target="_blank">
+    
+
+
+      
+        lllyasviel /
+
+      Fooocus</a></p>
+				<p>
+      Focus on prompting and generating
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46504</span>
+						<span>🔱 7488</span>
+					</div>
+				<div class="stars-today">⭐ 10 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+    
+
+
+      
+        donnemartin /
+
+      system-design-primer</a></p>
+				<p>
+      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 320505</span>
+						<span>🔱 52374</span>
+					</div>
+				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ziglang/zig" target="_blank">
+    
+
+
+      
+        ziglang /
+
+      zig</a></p>
+				<p>
+      General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 41122</span>
+						<span>🔱 3014</span>
+					</div>
+				<div class="stars-today">⭐ 19 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freqtrade/freqtrade" target="_blank">
+    
+
+
+      
+        freqtrade /
+
+      freqtrade</a></p>
+				<p>
+      Free, open source crypto trading bot
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42366</span>
+						<span>🔱 8646</span>
+					</div>
+				<div class="stars-today">⭐ 32 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winfunc/opcode" target="_blank">
+    
+
+
+      
+        winfunc /
+
+      opcode</a></p>
+				<p>
+      A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16970</span>
+						<span>🔱 1262</span>
+					</div>
+				<div class="stars-today">⭐ 201 stars today</div>
 				</div>
 			</div>
 	
