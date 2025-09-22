@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 22 Sep 2025 09:58:42 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 22 Sep 2025 11:58:44 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第39周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC39%E5%91%A8/</link>
-        <pubDate>Mon, 22 Sep 2025 09:58:42 +0000</pubDate>
+        <pubDate>Mon, 22 Sep 2025 11:58:44 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC39%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13374&lt;/span&gt;
-						&lt;span&gt;🔱 967&lt;/span&gt;
+						&lt;span&gt;⭐ 13494&lt;/span&gt;
+						&lt;span&gt;🔱 977&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5433 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 79648&lt;/span&gt;
-						&lt;span&gt;🔱 4375&lt;/span&gt;
+						&lt;span&gt;⭐ 79660&lt;/span&gt;
+						&lt;span&gt;🔱 4376&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6395 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -77,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56969&lt;/span&gt;
-						&lt;span&gt;🔱 9239&lt;/span&gt;
+						&lt;span&gt;⭐ 56982&lt;/span&gt;
+						&lt;span&gt;🔱 9240&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1620 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 25651&lt;/span&gt;
-						&lt;span&gt;🔱 2662&lt;/span&gt;
+						&lt;span&gt;⭐ 25662&lt;/span&gt;
+						&lt;span&gt;🔱 2663&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1507 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -121,76 +121,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2676&lt;/span&gt;
+						&lt;span&gt;⭐ 2683&lt;/span&gt;
 						&lt;span&gt;🔱 284&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1137 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sentient-agi/ROMA&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sentient-agi /
-
-      ROMA&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3241&lt;/span&gt;
-						&lt;span&gt;🔱 426&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1186 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Zie619/n8n-workflows&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Zie619 /
-
-      n8n-workflows&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      all of the workflows of n8n i could find (also from the site itself)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 32713&lt;/span&gt;
-						&lt;span&gt;🔱 2057&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2942 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nocodb/nocodb&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        nocodb /
-
-      nocodb&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🔥 🔥 🔥 Open Source Airtable Alternative
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 57605&lt;/span&gt;
-						&lt;span&gt;🔱 4208&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 699 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Lua&lt;/span&gt;
-						&lt;span&gt;⭐ 22875&lt;/span&gt;
-						&lt;span&gt;🔱 1620&lt;/span&gt;
+						&lt;span&gt;⭐ 22883&lt;/span&gt;
+						&lt;span&gt;🔱 1621&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 301 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -231,32 +165,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Swift&lt;/span&gt;
-						&lt;span&gt;⭐ 20157&lt;/span&gt;
-						&lt;span&gt;🔱 444&lt;/span&gt;
+						&lt;span&gt;⭐ 20163&lt;/span&gt;
+						&lt;span&gt;🔱 445&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 410 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TEN-framework/ten-framework&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sentient-agi/ROMA&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        TEN-framework /
+        sentient-agi /
 
-      ten-framework&lt;/a&gt;&lt;/p&gt;
+      ROMA&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-       Open-source framework for conversational voice AI agents.
+      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C&lt;/span&gt;
-						&lt;span&gt;⭐ 7963&lt;/span&gt;
-						&lt;span&gt;🔱 923&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3248&lt;/span&gt;
+						&lt;span&gt;🔱 426&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 536 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1186 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,7 +209,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 41241&lt;/span&gt;
+						&lt;span&gt;⭐ 41242&lt;/span&gt;
 						&lt;span&gt;🔱 7253&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1222 stars this week&lt;/div&gt;
@@ -283,24 +217,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/simdjson/simdjson&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nocodb/nocodb&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        simdjson /
+        nocodb /
 
-      simdjson&lt;/a&gt;&lt;/p&gt;
+      nocodb&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+      🔥 🔥 🔥 Open Source Airtable Alternative
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 22291&lt;/span&gt;
-						&lt;span&gt;🔱 1153&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 57608&lt;/span&gt;
+						&lt;span&gt;🔱 4208&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 717 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 699 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Zie619/n8n-workflows&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Zie619 /
+
+      n8n-workflows&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      all of the workflows of n8n i could find (also from the site itself)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 HTML&lt;/span&gt;
+						&lt;span&gt;⭐ 32746&lt;/span&gt;
+						&lt;span&gt;🔱 2066&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2942 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,7 +275,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6213&lt;/span&gt;
+						&lt;span&gt;⭐ 6219&lt;/span&gt;
 						&lt;span&gt;🔱 548&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 665 stars this week&lt;/div&gt;
@@ -327,24 +283,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/go-task/task&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TEN-framework/ten-framework&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        go-task /
+        TEN-framework /
 
-      task&lt;/a&gt;&lt;/p&gt;
+      ten-framework&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A task runner / simpler Make alternative written in Go
+       Open-source framework for conversational voice AI agents.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 13732&lt;/span&gt;
-						&lt;span&gt;🔱 734&lt;/span&gt;
+						&lt;span&gt;🔠 C&lt;/span&gt;
+						&lt;span&gt;⭐ 7969&lt;/span&gt;
+						&lt;span&gt;🔱 924&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 166 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 536 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -363,32 +319,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 43566&lt;/span&gt;
-						&lt;span&gt;🔱 5093&lt;/span&gt;
+						&lt;span&gt;⭐ 43585&lt;/span&gt;
+						&lt;span&gt;🔱 5095&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2731 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/SkyworkAI/DeepResearchAgent&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/AI-For-Beginners&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        SkyworkAI /
+        microsoft /
 
-      DeepResearchAgent&lt;/a&gt;&lt;/p&gt;
+      AI-For-Beginners&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      DeepResearchAgent is a hierarchical multi-agent system designed not only for deep research tasks but also for general-purpose task solving. The framework leverages a top-level planning agent to coordinate multiple specialized lower-level agents, enabling automated task decomposition and efficient execution across diverse and complex domains.
+      12 Weeks, 24 Lessons, AI for All!
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2618&lt;/span&gt;
-						&lt;span&gt;🔱 347&lt;/span&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 41959&lt;/span&gt;
+						&lt;span&gt;🔱 8129&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 877 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1512 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/simdjson/simdjson&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        simdjson /
+
+      simdjson&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 22299&lt;/span&gt;
+						&lt;span&gt;🔱 1153&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 717 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ml-explore/mlx-swift-examples&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ml-explore /
+
+      mlx-swift-examples&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Examples using MLX Swift
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 2168&lt;/span&gt;
+						&lt;span&gt;🔱 309&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 73 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
