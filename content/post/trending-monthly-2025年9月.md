@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-23T21:59:05Z
+date: 2025-09-23T23:58:51Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21276</span>
-						<span>🔱 3320</span>
-					</div>
-				<div class="stars-today">⭐ 12694 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67053</span>
+						<span>⭐ 67055</span>
 						<span>🔱 12562</span>
 					</div>
 				<div class="stars-today">⭐ 3592 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 21282</span>
+						<span>🔱 3320</span>
+					</div>
+				<div class="stars-today">⭐ 12694 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7792</span>
+						<span>⭐ 7795</span>
 						<span>🔱 882</span>
 					</div>
 				<div class="stars-today">⭐ 3431 stars this month</div>
@@ -94,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 46064</span>
+						<span>⭐ 46066</span>
 						<span>🔱 3352</span>
 					</div>
 				<div class="stars-today">⭐ 9163 stars this month</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 43944</span>
-						<span>🔱 5136</span>
+						<span>⭐ 43950</span>
+						<span>🔱 5140</span>
 					</div>
 				<div class="stars-today">⭐ 7942 stars this month</div>
 				</div>
@@ -138,120 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14185</span>
-						<span>🔱 1018</span>
+						<span>⭐ 14193</span>
+						<span>🔱 1020</span>
 					</div>
 				<div class="stars-today">⭐ 7384 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
     
 
 
       
-        plait-board /
+        HKUDS /
 
-      drawnix</a></p>
+      DeepCode</a></p>
 				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11716</span>
-						<span>🔱 893</span>
-					</div>
-				<div class="stars-today">⭐ 6688 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
-    
-
-
-      
-        winapps-org /
-
-      winapps</a></p>
-				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 9863</span>
-						<span>🔱 298</span>
-					</div>
-				<div class="stars-today">⭐ 6031 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
-    
-
-
-      
-        dataease /
-
-      SQLBot</a></p>
-				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2782</span>
-						<span>🔱 289</span>
+						<span>⭐ 7084</span>
+						<span>🔱 977</span>
 					</div>
-				<div class="stars-today">⭐ 1982 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 14399</span>
-						<span>🔱 1233</span>
-					</div>
-				<div class="stars-today">⭐ 8081 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8093</span>
-						<span>🔱 615</span>
-					</div>
-				<div class="stars-today">⭐ 1582 stars this month</div>
+				<div class="stars-today">⭐ 5402 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5025</span>
+						<span>⭐ 5029</span>
 						<span>🔱 370</span>
 					</div>
 				<div class="stars-today">⭐ 2852 stars this month</div>
@@ -278,24 +190,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
     
 
 
       
-        X-PLUG /
+        dataease /
 
-      MobileAgent</a></p>
+      SQLBot</a></p>
 				<p>
-       Mobile-Agent: The Powerful GUI Agent Family
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5770</span>
-						<span>🔱 562</span>
+						<span>⭐ 2783</span>
+						<span>🔱 289</span>
 					</div>
-				<div class="stars-today">⭐ 1003 stars this month</div>
+				<div class="stars-today">⭐ 1982 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57182</span>
+						<span>⭐ 57188</span>
 						<span>🔱 9249</span>
 					</div>
 				<div class="stars-today">⭐ 2188 stars this month</div>
@@ -322,24 +234,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
     
 
 
       
-        microsoft /
+        plait-board /
 
-      qlib</a></p>
+      drawnix</a></p>
 				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11720</span>
+						<span>🔱 893</span>
+					</div>
+				<div class="stars-today">⭐ 6688 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31015</span>
-						<span>🔱 4786</span>
+						<span>⭐ 8095</span>
+						<span>🔱 615</span>
 					</div>
-				<div class="stars-today">⭐ 2347 stars this month</div>
+				<div class="stars-today">⭐ 1582 stars this month</div>
 				</div>
 			</div>
 	
@@ -359,9 +293,97 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 21909</span>
-						<span>🔱 1638</span>
+						<span>🔱 1639</span>
 					</div>
 				<div class="stars-today">⭐ 1813 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31018</span>
+						<span>🔱 4787</span>
+					</div>
+				<div class="stars-today">⭐ 2347 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 9868</span>
+						<span>🔱 299</span>
+					</div>
+				<div class="stars-today">⭐ 6031 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
+    
+
+
+      
+        X-PLUG /
+
+      MobileAgent</a></p>
+				<p>
+       Mobile-Agent: The Powerful GUI Agent Family
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5772</span>
+						<span>🔱 563</span>
+					</div>
+				<div class="stars-today">⭐ 1003 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13255</span>
+						<span>🔱 1698</span>
+					</div>
+				<div class="stars-today">⭐ 2917 stars this month</div>
 				</div>
 			</div>
 	
