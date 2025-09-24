@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 23 Sep 2025 21:59:06 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 23 Sep 2025 23:58:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-09-23</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-09-23/</link>
-        <pubDate>Tue, 23 Sep 2025 21:59:06 +0000</pubDate>
+        <pubDate>Tue, 23 Sep 2025 23:58:52 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-09-23/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,178 +19,68 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Gar-b-age/CookLikeHOC&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gin-gonic/gin&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Gar-b-age /
+        gin-gonic /
 
-      CookLikeHOC&lt;/a&gt;&lt;/p&gt;
+      gin&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17302&lt;/span&gt;
-						&lt;span&gt;🔱 1694&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 84201&lt;/span&gt;
+						&lt;span&gt;🔱 8335&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3697 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 38 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bevyengine/bevy&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        bevyengine /
+        LadybirdBrowser /
 
-      bevy&lt;/a&gt;&lt;/p&gt;
+      ladybird&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A refreshingly simple data-driven game engine built in Rust
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 42287&lt;/span&gt;
-						&lt;span&gt;🔱 4127&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 182 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Alibaba-NLP/DeepResearch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Alibaba-NLP /
-
-      DeepResearch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 14185&lt;/span&gt;
-						&lt;span&gt;🔱 1018&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 564 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tldraw/tldraw&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        tldraw /
-
-      tldraw&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      very good whiteboard SDK / infinite canvas SDK
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 42685&lt;/span&gt;
-						&lt;span&gt;🔱 2747&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 236 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/elastic/elasticsearch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        elastic /
-
-      elasticsearch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Free and Open Source, Distributed, RESTful Search Engine
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 74087&lt;/span&gt;
-						&lt;span&gt;🔱 25474&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 170 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LizardByte/Sunshine&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        LizardByte /
-
-      Sunshine&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Self-hosted game stream host for Moonlight.
+      Truly independent web browser
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 29296&lt;/span&gt;
-						&lt;span&gt;🔱 1382&lt;/span&gt;
+						&lt;span&gt;⭐ 48323&lt;/span&gt;
+						&lt;span&gt;🔱 2091&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 195 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 266 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ytdl-org/youtube-dl&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gofiber/fiber&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ytdl-org /
+        gofiber /
 
-      youtube-dl&lt;/a&gt;&lt;/p&gt;
+      fiber&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Command-line program to download videos from YouTube.com and other video sites
+      ⚡️ Express inspired web framework written in Go
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 137944&lt;/span&gt;
-						&lt;span&gt;🔱 10492&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 37773&lt;/span&gt;
+						&lt;span&gt;🔱 1868&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 267 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mindcraft-bots/mindcraft&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        mindcraft-bots /
-
-      mindcraft&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Minecraft AI with LLMs+Mineflayer
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4177&lt;/span&gt;
-						&lt;span&gt;🔱 558&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 252 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 31 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,7 +99,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 26434&lt;/span&gt;
+						&lt;span&gt;⭐ 26440&lt;/span&gt;
 						&lt;span&gt;🔱 4806&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 107 stars today&lt;/div&gt;
@@ -217,68 +107,112 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/poteto/hiring-without-whiteboards&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/fmtlib/fmt&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        poteto /
+        fmtlib /
 
-      hiring-without-whiteboards&lt;/a&gt;&lt;/p&gt;
+      fmt&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      ⭐️ Companies that don&#39;t have a broken hiring process
+      A modern formatting library
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 22531&lt;/span&gt;
+						&lt;span&gt;🔱 2721&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mtdvio/every-programmer-should-know&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mtdvio /
+
+      every-programmer-should-know&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of (mostly) technical things every software developer should know about
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 90684&lt;/span&gt;
+						&lt;span&gt;🔱 8200&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1225 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nvm-sh/nvm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nvm-sh /
+
+      nvm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 87055&lt;/span&gt;
+						&lt;span&gt;🔱 9320&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 26 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenZeppelin/openzeppelin-contracts&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        OpenZeppelin /
+
+      openzeppelin-contracts&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      OpenZeppelin Contracts is a library for secure smart contract development.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Solidity&lt;/span&gt;
+						&lt;span&gt;⭐ 26380&lt;/span&gt;
+						&lt;span&gt;🔱 12192&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Gar-b-age/CookLikeHOC&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Gar-b-age /
+
+      CookLikeHOC&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 49766&lt;/span&gt;
-						&lt;span&gt;🔱 3851&lt;/span&gt;
+						&lt;span&gt;⭐ 17335&lt;/span&gt;
+						&lt;span&gt;🔱 1694&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 251 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/AUTOMATIC1111/stable-diffusion-webui&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        AUTOMATIC1111 /
-
-      stable-diffusion-webui&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Stable Diffusion web UI
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 156805&lt;/span&gt;
-						&lt;span&gt;🔱 29080&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 163 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/yangshun/tech-interview-handbook&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        yangshun /
-
-      tech-interview-handbook&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      💯 Curated coding interview preparation materials for busy software engineers
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 130295&lt;/span&gt;
-						&lt;span&gt;🔱 15815&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 301 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3697 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,120 +231,186 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 370043&lt;/span&gt;
-						&lt;span&gt;🔱 64284&lt;/span&gt;
+						&lt;span&gt;⭐ 370058&lt;/span&gt;
+						&lt;span&gt;🔱 64285&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 463 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lllyasviel/Fooocus&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/WECENG/ticket-purchase&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        lllyasviel /
+        WECENG /
 
-      Fooocus&lt;/a&gt;&lt;/p&gt;
+      ticket-purchase&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Focus on prompting and generating
+      大麦自动抢票，支持人员、城市、日期场次、价格选择
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 46656&lt;/span&gt;
-						&lt;span&gt;🔱 7495&lt;/span&gt;
+						&lt;span&gt;⭐ 3128&lt;/span&gt;
+						&lt;span&gt;🔱 427&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 118 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 84 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/donnemartin/system-design-primer&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/AI-Researcher&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        donnemartin /
+        HKUDS /
 
-      system-design-primer&lt;/a&gt;&lt;/p&gt;
+      AI-Researcher&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      [NeurIPS2025] &#34;AI-Researcher: Autonomous Scientific Innovation&#34; -- A production-ready version: https://novix.science/chat
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 320846&lt;/span&gt;
-						&lt;span&gt;🔱 52411&lt;/span&gt;
+						&lt;span&gt;⭐ 2876&lt;/span&gt;
+						&lt;span&gt;🔱 335&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 246 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ziglang/zig&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/foundry-rs/foundry&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ziglang /
+        foundry-rs /
 
-      zig&lt;/a&gt;&lt;/p&gt;
+      foundry&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+      Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Zig&lt;/span&gt;
-						&lt;span&gt;⭐ 41278&lt;/span&gt;
-						&lt;span&gt;🔱 3016&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 9497&lt;/span&gt;
+						&lt;span&gt;🔱 2159&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 113 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/freqtrade/freqtrade&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/TypeScript&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        freqtrade /
+        microsoft /
 
-      freqtrade&lt;/a&gt;&lt;/p&gt;
+      TypeScript&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Free, open source crypto trading bot
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 42841&lt;/span&gt;
-						&lt;span&gt;🔱 8688&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 349 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/winfunc/opcode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        winfunc /
-
-      opcode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+      TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17387&lt;/span&gt;
-						&lt;span&gt;🔱 1284&lt;/span&gt;
+						&lt;span&gt;⭐ 106072&lt;/span&gt;
+						&lt;span&gt;🔱 13008&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 293 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 19 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/helm/helm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        helm /
+
+      helm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Kubernetes Package Manager
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 28519&lt;/span&gt;
+						&lt;span&gt;🔱 7333&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tldraw/tldraw&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tldraw /
+
+      tldraw&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      very good whiteboard SDK / infinite canvas SDK
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 42700&lt;/span&gt;
+						&lt;span&gt;🔱 2747&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 236 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/smartcontractkit/chainlink&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        smartcontractkit /
+
+      chainlink&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      node of the decentralized oracle network, bridging on and off-chain computation
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 7565&lt;/span&gt;
+						&lt;span&gt;🔱 1842&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Kludex/uvicorn&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Kludex /
+
+      uvicorn&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An ASGI web server, for Python. 🦄
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9734&lt;/span&gt;
+						&lt;span&gt;🔱 850&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
