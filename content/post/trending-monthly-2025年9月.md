@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-24T17:59:00Z
+date: 2025-09-24T19:58:39Z
 categories:
 - monthly
 keywords:
@@ -38,24 +38,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
     
 
 
       
-        asgeirtj /
+        QuentinFuxa /
 
-      system_prompts_leaks</a></p>
+      WhisperLiveKit</a></p>
 				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21363</span>
-						<span>🔱 3329</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6997</span>
+						<span>🔱 638</span>
 					</div>
-				<div class="stars-today">⭐ 12805 stars this month</div>
+				<div class="stars-today">⭐ 6504 stars this month</div>
 				</div>
 			</div>
 	
@@ -94,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 46117</span>
+						<span>⭐ 46120</span>
 						<span>🔱 3357</span>
 					</div>
 				<div class="stars-today">⭐ 9212 stars this month</div>
@@ -116,10 +116,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 44202</span>
-						<span>🔱 5166</span>
+						<span>⭐ 44213</span>
+						<span>🔱 5171</span>
 					</div>
 				<div class="stars-today">⭐ 8119 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 21370</span>
+						<span>🔱 3329</span>
+					</div>
+				<div class="stars-today">⭐ 12805 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14389</span>
-						<span>🔱 1032</span>
+						<span>⭐ 14396</span>
+						<span>🔱 1034</span>
 					</div>
 				<div class="stars-today">⭐ 7977 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7117</span>
-						<span>🔱 982</span>
-					</div>
-				<div class="stars-today">⭐ 5402 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5080</span>
-						<span>🔱 371</span>
+						<span>⭐ 5083</span>
+						<span>🔱 372</span>
 					</div>
 				<div class="stars-today">⭐ 2947 stars this month</div>
 				</div>
@@ -212,6 +212,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7122</span>
+						<span>🔱 982</span>
+					</div>
+				<div class="stars-today">⭐ 5402 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
     
 
@@ -226,142 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57282</span>
-						<span>🔱 9251</span>
+						<span>⭐ 57287</span>
+						<span>🔱 9250</span>
 					</div>
 				<div class="stars-today">⭐ 2341 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/plait-board/drawnix" target="_blank">
+				<p><a href="https://github.com/uutils/coreutils" target="_blank">
     
 
 
       
-        plait-board /
+        uutils /
 
-      drawnix</a></p>
+      coreutils</a></p>
 				<p>
-      开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with mind, flowchart, freehand and etc.
+      Cross-platform Rust rewrite of the GNU coreutils
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11759</span>
-						<span>🔱 896</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 21651</span>
+						<span>🔱 1574</span>
 					</div>
-				<div class="stars-today">⭐ 6411 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8123</span>
-						<span>🔱 616</span>
-					</div>
-				<div class="stars-today">⭐ 1617 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-V" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      MiniCPM-V</a></p>
-				<p>
-      MiniCPM-V 4.5: A GPT-4o Level MLLM for Single Image, Multi Image and High-FPS Video Understanding on Your Phone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21952</span>
-						<span>🔱 1640</span>
-					</div>
-				<div class="stars-today">⭐ 1837 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      qlib</a></p>
-				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31082</span>
-						<span>🔱 4794</span>
-					</div>
-				<div class="stars-today">⭐ 2360 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
-    
-
-
-      
-        winapps-org /
-
-      winapps</a></p>
-				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 9965</span>
-						<span>🔱 301</span>
-					</div>
-				<div class="stars-today">⭐ 5322 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
-    
-
-
-      
-        X-PLUG /
-
-      MobileAgent</a></p>
-				<p>
-       Mobile-Agent: The Powerful GUI Agent Family
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5820</span>
-						<span>🔱 565</span>
-					</div>
-				<div class="stars-today">⭐ 1014 stars this month</div>
+				<div class="stars-today">⭐ 674 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +292,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13313</span>
+						<span>⭐ 13320</span>
 						<span>🔱 1700</span>
 					</div>
 				<div class="stars-today">⭐ 2939 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25825</span>
+						<span>🔱 2681</span>
+					</div>
+				<div class="stars-today">⭐ 2194 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8126</span>
+						<span>🔱 616</span>
+					</div>
+				<div class="stars-today">⭐ 1617 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31085</span>
+						<span>🔱 4794</span>
+					</div>
+				<div class="stars-today">⭐ 2360 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
+    
+
+
+      
+        laramies /
+
+      theHarvester</a></p>
+				<p>
+      E-mails, subdomains and names Harvester - OSINT 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14551</span>
+						<span>🔱 2309</span>
+					</div>
+				<div class="stars-today">⭐ 1300 stars this month</div>
 				</div>
 			</div>
 	

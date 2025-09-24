@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第39周
-date: 2025-09-24T17:59:00Z
+date: 2025-09-24T19:58:39Z
 categories:
 - weekly
 keywords:
@@ -30,30 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14389</span>
-						<span>🔱 1032</span>
+						<span>⭐ 14396</span>
+						<span>🔱 1034</span>
 					</div>
 				<div class="stars-today">⭐ 7624 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/category-labs/monad" target="_blank">
-    
-
-
-      
-        category-labs /
-
-      monad</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 884</span>
-						<span>🔱 225</span>
-					</div>
-				<div class="stars-today">⭐ 669 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,10 +52,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79948</span>
+						<span>⭐ 79956</span>
 						<span>🔱 4404</span>
 					</div>
 				<div class="stars-today">⭐ 4891 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/category-labs/monad" target="_blank">
+    
+
+
+      
+        category-labs /
+
+      monad</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 895</span>
+						<span>🔱 234</span>
+					</div>
+				<div class="stars-today">⭐ 669 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+    
+
+
+      
+        LazyVim /
+
+      LazyVim</a></p>
+				<p>
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 22978</span>
+						<span>🔱 1624</span>
+					</div>
+				<div class="stars-today">⭐ 482 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 42241</span>
+						<span>🔱 8189</span>
+					</div>
+				<div class="stars-today">⭐ 1938 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,54 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 57733</span>
-						<span>🔱 4213</span>
+						<span>⭐ 57736</span>
+						<span>🔱 4214</span>
 					</div>
 				<div class="stars-today">⭐ 775 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica</a></p>
-				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25820</span>
-						<span>🔱 2680</span>
-					</div>
-				<div class="stars-today">⭐ 984 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 44202</span>
-						<span>🔱 5166</span>
-					</div>
-				<div class="stars-today">⭐ 2586 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8264</span>
-						<span>🔱 6730</span>
+						<span>⭐ 8271</span>
+						<span>🔱 6732</span>
 					</div>
 				<div class="stars-today">⭐ 449 stars this week</div>
 				</div>
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 8092</span>
+						<span>⭐ 8098</span>
 						<span>🔱 931</span>
 					</div>
 				<div class="stars-today">⭐ 630 stars this week</div>
@@ -190,46 +190,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+				<p><a href="https://github.com/tldraw/tldraw" target="_blank">
     
 
 
       
-        LazyVim /
+        tldraw /
 
-      LazyVim</a></p>
+      tldraw</a></p>
 				<p>
-      Neovim config for the lazy
+      very good whiteboard SDK / infinite canvas SDK
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 22972</span>
-						<span>🔱 1625</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42866</span>
+						<span>🔱 2755</span>
 					</div>
-				<div class="stars-today">⭐ 482 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
-    
-
-
-      
-        Zie619 /
-
-      n8n-workflows</a></p>
-				<p>
-      all of the workflows of n8n i could find (also from the site itself)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 33399</span>
-						<span>🔱 2210</span>
-					</div>
-				<div class="stars-today">⭐ 2401 stars this week</div>
+				<div class="stars-today">⭐ 943 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 22593</span>
+						<span>⭐ 22594</span>
 						<span>🔱 2724</span>
 					</div>
 				<div class="stars-today">⭐ 211 stars this week</div>
@@ -256,24 +234,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
+				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
     
 
 
       
-        sentient-agi /
+        elastic /
 
-      ROMA</a></p>
+      elasticsearch</a></p>
 				<p>
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+      Free and Open Source, Distributed, RESTful Search Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 74161</span>
+						<span>🔱 25480</span>
+					</div>
+				<div class="stars-today">⭐ 295 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apple/container" target="_blank">
+    
+
+
+      
+        apple /
+
+      container</a></p>
+				<p>
+      A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 20365</span>
+						<span>🔱 450</span>
+					</div>
+				<div class="stars-today">⭐ 552 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3440</span>
-						<span>🔱 473</span>
+						<span>⭐ 41362</span>
+						<span>🔱 7277</span>
 					</div>
-				<div class="stars-today">⭐ 768 stars this week</div>
+				<div class="stars-today">⭐ 908 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/curl/curl" target="_blank">
+    
+
+
+      
+        curl /
+
+      curl</a></p>
+				<p>
+      A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 39363</span>
+						<span>🔱 6880</span>
+					</div>
+				<div class="stars-today">⭐ 520 stars this week</div>
 				</div>
 			</div>
 	
@@ -300,90 +344,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
     
 
 
       
-        google-research /
+        Zie619 /
 
-      timesfm</a></p>
+      n8n-workflows</a></p>
 				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      all of the workflows of n8n i could find (also from the site itself)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6362</span>
-						<span>🔱 551</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 33418</span>
+						<span>🔱 2211</span>
 					</div>
-				<div class="stars-today">⭐ 776 stars this week</div>
+				<div class="stars-today">⭐ 2401 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/curl/curl" target="_blank">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
     
 
 
       
-        curl /
+        gin-gonic /
 
-      curl</a></p>
+      gin</a></p>
 				<p>
-      A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 39362</span>
-						<span>🔱 6880</span>
+						<span>🔠 Go</span>
+						<span>⭐ 84940</span>
+						<span>🔱 8374</span>
 					</div>
-				<div class="stars-today">⭐ 520 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
-    
-
-
-      
-        elastic /
-
-      elasticsearch</a></p>
-				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 74127</span>
-						<span>🔱 25480</span>
-					</div>
-				<div class="stars-today">⭐ 295 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 42229</span>
-						<span>🔱 8186</span>
-					</div>
-				<div class="stars-today">⭐ 1938 stars this week</div>
+				<div class="stars-today">⭐ 164 stars this week</div>
 				</div>
 			</div>
 	
