@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-25T09:58:57Z
+date: 2025-09-25T11:59:09Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67122</span>
+						<span>⭐ 67129</span>
 						<span>🔱 12571</span>
 					</div>
 				<div class="stars-today">⭐ 3699 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7037</span>
+						<span>⭐ 7045</span>
 						<span>🔱 643</span>
 					</div>
 				<div class="stars-today">⭐ 6450 stars this month</div>
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7845</span>
+						<span>⭐ 7849</span>
 						<span>🔱 889</span>
 					</div>
 				<div class="stars-today">⭐ 3506 stars this month</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 46159</span>
-						<span>🔱 3358</span>
+						<span>⭐ 46164</span>
+						<span>🔱 3359</span>
 					</div>
 				<div class="stars-today">⭐ 9248 stars this month</div>
 				</div>
@@ -116,32 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 44372</span>
-						<span>🔱 5187</span>
+						<span>⭐ 44391</span>
+						<span>🔱 5188</span>
 					</div>
 				<div class="stars-today">⭐ 8272 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21424</span>
-						<span>🔱 3332</span>
-					</div>
-				<div class="stars-today">⭐ 12670 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14508</span>
-						<span>🔱 1047</span>
+						<span>⭐ 14525</span>
+						<span>🔱 1049</span>
 					</div>
 				<div class="stars-today">⭐ 8222 stars this month</div>
 				</div>
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5120</span>
-						<span>🔱 373</span>
+						<span>⭐ 5124</span>
+						<span>🔱 374</span>
 					</div>
 				<div class="stars-today">⭐ 3011 stars this month</div>
 				</div>
@@ -204,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2884</span>
-						<span>🔱 300</span>
+						<span>⭐ 2896</span>
+						<span>🔱 301</span>
 					</div>
 				<div class="stars-today">⭐ 1840 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7148</span>
-						<span>🔱 986</span>
-					</div>
-				<div class="stars-today">⭐ 5086 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57327</span>
+						<span>⭐ 57331</span>
 						<span>🔱 9251</span>
 					</div>
 				<div class="stars-today">⭐ 2457 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 21432</span>
+						<span>🔱 3335</span>
+					</div>
+				<div class="stars-today">⭐ 12670 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21653</span>
+						<span>⭐ 21654</span>
 						<span>🔱 1576</span>
 					</div>
 				<div class="stars-today">⭐ 684 stars this month</div>
@@ -292,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13340</span>
+						<span>⭐ 13348</span>
 						<span>🔱 1704</span>
 					</div>
 				<div class="stars-today">⭐ 2986 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7151</span>
+						<span>🔱 988</span>
+					</div>
+				<div class="stars-today">⭐ 5086 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firebase/genkit" target="_blank">
+    
+
+
+      
+        firebase /
+
+      genkit</a></p>
+				<p>
+      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3995</span>
+						<span>🔱 463</span>
+					</div>
+				<div class="stars-today">⭐ 1260 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25871</span>
+						<span>⭐ 25875</span>
 						<span>🔱 2683</span>
 					</div>
 				<div class="stars-today">⭐ 2244 stars this month</div>
@@ -322,68 +344,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
     
 
 
       
-        MODSetter /
+        gin-gonic /
 
-      SurfSense</a></p>
+      gin</a></p>
 				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8145</span>
-						<span>🔱 616</span>
+						<span>🔠 Go</span>
+						<span>⭐ 85076</span>
+						<span>🔱 8381</span>
 					</div>
-				<div class="stars-today">⭐ 1649 stars this month</div>
+				<div class="stars-today">⭐ 1362 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
     
 
 
       
-        microsoft /
+        trufflesecurity /
 
-      qlib</a></p>
+      trufflehog</a></p>
 				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+      Find, verify, and analyze leaked credentials
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31123</span>
-						<span>🔱 4800</span>
+						<span>🔠 Go</span>
+						<span>⭐ 22371</span>
+						<span>🔱 2063</span>
 					</div>
-				<div class="stars-today">⭐ 2395 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/laramies/theHarvester" target="_blank">
-    
-
-
-      
-        laramies /
-
-      theHarvester</a></p>
-				<p>
-      E-mails, subdomains and names Harvester - OSINT 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14572</span>
-						<span>🔱 2309</span>
-					</div>
-				<div class="stars-today">⭐ 1306 stars this month</div>
+				<div class="stars-today">⭐ 2107 stars this month</div>
 				</div>
 			</div>
 	
