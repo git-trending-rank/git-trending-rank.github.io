@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-26T09:58:40Z
+date: 2025-09-26T11:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67158</span>
+						<span>⭐ 67161</span>
 						<span>🔱 12577</span>
 					</div>
 				<div class="stars-today">⭐ 3751 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7093</span>
-						<span>🔱 647</span>
-					</div>
-				<div class="stars-today">⭐ 6344 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7875</span>
-						<span>🔱 901</span>
+						<span>⭐ 7879</span>
+						<span>🔱 902</span>
 					</div>
 				<div class="stars-today">⭐ 3521 stars this month</div>
 				</div>
@@ -94,10 +72,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 46218</span>
-						<span>🔱 3361</span>
+						<span>⭐ 46225</span>
+						<span>🔱 3363</span>
 					</div>
 				<div class="stars-today">⭐ 9274 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
+    
+
+
+      
+        QuentinFuxa /
+
+      WhisperLiveKit</a></p>
+				<p>
+      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7097</span>
+						<span>🔱 647</span>
+					</div>
+				<div class="stars-today">⭐ 6344 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 44588</span>
-						<span>🔱 5213</span>
+						<span>⭐ 44606</span>
+						<span>🔱 5221</span>
 					</div>
 				<div class="stars-today">⭐ 8312 stars this month</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14725</span>
-						<span>🔱 1062</span>
+						<span>⭐ 14746</span>
+						<span>🔱 1064</span>
 					</div>
 				<div class="stars-today">⭐ 8396 stars this month</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5165</span>
-						<span>🔱 376</span>
+						<span>⭐ 5172</span>
+						<span>🔱 378</span>
 					</div>
 				<div class="stars-today">⭐ 3068 stars this month</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2960</span>
-						<span>🔱 305</span>
+						<span>⭐ 2977</span>
+						<span>🔱 307</span>
 					</div>
 				<div class="stars-today">⭐ 1869 stars this month</div>
 				</div>
@@ -204,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57385</span>
+						<span>⭐ 57389</span>
 						<span>🔱 9257</span>
 					</div>
 				<div class="stars-today">⭐ 2532 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21508</span>
-						<span>🔱 3343</span>
-					</div>
-				<div class="stars-today">⭐ 12295 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,98 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21666</span>
+						<span>⭐ 21667</span>
 						<span>🔱 1580</span>
 					</div>
 				<div class="stars-today">⭐ 689 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13385</span>
-						<span>🔱 1713</span>
-					</div>
-				<div class="stars-today">⭐ 3022 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7193</span>
-						<span>🔱 995</span>
-					</div>
-				<div class="stars-today">⭐ 4287 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
-    
-
-
-      
-        firebase /
-
-      genkit</a></p>
-				<p>
-      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4048</span>
-						<span>🔱 464</span>
-					</div>
-				<div class="stars-today">⭐ 1276 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica</a></p>
-				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25922</span>
-						<span>🔱 2687</span>
-					</div>
-				<div class="stars-today">⭐ 2304 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 85778</span>
-						<span>🔱 8415</span>
+						<span>⭐ 85809</span>
+						<span>🔱 8417</span>
 					</div>
 				<div class="stars-today">⭐ 1601 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25925</span>
+						<span>🔱 2688</span>
+					</div>
+				<div class="stars-today">⭐ 2304 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +292,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22407</span>
+						<span>⭐ 22412</span>
 						<span>🔱 2068</span>
 					</div>
 				<div class="stars-today">⭐ 2121 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+    
+
+
+      
+        pedroslopez /
+
+      whatsapp-web.js</a></p>
+				<p>
+      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 19633</span>
+						<span>🔱 4534</span>
+					</div>
+				<div class="stars-today">⭐ 1949 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13390</span>
+						<span>🔱 1714</span>
+					</div>
+				<div class="stars-today">⭐ 3022 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1420</span>
+						<span>🔱 252</span>
+					</div>
+				<div class="stars-today">⭐ 446 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7195</span>
+						<span>🔱 996</span>
+					</div>
+				<div class="stars-today">⭐ 4287 stars this month</div>
 				</div>
 			</div>
 	
