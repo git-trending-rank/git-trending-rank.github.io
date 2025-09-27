@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第39周
-date: 2025-09-27T09:59:02Z
+date: 2025-09-27T11:58:53Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
+    
+
+
+      
+        Gar-b-age /
+
+      CookLikeHOC</a></p>
+				<p>
+      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 18671</span>
+						<span>🔱 1861</span>
+					</div>
+				<div class="stars-today">⭐ 11613 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
@@ -30,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14831</span>
-						<span>🔱 1074</span>
+						<span>⭐ 14836</span>
+						<span>🔱 1075</span>
 					</div>
 				<div class="stars-today">⭐ 5138 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/get-convex/chef" target="_blank">
-    
-
-
-      
-        get-convex /
-
-      chef</a></p>
-				<p>
-      The only AI app builder that knows backend
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1864</span>
-						<span>🔱 316</span>
-					</div>
-				<div class="stars-today">⭐ 775 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 42517</span>
-						<span>🔱 8234</span>
-					</div>
-				<div class="stars-today">⭐ 2014 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6870</span>
-						<span>🔱 547</span>
+						<span>⭐ 6878</span>
+						<span>🔱 549</span>
 					</div>
 				<div class="stars-today">⭐ 955 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
     
 
 
       
-        elastic /
+        microsoft /
 
-      elasticsearch</a></p>
+      AI-For-Beginners</a></p>
 				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
+      12 Weeks, 24 Lessons, AI for All!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 74795</span>
-						<span>🔱 25510</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 42526</span>
+						<span>🔱 8236</span>
 					</div>
-				<div class="stars-today">⭐ 988 stars this week</div>
+				<div class="stars-today">⭐ 2014 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 23089</span>
+						<span>⭐ 23092</span>
 						<span>🔱 1630</span>
 					</div>
 				<div class="stars-today">⭐ 541 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+    
+
+
+      
+        elastic /
+
+      elasticsearch</a></p>
+				<p>
+      Free and Open Source, Distributed, RESTful Search Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 74799</span>
+						<span>🔱 25511</span>
+					</div>
+				<div class="stars-today">⭐ 988 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,140 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 85916</span>
+						<span>⭐ 85928</span>
 						<span>🔱 8420</span>
 					</div>
 				<div class="stars-today">⭐ 1832 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
-    
-
-
-      
-        fmtlib /
-
-      fmt</a></p>
-				<p>
-      A modern formatting library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 22631</span>
-						<span>🔱 2730</span>
-					</div>
-				<div class="stars-today">⭐ 279 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tldraw/tldraw" target="_blank">
-    
-
-
-      
-        tldraw /
-
-      tldraw</a></p>
-				<p>
-      very good whiteboard SDK / infinite canvas SDK
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43029</span>
-						<span>🔱 2766</span>
-					</div>
-				<div class="stars-today">⭐ 1160 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
-    
-
-
-      
-        WebGoat /
-
-      WebGoat</a></p>
-				<p>
-      WebGoat is a deliberately insecure application
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8361</span>
-						<span>🔱 6745</span>
-					</div>
-				<div class="stars-today">⭐ 525 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ytdl-org/youtube-dl" target="_blank">
-    
-
-
-      
-        ytdl-org /
-
-      youtube-dl</a></p>
-				<p>
-      Command-line program to download videos from YouTube.com and other video sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 138127</span>
-						<span>🔱 10503</span>
-					</div>
-				<div class="stars-today">⭐ 820 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/knownsec/aipyapp" target="_blank">
-    
-
-
-      
-        knownsec /
-
-      aipyapp</a></p>
-				<p>
-      AI-Powered Python & Python-Powered AI (Python-Use)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2382</span>
-						<span>🔱 205</span>
-					</div>
-				<div class="stars-today">⭐ 330 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cellos51/balatro-gba" target="_blank">
-    
-
-
-      
-        cellos51 /
-
-      balatro-gba</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 1271</span>
-						<span>🔱 43</span>
-					</div>
-				<div class="stars-today">⭐ 238 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,76 +184,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1463</span>
-						<span>🔱 254</span>
+						<span>⭐ 1465</span>
+						<span>🔱 255</span>
 					</div>
 				<div class="stars-today">⭐ 413 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-agentic-commerce/a2a-x402" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        google-agentic-commerce /
+        LadybirdBrowser /
 
-      a2a-x402</a></p>
+      ladybird</a></p>
 				<p>
-      The A2A x402 Extension brings cryptocurrency payments to the Agent-to-Agent (A2A) protocol, enabling agents to monetize their services through on-chain payments. This extension revives the spirit of HTTP 402 "Payment Required" for the decentralized agent ecosystem.
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 237</span>
-						<span>🔱 38</span>
+						<span>🔠 C++</span>
+						<span>⭐ 48908</span>
+						<span>🔱 2121</span>
 					</div>
-				<div class="stars-today">⭐ 79 stars this week</div>
+				<div class="stars-today">⭐ 1065 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iDvel/rime-ice" target="_blank">
+				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
     
 
 
       
-        iDvel /
+        fmtlib /
 
-      rime-ice</a></p>
+      fmt</a></p>
 				<p>
-      Rime 配置：雾凇拼音 | 长期维护的简体词库
+      A modern formatting library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 13090</span>
-						<span>🔱 837</span>
+						<span>🔠 C++</span>
+						<span>⭐ 22632</span>
+						<span>🔱 2730</span>
 					</div>
-				<div class="stars-today">⭐ 213 stars this week</div>
+				<div class="stars-today">⭐ 279 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
     
 
 
       
-        donnemartin /
+        WebGoat /
 
-      system-design-primer</a></p>
+      WebGoat</a></p>
 				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      WebGoat is a deliberately insecure application
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8363</span>
+						<span>🔱 6745</span>
+					</div>
+				<div class="stars-today">⭐ 525 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3376</span>
+						<span>🔱 282</span>
+					</div>
+				<div class="stars-today">⭐ 798 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tldraw/tldraw" target="_blank">
+    
+
+
+      
+        tldraw /
+
+      tldraw</a></p>
+				<p>
+      very good whiteboard SDK / infinite canvas SDK
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43034</span>
+						<span>🔱 2767</span>
+					</div>
+				<div class="stars-today">⭐ 1160 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/knownsec/aipyapp" target="_blank">
+    
+
+
+      
+        knownsec /
+
+      aipyapp</a></p>
+				<p>
+      AI-Powered Python & Python-Powered AI (Python-Use)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 321265</span>
-						<span>🔱 52462</span>
+						<span>⭐ 2384</span>
+						<span>🔱 205</span>
 					</div>
-				<div class="stars-today">⭐ 1132 stars this week</div>
+				<div class="stars-today">⭐ 330 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ml-explore/mlx-swift-examples" target="_blank">
+    
+
+
+      
+        ml-explore /
+
+      mlx-swift-examples</a></p>
+				<p>
+      Examples using MLX Swift
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 2221</span>
+						<span>🔱 309</span>
+					</div>
+				<div class="stars-today">⭐ 166 stars this week</div>
 				</div>
 			</div>
 	
@@ -410,6 +368,72 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/smartcontractkit/chainlink" target="_blank">
+    
+
+
+      
+        smartcontractkit /
+
+      chainlink</a></p>
+				<p>
+      node of the decentralized oracle network, bridging on and off-chain computation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 7759</span>
+						<span>🔱 1857</span>
+					</div>
+				<div class="stars-today">⭐ 228 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ytdl-org/youtube-dl" target="_blank">
+    
+
+
+      
+        ytdl-org /
+
+      youtube-dl</a></p>
+				<p>
+      Command-line program to download videos from YouTube.com and other video sites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 138131</span>
+						<span>🔱 10503</span>
+					</div>
+				<div class="stars-today">⭐ 820 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TanStack/router" target="_blank">
+    
+
+
+      
+        TanStack /
+
+      router</a></p>
+				<p>
+      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11365</span>
+						<span>🔱 1228</span>
+					</div>
+				<div class="stars-today">⭐ 245 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
     
 
@@ -424,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 429015</span>
-						<span>🔱 41779</span>
+						<span>⭐ 429022</span>
+						<span>🔱 41776</span>
 					</div>
 				<div class="stars-today">⭐ 887 stars this week</div>
 				</div>
