@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-28
-date: 2025-09-28T09:58:37Z
+date: 2025-09-28T11:58:56Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,72 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56206</span>
+						<span>🔱 10145</span>
+					</div>
+				<div class="stars-today">⭐ 14 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 337954</span>
+						<span>🔱 42913</span>
+					</div>
+				<div class="stars-today">⭐ 337 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 73127</span>
+						<span>🔱 10634</span>
+					</div>
+				<div class="stars-today">⭐ 110 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
@@ -30,98 +96,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4379</span>
-						<span>🔱 339</span>
+						<span>⭐ 4442</span>
+						<span>🔱 347</span>
 					</div>
-				<div class="stars-today">⭐ 269 stars today</div>
+				<div class="stars-today">⭐ 1119 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+				<p><a href="https://github.com/typst/typst" target="_blank">
     
 
 
       
-        onyx-dot-app /
+        typst /
 
-      onyx</a></p>
+      typst</a></p>
 				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+      A new markup-based typesetting system that is powerful and easy to learn.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 46010</span>
+						<span>🔱 1232</span>
+					</div>
+				<div class="stars-today">⭐ 169 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14482</span>
-						<span>🔱 1962</span>
+						<span>⭐ 70428</span>
+						<span>🔱 9008</span>
 					</div>
-				<div class="stars-today">⭐ 224 stars today</div>
+				<div class="stars-today">⭐ 169 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
     
 
 
       
-        coinbase /
+        microsoft /
 
-      x402</a></p>
+      qlib</a></p>
 				<p>
-      A payments protocol for the internet. Built on HTTP.
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31345</span>
+						<span>🔱 4837</span>
+					</div>
+				<div class="stars-today">⭐ 118 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      AI coding agent, built for the terminal.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1637</span>
-						<span>🔱 266</span>
+						<span>⭐ 25185</span>
+						<span>🔱 1819</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      RAG-Anything</a></p>
-				<p>
-      "RAG-Anything: All-in-One RAG Framework"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7159</span>
-						<span>🔱 803</span>
-					</div>
-				<div class="stars-today">⭐ 415 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
-    
-
-
-      
-        gin-gonic /
-
-      gin</a></p>
-				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86005</span>
-						<span>🔱 8425</span>
-					</div>
-				<div class="stars-today">⭐ 124 stars today</div>
+				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
 			</div>
 	
@@ -140,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40504</span>
-						<span>🔱 5893</span>
+						<span>⭐ 40545</span>
+						<span>🔱 5898</span>
 					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frappe/erpnext" target="_blank">
-    
-
-
-      
-        frappe /
-
-      erpnext</a></p>
-				<p>
-      Free and Open Source Enterprise Resource Planning (ERP)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28869</span>
-						<span>🔱 9418</span>
-					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/typescript-sdk" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      typescript-sdk</a></p>
-				<p>
-      The official TypeScript SDK for Model Context Protocol servers and clients
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10023</span>
-						<span>🔱 1293</span>
-					</div>
-				<div class="stars-today">⭐ 11 stars today</div>
+				<div class="stars-today">⭐ 345 stars today</div>
 				</div>
 			</div>
 	
@@ -206,142 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30608</span>
-						<span>🔱 4361</span>
+						<span>⭐ 30616</span>
+						<span>🔱 4362</span>
 					</div>
-				<div class="stars-today">⭐ 826 stars today</div>
+				<div class="stars-today">⭐ 260 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/directus/directus" target="_blank">
+				<p><a href="https://github.com/frappe/erpnext" target="_blank">
     
 
 
       
-        directus /
+        frappe /
 
-      directus</a></p>
+      erpnext</a></p>
 				<p>
-      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32635</span>
-						<span>🔱 4398</span>
-					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Olow304/memvid" target="_blank">
-    
-
-
-      
-        Olow304 /
-
-      memvid</a></p>
-				<p>
-      Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+      Free and Open Source Enterprise Resource Planning (ERP)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9616</span>
-						<span>🔱 790</span>
+						<span>⭐ 28884</span>
+						<span>🔱 9420</span>
 					</div>
-				<div class="stars-today">⭐ 86 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/imputnet/helium" target="_blank">
-    
-
-
-      
-        imputnet /
-
-      helium</a></p>
-				<p>
-      Private, fast, and honest web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3664</span>
-						<span>🔱 47</span>
-					</div>
-				<div class="stars-today">⭐ 289 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      supervision</a></p>
-				<p>
-      We write your reusable computer vision tools. 💜
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35365</span>
-						<span>🔱 2906</span>
-					</div>
-				<div class="stars-today">⭐ 81 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
-    
-
-
-      
-        oauth2-proxy /
-
-      oauth2-proxy</a></p>
-				<p>
-      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12316</span>
-						<span>🔱 1825</span>
-					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ai-dynamo/dynamo" target="_blank">
-    
-
-
-      
-        ai-dynamo /
-
-      dynamo</a></p>
-				<p>
-      A Datacenter Scale Distributed Inference Serving Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5177</span>
-						<span>🔱 618</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
+				<div class="stars-today">⭐ 250 stars today</div>
 				</div>
 			</div>
 	
@@ -360,76 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 11393</span>
-						<span>🔱 1090</span>
+						<span>⭐ 11413</span>
+						<span>🔱 1092</span>
 					</div>
-				<div class="stars-today">⭐ 445 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/e2b-dev/awesome-ai-agents" target="_blank">
-    
-
-
-      
-        e2b-dev /
-
-      awesome-ai-agents</a></p>
-				<p>
-      A list of AI autonomous agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 23073</span>
-						<span>🔱 1899</span>
-					</div>
-				<div class="stars-today">⭐ 73 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wanghongenpin/proxypin" target="_blank">
-    
-
-
-      
-        wanghongenpin /
-
-      proxypin</a></p>
-				<p>
-      Open source free capture HTTP(S) traffic software ProxyPin, supporting full platform systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 10524</span>
-						<span>🔱 904</span>
-					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/aspnetcore" target="_blank">
-    
-
-
-      
-        dotnet /
-
-      aspnetcore</a></p>
-				<p>
-      ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 37183</span>
-						<span>🔱 10455</span>
-					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
+				<div class="stars-today">⭐ 386 stars today</div>
 				</div>
 			</div>
 	
@@ -448,10 +294,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 43929</span>
+						<span>⭐ 43931</span>
 						<span>🔱 3946</span>
 					</div>
-				<div class="stars-today">⭐ 146 stars today</div>
+				<div class="stars-today">⭐ 127 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rapid7/metasploit-framework" target="_blank">
+    
+
+
+      
+        rapid7 /
+
+      metasploit-framework</a></p>
+				<p>
+      Metasploit Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 36479</span>
+						<span>🔱 14537</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx</a></p>
+				<p>
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14495</span>
+						<span>🔱 1964</span>
+					</div>
+				<div class="stars-today">⭐ 306 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+    
+
+
+      
+        yt-dlp /
+
+      yt-dlp</a></p>
+				<p>
+      A feature-rich command-line audio/video downloader
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 128490</span>
+						<span>🔱 10294</span>
+					</div>
+				<div class="stars-today">⭐ 200 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      12 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 40020</span>
+						<span>🔱 13087</span>
+					</div>
+				<div class="stars-today">⭐ 235 stars today</div>
 				</div>
 			</div>
 	

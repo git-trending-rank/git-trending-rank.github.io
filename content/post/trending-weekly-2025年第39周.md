@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第39周
-date: 2025-09-28T09:58:37Z
+date: 2025-09-28T11:58:57Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19159</span>
-						<span>🔱 1907</span>
+						<span>⭐ 19202</span>
+						<span>🔱 1909</span>
 					</div>
 				<div class="stars-today">⭐ 10745 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4442</span>
+						<span>🔱 347</span>
+					</div>
+				<div class="stars-today">⭐ 894 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14963</span>
+						<span>⭐ 14973</span>
 						<span>🔱 1084</span>
 					</div>
 				<div class="stars-today">⭐ 3880 stars this week</div>
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6927</span>
+						<span>⭐ 6931</span>
 						<span>🔱 553</span>
 					</div>
 				<div class="stars-today">⭐ 1079 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 42604</span>
-						<span>🔱 8247</span>
-					</div>
-				<div class="stars-today">⭐ 1624 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
-    
-
-
-      
-        LazyVim /
-
-      LazyVim</a></p>
-				<p>
-      Neovim config for the lazy
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 23123</span>
-						<span>🔱 1629</span>
-					</div>
-				<div class="stars-today">⭐ 433 stars this week</div>
 				</div>
 			</div>
 	
@@ -141,31 +119,31 @@ keywords:
 					<div>
 						<span>🔠 Java</span>
 						<span>⭐ 74822</span>
-						<span>🔱 25511</span>
+						<span>🔱 25509</span>
 					</div>
 				<div class="stars-today">⭐ 1006 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
     
 
 
       
-        gin-gonic /
+        WECENG /
 
-      gin</a></p>
+      ticket-purchase</a></p>
 				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+      大麦自动抢票，支持人员、城市、日期场次、价格选择
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86005</span>
-						<span>🔱 8425</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3547</span>
+						<span>🔱 474</span>
 					</div>
-				<div class="stars-today">⭐ 1935 stars this week</div>
+				<div class="stars-today">⭐ 1134 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1637</span>
+						<span>⭐ 1641</span>
 						<span>🔱 266</span>
 					</div>
 				<div class="stars-today">⭐ 442 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+    
+
+
+      
+        gin-gonic /
+
+      gin</a></p>
+				<p>
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 86012</span>
+						<span>🔱 8425</span>
+					</div>
+				<div class="stars-today">⭐ 1935 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      AI-For-Beginners</a></p>
+				<p>
+      12 Weeks, 24 Lessons, AI for All!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 42611</span>
+						<span>🔱 8247</span>
+					</div>
+				<div class="stars-today">⭐ 1624 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 48942</span>
+						<span>⭐ 48941</span>
 						<span>🔱 2124</span>
 					</div>
 				<div class="stars-today">⭐ 1047 stars this week</div>
@@ -228,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 22640</span>
+						<span>⭐ 22641</span>
 						<span>🔱 2731</span>
 					</div>
 				<div class="stars-today">⭐ 236 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+    
+
+
+      
+        LazyVim /
+
+      LazyVim</a></p>
+				<p>
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 23126</span>
+						<span>🔱 1629</span>
+					</div>
+				<div class="stars-today">⭐ 433 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,98 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8389</span>
+						<span>⭐ 8390</span>
 						<span>🔱 6742</span>
 					</div>
 				<div class="stars-today">⭐ 406 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4379</span>
-						<span>🔱 339</span>
-					</div>
-				<div class="stars-today">⭐ 894 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tldraw/tldraw" target="_blank">
-    
-
-
-      
-        tldraw /
-
-      tldraw</a></p>
-				<p>
-      very good whiteboard SDK / infinite canvas SDK
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43115</span>
-						<span>🔱 2769</span>
-					</div>
-				<div class="stars-today">⭐ 1148 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/knownsec/aipyapp" target="_blank">
-    
-
-
-      
-        knownsec /
-
-      aipyapp</a></p>
-				<p>
-      AI-Powered Python & Python-Powered AI (Python-Use)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2423</span>
-						<span>🔱 206</span>
-					</div>
-				<div class="stars-today">⭐ 311 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ml-explore/mlx-swift-examples" target="_blank">
-    
-
-
-      
-        ml-explore /
-
-      mlx-swift-examples</a></p>
-				<p>
-      Examples using MLX Swift
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 2225</span>
-						<span>🔱 309</span>
-					</div>
-				<div class="stars-today">⭐ 147 stars this week</div>
 				</div>
 			</div>
 	
@@ -368,68 +324,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/smartcontractkit/chainlink" target="_blank">
+				<p><a href="https://github.com/tldraw/tldraw" target="_blank">
     
 
 
       
-        smartcontractkit /
+        tldraw /
 
-      chainlink</a></p>
+      tldraw</a></p>
 				<p>
-      node of the decentralized oracle network, bridging on and off-chain computation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7773</span>
-						<span>🔱 1859</span>
-					</div>
-				<div class="stars-today">⭐ 229 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ytdl-org/youtube-dl" target="_blank">
-    
-
-
-      
-        ytdl-org /
-
-      youtube-dl</a></p>
-				<p>
-      Command-line program to download videos from YouTube.com and other video sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 138181</span>
-						<span>🔱 10506</span>
-					</div>
-				<div class="stars-today">⭐ 856 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TanStack/router" target="_blank">
-    
-
-
-      
-        TanStack /
-
-      router</a></p>
-				<p>
-      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+      very good whiteboard SDK / infinite canvas SDK
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11393</span>
-						<span>🔱 1232</span>
+						<span>⭐ 43126</span>
+						<span>🔱 2769</span>
 					</div>
-				<div class="stars-today">⭐ 264 stars this week</div>
+				<div class="stars-today">⭐ 1148 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 337954</span>
+						<span>🔱 42913</span>
+					</div>
+				<div class="stars-today">⭐ 942 stars this week</div>
 				</div>
 			</div>
 	
@@ -448,10 +382,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 429177</span>
-						<span>🔱 41793</span>
+						<span>⭐ 429191</span>
+						<span>🔱 41795</span>
 					</div>
 				<div class="stars-today">⭐ 839 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TanStack/router" target="_blank">
+    
+
+
+      
+        TanStack /
+
+      router</a></p>
+				<p>
+      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11396</span>
+						<span>🔱 1232</span>
+					</div>
+				<div class="stars-today">⭐ 264 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/knownsec/aipyapp" target="_blank">
+    
+
+
+      
+        knownsec /
+
+      aipyapp</a></p>
+				<p>
+      AI-Powered Python & Python-Powered AI (Python-Use)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2426</span>
+						<span>🔱 206</span>
+					</div>
+				<div class="stars-today">⭐ 311 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
+    
+
+
+      
+        oauth2-proxy /
+
+      oauth2-proxy</a></p>
+				<p>
+      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 12330</span>
+						<span>🔱 1828</span>
+					</div>
+				<div class="stars-today">⭐ 296 stars this week</div>
 				</div>
 			</div>
 	

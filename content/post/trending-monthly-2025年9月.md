@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-28T09:58:37Z
+date: 2025-09-28T11:58:56Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67235</span>
+						<span>⭐ 67237</span>
 						<span>🔱 12582</span>
 					</div>
 				<div class="stars-today">⭐ 3820 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8011</span>
-						<span>🔱 935</span>
+						<span>⭐ 8017</span>
+						<span>🔱 936</span>
 					</div>
 				<div class="stars-today">⭐ 5362 stars this month</div>
 				</div>
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7927</span>
+						<span>⭐ 7930</span>
 						<span>🔱 915</span>
 					</div>
 				<div class="stars-today">⭐ 3551 stars this month</div>
@@ -94,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 46317</span>
+						<span>⭐ 46321</span>
 						<span>🔱 3378</span>
 					</div>
 				<div class="stars-today">⭐ 9330 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4442</span>
+						<span>🔱 347</span>
+					</div>
+				<div class="stars-today">⭐ 2383 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 44925</span>
-						<span>🔱 5271</span>
+						<span>⭐ 44937</span>
+						<span>🔱 5277</span>
 					</div>
 				<div class="stars-today">⭐ 8296 stars this month</div>
 				</div>
@@ -138,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14963</span>
+						<span>⭐ 14973</span>
 						<span>🔱 1084</span>
 					</div>
 				<div class="stars-today">⭐ 8668 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7256</span>
-						<span>🔱 659</span>
-					</div>
-				<div class="stars-today">⭐ 6009 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5239</span>
+						<span>⭐ 5243</span>
 						<span>🔱 387</span>
 					</div>
 				<div class="stars-today">⭐ 3142 stars this month</div>
@@ -204,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3377</span>
-						<span>🔱 335</span>
+						<span>⭐ 3379</span>
+						<span>🔱 336</span>
 					</div>
 				<div class="stars-today">⭐ 2171 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
-    
-
-
-      
-        gin-gonic /
-
-      gin</a></p>
-				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86005</span>
-						<span>🔱 8425</span>
-					</div>
-				<div class="stars-today">⭐ 2367 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57520</span>
+						<span>⭐ 57521</span>
 						<span>🔱 9264</span>
 					</div>
 				<div class="stars-today">⭐ 2647 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/uutils/coreutils" target="_blank">
-    
-
-
-      
-        uutils /
-
-      coreutils</a></p>
-				<p>
-      Cross-platform Rust rewrite of the GNU coreutils
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21695</span>
-						<span>🔱 1581</span>
-					</div>
-				<div class="stars-today">⭐ 717 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1637</span>
+						<span>⭐ 1641</span>
 						<span>🔱 266</span>
 					</div>
 				<div class="stars-today">⭐ 647 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+    
+
+
+      
+        gin-gonic /
+
+      gin</a></p>
+				<p>
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 86012</span>
+						<span>🔱 8425</span>
+					</div>
+				<div class="stars-today">⭐ 2367 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/uutils/coreutils" target="_blank">
+    
+
+
+      
+        uutils /
+
+      coreutils</a></p>
+				<p>
+      Cross-platform Rust rewrite of the GNU coreutils
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21697</span>
+						<span>🔱 1581</span>
+					</div>
+				<div class="stars-today">⭐ 717 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4124</span>
+						<span>⭐ 4128</span>
 						<span>🔱 471</span>
 					</div>
 				<div class="stars-today">⭐ 1368 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
+    
+
+
+      
+        QuentinFuxa /
+
+      WhisperLiveKit</a></p>
+				<p>
+      Real-time & local speech-to-text, translation, and speaker diarization. With server & web UI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7266</span>
+						<span>🔱 659</span>
+					</div>
+				<div class="stars-today">⭐ 6009 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,54 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26015</span>
+						<span>⭐ 26019</span>
 						<span>🔱 2695</span>
 					</div>
 				<div class="stars-today">⭐ 2356 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
-    
-
-
-      
-        pedroslopez /
-
-      whatsapp-web.js</a></p>
-				<p>
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19671</span>
-						<span>🔱 4538</span>
-					</div>
-				<div class="stars-today">⭐ 1962 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13483</span>
-						<span>🔱 1725</span>
-					</div>
-				<div class="stars-today">⭐ 3078 stars this month</div>
 				</div>
 			</div>
 	
