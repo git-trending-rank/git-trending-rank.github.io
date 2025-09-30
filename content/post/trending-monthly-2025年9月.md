@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年9月
-date: 2025-09-30T09:58:46Z
+date: 2025-09-30T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67313</span>
+						<span>⭐ 67318</span>
 						<span>🔱 12589</span>
 					</div>
 				<div class="stars-today">⭐ 3888 stars this month</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7988</span>
-						<span>🔱 923</span>
+						<span>⭐ 7992</span>
+						<span>🔱 925</span>
 					</div>
 				<div class="stars-today">⭐ 3597 stars this month</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8169</span>
-						<span>🔱 957</span>
+						<span>⭐ 8175</span>
+						<span>🔱 958</span>
 					</div>
 				<div class="stars-today">⭐ 5411 stars this month</div>
 				</div>
@@ -94,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5062</span>
+						<span>⭐ 5079</span>
 						<span>🔱 384</span>
 					</div>
 				<div class="stars-today">⭐ 3487 stars this month</div>
@@ -116,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15200</span>
+						<span>⭐ 15207</span>
 						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 8915 stars this month</div>
@@ -138,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 45311</span>
-						<span>🔱 5344</span>
+						<span>⭐ 45332</span>
+						<span>🔱 5350</span>
 					</div>
 				<div class="stars-today">⭐ 8146 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dockur/windows" target="_blank">
-    
-
-
-      
-        dockur /
-
-      windows</a></p>
-				<p>
-      Windows inside a Docker container.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 46443</span>
-						<span>🔱 3387</span>
-					</div>
-				<div class="stars-today">⭐ 9400 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5300</span>
+						<span>⭐ 5302</span>
 						<span>🔱 400</span>
 					</div>
 				<div class="stars-today">⭐ 3205 stars this month</div>
@@ -204,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3489</span>
+						<span>⭐ 3491</span>
 						<span>🔱 344</span>
 					</div>
 				<div class="stars-today">⭐ 2317 stars this month</div>
@@ -226,32 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1777</span>
-						<span>🔱 281</span>
+						<span>⭐ 1782</span>
+						<span>🔱 282</span>
 					</div>
 				<div class="stars-today">⭐ 880 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+				<p><a href="https://github.com/dockur/windows" target="_blank">
     
 
 
       
-        CorentinJ /
+        dockur /
 
-      Real-Time-Voice-Cloning</a></p>
+      windows</a></p>
 				<p>
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+      Windows inside a Docker container.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57650</span>
-						<span>🔱 9278</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 46448</span>
+						<span>🔱 3390</span>
 					</div>
-				<div class="stars-today">⭐ 2775 stars this month</div>
+				<div class="stars-today">⭐ 9400 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86107</span>
+						<span>⭐ 86108</span>
 						<span>🔱 8427</span>
 					</div>
 				<div class="stars-today">⭐ 2457 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+    
+
+
+      
+        CorentinJ /
+
+      Real-Time-Voice-Cloning</a></p>
+				<p>
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57654</span>
+						<span>🔱 9278</span>
+					</div>
+				<div class="stars-today">⭐ 2775 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26112</span>
+						<span>⭐ 26117</span>
 						<span>🔱 2701</span>
 					</div>
 				<div class="stars-today">⭐ 2423 stars this month</div>
@@ -322,24 +322,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
     
 
 
       
-        pedroslopez /
+        trufflesecurity /
 
-      whatsapp-web.js</a></p>
+      trufflehog</a></p>
 				<p>
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+      Find, verify, and analyze leaked credentials
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19722</span>
-						<span>🔱 4544</span>
+						<span>🔠 Go</span>
+						<span>⭐ 22516</span>
+						<span>🔱 2074</span>
 					</div>
-				<div class="stars-today">⭐ 1974 stars this month</div>
+				<div class="stars-today">⭐ 2198 stars this month</div>
 				</div>
 			</div>
 	

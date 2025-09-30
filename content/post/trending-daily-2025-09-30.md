@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-09-30
-date: 2025-09-30T09:58:46Z
+date: 2025-09-30T11:58:35Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42858</span>
-						<span>🔱 6113</span>
+						<span>⭐ 42993</span>
+						<span>🔱 6129</span>
 					</div>
-				<div class="stars-today">⭐ 403 stars today</div>
+				<div class="stars-today">⭐ 2095 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
+    
+
+
+      
+        nextcloud /
+
+      server</a></p>
+				<p>
+      ☁️ Nextcloud server, a safe home for all your data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 30941</span>
+						<span>🔱 4443</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/typst/typst" target="_blank">
+    
+
+
+      
+        typst /
+
+      typst</a></p>
+				<p>
+      A new markup-based typesetting system that is powerful and easy to learn.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 46277</span>
+						<span>🔱 1246</span>
+					</div>
+				<div class="stars-today">⭐ 199 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fastapi/fastapi" target="_blank">
+    
+
+
+      
+        fastapi /
+
+      fastapi</a></p>
+				<p>
+      FastAPI framework, high performance, easy to learn, fast to code, ready for production
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 90000</span>
+						<span>🔱 7963</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +118,72 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57805</span>
-						<span>🔱 10267</span>
+						<span>⭐ 57835</span>
+						<span>🔱 10270</span>
 					</div>
-				<div class="stars-today">⭐ 1041 stars today</div>
+				<div class="stars-today">⭐ 663 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DevCaress/guia-entrevistas-de-programacion" target="_blank">
+    
+
+
+      
+        DevCaress /
+
+      guia-entrevistas-de-programacion</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 6013</span>
+						<span>🔱 832</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1349</span>
+						<span>🔱 190</span>
+					</div>
+				<div class="stars-today">⭐ 178 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
+    
+
+
+      
+        juliangarnier /
+
+      anime</a></p>
+				<p>
+      JavaScript animation engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 64170</span>
+						<span>🔱 4291</span>
+					</div>
+				<div class="stars-today">⭐ 157 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +202,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 338902</span>
-						<span>🔱 42996</span>
+						<span>⭐ 338925</span>
+						<span>🔱 42999</span>
 					</div>
-				<div class="stars-today">⭐ 557 stars today</div>
+				<div class="stars-today">⭐ 478 stars today</div>
 				</div>
 			</div>
 	
@@ -96,98 +224,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4396</span>
-						<span>🔱 218</span>
+						<span>⭐ 4423</span>
+						<span>🔱 220</span>
 					</div>
-				<div class="stars-today">⭐ 86 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frappe/erpnext" target="_blank">
-    
-
-
-      
-        frappe /
-
-      erpnext</a></p>
-				<p>
-      Free and Open Source Enterprise Resource Planning (ERP)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29308</span>
-						<span>🔱 9471</span>
-					</div>
-				<div class="stars-today">⭐ 217 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/snarktank/ai-dev-tasks" target="_blank">
-    
-
-
-      
-        snarktank /
-
-      ai-dev-tasks</a></p>
-				<p>
-      A simple task management system for managing AI dev agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 5511</span>
-						<span>🔱 1308</span>
-					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5062</span>
-						<span>🔱 384</span>
-					</div>
-				<div class="stars-today">⭐ 332 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/adityatelange/hugo-PaperMod" target="_blank">
-    
-
-
-      
-        adityatelange /
-
-      hugo-PaperMod</a></p>
-				<p>
-       A fast, clean, responsive Hugo theme.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 12412</span>
-						<span>🔱 3230</span>
-					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
+				<div class="stars-today">⭐ 476 stars today</div>
 				</div>
 			</div>
 	
@@ -206,164 +246,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 40985</span>
-						<span>🔱 13275</span>
+						<span>⭐ 41018</span>
+						<span>🔱 13281</span>
 					</div>
-				<div class="stars-today">⭐ 547 stars today</div>
+				<div class="stars-today">⭐ 478 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
     
 
 
       
-        jellyfin /
+        rasbt /
 
-      jellyfin</a></p>
+      LLMs-from-scratch</a></p>
 				<p>
-      The Free Software Media System - Server Backend & API
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 44181</span>
-						<span>🔱 3964</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 73793</span>
+						<span>🔱 10739</span>
 					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
+				<div class="stars-today">⭐ 390 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        onyx-dot-app /
+        anthropics /
 
-      onyx</a></p>
+      claude-code</a></p>
 				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14939</span>
-						<span>🔱 2006</span>
-					</div>
-				<div class="stars-today">⭐ 264 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/florinpop17/app-ideas" target="_blank">
-    
-
-
-      
-        florinpop17 /
-
-      app-ideas</a></p>
-				<p>
-      A Collection of application ideas which can be used to improve your coding skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 86114</span>
-						<span>🔱 9873</span>
-					</div>
-				<div class="stars-today">⭐ 161 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
-    
-
-
-      
-        oauth2-proxy /
-
-      oauth2-proxy</a></p>
-				<p>
-      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12626</span>
-						<span>🔱 1837</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langgenius/dify" target="_blank">
-    
-
-
-      
-        langgenius /
-
-      dify</a></p>
-				<p>
-      Production-ready platform for agentic workflow development.
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 115533</span>
-						<span>🔱 17810</span>
+						<span>⭐ 34784</span>
+						<span>🔱 2149</span>
 					</div>
-				<div class="stars-today">⭐ 109 stars today</div>
+				<div class="stars-today">⭐ 298 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jsvine/pdfplumber" target="_blank">
+				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
     
 
 
       
-        jsvine /
+        bregman-arie /
 
-      pdfplumber</a></p>
+      devops-exercises</a></p>
 				<p>
-      Plumb a PDF for detailed information about each char, rectangle, line, et cetera — and easily extract text and tables.
+      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8688</span>
-						<span>🔱 794</span>
+						<span>⭐ 78674</span>
+						<span>🔱 17789</span>
 					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
+				<div class="stars-today">⭐ 112 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        sst /
+        Shubhamsaboo /
 
-      opencode</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      AI coding agent, built for the terminal.
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70809</span>
+						<span>🔱 9067</span>
+					</div>
+				<div class="stars-today">⭐ 246 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
+    
+
+
+      
+        Byaidu /
+
+      PDFMathTranslate</a></p>
+				<p>
+      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28056</span>
+						<span>🔱 2475</span>
+					</div>
+				<div class="stars-today">⭐ 134 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25903</span>
-						<span>🔱 1860</span>
+						<span>⭐ 931</span>
+						<span>🔱 66</span>
 					</div>
-				<div class="stars-today">⭐ 348 stars today</div>
+				<div class="stars-today">⭐ 67 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SDWebImage/SDWebImage" target="_blank">
+    
+
+
+      
+        SDWebImage /
+
+      SDWebImage</a></p>
+				<p>
+      Asynchronous image downloader with cache support as a UIImageView category
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Objective-C</span>
+						<span>⭐ 25559</span>
+						<span>🔱 5989</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
 				</div>
 			</div>
 	

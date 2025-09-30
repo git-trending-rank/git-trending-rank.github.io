@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第40周
-date: 2025-09-30T09:58:46Z
+date: 2025-09-30T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5062</span>
+						<span>⭐ 5079</span>
 						<span>🔱 384</span>
 					</div>
 				<div class="stars-today">⭐ 2277 stars this week</div>
@@ -38,24 +38,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        Gar-b-age /
+        harry0703 /
 
-      CookLikeHOC</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19827</span>
-						<span>🔱 1969</span>
+						<span>🔠 Python</span>
+						<span>⭐ 42993</span>
+						<span>🔱 6129</span>
 					</div>
-				<div class="stars-today">⭐ 6456 stars this week</div>
+				<div class="stars-today">⭐ 1241 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7149</span>
-						<span>🔱 577</span>
+						<span>⭐ 7155</span>
+						<span>🔱 578</span>
 					</div>
 				<div class="stars-today">⭐ 1221 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1777</span>
-						<span>🔱 281</span>
+						<span>⭐ 1782</span>
+						<span>🔱 282</span>
 					</div>
 				<div class="stars-today">⭐ 685 stars this week</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86107</span>
+						<span>⭐ 86108</span>
 						<span>🔱 8427</span>
 					</div>
 				<div class="stars-today">⭐ 2027 stars this week</div>
@@ -126,156 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
     
 
 
       
-        elastic /
+        HKUDS /
 
-      elasticsearch</a></p>
+      RAG-Anything</a></p>
 				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 74882</span>
-						<span>🔱 25519</span>
-					</div>
-				<div class="stars-today">⭐ 1026 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 49052</span>
-						<span>🔱 2130</span>
-					</div>
-				<div class="stars-today">⭐ 1077 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/AI-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      AI-For-Beginners</a></p>
-				<p>
-      12 Weeks, 24 Lessons, AI for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 42782</span>
-						<span>🔱 8275</span>
-					</div>
-				<div class="stars-today">⭐ 748 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
-    
-
-
-      
-        WECENG /
-
-      ticket-purchase</a></p>
-				<p>
-      大麦自动抢票，支持人员、城市、日期场次、价格选择
+      "RAG-Anything: All-in-One RAG Framework"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3737</span>
-						<span>🔱 498</span>
+						<span>⭐ 7640</span>
+						<span>🔱 861</span>
 					</div>
-				<div class="stars-today">⭐ 632 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
-    
-
-
-      
-        oauth2-proxy /
-
-      oauth2-proxy</a></p>
-				<p>
-      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12626</span>
-						<span>🔱 1837</span>
-					</div>
-				<div class="stars-today">⭐ 407 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 338902</span>
-						<span>🔱 42996</span>
-					</div>
-				<div class="stars-today">⭐ 1546 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
-    
-
-
-      
-        LazyVim /
-
-      LazyVim</a></p>
-				<p>
-      Neovim config for the lazy
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 23193</span>
-						<span>🔱 1633</span>
-					</div>
-				<div class="stars-today">⭐ 299 stars this week</div>
+				<div class="stars-today">⭐ 2300 stars this week</div>
 				</div>
 			</div>
 	
@@ -302,90 +170,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
+				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
     
 
 
       
-        HKUDS /
+        oauth2-proxy /
 
-      RAG-Anything</a></p>
+      oauth2-proxy</a></p>
 				<p>
-      "RAG-Anything: All-in-One RAG Framework"
+      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7629</span>
-						<span>🔱 860</span>
+						<span>🔠 Go</span>
+						<span>⭐ 12634</span>
+						<span>🔱 1837</span>
 					</div>
-				<div class="stars-today">⭐ 2300 stars this week</div>
+				<div class="stars-today">⭐ 407 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
     
 
 
       
-        basecamp /
+        elastic /
 
-      omarchy</a></p>
+      elasticsearch</a></p>
 				<p>
-      Opinionated Arch/Hyprland Setup
+      Free and Open Source, Distributed, RESTful Search Engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 11927</span>
-						<span>🔱 1125</span>
+						<span>🔠 Java</span>
+						<span>⭐ 74885</span>
+						<span>🔱 25519</span>
 					</div>
-				<div class="stars-today">⭐ 2587 stars this week</div>
+				<div class="stars-today">⭐ 1026 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
     
 
 
       
-        fmtlib /
+        kamranahmedse /
 
-      fmt</a></p>
+      developer-roadmap</a></p>
 				<p>
-      A modern formatting library
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 338925</span>
+						<span>🔱 42999</span>
+					</div>
+				<div class="stars-today">⭐ 1546 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 22659</span>
-						<span>🔱 2732</span>
+						<span>⭐ 49056</span>
+						<span>🔱 2130</span>
 					</div>
-				<div class="stars-today">⭐ 139 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenZeppelin/openzeppelin-contracts" target="_blank">
-    
-
-
-      
-        OpenZeppelin /
-
-      openzeppelin-contracts</a></p>
-				<p>
-      OpenZeppelin Contracts is a library for secure smart contract development.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Solidity</span>
-						<span>⭐ 26533</span>
-						<span>🔱 12211</span>
-					</div>
-				<div class="stars-today">⭐ 187 stars this week</div>
+				<div class="stars-today">⭐ 1077 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 209589</span>
+						<span>⭐ 209596</span>
 						<span>🔱 48227</span>
 					</div>
 				<div class="stars-today">⭐ 1630 stars this week</div>
@@ -412,68 +280,222 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/knownsec/aipyapp" target="_blank">
+				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
     
 
 
       
-        knownsec /
+        Gar-b-age /
 
-      aipyapp</a></p>
+      CookLikeHOC</a></p>
 				<p>
-      AI-Powered Python & Python-Powered AI (Python-Use)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2511</span>
-						<span>🔱 212</span>
-					</div>
-				<div class="stars-today">⭐ 208 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42858</span>
-						<span>🔱 6113</span>
-					</div>
-				<div class="stars-today">⭐ 1241 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
-    
-
-
-      
-        WebGoat /
-
-      WebGoat</a></p>
-				<p>
-      WebGoat is a deliberately insecure application
+      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8465</span>
-						<span>🔱 6756</span>
+						<span>⭐ 19845</span>
+						<span>🔱 1970</span>
 					</div>
-				<div class="stars-today">⭐ 277 stars this week</div>
+				<div class="stars-today">⭐ 6456 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Opinionated Arch/Hyprland Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 11940</span>
+						<span>🔱 1125</span>
+					</div>
+				<div class="stars-today">⭐ 2587 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 366952</span>
+						<span>🔱 38606</span>
+					</div>
+				<div class="stars-today">⭐ 1229 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+    
+
+
+      
+        LazyVim /
+
+      LazyVim</a></p>
+				<p>
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 23195</span>
+						<span>🔱 1633</span>
+					</div>
+				<div class="stars-today">⭐ 299 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+    
+
+
+      
+        yt-dlp /
+
+      yt-dlp</a></p>
+				<p>
+      A feature-rich command-line audio/video downloader
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 129029</span>
+						<span>🔱 10340</span>
+					</div>
+				<div class="stars-today">⭐ 1804 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+    
+
+
+      
+        dataease /
+
+      SQLBot</a></p>
+				<p>
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3491</span>
+						<span>🔱 344</span>
+					</div>
+				<div class="stars-today">⭐ 765 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57835</span>
+						<span>🔱 10270</span>
+					</div>
+				<div class="stars-today">⭐ 1765 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx</a></p>
+				<p>
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14949</span>
+						<span>🔱 2008</span>
+					</div>
+				<div class="stars-today">⭐ 1292 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/directus/directus" target="_blank">
+    
+
+
+      
+        directus /
+
+      directus</a></p>
+				<p>
+      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32692</span>
+						<span>🔱 4403</span>
+					</div>
+				<div class="stars-today">⭐ 323 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ollama/ollama-python" target="_blank">
+    
+
+
+      
+        ollama /
+
+      ollama-python</a></p>
+				<p>
+      Ollama Python library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8564</span>
+						<span>🔱 827</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars this week</div>
 				</div>
 			</div>
 	
