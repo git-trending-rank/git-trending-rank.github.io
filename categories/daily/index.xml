@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 01 Oct 2025 09:59:08 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Oct 2025 11:58:38 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-10-01</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-10-01/</link>
-        <pubDate>Wed, 01 Oct 2025 09:59:08 +0000</pubDate>
+        <pubDate>Wed, 01 Oct 2025 11:58:38 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-10-01/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,182 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 44191&lt;/span&gt;
-						&lt;span&gt;🔱 6233&lt;/span&gt;
+						&lt;span&gt;⭐ 44322&lt;/span&gt;
+						&lt;span&gt;🔱 6246&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2099 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nextcloud/server&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        nextcloud /
-
-      server&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      ☁️ Nextcloud server, a safe home for all your data
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 PHP&lt;/span&gt;
-						&lt;span&gt;⭐ 31511&lt;/span&gt;
-						&lt;span&gt;🔱 4476&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/typst/typst&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        typst /
-
-      typst&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A new markup-based typesetting system that is powerful and easy to learn.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 46422&lt;/span&gt;
-						&lt;span&gt;🔱 1253&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/fastapi/fastapi&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        fastapi /
-
-      fastapi&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      FastAPI framework, high performance, easy to learn, fast to code, ready for production
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 90252&lt;/span&gt;
-						&lt;span&gt;🔱 7985&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 72 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/commaai/openpilot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        commaai /
-
-      openpilot&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 57977&lt;/span&gt;
-						&lt;span&gt;🔱 10279&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 663 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/DevCaress/guia-entrevistas-de-programacion&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        DevCaress /
-
-      guia-entrevistas-de-programacion&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 6073&lt;/span&gt;
-						&lt;span&gt;🔱 838&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 84 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-agent-sdk-python&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-agent-sdk-python&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1610&lt;/span&gt;
-						&lt;span&gt;🔱 216&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 178 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/juliangarnier/anime&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        juliangarnier /
-
-      anime&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      JavaScript animation engine
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 64452&lt;/span&gt;
-						&lt;span&gt;🔱 4310&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 157 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/kamranahmedse/developer-roadmap&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 339161&lt;/span&gt;
-						&lt;span&gt;🔱 43010&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 483 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1355 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -227,164 +55,96 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 4565&lt;/span&gt;
-						&lt;span&gt;🔱 226&lt;/span&gt;
+						&lt;span&gt;⭐ 4575&lt;/span&gt;
+						&lt;span&gt;🔱 227&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 488 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 156 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      12 Lessons to Get Started Building AI Agents
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 41262&lt;/span&gt;
-						&lt;span&gt;🔱 13360&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 480 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rasbt/LLMs-from-scratch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        rasbt /
-
-      LLMs-from-scratch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 74049&lt;/span&gt;
-						&lt;span&gt;🔱 10767&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 196 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-agent-sdk-python&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
         anthropics /
 
-      claude-code&lt;/a&gt;&lt;/p&gt;
+      claude-agent-sdk-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 1644&lt;/span&gt;
+						&lt;span&gt;🔱 218&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 299 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lobehub/lobe-chat&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lobehub /
+
+      lobe-chat&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 35049&lt;/span&gt;
-						&lt;span&gt;🔱 2167&lt;/span&gt;
+						&lt;span&gt;⭐ 66152&lt;/span&gt;
+						&lt;span&gt;🔱 13724&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 298 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 69 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bregman-arie/devops-exercises&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nextcloud/server&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        bregman-arie /
+        nextcloud /
 
-      devops-exercises&lt;/a&gt;&lt;/p&gt;
+      server&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      ☁️ Nextcloud server, a safe home for all your data
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 78895&lt;/span&gt;
-						&lt;span&gt;🔱 17811&lt;/span&gt;
+						&lt;span&gt;🔠 PHP&lt;/span&gt;
+						&lt;span&gt;⭐ 31565&lt;/span&gt;
+						&lt;span&gt;🔱 4480&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 56 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 653 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/github/awesome-copilot&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Shubhamsaboo /
+        github /
 
-      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
+      awesome-copilot&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 70960&lt;/span&gt;
-						&lt;span&gt;🔱 9087&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 8544&lt;/span&gt;
+						&lt;span&gt;🔱 982&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 138 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Byaidu/PDFMathTranslate&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 28224&lt;/span&gt;
-						&lt;span&gt;🔱 2485&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 131 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/cjpais/Handy&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        cjpais /
-
-      Handy&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1236&lt;/span&gt;
-						&lt;span&gt;🔱 76&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 67 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 91 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -403,10 +163,186 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Objective-C&lt;/span&gt;
-						&lt;span&gt;⭐ 25626&lt;/span&gt;
-						&lt;span&gt;🔱 5993&lt;/span&gt;
+						&lt;span&gt;⭐ 25633&lt;/span&gt;
+						&lt;span&gt;🔱 5994&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 77 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mlabonne/llm-course&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mlabonne /
+
+      llm-course&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 63863&lt;/span&gt;
+						&lt;span&gt;🔱 7063&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 546 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/aquasecurity/trivy&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        aquasecurity /
+
+      trivy&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 29130&lt;/span&gt;
+						&lt;span&gt;🔱 2759&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 24 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lukas-blecher/LaTeX-OCR&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lukas-blecher /
+
+      LaTeX-OCR&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      pix2tex: Using a ViT to convert images of equations into LaTeX code.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 15363&lt;/span&gt;
+						&lt;span&gt;🔱 1242&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PHPMailer/PHPMailer&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        PHPMailer /
+
+      PHPMailer&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The classic email sending library for PHP
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 PHP&lt;/span&gt;
+						&lt;span&gt;⭐ 21741&lt;/span&gt;
+						&lt;span&gt;🔱 9868&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/commaai/openpilot&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        commaai /
+
+      openpilot&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 57998&lt;/span&gt;
+						&lt;span&gt;🔱 10278&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 166 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      12 Lessons to Get Started Building AI Agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 41280&lt;/span&gt;
+						&lt;span&gt;🔱 13369&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 267 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/YILING0013/AI_NovelGenerator&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        YILING0013 /
+
+      AI_NovelGenerator&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 2089&lt;/span&gt;
+						&lt;span&gt;🔱 432&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 115 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 89104&lt;/span&gt;
+						&lt;span&gt;🔱 24325&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 318 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

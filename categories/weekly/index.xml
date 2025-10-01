@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 01 Oct 2025 09:59:08 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 01 Oct 2025 11:58:38 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第40周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC40%E5%91%A8/</link>
-        <pubDate>Wed, 01 Oct 2025 09:59:08 +0000</pubDate>
+        <pubDate>Wed, 01 Oct 2025 11:58:38 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC40%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,28 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/humanlayer/humanlayer&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        humanlayer /
-
-      humanlayer&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5229&lt;/span&gt;
-						&lt;span&gt;🔱 394&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2557 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/harry0703/MoneyPrinterTurbo&#34; target=&#34;_blank&#34;&gt;
@@ -55,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 44191&lt;/span&gt;
-						&lt;span&gt;🔱 6233&lt;/span&gt;
+						&lt;span&gt;⭐ 44322&lt;/span&gt;
+						&lt;span&gt;🔱 6246&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3267 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/humanlayer/humanlayer&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        humanlayer /
+
+      humanlayer&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5232&lt;/span&gt;
+						&lt;span&gt;🔱 394&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2557 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,10 +77,74 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7204&lt;/span&gt;
+						&lt;span&gt;⭐ 7209&lt;/span&gt;
 						&lt;span&gt;🔱 580&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1331 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TanStack/router&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        TanStack /
+
+      router&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11490&lt;/span&gt;
+						&lt;span&gt;🔱 1245&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 332 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/oauth2-proxy/oauth2-proxy&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        oauth2-proxy /
+
+      oauth2-proxy&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 12675&lt;/span&gt;
+						&lt;span&gt;🔱 1844&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 598 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-agent-sdk-python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 1644&lt;/span&gt;
+						&lt;span&gt;🔱 218&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 523 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,10 +163,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1813&lt;/span&gt;
+						&lt;span&gt;⭐ 1815&lt;/span&gt;
 						&lt;span&gt;🔱 286&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 738 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cloudflare/capnweb&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cloudflare /
+
+      capnweb&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2815&lt;/span&gt;
+						&lt;span&gt;🔱 86&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1432 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen3-VL&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 13494&lt;/span&gt;
+						&lt;span&gt;🔱 1026&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 913 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -129,94 +237,6 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/RAG-Anything&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        HKUDS /
-
-      RAG-Anything&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      &#34;RAG-Anything: All-in-One RAG Framework&#34;
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7771&lt;/span&gt;
-						&lt;span&gt;🔱 879&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2393 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TanStack/router&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        TanStack /
-
-      router&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11487&lt;/span&gt;
-						&lt;span&gt;🔱 1245&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 332 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/oauth2-proxy/oauth2-proxy&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        oauth2-proxy /
-
-      oauth2-proxy&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 12672&lt;/span&gt;
-						&lt;span&gt;🔱 1844&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 598 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/elastic/elasticsearch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        elastic /
-
-      elasticsearch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Free and Open Source, Distributed, RESTful Search Engine
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 74905&lt;/span&gt;
-						&lt;span&gt;🔱 25520&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 876 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/kamranahmedse/developer-roadmap&#34; target=&#34;_blank&#34;&gt;
     
 
@@ -231,32 +251,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 339161&lt;/span&gt;
-						&lt;span&gt;🔱 43010&lt;/span&gt;
+						&lt;span&gt;⭐ 339176&lt;/span&gt;
+						&lt;span&gt;🔱 43014&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1860 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Truly independent web browser
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 49119&lt;/span&gt;
-						&lt;span&gt;🔱 2136&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 852 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,98 +273,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 209673&lt;/span&gt;
-						&lt;span&gt;🔱 48255&lt;/span&gt;
+						&lt;span&gt;⭐ 209679&lt;/span&gt;
+						&lt;span&gt;🔱 48261&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1668 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Gar-b-age/CookLikeHOC&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/RAG-Anything&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Gar-b-age /
+        HKUDS /
 
-      CookLikeHOC&lt;/a&gt;&lt;/p&gt;
+      RAG-Anything&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 19931&lt;/span&gt;
-						&lt;span&gt;🔱 1977&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3003 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/basecamp/omarchy&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        basecamp /
-
-      omarchy&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Opinionated Arch/Hyprland Setup
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 12060&lt;/span&gt;
-						&lt;span&gt;🔱 1142&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2505 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/public-apis/public-apis&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        public-apis /
-
-      public-apis&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A collective list of free APIs
+      &#34;RAG-Anything: All-in-One RAG Framework&#34;
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 367069&lt;/span&gt;
-						&lt;span&gt;🔱 38632&lt;/span&gt;
+						&lt;span&gt;⭐ 7779&lt;/span&gt;
+						&lt;span&gt;🔱 881&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1150 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2393 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LazyVim/LazyVim&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Done-0/fuck-u-code&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        LazyVim /
+        Done-0 /
 
-      LazyVim&lt;/a&gt;&lt;/p&gt;
+      fuck-u-code&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Neovim config for the lazy
+      Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Lua&lt;/span&gt;
-						&lt;span&gt;⭐ 23221&lt;/span&gt;
-						&lt;span&gt;🔱 1634&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 4575&lt;/span&gt;
+						&lt;span&gt;🔱 227&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 304 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 781 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nextcloud/server&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nextcloud /
+
+      server&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ☁️ Nextcloud server, a safe home for all your data
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 PHP&lt;/span&gt;
+						&lt;span&gt;⭐ 31565&lt;/span&gt;
+						&lt;span&gt;🔱 4480&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 293 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -385,54 +361,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 129143&lt;/span&gt;
-						&lt;span&gt;🔱 10345&lt;/span&gt;
+						&lt;span&gt;⭐ 129155&lt;/span&gt;
+						&lt;span&gt;🔱 10347&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1828 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dataease/SQLBot&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/basecamp/omarchy&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        dataease /
+        basecamp /
 
-      SQLBot&lt;/a&gt;&lt;/p&gt;
+      omarchy&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+      Opinionated Arch/Hyprland Setup
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3509&lt;/span&gt;
-						&lt;span&gt;🔱 344&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 12073&lt;/span&gt;
+						&lt;span&gt;🔱 1144&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 733 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/commaai/openpilot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        commaai /
-
-      openpilot&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 57977&lt;/span&gt;
-						&lt;span&gt;🔱 10279&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1794 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2505 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -451,7 +405,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15011&lt;/span&gt;
+						&lt;span&gt;⭐ 15014&lt;/span&gt;
 						&lt;span&gt;🔱 2013&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1457 stars this week&lt;/div&gt;
@@ -459,46 +413,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/directus/directus&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zama-ai/fhevm&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        directus /
+        zama-ai /
 
-      directus&lt;/a&gt;&lt;/p&gt;
+      fhevm&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth &amp; more.
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32735&lt;/span&gt;
-						&lt;span&gt;🔱 4401&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 21671&lt;/span&gt;
+						&lt;span&gt;🔱 931&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 334 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1178 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ollama/ollama-python&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/elastic/elasticsearch&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ollama /
+        elastic /
 
-      ollama-python&lt;/a&gt;&lt;/p&gt;
+      elasticsearch&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Ollama Python library
+      Free and Open Source, Distributed, RESTful Search Engine
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8585&lt;/span&gt;
-						&lt;span&gt;🔱 828&lt;/span&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 74903&lt;/span&gt;
+						&lt;span&gt;🔱 25522&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 92 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 876 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
