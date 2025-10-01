@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-01
-date: 2025-10-01T09:59:08Z
+date: 2025-10-01T11:58:38Z
 categories:
 - daily
 keywords:
@@ -30,182 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44191</span>
-						<span>🔱 6233</span>
+						<span>⭐ 44322</span>
+						<span>🔱 6246</span>
 					</div>
-				<div class="stars-today">⭐ 2099 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/server" target="_blank">
-    
-
-
-      
-        nextcloud /
-
-      server</a></p>
-				<p>
-      ☁️ Nextcloud server, a safe home for all your data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 31511</span>
-						<span>🔱 4476</span>
-					</div>
-				<div class="stars-today">⭐ 11 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/typst/typst" target="_blank">
-    
-
-
-      
-        typst /
-
-      typst</a></p>
-				<p>
-      A new markup-based typesetting system that is powerful and easy to learn.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 46422</span>
-						<span>🔱 1253</span>
-					</div>
-				<div class="stars-today">⭐ 64 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fastapi/fastapi" target="_blank">
-    
-
-
-      
-        fastapi /
-
-      fastapi</a></p>
-				<p>
-      FastAPI framework, high performance, easy to learn, fast to code, ready for production
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 90252</span>
-						<span>🔱 7985</span>
-					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
-    
-
-
-      
-        commaai /
-
-      openpilot</a></p>
-				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57977</span>
-						<span>🔱 10279</span>
-					</div>
-				<div class="stars-today">⭐ 663 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DevCaress/guia-entrevistas-de-programacion" target="_blank">
-    
-
-
-      
-        DevCaress /
-
-      guia-entrevistas-de-programacion</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 6073</span>
-						<span>🔱 838</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-agent-sdk-python</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1610</span>
-						<span>🔱 216</span>
-					</div>
-				<div class="stars-today">⭐ 178 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juliangarnier/anime" target="_blank">
-    
-
-
-      
-        juliangarnier /
-
-      anime</a></p>
-				<p>
-      JavaScript animation engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 64452</span>
-						<span>🔱 4310</span>
-					</div>
-				<div class="stars-today">⭐ 157 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 339161</span>
-						<span>🔱 43010</span>
-					</div>
-				<div class="stars-today">⭐ 483 stars today</div>
+				<div class="stars-today">⭐ 1355 stars today</div>
 				</div>
 			</div>
 	
@@ -224,164 +52,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4565</span>
-						<span>🔱 226</span>
+						<span>⭐ 4575</span>
+						<span>🔱 227</span>
 					</div>
-				<div class="stars-today">⭐ 488 stars today</div>
+				<div class="stars-today">⭐ 156 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      12 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 41262</span>
-						<span>🔱 13360</span>
-					</div>
-				<div class="stars-today">⭐ 480 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
-    
-
-
-      
-        rasbt /
-
-      LLMs-from-scratch</a></p>
-				<p>
-      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 74049</span>
-						<span>🔱 10767</span>
-					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
     
 
 
       
         anthropics /
 
-      claude-code</a></p>
+      claude-agent-sdk-python</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1644</span>
+						<span>🔱 218</span>
+					</div>
+				<div class="stars-today">⭐ 299 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lobehub/lobe-chat" target="_blank">
+    
+
+
+      
+        lobehub /
+
+      lobe-chat</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35049</span>
-						<span>🔱 2167</span>
+						<span>⭐ 66152</span>
+						<span>🔱 13724</span>
 					</div>
-				<div class="stars-today">⭐ 298 stars today</div>
+				<div class="stars-today">⭐ 69 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bregman-arie/devops-exercises" target="_blank">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
     
 
 
       
-        bregman-arie /
+        nextcloud /
 
-      devops-exercises</a></p>
+      server</a></p>
 				<p>
-      Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+      ☁️ Nextcloud server, a safe home for all your data
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 78895</span>
-						<span>🔱 17811</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 31565</span>
+						<span>🔱 4480</span>
 					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
+				<div class="stars-today">⭐ 653 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/github/awesome-copilot" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        github /
 
-      awesome-llm-apps</a></p>
+      awesome-copilot</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70960</span>
-						<span>🔱 9087</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8544</span>
+						<span>🔱 982</span>
 					</div>
-				<div class="stars-today">⭐ 138 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Byaidu/PDFMathTranslate" target="_blank">
-    
-
-
-      
-        Byaidu /
-
-      PDFMathTranslate</a></p>
-				<p>
-      PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28224</span>
-						<span>🔱 2485</span>
-					</div>
-				<div class="stars-today">⭐ 131 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1236</span>
-						<span>🔱 76</span>
-					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
+				<div class="stars-today">⭐ 91 stars today</div>
 				</div>
 			</div>
 	
@@ -400,10 +160,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Objective-C</span>
-						<span>⭐ 25626</span>
-						<span>🔱 5993</span>
+						<span>⭐ 25633</span>
+						<span>🔱 5994</span>
 					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
+				<div class="stars-today">⭐ 77 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 63863</span>
+						<span>🔱 7063</span>
+					</div>
+				<div class="stars-today">⭐ 546 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 29130</span>
+						<span>🔱 2759</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lukas-blecher/LaTeX-OCR" target="_blank">
+    
+
+
+      
+        lukas-blecher /
+
+      LaTeX-OCR</a></p>
+				<p>
+      pix2tex: Using a ViT to convert images of equations into LaTeX code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15363</span>
+						<span>🔱 1242</span>
+					</div>
+				<div class="stars-today">⭐ 10 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PHPMailer/PHPMailer" target="_blank">
+    
+
+
+      
+        PHPMailer /
+
+      PHPMailer</a></p>
+				<p>
+      The classic email sending library for PHP
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 21741</span>
+						<span>🔱 9868</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57998</span>
+						<span>🔱 10278</span>
+					</div>
+				<div class="stars-today">⭐ 166 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ai-agents-for-beginners</a></p>
+				<p>
+      12 Lessons to Get Started Building AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 41280</span>
+						<span>🔱 13369</span>
+					</div>
+				<div class="stars-today">⭐ 267 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YILING0013/AI_NovelGenerator" target="_blank">
+    
+
+
+      
+        YILING0013 /
+
+      AI_NovelGenerator</a></p>
+				<p>
+      使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2089</span>
+						<span>🔱 432</span>
+					</div>
+				<div class="stars-today">⭐ 115 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools</a></p>
+				<p>
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 89104</span>
+						<span>🔱 24325</span>
+					</div>
+				<div class="stars-today">⭐ 318 stars today</div>
 				</div>
 			</div>
 	
