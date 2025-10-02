@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-02
-date: 2025-10-02T09:58:40Z
+date: 2025-10-02T11:58:38Z
 categories:
 - daily
 keywords:
@@ -14,114 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45364</span>
-						<span>🔱 6347</span>
-					</div>
-				<div class="stars-today">⭐ 1355 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
-    
-
-
-      
-        tile-ai /
-
-      tilelang</a></p>
-				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 2961</span>
-						<span>🔱 217</span>
-					</div>
-				<div class="stars-today">⭐ 407 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Done-0/fuck-u-code" target="_blank">
-    
-
-
-      
-        Done-0 /
-
-      fuck-u-code</a></p>
-				<p>
-      Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4751</span>
-						<span>🔱 235</span>
-					</div>
-				<div class="stars-today">⭐ 156 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-agent-sdk-python</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1884</span>
-						<span>🔱 242</span>
-					</div>
-				<div class="stars-today">⭐ 298 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lobehub/lobe-chat" target="_blank">
-    
-
-
-      
-        lobehub /
-
-      lobe-chat</a></p>
-				<p>
-      🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 66378</span>
-						<span>🔱 13742</span>
-					</div>
-				<div class="stars-today">⭐ 85 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/nextcloud/server" target="_blank">
@@ -138,32 +30,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 31733</span>
-						<span>🔱 4490</span>
+						<span>⭐ 31797</span>
+						<span>🔱 4496</span>
 					</div>
-				<div class="stars-today">⭐ 653 stars today</div>
+				<div class="stars-today">⭐ 219 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/awesome-copilot" target="_blank">
+				<p><a href="https://github.com/google/tunix" target="_blank">
     
 
 
       
-        github /
+        google /
 
-      awesome-copilot</a></p>
+      tunix</a></p>
 				<p>
-      Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+      A JAX-native LLM Post-Training Library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8869</span>
-						<span>🔱 1002</span>
+						<span>🔠 Python</span>
+						<span>⭐ 451</span>
+						<span>🔱 54</span>
 					</div>
-				<div class="stars-today">⭐ 135 stars today</div>
+				<div class="stars-today">⭐ 117 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
+    
+
+
+      
+        pathwaycom /
+
+      pathway</a></p>
+				<p>
+      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43881</span>
+						<span>🔱 1337</span>
+					</div>
+				<div class="stars-today">⭐ 95 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1348</span>
+						<span>🔱 79</span>
+					</div>
+				<div class="stars-today">⭐ 89 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1901</span>
+						<span>🔱 246</span>
+					</div>
+				<div class="stars-today">⭐ 268 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/atuinsh/desktop" target="_blank">
+    
+
+
+      
+        atuinsh /
+
+      desktop</a></p>
+				<p>
+      📖 Runbooks that run 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 754</span>
+						<span>🔱 22</span>
+					</div>
+				<div class="stars-today">⭐ 221 stars today</div>
 				</div>
 			</div>
 	
@@ -182,186 +160,318 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Objective-C</span>
-						<span>⭐ 25676</span>
-						<span>🔱 5995</span>
+						<span>⭐ 25680</span>
+						<span>🔱 5996</span>
 					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
+				<div class="stars-today">⭐ 54 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
     
 
 
       
-        mlabonne /
+        Lightricks /
 
-      llm-course</a></p>
+      LTX-Video</a></p>
 				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 64120</span>
-						<span>🔱 7089</span>
-					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 29239</span>
-						<span>🔱 2761</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lukas-blecher/LaTeX-OCR" target="_blank">
-    
-
-
-      
-        lukas-blecher /
-
-      LaTeX-OCR</a></p>
-				<p>
-      pix2tex: Using a ViT to convert images of equations into LaTeX code.
+      Official repository for LTX-Video
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15583</span>
-						<span>🔱 1246</span>
+						<span>⭐ 8152</span>
+						<span>🔱 729</span>
 					</div>
-				<div class="stars-today">⭐ 34 stars today</div>
+				<div class="stars-today">⭐ 7 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PHPMailer/PHPMailer" target="_blank">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
     
 
 
       
-        PHPMailer /
+        juspay /
 
-      PHPMailer</a></p>
+      hyperswitch</a></p>
 				<p>
-      The classic email sending library for PHP
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 21828</span>
-						<span>🔱 9870</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 34719</span>
+						<span>🔱 4241</span>
 					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
+				<div class="stars-today">⭐ 576 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+				<p><a href="https://github.com/immich-app/immich" target="_blank">
     
 
 
       
-        commaai /
+        immich-app /
 
-      openpilot</a></p>
+      immich</a></p>
 				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+      High performance self-hosted photo and video management solution.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58159</span>
-						<span>🔱 10282</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 78478</span>
+						<span>🔱 4137</span>
 					</div>
-				<div class="stars-today">⭐ 165 stars today</div>
+				<div class="stars-today">⭐ 389 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
     
 
 
       
-        microsoft /
+        chiphuyen /
 
-      ai-agents-for-beginners</a></p>
+      aie-book</a></p>
 				<p>
-      12 Lessons to Get Started Building AI Agents
+      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 41548</span>
-						<span>🔱 13430</span>
+						<span>⭐ 9738</span>
+						<span>🔱 1341</span>
 					</div>
-				<div class="stars-today">⭐ 268 stars today</div>
+				<div class="stars-today">⭐ 265 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/YILING0013/AI_NovelGenerator" target="_blank">
+				<p><a href="https://github.com/actions/runner-images" target="_blank">
     
 
 
       
-        YILING0013 /
+        actions /
 
-      AI_NovelGenerator</a></p>
+      runner-images</a></p>
 				<p>
-      使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
+      GitHub Actions runner images
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 11947</span>
+						<span>🔱 3517</span>
+					</div>
+				<div class="stars-today">⭐ 14 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2290</span>
-						<span>🔱 452</span>
+						<span>⭐ 45412</span>
+						<span>🔱 6352</span>
 					</div>
-				<div class="stars-today">⭐ 131 stars today</div>
+				<div class="stars-today">⭐ 1176 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        x1xhlol /
+        simstudioai /
 
-      system-prompts-and-models-of-ai-tools</a></p>
+      sim</a></p>
 				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15972</span>
+						<span>🔱 2031</span>
+					</div>
+				<div class="stars-today">⭐ 229 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MudBlazor/MudBlazor" target="_blank">
+    
+
+
+      
+        MudBlazor /
+
+      MudBlazor</a></p>
+				<p>
+      Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 9542</span>
+						<span>🔱 1518</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN</a></p>
+				<p>
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7625</span>
+						<span>🔱 1875</span>
+					</div>
+				<div class="stars-today">⭐ 255 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/quarkusio/quarkus" target="_blank">
+    
+
+
+      
+        quarkusio /
+
+      quarkus</a></p>
+				<p>
+      Quarkus: Supersonic Subatomic Java. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 15021</span>
+						<span>🔱 2967</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35181</span>
+						<span>🔱 2179</span>
+					</div>
+				<div class="stars-today">⭐ 116 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/enescingoz/awesome-n8n-templates" target="_blank">
+    
+
+
+      
+        enescingoz /
+
+      awesome-n8n-templates</a></p>
+				<p>
+      Supercharge your workflow automation with this curated collection of n8n templates! Instantly connect your favorite apps-like Gmail, Telegram, Google Drive, Slack, and more-with ready-to-use, AI-powered automations. Save time, boost productivity, and unlock the true potential of n8n in just a few clicks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 89356</span>
-						<span>🔱 24370</span>
+						<span>⭐ 12796</span>
+						<span>🔱 3779</span>
 					</div>
-				<div class="stars-today">⭐ 261 stars today</div>
+				<div class="stars-today">⭐ 103 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+    
+
+
+      
+        kestra-io /
+
+      kestra</a></p>
+				<p>
+      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 21407</span>
+						<span>🔱 1904</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tigerbeetle/tigerbeetle" target="_blank">
+    
+
+
+      
+        tigerbeetle /
+
+      tigerbeetle</a></p>
+				<p>
+      The financial transactions database designed for mission critical safety and performance.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 13623</span>
+						<span>🔱 671</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
 			</div>
 	

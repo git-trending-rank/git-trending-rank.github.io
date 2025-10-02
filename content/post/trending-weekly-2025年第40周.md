@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第40周
-date: 2025-10-02T09:58:41Z
+date: 2025-10-02T11:58:38Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45364</span>
-						<span>🔱 6347</span>
+						<span>⭐ 45412</span>
+						<span>🔱 6352</span>
 					</div>
 				<div class="stars-today">⭐ 4600 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1901</span>
+						<span>🔱 246</span>
+					</div>
+				<div class="stars-today">⭐ 592 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,32 +72,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5332</span>
-						<span>🔱 402</span>
+						<span>⭐ 5342</span>
+						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 2590 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/Dolphin" target="_blank">
+				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
     
 
 
       
-        bytedance /
+        ZuodaoTech /
 
-      Dolphin</a></p>
+      everyone-can-use-english</a></p>
 				<p>
-      The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025.
+      人人都能用英语
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30929</span>
+						<span>🔱 4406</span>
+					</div>
+				<div class="stars-today">⭐ 2118 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+    
+
+
+      
+        tile-ai /
+
+      tilelang</a></p>
+				<p>
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 2993</span>
+						<span>🔱 219</span>
+					</div>
+				<div class="stars-today">⭐ 1238 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
+    
+
+
+      
+        oauth2-proxy /
+
+      oauth2-proxy</a></p>
+				<p>
+      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 12717</span>
+						<span>🔱 1845</span>
+					</div>
+				<div class="stars-today">⭐ 631 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
+    
+
+
+      
+        nextcloud /
+
+      server</a></p>
+				<p>
+      ☁️ Nextcloud server, a safe home for all your data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 31797</span>
+						<span>🔱 4496</span>
+					</div>
+				<div class="stars-today">⭐ 759 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      RAG-Anything</a></p>
+				<p>
+      "RAG-Anything: All-in-One RAG Framework"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7246</span>
-						<span>🔱 580</span>
+						<span>⭐ 7874</span>
+						<span>🔱 892</span>
 					</div>
-				<div class="stars-today">⭐ 929 stars this week</div>
+				<div class="stars-today">⭐ 2393 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Done-0/fuck-u-code" target="_blank">
+    
+
+
+      
+        Done-0 /
+
+      fuck-u-code</a></p>
+				<p>
+      Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4765</span>
+						<span>🔱 236</span>
+					</div>
+				<div class="stars-today">⭐ 917 stars this week</div>
 				</div>
 			</div>
 	
@@ -104,70 +234,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
-    
-
-
-      
-        oauth2-proxy /
-
-      oauth2-proxy</a></p>
-				<p>
-      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12714</span>
-						<span>🔱 1845</span>
-					</div>
-				<div class="stars-today">⭐ 631 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-agent-sdk-python</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1884</span>
-						<span>🔱 242</span>
-					</div>
-				<div class="stars-today">⭐ 592 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
-    
-
-
-      
-        coinbase /
-
-      x402</a></p>
-				<p>
-      A payments protocol for the internet. Built on HTTP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1851</span>
-						<span>🔱 289</span>
-					</div>
-				<div class="stars-today">⭐ 643 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/cloudflare/capnweb" target="_blank">
     
 
@@ -182,230 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2843</span>
+						<span>⭐ 2844</span>
 						<span>🔱 86</span>
 					</div>
 				<div class="stars-today">⭐ 1409 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13527</span>
-						<span>🔱 1030</span>
-					</div>
-				<div class="stars-today">⭐ 528 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
-    
-
-
-      
-        gin-gonic /
-
-      gin</a></p>
-				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86161</span>
-						<span>🔱 8428</span>
-					</div>
-				<div class="stars-today">⭐ 1552 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
-    
-
-
-      
-        tile-ai /
-
-      tilelang</a></p>
-				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 2961</span>
-						<span>🔱 217</span>
-					</div>
-				<div class="stars-today">⭐ 1238 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 339288</span>
-						<span>🔱 43016</span>
-					</div>
-				<div class="stars-today">⭐ 1973 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 209769</span>
-						<span>🔱 48329</span>
-					</div>
-				<div class="stars-today">⭐ 1390 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      RAG-Anything</a></p>
-				<p>
-      "RAG-Anything: All-in-One RAG Framework"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7866</span>
-						<span>🔱 889</span>
-					</div>
-				<div class="stars-today">⭐ 2393 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Done-0/fuck-u-code" target="_blank">
-    
-
-
-      
-        Done-0 /
-
-      fuck-u-code</a></p>
-				<p>
-      Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4751</span>
-						<span>🔱 235</span>
-					</div>
-				<div class="stars-today">⭐ 917 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/server" target="_blank">
-    
-
-
-      
-        nextcloud /
-
-      server</a></p>
-				<p>
-      ☁️ Nextcloud server, a safe home for all your data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 31733</span>
-						<span>🔱 4490</span>
-					</div>
-				<div class="stars-today">⭐ 759 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
-    
-
-
-      
-        yt-dlp /
-
-      yt-dlp</a></p>
-				<p>
-      A feature-rich command-line audio/video downloader
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 129291</span>
-						<span>🔱 10357</span>
-					</div>
-				<div class="stars-today">⭐ 1796 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 12158</span>
-						<span>🔱 1152</span>
-					</div>
-				<div class="stars-today">⭐ 2481 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15067</span>
+						<span>⭐ 15069</span>
 						<span>🔱 2021</span>
 					</div>
 				<div class="stars-today">⭐ 1502 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 339300</span>
+						<span>🔱 43017</span>
+					</div>
+				<div class="stars-today">⭐ 1973 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+    
+
+
+      
+        gin-gonic /
+
+      gin</a></p>
+				<p>
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 86164</span>
+						<span>🔱 8428</span>
+					</div>
+				<div class="stars-today">⭐ 1552 stars this week</div>
 				</div>
 			</div>
 	
@@ -446,32 +336,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21774</span>
-						<span>🔱 945</span>
+						<span>⭐ 21789</span>
+						<span>🔱 947</span>
 					</div>
 				<div class="stars-today">⭐ 1207 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
     
 
 
       
-        elastic /
+        coinbase /
 
-      elasticsearch</a></p>
+      x402</a></p>
 				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
+      A payments protocol for the internet. Built on HTTP.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 74926</span>
-						<span>🔱 25524</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1854</span>
+						<span>🔱 289</span>
 					</div>
-				<div class="stars-today">⭐ 817 stars this week</div>
+				<div class="stars-today">⭐ 643 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 144262</span>
+						<span>🔱 45828</span>
+					</div>
+				<div class="stars-today">⭐ 3618 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Opinionated Arch/Hyprland Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 12173</span>
+						<span>🔱 1155</span>
+					</div>
+				<div class="stars-today">⭐ 2481 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/directus/directus" target="_blank">
+    
+
+
+      
+        directus /
+
+      directus</a></p>
+				<p>
+      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32740</span>
+						<span>🔱 4400</span>
+					</div>
+				<div class="stars-today">⭐ 360 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+    
+
+
+      
+        yt-dlp /
+
+      yt-dlp</a></p>
+				<p>
+      A feature-rich command-line audio/video downloader
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 129303</span>
+						<span>🔱 10359</span>
+					</div>
+				<div class="stars-today">⭐ 1796 stars this week</div>
 				</div>
 			</div>
 	

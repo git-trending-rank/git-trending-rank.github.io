@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-02T09:58:41Z
+date: 2025-10-02T11:58:38Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67356</span>
+						<span>⭐ 67358</span>
 						<span>🔱 12587</span>
 					</div>
 				<div class="stars-today">⭐ 3937 stars this month</div>
@@ -50,7 +50,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8033</span>
+						<span>⭐ 8035</span>
 						<span>🔱 933</span>
 					</div>
 				<div class="stars-today">⭐ 3610 stars this month</div>
@@ -72,32 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15291</span>
+						<span>⭐ 15296</span>
 						<span>🔱 1121</span>
 					</div>
 				<div class="stars-today">⭐ 9006 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
-    
-
-
-      
-        bytebot-ai /
-
-      bytebot</a></p>
-				<p>
-      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8313</span>
-						<span>🔱 976</span>
-					</div>
-				<div class="stars-today">⭐ 5118 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,76 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5332</span>
-						<span>🔱 402</span>
+						<span>⭐ 5342</span>
+						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 3399 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 45617</span>
-						<span>🔱 5398</span>
-					</div>
-				<div class="stars-today">⭐ 7940 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      registry</a></p>
-				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5365</span>
-						<span>🔱 403</span>
-					</div>
-				<div class="stars-today">⭐ 3248 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
-    
-
-
-      
-        dataease /
-
-      SQLBot</a></p>
-				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3539</span>
-						<span>🔱 347</span>
-					</div>
-				<div class="stars-today">⭐ 2345 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +116,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45364</span>
-						<span>🔱 6347</span>
+						<span>⭐ 45412</span>
+						<span>🔱 6352</span>
 					</div>
 				<div class="stars-today">⭐ 5004 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry</a></p>
+				<p>
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5368</span>
+						<span>🔱 404</span>
+					</div>
+				<div class="stars-today">⭐ 3248 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 45630</span>
+						<span>🔱 5399</span>
+					</div>
+				<div class="stars-today">⭐ 7940 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+    
+
+
+      
+        bytebot-ai /
+
+      bytebot</a></p>
+				<p>
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8317</span>
+						<span>🔱 976</span>
+					</div>
+				<div class="stars-today">⭐ 5118 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+    
+
+
+      
+        dataease /
+
+      SQLBot</a></p>
+				<p>
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3540</span>
+						<span>🔱 347</span>
+					</div>
+				<div class="stars-today">⭐ 2345 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1851</span>
+						<span>⭐ 1854</span>
 						<span>🔱 289</span>
 					</div>
 				<div class="stars-today">⭐ 970 stars this month</div>
@@ -248,76 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21756</span>
+						<span>⭐ 21758</span>
 						<span>🔱 1588</span>
 					</div>
 				<div class="stars-today">⭐ 734 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica</a></p>
-				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26206</span>
-						<span>🔱 2708</span>
-					</div>
-				<div class="stars-today">⭐ 2421 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
-    
-
-
-      
-        gin-gonic /
-
-      gin</a></p>
-				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86161</span>
-						<span>🔱 8428</span>
-					</div>
-				<div class="stars-today">⭐ 2497 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6751</span>
-						<span>🔱 1413</span>
-					</div>
-				<div class="stars-today">⭐ 3045 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57772</span>
+						<span>⭐ 57781</span>
 						<span>🔱 9292</span>
 					</div>
 				<div class="stars-today">⭐ 2884 stars this month</div>
@@ -344,46 +278,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
     
 
 
       
-        firebase /
+        gin-gonic /
 
-      genkit</a></p>
+      gin</a></p>
 				<p>
-      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4251</span>
-						<span>🔱 477</span>
-					</div>
-				<div class="stars-today">⭐ 1475 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
-    
-
-
-      
-        trufflesecurity /
-
-      trufflehog</a></p>
-				<p>
-      Find, verify, and analyze leaked credentials
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 22590</span>
-						<span>🔱 2076</span>
+						<span>⭐ 86164</span>
+						<span>🔱 8428</span>
 					</div>
-				<div class="stars-today">⭐ 2233 stars this month</div>
+				<div class="stars-today">⭐ 2497 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26207</span>
+						<span>🔱 2708</span>
+					</div>
+				<div class="stars-today">⭐ 2421 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      AutoAgent</a></p>
+				<p>
+      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7414</span>
+						<span>🔱 994</span>
+					</div>
+				<div class="stars-today">⭐ 1501 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6758</span>
+						<span>🔱 1413</span>
+					</div>
+				<div class="stars-today">⭐ 3045 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 68110</span>
+						<span>⭐ 68114</span>
 						<span>🔱 5770</span>
 					</div>
 				<div class="stars-today">⭐ 3341 stars this month</div>
@@ -410,24 +388,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
     
 
 
       
-        LazyVim /
+        trufflesecurity /
 
-      LazyVim</a></p>
+      trufflehog</a></p>
 				<p>
-      Neovim config for the lazy
+      Find, verify, and analyze leaked credentials
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 23259</span>
-						<span>🔱 1635</span>
+						<span>🔠 Go</span>
+						<span>⭐ 22593</span>
+						<span>🔱 2076</span>
 					</div>
-				<div class="stars-today">⭐ 1025 stars this month</div>
+				<div class="stars-today">⭐ 2233 stars this month</div>
 				</div>
 			</div>
 	
