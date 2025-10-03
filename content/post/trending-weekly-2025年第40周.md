@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第40周
-date: 2025-10-03T09:58:54Z
+date: 2025-10-03T11:58:38Z
 categories:
 - weekly
 keywords:
@@ -30,74 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45523</span>
+						<span>⭐ 45537</span>
 						<span>🔱 6367</span>
 					</div>
 				<div class="stars-today">⭐ 5504 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-agent-sdk-python</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2048</span>
-						<span>🔱 253</span>
-					</div>
-				<div class="stars-today">⭐ 808 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5428</span>
-						<span>🔱 407</span>
-					</div>
-				<div class="stars-today">⭐ 2575 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
-    
-
-
-      
-        ZuodaoTech /
-
-      everyone-can-use-english</a></p>
-				<p>
-      人人都能用英语
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30957</span>
-						<span>🔱 4416</span>
-					</div>
-				<div class="stars-today">⭐ 1814 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3055</span>
+						<span>⭐ 3063</span>
 						<span>🔱 221</span>
 					</div>
 				<div class="stars-today">⭐ 1352 stars this week</div>
@@ -124,24 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
     
 
 
       
-        oauth2-proxy /
+        humanlayer /
 
-      oauth2-proxy</a></p>
+      humanlayer</a></p>
 				<p>
-      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+      The best way to get AI coding agents to solve hard problems in complex codebases.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12740</span>
-						<span>🔱 1847</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5432</span>
+						<span>🔱 407</span>
 					</div>
-				<div class="stars-today">⭐ 669 stars this week</div>
+				<div class="stars-today">⭐ 2575 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 32503</span>
-						<span>🔱 4538</span>
+						<span>⭐ 32546</span>
+						<span>🔱 4539</span>
 					</div>
 				<div class="stars-today">⭐ 1079 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      RAG-Anything</a></p>
-				<p>
-      "RAG-Anything: All-in-One RAG Framework"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7934</span>
-						<span>🔱 898</span>
-					</div>
-				<div class="stars-today">⭐ 1993 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4803</span>
+						<span>⭐ 4805</span>
 						<span>🔱 237</span>
 					</div>
 				<div class="stars-today">⭐ 1107 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
+    
+
+
+      
+        oauth2-proxy /
+
+      oauth2-proxy</a></p>
+				<p>
+      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 12745</span>
+						<span>🔱 1847</span>
+					</div>
+				<div class="stars-today">⭐ 669 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/imputnet/helium" target="_blank">
+    
+
+
+      
+        imputnet /
+
+      helium</a></p>
+				<p>
+      Private, fast, and honest web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4168</span>
+						<span>🔱 57</span>
+					</div>
+				<div class="stars-today">⭐ 1174 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
+    
+
+
+      
+        ZuodaoTech /
+
+      everyone-can-use-english</a></p>
+				<p>
+      人人都能用英语
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30959</span>
+						<span>🔱 4416</span>
+					</div>
+				<div class="stars-today">⭐ 1814 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11550</span>
-						<span>🔱 1249</span>
+						<span>⭐ 11552</span>
+						<span>🔱 1250</span>
 					</div>
 				<div class="stars-today">⭐ 317 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/capnweb" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      capnweb</a></p>
-				<p>
-      JavaScript/TypeScript-native, low-boilerplate, object-capability RPC system
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2868</span>
-						<span>🔱 87</span>
-					</div>
-				<div class="stars-today">⭐ 493 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15269</span>
-						<span>🔱 2043</span>
+						<span>⭐ 15281</span>
+						<span>🔱 2044</span>
 					</div>
 				<div class="stars-today">⭐ 1492 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58181</span>
+						<span>🔱 10285</span>
+					</div>
+				<div class="stars-today">⭐ 2093 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      RAG-Anything</a></p>
+				<p>
+      "RAG-Anything: All-in-One RAG Framework"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7939</span>
+						<span>🔱 899</span>
+					</div>
+				<div class="stars-today">⭐ 1993 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,120 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 339383</span>
-						<span>🔱 43022</span>
+						<span>⭐ 339395</span>
+						<span>🔱 43026</span>
 					</div>
 				<div class="stars-today">⭐ 1996 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        gin-gonic /
+        public-apis /
 
-      gin</a></p>
+      public-apis</a></p>
 				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86198</span>
-						<span>🔱 8434</span>
+						<span>🔠 Python</span>
+						<span>⭐ 367274</span>
+						<span>🔱 38664</span>
 					</div>
-				<div class="stars-today">⭐ 1053 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
-    
-
-
-      
-        zama-ai /
-
-      fhevm</a></p>
-				<p>
-      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21984</span>
-						<span>🔱 978</span>
-					</div>
-				<div class="stars-today">⭐ 1296 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
-    
-
-
-      
-        coinbase /
-
-      x402</a></p>
-				<p>
-      A payments protocol for the internet. Built on HTTP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1882</span>
-						<span>🔱 290</span>
-					</div>
-				<div class="stars-today">⭐ 618 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
-    
-
-
-      
-        n8n-io /
-
-      n8n</a></p>
-				<p>
-      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 144665</span>
-						<span>🔱 45942</span>
-					</div>
-				<div class="stars-today">⭐ 3773 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 12261</span>
-						<span>🔱 1166</span>
-					</div>
-				<div class="stars-today">⭐ 2055 stars this week</div>
+				<div class="stars-today">⭐ 1043 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32771</span>
+						<span>⭐ 32775</span>
 						<span>🔱 4402</span>
 					</div>
 				<div class="stars-today">⭐ 365 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1888</span>
+						<span>🔱 290</span>
+					</div>
+				<div class="stars-today">⭐ 618 stars this week</div>
 				</div>
 			</div>
 	
@@ -446,10 +382,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 129411</span>
+						<span>⭐ 129427</span>
 						<span>🔱 10370</span>
 					</div>
 				<div class="stars-today">⭐ 1687 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 20449</span>
+						<span>🔱 2187</span>
+					</div>
+				<div class="stars-today">⭐ 235 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ollama/ollama-python" target="_blank">
+    
+
+
+      
+        ollama /
+
+      ollama-python</a></p>
+				<p>
+      Ollama Python library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8596</span>
+						<span>🔱 829</span>
+					</div>
+				<div class="stars-today">⭐ 96 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73722</span>
+						<span>🔱 10723</span>
+					</div>
+				<div class="stars-today">⭐ 405 stars this week</div>
 				</div>
 			</div>
 	

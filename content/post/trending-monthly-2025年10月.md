@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-03T09:58:53Z
+date: 2025-10-03T11:58:38Z
 categories:
 - monthly
 keywords:
@@ -30,30 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67385</span>
-						<span>🔱 12587</span>
+						<span>⭐ 67388</span>
+						<span>🔱 12588</span>
 					</div>
 				<div class="stars-today">⭐ 3962 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
-    
-
-
-      
-        Physical-Intelligence /
-
-      openpi</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8054</span>
-						<span>🔱 934</span>
-					</div>
-				<div class="stars-today">⭐ 3619 stars this month</div>
 				</div>
 			</div>
 	
@@ -72,32 +52,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15331</span>
-						<span>🔱 1126</span>
+						<span>⭐ 15335</span>
+						<span>🔱 1129</span>
 					</div>
 				<div class="stars-today">⭐ 9037 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
     
 
 
       
-        humanlayer /
+        Physical-Intelligence /
 
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
+      openpi</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5428</span>
-						<span>🔱 407</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8055</span>
+						<span>🔱 934</span>
 					</div>
-				<div class="stars-today">⭐ 3361 stars this month</div>
+				<div class="stars-today">⭐ 3619 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45523</span>
+						<span>⭐ 45537</span>
 						<span>🔱 6367</span>
 					</div>
 				<div class="stars-today">⭐ 6022 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5432</span>
+						<span>🔱 407</span>
+					</div>
+				<div class="stars-today">⭐ 3361 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5404</span>
+						<span>⭐ 5406</span>
 						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 3278 stars this month</div>
@@ -160,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 45747</span>
-						<span>🔱 5423</span>
+						<span>⭐ 45753</span>
+						<span>🔱 5425</span>
 					</div>
 				<div class="stars-today">⭐ 7899 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
-    
-
-
-      
-        bytebot-ai /
-
-      bytebot</a></p>
-				<p>
-      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8406</span>
-						<span>🔱 984</span>
-					</div>
-				<div class="stars-today">⭐ 5054 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +182,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3553</span>
-						<span>🔱 348</span>
+						<span>⭐ 3554</span>
+						<span>🔱 349</span>
 					</div>
 				<div class="stars-today">⭐ 2354 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+    
+
+
+      
+        bytebot-ai /
+
+      bytebot</a></p>
+				<p>
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8410</span>
+						<span>🔱 984</span>
+					</div>
+				<div class="stars-today">⭐ 5054 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+    
+
+
+      
+        CorentinJ /
+
+      Real-Time-Voice-Cloning</a></p>
+				<p>
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57841</span>
+						<span>🔱 9292</span>
+					</div>
+				<div class="stars-today">⭐ 2957 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1882</span>
+						<span>⭐ 1888</span>
 						<span>🔱 290</span>
 					</div>
 				<div class="stars-today">⭐ 1008 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26248</span>
+						<span>🔱 2710</span>
+					</div>
+				<div class="stars-today">⭐ 2452 stars this month</div>
 				</div>
 			</div>
 	
@@ -256,24 +300,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+				<p><a href="https://github.com/firebase/genkit" target="_blank">
     
 
 
       
-        CorentinJ /
+        firebase /
 
-      Real-Time-Voice-Cloning</a></p>
+      genkit</a></p>
 				<p>
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57835</span>
-						<span>🔱 9292</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4265</span>
+						<span>🔱 481</span>
 					</div>
-				<div class="stars-today">⭐ 2957 stars this month</div>
+				<div class="stars-today">⭐ 1508 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86198</span>
+						<span>⭐ 86201</span>
 						<span>🔱 8434</span>
 					</div>
 				<div class="stars-today">⭐ 2513 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica</a></p>
-				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26242</span>
-						<span>🔱 2710</span>
-					</div>
-				<div class="stars-today">⭐ 2452 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7442</span>
+						<span>⭐ 7444</span>
 						<span>🔱 993</span>
 					</div>
 				<div class="stars-today">⭐ 1502 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6820</span>
-						<span>🔱 1423</span>
-					</div>
-				<div class="stars-today">⭐ 2951 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 68176</span>
+						<span>⭐ 68179</span>
 						<span>🔱 5775</span>
 					</div>
 				<div class="stars-today">⭐ 3369 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trufflesecurity/trufflehog" target="_blank">
-    
-
-
-      
-        trufflesecurity /
-
-      trufflehog</a></p>
-				<p>
-      Find, verify, and analyze leaked credentials
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22630</span>
-						<span>🔱 2078</span>
-					</div>
-				<div class="stars-today">⭐ 2262 stars this month</div>
 				</div>
 			</div>
 	
