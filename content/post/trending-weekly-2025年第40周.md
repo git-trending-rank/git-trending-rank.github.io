@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第40周
-date: 2025-10-04T09:58:37Z
+date: 2025-10-04T11:58:34Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45598</span>
+						<span>⭐ 45602</span>
 						<span>🔱 6376</span>
 					</div>
 				<div class="stars-today">⭐ 5525 stars this week</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3102</span>
-						<span>🔱 223</span>
+						<span>⭐ 3106</span>
+						<span>🔱 224</span>
 					</div>
 				<div class="stars-today">⭐ 1414 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5482</span>
-						<span>🔱 411</span>
-					</div>
-				<div class="stars-today">⭐ 2339 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 32655</span>
-						<span>🔱 4543</span>
+						<span>⭐ 32667</span>
+						<span>🔱 4544</span>
 					</div>
 				<div class="stars-today">⭐ 1739 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2098</span>
+						<span>🔱 259</span>
+					</div>
+				<div class="stars-today">⭐ 933 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,120 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4833</span>
+						<span>⭐ 4840</span>
 						<span>🔱 237</span>
 					</div>
 				<div class="stars-today">⭐ 1135 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
-    
-
-
-      
-        oauth2-proxy /
-
-      oauth2-proxy</a></p>
-				<p>
-      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12775</span>
-						<span>🔱 1850</span>
-					</div>
-				<div class="stars-today">⭐ 686 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/imputnet/helium" target="_blank">
-    
-
-
-      
-        imputnet /
-
-      helium</a></p>
-				<p>
-      Private, fast, and honest web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4233</span>
-						<span>🔱 57</span>
-					</div>
-				<div class="stars-today">⭐ 1136 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
-    
-
-
-      
-        ZuodaoTech /
-
-      everyone-can-use-english</a></p>
-				<p>
-      人人都能用英语
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30979</span>
-						<span>🔱 4420</span>
-					</div>
-				<div class="stars-today">⭐ 1281 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TanStack/router" target="_blank">
-    
-
-
-      
-        TanStack /
-
-      router</a></p>
-				<p>
-      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11570</span>
-						<span>🔱 1253</span>
-					</div>
-				<div class="stars-today">⭐ 214 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
-    
-
-
-      
-        onyx-dot-app /
-
-      onyx</a></p>
-				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15339</span>
-						<span>🔱 2050</span>
-					</div>
-				<div class="stars-today">⭐ 1308 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58198</span>
+						<span>⭐ 58199</span>
 						<span>🔱 10289</span>
 					</div>
 				<div class="stars-today">⭐ 2102 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      RAG-Anything</a></p>
-				<p>
-      "RAG-Anything: All-in-One RAG Framework"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7995</span>
-						<span>🔱 903</span>
-					</div>
-				<div class="stars-today">⭐ 1812 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 339479</span>
+						<span>⭐ 339483</span>
 						<span>🔱 43033</span>
 					</div>
 				<div class="stars-today">⭐ 2017 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5493</span>
+						<span>🔱 411</span>
+					</div>
+				<div class="stars-today">⭐ 2339 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 367387</span>
+						<span>⭐ 367395</span>
 						<span>🔱 38666</span>
 					</div>
 				<div class="stars-today">⭐ 1023 stars this week</div>
@@ -324,68 +212,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/directus/directus" target="_blank">
+				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
     
 
 
       
-        directus /
+        oauth2-proxy /
 
-      directus</a></p>
+      oauth2-proxy</a></p>
 				<p>
-      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32799</span>
-						<span>🔱 4401</span>
+						<span>🔠 Go</span>
+						<span>⭐ 12779</span>
+						<span>🔱 1850</span>
 					</div>
-				<div class="stars-today">⭐ 385 stars this week</div>
+				<div class="stars-today">⭐ 686 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
+				<p><a href="https://github.com/TanStack/router" target="_blank">
     
 
 
       
-        coinbase /
+        TanStack /
 
-      x402</a></p>
+      router</a></p>
 				<p>
-      A payments protocol for the internet. Built on HTTP.
+      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1914</span>
-						<span>🔱 291</span>
+						<span>⭐ 11576</span>
+						<span>🔱 1253</span>
 					</div>
-				<div class="stars-today">⭐ 475 stars this week</div>
+				<div class="stars-today">⭐ 214 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
     
 
 
       
-        yt-dlp /
+        hsliuping /
 
-      yt-dlp</a></p>
+      TradingAgents-CN</a></p>
 				<p>
-      A feature-rich command-line audio/video downloader
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 129532</span>
-						<span>🔱 10379</span>
+						<span>⭐ 8965</span>
+						<span>🔱 2023</span>
 					</div>
-				<div class="stars-today">⭐ 1460 stars this week</div>
+				<div class="stars-today">⭐ 1770 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx</a></p>
+				<p>
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15344</span>
+						<span>🔱 2050</span>
+					</div>
+				<div class="stars-today">⭐ 1308 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20498</span>
+						<span>⭐ 20506</span>
 						<span>🔱 2192</span>
 					</div>
 				<div class="stars-today">⭐ 250 stars this week</div>
@@ -426,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8615</span>
+						<span>⭐ 8616</span>
 						<span>🔱 828</span>
 					</div>
 				<div class="stars-today">⭐ 78 stars this week</div>
@@ -434,24 +344,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+				<p><a href="https://github.com/pulumi/pulumi" target="_blank">
     
 
 
       
-        hacksider /
+        pulumi /
 
-      Deep-Live-Cam</a></p>
+      pulumi</a></p>
 				<p>
-      real time face swap and one-click video deepfake with only a single image
+      Pulumi - Infrastructure as Code in any programming language 🚀
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73764</span>
-						<span>🔱 10731</span>
+						<span>🔠 Go</span>
+						<span>⭐ 23885</span>
+						<span>🔱 1242</span>
 					</div>
-				<div class="stars-today">⭐ 392 stars this week</div>
+				<div class="stars-today">⭐ 65 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fish-shell/fish-shell" target="_blank">
+    
+
+
+      
+        fish-shell /
+
+      fish-shell</a></p>
+				<p>
+      The user-friendly command line shell.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 31099</span>
+						<span>🔱 2137</span>
+					</div>
+				<div class="stars-today">⭐ 115 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
+    
+
+
+      
+        zama-ai /
+
+      fhevm</a></p>
+				<p>
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 22033</span>
+						<span>🔱 988</span>
+					</div>
+				<div class="stars-today">⭐ 1387 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/directus/directus" target="_blank">
+    
+
+
+      
+        directus /
+
+      directus</a></p>
+				<p>
+      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32802</span>
+						<span>🔱 4401</span>
+					</div>
+				<div class="stars-today">⭐ 385 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-04T09:58:37Z
+date: 2025-10-04T11:58:33Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67414</span>
+						<span>⭐ 67416</span>
 						<span>🔱 12587</span>
 					</div>
 				<div class="stars-today">⭐ 3997 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15365</span>
+						<span>⭐ 15370</span>
 						<span>🔱 1132</span>
 					</div>
 				<div class="stars-today">⭐ 9054 stars this month</div>
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8059</span>
+						<span>⭐ 8060</span>
 						<span>🔱 935</span>
 					</div>
 				<div class="stars-today">⭐ 3625 stars this month</div>
@@ -94,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45598</span>
+						<span>⭐ 45602</span>
 						<span>🔱 6376</span>
 					</div>
 				<div class="stars-today">⭐ 6116 stars this month</div>
@@ -116,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5482</span>
+						<span>⭐ 5493</span>
 						<span>🔱 411</span>
 					</div>
 				<div class="stars-today">⭐ 3406 stars this month</div>
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5426</span>
+						<span>⭐ 5431</span>
 						<span>🔱 404</span>
 					</div>
 				<div class="stars-today">⭐ 3312 stars this month</div>
@@ -160,54 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 45866</span>
-						<span>🔱 5437</span>
+						<span>⭐ 45874</span>
+						<span>🔱 5440</span>
 					</div>
 				<div class="stars-today">⭐ 7762 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
-    
-
-
-      
-        dataease /
-
-      SQLBot</a></p>
-				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3565</span>
-						<span>🔱 349</span>
-					</div>
-				<div class="stars-today">⭐ 2352 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
-    
-
-
-      
-        bytebot-ai /
-
-      bytebot</a></p>
-				<p>
-      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8458</span>
-						<span>🔱 993</span>
-					</div>
-				<div class="stars-today">⭐ 4485 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57891</span>
-						<span>🔱 9294</span>
+						<span>⭐ 57897</span>
+						<span>🔱 9296</span>
 					</div>
 				<div class="stars-today">⭐ 3009 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+    
+
+
+      
+        dataease /
+
+      SQLBot</a></p>
+				<p>
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3567</span>
+						<span>🔱 350</span>
+					</div>
+				<div class="stars-today">⭐ 2352 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1914</span>
-						<span>🔱 291</span>
+						<span>⭐ 1915</span>
+						<span>🔱 292</span>
 					</div>
 				<div class="stars-today">⭐ 1039 stars this month</div>
 				</div>
@@ -270,32 +248,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26274</span>
-						<span>🔱 2714</span>
+						<span>⭐ 26276</span>
+						<span>🔱 2715</span>
 					</div>
 				<div class="stars-today">⭐ 2468 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/uutils/coreutils" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
     
 
 
       
-        uutils /
+        anthropics /
 
-      coreutils</a></p>
-				<p>
-      Cross-platform Rust rewrite of the GNU coreutils
-    </p>
+      claude-agent-sdk-python</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21778</span>
-						<span>🔱 1590</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2098</span>
+						<span>🔱 259</span>
 					</div>
-				<div class="stars-today">⭐ 765 stars this month</div>
+				<div class="stars-today">⭐ 1168 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +290,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4284</span>
+						<span>⭐ 4286</span>
 						<span>🔱 482</span>
 					</div>
 				<div class="stars-today">⭐ 1513 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/uutils/coreutils" target="_blank">
+    
+
+
+      
+        uutils /
+
+      coreutils</a></p>
+				<p>
+      Cross-platform Rust rewrite of the GNU coreutils
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21780</span>
+						<span>🔱 1590</span>
+					</div>
+				<div class="stars-today">⭐ 765 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +334,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86221</span>
+						<span>⭐ 86223</span>
 						<span>🔱 8435</span>
 					</div>
 				<div class="stars-today">⭐ 2535 stars this month</div>
@@ -366,24 +364,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
     
 
 
       
-        Stirling-Tools /
+        bytebot-ai /
 
-      Stirling-PDF</a></p>
+      bytebot</a></p>
 				<p>
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
+      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 68216</span>
-						<span>🔱 5779</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8465</span>
+						<span>🔱 993</span>
 					</div>
-				<div class="stars-today">⭐ 3390 stars this month</div>
+				<div class="stars-today">⭐ 4485 stars this month</div>
 				</div>
 			</div>
 	
