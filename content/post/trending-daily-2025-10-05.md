@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-05
-date: 2025-10-05T09:58:34Z
+date: 2025-10-05T11:58:37Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,48 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22668</span>
+						<span>🔱 1776</span>
+					</div>
+				<div class="stars-today">⭐ 218 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 16588</span>
+						<span>🔱 1180</span>
+					</div>
+				<div class="stars-today">⭐ 65 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
@@ -30,10 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 35882</span>
-						<span>🔱 4324</span>
+						<span>⭐ 35911</span>
+						<span>🔱 4328</span>
 					</div>
-				<div class="stars-today">⭐ 171 stars today</div>
+				<div class="stars-today">⭐ 829 stars today</div>
 				</div>
 			</div>
 	
@@ -52,32 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8448</span>
+						<span>⭐ 8467</span>
 						<span>🔱 2671</span>
 					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/tunix" target="_blank">
-    
-
-
-      
-        google /
-
-      tunix</a></p>
-				<p>
-      A JAX-native LLM Post-Training Library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1518</span>
-						<span>🔱 131</span>
-					</div>
-				<div class="stars-today">⭐ 165 stars today</div>
+				<div class="stars-today">⭐ 459 stars today</div>
 				</div>
 			</div>
 	
@@ -96,230 +116,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 1976</span>
+						<span>⭐ 1994</span>
 						<span>🔱 413</span>
 					</div>
-				<div class="stars-today">⭐ 57 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tigerbeetle/tigerbeetle" target="_blank">
-    
-
-
-      
-        tigerbeetle /
-
-      tigerbeetle</a></p>
-				<p>
-      The financial transactions database designed for mission critical safety and performance.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 13927</span>
-						<span>🔱 689</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paaatrick/playball" target="_blank">
-    
-
-
-      
-        paaatrick /
-
-      playball</a></p>
-				<p>
-      Watch MLB games from the comfort of your own terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1084</span>
-						<span>🔱 48</span>
-					</div>
-				<div class="stars-today">⭐ 106 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
-    
-
-
-      
-        AykutSarac /
-
-      jsoncrack.com</a></p>
-				<p>
-      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41850</span>
-						<span>🔱 2986</span>
-					</div>
-				<div class="stars-today">⭐ 66 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6600</span>
-						<span>🔱 717</span>
-					</div>
-				<div class="stars-today">⭐ 82 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
-    
-
-
-      
-        kestra-io /
-
-      kestra</a></p>
-				<p>
-      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 21862</span>
-						<span>🔱 1967</span>
-					</div>
-				<div class="stars-today">⭐ 131 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22608</span>
-						<span>🔱 1770</span>
-					</div>
-				<div class="stars-today">⭐ 288 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
-    
-
-
-      
-        Infisical /
-
-      infisical</a></p>
-				<p>
-      Infisical is the open-source platform for secrets management, PKI, and SSH access.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20500</span>
-						<span>🔱 1399</span>
-					</div>
-				<div class="stars-today">⭐ 157 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/signalapp/libsignal" target="_blank">
-    
-
-
-      
-        signalapp /
-
-      libsignal</a></p>
-				<p>
-      Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4923</span>
-						<span>🔱 604</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MudBlazor/MudBlazor" target="_blank">
-    
-
-
-      
-        MudBlazor /
-
-      MudBlazor</a></p>
-				<p>
-      Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 9692</span>
-						<span>🔱 1526</span>
-					</div>
-				<div class="stars-today">⭐ 9 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
-    
-
-
-      
-        pathwaycom /
-
-      pathway</a></p>
-				<p>
-      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44762</span>
-						<span>🔱 1368</span>
-					</div>
-				<div class="stars-today">⭐ 457 stars today</div>
+				<div class="stars-today">⭐ 226 stars today</div>
 				</div>
 			</div>
 	
@@ -338,32 +138,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 588</span>
+						<span>⭐ 606</span>
 						<span>🔱 15</span>
 					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 185 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dbt-labs/dbt-core" target="_blank">
+				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
     
 
 
       
-        dbt-labs /
+        comfyanonymous /
 
-      dbt-core</a></p>
+      ComfyUI</a></p>
 				<p>
-      dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11601</span>
-						<span>🔱 1981</span>
+						<span>⭐ 90029</span>
+						<span>🔱 10071</span>
 					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
+				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
 			</div>
 	
@@ -382,10 +182,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9139</span>
-						<span>🔱 2039</span>
+						<span>⭐ 9156</span>
+						<span>🔱 2038</span>
 					</div>
-				<div class="stars-today">⭐ 1034 stars today</div>
+				<div class="stars-today">⭐ 192 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+    
+
+
+      
+        kestra-io /
+
+      kestra</a></p>
+				<p>
+      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 21885</span>
+						<span>🔱 1969</span>
+					</div>
+				<div class="stars-today">⭐ 159 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meshtastic/firmware" target="_blank">
+    
+
+
+      
+        meshtastic /
+
+      firmware</a></p>
+				<p>
+      The official firmware for Meshtastic, an open-source, off-grid mesh communication system.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5738</span>
+						<span>🔱 1558</span>
+					</div>
+				<div class="stars-today">⭐ 22 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
+    
+
+
+      
+        pathwaycom /
+
+      pathway</a></p>
+				<p>
+      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44787</span>
+						<span>🔱 1369</span>
+					</div>
+				<div class="stars-today">⭐ 308 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+    
+
+
+      
+        YaLTeR /
+
+      niri</a></p>
+				<p>
+      A scrollable-tiling Wayland compositor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12576</span>
+						<span>🔱 441</span>
+					</div>
+				<div class="stars-today">⭐ 477 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/audacity/audacity" target="_blank">
+    
+
+
+      
+        audacity /
+
+      audacity</a></p>
+				<p>
+      Audio Editor 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 14573</span>
+						<span>🔱 2396</span>
+					</div>
+				<div class="stars-today">⭐ 200 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xtekky/gpt4free" target="_blank">
+    
+
+
+      
+        xtekky /
+
+      gpt4free</a></p>
+				<p>
+      The official gpt4free repository | various collection of powerful language models | o4, o3 and deepseek r1, gpt-4.1, gemini 2.5
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 65187</span>
+						<span>🔱 13691</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
 				</div>
 			</div>
 	
@@ -404,76 +336,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3909</span>
-						<span>🔱 479</span>
+						<span>⭐ 3915</span>
+						<span>🔱 480</span>
 					</div>
-				<div class="stars-today">⭐ 329 stars today</div>
+				<div class="stars-today">⭐ 180 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-framework" target="_blank">
+				<p><a href="https://github.com/evcc-io/evcc" target="_blank">
     
 
 
       
-        microsoft /
+        evcc-io /
 
-      agent-framework</a></p>
+      evcc</a></p>
 				<p>
-      A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+      solar charging ☀️🚘
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2318</span>
-						<span>🔱 245</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5375</span>
+						<span>🔱 1042</span>
 					</div>
-				<div class="stars-today">⭐ 567 stars today</div>
+				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pathwaycom/llm-app" target="_blank">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
     
 
 
       
-        pathwaycom /
+        Infisical /
 
-      llm-app</a></p>
+      infisical</a></p>
 				<p>
-      Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 41448</span>
-						<span>🔱 1116</span>
-					</div>
-				<div class="stars-today">⭐ 203 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MotiaDev/motia" target="_blank">
-    
-
-
-      
-        MotiaDev /
-
-      motia</a></p>
-				<p>
-      Multi-Language Backend Framework that unifies APIs, background jobs, workflows, and AI Agents into a single core primitive with built-in observability and state management.
+      Infisical is the open-source platform for secrets management, PKI, and SSH access.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9175</span>
-						<span>🔱 696</span>
+						<span>⭐ 20518</span>
+						<span>🔱 1399</span>
 					</div>
-				<div class="stars-today">⭐ 125 stars today</div>
+				<div class="stars-today">⭐ 175 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aandrew-me/ytDownloader" target="_blank">
+    
+
+
+      
+        aandrew-me /
+
+      ytDownloader</a></p>
+				<p>
+      Desktop App for downloading Videos and Audios from hundreds of sites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2041</span>
+						<span>🔱 182</span>
+					</div>
+				<div class="stars-today">⭐ 239 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/expressjs/express" target="_blank">
+    
+
+
+      
+        expressjs /
+
+      express</a></p>
+				<p>
+      Fast, unopinionated, minimalist web framework for node.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 67811</span>
+						<span>🔱 21027</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/amir1376/ab-download-manager" target="_blank">
+    
+
+
+      
+        amir1376 /
+
+      ab-download-manager</a></p>
+				<p>
+      A Download Manager that speeds up your downloads
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 10070</span>
+						<span>🔱 556</span>
+					</div>
+				<div class="stars-today">⭐ 248 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-05T09:58:34Z
+date: 2025-10-05T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67435</span>
+						<span>⭐ 67437</span>
 						<span>🔱 12588</span>
 					</div>
 				<div class="stars-today">⭐ 4018 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15405</span>
+						<span>⭐ 15406</span>
 						<span>🔱 1140</span>
 					</div>
 				<div class="stars-today">⭐ 9080 stars this month</div>
@@ -95,31 +95,9 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 45640</span>
-						<span>🔱 6384</span>
+						<span>🔱 6385</span>
 					</div>
 				<div class="stars-today">⭐ 6154 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5539</span>
-						<span>🔱 417</span>
-					</div>
-				<div class="stars-today">⭐ 3435 stars this month</div>
 				</div>
 			</div>
 	
@@ -146,6 +124,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5540</span>
+						<span>🔱 417</span>
+					</div>
+				<div class="stars-today">⭐ 3435 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/openai/codex" target="_blank">
     
 
@@ -160,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 45968</span>
-						<span>🔱 5465</span>
+						<span>⭐ 45976</span>
+						<span>🔱 5467</span>
 					</div>
 				<div class="stars-today">⭐ 7630 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
-    
-
-
-      
-        CorentinJ /
-
-      Real-Time-Voice-Cloning</a></p>
-				<p>
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57931</span>
-						<span>🔱 9304</span>
-					</div>
-				<div class="stars-today">⭐ 3062 stars this month</div>
 				</div>
 			</div>
 	
@@ -208,6 +186,28 @@ keywords:
 						<span>🔱 351</span>
 					</div>
 				<div class="stars-today">⭐ 2348 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+    
+
+
+      
+        CorentinJ /
+
+      Real-Time-Voice-Cloning</a></p>
+				<p>
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57937</span>
+						<span>🔱 9305</span>
+					</div>
+				<div class="stars-today">⭐ 3062 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,30 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26304</span>
-						<span>🔱 2721</span>
+						<span>⭐ 26306</span>
+						<span>🔱 2723</span>
 					</div>
 				<div class="stars-today">⭐ 2489 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-agent-sdk-python</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2143</span>
-						<span>🔱 268</span>
-					</div>
-				<div class="stars-today">⭐ 1176 stars this month</div>
 				</div>
 			</div>
 	
@@ -290,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4304</span>
+						<span>⭐ 4305</span>
 						<span>🔱 484</span>
 					</div>
 				<div class="stars-today">⭐ 1529 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/uutils/coreutils" target="_blank">
-    
-
-
-      
-        uutils /
-
-      coreutils</a></p>
-				<p>
-      Cross-platform Rust rewrite of the GNU coreutils
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21785</span>
-						<span>🔱 1591</span>
-					</div>
-				<div class="stars-today">⭐ 769 stars this month</div>
 				</div>
 			</div>
 	
@@ -334,32 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86239</span>
-						<span>🔱 8436</span>
+						<span>⭐ 86241</span>
+						<span>🔱 8437</span>
 					</div>
 				<div class="stars-today">⭐ 2545 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
+				<p><a href="https://github.com/uutils/coreutils" target="_blank">
     
 
 
       
-        HKUDS /
+        uutils /
 
-      AutoAgent</a></p>
+      coreutils</a></p>
 				<p>
-      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
+      Cross-platform Rust rewrite of the GNU coreutils
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7475</span>
-						<span>🔱 999</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 21788</span>
+						<span>🔱 1591</span>
 					</div>
-				<div class="stars-today">⭐ 1520 stars this month</div>
+				<div class="stars-today">⭐ 769 stars this month</div>
 				</div>
 			</div>
 	
@@ -378,10 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8525</span>
-						<span>🔱 1002</span>
+						<span>⭐ 8528</span>
+						<span>🔱 1003</span>
 					</div>
 				<div class="stars-today">⭐ 4159 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
+    
+
+
+      
+        WebGoat /
+
+      WebGoat</a></p>
+				<p>
+      WebGoat is a deliberately insecure application
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8494</span>
+						<span>🔱 6770</span>
+					</div>
+				<div class="stars-today">⭐ 787 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+    
+
+
+      
+        Stirling-Tools /
+
+      Stirling-PDF</a></p>
+				<p>
+      #1 Locally hosted web application that allows you to perform various operations on PDF files
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 68228</span>
+						<span>🔱 5779</span>
+					</div>
+				<div class="stars-today">⭐ 3365 stars this month</div>
 				</div>
 			</div>
 	

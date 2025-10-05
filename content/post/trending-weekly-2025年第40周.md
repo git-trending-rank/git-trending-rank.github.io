@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第40周
-date: 2025-10-05T09:58:35Z
+date: 2025-10-05T11:58:38Z
 categories:
 - weekly
 keywords:
@@ -31,31 +31,9 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 45640</span>
-						<span>🔱 6384</span>
+						<span>🔱 6385</span>
 					</div>
 				<div class="stars-today">⭐ 5535 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
-    
-
-
-      
-        tile-ai /
-
-      tilelang</a></p>
-				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3144</span>
-						<span>🔱 225</span>
-					</div>
-				<div class="stars-today">⭐ 1458 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 32710</span>
+						<span>⭐ 32714</span>
 						<span>🔱 4554</span>
 					</div>
 				<div class="stars-today">⭐ 1846 stars this week</div>
@@ -94,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2143</span>
+						<span>⭐ 2151</span>
 						<span>🔱 268</span>
 					</div>
 				<div class="stars-today">⭐ 968 stars this week</div>
@@ -116,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4883</span>
+						<span>⭐ 4886</span>
 						<span>🔱 239</span>
 					</div>
 				<div class="stars-today">⭐ 1158 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN</a></p>
+				<p>
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9156</span>
+						<span>🔱 2038</span>
+					</div>
+				<div class="stars-today">⭐ 1816 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58211</span>
+						<span>⭐ 58212</span>
 						<span>🔱 10289</span>
 					</div>
 				<div class="stars-today">⭐ 2110 stars this week</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 339568</span>
-						<span>🔱 43043</span>
+						<span>⭐ 339576</span>
+						<span>🔱 43044</span>
 					</div>
 				<div class="stars-today">⭐ 1985 stars this week</div>
 				</div>
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5539</span>
+						<span>⭐ 5540</span>
 						<span>🔱 417</span>
 					</div>
 				<div class="stars-today">⭐ 2009 stars this week</div>
@@ -190,24 +190,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
     
 
 
       
-        public-apis /
+        anthropics /
 
-      public-apis</a></p>
+      claude-cookbooks</a></p>
 				<p>
-      A collective list of free APIs
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 367455</span>
-						<span>🔱 38674</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 20545</span>
+						<span>🔱 2195</span>
 					</div>
-				<div class="stars-today">⭐ 1012 stars this week</div>
+				<div class="stars-today">⭐ 290 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
+    
+
+
+      
+        TheAlgorithms /
+
+      Java</a></p>
+				<p>
+      All Algorithms implemented in Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 63735</span>
+						<span>🔱 20399</span>
+					</div>
+				<div class="stars-today">⭐ 158 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/typst/typst" target="_blank">
+    
+
+
+      
+        typst /
+
+      typst</a></p>
+				<p>
+      A new markup-based typesetting system that is powerful and easy to learn.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 46614</span>
+						<span>🔱 1257</span>
+					</div>
+				<div class="stars-today">⭐ 708 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/gravitino" target="_blank">
+    
+
+
+      
+        apache /
+
+      gravitino</a></p>
+				<p>
+      World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2063</span>
+						<span>🔱 627</span>
+					</div>
+				<div class="stars-today">⭐ 226 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11585</span>
+						<span>⭐ 11588</span>
 						<span>🔱 1254</span>
 					</div>
 				<div class="stars-today">⭐ 209 stars this week</div>
@@ -256,178 +322,88 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        hsliuping /
+        public-apis /
 
-      TradingAgents-CN</a></p>
+      public-apis</a></p>
 				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9139</span>
-						<span>🔱 2039</span>
+						<span>⭐ 367462</span>
+						<span>🔱 38676</span>
 					</div>
-				<div class="stars-today">⭐ 1816 stars this week</div>
+				<div class="stars-today">⭐ 1012 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
     
 
 
       
-        onyx-dot-app /
+        Flowseal /
 
-      onyx</a></p>
-				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    </p>
+      zapret-discord-youtube</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15379</span>
-						<span>🔱 2056</span>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 16588</span>
+						<span>🔱 1180</span>
 					</div>
-				<div class="stars-today">⭐ 1143 stars this week</div>
+				<div class="stars-today">⭐ 187 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
     
 
 
       
-        anthropics /
+        YaLTeR /
 
-      claude-cookbooks</a></p>
+      niri</a></p>
 				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20540</span>
-						<span>🔱 2195</span>
-					</div>
-				<div class="stars-today">⭐ 290 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ollama/ollama-python" target="_blank">
-    
-
-
-      
-        ollama /
-
-      ollama-python</a></p>
-				<p>
-      Ollama Python library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8631</span>
-						<span>🔱 828</span>
-					</div>
-				<div class="stars-today">⭐ 96 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pulumi/pulumi" target="_blank">
-    
-
-
-      
-        pulumi /
-
-      pulumi</a></p>
-				<p>
-      Pulumi - Infrastructure as Code in any programming language 🚀
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 23910</span>
-						<span>🔱 1243</span>
-					</div>
-				<div class="stars-today">⭐ 70 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fish-shell/fish-shell" target="_blank">
-    
-
-
-      
-        fish-shell /
-
-      fish-shell</a></p>
-				<p>
-      The user-friendly command line shell.
+      A scrollable-tiling Wayland compositor.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 31114</span>
-						<span>🔱 2135</span>
+						<span>⭐ 12576</span>
+						<span>🔱 441</span>
 					</div>
-				<div class="stars-today">⭐ 121 stars this week</div>
+				<div class="stars-today">⭐ 797 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
     
 
 
       
-        zama-ai /
+        tile-ai /
 
-      fhevm</a></p>
+      tilelang</a></p>
 				<p>
-      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22250</span>
-						<span>🔱 1021</span>
+						<span>🔠 C++</span>
+						<span>⭐ 3144</span>
+						<span>🔱 226</span>
 					</div>
-				<div class="stars-today">⭐ 1314 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/directus/directus" target="_blank">
-    
-
-
-      
-        directus /
-
-      directus</a></p>
-				<p>
-      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32821</span>
-						<span>🔱 4402</span>
-					</div>
-				<div class="stars-today">⭐ 385 stars this week</div>
+				<div class="stars-today">⭐ 1458 stars this week</div>
 				</div>
 			</div>
 	
