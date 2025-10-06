@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-06T09:58:42Z
+date: 2025-10-06T11:59:02Z
 categories:
 - monthly
 keywords:
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15441</span>
-						<span>🔱 1147</span>
+						<span>⭐ 15444</span>
+						<span>🔱 1148</span>
 					</div>
 				<div class="stars-today">⭐ 9102 stars this month</div>
 				</div>
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8097</span>
+						<span>⭐ 8100</span>
 						<span>🔱 943</span>
 					</div>
 				<div class="stars-today">⭐ 3613 stars this month</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45707</span>
-						<span>🔱 6395</span>
+						<span>⭐ 45711</span>
+						<span>🔱 6397</span>
 					</div>
 				<div class="stars-today">⭐ 6190 stars this month</div>
 				</div>
@@ -116,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5461</span>
+						<span>⭐ 5466</span>
 						<span>🔱 407</span>
 					</div>
 				<div class="stars-today">⭐ 3338 stars this month</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5595</span>
-						<span>🔱 420</span>
+						<span>⭐ 5600</span>
+						<span>🔱 421</span>
 					</div>
 				<div class="stars-today">⭐ 3458 stars this month</div>
 				</div>
@@ -160,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 46068</span>
-						<span>🔱 5483</span>
+						<span>⭐ 46077</span>
+						<span>🔱 5488</span>
 					</div>
 				<div class="stars-today">⭐ 7464 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+    
+
+
+      
+        CorentinJ /
+
+      Real-Time-Voice-Cloning</a></p>
+				<p>
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57999</span>
+						<span>🔱 9308</span>
+					</div>
+				<div class="stars-today">⭐ 3104 stars this month</div>
 				</div>
 			</div>
 	
@@ -190,28 +212,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
-    
-
-
-      
-        CorentinJ /
-
-      Real-Time-Voice-Cloning</a></p>
-				<p>
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57992</span>
-						<span>🔱 9308</span>
-					</div>
-				<div class="stars-today">⭐ 3104 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/coinbase/x402" target="_blank">
     
 
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1947</span>
+						<span>⭐ 1950</span>
 						<span>🔱 296</span>
 					</div>
 				<div class="stars-today">⭐ 1068 stars this month</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26357</span>
-						<span>🔱 2734</span>
+						<span>⭐ 26360</span>
+						<span>🔱 2736</span>
 					</div>
 				<div class="stars-today">⭐ 2519 stars this month</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4359</span>
-						<span>🔱 489</span>
+						<span>⭐ 4364</span>
+						<span>🔱 490</span>
 					</div>
 				<div class="stars-today">⭐ 1551 stars this month</div>
 				</div>
@@ -300,6 +300,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
+    
+
+
+      
+        ntdevlabs /
+
+      tiny11builder</a></p>
+				<p>
+      Scripts to build a trimmed-down Windows 11 image.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 14424</span>
+						<span>🔱 1155</span>
+					</div>
+				<div class="stars-today">⭐ 1810 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/uutils/coreutils" target="_blank">
     
 
@@ -314,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21804</span>
+						<span>⭐ 21806</span>
 						<span>🔱 1593</span>
 					</div>
 				<div class="stars-today">⭐ 785 stars this month</div>
@@ -322,68 +344,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytebot-ai/bytebot" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
     
 
 
       
-        bytebot-ai /
+        TheAlgorithms /
 
-      bytebot</a></p>
+      Python</a></p>
 				<p>
-      Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
+      All Algorithms implemented in Python
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8594</span>
-						<span>🔱 1010</span>
+						<span>🔠 Python</span>
+						<span>⭐ 209988</span>
+						<span>🔱 48452</span>
 					</div>
-				<div class="stars-today">⭐ 3558 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
-    
-
-
-      
-        WebGoat /
-
-      WebGoat</a></p>
-				<p>
-      WebGoat is a deliberately insecure application
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8517</span>
-						<span>🔱 6780</span>
-					</div>
-				<div class="stars-today">⭐ 793 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
-    
-
-
-      
-        Stirling-Tools /
-
-      Stirling-PDF</a></p>
-				<p>
-      #1 Locally hosted web application that allows you to perform various operations on PDF files
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 68300</span>
-						<span>🔱 5784</span>
-					</div>
-				<div class="stars-today">⭐ 3354 stars this month</div>
+				<div class="stars-today">⭐ 3684 stars this month</div>
 				</div>
 			</div>
 	

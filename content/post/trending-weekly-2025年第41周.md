@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第41周
-date: 2025-10-06T09:58:45Z
+date: 2025-10-06T11:59:03Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45707</span>
-						<span>🔱 6395</span>
+						<span>⭐ 45711</span>
+						<span>🔱 6397</span>
 					</div>
 				<div class="stars-today">⭐ 5195 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2207</span>
+						<span>🔱 275</span>
+					</div>
+				<div class="stars-today">⭐ 1011 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1953</span>
+						<span>🔱 120</span>
+					</div>
+				<div class="stars-today">⭐ 1108 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,52 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 32764</span>
-						<span>🔱 4559</span>
+						<span>⭐ 32763</span>
+						<span>🔱 4560</span>
 					</div>
 				<div class="stars-today">⭐ 1902 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-agent-sdk-python</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2205</span>
-						<span>🔱 274</span>
-					</div>
-				<div class="stars-today">⭐ 1011 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Done-0/fuck-u-code" target="_blank">
-    
-
-
-      
-        Done-0 /
-
-      fuck-u-code</a></p>
-				<p>
-      Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5035</span>
-						<span>🔱 242</span>
-					</div>
-				<div class="stars-today">⭐ 1025 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,142 +116,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9358</span>
-						<span>🔱 2069</span>
+						<span>⭐ 9379</span>
+						<span>🔱 2072</span>
 					</div>
 				<div class="stars-today">⭐ 1959 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+				<p><a href="https://github.com/Done-0/fuck-u-code" target="_blank">
     
 
 
       
-        commaai /
+        Done-0 /
 
-      openpilot</a></p>
+      fuck-u-code</a></p>
 				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+      Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5056</span>
+						<span>🔱 244</span>
+					</div>
+				<div class="stars-today">⭐ 1025 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58236</span>
-						<span>🔱 10291</span>
+						<span>⭐ 23703</span>
+						<span>🔱 1829</span>
 					</div>
-				<div class="stars-today">⭐ 1976 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 339668</span>
-						<span>🔱 43054</span>
-					</div>
-				<div class="stars-today">⭐ 1741 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5595</span>
-						<span>🔱 420</span>
-					</div>
-				<div class="stars-today">⭐ 1090 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20613</span>
-						<span>🔱 2201</span>
-					</div>
-				<div class="stars-today">⭐ 316 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Java</a></p>
-				<p>
-      All Algorithms implemented in Java
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 63761</span>
-						<span>🔱 20412</span>
-					</div>
-				<div class="stars-today">⭐ 174 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/typst/typst" target="_blank">
-    
-
-
-      
-        typst /
-
-      typst</a></p>
-				<p>
-      A new markup-based typesetting system that is powerful and easy to learn.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 46665</span>
-						<span>🔱 1259</span>
-					</div>
-				<div class="stars-today">⭐ 627 stars this week</div>
+				<div class="stars-today">⭐ 886 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,96 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2090</span>
+						<span>⭐ 2093</span>
 						<span>🔱 629</span>
 					</div>
 				<div class="stars-today">⭐ 244 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oauth2-proxy/oauth2-proxy" target="_blank">
-    
-
-
-      
-        oauth2-proxy /
-
-      oauth2-proxy</a></p>
-				<p>
-      A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12836</span>
-						<span>🔱 1852</span>
-					</div>
-				<div class="stars-today">⭐ 481 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TanStack/router" target="_blank">
-    
-
-
-      
-        TanStack /
-
-      router</a></p>
-				<p>
-      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11620</span>
-						<span>🔱 1254</span>
-					</div>
-				<div class="stars-today">⭐ 200 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 367584</span>
-						<span>🔱 38683</span>
-					</div>
-				<div class="stars-today">⭐ 925 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 16903</span>
-						<span>🔱 1190</span>
-					</div>
-				<div class="stars-today">⭐ 235 stars this week</div>
 				</div>
 			</div>
 	
@@ -378,32 +204,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12744</span>
-						<span>🔱 445</span>
+						<span>⭐ 12760</span>
+						<span>🔱 446</span>
 					</div>
 				<div class="stars-today">⭐ 855 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
     
 
 
       
-        tile-ai /
+        anthropics /
 
-      tilelang</a></p>
+      claude-cookbooks</a></p>
 				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3175</span>
-						<span>🔱 230</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 20616</span>
+						<span>🔱 2201</span>
 					</div>
-				<div class="stars-today">⭐ 1490 stars this week</div>
+				<div class="stars-today">⭐ 316 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
+    
+
+
+      
+        AykutSarac /
+
+      jsoncrack.com</a></p>
+				<p>
+      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 41893</span>
+						<span>🔱 2992</span>
+					</div>
+				<div class="stars-today">⭐ 552 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/typst/typst" target="_blank">
+    
+
+
+      
+        typst /
+
+      typst</a></p>
+				<p>
+      A new markup-based typesetting system that is powerful and easy to learn.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 46667</span>
+						<span>🔱 1260</span>
+					</div>
+				<div class="stars-today">⭐ 627 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/scrapy/scrapy" target="_blank">
+    
+
+
+      
+        scrapy /
+
+      scrapy</a></p>
+				<p>
+      Scrapy, a fast high-level web crawling & scraping framework for Python.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58442</span>
+						<span>🔱 11081</span>
+					</div>
+				<div class="stars-today">⭐ 97 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets management, PKI, and SSH access.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20791</span>
+						<span>🔱 1413</span>
+					</div>
+				<div class="stars-today">⭐ 468 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+    
+
+
+      
+        kestra-io /
+
+      kestra</a></p>
+				<p>
+      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 22095</span>
+						<span>🔱 1994</span>
+					</div>
+				<div class="stars-today">⭐ 723 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+    
+
+
+      
+        commaai /
+
+      openpilot</a></p>
+				<p>
+      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58238</span>
+						<span>🔱 10293</span>
+					</div>
+				<div class="stars-today">⭐ 1976 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheAlgorithms/Java" target="_blank">
+    
+
+
+      
+        TheAlgorithms /
+
+      Java</a></p>
+				<p>
+      All Algorithms implemented in Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 63765</span>
+						<span>🔱 20412</span>
+					</div>
+				<div class="stars-today">⭐ 174 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iluwatar/java-design-patterns" target="_blank">
+    
+
+
+      
+        iluwatar /
+
+      java-design-patterns</a></p>
+				<p>
+      Design patterns implemented in Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 92879</span>
+						<span>🔱 27222</span>
+					</div>
+				<div class="stars-today">⭐ 118 stars this week</div>
 				</div>
 			</div>
 	
