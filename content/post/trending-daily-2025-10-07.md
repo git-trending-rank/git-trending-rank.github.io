@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-07
-date: 2025-10-07T09:59:02Z
+date: 2025-10-07T11:58:38Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,72 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+    
+
+
+      
+        Stremio /
+
+      stremio-web</a></p>
+				<p>
+      Stremio - Freedom to Stream
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2912</span>
+						<span>🔱 499</span>
+					</div>
+				<div class="stars-today">⭐ 640 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9905</span>
+						<span>🔱 529</span>
+					</div>
+				<div class="stars-today">⭐ 34 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16536</span>
+						<span>🔱 2107</span>
+					</div>
+				<div class="stars-today">⭐ 257 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Infisical/infisical" target="_blank">
@@ -30,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21856</span>
-						<span>🔱 1474</span>
+						<span>⭐ 21915</span>
+						<span>🔱 1479</span>
 					</div>
-				<div class="stars-today">⭐ 282 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/meshery/meshery" target="_blank">
-    
-
-
-      
-        meshery /
-
-      meshery</a></p>
-				<p>
-      Meshery, the cloud native manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9131</span>
-						<span>🔱 2697</span>
-					</div>
-				<div class="stars-today">⭐ 171 stars today</div>
+				<div class="stars-today">⭐ 1162 stars today</div>
 				</div>
 			</div>
 	
@@ -74,164 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7829</span>
-						<span>🔱 663</span>
+						<span>⭐ 7861</span>
+						<span>🔱 668</span>
 					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
+				<div class="stars-today">⭐ 380 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+				<p><a href="https://github.com/FlowiseAI/Flowise" target="_blank">
     
 
 
       
-        Stremio /
+        FlowiseAI /
 
-      stremio-web</a></p>
+      Flowise</a></p>
 				<p>
-      Stremio - Freedom to Stream
+      Build AI Agents, Visually
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2804</span>
-						<span>🔱 495</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 44367</span>
+						<span>🔱 22598</span>
 					</div>
-				<div class="stars-today">⭐ 294 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23837</span>
-						<span>🔱 1839</span>
-					</div>
-				<div class="stars-today">⭐ 1054 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 51098</span>
-						<span>🔱 11505</span>
-					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/audacity/audacity" target="_blank">
-    
-
-
-      
-        audacity /
-
-      audacity</a></p>
-				<p>
-      Audio Editor 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 14975</span>
-						<span>🔱 2416</span>
-					</div>
-				<div class="stars-today">⭐ 235 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36330</span>
-						<span>🔱 4375</span>
-					</div>
-				<div class="stars-today">⭐ 232 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openemr/openemr" target="_blank">
-    
-
-
-      
-        openemr /
-
-      openemr</a></p>
-				<p>
-      The most popular open source electronic health records and medical practice management solution.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 3889</span>
-						<span>🔱 2526</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
-    
-
-
-      
-        dgtlmoon /
-
-      changedetection.io</a></p>
-				<p>
-      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27234</span>
-						<span>🔱 1518</span>
-					</div>
-				<div class="stars-today">⭐ 81 stars today</div>
+				<div class="stars-today">⭐ 167 stars today</div>
 				</div>
 			</div>
 	
@@ -250,164 +162,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2931</span>
+						<span>⭐ 3015</span>
 						<span>🔱 232</span>
 					</div>
-				<div class="stars-today">⭐ 419 stars today</div>
+				<div class="stars-today">⭐ 561 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
+				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
     
 
 
       
-        zama-ai /
+        dgtlmoon /
 
-      fhevm</a></p>
+      changedetection.io</a></p>
 				<p>
-      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22599</span>
-						<span>🔱 1065</span>
-					</div>
-				<div class="stars-today">⭐ 191 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
-    
-
-
-      
-        pathwaycom /
-
-      pathway</a></p>
-				<p>
-      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45353</span>
-						<span>🔱 1388</span>
+						<span>⭐ 27265</span>
+						<span>🔱 1520</span>
 					</div>
-				<div class="stars-today">⭐ 354 stars today</div>
+				<div class="stars-today">⭐ 295 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
     
 
 
       
-        TheAlgorithms /
+        Flowseal /
 
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
-    </p>
+      zapret-discord-youtube</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 210186</span>
-						<span>🔱 48477</span>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 16964</span>
+						<span>🔱 1200</span>
 					</div>
-				<div class="stars-today">⭐ 69 stars today</div>
+				<div class="stars-today">⭐ 188 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+				<p><a href="https://github.com/audacity/audacity" target="_blank">
     
 
 
       
-        kestra-io /
+        audacity /
 
-      kestra</a></p>
+      audacity</a></p>
 				<p>
-      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+      Audio Editor 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 22265</span>
-						<span>🔱 2008</span>
+						<span>🔠 C++</span>
+						<span>⭐ 14991</span>
+						<span>🔱 2416</span>
 					</div>
-				<div class="stars-today">⭐ 219 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/htr-tech/zphisher" target="_blank">
-    
-
-
-      
-        htr-tech /
-
-      zphisher</a></p>
-				<p>
-      An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit !
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 14545</span>
-						<span>🔱 5332</span>
-					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 371824</span>
-						<span>🔱 64628</span>
-					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/osv.dev" target="_blank">
-    
-
-
-      
-        google /
-
-      osv.dev</a></p>
-				<p>
-      Open source vulnerability DB and triage service.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2287</span>
-						<span>🔱 233</span>
-					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
+				<div class="stars-today">⭐ 204 stars today</div>
 				</div>
 			</div>
 	
@@ -426,32 +248,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 20749</span>
-						<span>🔱 1891</span>
+						<span>⭐ 20771</span>
+						<span>🔱 1892</span>
 					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
+				<div class="stars-today">⭐ 216 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shadcn-ui/ui" target="_blank">
+				<p><a href="https://github.com/SimplifyJobs/New-Grad-Positions" target="_blank">
     
 
 
       
-        shadcn-ui /
+        SimplifyJobs /
 
-      ui</a></p>
+      New-Grad-Positions</a></p>
 				<p>
-      A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+      A collection of full time roles in SWE, Quant, and PM for new grads.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 96467</span>
-						<span>🔱 6875</span>
+						<span>🔠 </span>
+						<span>⭐ 15174</span>
+						<span>🔱 1215</span>
 					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
+				<div class="stars-today">⭐ 39 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-agents-python</a></p>
+				<p>
+      A lightweight, powerful framework for multi-agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15383</span>
+						<span>🔱 2587</span>
+					</div>
+				<div class="stars-today">⭐ 126 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23854</span>
+						<span>🔱 1840</span>
+					</div>
+				<div class="stars-today">⭐ 169 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
+    
+
+
+      
+        Morganamilo /
+
+      paru</a></p>
+				<p>
+      Feature packed AUR helper
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7378</span>
+						<span>🔱 267</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openemr/openemr" target="_blank">
+    
+
+
+      
+        openemr /
+
+      openemr</a></p>
+				<p>
+      The most popular open source electronic health records and medical practice management solution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 3907</span>
+						<span>🔱 2525</span>
+					</div>
+				<div class="stars-today">⭐ 200 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/is-a-dev/register" target="_blank">
+    
+
+
+      
+        is-a-dev /
+
+      register</a></p>
+				<p>
+      Grab your own sweet-looking '.is-a.dev' subdomain.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8301</span>
+						<span>🔱 15043</span>
+					</div>
+				<div class="stars-today">⭐ 173 stars today</div>
 				</div>
 			</div>
 	
@@ -470,10 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15414</span>
+						<span>⭐ 15428</span>
 						<span>🔱 1642</span>
 					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
+				<div class="stars-today">⭐ 216 stars today</div>
 				</div>
 			</div>
 	

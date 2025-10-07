@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-07T09:59:02Z
+date: 2025-10-07T11:58:38Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 67490</span>
+						<span>⭐ 67491</span>
 						<span>🔱 12595</span>
 					</div>
 				<div class="stars-today">⭐ 4070 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15476</span>
-						<span>🔱 1151</span>
+						<span>⭐ 15480</span>
+						<span>🔱 1152</span>
 					</div>
 				<div class="stars-today">⭐ 9121 stars this month</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8119</span>
-						<span>🔱 945</span>
+						<span>⭐ 8123</span>
+						<span>🔱 946</span>
 					</div>
 				<div class="stars-today">⭐ 3631 stars this month</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45772</span>
-						<span>🔱 6413</span>
+						<span>⭐ 45780</span>
+						<span>🔱 6414</span>
 					</div>
 				<div class="stars-today">⭐ 6246 stars this month</div>
 				</div>
@@ -116,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5494</span>
+						<span>⭐ 5497</span>
 						<span>🔱 410</span>
 					</div>
 				<div class="stars-today">⭐ 3357 stars this month</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5647</span>
-						<span>🔱 426</span>
+						<span>⭐ 5649</span>
+						<span>🔱 427</span>
 					</div>
 				<div class="stars-today">⭐ 3472 stars this month</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 46209</span>
-						<span>🔱 5513</span>
+						<span>⭐ 46219</span>
+						<span>🔱 5514</span>
 					</div>
 				<div class="stars-today">⭐ 7367 stars this month</div>
 				</div>
@@ -182,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58051</span>
-						<span>🔱 9315</span>
+						<span>⭐ 58055</span>
+						<span>🔱 9317</span>
 					</div>
 				<div class="stars-today">⭐ 3162 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
-    
-
-
-      
-        dataease /
-
-      SQLBot</a></p>
-				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3606</span>
-						<span>🔱 357</span>
-					</div>
-				<div class="stars-today">⭐ 2320 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1967</span>
-						<span>🔱 297</span>
+						<span>⭐ 1966</span>
+						<span>🔱 300</span>
 					</div>
 				<div class="stars-today">⭐ 1087 stars this month</div>
 				</div>
@@ -248,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26408</span>
+						<span>⭐ 26415</span>
 						<span>🔱 2741</span>
 					</div>
 				<div class="stars-today">⭐ 2556 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+    
+
+
+      
+        dataease /
+
+      SQLBot</a></p>
+				<p>
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3608</span>
+						<span>🔱 357</span>
+					</div>
+				<div class="stars-today">⭐ 2320 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4406</span>
-						<span>🔱 493</span>
+						<span>⭐ 4410</span>
+						<span>🔱 495</span>
 					</div>
 				<div class="stars-today">⭐ 1608 stars this month</div>
 				</div>
@@ -292,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86274</span>
+						<span>⭐ 86279</span>
 						<span>🔱 8441</span>
 					</div>
 				<div class="stars-today">⭐ 2557 stars this month</div>
@@ -314,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 14483</span>
+						<span>⭐ 14490</span>
 						<span>🔱 1158</span>
 					</div>
 				<div class="stars-today">⭐ 1802 stars this month</div>
@@ -322,46 +322,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/uutils/coreutils" target="_blank">
+				<p><a href="https://github.com/HKUDS/AutoAgent" target="_blank">
     
 
 
       
-        uutils /
+        HKUDS /
 
-      coreutils</a></p>
+      AutoAgent</a></p>
 				<p>
-      Cross-platform Rust rewrite of the GNU coreutils
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21830</span>
-						<span>🔱 1597</span>
-					</div>
-				<div class="stars-today">⭐ 791 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
+      "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 210186</span>
-						<span>🔱 48477</span>
+						<span>⭐ 7487</span>
+						<span>🔱 1002</span>
 					</div>
-				<div class="stars-today">⭐ 3694 stars this month</div>
+				<div class="stars-today">⭐ 1517 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Vector-Wangel/XLeRobot" target="_blank">
+    
+
+
+      
+        Vector-Wangel /
+
+      XLeRobot</a></p>
+				<p>
+      XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3798</span>
+						<span>🔱 373</span>
+					</div>
+				<div class="stars-today">⭐ 2068 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
+    
+
+
+      
+        PowerShell /
+
+      PowerShell</a></p>
+				<p>
+      PowerShell for every system!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 50171</span>
+						<span>🔱 7968</span>
+					</div>
+				<div class="stars-today">⭐ 2009 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/audacity/audacity" target="_blank">
+    
+
+
+      
+        audacity /
+
+      audacity</a></p>
+				<p>
+      Audio Editor 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 14991</span>
+						<span>🔱 2416</span>
+					</div>
+				<div class="stars-today">⭐ 724 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+    
+
+
+      
+        elastic /
+
+      elasticsearch</a></p>
+				<p>
+      Free and Open Source, Distributed, RESTful Search Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 74956</span>
+						<span>🔱 25537</span>
+					</div>
+				<div class="stars-today">⭐ 1339 stars this month</div>
 				</div>
 			</div>
 	

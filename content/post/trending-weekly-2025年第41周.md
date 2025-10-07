@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第41周
-date: 2025-10-07T09:59:02Z
+date: 2025-10-07T11:58:38Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45772</span>
-						<span>🔱 6413</span>
+						<span>⭐ 45780</span>
+						<span>🔱 6414</span>
 					</div>
 				<div class="stars-today">⭐ 4786 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+    
+
+
+      
+        tile-ai /
+
+      tilelang</a></p>
+				<p>
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 3206</span>
+						<span>🔱 237</span>
+					</div>
+				<div class="stars-today">⭐ 1306 stars this week</div>
 				</div>
 			</div>
 	
@@ -50,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2237</span>
-						<span>🔱 280</span>
+						<span>⭐ 2240</span>
+						<span>🔱 282</span>
 					</div>
 				<div class="stars-today">⭐ 1062 stars this week</div>
 				</div>
@@ -72,76 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2146</span>
+						<span>⭐ 2148</span>
 						<span>🔱 130</span>
 					</div>
 				<div class="stars-today">⭐ 1116 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/server" target="_blank">
-    
-
-
-      
-        nextcloud /
-
-      server</a></p>
-				<p>
-      ☁️ Nextcloud server, a safe home for all your data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 32796</span>
-						<span>🔱 4564</span>
-					</div>
-				<div class="stars-today">⭐ 1935 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9479</span>
-						<span>🔱 2092</span>
-					</div>
-				<div class="stars-today">⭐ 2136 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Done-0/fuck-u-code" target="_blank">
-    
-
-
-      
-        Done-0 /
-
-      fuck-u-code</a></p>
-				<p>
-      Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5178</span>
-						<span>🔱 249</span>
-					</div>
-				<div class="stars-today">⭐ 1112 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,142 +116,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23837</span>
-						<span>🔱 1839</span>
+						<span>⭐ 23854</span>
+						<span>🔱 1840</span>
 					</div>
 				<div class="stars-today">⭐ 1656 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apache/gravitino" target="_blank">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
     
 
 
       
-        apache /
+        hsliuping /
 
-      gravitino</a></p>
+      TradingAgents-CN</a></p>
 				<p>
-      World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2121</span>
-						<span>🔱 631</span>
-					</div>
-				<div class="stars-today">⭐ 273 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
-    
-
-
-      
-        YaLTeR /
-
-      niri</a></p>
-				<p>
-      A scrollable-tiling Wayland compositor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 12854</span>
-						<span>🔱 449</span>
-					</div>
-				<div class="stars-today">⭐ 982 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20671</span>
-						<span>🔱 2206</span>
-					</div>
-				<div class="stars-today">⭐ 367 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AykutSarac/jsoncrack.com" target="_blank">
-    
-
-
-      
-        AykutSarac /
-
-      jsoncrack.com</a></p>
-				<p>
-      ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41941</span>
-						<span>🔱 2995</span>
-					</div>
-				<div class="stars-today">⭐ 572 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/typst/typst" target="_blank">
-    
-
-
-      
-        typst /
-
-      typst</a></p>
-				<p>
-      A new markup-based typesetting system that is powerful and easy to learn.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 46707</span>
-						<span>🔱 1262</span>
-					</div>
-				<div class="stars-today">⭐ 489 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/scrapy/scrapy" target="_blank">
-    
-
-
-      
-        scrapy /
-
-      scrapy</a></p>
-				<p>
-      Scrapy, a fast high-level web crawling & scraping framework for Python.
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58500</span>
-						<span>🔱 11090</span>
+						<span>⭐ 9483</span>
+						<span>🔱 2093</span>
 					</div>
-				<div class="stars-today">⭐ 98 stars this week</div>
+				<div class="stars-today">⭐ 2136 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
+    
+
+
+      
+        nextcloud /
+
+      server</a></p>
+				<p>
+      ☁️ Nextcloud server, a safe home for all your data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 32799</span>
+						<span>🔱 4565</span>
+					</div>
+				<div class="stars-today">⭐ 1935 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,54 +182,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21856</span>
-						<span>🔱 1474</span>
+						<span>⭐ 21915</span>
+						<span>🔱 1479</span>
 					</div>
 				<div class="stars-today">⭐ 719 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
     
 
 
       
-        kestra-io /
+        YaLTeR /
 
-      kestra</a></p>
+      niri</a></p>
 				<p>
-      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+      A scrollable-tiling Wayland compositor.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 22265</span>
-						<span>🔱 2008</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 12865</span>
+						<span>🔱 449</span>
 					</div>
-				<div class="stars-today">⭐ 828 stars this week</div>
+				<div class="stars-today">⭐ 982 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/commaai/openpilot" target="_blank">
+				<p><a href="https://github.com/apache/gravitino" target="_blank">
     
 
 
       
-        commaai /
+        apache /
 
-      openpilot</a></p>
+      gravitino</a></p>
 				<p>
-      openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.
+      World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2122</span>
+						<span>🔱 631</span>
+					</div>
+				<div class="stars-today">⭐ 273 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Done-0/fuck-u-code" target="_blank">
+    
+
+
+      
+        Done-0 /
+
+      fuck-u-code</a></p>
+				<p>
+      Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report | 屎山代码检测器，评估代码的“屎山等级”并输出美观的报告
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5180</span>
+						<span>🔱 250</span>
+					</div>
+				<div class="stars-today">⭐ 1112 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BeehiveInnovations/zen-mcp-server" target="_blank">
+    
+
+
+      
+        BeehiveInnovations /
+
+      zen-mcp-server</a></p>
+				<p>
+      The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58258</span>
-						<span>🔱 10297</span>
+						<span>⭐ 7861</span>
+						<span>🔱 668</span>
 					</div>
-				<div class="stars-today">⭐ 1053 stars this week</div>
+				<div class="stars-today">⭐ 505 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 85913</span>
+						<span>🔱 37971</span>
+					</div>
+				<div class="stars-today">⭐ 178 stars this week</div>
 				</div>
 			</div>
 	
@@ -380,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 63793</span>
-						<span>🔱 20427</span>
+						<span>⭐ 63797</span>
+						<span>🔱 20429</span>
 					</div>
 				<div class="stars-today">⭐ 180 stars this week</div>
 				</div>
@@ -402,10 +336,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 92914</span>
+						<span>⭐ 92917</span>
 						<span>🔱 27229</span>
 					</div>
 				<div class="stars-today">⭐ 125 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
+    
+
+
+      
+        swisskyrepo /
+
+      PayloadsAllTheThings</a></p>
+				<p>
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70559</span>
+						<span>🔱 16029</span>
+					</div>
+				<div class="stars-today">⭐ 257 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 16964</span>
+						<span>🔱 1200</span>
+					</div>
+				<div class="stars-today">⭐ 563 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+    
+
+
+      
+        kestra-io /
+
+      kestra</a></p>
+				<p>
+      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 22276</span>
+						<span>🔱 2008</span>
+					</div>
+				<div class="stars-today">⭐ 828 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36344</span>
+						<span>🔱 4376</span>
+					</div>
+				<div class="stars-today">⭐ 2152 stars this week</div>
 				</div>
 			</div>
 	
