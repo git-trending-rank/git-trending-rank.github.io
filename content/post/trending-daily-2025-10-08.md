@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-08
-date: 2025-10-08T09:58:36Z
+date: 2025-10-08T11:58:42Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4502</span>
-						<span>🔱 612</span>
+						<span>⭐ 4647</span>
+						<span>🔱 618</span>
 					</div>
-				<div class="stars-today">⭐ 573 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10177</span>
-						<span>🔱 554</span>
-					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16771</span>
-						<span>🔱 2141</span>
-					</div>
-				<div class="stars-today">⭐ 259 stars today</div>
+				<div class="stars-today">⭐ 1803 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22148</span>
-						<span>🔱 1494</span>
+						<span>⭐ 22168</span>
+						<span>🔱 1495</span>
 					</div>
-				<div class="stars-today">⭐ 1185 stars today</div>
+				<div class="stars-today">⭐ 269 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      stagehand</a></p>
+				<p>
+      The AI Browser Automation Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17382</span>
+						<span>🔱 1082</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 51420</span>
+						<span>🔱 11577</span>
+					</div>
+				<div class="stars-today">⭐ 314 stars today</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8149</span>
-						<span>🔱 694</span>
+						<span>⭐ 8174</span>
+						<span>🔱 696</span>
 					</div>
-				<div class="stars-today">⭐ 374 stars today</div>
+				<div class="stars-today">⭐ 333 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FlowiseAI/Flowise" target="_blank">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
     
 
 
       
-        FlowiseAI /
+        trycua /
 
-      Flowise</a></p>
+      cua</a></p>
 				<p>
-      Build AI Agents, Visually
+      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 44762</span>
-						<span>🔱 22639</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10199</span>
+						<span>🔱 555</span>
 					</div>
-				<div class="stars-today">⭐ 169 stars today</div>
+				<div class="stars-today">⭐ 311 stars today</div>
 				</div>
 			</div>
 	
@@ -162,162 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3554</span>
+						<span>⭐ 3614</span>
 						<span>🔱 265</span>
 					</div>
-				<div class="stars-today">⭐ 543 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
-    
-
-
-      
-        dgtlmoon /
-
-      changedetection.io</a></p>
-				<p>
-      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27511</span>
-						<span>🔱 1530</span>
-					</div>
-				<div class="stars-today">⭐ 291 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 17010</span>
-						<span>🔱 1203</span>
-					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/audacity/audacity" target="_blank">
-    
-
-
-      
-        audacity /
-
-      audacity</a></p>
-				<p>
-      Audio Editor 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15146</span>
-						<span>🔱 2425</span>
-					</div>
-				<div class="stars-today">⭐ 201 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firefly-iii/firefly-iii" target="_blank">
-    
-
-
-      
-        firefly-iii /
-
-      firefly-iii</a></p>
-				<p>
-      Firefly III: a personal finances manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 20951</span>
-						<span>🔱 1904</span>
-					</div>
-				<div class="stars-today">⭐ 210 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-agents-python</a></p>
-				<p>
-      A lightweight, powerful framework for multi-agent workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15678</span>
-						<span>🔱 2622</span>
-					</div>
-				<div class="stars-today">⭐ 126 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23952</span>
-						<span>🔱 1849</span>
-					</div>
-				<div class="stars-today">⭐ 177 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
-    
-
-
-      
-        Morganamilo /
-
-      paru</a></p>
-				<p>
-      Feature packed AUR helper
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7439</span>
-						<span>🔱 268</span>
-					</div>
-				<div class="stars-today">⭐ 6 stars today</div>
+				<div class="stars-today">⭐ 613 stars today</div>
 				</div>
 			</div>
 	
@@ -336,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 4106</span>
+						<span>⭐ 4120</span>
 						<span>🔱 2537</span>
 					</div>
-				<div class="stars-today">⭐ 197 stars today</div>
+				<div class="stars-today">⭐ 222 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/is-a-dev/register" target="_blank">
+				<p><a href="https://github.com/thingsboard/thingsboard" target="_blank">
     
 
 
       
-        is-a-dev /
+        thingsboard /
 
-      register</a></p>
+      thingsboard</a></p>
 				<p>
-      Grab your own sweet-looking '.is-a.dev' subdomain.
+      Open-source IoT Platform - Device management, data collection, processing and visualization.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8465</span>
-						<span>🔱 15187</span>
+						<span>🔠 Java</span>
+						<span>⭐ 19851</span>
+						<span>🔱 5828</span>
 					</div>
-				<div class="stars-today">⭐ 179 stars today</div>
+				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
 			</div>
 	
@@ -380,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15610</span>
+						<span>⭐ 15630</span>
 						<span>🔱 1656</span>
 					</div>
-				<div class="stars-today">⭐ 215 stars today</div>
+				<div class="stars-today">⭐ 200 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shadcn-ui/ui" target="_blank">
+    
+
+
+      
+        shadcn-ui /
+
+      ui</a></p>
+				<p>
+      A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 96573</span>
+						<span>🔱 6890</span>
+					</div>
+				<div class="stars-today">⭐ 354 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8471</span>
+						<span>🔱 643</span>
+					</div>
+				<div class="stars-today">⭐ 85 stars today</div>
 				</div>
 			</div>
 	

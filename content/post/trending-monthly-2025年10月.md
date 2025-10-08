@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-08T09:58:36Z
+date: 2025-10-08T11:58:42Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
-    
-
-
-      
-        twitter /
-
-      the-algorithm</a></p>
-				<p>
-      Source code for the X Recommendation Algorithm
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Scala</span>
-						<span>⭐ 67520</span>
-						<span>🔱 12594</span>
-					</div>
-				<div class="stars-today">⭐ 4099 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
@@ -52,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15533</span>
+						<span>⭐ 15534</span>
 						<span>🔱 1155</span>
 					</div>
 				<div class="stars-today">⭐ 9158 stars this month</div>
@@ -72,7 +50,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8141</span>
+						<span>⭐ 8142</span>
 						<span>🔱 946</span>
 					</div>
 				<div class="stars-today">⭐ 3649 stars this month</div>
@@ -102,28 +80,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      registry</a></p>
-				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5519</span>
-						<span>🔱 413</span>
-					</div>
-				<div class="stars-today">⭐ 3385 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
     
 
@@ -138,10 +94,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5697</span>
+						<span>⭐ 5702</span>
 						<span>🔱 433</span>
 					</div>
 				<div class="stars-today">⭐ 3472 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry</a></p>
+				<p>
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5525</span>
+						<span>🔱 414</span>
+					</div>
+				<div class="stars-today">⭐ 3385 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 46399</span>
-						<span>🔱 5557</span>
+						<span>⭐ 46414</span>
+						<span>🔱 5558</span>
 					</div>
 				<div class="stars-today">⭐ 7304 stars this month</div>
 				</div>
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58107</span>
-						<span>🔱 9320</span>
+						<span>⭐ 58110</span>
+						<span>🔱 9319</span>
 					</div>
 				<div class="stars-today">⭐ 3215 stars this month</div>
 				</div>
@@ -212,6 +190,48 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2281</span>
+						<span>🔱 286</span>
+					</div>
+				<div class="stars-today">⭐ 1333 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+    
+
+
+      
+        twitter /
+
+      the-algorithm</a></p>
+				<p>
+      Source code for the X Recommendation Algorithm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Scala</span>
+						<span>⭐ 67524</span>
+						<span>🔱 12594</span>
+					</div>
+				<div class="stars-today">⭐ 4099 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
     
 
@@ -226,8 +246,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26475</span>
-						<span>🔱 2741</span>
+						<span>⭐ 26477</span>
+						<span>🔱 2743</span>
 					</div>
 				<div class="stars-today">⭐ 2590 stars this month</div>
 				</div>
@@ -248,32 +268,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3623</span>
+						<span>⭐ 3626</span>
 						<span>🔱 358</span>
 					</div>
 				<div class="stars-today">⭐ 2325 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
-    
-
-
-      
-        firebase /
-
-      genkit</a></p>
-				<p>
-      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4429</span>
-						<span>🔱 497</span>
-					</div>
-				<div class="stars-today">⭐ 1649 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +290,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86305</span>
+						<span>⭐ 86307</span>
 						<span>🔱 8443</span>
 					</div>
 				<div class="stars-today">⭐ 2571 stars this month</div>
@@ -300,24 +298,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
+				<p><a href="https://github.com/firebase/genkit" target="_blank">
     
 
 
       
-        ntdevlabs /
+        firebase /
 
-      tiny11builder</a></p>
+      genkit</a></p>
 				<p>
-      Scripts to build a trimmed-down Windows 11 image.
+      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 14544</span>
-						<span>🔱 1162</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4433</span>
+						<span>🔱 497</span>
 					</div>
-				<div class="stars-today">⭐ 1827 stars this month</div>
+				<div class="stars-today">⭐ 1649 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +334,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7538</span>
+						<span>⭐ 7540</span>
 						<span>🔱 1009</span>
 					</div>
 				<div class="stars-today">⭐ 1514 stars this month</div>
@@ -344,46 +342,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Vector-Wangel/XLeRobot" target="_blank">
+				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
     
 
 
       
-        Vector-Wangel /
+        ntdevlabs /
 
-      XLeRobot</a></p>
+      tiny11builder</a></p>
 				<p>
-      XLeRobot: Practical Dual-Arm Mobile Home Robot for $660
+      Scripts to build a trimmed-down Windows 11 image.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3822</span>
-						<span>🔱 373</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 14547</span>
+						<span>🔱 1162</span>
 					</div>
-				<div class="stars-today">⭐ 2007 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
-    
-
-
-      
-        PowerShell /
-
-      PowerShell</a></p>
-				<p>
-      PowerShell for every system!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 50186</span>
-						<span>🔱 7969</span>
-					</div>
-				<div class="stars-today">⭐ 2009 stars this month</div>
+				<div class="stars-today">⭐ 1827 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,7 +378,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 15146</span>
+						<span>⭐ 15155</span>
 						<span>🔱 2425</span>
 					</div>
 				<div class="stars-today">⭐ 893 stars this month</div>
@@ -410,24 +386,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
     
 
 
       
-        elastic /
+        TheAlgorithms /
 
-      elasticsearch</a></p>
+      Python</a></p>
 				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
+      All Algorithms implemented in Python
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 74970</span>
-						<span>🔱 25539</span>
+						<span>🔠 Python</span>
+						<span>⭐ 210274</span>
+						<span>🔱 48503</span>
 					</div>
-				<div class="stars-today">⭐ 1339 stars this month</div>
+				<div class="stars-today">⭐ 3878 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
+    
+
+
+      
+        PowerShell /
+
+      PowerShell</a></p>
+				<p>
+      PowerShell for every system!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 50188</span>
+						<span>🔱 7969</span>
+					</div>
+				<div class="stars-today">⭐ 2009 stars this month</div>
 				</div>
 			</div>
 	
