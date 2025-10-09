@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第41周
-date: 2025-10-09T09:59:04Z
+date: 2025-10-09T11:58:35Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2401</span>
-						<span>🔱 145</span>
-					</div>
-				<div class="stars-today">⭐ 975 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
@@ -52,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23998</span>
+						<span>⭐ 24001</span>
 						<span>🔱 1853</span>
 					</div>
 				<div class="stars-today">⭐ 1910 stars this week</div>
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22388</span>
-						<span>🔱 1510</span>
+						<span>⭐ 22403</span>
+						<span>🔱 1513</span>
 					</div>
 				<div class="stars-today">⭐ 2069 stars this week</div>
 				</div>
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8469</span>
+						<span>⭐ 8484</span>
 						<span>🔱 712</span>
 					</div>
 				<div class="stars-today">⭐ 846 stars this week</div>
@@ -118,30 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9769</span>
-						<span>🔱 2143</span>
+						<span>⭐ 9781</span>
+						<span>🔱 2146</span>
 					</div>
 				<div class="stars-today">⭐ 2220 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+				<p><a href="https://github.com/google/tunix" target="_blank">
     
 
 
       
-        anthropics /
+        google /
 
-      claude-agent-sdk-python</a></p>
-				<p></p>
+      tunix</a></p>
+				<p>
+      A JAX-native LLM Post-Training Library
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2341</span>
-						<span>🔱 290</span>
+						<span>⭐ 1593</span>
+						<span>🔱 137</span>
 					</div>
-				<div class="stars-today">⭐ 608 stars this week</div>
+				<div class="stars-today">⭐ 1299 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 4268</span>
+						<span>⭐ 4270</span>
 						<span>🔱 2549</span>
 					</div>
 				<div class="stars-today">⭐ 436 stars this week</div>
@@ -168,134 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
     
 
 
       
-        YaLTeR /
+        cjpais /
 
-      niri</a></p>
+      Handy</a></p>
 				<p>
-      A scrollable-tiling Wayland compositor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13057</span>
-						<span>🔱 452</span>
-					</div>
-				<div class="stars-today">⭐ 1109 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/server" target="_blank">
-    
-
-
-      
-        nextcloud /
-
-      server</a></p>
-				<p>
-      ☁️ Nextcloud server, a safe home for all your data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 32853</span>
-						<span>🔱 4568</span>
-					</div>
-				<div class="stars-today">⭐ 1297 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36455</span>
-						<span>🔱 4405</span>
-					</div>
-				<div class="stars-today">⭐ 2431 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
-    
-
-
-      
-        tile-ai /
-
-      tilelang</a></p>
-				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3322</span>
-						<span>🔱 243</span>
-					</div>
-				<div class="stars-today">⭐ 681 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
-    
-
-
-      
-        bitcoin /
-
-      bitcoin</a></p>
-				<p>
-      Bitcoin Core integration/staging tree
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 85977</span>
-						<span>🔱 37988</span>
-					</div>
-				<div class="stars-today">⭐ 183 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/immich-app/immich" target="_blank">
-    
-
-
-      
-        immich-app /
-
-      immich</a></p>
-				<p>
-      High performance self-hosted photo and video management solution.
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 80623</span>
-						<span>🔱 4232</span>
+						<span>⭐ 2412</span>
+						<span>🔱 145</span>
 					</div>
-				<div class="stars-today">⭐ 2496 stars this week</div>
+				<div class="stars-today">⭐ 975 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 22363</span>
+						<span>⭐ 22374</span>
 						<span>🔱 2040</span>
 					</div>
 				<div class="stars-today">⭐ 995 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 85981</span>
+						<span>🔱 37990</span>
+					</div>
+				<div class="stars-today">⭐ 183 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 36465</span>
+						<span>🔱 4405</span>
+					</div>
+				<div class="stars-today">⭐ 2431 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+    
+
+
+      
+        YaLTeR /
+
+      niri</a></p>
+				<p>
+      A scrollable-tiling Wayland compositor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 13067</span>
+						<span>🔱 453</span>
+					</div>
+				<div class="stars-today">⭐ 1109 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,98 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10488</span>
-						<span>🔱 571</span>
+						<span>⭐ 10494</span>
+						<span>🔱 572</span>
 					</div>
 				<div class="stars-today">⭐ 443 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tigerbeetle/tigerbeetle" target="_blank">
-    
-
-
-      
-        tigerbeetle /
-
-      tigerbeetle</a></p>
-				<p>
-      The financial transactions database designed for mission critical safety and performance.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 14002</span>
-						<span>🔱 691</span>
-					</div>
-				<div class="stars-today">⭐ 414 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/gravitino" target="_blank">
-    
-
-
-      
-        apache /
-
-      gravitino</a></p>
-				<p>
-      World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2177</span>
-						<span>🔱 634</span>
-					</div>
-				<div class="stars-today">⭐ 252 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15867</span>
-						<span>🔱 1682</span>
-					</div>
-				<div class="stars-today">⭐ 562 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jackc/pgx" target="_blank">
-    
-
-
-      
-        jackc /
-
-      pgx</a></p>
-				<p>
-      PostgreSQL driver and toolkit for Go
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12608</span>
-						<span>🔱 950</span>
-					</div>
-				<div class="stars-today">⭐ 52 stars this week</div>
 				</div>
 			</div>
 	
@@ -446,10 +294,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 92975</span>
-						<span>🔱 27235</span>
+						<span>⭐ 92978</span>
+						<span>🔱 27236</span>
 					</div>
 				<div class="stars-today">⭐ 169 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/firefly-iii/firefly-iii" target="_blank">
+    
+
+
+      
+        firefly-iii /
+
+      firefly-iii</a></p>
+				<p>
+      Firefly III: a personal finances manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 20980</span>
+						<span>🔱 1909</span>
+					</div>
+				<div class="stars-today">⭐ 475 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+    
+
+
+      
+        tile-ai /
+
+      tilelang</a></p>
+				<p>
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 3333</span>
+						<span>🔱 243</span>
+					</div>
+				<div class="stars-today">⭐ 681 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/gravitino" target="_blank">
+    
+
+
+      
+        apache /
+
+      gravitino</a></p>
+				<p>
+      World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2180</span>
+						<span>🔱 634</span>
+					</div>
+				<div class="stars-today">⭐ 252 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jackc/pgx" target="_blank">
+    
+
+
+      
+        jackc /
+
+      pgx</a></p>
+				<p>
+      PostgreSQL driver and toolkit for Go
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 12610</span>
+						<span>🔱 950</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+    
+
+
+      
+        Stremio /
+
+      stremio-web</a></p>
+				<p>
+      Stremio - Freedom to Stream
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6200</span>
+						<span>🔱 749</span>
+					</div>
+				<div class="stars-today">⭐ 3527 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-framework" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-framework</a></p>
+				<p>
+      A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3181</span>
+						<span>🔱 372</span>
+					</div>
+				<div class="stars-today">⭐ 2450 stars this week</div>
 				</div>
 			</div>
 	
