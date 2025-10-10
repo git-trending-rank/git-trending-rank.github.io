@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第41周
-date: 2025-10-10T09:58:33Z
+date: 2025-10-10T11:58:56Z
 categories:
 - weekly
 keywords:
@@ -38,28 +38,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
-    
-
-
-      
-        Infisical /
-
-      infisical</a></p>
-				<p>
-      Infisical is the open-source platform for secrets management, PKI, and SSH access.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22458</span>
-						<span>🔱 1514</span>
-					</div>
-				<div class="stars-today">⭐ 2300 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/BeehiveInnovations/zen-mcp-server" target="_blank">
     
 
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8574</span>
+						<span>⭐ 8581</span>
 						<span>🔱 719</span>
 					</div>
 				<div class="stars-today">⭐ 1150 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets management, PKI, and SSH access.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22465</span>
+						<span>🔱 1515</span>
+					</div>
+				<div class="stars-today">⭐ 2300 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9989</span>
-						<span>🔱 2182</span>
+						<span>⭐ 10004</span>
+						<span>🔱 2186</span>
 					</div>
 				<div class="stars-today">⭐ 2146 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/tunix" target="_blank">
-    
-
-
-      
-        google /
-
-      tunix</a></p>
-				<p>
-      A JAX-native LLM Post-Training Library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1611</span>
-						<span>🔱 138</span>
-					</div>
-				<div class="stars-today">⭐ 999 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 4293</span>
+						<span>⭐ 4295</span>
 						<span>🔱 2552</span>
 					</div>
 				<div class="stars-today">⭐ 591 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2500</span>
-						<span>🔱 151</span>
-					</div>
-				<div class="stars-today">⭐ 1008 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
-    
-
-
-      
-        kestra-io /
-
-      kestra</a></p>
-				<p>
-      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 22406</span>
-						<span>🔱 2045</span>
-					</div>
-				<div class="stars-today">⭐ 994 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
-    
-
-
-      
-        bitcoin /
-
-      bitcoin</a></p>
-				<p>
-      Bitcoin Core integration/staging tree
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 86012</span>
-						<span>🔱 38002</span>
-					</div>
-				<div class="stars-today">⭐ 203 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
-    
-
-
-      
-        juspay /
-
-      hyperswitch</a></p>
-				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36482</span>
-						<span>🔱 4408</span>
-					</div>
-				<div class="stars-today">⭐ 1819 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13135</span>
+						<span>⭐ 13143</span>
 						<span>🔱 456</span>
 					</div>
 				<div class="stars-today">⭐ 1192 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
+    
+
+
+      
+        dgtlmoon /
+
+      changedetection.io</a></p>
+				<p>
+      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27633</span>
+						<span>🔱 1539</span>
+					</div>
+				<div class="stars-today">⭐ 941 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kestra-io/kestra" target="_blank">
+    
+
+
+      
+        kestra-io /
+
+      kestra</a></p>
+				<p>
+      Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 22418</span>
+						<span>🔱 2046</span>
+					</div>
+				<div class="stars-today">⭐ 994 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10560</span>
+						<span>⭐ 10563</span>
 						<span>🔱 578</span>
 					</div>
 				<div class="stars-today">⭐ 728 stars this week</div>
@@ -280,24 +214,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iluwatar/java-design-patterns" target="_blank">
+				<p><a href="https://github.com/atuinsh/desktop" target="_blank">
     
 
 
       
-        iluwatar /
+        atuinsh /
 
-      java-design-patterns</a></p>
+      desktop</a></p>
 				<p>
-      Design patterns implemented in Java
+      📖 Runbooks that run 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 93006</span>
-						<span>🔱 27242</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1364</span>
+						<span>🔱 40</span>
 					</div>
-				<div class="stars-today">⭐ 189 stars this week</div>
+				<div class="stars-today">⭐ 512 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/tunix" target="_blank">
+    
+
+
+      
+        google /
+
+      tunix</a></p>
+				<p>
+      A JAX-native LLM Post-Training Library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1614</span>
+						<span>🔱 138</span>
+					</div>
+				<div class="stars-today">⭐ 999 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 21021</span>
+						<span>⭐ 21025</span>
 						<span>🔱 1913</span>
 					</div>
 				<div class="stars-today">⭐ 489 stars this week</div>
@@ -324,24 +280,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+				<p><a href="https://github.com/iluwatar/java-design-patterns" target="_blank">
     
 
 
       
-        tile-ai /
+        iluwatar /
 
-      tilelang</a></p>
+      java-design-patterns</a></p>
 				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+      Design patterns implemented in Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 93007</span>
+						<span>🔱 27242</span>
+					</div>
+				<div class="stars-today">⭐ 189 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3404</span>
-						<span>🔱 246</span>
+						<span>⭐ 86016</span>
+						<span>🔱 38002</span>
 					</div>
-				<div class="stars-today">⭐ 345 stars this week</div>
+				<div class="stars-today">⭐ 203 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 52425</span>
+						<span>🔱 11773</span>
+					</div>
+				<div class="stars-today">⭐ 1515 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2506</span>
+						<span>🔱 152</span>
+					</div>
+				<div class="stars-today">⭐ 1008 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
+    
+
+
+      
+        DioxusLabs /
+
+      dioxus</a></p>
+				<p>
+      Fullstack app framework for web, desktop, and mobile.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 30978</span>
+						<span>🔱 1310</span>
+					</div>
+				<div class="stars-today">⭐ 267 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2200</span>
-						<span>🔱 635</span>
+						<span>⭐ 2201</span>
+						<span>🔱 636</span>
 					</div>
 				<div class="stars-today">⭐ 219 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jackc/pgx" target="_blank">
+				<p><a href="https://github.com/is-a-dev/register" target="_blank">
     
 
 
       
-        jackc /
+        is-a-dev /
 
-      pgx</a></p>
+      register</a></p>
 				<p>
-      PostgreSQL driver and toolkit for Go
+      Grab your own sweet-looking '.is-a.dev' subdomain.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 12621</span>
-						<span>🔱 950</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8518</span>
+						<span>🔱 15273</span>
 					</div>
-				<div class="stars-today">⭐ 66 stars this week</div>
+				<div class="stars-today">⭐ 433 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7071</span>
-						<span>🔱 806</span>
+						<span>⭐ 7105</span>
+						<span>🔱 810</span>
 					</div>
 				<div class="stars-today">⭐ 4772 stars this week</div>
 				</div>
@@ -426,8 +470,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3315</span>
-						<span>🔱 394</span>
+						<span>⭐ 3326</span>
+						<span>🔱 395</span>
 					</div>
 				<div class="stars-today">⭐ 2314 stars this week</div>
 				</div>

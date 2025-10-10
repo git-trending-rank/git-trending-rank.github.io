@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-10
-date: 2025-10-10T09:58:32Z
+date: 2025-10-10T11:58:56Z
 categories:
 - daily
 keywords:
@@ -16,176 +16,68 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
     
 
 
       
-        Stremio /
+        browserbase /
 
-      stremio-web</a></p>
+      stagehand</a></p>
 				<p>
-      Stremio - Freedom to Stream
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7071</span>
-						<span>🔱 806</span>
-					</div>
-				<div class="stars-today">⭐ 1576 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9007</span>
-						<span>🔱 691</span>
-					</div>
-				<div class="stars-today">⭐ 236 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/computer-use-preview" target="_blank">
-    
-
-
-      
-        google /
-
-      computer-use-preview</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 799</span>
-						<span>🔱 92</span>
-					</div>
-				<div class="stars-today">⭐ 203 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
+      The AI Browser Automation Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8730</span>
-						<span>🔱 226</span>
+						<span>⭐ 17986</span>
+						<span>🔱 1131</span>
 					</div>
-				<div class="stars-today">⭐ 859 stars today</div>
+				<div class="stars-today">⭐ 249 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/timelinize/timelinize" target="_blank">
+				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
     
 
 
       
-        timelinize /
+        78 /
 
-      timelinize</a></p>
+      xiaozhi-esp32</a></p>
 				<p>
-      Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+      An MCP-based chatbot | 一个基于MCP的聊天机器人
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2328</span>
-						<span>🔱 68</span>
+						<span>🔠 C++</span>
+						<span>⭐ 19302</span>
+						<span>🔱 3958</span>
 					</div>
-				<div class="stars-today">⭐ 225 stars today</div>
+				<div class="stars-today">⭐ 102 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rust-lang/rustfmt" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        rust-lang /
+        anthropics /
 
-      rustfmt</a></p>
+      claude-code</a></p>
 				<p>
-      Format Rust code
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6580</span>
-						<span>🔱 957</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35994</span>
+						<span>🔱 2260</span>
 					</div>
-				<div class="stars-today">⭐ 9 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
-    
-
-
-      
-        PixelGuys /
-
-      Cubyz</a></p>
-				<p>
-      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 1264</span>
-						<span>🔱 101</span>
-					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-agents-python</a></p>
-				<p>
-      A lightweight, powerful framework for multi-agent workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16166</span>
-						<span>🔱 2656</span>
-					</div>
-				<div class="stars-today">⭐ 116 stars today</div>
+				<div class="stars-today">⭐ 168 stars today</div>
 				</div>
 			</div>
 	
@@ -204,98 +96,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 52401</span>
-						<span>🔱 11766</span>
+						<span>⭐ 52425</span>
+						<span>🔱 11773</span>
 					</div>
-				<div class="stars-today">⭐ 606 stars today</div>
+				<div class="stars-today">⭐ 433 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
     
 
 
       
-        browserbase /
+        TibixDev /
 
-      stagehand</a></p>
+      winboat</a></p>
 				<p>
-      The AI Browser Automation Framework
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17964</span>
-						<span>🔱 1130</span>
+						<span>⭐ 8808</span>
+						<span>🔱 226</span>
 					</div>
-				<div class="stars-today">⭐ 366 stars today</div>
+				<div class="stars-today">⭐ 1261 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
     
 
 
       
-        rustdesk /
+        microsoft /
 
-      rustdesk</a></p>
+      RD-Agent</a></p>
 				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 99663</span>
-						<span>🔱 14652</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8236</span>
+						<span>🔱 873</span>
 					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
+				<div class="stars-today">⭐ 42 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FlowiseAI/Flowise" target="_blank">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
     
 
 
       
-        FlowiseAI /
+        MODSetter /
 
-      Flowise</a></p>
+      SurfSense</a></p>
 				<p>
-      Build AI Agents, Visually
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9029</span>
+						<span>🔱 692</span>
+					</div>
+				<div class="stars-today">⭐ 334 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
+    
+
+
+      
+        CapSoftware /
+
+      Cap</a></p>
+				<p>
+      Open source Loom alternative. Beautiful, shareable screen recordings.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45296</span>
-						<span>🔱 22690</span>
+						<span>⭐ 12203</span>
+						<span>🔱 833</span>
 					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
+				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
     
 
 
       
-        winapps-org /
+        Stremio /
 
-      winapps</a></p>
+      stremio-web</a></p>
 				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+      Stremio - Freedom to Stream
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 10928</span>
-						<span>🔱 335</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7105</span>
+						<span>🔱 810</span>
 					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
+				<div class="stars-today">⭐ 939 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xyflow/xyflow" target="_blank">
+    
+
+
+      
+        xyflow /
+
+      xyflow</a></p>
+				<p>
+      React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32319</span>
+						<span>🔱 2127</span>
+					</div>
+				<div class="stars-today">⭐ 88 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11252</span>
+						<span>🔱 1186</span>
+					</div>
+				<div class="stars-today">⭐ 64 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
+    
+
+
+      
+        evershopcommerce /
+
+      evershop</a></p>
+				<p>
+      🛍️ Typescript E-commerce Platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5882</span>
+						<span>🔱 1699</span>
+					</div>
+				<div class="stars-today">⭐ 93 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
+    
+
+
+      
+        PixelGuys /
+
+      Cubyz</a></p>
+				<p>
+      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 1295</span>
+						<span>🔱 101</span>
+					</div>
+				<div class="stars-today">⭐ 379 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coze-dev/coze-studio" target="_blank">
+    
+
+
+      
+        coze-dev /
+
+      coze-studio</a></p>
+				<p>
+      An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17401</span>
+						<span>🔱 2419</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
+    
+
+
+      
+        WECENG /
+
+      ticket-purchase</a></p>
+				<p>
+      大麦自动抢票，支持人员、城市、日期场次、价格选择
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4378</span>
+						<span>🔱 574</span>
+					</div>
+				<div class="stars-today">⭐ 70 stars today</div>
 				</div>
 			</div>
 	

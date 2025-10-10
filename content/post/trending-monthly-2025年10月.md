@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-10T09:58:33Z
+date: 2025-10-10T11:58:56Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15682</span>
+						<span>⭐ 15687</span>
 						<span>🔱 1169</span>
 					</div>
 				<div class="stars-today">⭐ 9280 stars this month</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46006</span>
-						<span>🔱 6445</span>
+						<span>⭐ 46010</span>
+						<span>🔱 6446</span>
 					</div>
 				<div class="stars-today">⭐ 6409 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
+    
+
+
+      
+        sentient-agi /
+
+      ROMA</a></p>
+				<p>
+      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3734</span>
+						<span>🔱 557</span>
+					</div>
+				<div class="stars-today">⭐ 3588 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5820</span>
-						<span>🔱 446</span>
+						<span>⭐ 5824</span>
+						<span>🔱 447</span>
 					</div>
 				<div class="stars-today">⭐ 3448 stars this month</div>
 				</div>
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3404</span>
+						<span>⭐ 3408</span>
 						<span>🔱 246</span>
 					</div>
 				<div class="stars-today">⭐ 1767 stars this month</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58272</span>
-						<span>🔱 9331</span>
+						<span>⭐ 58279</span>
+						<span>🔱 9330</span>
 					</div>
 				<div class="stars-today">⭐ 3354 stars this month</div>
 				</div>
@@ -140,30 +162,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 46792</span>
-						<span>🔱 5631</span>
+						<span>⭐ 46810</span>
+						<span>🔱 5633</span>
 					</div>
 				<div class="stars-today">⭐ 7199 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Physical-Intelligence/openpi" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
     
 
 
       
-        Physical-Intelligence /
+        anthropics /
 
-      openpi</a></p>
+      claude-agent-sdk-python</a></p>
 				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8204</span>
-						<span>🔱 954</span>
+						<span>⭐ 2374</span>
+						<span>🔱 297</span>
 					</div>
-				<div class="stars-today">⭐ 3410 stars this month</div>
+				<div class="stars-today">⭐ 1416 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2039</span>
-						<span>🔱 309</span>
+						<span>⭐ 2042</span>
+						<span>🔱 310</span>
 					</div>
 				<div class="stars-today">⭐ 1127 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      registry</a></p>
-				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5580</span>
-						<span>🔱 423</span>
-					</div>
-				<div class="stars-today">⭐ 3199 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26580</span>
+						<span>⭐ 26584</span>
 						<span>🔱 2750</span>
 					</div>
 				<div class="stars-today">⭐ 2666 stars this month</div>
@@ -248,54 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3693</span>
-						<span>🔱 368</span>
+						<span>⭐ 3694</span>
+						<span>🔱 369</span>
 					</div>
 				<div class="stars-today">⭐ 2316 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
-    
-
-
-      
-        firebase /
-
-      genkit</a></p>
-				<p>
-      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4563</span>
-						<span>🔱 504</span>
-					</div>
-				<div class="stars-today">⭐ 1737 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
-    
-
-
-      
-        gin-gonic /
-
-      gin</a></p>
-				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86372</span>
-						<span>🔱 8446</span>
-					</div>
-				<div class="stars-today">⭐ 2605 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 15255</span>
+						<span>⭐ 15257</span>
 						<span>🔱 2429</span>
 					</div>
 				<div class="stars-today">⭐ 1121 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      registry</a></p>
+				<p>
+      A community driven registry service for Model Context Protocol (MCP) servers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5581</span>
+						<span>🔱 422</span>
+					</div>
+				<div class="stars-today">⭐ 3199 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+    
+
+
+      
+        gin-gonic /
+
+      gin</a></p>
+				<p>
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 86377</span>
+						<span>🔱 8446</span>
+					</div>
+				<div class="stars-today">⭐ 2605 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 14632</span>
+						<span>⭐ 14635</span>
 						<span>🔱 1167</span>
 					</div>
 				<div class="stars-today">⭐ 1771 stars this month</div>
@@ -344,24 +344,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
+				<p><a href="https://github.com/trueadm/ripple" target="_blank">
     
 
 
       
-        TheAlgorithms /
+        trueadm /
 
-      Python</a></p>
+      ripple</a></p>
 				<p>
-      All Algorithms implemented in Python
+      the elegant TypeScript UI framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 210463</span>
-						<span>🔱 48575</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5595</span>
+						<span>🔱 221</span>
 					</div>
-				<div class="stars-today">⭐ 3943 stars this month</div>
+				<div class="stars-today">⭐ 3714 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6634</span>
+						<span>⭐ 6638</span>
 						<span>🔱 576</span>
 					</div>
 				<div class="stars-today">⭐ 1169 stars this month</div>
@@ -388,46 +388,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
+				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
     
 
 
       
-        PowerShell /
+        CodebuffAI /
 
-      PowerShell</a></p>
+      codebuff</a></p>
 				<p>
-      PowerShell for every system!
+      Generate code from the terminal!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 50235</span>
-						<span>🔱 7969</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2293</span>
+						<span>🔱 292</span>
 					</div>
-				<div class="stars-today">⭐ 2033 stars this month</div>
+				<div class="stars-today">⭐ 1975 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
+				<p><a href="https://github.com/firebase/genkit" target="_blank">
     
 
 
       
-        WebGoat /
+        firebase /
 
-      WebGoat</a></p>
+      genkit</a></p>
 				<p>
-      WebGoat is a deliberately insecure application
+      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8557</span>
-						<span>🔱 6799</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4565</span>
+						<span>🔱 505</span>
 					</div>
-				<div class="stars-today">⭐ 823 stars this month</div>
+				<div class="stars-today">⭐ 1737 stars this month</div>
 				</div>
 			</div>
 	
