@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-11T09:58:36Z
+date: 2025-10-11T11:58:47Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15759</span>
-						<span>🔱 1172</span>
+						<span>⭐ 15764</span>
+						<span>🔱 1173</span>
 					</div>
 				<div class="stars-today">⭐ 9316 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46077</span>
+						<span>⭐ 46081</span>
 						<span>🔱 6455</span>
 					</div>
 				<div class="stars-today">⭐ 6454 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
-    
-
-
-      
-        sentient-agi /
-
-      ROMA</a></p>
-				<p>
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3778</span>
-						<span>🔱 566</span>
-					</div>
-				<div class="stars-today">⭐ 2884 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5863</span>
-						<span>🔱 451</span>
-					</div>
-				<div class="stars-today">⭐ 3479 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3444</span>
+						<span>⭐ 3452</span>
 						<span>🔱 253</span>
 					</div>
 				<div class="stars-today">⭐ 1827 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5865</span>
+						<span>🔱 451</span>
+					</div>
+				<div class="stars-today">⭐ 3479 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58344</span>
+						<span>⭐ 58348</span>
 						<span>🔱 9334</span>
 					</div>
 				<div class="stars-today">⭐ 3417 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
+    
+
+
+      
+        sentient-agi /
+
+      ROMA</a></p>
+				<p>
+      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3788</span>
+						<span>🔱 568</span>
+					</div>
+				<div class="stars-today">⭐ 2884 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 46933</span>
-						<span>🔱 5654</span>
+						<span>⭐ 46949</span>
+						<span>🔱 5655</span>
 					</div>
 				<div class="stars-today">⭐ 7160 stars this month</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2424</span>
-						<span>🔱 302</span>
+						<span>⭐ 2432</span>
+						<span>🔱 303</span>
 					</div>
 				<div class="stars-today">⭐ 1419 stars this month</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2067</span>
-						<span>🔱 312</span>
+						<span>⭐ 2070</span>
+						<span>🔱 313</span>
 					</div>
 				<div class="stars-today">⭐ 1146 stars this month</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26628</span>
-						<span>🔱 2753</span>
+						<span>⭐ 26632</span>
+						<span>🔱 2755</span>
 					</div>
 				<div class="stars-today">⭐ 2703 stars this month</div>
 				</div>
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3731</span>
+						<span>⭐ 3741</span>
 						<span>🔱 373</span>
 					</div>
 				<div class="stars-today">⭐ 2320 stars this month</div>
@@ -270,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 15294</span>
+						<span>⭐ 15297</span>
 						<span>🔱 2433</span>
 					</div>
 				<div class="stars-today">⭐ 1157 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      registry</a></p>
-				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5595</span>
-						<span>🔱 423</span>
-					</div>
-				<div class="stars-today">⭐ 2947 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,54 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86397</span>
+						<span>⭐ 86398</span>
 						<span>🔱 8448</span>
 					</div>
 				<div class="stars-today">⭐ 2617 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ntdevlabs/tiny11builder" target="_blank">
-    
-
-
-      
-        ntdevlabs /
-
-      tiny11builder</a></p>
-				<p>
-      Scripts to build a trimmed-down Windows 11 image.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 14685</span>
-						<span>🔱 1167</span>
-					</div>
-				<div class="stars-today">⭐ 1726 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trueadm/ripple" target="_blank">
-    
-
-
-      
-        trueadm /
-
-      ripple</a></p>
-				<p>
-      the elegant TypeScript UI framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 5611</span>
-						<span>🔱 223</span>
-					</div>
-				<div class="stars-today">⭐ 3702 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6657</span>
+						<span>⭐ 6659</span>
 						<span>🔱 578</span>
 					</div>
 				<div class="stars-today">⭐ 1197 stars this month</div>
@@ -388,46 +322,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
     
 
 
       
-        CodebuffAI /
+        TheAlgorithms /
 
-      codebuff</a></p>
+      Python</a></p>
 				<p>
-      Generate code from the terminal!
+      All Algorithms implemented in Python
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2329</span>
-						<span>🔱 293</span>
+						<span>🔠 Python</span>
+						<span>⭐ 210523</span>
+						<span>🔱 48600</span>
 					</div>
-				<div class="stars-today">⭐ 1778 stars this month</div>
+				<div class="stars-today">⭐ 4001 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/firebase/genkit" target="_blank">
+				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
     
 
 
       
-        firebase /
+        modelcontextprotocol /
 
-      genkit</a></p>
+      registry</a></p>
 				<p>
-      Open-source framework for building AI-powered apps in JavaScript, Go, and Python, built and used in production by Google
+      A community driven registry service for Model Context Protocol (MCP) servers.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4610</span>
-						<span>🔱 509</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5599</span>
+						<span>🔱 423</span>
 					</div>
-				<div class="stars-today">⭐ 1783 stars this month</div>
+				<div class="stars-today">⭐ 2947 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 80813</span>
+						<span>🔱 4483</span>
+					</div>
+				<div class="stars-today">⭐ 8004 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 86040</span>
+						<span>🔱 38011</span>
+					</div>
+				<div class="stars-today">⭐ 688 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24072</span>
+						<span>🔱 1856</span>
+					</div>
+				<div class="stars-today">⭐ 2236 stars this month</div>
 				</div>
 			</div>
 	

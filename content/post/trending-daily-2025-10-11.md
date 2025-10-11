@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-11
-date: 2025-10-11T09:58:36Z
+date: 2025-10-11T11:58:47Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/stagehand" target="_blank">
-    
-
-
-      
-        browserbase /
-
-      stagehand</a></p>
-				<p>
-      The AI Browser Automation Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18280</span>
-						<span>🔱 1153</span>
-					</div>
-				<div class="stars-today">⭐ 248 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
-    
-
-
-      
-        78 /
-
-      xiaozhi-esp32</a></p>
-				<p>
-      An MCP-based chatbot | 一个基于MCP的聊天机器人
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 19669</span>
-						<span>🔱 3995</span>
-					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
@@ -74,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36339</span>
-						<span>🔱 2287</span>
+						<span>⭐ 36408</span>
+						<span>🔱 2289</span>
 					</div>
-				<div class="stars-today">⭐ 177 stars today</div>
+				<div class="stars-today">⭐ 393 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
     
 
 
       
-        TapXWorld /
+        QwenLM /
 
-      ChinaTextbook</a></p>
+      Qwen3-VL</a></p>
 				<p>
-      所有小初高、大学PDF教材。
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 52864</span>
-						<span>🔱 11847</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13945</span>
+						<span>🔱 1062</span>
 					</div>
-				<div class="stars-today">⭐ 441 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9550</span>
-						<span>🔱 246</span>
-					</div>
-				<div class="stars-today">⭐ 1263 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      RD-Agent</a></p>
-				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8429</span>
-						<span>🔱 881</span>
-					</div>
-				<div class="stars-today">⭐ 42 stars today</div>
+				<div class="stars-today">⭐ 138 stars today</div>
 				</div>
 			</div>
 	
@@ -162,120 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9206</span>
-						<span>🔱 711</span>
+						<span>⭐ 9225</span>
+						<span>🔱 712</span>
 					</div>
-				<div class="stars-today">⭐ 334 stars today</div>
+				<div class="stars-today">⭐ 195 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
     
 
 
       
-        CapSoftware /
+        davila7 /
 
-      Cap</a></p>
+      claude-code-templates</a></p>
 				<p>
-      Open source Loom alternative. Beautiful, shareable screen recordings.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12520</span>
-						<span>🔱 852</span>
-					</div>
-				<div class="stars-today">⭐ 136 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
-    
-
-
-      
-        Stremio /
-
-      stremio-web</a></p>
-				<p>
-      Stremio - Freedom to Stream
+      CLI tool for configuring and monitoring Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7344</span>
-						<span>🔱 824</span>
+						<span>⭐ 7049</span>
+						<span>🔱 626</span>
 					</div>
-				<div class="stars-today">⭐ 956 stars today</div>
+				<div class="stars-today">⭐ 186 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xyflow/xyflow" target="_blank">
+				<p><a href="https://github.com/timelinize/timelinize" target="_blank">
     
 
 
       
-        xyflow /
+        timelinize /
 
-      xyflow</a></p>
+      timelinize</a></p>
 				<p>
-      React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+      Store your data from all your accounts and devices in a single cohesive timeline on your own computer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32549</span>
-						<span>🔱 2138</span>
+						<span>🔠 Go</span>
+						<span>⭐ 2430</span>
+						<span>🔱 71</span>
 					</div>
-				<div class="stars-today">⭐ 92 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11583</span>
-						<span>🔱 1212</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
-    
-
-
-      
-        evershopcommerce /
-
-      evershop</a></p>
-				<p>
-      🛍️ Typescript E-commerce Platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6512</span>
-						<span>🔱 1808</span>
-					</div>
-				<div class="stars-today">⭐ 99 stars today</div>
+				<div class="stars-today">⭐ 336 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +140,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 1616</span>
-						<span>🔱 115</span>
+						<span>⭐ 1653</span>
+						<span>🔱 116</span>
 					</div>
-				<div class="stars-today">⭐ 380 stars today</div>
+				<div class="stars-today">⭐ 366 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coze-dev/coze-studio" target="_blank">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
     
 
 
       
-        coze-dev /
+        supermemoryai /
 
-      coze-studio</a></p>
+      supermemory</a></p>
 				<p>
-      An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17627</span>
-						<span>🔱 2443</span>
+						<span>⭐ 11616</span>
+						<span>🔱 1213</span>
 					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
+				<div class="stars-today">⭐ 365 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
     
 
 
       
-        WECENG /
+        evershopcommerce /
 
-      ticket-purchase</a></p>
+      evershop</a></p>
 				<p>
-      大麦自动抢票，支持人员、城市、日期场次、价格选择
+      🛍️ Typescript E-commerce Platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6542</span>
+						<span>🔱 1811</span>
+					</div>
+				<div class="stars-today">⭐ 662 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
+    
+
+
+      
+        CapSoftware /
+
+      Cap</a></p>
+				<p>
+      Open source Loom alternative. Beautiful, shareable screen recordings.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12542</span>
+						<span>🔱 854</span>
+					</div>
+				<div class="stars-today">⭐ 345 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+    
+
+
+      
+        dataease /
+
+      SQLBot</a></p>
+				<p>
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4700</span>
-						<span>🔱 602</span>
+						<span>⭐ 3741</span>
+						<span>🔱 373</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 33 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+    
+
+
+      
+        TibixDev /
+
+      winboat</a></p>
+				<p>
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9623</span>
+						<span>🔱 248</span>
+					</div>
+				<div class="stars-today">⭐ 833 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+    
+
+
+      
+        clash-verge-rev /
+
+      clash-verge-rev</a></p>
+				<p>
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 77418</span>
+						<span>🔱 5794</span>
+					</div>
+				<div class="stars-today">⭐ 140 stars today</div>
 				</div>
 			</div>
 	
