@@ -6,7 +6,289 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 11 Oct 2025 23:58:50 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 12 Oct 2025 02:55:28 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-10-12</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-10-12/</link>
+        <pubDate>Sun, 12 Oct 2025 02:55:28 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-10-12/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 37024&lt;/span&gt;
+						&lt;span&gt;🔱 2336&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 387 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen3-VL&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 14069&lt;/span&gt;
+						&lt;span&gt;🔱 1071&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 112 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/MODSetter/SurfSense&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        MODSetter /
+
+      SurfSense&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9360&lt;/span&gt;
+						&lt;span&gt;🔱 724&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 194 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/davila7/claude-code-templates&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      CLI tool for configuring and monitoring Claude Code
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 7246&lt;/span&gt;
+						&lt;span&gt;🔱 637&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 135 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/timelinize/timelinize&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        timelinize /
+
+      timelinize&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Store your data from all your accounts and devices in a single cohesive timeline on your own computer
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 2577&lt;/span&gt;
+						&lt;span&gt;🔱 78&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 74 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PixelGuys/Cubyz&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        PixelGuys /
+
+      Cubyz&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Zig&lt;/span&gt;
+						&lt;span&gt;⭐ 1818&lt;/span&gt;
+						&lt;span&gt;🔱 122&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 365 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/supermemoryai/supermemory&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        supermemoryai /
+
+      supermemory&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11818&lt;/span&gt;
+						&lt;span&gt;🔱 1230&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 367 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/evershopcommerce/evershop&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        evershopcommerce /
+
+      evershop&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🛍️ Typescript E-commerce Platform
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 6814&lt;/span&gt;
+						&lt;span&gt;🔱 1838&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 662 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CapSoftware/Cap&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CapSoftware /
+
+      Cap&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open source Loom alternative. Beautiful, shareable screen recordings.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 12691&lt;/span&gt;
+						&lt;span&gt;🔱 863&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 344 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dataease/SQLBot&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dataease /
+
+      SQLBot&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3810&lt;/span&gt;
+						&lt;span&gt;🔱 375&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 44 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TibixDev/winboat&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        TibixDev /
+
+      winboat&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 10024&lt;/span&gt;
+						&lt;span&gt;🔱 256&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 831 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/clash-verge-rev/clash-verge-rev&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        clash-verge-rev /
+
+      clash-verge-rev&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 77522&lt;/span&gt;
+						&lt;span&gt;🔱 5794&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 141 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-10-11</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-10-11/</link>
         <pubDate>Sat, 11 Oct 2025 23:58:50 +0000</pubDate>
