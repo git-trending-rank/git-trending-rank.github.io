@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-12
-date: 2025-10-12T09:58:59Z
+date: 2025-10-12T11:58:36Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37299</span>
-						<span>🔱 2344</span>
+						<span>⭐ 37366</span>
+						<span>🔱 2349</span>
 					</div>
-				<div class="stars-today">⭐ 387 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14117</span>
-						<span>🔱 1074</span>
-					</div>
-				<div class="stars-today">⭐ 112 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
-    
-
-
-      
-        MODSetter /
-
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9411</span>
-						<span>🔱 729</span>
-					</div>
-				<div class="stars-today">⭐ 194 stars today</div>
+				<div class="stars-today">⭐ 1005 stars today</div>
 				</div>
 			</div>
 	
@@ -96,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7316</span>
+						<span>⭐ 7338</span>
 						<span>🔱 639</span>
 					</div>
-				<div class="stars-today">⭐ 135 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/timelinize/timelinize" target="_blank">
-    
-
-
-      
-        timelinize /
-
-      timelinize</a></p>
-				<p>
-      Store your data from all your accounts and devices in a single cohesive timeline on your own computer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2633</span>
-						<span>🔱 80</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
-    
-
-
-      
-        PixelGuys /
-
-      Cubyz</a></p>
-				<p>
-      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 1891</span>
-						<span>🔱 126</span>
-					</div>
-				<div class="stars-today">⭐ 365 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11872</span>
-						<span>🔱 1238</span>
-					</div>
-				<div class="stars-today">⭐ 367 stars today</div>
+				<div class="stars-today">⭐ 304 stars today</div>
 				</div>
 			</div>
 	
@@ -184,54 +74,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6900</span>
-						<span>🔱 1845</span>
+						<span>⭐ 6918</span>
+						<span>🔱 1846</span>
 					</div>
-				<div class="stars-today">⭐ 662 stars today</div>
+				<div class="stars-today">⭐ 388 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CapSoftware/Cap" target="_blank">
+				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
     
 
 
       
-        CapSoftware /
+        78 /
 
-      Cap</a></p>
+      xiaozhi-esp32</a></p>
 				<p>
-      Open source Loom alternative. Beautiful, shareable screen recordings.
+      An MCP-based chatbot | 一个基于MCP的聊天机器人
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 19756</span>
+						<span>🔱 4013</span>
+					</div>
+				<div class="stars-today">⭐ 374 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
+    
+
+
+      
+        daytonaio /
+
+      daytona</a></p>
+				<p>
+      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12770</span>
-						<span>🔱 870</span>
+						<span>⭐ 22564</span>
+						<span>🔱 2372</span>
 					</div>
-				<div class="stars-today">⭐ 344 stars today</div>
+				<div class="stars-today">⭐ 242 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        dataease /
+        TapXWorld /
 
-      SQLBot</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 52986</span>
+						<span>🔱 11886</span>
+					</div>
+				<div class="stars-today">⭐ 407 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
+    
+
+
+      
+        WECENG /
+
+      ticket-purchase</a></p>
+				<p>
+      大麦自动抢票，支持人员、城市、日期场次、价格选择
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3841</span>
-						<span>🔱 377</span>
+						<span>⭐ 4751</span>
+						<span>🔱 606</span>
 					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
+				<div class="stars-today">⭐ 35 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DIYgod/RSSHub" target="_blank">
+    
+
+
+      
+        DIYgod /
+
+      RSSHub</a></p>
+				<p>
+      🧡 Everything is RSSible
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39072</span>
+						<span>🔱 8591</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DearVa/Everywhere" target="_blank">
+    
+
+
+      
+        DearVa /
+
+      Everywhere</a></p>
+				<p>
+      A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 349</span>
+						<span>🔱 19</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anduin2017/HowToCook" target="_blank">
+    
+
+
+      
+        Anduin2017 /
+
+      HowToCook</a></p>
+				<p>
+      程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dockerfile</span>
+						<span>⭐ 94782</span>
+						<span>🔱 10613</span>
+					</div>
+				<div class="stars-today">⭐ 56 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coze-dev/coze-studio" target="_blank">
+    
+
+
+      
+        coze-dev /
+
+      coze-studio</a></p>
+				<p>
+      An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17658</span>
+						<span>🔱 2446</span>
+					</div>
+				<div class="stars-today">⭐ 19 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lobehub/lobe-chat" target="_blank">
+    
+
+
+      
+        lobehub /
+
+      lobe-chat</a></p>
+				<p>
+      🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 66605</span>
+						<span>🔱 13803</span>
+					</div>
+				<div class="stars-today">⭐ 32 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
+    
+
+
+      
+        PixelGuys /
+
+      Cubyz</a></p>
+				<p>
+      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 1923</span>
+						<span>🔱 128</span>
+					</div>
+				<div class="stars-today">⭐ 276 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Opinionated Arch/Hyprland Setup
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 13501</span>
+						<span>🔱 1260</span>
+					</div>
+				<div class="stars-today">⭐ 268 stars today</div>
 				</div>
 			</div>
 	
@@ -250,32 +338,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10187</span>
-						<span>🔱 262</span>
+						<span>⭐ 10225</span>
+						<span>🔱 263</span>
 					</div>
-				<div class="stars-today">⭐ 831 stars today</div>
+				<div class="stars-today">⭐ 623 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
     
 
 
       
-        clash-verge-rev /
+        alibaba /
 
-      clash-verge-rev</a></p>
+      spring-ai-alibaba</a></p>
 				<p>
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+      Agentic AI Framework for Java Developers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77603</span>
-						<span>🔱 5800</span>
+						<span>🔠 Java</span>
+						<span>⭐ 6092</span>
+						<span>🔱 1312</span>
 					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
+				<div class="stars-today">⭐ 19 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 80991</span>
+						<span>🔱 3383</span>
+					</div>
+				<div class="stars-today">⭐ 92 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/diffusers" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      diffusers</a></p>
+				<p>
+      🤗 Diffusers: State-of-the-art diffusion models for image, video, and audio generation in PyTorch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31073</span>
+						<span>🔱 6401</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Klavis-AI/klavis" target="_blank">
+    
+
+
+      
+        Klavis-AI /
+
+      klavis</a></p>
+				<p>
+      Klavis AI (YC X25): MCP integration layers that let AI agents use thousands of tools reliably.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4708</span>
+						<span>🔱 447</span>
+					</div>
+				<div class="stars-today">⭐ 47 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opendatalab/MinerU" target="_blank">
+    
+
+
+      
+        opendatalab /
+
+      MinerU</a></p>
+				<p>
+      Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45731</span>
+						<span>🔱 3801</span>
+					</div>
+				<div class="stars-today">⭐ 68 stars today</div>
 				</div>
 			</div>
 	

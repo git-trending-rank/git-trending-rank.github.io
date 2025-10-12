@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-12T09:59:00Z
+date: 2025-10-12T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15796</span>
-						<span>🔱 1182</span>
+						<span>⭐ 15798</span>
+						<span>🔱 1183</span>
 					</div>
 				<div class="stars-today">⭐ 9382 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46141</span>
-						<span>🔱 6464</span>
+						<span>⭐ 46151</span>
+						<span>🔱 6467</span>
 					</div>
 				<div class="stars-today">⭐ 6517 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
-    
-
-
-      
-        tile-ai /
-
-      tilelang</a></p>
-				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3479</span>
-						<span>🔱 254</span>
-					</div>
-				<div class="stars-today">⭐ 1871 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5903</span>
-						<span>🔱 452</span>
+						<span>⭐ 5906</span>
+						<span>🔱 453</span>
 					</div>
 				<div class="stars-today">⭐ 3506 stars this month</div>
 				</div>
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58406</span>
+						<span>⭐ 58410</span>
 						<span>🔱 9335</span>
 					</div>
 				<div class="stars-today">⭐ 3491 stars this month</div>
@@ -126,24 +104,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
     
 
 
       
-        sentient-agi /
+        anthropics /
 
-      ROMA</a></p>
-				<p>
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-    </p>
+      claude-agent-sdk-python</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3891</span>
-						<span>🔱 582</span>
+						<span>⭐ 2463</span>
+						<span>🔱 305</span>
 					</div>
-				<div class="stars-today">⭐ 2556 stars this month</div>
+				<div class="stars-today">⭐ 1484 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 47042</span>
+						<span>⭐ 47055</span>
 						<span>🔱 5666</span>
 					</div>
 				<div class="stars-today">⭐ 7074 stars this month</div>
@@ -170,22 +146,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
     
 
 
       
-        anthropics /
+        sentient-agi /
 
-      claude-agent-sdk-python</a></p>
-				<p></p>
+      ROMA</a></p>
+				<p>
+      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2461</span>
-						<span>🔱 305</span>
+						<span>⭐ 3904</span>
+						<span>🔱 581</span>
 					</div>
-				<div class="stars-today">⭐ 1484 stars this month</div>
+				<div class="stars-today">⭐ 2556 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2085</span>
+						<span>⭐ 2086</span>
 						<span>🔱 314</span>
 					</div>
 				<div class="stars-today">⭐ 1177 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica</a></p>
-				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26683</span>
-						<span>🔱 2758</span>
-					</div>
-				<div class="stars-today">⭐ 2737 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3841</span>
-						<span>🔱 377</span>
+						<span>⭐ 3844</span>
+						<span>🔱 378</span>
 					</div>
 				<div class="stars-today">⭐ 2348 stars this month</div>
 				</div>
@@ -270,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 15346</span>
+						<span>⭐ 15351</span>
 						<span>🔱 2438</span>
 					</div>
 				<div class="stars-today">⭐ 1203 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26685</span>
+						<span>🔱 2759</span>
+					</div>
+				<div class="stars-today">⭐ 2737 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86420</span>
+						<span>⭐ 86422</span>
 						<span>🔱 8449</span>
 					</div>
 				<div class="stars-today">⭐ 2635 stars this month</div>
@@ -322,50 +300,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 210582</span>
-						<span>🔱 48619</span>
-					</div>
-				<div class="stars-today">⭐ 4008 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/registry" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      registry</a></p>
-				<p>
-      A community driven registry service for Model Context Protocol (MCP) servers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5616</span>
-						<span>🔱 423</span>
-					</div>
-				<div class="stars-today">⭐ 2099 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
@@ -380,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 80957</span>
+						<span>⭐ 80961</span>
 						<span>🔱 4493</span>
 					</div>
 				<div class="stars-today">⭐ 8021 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
+    
+
+
+      
+        TheAlgorithms /
+
+      Python</a></p>
+				<p>
+      All Algorithms implemented in Python
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 210584</span>
+						<span>🔱 48620</span>
+					</div>
+				<div class="stars-today">⭐ 4008 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 86083</span>
+						<span>⭐ 86086</span>
 						<span>🔱 38012</span>
 					</div>
 				<div class="stars-today">⭐ 704 stars this month</div>
@@ -410,24 +366,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
     
 
 
       
-        microsoft /
+        LazyVim /
 
-      BitNet</a></p>
+      LazyVim</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      Neovim config for the lazy
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24105</span>
-						<span>🔱 1861</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 23346</span>
+						<span>🔱 1644</span>
 					</div>
-				<div class="stars-today">⭐ 2242 stars this month</div>
+				<div class="stars-today">⭐ 1050 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
+    
+
+
+      
+        WebGoat /
+
+      WebGoat</a></p>
+				<p>
+      WebGoat is a deliberately insecure application
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8567</span>
+						<span>🔱 6776</span>
+					</div>
+				<div class="stars-today">⭐ 855 stars this month</div>
 				</div>
 			</div>
 	
