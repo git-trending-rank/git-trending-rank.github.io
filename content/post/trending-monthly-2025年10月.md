@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-13T09:58:36Z
+date: 2025-10-13T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15866</span>
-						<span>🔱 1191</span>
+						<span>⭐ 15873</span>
+						<span>🔱 1192</span>
 					</div>
 				<div class="stars-today">⭐ 9397 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46227</span>
+						<span>⭐ 46235</span>
 						<span>🔱 6478</span>
 					</div>
 				<div class="stars-today">⭐ 6552 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+    
+
+
+      
+        tile-ai /
+
+      tilelang</a></p>
+				<p>
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 3508</span>
+						<span>🔱 256</span>
+					</div>
+				<div class="stars-today">⭐ 1895 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5939</span>
+						<span>⭐ 5944</span>
 						<span>🔱 458</span>
 					</div>
 				<div class="stars-today">⭐ 3533 stars this month</div>
@@ -82,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
     
 
 
       
-        CorentinJ /
+        TibixDev /
 
-      Real-Time-Voice-Cloning</a></p>
+      winboat</a></p>
 				<p>
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58481</span>
-						<span>🔱 9338</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10833</span>
+						<span>🔱 276</span>
 					</div>
-				<div class="stars-today">⭐ 3538 stars this month</div>
+				<div class="stars-today">⭐ 7119 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2509</span>
+						<span>⭐ 2512</span>
 						<span>🔱 305</span>
 					</div>
 				<div class="stars-today">⭐ 1505 stars this month</div>
@@ -138,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 47183</span>
-						<span>🔱 5680</span>
+						<span>⭐ 47196</span>
+						<span>🔱 5683</span>
 					</div>
 				<div class="stars-today">⭐ 6974 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
-    
-
-
-      
-        sentient-agi /
-
-      ROMA</a></p>
-				<p>
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4032</span>
-						<span>🔱 602</span>
-					</div>
-				<div class="stars-today">⭐ 2452 stars this month</div>
 				</div>
 			</div>
 	
@@ -183,31 +183,53 @@ keywords:
 					<div>
 						<span>🔠 TypeScript</span>
 						<span>⭐ 2103</span>
-						<span>🔱 317</span>
+						<span>🔱 318</span>
 					</div>
 				<div class="stars-today">⭐ 1186 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
     
 
 
       
-        dataease /
+        CorentinJ /
 
-      SQLBot</a></p>
+      Real-Time-Voice-Cloning</a></p>
 				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+      Clone a voice in 5 seconds to generate arbitrary speech in real-time
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3888</span>
-						<span>🔱 382</span>
+						<span>⭐ 58487</span>
+						<span>🔱 9338</span>
 					</div>
-				<div class="stars-today">⭐ 2412 stars this month</div>
+				<div class="stars-today">⭐ 3538 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
+    
+
+
+      
+        sentient-agi /
+
+      ROMA</a></p>
+				<p>
+      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4048</span>
+						<span>🔱 605</span>
+					</div>
+				<div class="stars-today">⭐ 2452 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 15397</span>
+						<span>⭐ 15403</span>
 						<span>🔱 2440</span>
 					</div>
 				<div class="stars-today">⭐ 1241 stars this month</div>
@@ -234,24 +256,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
     
 
 
       
-        ItzCrazyKns /
+        dataease /
 
-      Perplexica</a></p>
+      SQLBot</a></p>
 				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26725</span>
-						<span>🔱 2760</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3891</span>
+						<span>🔱 383</span>
 					</div>
-				<div class="stars-today">⭐ 2776 stars this month</div>
+				<div class="stars-today">⭐ 2412 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86437</span>
-						<span>🔱 8449</span>
+						<span>⭐ 86439</span>
+						<span>🔱 8450</span>
 					</div>
 				<div class="stars-today">⭐ 2631 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+    
+
+
+      
+        ItzCrazyKns /
+
+      Perplexica</a></p>
+				<p>
+      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26729</span>
+						<span>🔱 2760</span>
+					</div>
+				<div class="stars-today">⭐ 2776 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6706</span>
+						<span>⭐ 6709</span>
 						<span>🔱 580</span>
 					</div>
 				<div class="stars-today">⭐ 1234 stars this month</div>
@@ -314,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 81150</span>
-						<span>🔱 4499</span>
+						<span>⭐ 81183</span>
+						<span>🔱 4500</span>
 					</div>
 				<div class="stars-today">⭐ 8110 stars this month</div>
 				</div>
@@ -336,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 210632</span>
-						<span>🔱 48637</span>
+						<span>⭐ 210640</span>
+						<span>🔱 48640</span>
 					</div>
 				<div class="stars-today">⭐ 4033 stars this month</div>
 				</div>
@@ -358,7 +402,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 86118</span>
+						<span>⭐ 86122</span>
 						<span>🔱 38019</span>
 					</div>
 				<div class="stars-today">⭐ 727 stars this month</div>
@@ -366,46 +410,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
     
 
 
       
-        LazyVim /
+        evershopcommerce /
 
-      LazyVim</a></p>
+      evershop</a></p>
 				<p>
-      Neovim config for the lazy
+      🛍️ Typescript E-commerce Platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 23382</span>
-						<span>🔱 1644</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7316</span>
+						<span>🔱 1880</span>
 					</div>
-				<div class="stars-today">⭐ 1049 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
-    
-
-
-      
-        WebGoat /
-
-      WebGoat</a></p>
-				<p>
-      WebGoat is a deliberately insecure application
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8583</span>
-						<span>🔱 6782</span>
-					</div>
-				<div class="stars-today">⭐ 858 stars this month</div>
+				<div class="stars-today">⭐ 1284 stars this month</div>
 				</div>
 			</div>
 	

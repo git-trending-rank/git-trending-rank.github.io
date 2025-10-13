@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第42周
-date: 2025-10-13T09:58:35Z
+date: 2025-10-13T11:58:35Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7770</span>
+						<span>⭐ 7789</span>
 						<span>🔱 870</span>
 					</div>
 				<div class="stars-today">⭐ 5556 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BeehiveInnovations/zen-mcp-server" target="_blank">
-    
-
-
-      
-        BeehiveInnovations /
-
-      zen-mcp-server</a></p>
-				<p>
-      The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8818</span>
-						<span>🔱 732</span>
-					</div>
-				<div class="stars-today">⭐ 1323 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38385</span>
-						<span>🔱 2402</span>
+						<span>⭐ 38444</span>
+						<span>🔱 2407</span>
 					</div>
 				<div class="stars-today">⭐ 1993 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 53246</span>
-						<span>🔱 11935</span>
-					</div>
-				<div class="stars-today">⭐ 2262 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/audacity/audacity" target="_blank">
-    
-
-
-      
-        audacity /
-
-      audacity</a></p>
-				<p>
-      Audio Editor 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15397</span>
-						<span>🔱 2440</span>
-					</div>
-				<div class="stars-today">⭐ 795 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24131</span>
-						<span>🔱 1860</span>
-					</div>
-				<div class="stars-today">⭐ 1431 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27823</span>
+						<span>⭐ 27835</span>
 						<span>🔱 1548</span>
 					</div>
 				<div class="stars-today">⭐ 892 stars this week</div>
@@ -170,24 +82,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        Infisical /
+        TapXWorld /
 
-      infisical</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      Infisical is the open-source platform for secrets, certificates, and privileged access management.
+      所有小初高、大学PDF教材。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22588</span>
-						<span>🔱 1519</span>
+						<span>🔠 Roff</span>
+						<span>⭐ 53255</span>
+						<span>🔱 11939</span>
 					</div>
-				<div class="stars-today">⭐ 2086 stars this week</div>
+				<div class="stars-today">⭐ 2262 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BeehiveInnovations/zen-mcp-server" target="_blank">
+    
+
+
+      
+        BeehiveInnovations /
+
+      zen-mcp-server</a></p>
+				<p>
+      The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8825</span>
+						<span>🔱 734</span>
+					</div>
+				<div class="stars-today">⭐ 1323 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7297</span>
+						<span>⭐ 7316</span>
 						<span>🔱 1880</span>
 					</div>
 				<div class="stars-today">⭐ 1189 stars this week</div>
@@ -214,112 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/meshery/meshery" target="_blank">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
     
 
 
       
-        meshery /
+        anthropics /
 
-      meshery</a></p>
+      prompt-eng-interactive-tutorial</a></p>
 				<p>
-      Meshery, the cloud native manager
+      Anthropic's Interactive Prompt Engineering Tutorial
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9249</span>
-						<span>🔱 2722</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 19760</span>
+						<span>🔱 1914</span>
 					</div>
-				<div class="stars-today">⭐ 795 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openemr/openemr" target="_blank">
-    
-
-
-      
-        openemr /
-
-      openemr</a></p>
-				<p>
-      The most popular open source electronic health records and medical practice management solution.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 4371</span>
-						<span>🔱 2568</span>
-					</div>
-				<div class="stars-today">⭐ 665 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trycua/cua" target="_blank">
-    
-
-
-      
-        trycua /
-
-      cua</a></p>
-				<p>
-      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10723</span>
-						<span>🔱 591</span>
-					</div>
-				<div class="stars-today">⭐ 863 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10792</span>
-						<span>🔱 271</span>
-					</div>
-				<div class="stars-today">⭐ 4410 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10379</span>
-						<span>🔱 2272</span>
-					</div>
-				<div class="stars-today">⭐ 1132 stars this week</div>
+				<div class="stars-today">⭐ 1036 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9487</span>
+						<span>⭐ 9491</span>
 						<span>🔱 743</span>
 					</div>
 				<div class="stars-today">⭐ 1154 stars this week</div>
@@ -346,46 +192,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/firefly-iii/firefly-iii" target="_blank">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
     
 
 
       
-        firefly-iii /
+        TibixDev /
 
-      firefly-iii</a></p>
+      winboat</a></p>
 				<p>
-      Firefly III: a personal finances manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 21135</span>
-						<span>🔱 1917</span>
-					</div>
-				<div class="stars-today">⭐ 587 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16106</span>
-						<span>🔱 1712</span>
+						<span>⭐ 10833</span>
+						<span>🔱 276</span>
 					</div>
-				<div class="stars-today">⭐ 916 stars this week</div>
+				<div class="stars-today">⭐ 4410 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets, certificates, and privileged access management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22592</span>
+						<span>🔱 1519</span>
+					</div>
+				<div class="stars-today">⭐ 2086 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7700</span>
+						<span>🔱 655</span>
+					</div>
+				<div class="stars-today">⭐ 740 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10727</span>
+						<span>🔱 591</span>
+					</div>
+				<div class="stars-today">⭐ 863 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/audacity/audacity" target="_blank">
+    
+
+
+      
+        audacity /
+
+      audacity</a></p>
+				<p>
+      Audio Editor 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 15403</span>
+						<span>🔱 2440</span>
+					</div>
+				<div class="stars-today">⭐ 795 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,32 +316,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32661</span>
-						<span>🔱 2144</span>
+						<span>⭐ 32666</span>
+						<span>🔱 2143</span>
 					</div>
 				<div class="stars-today">⭐ 800 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/antiwork/gumroad" target="_blank">
+				<p><a href="https://github.com/openemr/openemr" target="_blank">
     
 
 
       
-        antiwork /
+        openemr /
 
-      gumroad</a></p>
+      openemr</a></p>
 				<p>
-      Sell stuff and see what sticks
+      The most popular open source electronic health records and medical practice management solution.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 7222</span>
-						<span>🔱 1339</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 4374</span>
+						<span>🔱 2568</span>
 					</div>
-				<div class="stars-today">⭐ 70 stars this week</div>
+				<div class="stars-today">⭐ 665 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN</a></p>
+				<p>
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10380</span>
+						<span>🔱 2272</span>
+					</div>
+				<div class="stars-today">⭐ 1132 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ArjanCodes/examples" target="_blank">
+    
+
+
+      
+        ArjanCodes /
+
+      examples</a></p>
+				<p>
+      All the code examples I use in my videos
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 830</span>
+						<span>🔱 266</span>
+					</div>
+				<div class="stars-today">⭐ 29 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-agents-python</a></p>
+				<p>
+      A lightweight, powerful framework for multi-agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16338</span>
+						<span>🔱 2683</span>
+					</div>
+				<div class="stars-today">⭐ 1088 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
+    
+
+
+      
+        dyad-sh /
+
+      dyad</a></p>
+				<p>
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16109</span>
+						<span>🔱 1712</span>
+					</div>
+				<div class="stars-today">⭐ 916 stars this week</div>
 				</div>
 			</div>
 	
