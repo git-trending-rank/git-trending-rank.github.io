@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-14
-date: 2025-10-14T11:58:52Z
+date: 2025-10-14T13:58:51Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 21988</span>
-						<span>🔱 2075</span>
+						<span>⭐ 22173</span>
+						<span>🔱 2091</span>
 					</div>
 				<div class="stars-today">⭐ 2266 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 87424</span>
-						<span>🔱 9409</span>
+						<span>⭐ 87433</span>
+						<span>🔱 9408</span>
 					</div>
 				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 30035</span>
-						<span>🔱 2708</span>
+						<span>⭐ 30109</span>
+						<span>🔱 2711</span>
 					</div>
 				<div class="stars-today">⭐ 151 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 6228</span>
-						<span>🔱 1333</span>
+						<span>⭐ 6234</span>
+						<span>🔱 1335</span>
 					</div>
 				<div class="stars-today">⭐ 89 stars today</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19341</span>
+						<span>⭐ 19371</span>
 						<span>🔱 1684</span>
 					</div>
 				<div class="stars-today">⭐ 180 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 22505</span>
-						<span>🔱 3459</span>
+						<span>⭐ 22530</span>
+						<span>🔱 3461</span>
 					</div>
 				<div class="stars-today">⭐ 450 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46200</span>
-						<span>🔱 3832</span>
+						<span>⭐ 46226</span>
+						<span>🔱 3833</span>
 					</div>
 				<div class="stars-today">⭐ 98 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8343</span>
-						<span>🔱 681</span>
+						<span>⭐ 8361</span>
+						<span>🔱 683</span>
 					</div>
 				<div class="stars-today">⭐ 436 stars today</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5097</span>
+						<span>⭐ 5106</span>
 						<span>🔱 468</span>
 					</div>
 				<div class="stars-today">⭐ 180 stars today</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Verilog</span>
-						<span>⭐ 941</span>
+						<span>⭐ 968</span>
 						<span>🔱 15</span>
 					</div>
 				<div class="stars-today">⭐ 197 stars today</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 63490</span>
-						<span>🔱 6637</span>
+						<span>⭐ 63525</span>
+						<span>🔱 6639</span>
 					</div>
 				<div class="stars-today">⭐ 507 stars today</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18564</span>
+						<span>⭐ 18566</span>
 						<span>🔱 2419</span>
 					</div>
 				<div class="stars-today">⭐ 12 stars today</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 369370</span>
-						<span>🔱 38869</span>
+						<span>⭐ 369438</span>
+						<span>🔱 38875</span>
 					</div>
 				<div class="stars-today">⭐ 682 stars today</div>
 				</div>
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3243</span>
+						<span>⭐ 3268</span>
 						<span>🔱 446</span>
 					</div>
 				<div class="stars-today">⭐ 44 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      MineContext</a></p>
+				<p>
+      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1587</span>
+						<span>🔱 72</span>
+					</div>
+				<div class="stars-today">⭐ 205 stars today</div>
 				</div>
 			</div>
 	
