@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-14T09:58:47Z
+date: 2025-10-14T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15923</span>
-						<span>🔱 1193</span>
+						<span>⭐ 15929</span>
+						<span>🔱 1196</span>
 					</div>
 				<div class="stars-today">⭐ 9465 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46316</span>
+						<span>⭐ 46326</span>
 						<span>🔱 6486</span>
 					</div>
 				<div class="stars-today">⭐ 6630 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
-    
-
-
-      
-        tile-ai /
-
-      tilelang</a></p>
-				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3535</span>
-						<span>🔱 260</span>
-					</div>
-				<div class="stars-today">⭐ 1924 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5998</span>
+						<span>⭐ 6002</span>
 						<span>🔱 464</span>
 					</div>
 				<div class="stars-today">⭐ 3565 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11129</span>
-						<span>🔱 279</span>
-					</div>
-				<div class="stars-today">⭐ 7548 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,32 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2550</span>
-						<span>🔱 310</span>
+						<span>⭐ 2554</span>
+						<span>🔱 311</span>
 					</div>
 				<div class="stars-today">⭐ 1551 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 47369</span>
-						<span>🔱 5710</span>
-					</div>
-				<div class="stars-today">⭐ 6942 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2124</span>
+						<span>⭐ 2127</span>
 						<span>🔱 318</span>
 					</div>
 				<div class="stars-today">⭐ 1182 stars this month</div>
@@ -190,46 +124,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CorentinJ/Real-Time-Voice-Cloning" target="_blank">
+				<p><a href="https://github.com/openai/codex" target="_blank">
     
 
 
       
-        CorentinJ /
+        openai /
 
-      Real-Time-Voice-Cloning</a></p>
+      codex</a></p>
 				<p>
-      Clone a voice in 5 seconds to generate arbitrary speech in real-time
+      Lightweight coding agent that runs in your terminal
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58554</span>
-						<span>🔱 9339</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 47387</span>
+						<span>🔱 5715</span>
 					</div>
-				<div class="stars-today">⭐ 3497 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
-    
-
-
-      
-        sentient-agi /
-
-      ROMA</a></p>
-				<p>
-      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4172</span>
-						<span>🔱 625</span>
-					</div>
-				<div class="stars-today">⭐ 2306 stars this month</div>
+				<div class="stars-today">⭐ 6942 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 15445</span>
+						<span>⭐ 15447</span>
 						<span>🔱 2442</span>
 					</div>
 				<div class="stars-today">⭐ 1296 stars this month</div>
@@ -256,24 +168,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+				<p><a href="https://github.com/sentient-agi/ROMA" target="_blank">
     
 
 
       
-        dataease /
+        sentient-agi /
 
-      SQLBot</a></p>
+      ROMA</a></p>
 				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+      Recursive-Open-Meta-Agent v0.1 (Beta). A meta-agent framework to build high-performance multi-agent systems.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3917</span>
-						<span>🔱 386</span>
+						<span>⭐ 4176</span>
+						<span>🔱 627</span>
 					</div>
-				<div class="stars-today">⭐ 2451 stars this month</div>
+				<div class="stars-today">⭐ 2306 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86456</span>
+						<span>⭐ 86459</span>
 						<span>🔱 8451</span>
 					</div>
 				<div class="stars-today">⭐ 2634 stars this month</div>
@@ -300,112 +212,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
+				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
     
 
 
       
-        ItzCrazyKns /
+        dataease /
 
-      Perplexica</a></p>
+      SQLBot</a></p>
 				<p>
-      Perplexica is an AI-powered search engine. It is an Open source alternative to Perplexity AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26779</span>
-						<span>🔱 2761</span>
-					</div>
-				<div class="stars-today">⭐ 2774 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6731</span>
-						<span>🔱 581</span>
+						<span>⭐ 3921</span>
+						<span>🔱 387</span>
 					</div>
-				<div class="stars-today">⭐ 1258 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 81414</span>
-						<span>🔱 4517</span>
-					</div>
-				<div class="stars-today">⭐ 8326 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 210713</span>
-						<span>🔱 48657</span>
-					</div>
-				<div class="stars-today">⭐ 4073 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
-    
-
-
-      
-        bitcoin /
-
-      bitcoin</a></p>
-				<p>
-      Bitcoin Core integration/staging tree
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 86152</span>
-						<span>🔱 38024</span>
-					</div>
-				<div class="stars-today">⭐ 752 stars this month</div>
+				<div class="stars-today">⭐ 2451 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,10 +248,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7438</span>
+						<span>⭐ 7441</span>
 						<span>🔱 1898</span>
 					</div>
 				<div class="stars-today">⭐ 1686 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 81428</span>
+						<span>🔱 4518</span>
+					</div>
+				<div class="stars-today">⭐ 8326 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 86154</span>
+						<span>🔱 38025</span>
+					</div>
+				<div class="stars-today">⭐ 752 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6734</span>
+						<span>🔱 581</span>
+					</div>
+				<div class="stars-today">⭐ 1258 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
+    
+
+
+      
+        TheAlgorithms /
+
+      Python</a></p>
+				<p>
+      All Algorithms implemented in Python
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 210720</span>
+						<span>🔱 48658</span>
+					</div>
+				<div class="stars-today">⭐ 4073 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 21988</span>
+						<span>🔱 2075</span>
+					</div>
+				<div class="stars-today">⭐ 2021 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/knownsec/aipyapp" target="_blank">
+    
+
+
+      
+        knownsec /
+
+      aipyapp</a></p>
+				<p>
+      AI-Powered Python & Python-Powered AI (Python-Use)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2630</span>
+						<span>🔱 226</span>
+					</div>
+				<div class="stars-today">⭐ 785 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+    
+
+
+      
+        LazyVim /
+
+      LazyVim</a></p>
+				<p>
+      Neovim config for the lazy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 23401</span>
+						<span>🔱 1646</span>
+					</div>
+				<div class="stars-today">⭐ 1079 stars this month</div>
 				</div>
 			</div>
 	

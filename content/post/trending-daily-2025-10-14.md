@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-14
-date: 2025-10-14T09:58:47Z
+date: 2025-10-14T11:58:52Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 21835</span>
-						<span>🔱 2060</span>
+						<span>⭐ 21988</span>
+						<span>🔱 2075</span>
 					</div>
-				<div class="stars-today">⭐ 643 stars today</div>
+				<div class="stars-today">⭐ 2266 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
     
 
 
       
-        coleam00 /
+        nvm-sh /
 
-      Archon</a></p>
+      nvm</a></p>
 				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12772</span>
-						<span>🔱 2203</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 87424</span>
+						<span>🔱 9409</span>
 					</div>
-				<div class="stars-today">⭐ 42 stars today</div>
+				<div class="stars-today">⭐ 18 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/GorvGoyl/Clone-Wars" target="_blank">
     
 
 
       
-        anthropics /
+        GorvGoyl /
 
-      claude-code</a></p>
+      Clone-Wars</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38734</span>
-						<span>🔱 2436</span>
+						<span>🔠 </span>
+						<span>⭐ 30035</span>
+						<span>🔱 2708</span>
 					</div>
-				<div class="stars-today">⭐ 1149 stars today</div>
+				<div class="stars-today">⭐ 151 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      spring-ai-alibaba</a></p>
+				<p>
+      Agentic AI Framework for Java Developers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 6228</span>
+						<span>🔱 1333</span>
+					</div>
+				<div class="stars-today">⭐ 89 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      happy-llm</a></p>
+				<p>
+      📚 从零开始的大语言模型原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 19341</span>
+						<span>🔱 1684</span>
+					</div>
+				<div class="stars-today">⭐ 180 stars today</div>
 				</div>
 			</div>
 	
@@ -96,230 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 22479</span>
-						<span>🔱 3455</span>
+						<span>⭐ 22505</span>
+						<span>🔱 3459</span>
 					</div>
-				<div class="stars-today">⭐ 138 stars today</div>
+				<div class="stars-today">⭐ 450 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Klavis-AI/klavis" target="_blank">
+				<p><a href="https://github.com/opendatalab/MinerU" target="_blank">
     
 
 
       
-        Klavis-AI /
+        opendatalab /
 
-      klavis</a></p>
+      MinerU</a></p>
 				<p>
-      Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
+      Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5087</span>
-						<span>🔱 468</span>
+						<span>⭐ 46200</span>
+						<span>🔱 3832</span>
 					</div>
-				<div class="stars-today">⭐ 217 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 369303</span>
-						<span>🔱 38865</span>
-					</div>
-				<div class="stars-today">⭐ 366 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
-    
-
-
-      
-        clash-verge-rev /
-
-      clash-verge-rev</a></p>
-				<p>
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 77908</span>
-						<span>🔱 5815</span>
-					</div>
-				<div class="stars-today">⭐ 112 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 81357</span>
-						<span>🔱 3401</span>
-					</div>
-				<div class="stars-today">⭐ 199 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
-    
-
-
-      
-        ggml-org /
-
-      llama.cpp</a></p>
-				<p>
-      LLM inference in C/C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 87765</span>
-						<span>🔱 13331</span>
-					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
-    
-
-
-      
-        PixelGuys /
-
-      Cubyz</a></p>
-				<p>
-      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 2434</span>
-						<span>🔱 140</span>
-					</div>
-				<div class="stars-today">⭐ 324 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Opinionated Arch/Hyprland Setup
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 13982</span>
-						<span>🔱 1304</span>
-					</div>
-				<div class="stars-today">⭐ 262 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7960</span>
-						<span>🔱 669</span>
-					</div>
-				<div class="stars-today">⭐ 394 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
-    
-
-
-      
-        Raphire /
-
-      Win11Debloat</a></p>
-				<p>
-      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 29050</span>
-						<span>🔱 1174</span>
-					</div>
-				<div class="stars-today">⭐ 262 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
-    
-
-
-      
-        dair-ai /
-
-      Prompt-Engineering-Guide</a></p>
-				<p>
-      🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 63459</span>
-						<span>🔱 6631</span>
-					</div>
-				<div class="stars-today">⭐ 244 stars today</div>
+				<div class="stars-today">⭐ 98 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +184,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8318</span>
-						<span>🔱 678</span>
+						<span>⭐ 8343</span>
+						<span>🔱 681</span>
 					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
+				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Klavis-AI/klavis" target="_blank">
+    
+
+
+      
+        Klavis-AI /
+
+      klavis</a></p>
+				<p>
+      Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5097</span>
+						<span>🔱 468</span>
+					</div>
+				<div class="stars-today">⭐ 180 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chili-chips-ba/wireguard-fpga" target="_blank">
+    
+
+
+      
+        chili-chips-ba /
+
+      wireguard-fpga</a></p>
+				<p>
+      Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Verilog</span>
+						<span>⭐ 941</span>
+						<span>🔱 15</span>
+					</div>
+				<div class="stars-today">⭐ 197 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+    
+
+
+      
+        dair-ai /
+
+      Prompt-Engineering-Guide</a></p>
+				<p>
+      🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 63490</span>
+						<span>🔱 6637</span>
+					</div>
+				<div class="stars-today">⭐ 507 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1Panel-dev/MaxKB" target="_blank">
+    
+
+
+      
+        1Panel-dev /
+
+      MaxKB</a></p>
+				<p>
+      🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18564</span>
+						<span>🔱 2419</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 369370</span>
+						<span>🔱 38869</span>
+					</div>
+				<div class="stars-today">⭐ 682 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KellerJordan/modded-nanogpt" target="_blank">
+    
+
+
+      
+        KellerJordan /
+
+      modded-nanogpt</a></p>
+				<p>
+      NanoGPT (124M) in 3 minutes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3243</span>
+						<span>🔱 446</span>
+					</div>
+				<div class="stars-today">⭐ 44 stars today</div>
 				</div>
 			</div>
 	
