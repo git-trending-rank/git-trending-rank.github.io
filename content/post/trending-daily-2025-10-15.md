@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-15
-date: 2025-10-15T09:58:58Z
+date: 2025-10-15T11:58:52Z
 categories:
 - daily
 keywords:
@@ -30,142 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 23640</span>
-						<span>🔱 2176</span>
+						<span>⭐ 23704</span>
+						<span>🔱 2185</span>
 					</div>
 				<div class="stars-today">⭐ 2246 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
     
 
 
       
-        nvm-sh /
+        jingyaogong /
 
-      nvm</a></p>
+      minimind</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 87530</span>
-						<span>🔱 9417</span>
-					</div>
-				<div class="stars-today">⭐ 25 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GorvGoyl/Clone-Wars" target="_blank">
-    
-
-
-      
-        GorvGoyl /
-
-      Clone-Wars</a></p>
-				<p>
-      100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 30741</span>
-						<span>🔱 2739</span>
-					</div>
-				<div class="stars-today">⭐ 173 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      spring-ai-alibaba</a></p>
-				<p>
-      Agentic AI Framework for Java Developers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 6334</span>
-						<span>🔱 1351</span>
-					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/happy-llm" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      happy-llm</a></p>
-				<p>
-      📚 从零开始的大语言模型原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19759</span>
-						<span>🔱 1706</span>
-					</div>
-				<div class="stars-today">⭐ 119 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 22761</span>
-						<span>🔱 3482</span>
-					</div>
-				<div class="stars-today">⭐ 441 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opendatalab/MinerU" target="_blank">
-    
-
-
-      
-        opendatalab /
-
-      MinerU</a></p>
-				<p>
-      Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46506</span>
-						<span>🔱 3848</span>
+						<span>⭐ 27506</span>
+						<span>🔱 3259</span>
 					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
+				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
 			</div>
 	
@@ -184,54 +74,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8619</span>
-						<span>🔱 701</span>
+						<span>⭐ 8642</span>
+						<span>🔱 704</span>
 					</div>
 				<div class="stars-today">⭐ 429 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Klavis-AI/klavis" target="_blank">
+				<p><a href="https://github.com/langchain-ai/langchainjs" target="_blank">
     
 
 
       
-        Klavis-AI /
+        langchain-ai /
 
-      klavis</a></p>
+      langchainjs</a></p>
 				<p>
-      Klavis AI (YC X25): MCP integration platforms that let AI agents use tools reliably at any scale
+      🦜🔗 Build context-aware reasoning applications 🦜🔗
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5230</span>
-						<span>🔱 474</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15862</span>
+						<span>🔱 2794</span>
 					</div>
-				<div class="stars-today">⭐ 179 stars today</div>
+				<div class="stars-today">⭐ 7 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chili-chips-ba/wireguard-fpga" target="_blank">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
     
 
 
       
-        chili-chips-ba /
+        karpathy /
 
-      wireguard-fpga</a></p>
+      nanoGPT</a></p>
 				<p>
-      Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Verilog</span>
-						<span>⭐ 1113</span>
-						<span>🔱 20</span>
+						<span>🔠 Python</span>
+						<span>⭐ 45621</span>
+						<span>🔱 7757</span>
 					</div>
-				<div class="stars-today">⭐ 165 stars today</div>
+				<div class="stars-today">⭐ 370 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 87538</span>
+						<span>🔱 9418</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/envoyproxy/envoy" target="_blank">
+    
+
+
+      
+        envoyproxy /
+
+      envoy</a></p>
+				<p>
+      Cloud-native high-performance edge/middle/service proxy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 26698</span>
+						<span>🔱 5100</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EvolutionAPI/evolution-api" target="_blank">
+    
+
+
+      
+        EvolutionAPI /
+
+      evolution-api</a></p>
+				<p>
+      Evolution API is an open-source WhatsApp integration API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5725</span>
+						<span>🔱 4496</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/devlikeapro/waha" target="_blank">
+    
+
+
+      
+        devlikeapro /
+
+      waha</a></p>
+				<p>
+      WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4469</span>
+						<span>🔱 925</span>
+					</div>
+				<div class="stars-today">⭐ 330 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/enactic/openarm" target="_blank">
+    
+
+
+      
+        enactic /
+
+      openarm</a></p>
+				<p>
+      A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 1108</span>
+						<span>🔱 131</span>
+					</div>
+				<div class="stars-today">⭐ 97 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DigitalPlatDev/FreeDomain" target="_blank">
+    
+
+
+      
+        DigitalPlatDev /
+
+      FreeDomain</a></p>
+				<p>
+      DigitalPlat FreeDomain: Free Domain For Everyone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 106646</span>
+						<span>🔱 2008</span>
+					</div>
+				<div class="stars-today">⭐ 1054 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChristianLempa/boilerplates" target="_blank">
+    
+
+
+      
+        ChristianLempa /
+
+      boilerplates</a></p>
+				<p>
+      This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6248</span>
+						<span>🔱 1764</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/spring-ai-alibaba" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      spring-ai-alibaba</a></p>
+				<p>
+      Agentic AI Framework for Java Developers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 6338</span>
+						<span>🔱 1351</span>
+					</div>
+				<div class="stars-today">⭐ 32 stars today</div>
 				</div>
 			</div>
 	
@@ -250,98 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 63791</span>
-						<span>🔱 6660</span>
+						<span>⭐ 63822</span>
+						<span>🔱 6664</span>
 					</div>
 				<div class="stars-today">⭐ 498 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/1Panel-dev/MaxKB" target="_blank">
+				<p><a href="https://github.com/nanobrowser/nanobrowser" target="_blank">
     
 
 
       
-        1Panel-dev /
+        nanobrowser /
 
-      MaxKB</a></p>
+      nanobrowser</a></p>
 				<p>
-      🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+      Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18667</span>
-						<span>🔱 2424</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10027</span>
+						<span>🔱 1022</span>
 					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
+				<div class="stars-today">⭐ 35 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+				<p><a href="https://github.com/czlonkowski/n8n-mcp" target="_blank">
     
 
 
       
-        public-apis /
+        czlonkowski /
 
-      public-apis</a></p>
+      n8n-mcp</a></p>
 				<p>
-      A collective list of free APIs
+      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 370031</span>
-						<span>🔱 38929</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8365</span>
+						<span>🔱 1599</span>
 					</div>
-				<div class="stars-today">⭐ 693 stars today</div>
+				<div class="stars-today">⭐ 89 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KellerJordan/modded-nanogpt" target="_blank">
+				<p><a href="https://github.com/tulir/whatsmeow" target="_blank">
     
 
 
       
-        KellerJordan /
+        tulir /
 
-      modded-nanogpt</a></p>
+      whatsmeow</a></p>
 				<p>
-      NanoGPT (124M) in 3 minutes
+      Go library for the WhatsApp web multidevice API
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3408</span>
-						<span>🔱 453</span>
+						<span>🔠 Go</span>
+						<span>⭐ 4478</span>
+						<span>🔱 706</span>
 					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      MineContext</a></p>
-				<p>
-      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1835</span>
-						<span>🔱 84</span>
-					</div>
-				<div class="stars-today">⭐ 208 stars today</div>
+				<div class="stars-today">⭐ 3 stars today</div>
 				</div>
 			</div>
 	

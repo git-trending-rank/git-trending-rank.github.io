@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第42周
-date: 2025-10-15T09:58:58Z
+date: 2025-10-15T11:58:52Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
-    
-
-
-      
-        Stremio /
-
-      stremio-web</a></p>
-				<p>
-      Stremio - Freedom to Stream
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8016</span>
-						<span>🔱 892</span>
-					</div>
-				<div class="stars-today">⭐ 4987 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 23640</span>
-						<span>🔱 2176</span>
+						<span>⭐ 23704</span>
+						<span>🔱 2185</span>
 					</div>
 				<div class="stars-today">⭐ 3502 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+    
+
+
+      
+        Stremio /
+
+      stremio-web</a></p>
+				<p>
+      Stremio - Freedom to Stream
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8019</span>
+						<span>🔱 893</span>
+					</div>
+				<div class="stars-today">⭐ 4987 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38948</span>
-						<span>🔱 2452</span>
+						<span>⭐ 38963</span>
+						<span>🔱 2453</span>
 					</div>
 				<div class="stars-today">⭐ 3247 stars this week</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7520</span>
-						<span>🔱 1908</span>
+						<span>⭐ 7524</span>
+						<span>🔱 1910</span>
 					</div>
 				<div class="stars-today">⭐ 1718 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11379</span>
-						<span>🔱 286</span>
-					</div>
-				<div class="stars-today">⭐ 4989 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8174</span>
-						<span>🔱 686</span>
+						<span>⭐ 8191</span>
+						<span>🔱 687</span>
 					</div>
 				<div class="stars-today">⭐ 1329 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
     
 
 
       
-        TapXWorld /
+        supermemoryai /
 
-      ChinaTextbook</a></p>
+      supermemory</a></p>
 				<p>
-      所有小初高、大学PDF教材。
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 53476</span>
-						<span>🔱 11988</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12012</span>
+						<span>🔱 1271</span>
 					</div>
-				<div class="stars-today">⭐ 2329 stars this week</div>
+				<div class="stars-today">⭐ 904 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9682</span>
+						<span>⭐ 9686</span>
 						<span>🔱 761</span>
 					</div>
 				<div class="stars-today">⭐ 1245 stars this week</div>
@@ -192,46 +170,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        dgtlmoon /
+        TapXWorld /
 
-      changedetection.io</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
+      所有小初高、大学PDF教材。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27980</span>
-						<span>🔱 1554</span>
+						<span>🔠 Roff</span>
+						<span>⭐ 53484</span>
+						<span>🔱 11991</span>
 					</div>
-				<div class="stars-today">⭐ 676 stars this week</div>
+				<div class="stars-today">⭐ 2329 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/BeehiveInnovations/zen-mcp-server" target="_blank">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
     
 
 
       
-        BeehiveInnovations /
+        TibixDev /
 
-      zen-mcp-server</a></p>
+      winboat</a></p>
 				<p>
-      The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9007</span>
-						<span>🔱 745</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11408</span>
+						<span>🔱 287</span>
 					</div>
-				<div class="stars-today">⭐ 1060 stars this week</div>
+				<div class="stars-today">⭐ 4989 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,120 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10587</span>
+						<span>⭐ 10599</span>
 						<span>🔱 2310</span>
 					</div>
 				<div class="stars-today">⭐ 1027 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
-    
-
-
-      
-        Infisical /
-
-      infisical</a></p>
-				<p>
-      Infisical is the open-source platform for secrets, certificates, and privileged access management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22672</span>
-						<span>🔱 1524</span>
-					</div>
-				<div class="stars-today">⭐ 749 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/rf-detr" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      rf-detr</a></p>
-				<p>
-      RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3623</span>
-						<span>🔱 415</span>
-					</div>
-				<div class="stars-today">⭐ 249 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/audacity/audacity" target="_blank">
-    
-
-
-      
-        audacity /
-
-      audacity</a></p>
-				<p>
-      Audio Editor 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15484</span>
-						<span>🔱 2445</span>
-					</div>
-				<div class="stars-today">⭐ 467 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xyflow/xyflow" target="_blank">
-    
-
-
-      
-        xyflow /
-
-      xyflow</a></p>
-				<p>
-      React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32801</span>
-						<span>🔱 2149</span>
-					</div>
-				<div class="stars-today">⭐ 919 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/firefly-iii/firefly-iii" target="_blank">
-    
-
-
-      
-        firefly-iii /
-
-      firefly-iii</a></p>
-				<p>
-      Firefly III: a personal finances manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 21184</span>
-						<span>🔱 1926</span>
-					</div>
-				<div class="stars-today">⭐ 397 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 81430</span>
+						<span>⭐ 81435</span>
 						<span>🔱 3411</span>
 					</div>
 				<div class="stars-today">⭐ 677 stars this week</div>
@@ -390,24 +258,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
     
 
 
       
-        microsoft /
+        dgtlmoon /
 
-      RD-Agent</a></p>
+      changedetection.io</a></p>
 				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8569</span>
-						<span>🔱 897</span>
+						<span>⭐ 27983</span>
+						<span>🔱 1554</span>
 					</div>
-				<div class="stars-today">⭐ 462 stars this week</div>
+				<div class="stars-today">⭐ 676 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
+    
+
+
+      
+        nitrojs /
+
+      nitro</a></p>
+				<p>
+      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8642</span>
+						<span>🔱 704</span>
+					</div>
+				<div class="stars-today">⭐ 626 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,10 +316,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 20107</span>
+						<span>⭐ 20110</span>
 						<span>🔱 4056</span>
 					</div>
 				<div class="stars-today">⭐ 1033 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/rf-detr" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      rf-detr</a></p>
+				<p>
+      RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3624</span>
+						<span>🔱 415</span>
+					</div>
+				<div class="stars-today">⭐ 249 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sapientinc/HRM" target="_blank">
+    
+
+
+      
+        sapientinc /
+
+      HRM</a></p>
+				<p>
+      Hierarchical Reasoning Model Official Release
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11014</span>
+						<span>🔱 1626</span>
+					</div>
+				<div class="stars-today">⭐ 200 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xyflow/xyflow" target="_blank">
+    
+
+
+      
+        xyflow /
+
+      xyflow</a></p>
+				<p>
+      React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32803</span>
+						<span>🔱 2149</span>
+					</div>
+				<div class="stars-today">⭐ 919 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
+    
+
+
+      
+        daytonaio /
+
+      daytona</a></p>
+				<p>
+      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23735</span>
+						<span>🔱 2400</span>
+					</div>
+				<div class="stars-today">⭐ 2091 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8576</span>
+						<span>🔱 898</span>
+					</div>
+				<div class="stars-today">⭐ 462 stars this week</div>
 				</div>
 			</div>
 	
