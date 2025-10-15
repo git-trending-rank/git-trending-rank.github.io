@@ -6,464 +6,10 @@
         <description>Recent content on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 15 Oct 2025 19:58:46 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>GitHub 趋势 2025年10月</title>
-        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B410%E6%9C%88/</link>
-        <pubDate>Wed, 15 Oct 2025 19:58:46 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B410%E6%9C%88/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Alibaba-NLP/DeepResearch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Alibaba-NLP /
-
-      DeepResearch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16004&lt;/span&gt;
-						&lt;span&gt;🔱 1205&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9518 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/harry0703/MoneyPrinterTurbo&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 46430&lt;/span&gt;
-						&lt;span&gt;🔱 6498&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6699 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/humanlayer/humanlayer&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        humanlayer /
-
-      humanlayer&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6054&lt;/span&gt;
-						&lt;span&gt;🔱 471&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3600 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/category-labs/monad&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        category-labs /
-
-      monad&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 1076&lt;/span&gt;
-						&lt;span&gt;🔱 368&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1115 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-agent-sdk-python&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-agent-sdk-python&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2595&lt;/span&gt;
-						&lt;span&gt;🔱 314&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1574 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/prompt-eng-interactive-tutorial&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Anthropic&#39;s Interactive Prompt Engineering Tutorial
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 23829&lt;/span&gt;
-						&lt;span&gt;🔱 2196&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3827 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/coinbase/x402&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        coinbase /
-
-      x402&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A payments protocol for the internet. Built on HTTP.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2157&lt;/span&gt;
-						&lt;span&gt;🔱 325&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1200 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/audacity/audacity&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        audacity /
-
-      audacity&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Audio Editor 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 15499&lt;/span&gt;
-						&lt;span&gt;🔱 2445&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1332 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/codex&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openai /
-
-      codex&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Lightweight coding agent that runs in your terminal
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 47642&lt;/span&gt;
-						&lt;span&gt;🔱 5746&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7013 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/evershopcommerce/evershop&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        evershopcommerce /
-
-      evershop&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🛍️ Typescript E-commerce Platform
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 7553&lt;/span&gt;
-						&lt;span&gt;🔱 1912&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1796 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TheAlgorithms/Python&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        TheAlgorithms /
-
-      Python&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      All Algorithms implemented in Python
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 210822&lt;/span&gt;
-						&lt;span&gt;🔱 48689&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4101 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bitcoin/bitcoin&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        bitcoin /
-
-      bitcoin&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Bitcoin Core integration/staging tree
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 86197&lt;/span&gt;
-						&lt;span&gt;🔱 38034&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 772 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/gin-gonic/gin&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        gin-gonic /
-
-      gin&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 86494&lt;/span&gt;
-						&lt;span&gt;🔱 8454&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2649 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dataease/SQLBot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dataease /
-
-      SQLBot&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3970&lt;/span&gt;
-						&lt;span&gt;🔱 390&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2469 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google-research/timesfm&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        google-research /
-
-      timesfm&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6778&lt;/span&gt;
-						&lt;span&gt;🔱 584&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1270 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/EbookFoundation/free-programming-books&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📚 Freely available programming books
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 372546&lt;/span&gt;
-						&lt;span&gt;🔱 64782&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4773 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/WebGoat/WebGoat&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        WebGoat /
-
-      WebGoat&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      WebGoat is a deliberately insecure application
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8597&lt;/span&gt;
-						&lt;span&gt;🔱 6798&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 873 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LazyVim/LazyVim&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        LazyVim /
-
-      LazyVim&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Neovim config for the lazy
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Lua&lt;/span&gt;
-						&lt;span&gt;⭐ 23439&lt;/span&gt;
-						&lt;span&gt;🔱 1647&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1089 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/supermemoryai/supermemory&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        supermemoryai /
-
-      supermemory&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12050&lt;/span&gt;
-						&lt;span&gt;🔱 1274&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1135 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/elastic/elasticsearch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        elastic /
-
-      elasticsearch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Free and Open Source, Distributed, RESTful Search Engine
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 75044&lt;/span&gt;
-						&lt;span&gt;🔱 25548&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1348 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 15 Oct 2025 21:58:49 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-10-15</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-10-15/</link>
-        <pubDate>Wed, 15 Oct 2025 19:58:45 +0000</pubDate>
+        <pubDate>Wed, 15 Oct 2025 21:58:49 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-10-15/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -487,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 23829&lt;/span&gt;
-						&lt;span&gt;🔱 2196&lt;/span&gt;
+						&lt;span&gt;⭐ 23848&lt;/span&gt;
+						&lt;span&gt;🔱 2198&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1700 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -509,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 27610&lt;/span&gt;
-						&lt;span&gt;🔱 3268&lt;/span&gt;
+						&lt;span&gt;⭐ 27621&lt;/span&gt;
+						&lt;span&gt;🔱 3269&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 58 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -531,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8759&lt;/span&gt;
-						&lt;span&gt;🔱 708&lt;/span&gt;
+						&lt;span&gt;⭐ 8785&lt;/span&gt;
+						&lt;span&gt;🔱 709&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 306 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -553,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 15916&lt;/span&gt;
-						&lt;span&gt;🔱 2798&lt;/span&gt;
+						&lt;span&gt;⭐ 15926&lt;/span&gt;
+						&lt;span&gt;🔱 2799&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -575,8 +121,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 45764&lt;/span&gt;
-						&lt;span&gt;🔱 7771&lt;/span&gt;
+						&lt;span&gt;⭐ 45787&lt;/span&gt;
+						&lt;span&gt;🔱 7775&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 299 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -597,7 +143,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 87590&lt;/span&gt;
+						&lt;span&gt;⭐ 87598&lt;/span&gt;
 						&lt;span&gt;🔱 9421&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 119 stars today&lt;/div&gt;
@@ -619,7 +165,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 26723&lt;/span&gt;
+						&lt;span&gt;⭐ 26724&lt;/span&gt;
 						&lt;span&gt;🔱 5105&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5 stars today&lt;/div&gt;
@@ -641,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5783&lt;/span&gt;
-						&lt;span&gt;🔱 4501&lt;/span&gt;
+						&lt;span&gt;⭐ 5794&lt;/span&gt;
+						&lt;span&gt;🔱 4505&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -663,8 +209,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4609&lt;/span&gt;
-						&lt;span&gt;🔱 933&lt;/span&gt;
+						&lt;span&gt;⭐ 4638&lt;/span&gt;
+						&lt;span&gt;🔱 934&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 330 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -685,7 +231,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 MDX&lt;/span&gt;
-						&lt;span&gt;⭐ 1170&lt;/span&gt;
+						&lt;span&gt;⭐ 1185&lt;/span&gt;
 						&lt;span&gt;🔱 132&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 97 stars today&lt;/div&gt;
@@ -707,7 +253,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 106917&lt;/span&gt;
+						&lt;span&gt;⭐ 106938&lt;/span&gt;
 						&lt;span&gt;🔱 2013&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 617 stars today&lt;/div&gt;
@@ -729,7 +275,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6349&lt;/span&gt;
+						&lt;span&gt;⭐ 6368&lt;/span&gt;
 						&lt;span&gt;🔱 1767&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 123 stars today&lt;/div&gt;
@@ -751,8 +297,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 6366&lt;/span&gt;
-						&lt;span&gt;🔱 1353&lt;/span&gt;
+						&lt;span&gt;⭐ 6367&lt;/span&gt;
+						&lt;span&gt;🔱 1352&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 113 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -773,7 +319,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 MDX&lt;/span&gt;
-						&lt;span&gt;⭐ 63930&lt;/span&gt;
+						&lt;span&gt;⭐ 63947&lt;/span&gt;
 						&lt;span&gt;🔱 6672&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 338 stars today&lt;/div&gt;
@@ -795,8 +341,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 10123&lt;/span&gt;
-						&lt;span&gt;🔱 1025&lt;/span&gt;
+						&lt;span&gt;⭐ 10142&lt;/span&gt;
+						&lt;span&gt;🔱 1026&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -817,8 +363,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8476&lt;/span&gt;
-						&lt;span&gt;🔱 1606&lt;/span&gt;
+						&lt;span&gt;⭐ 8502&lt;/span&gt;
+						&lt;span&gt;🔱 1607&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 89 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -839,7 +385,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 4512&lt;/span&gt;
+						&lt;span&gt;⭐ 4515&lt;/span&gt;
 						&lt;span&gt;🔱 710&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3 stars today&lt;/div&gt;
@@ -853,9 +399,463 @@
 </description>
         </item>
         <item>
+        <title>GitHub 趋势 2025年10月</title>
+        <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B410%E6%9C%88/</link>
+        <pubDate>Wed, 15 Oct 2025 21:58:49 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B410%E6%9C%88/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Alibaba-NLP/DeepResearch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Alibaba-NLP /
+
+      DeepResearch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Tongyi Deep Research, the Leading Open-source Deep Research Agent
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 16006&lt;/span&gt;
+						&lt;span&gt;🔱 1205&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9518 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/harry0703/MoneyPrinterTurbo&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 46434&lt;/span&gt;
+						&lt;span&gt;🔱 6498&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6699 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/humanlayer/humanlayer&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        humanlayer /
+
+      humanlayer&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 6053&lt;/span&gt;
+						&lt;span&gt;🔱 471&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3600 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/category-labs/monad&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        category-labs /
+
+      monad&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 1078&lt;/span&gt;
+						&lt;span&gt;🔱 368&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1115 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-agent-sdk-python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 2596&lt;/span&gt;
+						&lt;span&gt;🔱 315&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1574 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/prompt-eng-interactive-tutorial&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Anthropic&#39;s Interactive Prompt Engineering Tutorial
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 23848&lt;/span&gt;
+						&lt;span&gt;🔱 2198&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3827 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/coinbase/x402&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        coinbase /
+
+      x402&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A payments protocol for the internet. Built on HTTP.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2158&lt;/span&gt;
+						&lt;span&gt;🔱 325&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1200 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/audacity/audacity&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        audacity /
+
+      audacity&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Audio Editor 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 15505&lt;/span&gt;
+						&lt;span&gt;🔱 2445&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1332 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/codex&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      codex&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Lightweight coding agent that runs in your terminal
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 47651&lt;/span&gt;
+						&lt;span&gt;🔱 5752&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7013 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/evershopcommerce/evershop&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        evershopcommerce /
+
+      evershop&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🛍️ Typescript E-commerce Platform
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 7561&lt;/span&gt;
+						&lt;span&gt;🔱 1914&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1796 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TheAlgorithms/Python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        TheAlgorithms /
+
+      Python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      All Algorithms implemented in Python
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 210825&lt;/span&gt;
+						&lt;span&gt;🔱 48690&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4101 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bitcoin/bitcoin&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        bitcoin /
+
+      bitcoin&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Bitcoin Core integration/staging tree
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 86204&lt;/span&gt;
+						&lt;span&gt;🔱 38034&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 772 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gin-gonic/gin&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        gin-gonic /
+
+      gin&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 86497&lt;/span&gt;
+						&lt;span&gt;🔱 8454&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2649 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dataease/SQLBot&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dataease /
+
+      SQLBot&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3973&lt;/span&gt;
+						&lt;span&gt;🔱 390&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2469 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google-research/timesfm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google-research /
+
+      timesfm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6782&lt;/span&gt;
+						&lt;span&gt;🔱 584&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1270 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/EbookFoundation/free-programming-books&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📚 Freely available programming books
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 372551&lt;/span&gt;
+						&lt;span&gt;🔱 64783&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4773 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/WebGoat/WebGoat&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        WebGoat /
+
+      WebGoat&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      WebGoat is a deliberately insecure application
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 8598&lt;/span&gt;
+						&lt;span&gt;🔱 6798&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 873 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LazyVim/LazyVim&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        LazyVim /
+
+      LazyVim&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Neovim config for the lazy
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Lua&lt;/span&gt;
+						&lt;span&gt;⭐ 23440&lt;/span&gt;
+						&lt;span&gt;🔱 1647&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1089 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/supermemoryai/supermemory&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        supermemoryai /
+
+      supermemory&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 12059&lt;/span&gt;
+						&lt;span&gt;🔱 1274&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1135 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/elastic/elasticsearch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        elastic /
+
+      elasticsearch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free and Open Source, Distributed, RESTful Search Engine
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 75047&lt;/span&gt;
+						&lt;span&gt;🔱 25549&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1348 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025年第42周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC42%E5%91%A8/</link>
-        <pubDate>Wed, 15 Oct 2025 19:58:45 +0000</pubDate>
+        <pubDate>Wed, 15 Oct 2025 21:58:49 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC42%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -879,8 +879,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 23829&lt;/span&gt;
-						&lt;span&gt;🔱 2196&lt;/span&gt;
+						&lt;span&gt;⭐ 23848&lt;/span&gt;
+						&lt;span&gt;🔱 2198&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3502 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -901,7 +901,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8047&lt;/span&gt;
+						&lt;span&gt;⭐ 8051&lt;/span&gt;
 						&lt;span&gt;🔱 895&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4987 stars this week&lt;/div&gt;
@@ -923,8 +923,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 39011&lt;/span&gt;
-						&lt;span&gt;🔱 2455&lt;/span&gt;
+						&lt;span&gt;⭐ 39022&lt;/span&gt;
+						&lt;span&gt;🔱 2456&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3247 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -945,8 +945,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 7553&lt;/span&gt;
-						&lt;span&gt;🔱 1912&lt;/span&gt;
+						&lt;span&gt;⭐ 7561&lt;/span&gt;
+						&lt;span&gt;🔱 1914&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1718 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -967,7 +967,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8251&lt;/span&gt;
+						&lt;span&gt;⭐ 8261&lt;/span&gt;
 						&lt;span&gt;🔱 692&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1329 stars this week&lt;/div&gt;
@@ -989,7 +989,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12050&lt;/span&gt;
+						&lt;span&gt;⭐ 12059&lt;/span&gt;
 						&lt;span&gt;🔱 1274&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 904 stars this week&lt;/div&gt;
@@ -1011,7 +1011,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9719&lt;/span&gt;
+						&lt;span&gt;⭐ 9728&lt;/span&gt;
 						&lt;span&gt;🔱 765&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1245 stars this week&lt;/div&gt;
@@ -1055,7 +1055,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11478&lt;/span&gt;
+						&lt;span&gt;⭐ 11498&lt;/span&gt;
 						&lt;span&gt;🔱 289&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4989 stars this week&lt;/div&gt;
@@ -1077,8 +1077,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10625&lt;/span&gt;
-						&lt;span&gt;🔱 2313&lt;/span&gt;
+						&lt;span&gt;⭐ 10626&lt;/span&gt;
+						&lt;span&gt;🔱 2314&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1027 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -1099,7 +1099,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Zig&lt;/span&gt;
-						&lt;span&gt;⭐ 81453&lt;/span&gt;
+						&lt;span&gt;⭐ 81458&lt;/span&gt;
 						&lt;span&gt;🔱 3410&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 677 stars this week&lt;/div&gt;
@@ -1121,7 +1121,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 28004&lt;/span&gt;
+						&lt;span&gt;⭐ 28010&lt;/span&gt;
 						&lt;span&gt;🔱 1554&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 676 stars this week&lt;/div&gt;
@@ -1143,8 +1143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8759&lt;/span&gt;
-						&lt;span&gt;🔱 708&lt;/span&gt;
+						&lt;span&gt;⭐ 8785&lt;/span&gt;
+						&lt;span&gt;🔱 709&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 626 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -1165,7 +1165,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 20130&lt;/span&gt;
+						&lt;span&gt;⭐ 20131&lt;/span&gt;
 						&lt;span&gt;🔱 4057&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1033 stars this week&lt;/div&gt;
@@ -1187,7 +1187,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3636&lt;/span&gt;
+						&lt;span&gt;⭐ 3638&lt;/span&gt;
 						&lt;span&gt;🔱 415&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 249 stars this week&lt;/div&gt;
@@ -1209,7 +1209,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11080&lt;/span&gt;
+						&lt;span&gt;⭐ 11086&lt;/span&gt;
 						&lt;span&gt;🔱 1632&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 200 stars this week&lt;/div&gt;
@@ -1231,7 +1231,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32824&lt;/span&gt;
+						&lt;span&gt;⭐ 32826&lt;/span&gt;
 						&lt;span&gt;🔱 2149&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 919 stars this week&lt;/div&gt;
@@ -1253,7 +1253,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23745&lt;/span&gt;
+						&lt;span&gt;⭐ 23747&lt;/span&gt;
 						&lt;span&gt;🔱 2400&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2091 stars this week&lt;/div&gt;
@@ -1275,7 +1275,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8599&lt;/span&gt;
+						&lt;span&gt;⭐ 8605&lt;/span&gt;
 						&lt;span&gt;🔱 899&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 462 stars this week&lt;/div&gt;
