@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-16T09:58:52Z
+date: 2025-10-16T11:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16056</span>
+						<span>⭐ 16062</span>
 						<span>🔱 1206</span>
 					</div>
 				<div class="stars-today">⭐ 9565 stars this month</div>
@@ -52,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46485</span>
-						<span>🔱 6504</span>
+						<span>⭐ 46492</span>
+						<span>🔱 6506</span>
 					</div>
 				<div class="stars-today">⭐ 6758 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+    
+
+
+      
+        tile-ai /
+
+      tilelang</a></p>
+				<p>
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 3574</span>
+						<span>🔱 262</span>
+					</div>
+				<div class="stars-today">⭐ 1972 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-agentic-commerce/AP2" target="_blank">
+    
+
+
+      
+        google-agentic-commerce /
+
+      AP2</a></p>
+				<p>
+      Building a Secure and Interoperable Future for AI-Driven Payments.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2235</span>
+						<span>🔱 306</span>
+					</div>
+				<div class="stars-today">⭐ 2256 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +118,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6077</span>
+						<span>⭐ 6080</span>
 						<span>🔱 473</span>
 					</div>
 				<div class="stars-today">⭐ 3630 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 24083</span>
+						<span>🔱 2218</span>
+					</div>
+				<div class="stars-today">⭐ 5430 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-agent-sdk-python</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2625</span>
+						<span>🔱 319</span>
+					</div>
+				<div class="stars-today">⭐ 1584 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2167</span>
+						<span>🔱 328</span>
+					</div>
+				<div class="stars-today">⭐ 1223 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/audacity/audacity" target="_blank">
+    
+
+
+      
+        audacity /
+
+      audacity</a></p>
+				<p>
+      Audio Editor 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 15524</span>
+						<span>🔱 2445</span>
+					</div>
+				<div class="stars-today">⭐ 1369 stars this month</div>
 				</div>
 			</div>
 	
@@ -102,88 +232,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-agent-sdk-python" target="_blank">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
     
 
 
       
-        anthropics /
+        evershopcommerce /
 
-      claude-agent-sdk-python</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2622</span>
-						<span>🔱 318</span>
-					</div>
-				<div class="stars-today">⭐ 1584 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
+      evershop</a></p>
 				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24056</span>
-						<span>🔱 2218</span>
-					</div>
-				<div class="stars-today">⭐ 5430 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
-    
-
-
-      
-        coinbase /
-
-      x402</a></p>
-				<p>
-      A payments protocol for the internet. Built on HTTP.
+      🛍️ Typescript E-commerce Platform
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2165</span>
-						<span>🔱 328</span>
+						<span>⭐ 7612</span>
+						<span>🔱 1913</span>
 					</div>
-				<div class="stars-today">⭐ 1223 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/audacity/audacity" target="_blank">
-    
-
-
-      
-        audacity /
-
-      audacity</a></p>
-				<p>
-      Audio Editor 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15523</span>
-						<span>🔱 2445</span>
-					</div>
-				<div class="stars-today">⭐ 1369 stars this month</div>
+				<div class="stars-today">⭐ 1878 stars this month</div>
 				</div>
 			</div>
 	
@@ -202,54 +268,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 47748</span>
-						<span>🔱 5762</span>
+						<span>⭐ 47759</span>
+						<span>🔱 5764</span>
 					</div>
 				<div class="stars-today">⭐ 6954 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
-    
-
-
-      
-        evershopcommerce /
-
-      evershop</a></p>
-				<p>
-      🛍️ Typescript E-commerce Platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7602</span>
-						<span>🔱 1913</span>
-					</div>
-				<div class="stars-today">⭐ 1878 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 210858</span>
-						<span>🔱 48696</span>
-					</div>
-				<div class="stars-today">⭐ 4122 stars this month</div>
 				</div>
 			</div>
 	
@@ -268,7 +290,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 86211</span>
+						<span>⭐ 86214</span>
 						<span>🔱 38037</span>
 					</div>
 				<div class="stars-today">⭐ 789 stars this month</div>
@@ -290,7 +312,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86507</span>
+						<span>⭐ 86508</span>
 						<span>🔱 8455</span>
 					</div>
 				<div class="stars-today">⭐ 2653 stars this month</div>
@@ -298,24 +320,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dataease/SQLBot" target="_blank">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
     
 
 
       
-        dataease /
+        microsoft /
 
-      SQLBot</a></p>
+      BitNet</a></p>
 				<p>
-      🔥 基于大模型和 RAG 的智能问数系统。Text-to-SQL Generation via LLMs using RAG.
+      Official inference framework for 1-bit LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3989</span>
-						<span>🔱 392</span>
+						<span>⭐ 24179</span>
+						<span>🔱 1863</span>
 					</div>
-				<div class="stars-today">⭐ 2420 stars this month</div>
+				<div class="stars-today">⭐ 2266 stars this month</div>
 				</div>
 			</div>
 	
@@ -334,32 +356,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6802</span>
+						<span>⭐ 6806</span>
 						<span>🔱 584</span>
 					</div>
 				<div class="stars-today">⭐ 1303 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 372600</span>
-						<span>🔱 64791</span>
-					</div>
-				<div class="stars-today">⭐ 4767 stars this month</div>
 				</div>
 			</div>
 	
@@ -378,76 +378,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8608</span>
-						<span>🔱 6808</span>
+						<span>⭐ 8609</span>
+						<span>🔱 6809</span>
 					</div>
 				<div class="stars-today">⭐ 877 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LazyVim/LazyVim" target="_blank">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
     
 
 
       
-        LazyVim /
+        EbookFoundation /
 
-      LazyVim</a></p>
+      free-programming-books</a></p>
 				<p>
-      Neovim config for the lazy
+      📚 Freely available programming books
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 23454</span>
-						<span>🔱 1646</span>
+						<span>🔠 Python</span>
+						<span>⭐ 372608</span>
+						<span>🔱 64792</span>
 					</div>
-				<div class="stars-today">⭐ 1094 stars this month</div>
+				<div class="stars-today">⭐ 4767 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
     
 
 
       
-        supermemoryai /
+        TheAlgorithms /
 
-      supermemory</a></p>
+      Python</a></p>
 				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+      All Algorithms implemented in Python
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12110</span>
-						<span>🔱 1279</span>
+						<span>🔠 Python</span>
+						<span>⭐ 210862</span>
+						<span>🔱 48694</span>
 					</div>
-				<div class="stars-today">⭐ 1151 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
-    
-
-
-      
-        elastic /
-
-      elasticsearch</a></p>
-				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 75062</span>
-						<span>🔱 25552</span>
-					</div>
-				<div class="stars-today">⭐ 1345 stars this month</div>
+				<div class="stars-today">⭐ 4122 stars this month</div>
 				</div>
 			</div>
 	

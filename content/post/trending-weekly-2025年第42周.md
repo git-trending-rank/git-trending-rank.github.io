@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第42周
-date: 2025-10-16T09:58:55Z
+date: 2025-10-16T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24056</span>
+						<span>⭐ 24083</span>
 						<span>🔱 2218</span>
 					</div>
 				<div class="stars-today">⭐ 5108 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
-    
-
-
-      
-        Stremio /
-
-      stremio-web</a></p>
-				<p>
-      Stremio - Freedom to Stream
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8068</span>
-						<span>🔱 895</span>
-					</div>
-				<div class="stars-today">⭐ 3453 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39106</span>
-						<span>🔱 2463</span>
-					</div>
-				<div class="stars-today">⭐ 3378 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7602</span>
+						<span>⭐ 7612</span>
 						<span>🔱 1913</span>
 					</div>
 				<div class="stars-today">⭐ 1802 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39118</span>
+						<span>🔱 2464</span>
+					</div>
+				<div class="stars-today">⭐ 3378 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8341</span>
+						<span>⭐ 8352</span>
 						<span>🔱 698</span>
 					</div>
 				<div class="stars-today">⭐ 1521 stars this week</div>
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12110</span>
+						<span>⭐ 12118</span>
 						<span>🔱 1279</span>
 					</div>
 				<div class="stars-today">⭐ 904 stars this week</div>
@@ -148,134 +126,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+				<p><a href="https://github.com/google/computer-use-preview" target="_blank">
     
 
 
       
-        MODSetter /
+        google /
 
-      SurfSense</a></p>
-				<p>
-      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
-    </p>
+      computer-use-preview</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9761</span>
-						<span>🔱 767</span>
+						<span>⭐ 1397</span>
+						<span>🔱 173</span>
 					</div>
-				<div class="stars-today">⭐ 1256 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 53579</span>
-						<span>🔱 12013</span>
-					</div>
-				<div class="stars-today">⭐ 2149 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11625</span>
-						<span>🔱 290</span>
-					</div>
-				<div class="stars-today">⭐ 4763 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10688</span>
-						<span>🔱 2320</span>
-					</div>
-				<div class="stars-today">⭐ 1055 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 81495</span>
-						<span>🔱 3414</span>
-					</div>
-				<div class="stars-today">⭐ 710 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
-    
-
-
-      
-        dgtlmoon /
-
-      changedetection.io</a></p>
-				<p>
-      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28031</span>
-						<span>🔱 1555</span>
-					</div>
-				<div class="stars-today">⭐ 481 stars this week</div>
+				<div class="stars-today">⭐ 928 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +160,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8946</span>
+						<span>⭐ 8955</span>
 						<span>🔱 719</span>
 					</div>
 				<div class="stars-today">⭐ 864 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+    
+
+
+      
+        TibixDev /
+
+      winboat</a></p>
+				<p>
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11651</span>
+						<span>🔱 291</span>
+					</div>
+				<div class="stars-today">⭐ 4763 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14727</span>
+						<span>🔱 1128</span>
+					</div>
+				<div class="stars-today">⭐ 872 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 53589</span>
+						<span>🔱 12016</span>
+					</div>
+				<div class="stars-today">⭐ 2149 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,98 +248,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 20172</span>
-						<span>🔱 4064</span>
+						<span>⭐ 20178</span>
+						<span>🔱 4065</span>
 					</div>
 				<div class="stars-today">⭐ 1055 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/rf-detr" target="_blank">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
     
 
 
       
-        roboflow /
+        Stremio /
 
-      rf-detr</a></p>
+      stremio-web</a></p>
 				<p>
-      RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
+      Stremio - Freedom to Stream
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8071</span>
+						<span>🔱 895</span>
+					</div>
+				<div class="stars-today">⭐ 3453 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MODSetter/SurfSense" target="_blank">
+    
+
+
+      
+        MODSetter /
+
+      SurfSense</a></p>
+				<p>
+      Open Source Alternative to NotebookLM / Perplexity, connected to external sources such as Search Engines, Slack, Linear, Jira, ClickUp, Confluence, Notion, YouTube, GitHub, Discord and more. Join our discord: https://discord.gg/ejRNvftDp9
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3656</span>
-						<span>🔱 417</span>
+						<span>⭐ 9764</span>
+						<span>🔱 767</span>
 					</div>
-				<div class="stars-today">⭐ 202 stars this week</div>
+				<div class="stars-today">⭐ 1256 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sapientinc/HRM" target="_blank">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
     
 
 
       
-        sapientinc /
+        hsliuping /
 
-      HRM</a></p>
+      TradingAgents-CN</a></p>
 				<p>
-      Hierarchical Reasoning Model Official Release
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11174</span>
-						<span>🔱 1642</span>
+						<span>⭐ 10697</span>
+						<span>🔱 2322</span>
 					</div>
-				<div class="stars-today">⭐ 229 stars this week</div>
+				<div class="stars-today">⭐ 1055 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xyflow/xyflow" target="_blank">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
     
 
 
       
-        xyflow /
+        karpathy /
 
-      xyflow</a></p>
+      nanoGPT</a></p>
 				<p>
-      React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customizable.
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32854</span>
-						<span>🔱 2150</span>
+						<span>🔠 Python</span>
+						<span>⭐ 46039</span>
+						<span>🔱 7800</span>
 					</div>
-				<div class="stars-today">⭐ 817 stars this week</div>
+				<div class="stars-today">⭐ 824 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
     
 
 
       
-        daytonaio /
+        dair-ai /
 
-      daytona</a></p>
+      Prompt-Engineering-Guide</a></p>
 				<p>
-      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+      🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23765</span>
-						<span>🔱 2402</span>
+						<span>🔠 MDX</span>
+						<span>⭐ 64128</span>
+						<span>🔱 6676</span>
 					</div>
-				<div class="stars-today">⭐ 2289 stars this week</div>
+				<div class="stars-today">⭐ 1474 stars this week</div>
 				</div>
 			</div>
 	
@@ -426,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8641</span>
-						<span>🔱 901</span>
+						<span>⭐ 8646</span>
+						<span>🔱 902</span>
 					</div>
 				<div class="stars-today">⭐ 505 stars this week</div>
 				</div>
