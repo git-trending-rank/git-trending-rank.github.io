@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-17T09:58:38Z
+date: 2025-10-17T11:58:47Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      DeepResearch</a></p>
-				<p>
-      Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16128</span>
-						<span>🔱 1210</span>
-					</div>
-				<div class="stars-today">⭐ 9625 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46563</span>
-						<span>🔱 6519</span>
+						<span>⭐ 46572</span>
+						<span>🔱 6521</span>
 					</div>
 				<div class="stars-today">⭐ 6817 stars this month</div>
 				</div>
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3594</span>
+						<span>⭐ 3595</span>
 						<span>🔱 265</span>
 					</div>
 				<div class="stars-today">⭐ 1975 stars this month</div>
@@ -82,46 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-agentic-commerce/AP2" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
     
 
 
       
-        google-agentic-commerce /
+        Alibaba-NLP /
 
-      AP2</a></p>
+      DeepResearch</a></p>
 				<p>
-      Building a Secure and Interoperable Future for AI-Driven Payments.
+      Tongyi Deep Research, the Leading Open-source Deep Research Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2257</span>
-						<span>🔱 305</span>
+						<span>⭐ 16135</span>
+						<span>🔱 1210</span>
 					</div>
-				<div class="stars-today">⭐ 2258 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6130</span>
-						<span>🔱 473</span>
-					</div>
-				<div class="stars-today">⭐ 3653 stars this month</div>
+				<div class="stars-today">⭐ 9625 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24308</span>
-						<span>🔱 2230</span>
+						<span>⭐ 24321</span>
+						<span>🔱 2231</span>
 					</div>
 				<div class="stars-today">⭐ 5803 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6134</span>
+						<span>🔱 472</span>
+					</div>
+				<div class="stars-today">⭐ 3653 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,10 +138,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2655</span>
+						<span>⭐ 2657</span>
 						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 1619 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+    
+
+
+      
+        TibixDev /
+
+      winboat</a></p>
+				<p>
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11920</span>
+						<span>🔱 295</span>
+					</div>
+				<div class="stars-today">⭐ 7897 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/get-convex/chef" target="_blank">
+    
+
+
+      
+        get-convex /
+
+      chef</a></p>
+				<p>
+      The only AI app builder that knows backend
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2161</span>
+						<span>🔱 394</span>
+					</div>
+				<div class="stars-today">⭐ 2159 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2186</span>
+						<span>⭐ 2190</span>
 						<span>🔱 329</span>
 					</div>
 				<div class="stars-today">⭐ 1232 stars this month</div>
@@ -212,26 +234,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/category-labs/monad" target="_blank">
-    
-
-
-      
-        category-labs /
-
-      monad</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1085</span>
-						<span>🔱 368</span>
-					</div>
-				<div class="stars-today">⭐ 917 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
     
 
@@ -246,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7691</span>
+						<span>⭐ 7697</span>
 						<span>🔱 1921</span>
 					</div>
 				<div class="stars-today">⭐ 1960 stars this month</div>
@@ -254,24 +256,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
+				<p><a href="https://github.com/google-agentic-commerce/AP2" target="_blank">
     
 
 
       
-        openai /
+        google-agentic-commerce /
 
-      codex</a></p>
+      AP2</a></p>
 				<p>
-      Lightweight coding agent that runs in your terminal
+      Building a Secure and Interoperable Future for AI-Driven Payments.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 47911</span>
-						<span>🔱 5781</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2259</span>
+						<span>🔱 305</span>
 					</div>
-				<div class="stars-today">⭐ 6692 stars this month</div>
+				<div class="stars-today">⭐ 2258 stars this month</div>
 				</div>
 			</div>
 	
@@ -290,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 86237</span>
-						<span>🔱 38040</span>
+						<span>⭐ 86242</span>
+						<span>🔱 38039</span>
 					</div>
 				<div class="stars-today">⭐ 805 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 47921</span>
+						<span>🔱 5784</span>
+					</div>
+				<div class="stars-today">⭐ 6692 stars this month</div>
 				</div>
 			</div>
 	
@@ -312,98 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 86529</span>
+						<span>⭐ 86532</span>
 						<span>🔱 8456</span>
 					</div>
 				<div class="stars-today">⭐ 2664 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24199</span>
-						<span>🔱 1863</span>
-					</div>
-				<div class="stars-today">⭐ 2265 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6826</span>
-						<span>🔱 585</span>
-					</div>
-				<div class="stars-today">⭐ 1309 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WebGoat/WebGoat" target="_blank">
-    
-
-
-      
-        WebGoat /
-
-      WebGoat</a></p>
-				<p>
-      WebGoat is a deliberately insecure application
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8628</span>
-						<span>🔱 6807</span>
-					</div>
-				<div class="stars-today">⭐ 891 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 372700</span>
-						<span>🔱 64816</span>
-					</div>
-				<div class="stars-today">⭐ 4788 stars this month</div>
 				</div>
 			</div>
 	
@@ -422,10 +358,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 210961</span>
-						<span>🔱 48728</span>
+						<span>⭐ 210978</span>
+						<span>🔱 48729</span>
 					</div>
 				<div class="stars-today">⭐ 4128 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
+    
+
+
+      
+        zama-ai /
+
+      fhevm</a></p>
+				<p>
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 24304</span>
+						<span>🔱 1201</span>
+					</div>
+				<div class="stars-today">⭐ 5236 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 372703</span>
+						<span>🔱 64820</span>
+					</div>
+				<div class="stars-today">⭐ 4788 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
+    
+
+
+      
+        elastic /
+
+      elasticsearch</a></p>
+				<p>
+      Free and Open Source, Distributed, RESTful Search Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 75072</span>
+						<span>🔱 25552</span>
+					</div>
+				<div class="stars-today">⭐ 1367 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/n8n-io/n8n" target="_blank">
+    
+
+
+      
+        n8n-io /
+
+      n8n</a></p>
+				<p>
+      Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 149553</span>
+						<span>🔱 47511</span>
+					</div>
+				<div class="stars-today">⭐ 11523 stars this month</div>
 				</div>
 			</div>
 	
