@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-17
-date: 2025-10-17T17:59:01Z
+date: 2025-10-17T19:58:52Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28869</span>
-						<span>🔱 3359</span>
+						<span>⭐ 28974</span>
+						<span>🔱 3370</span>
 					</div>
 				<div class="stars-today">⭐ 265 stars today</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 88179</span>
+						<span>⭐ 88201</span>
 						<span>🔱 9452</span>
 					</div>
 				<div class="stars-today">⭐ 427 stars today</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 340981</span>
-						<span>🔱 43140</span>
+						<span>⭐ 340998</span>
+						<span>🔱 43142</span>
 					</div>
 				<div class="stars-today">⭐ 194 stars today</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47424</span>
-						<span>🔱 3511</span>
+						<span>⭐ 47441</span>
+						<span>🔱 3513</span>
 					</div>
 				<div class="stars-today">⭐ 186 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HuLaSpark/HuLa" target="_blank">
+    
+
+
+      
+        HuLaSpark /
+
+      HuLa</a></p>
+				<p>
+      🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 3949</span>
+						<span>🔱 516</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26586</span>
-						<span>🔱 1572</span>
+						<span>⭐ 26604</span>
+						<span>🔱 1574</span>
 					</div>
 				<div class="stars-today">⭐ 406 stars today</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5093</span>
-						<span>🔱 540</span>
+						<span>⭐ 5117</span>
+						<span>🔱 541</span>
 					</div>
 				<div class="stars-today">⭐ 57 stars today</div>
 				</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7441</span>
+						<span>⭐ 7453</span>
 						<span>🔱 1166</span>
 					</div>
 				<div class="stars-today">⭐ 82 stars today</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 30970</span>
-						<span>🔱 4219</span>
+						<span>⭐ 30993</span>
+						<span>🔱 4222</span>
 					</div>
 				<div class="stars-today">⭐ 321 stars today</div>
 				</div>
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 30285</span>
+						<span>⭐ 30295</span>
 						<span>🔱 7721</span>
 					</div>
 				<div class="stars-today">⭐ 31 stars today</div>
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5081</span>
+						<span>⭐ 5093</span>
 						<span>🔱 975</span>
 					</div>
 				<div class="stars-today">⭐ 261 stars today</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57842</span>
-						<span>🔱 8887</span>
+						<span>⭐ 57868</span>
+						<span>🔱 8890</span>
 					</div>
 				<div class="stars-today">⭐ 459 stars today</div>
 				</div>
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46457</span>
-						<span>🔱 7832</span>
+						<span>⭐ 46478</span>
+						<span>🔱 7835</span>
 					</div>
 				<div class="stars-today">⭐ 335 stars today</div>
 				</div>
@@ -294,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2610</span>
-						<span>🔱 689</span>
+						<span>⭐ 2617</span>
+						<span>🔱 690</span>
 					</div>
 				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      generative-ai-for-beginners</a></p>
-				<p>
-      21 Lessons, Get Started Building with Generative AI 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 100436</span>
-						<span>🔱 53131</span>
-					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
 				</div>
 			</div>
 	
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7707</span>
-						<span>🔱 1613</span>
+						<span>⭐ 7727</span>
+						<span>🔱 1614</span>
 					</div>
 				<div class="stars-today">⭐ 163 stars today</div>
 				</div>
@@ -360,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 124538</span>
+						<span>⭐ 124556</span>
 						<span>🔱 7414</span>
 					</div>
 				<div class="stars-today">⭐ 79 stars today</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11595</span>
-						<span>🔱 470</span>
+						<span>⭐ 11609</span>
+						<span>🔱 471</span>
 					</div>
 				<div class="stars-today">⭐ 83 stars today</div>
 				</div>
