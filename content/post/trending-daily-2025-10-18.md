@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-18
-date: 2025-10-18T07:58:44Z
+date: 2025-10-18T09:58:57Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29595</span>
-						<span>🔱 3433</span>
+						<span>⭐ 29749</span>
+						<span>🔱 3443</span>
 					</div>
 				<div class="stars-today">⭐ 353 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 88310</span>
-						<span>🔱 9463</span>
+						<span>⭐ 88345</span>
+						<span>🔱 9465</span>
 					</div>
 				<div class="stars-today">⭐ 423 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 341102</span>
-						<span>🔱 43144</span>
+						<span>⭐ 341123</span>
+						<span>🔱 43147</span>
 					</div>
 				<div class="stars-today">⭐ 181 stars today</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47570</span>
-						<span>🔱 3523</span>
+						<span>⭐ 47585</span>
+						<span>🔱 3524</span>
 					</div>
 				<div class="stars-today">⭐ 191 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HuLaSpark/HuLa" target="_blank">
-    
-
-
-      
-        HuLaSpark /
-
-      HuLa</a></p>
-				<p>
-      🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Windows、MacOS、Linux、Android、IOS）🎉 10月20号 3.0版本重磅发布，敬请期待🎉
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 4067</span>
-						<span>🔱 519</span>
-					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26717</span>
-						<span>🔱 1581</span>
+						<span>⭐ 26734</span>
+						<span>🔱 1585</span>
 					</div>
 				<div class="stars-today">⭐ 411 stars today</div>
 				</div>
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5232</span>
-						<span>🔱 550</span>
+						<span>⭐ 5276</span>
+						<span>🔱 553</span>
 					</div>
 				<div class="stars-today">⭐ 78 stars today</div>
 				</div>
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7540</span>
+						<span>⭐ 7548</span>
 						<span>🔱 1169</span>
 					</div>
 				<div class="stars-today">⭐ 80 stars today</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 31084</span>
-						<span>🔱 4233</span>
+						<span>⭐ 31105</span>
+						<span>🔱 4235</span>
 					</div>
 				<div class="stars-today">⭐ 320 stars today</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 30375</span>
-						<span>🔱 7723</span>
+						<span>⭐ 30382</span>
+						<span>🔱 7724</span>
 					</div>
 				<div class="stars-today">⭐ 46 stars today</div>
 				</div>
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5147</span>
+						<span>⭐ 5159</span>
 						<span>🔱 977</span>
 					</div>
 				<div class="stars-today">⭐ 249 stars today</div>
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58134</span>
-						<span>🔱 8901</span>
+						<span>⭐ 58186</span>
+						<span>🔱 8904</span>
 					</div>
 				<div class="stars-today">⭐ 490 stars today</div>
 				</div>
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46579</span>
-						<span>🔱 7844</span>
+						<span>⭐ 46600</span>
+						<span>🔱 7845</span>
 					</div>
 				<div class="stars-today">⭐ 334 stars today</div>
 				</div>
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2664</span>
-						<span>🔱 692</span>
+						<span>⭐ 2677</span>
+						<span>🔱 694</span>
 					</div>
 				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7845</span>
-						<span>🔱 1628</span>
+						<span>⭐ 7860</span>
+						<span>🔱 1631</span>
 					</div>
 				<div class="stars-today">⭐ 125 stars today</div>
 				</div>
@@ -360,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 124658</span>
+						<span>⭐ 124679</span>
 						<span>🔱 7419</span>
 					</div>
 				<div class="stars-today">⭐ 85 stars today</div>
@@ -382,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11693</span>
+						<span>⭐ 11713</span>
 						<span>🔱 475</span>
 					</div>
 				<div class="stars-today">⭐ 85 stars today</div>
