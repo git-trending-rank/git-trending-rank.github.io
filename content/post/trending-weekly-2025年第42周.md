@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第42周
-date: 2025-10-18T09:58:56Z
+date: 2025-10-18T11:58:39Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24429</span>
+						<span>⭐ 24435</span>
 						<span>🔱 2237</span>
 					</div>
 				<div class="stars-today">⭐ 5739 stars this week</div>
@@ -38,24 +38,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
+				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
     
 
 
       
-        evershopcommerce /
+        volcengine /
 
-      evershop</a></p>
+      MineContext</a></p>
 				<p>
-      🛍️ Typescript E-commerce Platform
+      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7756</span>
-						<span>🔱 1927</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2062</span>
+						<span>🔱 116</span>
 					</div>
-				<div class="stars-today">⭐ 1844 stars this week</div>
+				<div class="stars-today">⭐ 1596 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29816</span>
+						<span>🔱 3451</span>
+					</div>
+				<div class="stars-today">⭐ 1270 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39372</span>
-						<span>🔱 2489</span>
+						<span>⭐ 39376</span>
+						<span>🔱 2488</span>
 					</div>
 				<div class="stars-today">⭐ 3368 stars this week</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8643</span>
-						<span>🔱 728</span>
+						<span>⭐ 8652</span>
+						<span>🔱 729</span>
 					</div>
 				<div class="stars-today">⭐ 1678 stars this week</div>
 				</div>
@@ -118,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46600</span>
-						<span>🔱 7845</span>
+						<span>⭐ 46614</span>
+						<span>🔱 7846</span>
 					</div>
 				<div class="stars-today">⭐ 1490 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
+    
+
+
+      
+        evershopcommerce /
+
+      evershop</a></p>
+				<p>
+      🛍️ Typescript E-commerce Platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7757</span>
+						<span>🔱 1927</span>
+					</div>
+				<div class="stars-today">⭐ 1844 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
+    
+
+
+      
+        PixelGuys /
+
+      Cubyz</a></p>
+				<p>
+      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 2591</span>
+						<span>🔱 153</span>
+					</div>
+				<div class="stars-today">⭐ 1118 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,162 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9084</span>
+						<span>⭐ 9086</span>
 						<span>🔱 722</span>
 					</div>
 				<div class="stars-today">⭐ 1248 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12243</span>
-						<span>🔱 1291</span>
-					</div>
-				<div class="stars-today">⭐ 941 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/computer-use-preview" target="_blank">
-    
-
-
-      
-        google /
-
-      computer-use-preview</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1488</span>
-						<span>🔱 180</span>
-					</div>
-				<div class="stars-today">⭐ 645 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15010</span>
-						<span>🔱 1157</span>
-					</div>
-				<div class="stars-today">⭐ 1136 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12112</span>
-						<span>🔱 303</span>
-					</div>
-				<div class="stars-today">⭐ 3106 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29749</span>
-						<span>🔱 3443</span>
-					</div>
-				<div class="stars-today">⭐ 1270 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sapientinc/HRM" target="_blank">
-    
-
-
-      
-        sapientinc /
-
-      HRM</a></p>
-				<p>
-      Hierarchical Reasoning Model Official Release
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11309</span>
-						<span>🔱 1656</span>
-					</div>
-				<div class="stars-today">⭐ 377 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
-    
-
-
-      
-        Raphire /
-
-      Win11Debloat</a></p>
-				<p>
-      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 29644</span>
-						<span>🔱 1194</span>
-					</div>
-				<div class="stars-today">⭐ 2114 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 64337</span>
-						<span>🔱 6702</span>
+						<span>⭐ 64346</span>
+						<span>🔱 6703</span>
 					</div>
 				<div class="stars-today">⭐ 1704 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+    
+
+
+      
+        TibixDev /
+
+      winboat</a></p>
+				<p>
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12129</span>
+						<span>🔱 303</span>
+					</div>
+				<div class="stars-today">⭐ 3106 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15016</span>
+						<span>🔱 1156</span>
+					</div>
+				<div class="stars-today">⭐ 1136 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 88355</span>
+						<span>🔱 9465</span>
+					</div>
+				<div class="stars-today">⭐ 933 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12252</span>
+						<span>🔱 1291</span>
+					</div>
+				<div class="stars-today">⭐ 941 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
+    
+
+
+      
+        daytonaio /
+
+      daytona</a></p>
+				<p>
+      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23928</span>
+						<span>🔱 2409</span>
+					</div>
+				<div class="stars-today">⭐ 2427 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +360,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 20276</span>
+						<span>⭐ 20281</span>
 						<span>🔱 4082</span>
 					</div>
 				<div class="stars-today">⭐ 988 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/computer-use-preview" target="_blank">
+    
+
+
+      
+        google /
+
+      computer-use-preview</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1490</span>
+						<span>🔱 180</span>
+					</div>
+				<div class="stars-today">⭐ 645 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sapientinc/HRM" target="_blank">
+    
+
+
+      
+        sapientinc /
+
+      HRM</a></p>
+				<p>
+      Hierarchical Reasoning Model Official Release
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11311</span>
+						<span>🔱 1656</span>
+					</div>
+				<div class="stars-today">⭐ 377 stars this week</div>
 				</div>
 			</div>
 	
