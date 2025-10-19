@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-19T09:58:36Z
+date: 2025-10-19T11:58:33Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46683</span>
-						<span>🔱 6533</span>
+						<span>⭐ 46689</span>
+						<span>🔱 6534</span>
 					</div>
 				<div class="stars-today">⭐ 6924 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
-    
-
-
-      
-        Gar-b-age /
-
-      CookLikeHOC</a></p>
-				<p>
-      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21345</span>
-						<span>🔱 2110</span>
-					</div>
-				<div class="stars-today">⭐ 17478 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3621</span>
+						<span>⭐ 3622</span>
 						<span>🔱 268</span>
 					</div>
 				<div class="stars-today">⭐ 2001 stars this month</div>
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24509</span>
+						<span>⭐ 24514</span>
 						<span>🔱 2244</span>
 					</div>
 				<div class="stars-today">⭐ 6135 stars this month</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6219</span>
+						<span>⭐ 6223</span>
 						<span>🔱 478</span>
 					</div>
 				<div class="stars-today">⭐ 3731 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
+    
+
+
+      
+        Gar-b-age /
+
+      CookLikeHOC</a></p>
+				<p>
+      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 21347</span>
+						<span>🔱 2110</span>
+					</div>
+				<div class="stars-today">⭐ 17478 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2713</span>
-						<span>🔱 327</span>
+						<span>⭐ 2717</span>
+						<span>🔱 328</span>
 					</div>
 				<div class="stars-today">⭐ 1665 stars this month</div>
 				</div>
@@ -160,54 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12269</span>
+						<span>⭐ 12286</span>
 						<span>🔱 306</span>
 					</div>
 				<div class="stars-today">⭐ 8036 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
-    
-
-
-      
-        Alibaba-NLP /
-
-      DeepResearch</a></p>
-				<p>
-      Tongyi Deep Research, the Leading Open-source Deep Research Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16190</span>
-						<span>🔱 1213</span>
-					</div>
-				<div class="stars-today">⭐ 7670 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
-    
-
-
-      
-        WECENG /
-
-      ticket-purchase</a></p>
-				<p>
-      大麦自动抢票，支持人员、城市、日期场次、价格选择
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5137</span>
-						<span>🔱 635</span>
-					</div>
-				<div class="stars-today">⭐ 3322 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 15600</span>
+						<span>⭐ 15601</span>
 						<span>🔱 2451</span>
 					</div>
 				<div class="stars-today">⭐ 1442 stars this month</div>
@@ -248,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2218</span>
+						<span>⭐ 2219</span>
 						<span>🔱 335</span>
 					</div>
 				<div class="stars-today">⭐ 1230 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
+    
+
+
+      
+        WECENG /
+
+      ticket-purchase</a></p>
+				<p>
+      大麦自动抢票，支持人员、城市、日期场次、价格选择
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5141</span>
+						<span>🔱 635</span>
+					</div>
+				<div class="stars-today">⭐ 3322 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7817</span>
-						<span>🔱 1935</span>
+						<span>⭐ 7829</span>
+						<span>🔱 1936</span>
 					</div>
 				<div class="stars-today">⭐ 2104 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
-    
-
-
-      
-        bitcoin /
-
-      bitcoin</a></p>
-				<p>
-      Bitcoin Core integration/staging tree
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 86283</span>
-						<span>🔱 38044</span>
-					</div>
-				<div class="stars-today">⭐ 839 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 373215</span>
-						<span>🔱 64881</span>
+						<span>⭐ 373245</span>
+						<span>🔱 64884</span>
 					</div>
 				<div class="stars-today">⭐ 4847 stars this month</div>
 				</div>
@@ -336,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24419</span>
-						<span>🔱 1212</span>
+						<span>⭐ 24424</span>
+						<span>🔱 1213</span>
 					</div>
 				<div class="stars-today">⭐ 4995 stars this month</div>
 				</div>
@@ -358,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 21481</span>
+						<span>⭐ 21532</span>
 						<span>🔱 2304</span>
 					</div>
 				<div class="stars-today">⭐ 1217 stars this month</div>
@@ -366,24 +322,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
     
 
 
       
-        gin-gonic /
+        bitcoin /
 
-      gin</a></p>
+      bitcoin</a></p>
 				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+      Bitcoin Core integration/staging tree
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86574</span>
-						<span>🔱 8460</span>
+						<span>🔠 C++</span>
+						<span>⭐ 86287</span>
+						<span>🔱 38044</span>
 					</div>
-				<div class="stars-today">⭐ 2691 stars this month</div>
+				<div class="stars-today">⭐ 839 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,32 +358,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 211276</span>
-						<span>🔱 48795</span>
+						<span>⭐ 211302</span>
+						<span>🔱 48798</span>
 					</div>
 				<div class="stars-today">⭐ 3953 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+				<p><a href="https://github.com/Alibaba-NLP/DeepResearch" target="_blank">
     
 
 
       
-        supermemoryai /
+        Alibaba-NLP /
 
-      supermemory</a></p>
+      DeepResearch</a></p>
 				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+      Tongyi Deep Research, the Leading Open-source Deep Research Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12351</span>
-						<span>🔱 1294</span>
+						<span>🔠 Python</span>
+						<span>⭐ 16192</span>
+						<span>🔱 1214</span>
 					</div>
-				<div class="stars-today">⭐ 1386 stars this month</div>
+				<div class="stars-today">⭐ 7670 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,10 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39488</span>
-						<span>🔱 2499</span>
+						<span>⭐ 39501</span>
+						<span>🔱 2500</span>
 					</div>
 				<div class="stars-today">⭐ 5954 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
+    
+
+
+      
+        gin-gonic /
+
+      gin</a></p>
+				<p>
+      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 86577</span>
+						<span>🔱 8460</span>
+					</div>
+				<div class="stars-today">⭐ 2691 stars this month</div>
 				</div>
 			</div>
 	

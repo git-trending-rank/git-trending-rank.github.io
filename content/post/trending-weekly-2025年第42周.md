@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第42周
-date: 2025-10-19T09:58:35Z
+date: 2025-10-19T11:58:33Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24509</span>
+						<span>⭐ 24514</span>
 						<span>🔱 2244</span>
 					</div>
 				<div class="stars-today">⭐ 5831 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      MineContext</a></p>
-				<p>
-      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2121</span>
-						<span>🔱 117</span>
-					</div>
-				<div class="stars-today">⭐ 1491 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30065</span>
-						<span>🔱 3477</span>
+						<span>⭐ 30085</span>
+						<span>🔱 3480</span>
 					</div>
 				<div class="stars-today">⭐ 2607 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
     
 
 
       
-        anthropics /
+        volcengine /
 
-      claude-code</a></p>
+      MineContext</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39488</span>
-						<span>🔱 2499</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2125</span>
+						<span>🔱 118</span>
 					</div>
-				<div class="stars-today">⭐ 3145 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8768</span>
-						<span>🔱 736</span>
-					</div>
-				<div class="stars-today">⭐ 1668 stars this week</div>
+				<div class="stars-today">⭐ 1491 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46742</span>
-						<span>🔱 7861</span>
+						<span>⭐ 46752</span>
+						<span>🔱 7862</span>
 					</div>
 				<div class="stars-today">⭐ 1697 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
     
 
 
       
-        evershopcommerce /
+        davila7 /
 
-      evershop</a></p>
+      claude-code-templates</a></p>
 				<p>
-      🛍️ Typescript E-commerce Platform
+      CLI tool for configuring and monitoring Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7817</span>
-						<span>🔱 1935</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8777</span>
+						<span>🔱 737</span>
 					</div>
-				<div class="stars-today">⭐ 1272 stars this week</div>
+				<div class="stars-today">⭐ 1668 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        PixelGuys /
+        anthropics /
 
-      Cubyz</a></p>
+      claude-code</a></p>
 				<p>
-      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 2630</span>
-						<span>🔱 154</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39501</span>
+						<span>🔱 2500</span>
 					</div>
-				<div class="stars-today">⭐ 969 stars this week</div>
+				<div class="stars-today">⭐ 3145 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9127</span>
+						<span>⭐ 9129</span>
 						<span>🔱 724</span>
 					</div>
 				<div class="stars-today">⭐ 1292 stars this week</div>
@@ -228,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 64427</span>
+						<span>⭐ 64437</span>
 						<span>🔱 6705</span>
 					</div>
 				<div class="stars-today">⭐ 1773 stars this week</div>
@@ -236,46 +192,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
     
 
 
       
-        TibixDev /
+        evershopcommerce /
 
-      winboat</a></p>
+      evershop</a></p>
 				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
+      🛍️ Typescript E-commerce Platform
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12269</span>
-						<span>🔱 306</span>
+						<span>⭐ 7829</span>
+						<span>🔱 1936</span>
 					</div>
-				<div class="stars-today">⭐ 2572 stars this week</div>
+				<div class="stars-today">⭐ 1272 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
     
 
 
       
-        QwenLM /
+        microsoft /
 
-      Qwen3-VL</a></p>
+      PowerToys</a></p>
 				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15060</span>
-						<span>🔱 1159</span>
+						<span>🔠 C#</span>
+						<span>⭐ 124871</span>
+						<span>🔱 7428</span>
 					</div>
-				<div class="stars-today">⭐ 1099 stars this week</div>
+				<div class="stars-today">⭐ 581 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 88421</span>
+						<span>⭐ 88429</span>
 						<span>🔱 9469</span>
 					</div>
 				<div class="stars-today">⭐ 1046 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12351</span>
-						<span>🔱 1294</span>
-					</div>
-				<div class="stars-today">⭐ 665 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,52 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24115</span>
+						<span>⭐ 24155</span>
 						<span>🔱 2412</span>
 					</div>
 				<div class="stars-today">⭐ 1674 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/78/xiaozhi-esp32" target="_blank">
-    
-
-
-      
-        78 /
-
-      xiaozhi-esp32</a></p>
-				<p>
-      An MCP-based chatbot | 一个基于MCP的聊天机器人
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 20309</span>
-						<span>🔱 4092</span>
-					</div>
-				<div class="stars-today">⭐ 646 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/computer-use-preview" target="_blank">
-    
-
-
-      
-        google /
-
-      computer-use-preview</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1523</span>
-						<span>🔱 181</span>
-					</div>
-				<div class="stars-today">⭐ 499 stars this week</div>
 				</div>
 			</div>
 	
@@ -402,10 +294,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11353</span>
-						<span>🔱 1657</span>
+						<span>⭐ 11358</span>
+						<span>🔱 1656</span>
 					</div>
 				<div class="stars-today">⭐ 405 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15065</span>
+						<span>🔱 1159</span>
+					</div>
+				<div class="stars-today">⭐ 1099 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
+    
+
+
+      
+        PixelGuys /
+
+      Cubyz</a></p>
+				<p>
+      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 2636</span>
+						<span>🔱 154</span>
+					</div>
+				<div class="stars-today">⭐ 969 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12363</span>
+						<span>🔱 1295</span>
+					</div>
+				<div class="stars-today">⭐ 665 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12889</span>
+						<span>🔱 2224</span>
+					</div>
+				<div class="stars-today">⭐ 383 stars this week</div>
 				</div>
 			</div>
 	
