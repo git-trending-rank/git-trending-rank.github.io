@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第43周
-date: 2025-10-20T09:58:42Z
+date: 2025-10-20T11:58:57Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24630</span>
-						<span>🔱 2254</span>
+						<span>⭐ 24644</span>
+						<span>🔱 2256</span>
 					</div>
 				<div class="stars-today">⭐ 5390 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30609</span>
-						<span>🔱 3526</span>
+						<span>⭐ 30647</span>
+						<span>🔱 3531</span>
 					</div>
 				<div class="stars-today">⭐ 2894 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      MineContext</a></p>
-				<p>
-      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2248</span>
-						<span>🔱 123</span>
-					</div>
-				<div class="stars-today">⭐ 1182 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46908</span>
-						<span>🔱 7888</span>
+						<span>⭐ 46920</span>
+						<span>🔱 7891</span>
 					</div>
 				<div class="stars-today">⭐ 1844 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      MineContext</a></p>
+				<p>
+      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2263</span>
+						<span>🔱 123</span>
+					</div>
+				<div class="stars-today">⭐ 1182 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8931</span>
+						<span>⭐ 8942</span>
 						<span>🔱 749</span>
 					</div>
 				<div class="stars-today">⭐ 1475 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39628</span>
-						<span>🔱 2515</span>
-					</div>
-				<div class="stars-today">⭐ 2109 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9172</span>
+						<span>⭐ 9176</span>
 						<span>🔱 726</span>
 					</div>
 				<div class="stars-today">⭐ 1300 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
-    
-
-
-      
-        dair-ai /
-
-      Prompt-Engineering-Guide</a></p>
-				<p>
-      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 64643</span>
-						<span>🔱 6727</span>
-					</div>
-				<div class="stars-today">⭐ 1712 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
-    
-
-
-      
-        evershopcommerce /
-
-      evershop</a></p>
-				<p>
-      🛍️ Typescript E-commerce Platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7932</span>
-						<span>🔱 1943</span>
-					</div>
-				<div class="stars-today">⭐ 919 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 124911</span>
+						<span>⭐ 124913</span>
 						<span>🔱 7429</span>
 					</div>
 				<div class="stars-today">⭐ 692 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39636</span>
+						<span>🔱 2519</span>
+					</div>
+				<div class="stars-today">⭐ 2109 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 88453</span>
+						<span>⭐ 88455</span>
 						<span>🔱 9469</span>
 					</div>
 				<div class="stars-today">⭐ 1111 stars this week</div>
@@ -258,24 +214,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
     
 
 
       
-        daytonaio /
+        lfnovo /
 
-      daytona</a></p>
+      open-notebook</a></p>
 				<p>
-      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+      An Open Source implementation of Notebook LM with more flexibility and features
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24239</span>
-						<span>🔱 2416</span>
+						<span>⭐ 5971</span>
+						<span>🔱 606</span>
 					</div>
-				<div class="stars-today">⭐ 1462 stars this week</div>
+				<div class="stars-today">⭐ 791 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+    
+
+
+      
+        dair-ai /
+
+      Prompt-Engineering-Guide</a></p>
+				<p>
+      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 64669</span>
+						<span>🔱 6728</span>
+					</div>
+				<div class="stars-today">⭐ 1712 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 22833</span>
+						<span>🔱 2372</span>
+					</div>
+				<div class="stars-today">⭐ 1232 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/terminal" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      terminal</a></p>
+				<p>
+      The new Windows Terminal and the original Windows console host, all in the same place!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 100646</span>
+						<span>🔱 8865</span>
+					</div>
+				<div class="stars-today">⭐ 116 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11411</span>
+						<span>⭐ 11413</span>
 						<span>🔱 1661</span>
 					</div>
 				<div class="stars-today">⭐ 438 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
+    
+
+
+      
+        evershopcommerce /
+
+      evershop</a></p>
+				<p>
+      🛍️ Typescript E-commerce Platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7940</span>
+						<span>🔱 1944</span>
+					</div>
+				<div class="stars-today">⭐ 919 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opendatalab/MinerU" target="_blank">
+    
+
+
+      
+        opendatalab /
+
+      MinerU</a></p>
+				<p>
+      Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46945</span>
+						<span>🔱 3874</span>
+					</div>
+				<div class="stars-today">⭐ 1082 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,76 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15130</span>
+						<span>⭐ 15142</span>
 						<span>🔱 1168</span>
 					</div>
 				<div class="stars-today">⭐ 964 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PixelGuys/Cubyz" target="_blank">
-    
-
-
-      
-        PixelGuys /
-
-      Cubyz</a></p>
-				<p>
-      Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 2678</span>
-						<span>🔱 156</span>
-					</div>
-				<div class="stars-today">⭐ 680 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12477</span>
-						<span>🔱 1307</span>
-					</div>
-				<div class="stars-today">⭐ 509 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12918</span>
-						<span>🔱 2225</span>
-					</div>
-				<div class="stars-today">⭐ 362 stars this week</div>
 				</div>
 			</div>
 	
