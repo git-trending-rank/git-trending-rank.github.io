@@ -6,7 +6,465 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 20 Oct 2025 23:58:51 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 21 Oct 2025 02:58:44 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-10-21</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-10-21/</link>
+        <pubDate>Tue, 21 Oct 2025 02:58:44 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-10-21/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-cookbooks&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 23645&lt;/span&gt;
+						&lt;span&gt;🔱 2416&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1305 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/SagerNet/sing-box&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        SagerNet /
+
+      sing-box&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The universal proxy platform
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 27380&lt;/span&gt;
+						&lt;span&gt;🔱 3193&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/DrewThomasson/ebook2audiobook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        DrewThomasson /
+
+      ebook2audiobook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Generate audiobooks from e-books, voice cloning &amp; 1107+ languages!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 12542&lt;/span&gt;
+						&lt;span&gt;🔱 954&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 324 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 92285&lt;/span&gt;
+						&lt;span&gt;🔱 25011&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 233 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/lerobot&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        huggingface /
+
+      lerobot&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 18321&lt;/span&gt;
+						&lt;span&gt;🔱 2801&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 89 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/wavetermdev/waveterm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        wavetermdev /
+
+      waveterm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open-source, cross-platform terminal for seamless workflows
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 12223&lt;/span&gt;
+						&lt;span&gt;🔱 490&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 201 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/karpathy/micrograd&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        karpathy /
+
+      micrograd&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 13189&lt;/span&gt;
+						&lt;span&gt;🔱 1954&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 114 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/huggingface/chat-ui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        huggingface /
+
+      chat-ui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open source codebase powering the HuggingChat app
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9625&lt;/span&gt;
+						&lt;span&gt;🔱 1465&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 223 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TheAlgorithms/Python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        TheAlgorithms /
+
+      Python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      All Algorithms implemented in Python
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 211648&lt;/span&gt;
+						&lt;span&gt;🔱 48846&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 234 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lfnovo/open-notebook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lfnovo /
+
+      open-notebook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An Open Source implementation of Notebook LM with more flexibility and features
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 6244&lt;/span&gt;
+						&lt;span&gt;🔱 625&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 527 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Anuken/Mindustry&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Anuken /
+
+      Mindustry&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The automation tower defense RTS
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 25159&lt;/span&gt;
+						&lt;span&gt;🔱 3239&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Skyvern-AI/skyvern&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Skyvern-AI /
+
+      skyvern&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Automate browser-based workflows with LLMs and Computer Vision
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 14988&lt;/span&gt;
+						&lt;span&gt;🔱 1272&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 218 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/PaddlePaddle/PaddleOCR&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 59608&lt;/span&gt;
+						&lt;span&gt;🔱 9019&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 713 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/clockworklabs/SpacetimeDB&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Multiplayer at the speed of light
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 17954&lt;/span&gt;
+						&lt;span&gt;🔱 626&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 159 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/basecamp/omarchy&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        basecamp /
+
+      omarchy&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Opinionated Arch/Hyprland Setup
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 15065&lt;/span&gt;
+						&lt;span&gt;🔱 1375&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 191 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/BurntSushi/ripgrep&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        BurntSushi /
+
+      ripgrep&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 56497&lt;/span&gt;
+						&lt;span&gt;🔱 2270&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 65 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mountain-loop/yaak&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mountain-loop /
+
+      yaak&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9012&lt;/span&gt;
+						&lt;span&gt;🔱 319&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 431 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tokio-rs/tokio&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tokio-rs /
+
+      tokio&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 29929&lt;/span&gt;
+						&lt;span&gt;🔱 2802&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/EbookFoundation/free-programming-books&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📚 Freely available programming books
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 373962&lt;/span&gt;
+						&lt;span&gt;🔱 64968&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 507 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Atlas-OS/Atlas&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Atlas-OS /
+
+      Atlas&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 PowerShell&lt;/span&gt;
+						&lt;span&gt;⭐ 17436&lt;/span&gt;
+						&lt;span&gt;🔱 623&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-10-20</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-10-20/</link>
         <pubDate>Mon, 20 Oct 2025 23:58:51 +0000</pubDate>
