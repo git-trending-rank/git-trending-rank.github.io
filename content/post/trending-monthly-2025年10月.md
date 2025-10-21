@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-21T09:58:57Z
+date: 2025-10-21T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46864</span>
-						<span>🔱 6557</span>
+						<span>⭐ 46866</span>
+						<span>🔱 6556</span>
 					</div>
 				<div class="stars-today">⭐ 7056 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3669</span>
-						<span>🔱 271</span>
+						<span>⭐ 3671</span>
+						<span>🔱 273</span>
 					</div>
 				<div class="stars-today">⭐ 2023 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24758</span>
+						<span>⭐ 24764</span>
 						<span>🔱 2261</span>
 					</div>
 				<div class="stars-today">⭐ 6334 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6305</span>
+						<span>⭐ 6306</span>
 						<span>🔱 484</span>
 					</div>
 				<div class="stars-today">⭐ 3789 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12728</span>
+						<span>⭐ 12760</span>
 						<span>🔱 318</span>
 					</div>
 				<div class="stars-today">⭐ 8062 stars this month</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8055</span>
-						<span>🔱 1950</span>
+						<span>⭐ 8067</span>
+						<span>🔱 1951</span>
 					</div>
 				<div class="stars-today">⭐ 2293 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 24168</span>
+						<span>🔱 2442</span>
+					</div>
+				<div class="stars-today">⭐ 2941 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 15656</span>
-						<span>🔱 2452</span>
+						<span>⭐ 15657</span>
+						<span>🔱 2451</span>
 					</div>
 				<div class="stars-today">⭐ 1474 stars this month</div>
 				</div>
@@ -192,28 +214,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24105</span>
-						<span>🔱 2436</span>
-					</div>
-				<div class="stars-today">⭐ 2941 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
     
 
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 374087</span>
-						<span>🔱 64989</span>
+						<span>⭐ 374120</span>
+						<span>🔱 64993</span>
 					</div>
 				<div class="stars-today">⭐ 5351 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WECENG/ticket-purchase" target="_blank">
-    
-
-
-      
-        WECENG /
-
-      ticket-purchase</a></p>
-				<p>
-      大麦自动抢票，支持人员、城市、日期场次、价格选择
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5276</span>
-						<span>🔱 651</span>
-					</div>
-				<div class="stars-today">⭐ 2874 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24774</span>
-						<span>🔱 1253</span>
+						<span>⭐ 24790</span>
+						<span>🔱 1263</span>
 					</div>
 				<div class="stars-today">⭐ 4948 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Gar-b-age/CookLikeHOC" target="_blank">
-    
-
-
-      
-        Gar-b-age /
-
-      CookLikeHOC</a></p>
-				<p>
-      🥢像老乡鸡🐔那样做饭。主要部分于2024年完工，非老乡鸡官方仓库。文字来自《老乡鸡菜品溯源报告》，并做归纳、编辑与整理。CookLikeHOC.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21523</span>
-						<span>🔱 2137</span>
-					</div>
-				<div class="stars-today">⭐ 13243 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
-    
-
-
-      
-        bitcoin /
-
-      bitcoin</a></p>
-				<p>
-      Bitcoin Core integration/staging tree
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 86329</span>
-						<span>🔱 38056</span>
-					</div>
-				<div class="stars-today">⭐ 843 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12653</span>
-						<span>🔱 1316</span>
-					</div>
-				<div class="stars-today">⭐ 1618 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 211727</span>
-						<span>🔱 48857</span>
+						<span>⭐ 211740</span>
+						<span>🔱 48858</span>
 					</div>
 				<div class="stars-today">⭐ 4012 stars this month</div>
 				</div>
@@ -382,76 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39765</span>
-						<span>🔱 2538</span>
+						<span>⭐ 39775</span>
+						<span>🔱 2541</span>
 					</div>
 				<div class="stars-today">⭐ 6082 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
     
 
 
       
-        kamranahmedse /
+        karpathy /
 
-      developer-roadmap</a></p>
+      nanoGPT</a></p>
 				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 341529</span>
-						<span>🔱 43183</span>
-					</div>
-				<div class="stars-today">⭐ 5046 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gin-gonic/gin" target="_blank">
-    
-
-
-      
-        gin-gonic /
-
-      gin</a></p>
-				<p>
-      Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 86619</span>
-						<span>🔱 8463</span>
-					</div>
-				<div class="stars-today">⭐ 2696 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/rf-detr" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      rf-detr</a></p>
-				<p>
-      RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3750</span>
-						<span>🔱 428</span>
+						<span>⭐ 47208</span>
+						<span>🔱 7933</span>
 					</div>
-				<div class="stars-today">⭐ 716 stars this month</div>
+				<div class="stars-today">⭐ 2436 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 86328</span>
+						<span>🔱 38056</span>
+					</div>
+				<div class="stars-today">⭐ 843 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,10 +360,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13837</span>
+						<span>⭐ 13844</span>
 						<span>🔱 488</span>
 					</div>
 				<div class="stars-today">⭐ 2402 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7441</span>
+						<span>🔱 821</span>
+					</div>
+				<div class="stars-today">⭐ 1185 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
+    
+
+
+      
+        kamranahmedse /
+
+      developer-roadmap</a></p>
+				<p>
+      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 341539</span>
+						<span>🔱 43185</span>
+					</div>
+				<div class="stars-today">⭐ 5046 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
+    
+
+
+      
+        nextcloud /
+
+      server</a></p>
+				<p>
+      ☁️ Nextcloud server, a safe home for all your data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 32983</span>
+						<span>🔱 4601</span>
+					</div>
+				<div class="stars-today">⭐ 2238 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets, certificates, and privileged access management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22916</span>
+						<span>🔱 1535</span>
+					</div>
+				<div class="stars-today">⭐ 2897 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      RAG-Anything</a></p>
+				<p>
+      "RAG-Anything: All-in-One RAG Framework"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9085</span>
+						<span>🔱 1037</span>
+					</div>
+				<div class="stars-today">⭐ 3897 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jdx/mise" target="_blank">
+    
+
+
+      
+        jdx /
+
+      mise</a></p>
+				<p>
+      dev tools, env vars, task runner
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20641</span>
+						<span>🔱 686</span>
+					</div>
+				<div class="stars-today">⭐ 1293 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TanStack/router" target="_blank">
+    
+
+
+      
+        TanStack /
+
+      router</a></p>
+				<p>
+      🤖 Fully typesafe Router for React (and friends) w/ built-in caching, 1st class search-param APIs, client-side cache integration and isomorphic rendering.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11815</span>
+						<span>🔱 1299</span>
+					</div>
+				<div class="stars-today">⭐ 714 stars this month</div>
 				</div>
 			</div>
 	

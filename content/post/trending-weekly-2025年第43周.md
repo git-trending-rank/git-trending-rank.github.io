@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第43周
-date: 2025-10-21T09:58:56Z
+date: 2025-10-21T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24758</span>
-						<span>🔱 2261</span>
-					</div>
-				<div class="stars-today">⭐ 4649 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30904</span>
-						<span>🔱 3559</span>
+						<span>⭐ 30922</span>
+						<span>🔱 3560</span>
 					</div>
 				<div class="stars-today">⭐ 3426 stars this week</div>
 				</div>
@@ -74,32 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47188</span>
-						<span>🔱 7931</span>
+						<span>⭐ 47208</span>
+						<span>🔱 7933</span>
 					</div>
 				<div class="stars-today">⭐ 1983 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
     
 
 
       
-        volcengine /
+        anthropics /
 
-      MineContext</a></p>
+      prompt-eng-interactive-tutorial</a></p>
 				<p>
-      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+      Anthropic's Interactive Prompt Engineering Tutorial
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2380</span>
-						<span>🔱 127</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 24764</span>
+						<span>🔱 2261</span>
 					</div>
-				<div class="stars-today">⭐ 905 stars this week</div>
+				<div class="stars-today">⭐ 4649 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 24168</span>
+						<span>🔱 2442</span>
+					</div>
+				<div class="stars-today">⭐ 2125 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6455</span>
+						<span>🔱 639</span>
+					</div>
+				<div class="stars-today">⭐ 1238 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
+    
+
+
+      
+        mountain-loop /
+
+      yaak</a></p>
+				<p>
+      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9356</span>
+						<span>🔱 330</span>
+					</div>
+				<div class="stars-today">⭐ 773 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 9045</span>
-						<span>🔱 756</span>
+						<span>⭐ 9054</span>
+						<span>🔱 758</span>
 					</div>
 				<div class="stars-today">⭐ 1245 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
+				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
     
 
 
       
-        nitrojs /
+        volcengine /
 
-      nitro</a></p>
+      MineContext</a></p>
 				<p>
-      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9226</span>
-						<span>🔱 727</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2388</span>
+						<span>🔱 128</span>
 					</div>
-				<div class="stars-today">⭐ 1244 stars this week</div>
+				<div class="stars-today">⭐ 905 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      micrograd</a></p>
+				<p>
+      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13244</span>
+						<span>🔱 1957</span>
+					</div>
+				<div class="stars-today">⭐ 256 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 124965</span>
-						<span>🔱 7432</span>
+						<span>⭐ 124966</span>
+						<span>🔱 7433</span>
 					</div>
 				<div class="stars-today">⭐ 714 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39765</span>
-						<span>🔱 2538</span>
-					</div>
-				<div class="stars-today">⭐ 1220 stars this week</div>
 				</div>
 			</div>
 	
@@ -214,24 +258,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/microsoft/terminal" target="_blank">
     
 
 
       
-        lfnovo /
+        microsoft /
 
-      open-notebook</a></p>
+      terminal</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      The new Windows Terminal and the original Windows console host, all in the same place!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 100668</span>
+						<span>🔱 8869</span>
+					</div>
+				<div class="stars-today">⭐ 196 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
+    
+
+
+      
+        nitrojs /
+
+      nitro</a></p>
+				<p>
+      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6407</span>
-						<span>🔱 636</span>
+						<span>⭐ 9229</span>
+						<span>🔱 727</span>
 					</div>
-				<div class="stars-today">⭐ 1238 stars this week</div>
+				<div class="stars-today">⭐ 1244 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/envoyproxy/envoy" target="_blank">
+    
+
+
+      
+        envoyproxy /
+
+      envoy</a></p>
+				<p>
+      Cloud-native high-performance edge/middle/service proxy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 26876</span>
+						<span>🔱 5115</span>
+					</div>
+				<div class="stars-today">⭐ 194 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,120 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 64851</span>
-						<span>🔱 6743</span>
+						<span>⭐ 64858</span>
+						<span>🔱 6746</span>
 					</div>
 				<div class="stars-today">⭐ 1680 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24105</span>
-						<span>🔱 2436</span>
-					</div>
-				<div class="stars-today">⭐ 2125 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/terminal" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      terminal</a></p>
-				<p>
-      The new Windows Terminal and the original Windows console host, all in the same place!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 100666</span>
-						<span>🔱 8868</span>
-					</div>
-				<div class="stars-today">⭐ 196 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sapientinc/HRM" target="_blank">
-    
-
-
-      
-        sapientinc /
-
-      HRM</a></p>
-				<p>
-      Hierarchical Reasoning Model Official Release
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11465</span>
-						<span>🔱 1664</span>
-					</div>
-				<div class="stars-today">⭐ 473 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
-    
-
-
-      
-        evershopcommerce /
-
-      evershop</a></p>
-				<p>
-      🛍️ Typescript E-commerce Platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8055</span>
-						<span>🔱 1950</span>
-					</div>
-				<div class="stars-today">⭐ 634 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opendatalab/MinerU" target="_blank">
-    
-
-
-      
-        opendatalab /
-
-      MinerU</a></p>
-				<p>
-      Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47115</span>
-						<span>🔱 3882</span>
-					</div>
-				<div class="stars-today">⭐ 886 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15224</span>
+						<span>⭐ 15230</span>
 						<span>🔱 1172</span>
 					</div>
 				<div class="stars-today">⭐ 1010 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/servo/servo" target="_blank">
+    
+
+
+      
+        servo /
+
+      servo</a></p>
+				<p>
+      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 32304</span>
+						<span>🔱 3284</span>
+					</div>
+				<div class="stars-today">⭐ 387 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sapientinc/HRM" target="_blank">
+    
+
+
+      
+        sapientinc /
+
+      HRM</a></p>
+				<p>
+      Hierarchical Reasoning Model Official Release
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11471</span>
+						<span>🔱 1666</span>
+					</div>
+				<div class="stars-today">⭐ 473 stars this week</div>
 				</div>
 			</div>
 	
