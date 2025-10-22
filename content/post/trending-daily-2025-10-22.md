@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-22
-date: 2025-10-22T09:58:45Z
+date: 2025-10-22T11:58:42Z
 categories:
 - daily
 keywords:
@@ -30,186 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11019</span>
-						<span>🔱 382</span>
+						<span>⭐ 11155</span>
+						<span>🔱 389</span>
 					</div>
-				<div class="stars-today">⭐ 640 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
-    
-
-
-      
-        louislam /
-
-      uptime-kuma</a></p>
-				<p>
-      A fancy self-hosted monitoring tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 76679</span>
-						<span>🔱 6785</span>
-					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6990</span>
-						<span>🔱 700</span>
-					</div>
-				<div class="stars-today">⭐ 480 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13091</span>
-						<span>🔱 985</span>
-					</div>
-				<div class="stars-today">⭐ 474 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24488</span>
-						<span>🔱 2469</span>
-					</div>
-				<div class="stars-today">⭐ 1413 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sharkdp/bat" target="_blank">
-    
-
-
-      
-        sharkdp /
-
-      bat</a></p>
-				<p>
-      A cat(1) clone with wings.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 55404</span>
-						<span>🔱 1383</span>
-					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Skyvern-AI/skyvern" target="_blank">
-    
-
-
-      
-        Skyvern-AI /
-
-      skyvern</a></p>
-				<p>
-      Automate browser-based workflows with LLMs and Computer Vision
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15212</span>
-						<span>🔱 1289</span>
-					</div>
-				<div class="stars-today">⭐ 189 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oceanbase/miniob" target="_blank">
-    
-
-
-      
-        oceanbase /
-
-      miniob</a></p>
-				<p>
-      MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4206</span>
-						<span>🔱 1487</span>
-					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/k2-fsa/sherpa-onnx" target="_blank">
-    
-
-
-      
-        k2-fsa /
-
-      sherpa-onnx</a></p>
-				<p>
-      Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8041</span>
-						<span>🔱 918</span>
-					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
+				<div class="stars-today">⭐ 1821 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32643</span>
-						<span>🔱 3292</span>
+						<span>⭐ 32669</span>
+						<span>🔱 3293</span>
 					</div>
-				<div class="stars-today">⭐ 509 stars today</div>
+				<div class="stars-today">⭐ 374 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
+    
+
+
+      
+        emcie-co /
+
+      parlant</a></p>
+				<p>
+      LLM agents built for control. Designed for real-world use. Deployed in minutes.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14031</span>
+						<span>🔱 1138</span>
+					</div>
+				<div class="stars-today">⭐ 134 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/guofei9987/blind_watermark" target="_blank">
+    
+
+
+      
+        guofei9987 /
+
+      blind_watermark</a></p>
+				<p>
+      Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7575</span>
+						<span>🔱 859</span>
+					</div>
+				<div class="stars-today">⭐ 357 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7038</span>
+						<span>🔱 708</span>
+					</div>
+				<div class="stars-today">⭐ 588 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16609</span>
+						<span>⭐ 16627</span>
 						<span>🔱 1804</span>
 					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
+				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
+				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
     
 
 
       
-        Anuken /
+        fishaudio /
 
-      Mindustry</a></p>
+      fish-speech</a></p>
 				<p>
-      The automation tower defense RTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 25358</span>
-						<span>🔱 3248</span>
-					</div>
-				<div class="stars-today">⭐ 185 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
-    
-
-
-      
-        PaddlePaddle /
-
-      PaddleOCR</a></p>
-				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      SOTA Open Source TTS
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60315</span>
-						<span>🔱 9069</span>
+						<span>⭐ 23368</span>
+						<span>🔱 1933</span>
 					</div>
-				<div class="stars-today">⭐ 573 stars today</div>
+				<div class="stars-today">⭐ 85 stars today</div>
 				</div>
 			</div>
 	
@@ -316,76 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9865</span>
-						<span>🔱 1485</span>
+						<span>⭐ 9889</span>
+						<span>🔱 1486</span>
 					</div>
-				<div class="stars-today">⭐ 189 stars today</div>
+				<div class="stars-today">⭐ 194 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+				<p><a href="https://github.com/rossant/awesome-math" target="_blank">
     
 
 
       
-        EbookFoundation /
+        rossant /
 
-      free-programming-books</a></p>
+      awesome-math</a></p>
 				<p>
-      📚 Freely available programming books
+      A curated list of awesome mathematics resources
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 374480</span>
-						<span>🔱 65035</span>
+						<span>⭐ 10256</span>
+						<span>🔱 1055</span>
 					</div>
-				<div class="stars-today">⭐ 429 stars today</div>
+				<div class="stars-today">⭐ 38 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/is-a-dev/register" target="_blank">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
     
 
 
       
-        is-a-dev /
+        drawdb-io /
 
-      register</a></p>
+      drawdb</a></p>
 				<p>
-      Grab your own sweet-looking '.is-a.dev' subdomain.
+      Free, simple, and intuitive online database diagram editor and SQL generator.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8830</span>
-						<span>🔱 15692</span>
+						<span>⭐ 33404</span>
+						<span>🔱 2528</span>
 					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
+				<div class="stars-today">⭐ 107 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
     
 
 
       
-        jaywcjlove /
+        DrewThomasson /
 
-      awesome-mac</a></p>
+      ebook2audiobook</a></p>
 				<p>
-       Now we have become very big, Different from the original idea. Collect premium software in various categories.
+      Generate audiobooks from e-books, voice cloning & 1107+ languages!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 90811</span>
-						<span>🔱 6882</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13123</span>
+						<span>🔱 988</span>
 					</div>
-				<div class="stars-today">⭐ 372 stars today</div>
+				<div class="stars-today">⭐ 382 stars today</div>
 				</div>
 			</div>
 	
@@ -404,10 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18144</span>
+						<span>⭐ 18165</span>
 						<span>🔱 632</span>
 					</div>
-				<div class="stars-today">⭐ 168 stars today</div>
+				<div class="stars-today">⭐ 130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 24507</span>
+						<span>🔱 2470</span>
+					</div>
+				<div class="stars-today">⭐ 343 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zyronon/TypeWords" target="_blank">
+    
+
+
+      
+        zyronon /
+
+      TypeWords</a></p>
+				<p>
+      练习英语，一次敲击，一点进步；Practice English, One Keystroke at a Time.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 4092</span>
+						<span>🔱 499</span>
+					</div>
+				<div class="stars-today">⭐ 77 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tauri-apps/tauri" target="_blank">
+    
+
+
+      
+        tauri-apps /
+
+      tauri</a></p>
+				<p>
+      Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 97715</span>
+						<span>🔱 3113</span>
+					</div>
+				<div class="stars-today">⭐ 54 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remix-run/react-router" target="_blank">
+    
+
+
+      
+        remix-run /
+
+      react-router</a></p>
+				<p>
+      Declarative routing for React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 55679</span>
+						<span>🔱 10742</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
 				</div>
 			</div>
 	
@@ -426,10 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4139</span>
-						<span>🔱 450</span>
+						<span>⭐ 4169</span>
+						<span>🔱 452</span>
 					</div>
-				<div class="stars-today">⭐ 250 stars today</div>
+				<div class="stars-today">⭐ 416 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-22T09:58:46Z
+date: 2025-10-22T11:58:42Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46932</span>
-						<span>🔱 6559</span>
+						<span>⭐ 46946</span>
+						<span>🔱 6562</span>
 					</div>
 				<div class="stars-today">⭐ 7111 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
-    
-
-
-      
-        tile-ai /
-
-      tilelang</a></p>
-				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3689</span>
-						<span>🔱 275</span>
-					</div>
-				<div class="stars-today">⭐ 2045 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24845</span>
+						<span>⭐ 24851</span>
 						<span>🔱 2264</span>
 					</div>
 				<div class="stars-today">⭐ 6430 stars this month</div>
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6351</span>
+						<span>⭐ 6352</span>
 						<span>🔱 488</span>
 					</div>
 				<div class="stars-today">⭐ 3817 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 24507</span>
+						<span>🔱 2470</span>
+					</div>
+				<div class="stars-today">⭐ 4172 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12969</span>
+						<span>⭐ 12984</span>
 						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 8286 stars this month</div>
@@ -140,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8125</span>
-						<span>🔱 1960</span>
+						<span>⭐ 8135</span>
+						<span>🔱 1964</span>
 					</div>
 				<div class="stars-today">⭐ 2405 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
     
 
 
       
-        anthropics /
+        QwenLM /
 
-      claude-cookbooks</a></p>
+      Qwen3-VL</a></p>
 				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24488</span>
-						<span>🔱 2469</span>
+						<span>⭐ 15290</span>
+						<span>🔱 1184</span>
 					</div>
-				<div class="stars-today">⭐ 4172 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/audacity/audacity" target="_blank">
-    
-
-
-      
-        audacity /
-
-      audacity</a></p>
-				<p>
-      Audio Editor 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15678</span>
-						<span>🔱 2451</span>
-					</div>
-				<div class="stars-today">⭐ 1506 stars this month</div>
+				<div class="stars-today">⭐ 2760 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2283</span>
+						<span>⭐ 2286</span>
 						<span>🔱 342</span>
 					</div>
 				<div class="stars-today">⭐ 1243 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      nanoGPT</a></p>
+				<p>
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47429</span>
+						<span>🔱 7954</span>
+					</div>
+				<div class="stars-today">⭐ 2677 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12732</span>
+						<span>🔱 1322</span>
+					</div>
+				<div class="stars-today">⭐ 1838 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 374480</span>
-						<span>🔱 65035</span>
+						<span>⭐ 374502</span>
+						<span>🔱 65039</span>
 					</div>
 				<div class="stars-today">⭐ 5534 stars this month</div>
 				</div>
@@ -250,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24838</span>
+						<span>⭐ 24851</span>
 						<span>🔱 1270</span>
 					</div>
 				<div class="stars-today">⭐ 4942 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 211802</span>
-						<span>🔱 48876</span>
-					</div>
-				<div class="stars-today">⭐ 4165 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39911</span>
+						<span>⭐ 39929</span>
 						<span>🔱 2562</span>
 					</div>
 				<div class="stars-today">⭐ 6149 stars this month</div>
@@ -302,46 +302,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
     
 
 
       
-        karpathy /
+        nextcloud /
 
-      nanoGPT</a></p>
+      server</a></p>
 				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+      ☁️ Nextcloud server, a safe home for all your data
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47411</span>
-						<span>🔱 7952</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 33023</span>
+						<span>🔱 4602</span>
 					</div>
-				<div class="stars-today">⭐ 2677 stars this month</div>
+				<div class="stars-today">⭐ 2243 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
     
 
 
       
-        bitcoin /
+        TheAlgorithms /
 
-      bitcoin</a></p>
+      Python</a></p>
 				<p>
-      Bitcoin Core integration/staging tree
+      All Algorithms implemented in Python
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 86338</span>
-						<span>🔱 38061</span>
+						<span>🔠 Python</span>
+						<span>⭐ 211809</span>
+						<span>🔱 48879</span>
 					</div>
-				<div class="stars-today">⭐ 856 stars this month</div>
+				<div class="stars-today">⭐ 4165 stars this month</div>
 				</div>
 			</div>
 	
@@ -368,6 +368,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 86341</span>
+						<span>🔱 38061</span>
+					</div>
+				<div class="stars-today">⭐ 856 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
@@ -382,54 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7487</span>
+						<span>⭐ 7490</span>
 						<span>🔱 822</span>
 					</div>
 				<div class="stars-today">⭐ 1202 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
-    
-
-
-      
-        kamranahmedse /
-
-      developer-roadmap</a></p>
-				<p>
-      Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 341682</span>
-						<span>🔱 43194</span>
-					</div>
-				<div class="stars-today">⭐ 5047 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/server" target="_blank">
-    
-
-
-      
-        nextcloud /
-
-      server</a></p>
-				<p>
-      ☁️ Nextcloud server, a safe home for all your data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 33017</span>
-						<span>🔱 4602</span>
-					</div>
-				<div class="stars-today">⭐ 2243 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,54 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22972</span>
+						<span>⭐ 22977</span>
 						<span>🔱 1538</span>
 					</div>
 				<div class="stars-today">⭐ 2929 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      RAG-Anything</a></p>
-				<p>
-      "RAG-Anything: All-in-One RAG Framework"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9210</span>
-						<span>🔱 1044</span>
-					</div>
-				<div class="stars-today">⭐ 4017 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jdx/mise" target="_blank">
-    
-
-
-      
-        jdx /
-
-      mise</a></p>
-				<p>
-      dev tools, env vars, task runner
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20688</span>
-						<span>🔱 690</span>
-					</div>
-				<div class="stars-today">⭐ 1291 stars this month</div>
 				</div>
 			</div>
 	
@@ -514,10 +448,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11842</span>
+						<span>⭐ 11844</span>
 						<span>🔱 1302</span>
 					</div>
 				<div class="stars-today">⭐ 721 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+    
+
+
+      
+        dair-ai /
+
+      Prompt-Engineering-Guide</a></p>
+				<p>
+      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 65005</span>
+						<span>🔱 6766</span>
+					</div>
+				<div class="stars-today">⭐ 2928 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7038</span>
+						<span>🔱 708</span>
+					</div>
+				<div class="stars-today">⭐ 2260 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jdx/mise" target="_blank">
+    
+
+
+      
+        jdx /
+
+      mise</a></p>
+				<p>
+      dev tools, env vars, task runner
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20693</span>
+						<span>🔱 690</span>
+					</div>
+				<div class="stars-today">⭐ 1291 stars this month</div>
 				</div>
 			</div>
 	
