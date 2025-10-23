@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第43周
-date: 2025-10-23T09:58:48Z
+date: 2025-10-23T11:58:43Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31285</span>
-						<span>🔱 3596</span>
-					</div>
-				<div class="stars-today">⭐ 3662 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12804</span>
-						<span>🔱 452</span>
+						<span>⭐ 12945</span>
+						<span>🔱 455</span>
 					</div>
 				<div class="stars-today">⭐ 3327 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31303</span>
+						<span>🔱 3597</span>
+					</div>
+				<div class="stars-today">⭐ 3662 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7499</span>
-						<span>🔱 751</span>
+						<span>⭐ 7531</span>
+						<span>🔱 753</span>
 					</div>
 				<div class="stars-today">⭐ 2259 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanoGPT</a></p>
-				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47595</span>
-						<span>🔱 7985</span>
-					</div>
-				<div class="stars-today">⭐ 1824 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13395</span>
-						<span>🔱 1005</span>
-					</div>
-				<div class="stars-today">⭐ 1538 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24824</span>
-						<span>🔱 2489</span>
+						<span>⭐ 24888</span>
+						<span>🔱 2497</span>
 					</div>
 				<div class="stars-today">⭐ 3604 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      nanoGPT</a></p>
+				<p>
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47605</span>
+						<span>🔱 7987</span>
+					</div>
+				<div class="stars-today">⭐ 1824 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,208 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32927</span>
-						<span>🔱 3306</span>
+						<span>⭐ 32952</span>
+						<span>🔱 3307</span>
 					</div>
 				<div class="stars-today">⭐ 977 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 125050</span>
-						<span>🔱 7436</span>
-					</div>
-				<div class="stars-today">⭐ 768 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24926</span>
-						<span>🔱 2267</span>
-					</div>
-				<div class="stars-today">⭐ 1167 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
-    
-
-
-      
-        dair-ai /
-
-      Prompt-Engineering-Guide</a></p>
-				<p>
-      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 65145</span>
-						<span>🔱 6776</span>
-					</div>
-				<div class="stars-today">⭐ 1200 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nanobrowser/nanobrowser" target="_blank">
-    
-
-
-      
-        nanobrowser /
-
-      nanobrowser</a></p>
-				<p>
-      Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10629</span>
-						<span>🔱 1066</span>
-					</div>
-				<div class="stars-today">⭐ 538 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/terminal" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      terminal</a></p>
-				<p>
-      The new Windows Terminal and the original Windows console host, all in the same place!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 100702</span>
-						<span>🔱 8870</span>
-					</div>
-				<div class="stars-today">⭐ 225 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
-    
-
-
-      
-        Anuken /
-
-      Mindustry</a></p>
-				<p>
-      The automation tower defense RTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 25411</span>
-						<span>🔱 3255</span>
-					</div>
-				<div class="stars-today">⭐ 376 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15357</span>
-						<span>🔱 1197</span>
-					</div>
-				<div class="stars-today">⭐ 830 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      MineContext</a></p>
-				<p>
-      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2600</span>
-						<span>🔱 146</span>
-					</div>
-				<div class="stars-today">⭐ 678 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      micrograd</a></p>
-				<p>
-      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13329</span>
-						<span>🔱 1965</span>
-					</div>
-				<div class="stars-today">⭐ 384 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,10 +162,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 55976</span>
-						<span>🔱 6271</span>
+						<span>⭐ 55990</span>
+						<span>🔱 6274</span>
 					</div>
 				<div class="stars-today">⭐ 185 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      micrograd</a></p>
+				<p>
+      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13335</span>
+						<span>🔱 1965</span>
+					</div>
+				<div class="stars-today">⭐ 384 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 60669</span>
+						<span>🔱 9091</span>
+					</div>
+				<div class="stars-today">⭐ 3292 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 125055</span>
+						<span>🔱 7436</span>
+					</div>
+				<div class="stars-today">⭐ 768 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Multiplayer at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18292</span>
+						<span>🔱 636</span>
+					</div>
+				<div class="stars-today">⭐ 529 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BurntSushi/ripgrep" target="_blank">
+    
+
+
+      
+        BurntSushi /
+
+      ripgrep</a></p>
+				<p>
+      ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 56668</span>
+						<span>🔱 2279</span>
+					</div>
+				<div class="stars-today">⭐ 557 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/amnezia-vpn/amnezia-client" target="_blank">
+    
+
+
+      
+        amnezia-vpn /
+
+      amnezia-client</a></p>
+				<p>
+      Amnezia VPN Client (Desktop+Mobile)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8591</span>
+						<span>🔱 591</span>
+					</div>
+				<div class="stars-today">⭐ 217 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
+    
+
+
+      
+        fishaudio /
+
+      fish-speech</a></p>
+				<p>
+      SOTA Open Source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23657</span>
+						<span>🔱 1940</span>
+					</div>
+				<div class="stars-today">⭐ 303 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
+    
+
+
+      
+        louislam /
+
+      uptime-kuma</a></p>
+				<p>
+      A fancy self-hosted monitoring tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 76812</span>
+						<span>🔱 6798</span>
+					</div>
+				<div class="stars-today">⭐ 780 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
+    
+
+
+      
+        Anuken /
+
+      Mindustry</a></p>
+				<p>
+      The automation tower defense RTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 25419</span>
+						<span>🔱 3255</span>
+					</div>
+				<div class="stars-today">⭐ 376 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 374658</span>
+						<span>🔱 65064</span>
+					</div>
+				<div class="stars-today">⭐ 2163 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+    
+
+
+      
+        dair-ai /
+
+      Prompt-Engineering-Guide</a></p>
+				<p>
+      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 65157</span>
+						<span>🔱 6776</span>
+					</div>
+				<div class="stars-today">⭐ 1200 stars this week</div>
 				</div>
 			</div>
 	

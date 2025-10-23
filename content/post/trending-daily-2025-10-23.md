@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-23
-date: 2025-10-23T09:58:48Z
+date: 2025-10-23T11:58:42Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
+				<p><a href="https://github.com/minio/minio" target="_blank">
     
 
 
       
-        mountain-loop /
+        minio /
 
-      yaak</a></p>
+      minio</a></p>
 				<p>
-      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12804</span>
-						<span>🔱 452</span>
+						<span>🔠 Go</span>
+						<span>⭐ 55990</span>
+						<span>🔱 6274</span>
 					</div>
-				<div class="stars-today">⭐ 1826 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
-    
-
-
-      
-        servo /
-
-      servo</a></p>
-				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 32927</span>
-						<span>🔱 3306</span>
-					</div>
-				<div class="stars-today">⭐ 375 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
-    
-
-
-      
-        emcie-co /
-
-      parlant</a></p>
-				<p>
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14383</span>
-						<span>🔱 1161</span>
-					</div>
-				<div class="stars-today">⭐ 151 stars today</div>
+				<div class="stars-today">⭐ 143 stars today</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8409</span>
-						<span>🔱 919</span>
+						<span>⭐ 8491</span>
+						<span>🔱 927</span>
 					</div>
-				<div class="stars-today">⭐ 342 stars today</div>
+				<div class="stars-today">⭐ 913 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
     
 
 
       
-        lfnovo /
+        mountain-loop /
 
-      open-notebook</a></p>
+      yaak</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7499</span>
-						<span>🔱 751</span>
+						<span>⭐ 12945</span>
+						<span>🔱 455</span>
 					</div>
-				<div class="stars-today">⭐ 587 stars today</div>
+				<div class="stars-today">⭐ 1828 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 50252</span>
+						<span>🔱 2195</span>
+					</div>
+				<div class="stars-today">⭐ 333 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
+    
+
+
+      
+        paperless-ngx /
+
+      paperless-ngx</a></p>
+				<p>
+      A community-supported supercharged document management system: scan, index and archive all your documents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33045</span>
+						<span>🔱 2061</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	
@@ -140,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16810</span>
-						<span>🔱 1817</span>
+						<span>⭐ 16834</span>
+						<span>🔱 1820</span>
 					</div>
-				<div class="stars-today">⭐ 222 stars today</div>
+				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
+				<p><a href="https://github.com/k2-fsa/sherpa-onnx" target="_blank">
     
 
 
       
-        fishaudio /
+        k2-fsa /
 
-      fish-speech</a></p>
+      sherpa-onnx</a></p>
 				<p>
-      SOTA Open Source TTS
+      Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23629</span>
-						<span>🔱 1940</span>
+						<span>🔠 C++</span>
+						<span>⭐ 8077</span>
+						<span>🔱 920</span>
 					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/chat-ui" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      chat-ui</a></p>
-				<p>
-      Open source codebase powering the HuggingChat app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10038</span>
-						<span>🔱 1494</span>
-					</div>
-				<div class="stars-today">⭐ 201 stars today</div>
+				<div class="stars-today">⭐ 182 stars today</div>
 				</div>
 			</div>
 	
@@ -206,164 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10798</span>
-						<span>🔱 1096</span>
+						<span>⭐ 10844</span>
+						<span>🔱 1098</span>
 					</div>
-				<div class="stars-today">⭐ 64 stars today</div>
+				<div class="stars-today">⭐ 588 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
     
 
 
       
-        drawdb-io /
+        louislam /
 
-      drawdb</a></p>
+      uptime-kuma</a></p>
 				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
+      A fancy self-hosted monitoring tool
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 33828</span>
-						<span>🔱 2544</span>
+						<span>⭐ 76812</span>
+						<span>🔱 6798</span>
 					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13395</span>
-						<span>🔱 1005</span>
-					</div>
-				<div class="stars-today">⭐ 386 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Multiplayer at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18279</span>
-						<span>🔱 636</span>
-					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24824</span>
-						<span>🔱 2489</span>
-					</div>
-				<div class="stars-today">⭐ 343 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zyronon/TypeWords" target="_blank">
-    
-
-
-      
-        zyronon /
-
-      TypeWords</a></p>
-				<p>
-      练习英语，一次敲击，一点进步；Practice English, one strike, one step forward
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 4433</span>
-						<span>🔱 520</span>
-					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tauri-apps/tauri" target="_blank">
-    
-
-
-      
-        tauri-apps /
-
-      tauri</a></p>
-				<p>
-      Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 98030</span>
-						<span>🔱 3132</span>
-					</div>
-				<div class="stars-today">⭐ 64 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/remix-run/react-router" target="_blank">
-    
-
-
-      
-        remix-run /
-
-      react-router</a></p>
-				<p>
-      Declarative routing for React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 55763</span>
-						<span>🔱 10742</span>
-					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
+				<div class="stars-today">⭐ 376 stars today</div>
 				</div>
 			</div>
 	
@@ -382,10 +228,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4506</span>
+						<span>⭐ 4533</span>
 						<span>🔱 466</span>
 					</div>
-				<div class="stars-today">⭐ 417 stars today</div>
+				<div class="stars-today">⭐ 370 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
+    
+
+
+      
+        yt-dlp /
+
+      yt-dlp</a></p>
+				<p>
+      A feature-rich command-line audio/video downloader
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 131715</span>
+						<span>🔱 10582</span>
+					</div>
+				<div class="stars-today">⭐ 199 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/meta-pytorch/torchforge" target="_blank">
+    
+
+
+      
+        meta-pytorch /
+
+      torchforge</a></p>
+				<p>
+      PyTorch-native post-training at scale
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 205</span>
+						<span>🔱 26</span>
+					</div>
+				<div class="stars-today">⭐ 50 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lukasmasuch/best-of-ml-python" target="_blank">
+    
+
+
+      
+        lukasmasuch /
+
+      best-of-ml-python</a></p>
+				<p>
+      🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 22292</span>
+						<span>🔱 3004</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/guofei9987/scikit-opt" target="_blank">
+    
+
+
+      
+        guofei9987 /
+
+      scikit-opt</a></p>
+				<p>
+      Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling salesman) 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5955</span>
+						<span>🔱 1041</span>
+					</div>
+				<div class="stars-today">⭐ 57 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">
+    
+
+
+      
+        jaywcjlove /
+
+      awesome-mac</a></p>
+				<p>
+       Now we have become very big, Different from the original idea. Collect premium software in various categories.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 90930</span>
+						<span>🔱 6885</span>
+					</div>
+				<div class="stars-today">⭐ 404 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
+    
+
+
+      
+        hoppscotch /
+
+      hoppscotch</a></p>
+				<p>
+      Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 75171</span>
+						<span>🔱 5289</span>
+					</div>
+				<div class="stars-today">⭐ 35 stars today</div>
 				</div>
 			</div>
 	

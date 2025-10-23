@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-23T09:58:49Z
+date: 2025-10-23T11:58:43Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47018</span>
+						<span>⭐ 47022</span>
 						<span>🔱 6566</span>
 					</div>
 				<div class="stars-today">⭐ 7178 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24926</span>
+						<span>⭐ 24934</span>
 						<span>🔱 2267</span>
 					</div>
 				<div class="stars-today">⭐ 6503 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6385</span>
-						<span>🔱 491</span>
-					</div>
-				<div class="stars-today">⭐ 3852 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24824</span>
-						<span>🔱 2489</span>
+						<span>⭐ 24888</span>
+						<span>🔱 2497</span>
 					</div>
 				<div class="stars-today">⭐ 4490 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6387</span>
+						<span>🔱 491</span>
+					</div>
+				<div class="stars-today">⭐ 3852 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13153</span>
+						<span>⭐ 13173</span>
 						<span>🔱 327</span>
 					</div>
 				<div class="stars-today">⭐ 8448 stars this month</div>
@@ -140,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8179</span>
-						<span>🔱 1974</span>
+						<span>⭐ 8183</span>
+						<span>🔱 1973</span>
 					</div>
 				<div class="stars-today">⭐ 2470 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15357</span>
-						<span>🔱 1197</span>
-					</div>
-				<div class="stars-today">⭐ 2796 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
-    
-
-
-      
-        coinbase /
-
-      x402</a></p>
-				<p>
-      A payments protocol for the internet. Built on HTTP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2308</span>
-						<span>🔱 347</span>
-					</div>
-				<div class="stars-today">⭐ 1263 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47595</span>
-						<span>🔱 7985</span>
+						<span>⭐ 47605</span>
+						<span>🔱 7987</span>
 					</div>
 				<div class="stars-today">⭐ 2889 stars this month</div>
 				</div>
@@ -228,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12797</span>
+						<span>⭐ 12802</span>
 						<span>🔱 1335</span>
 					</div>
 				<div class="stars-today">⭐ 1841 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15366</span>
+						<span>🔱 1197</span>
+					</div>
+				<div class="stars-today">⭐ 2796 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
+    
+
+
+      
+        ZuodaoTech /
+
+      everyone-can-use-english</a></p>
+				<p>
+      人人都能用英语
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31601</span>
+						<span>🔱 4496</span>
+					</div>
+				<div class="stars-today">⭐ 3072 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 374651</span>
-						<span>🔱 65061</span>
+						<span>⭐ 374658</span>
+						<span>🔱 65064</span>
 					</div>
 				<div class="stars-today">⭐ 5532 stars this month</div>
 				</div>
@@ -272,142 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24882</span>
-						<span>🔱 1270</span>
+						<span>⭐ 24883</span>
+						<span>🔱 1272</span>
 					</div>
 				<div class="stars-today">⭐ 4871 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 40059</span>
-						<span>🔱 2572</span>
-					</div>
-				<div class="stars-today">⭐ 6236 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/server" target="_blank">
-    
-
-
-      
-        nextcloud /
-
-      server</a></p>
-				<p>
-      ☁️ Nextcloud server, a safe home for all your data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 33061</span>
-						<span>🔱 4606</span>
-					</div>
-				<div class="stars-today">⭐ 2276 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
-    
-
-
-      
-        TheAlgorithms /
-
-      Python</a></p>
-				<p>
-      All Algorithms implemented in Python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 211882</span>
-						<span>🔱 48900</span>
-					</div>
-				<div class="stars-today">⭐ 4160 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
-    
-
-
-      
-        YaLTeR /
-
-      niri</a></p>
-				<p>
-      A scrollable-tiling Wayland compositor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13968</span>
-						<span>🔱 492</span>
-					</div>
-				<div class="stars-today">⭐ 2480 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
-    
-
-
-      
-        bitcoin /
-
-      bitcoin</a></p>
-				<p>
-      Bitcoin Core integration/staging tree
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 86366</span>
-						<span>🔱 38073</span>
-					</div>
-				<div class="stars-today">⭐ 841 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7527</span>
-						<span>🔱 824</span>
-					</div>
-				<div class="stars-today">⭐ 1250 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23009</span>
+						<span>⭐ 23015</span>
 						<span>🔱 1542</span>
 					</div>
 				<div class="stars-today">⭐ 2989 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TanStack/router" target="_blank">
-    
-
-
-      
-        TanStack /
-
-      router</a></p>
-				<p>
-      🤖 A client-first, server-capable, fully type-safe router and full-stack framework for the web (React and more).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11872</span>
-						<span>🔱 1301</span>
-					</div>
-				<div class="stars-today">⭐ 738 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
-    
-
-
-      
-        dair-ai /
-
-      Prompt-Engineering-Guide</a></p>
-				<p>
-      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 65145</span>
-						<span>🔱 6776</span>
-					</div>
-				<div class="stars-today">⭐ 2991 stars this month</div>
 				</div>
 			</div>
 	
@@ -492,32 +316,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7499</span>
-						<span>🔱 751</span>
+						<span>⭐ 7531</span>
+						<span>🔱 753</span>
 					</div>
 				<div class="stars-today">⭐ 2661 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jdx/mise" target="_blank">
+				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
     
 
 
       
-        jdx /
+        nitrojs /
 
-      mise</a></p>
+      nitro</a></p>
 				<p>
-      dev tools, env vars, task runner
+      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9303</span>
+						<span>🔱 731</span>
+					</div>
+				<div class="stars-today">⭐ 1588 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2310</span>
+						<span>🔱 347</span>
+					</div>
+				<div class="stars-today">⭐ 1263 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+    
+
+
+      
+        dair-ai /
+
+      Prompt-Engineering-Guide</a></p>
+				<p>
+      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 65157</span>
+						<span>🔱 6776</span>
+					</div>
+				<div class="stars-today">⭐ 2991 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40065</span>
+						<span>🔱 2573</span>
+					</div>
+				<div class="stars-today">⭐ 6236 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+    
+
+
+      
+        YaLTeR /
+
+      niri</a></p>
+				<p>
+      A scrollable-tiling Wayland compositor.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20734</span>
-						<span>🔱 693</span>
+						<span>⭐ 13972</span>
+						<span>🔱 493</span>
 					</div>
-				<div class="stars-today">⭐ 1305 stars this month</div>
+				<div class="stars-today">⭐ 2480 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
+    
+
+
+      
+        nextcloud /
+
+      server</a></p>
+				<p>
+      ☁️ Nextcloud server, a safe home for all your data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 33067</span>
+						<span>🔱 4606</span>
+					</div>
+				<div class="stars-today">⭐ 2276 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
+    
+
+
+      
+        DrewThomasson /
+
+      ebook2audiobook</a></p>
+				<p>
+      Generate audiobooks from e-books, voice cloning & 1107+ languages!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13416</span>
+						<span>🔱 1007</span>
+					</div>
+				<div class="stars-today">⭐ 1869 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+    
+
+
+      
+        bitcoin /
+
+      bitcoin</a></p>
+				<p>
+      Bitcoin Core integration/staging tree
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 86368</span>
+						<span>🔱 38073</span>
+					</div>
+				<div class="stars-today">⭐ 841 stars this month</div>
 				</div>
 			</div>
 	
