@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第43周
-date: 2025-10-23T02:56:51Z
+date: 2025-10-23T03:58:52Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31209</span>
-						<span>🔱 3589</span>
+						<span>⭐ 31229</span>
+						<span>🔱 3590</span>
 					</div>
 				<div class="stars-today">⭐ 3662 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12219</span>
-						<span>🔱 434</span>
+						<span>⭐ 12292</span>
+						<span>🔱 436</span>
 					</div>
 				<div class="stars-today">⭐ 3327 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7350</span>
-						<span>🔱 737</span>
+						<span>⭐ 7369</span>
+						<span>🔱 740</span>
 					</div>
 				<div class="stars-today">⭐ 2259 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47536</span>
-						<span>🔱 7976</span>
+						<span>⭐ 47546</span>
+						<span>🔱 7977</span>
 					</div>
 				<div class="stars-today">⭐ 1824 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13314</span>
-						<span>🔱 1002</span>
+						<span>⭐ 13327</span>
+						<span>🔱 1003</span>
 					</div>
 				<div class="stars-today">⭐ 1538 stars this week</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24688</span>
+						<span>⭐ 24710</span>
 						<span>🔱 2481</span>
 					</div>
 				<div class="stars-today">⭐ 3604 stars this week</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32833</span>
+						<span>⭐ 32842</span>
 						<span>🔱 3302</span>
 					</div>
 				<div class="stars-today">⭐ 977 stars this week</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 125039</span>
+						<span>⭐ 125041</span>
 						<span>🔱 7435</span>
 					</div>
 				<div class="stars-today">⭐ 768 stars this week</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24901</span>
+						<span>⭐ 24905</span>
 						<span>🔱 2267</span>
 					</div>
 				<div class="stars-today">⭐ 1167 stars this week</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 65088</span>
+						<span>⭐ 65103</span>
 						<span>🔱 6775</span>
 					</div>
 				<div class="stars-today">⭐ 1200 stars this week</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10596</span>
+						<span>⭐ 10603</span>
 						<span>🔱 1066</span>
 					</div>
 				<div class="stars-today">⭐ 538 stars this week</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 25396</span>
+						<span>⭐ 25400</span>
 						<span>🔱 3249</span>
 					</div>
 				<div class="stars-today">⭐ 376 stars this week</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15324</span>
-						<span>🔱 1191</span>
+						<span>⭐ 15328</span>
+						<span>🔱 1194</span>
 					</div>
 				<div class="stars-today">⭐ 830 stars this week</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2566</span>
-						<span>🔱 142</span>
+						<span>⭐ 2577</span>
+						<span>🔱 144</span>
 					</div>
 				<div class="stars-today">⭐ 678 stars this week</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13318</span>
-						<span>🔱 1964</span>
+						<span>⭐ 13322</span>
+						<span>🔱 1965</span>
 					</div>
 				<div class="stars-today">⭐ 384 stars this week</div>
 				</div>
@@ -383,7 +383,7 @@ keywords:
 					<div>
 						<span>🔠 Go</span>
 						<span>⭐ 55954</span>
-						<span>🔱 6262</span>
+						<span>🔱 6263</span>
 					</div>
 				<div class="stars-today">⭐ 185 stars this week</div>
 				</div>
