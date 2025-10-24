@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-24T09:58:50Z
+date: 2025-10-24T11:58:43Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47089</span>
+						<span>⭐ 47092</span>
 						<span>🔱 6577</span>
 					</div>
 				<div class="stars-today">⭐ 7231 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 24984</span>
+						<span>⭐ 24989</span>
 						<span>🔱 2272</span>
 					</div>
 				<div class="stars-today">⭐ 6578 stars this month</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25144</span>
+						<span>⭐ 25161</span>
 						<span>🔱 2530</span>
 					</div>
 				<div class="stars-today">⭐ 4846 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6431</span>
-						<span>🔱 495</span>
-					</div>
-				<div class="stars-today">⭐ 3870 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13377</span>
+						<span>⭐ 13387</span>
 						<span>🔱 335</span>
 					</div>
 				<div class="stars-today">⭐ 8563 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6430</span>
+						<span>🔱 496</span>
+					</div>
+				<div class="stars-today">⭐ 3870 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8225</span>
+						<span>⭐ 8229</span>
 						<span>🔱 1983</span>
 					</div>
 				<div class="stars-today">⭐ 2514 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47739</span>
-						<span>🔱 8005</span>
+						<span>⭐ 47749</span>
+						<span>🔱 8006</span>
 					</div>
 				<div class="stars-today">⭐ 3050 stars this month</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12854</span>
+						<span>⭐ 12863</span>
 						<span>🔱 1338</span>
 					</div>
 				<div class="stars-today">⭐ 1906 stars this month</div>
@@ -206,252 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15421</span>
+						<span>⭐ 15426</span>
 						<span>🔱 1201</span>
 					</div>
 				<div class="stars-today">⭐ 2850 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ZuodaoTech/everyone-can-use-english" target="_blank">
-    
-
-
-      
-        ZuodaoTech /
-
-      everyone-can-use-english</a></p>
-				<p>
-      人人都能用英语
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31645</span>
-						<span>🔱 4502</span>
-					</div>
-				<div class="stars-today">⭐ 3056 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 374773</span>
-						<span>🔱 65089</span>
-					</div>
-				<div class="stars-today">⭐ 5245 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
-    
-
-
-      
-        zama-ai /
-
-      fhevm</a></p>
-				<p>
-      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24897</span>
-						<span>🔱 1273</span>
-					</div>
-				<div class="stars-today">⭐ 4712 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
-    
-
-
-      
-        Infisical /
-
-      infisical</a></p>
-				<p>
-      Infisical is the open-source platform for secrets, certificates, and privileged access management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23042</span>
-						<span>🔱 1546</span>
-					</div>
-				<div class="stars-today">⭐ 3018 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7797</span>
-						<span>🔱 772</span>
-					</div>
-				<div class="stars-today">⭐ 3143 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
-    
-
-
-      
-        nitrojs /
-
-      nitro</a></p>
-				<p>
-      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9343</span>
-						<span>🔱 732</span>
-					</div>
-				<div class="stars-today">⭐ 1605 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
-    
-
-
-      
-        coinbase /
-
-      x402</a></p>
-				<p>
-      A payments protocol for the internet. Built on HTTP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2357</span>
-						<span>🔱 350</span>
-					</div>
-				<div class="stars-today">⭐ 1284 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
-    
-
-
-      
-        dair-ai /
-
-      Prompt-Engineering-Guide</a></p>
-				<p>
-      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 65267</span>
-						<span>🔱 6786</span>
-					</div>
-				<div class="stars-today">⭐ 3109 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 40187</span>
-						<span>🔱 2581</span>
-					</div>
-				<div class="stars-today">⭐ 6311 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
-    
-
-
-      
-        YaLTeR /
-
-      niri</a></p>
-				<p>
-      A scrollable-tiling Wayland compositor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14007</span>
-						<span>🔱 497</span>
-					</div>
-				<div class="stars-today">⭐ 2510 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/server" target="_blank">
-    
-
-
-      
-        nextcloud /
-
-      server</a></p>
-				<p>
-      ☁️ Nextcloud server, a safe home for all your data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 33094</span>
-						<span>🔱 4607</span>
-					</div>
-				<div class="stars-today">⭐ 2305 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13550</span>
+						<span>⭐ 13559</span>
 						<span>🔱 1020</span>
 					</div>
 				<div class="stars-today">⭐ 2123 stars this month</div>
@@ -478,24 +236,244 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bitcoin/bitcoin" target="_blank">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
     
 
 
       
-        bitcoin /
+        lfnovo /
 
-      bitcoin</a></p>
+      open-notebook</a></p>
 				<p>
-      Bitcoin Core integration/staging tree
+      An Open Source implementation of Notebook LM with more flexibility and features
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 86385</span>
-						<span>🔱 38073</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7808</span>
+						<span>🔱 774</span>
 					</div>
-				<div class="stars-today">⭐ 857 stars this month</div>
+				<div class="stars-today">⭐ 3143 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets, certificates, and privileged access management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23046</span>
+						<span>🔱 1546</span>
+					</div>
+				<div class="stars-today">⭐ 3018 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 374794</span>
+						<span>🔱 65091</span>
+					</div>
+				<div class="stars-today">⭐ 5245 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40204</span>
+						<span>🔱 2581</span>
+					</div>
+				<div class="stars-today">⭐ 6311 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+    
+
+
+      
+        dair-ai /
+
+      Prompt-Engineering-Guide</a></p>
+				<p>
+      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 65272</span>
+						<span>🔱 6787</span>
+					</div>
+				<div class="stars-today">⭐ 3109 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
+    
+
+
+      
+        nextcloud /
+
+      server</a></p>
+				<p>
+      ☁️ Nextcloud server, a safe home for all your data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 33095</span>
+						<span>🔱 4607</span>
+					</div>
+				<div class="stars-today">⭐ 2305 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2364</span>
+						<span>🔱 350</span>
+					</div>
+				<div class="stars-today">⭐ 1284 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
+    
+
+
+      
+        zama-ai /
+
+      fhevm</a></p>
+				<p>
+      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 24900</span>
+						<span>🔱 1274</span>
+					</div>
+				<div class="stars-today">⭐ 4712 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
+    
+
+
+      
+        YaLTeR /
+
+      niri</a></p>
+				<p>
+      A scrollable-tiling Wayland compositor.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14009</span>
+						<span>🔱 497</span>
+					</div>
+				<div class="stars-today">⭐ 2510 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31466</span>
+						<span>🔱 3615</span>
+					</div>
+				<div class="stars-today">⭐ 4822 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openemr/openemr" target="_blank">
+    
+
+
+      
+        openemr /
+
+      openemr</a></p>
+				<p>
+      The most popular open source electronic health records and medical practice management solution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PHP</span>
+						<span>⭐ 4445</span>
+						<span>🔱 2595</span>
+					</div>
+				<div class="stars-today">⭐ 782 stars this month</div>
 				</div>
 			</div>
 	

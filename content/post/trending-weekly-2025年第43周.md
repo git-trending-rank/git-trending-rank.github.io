@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第43周
-date: 2025-10-24T09:58:50Z
+date: 2025-10-24T11:58:42Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13426</span>
+						<span>⭐ 13460</span>
 						<span>🔱 470</span>
 					</div>
 				<div class="stars-today">⭐ 5051 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31455</span>
-						<span>🔱 3614</span>
-					</div>
-				<div class="stars-today">⭐ 3351 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7797</span>
-						<span>🔱 772</span>
-					</div>
-				<div class="stars-today">⭐ 2648 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25144</span>
+						<span>⭐ 25161</span>
 						<span>🔱 2530</span>
 					</div>
 				<div class="stars-today">⭐ 3972 stars this week</div>
@@ -104,46 +60,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
     
 
 
       
-        karpathy /
+        DrewThomasson /
 
-      nanoGPT</a></p>
+      ebook2audiobook</a></p>
 				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+      Generate audiobooks from e-books, voice cloning & 1107+ languages!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47739</span>
-						<span>🔱 8005</span>
+						<span>⭐ 13559</span>
+						<span>🔱 1020</span>
 					</div>
-				<div class="stars-today">⭐ 1588 stars this week</div>
+				<div class="stars-today">⭐ 1847 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
     
 
 
       
-        servo /
+        lfnovo /
 
-      servo</a></p>
+      open-notebook</a></p>
 				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+      An Open Source implementation of Notebook LM with more flexibility and features
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33029</span>
-						<span>🔱 3310</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7808</span>
+						<span>🔱 774</span>
 					</div>
-				<div class="stars-today">⭐ 1242 stars this week</div>
+				<div class="stars-today">⭐ 2648 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31466</span>
+						<span>🔱 3615</span>
+					</div>
+				<div class="stars-today">⭐ 3351 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 56978</span>
-						<span>🔱 6338</span>
+						<span>⭐ 57053</span>
+						<span>🔱 6344</span>
 					</div>
 				<div class="stars-today">⭐ 361 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
     
 
 
       
         karpathy /
 
-      micrograd</a></p>
+      nanoGPT</a></p>
 				<p>
-      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13373</span>
-						<span>🔱 1968</span>
+						<span>🔠 Python</span>
+						<span>⭐ 47749</span>
+						<span>🔱 8006</span>
 					</div>
-				<div class="stars-today">⭐ 415 stars this week</div>
+				<div class="stars-today">⭐ 1588 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60912</span>
-						<span>🔱 9109</span>
+						<span>⭐ 60930</span>
+						<span>🔱 9111</span>
 					</div>
 				<div class="stars-today">⭐ 3546 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 125111</span>
-						<span>🔱 7439</span>
-					</div>
-				<div class="stars-today">⭐ 740 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18342</span>
+						<span>⭐ 18346</span>
 						<span>🔱 639</span>
 					</div>
 				<div class="stars-today">⭐ 635 stars this week</div>
@@ -258,90 +214,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/BurntSushi/ripgrep" target="_blank">
+				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
     
 
 
       
-        BurntSushi /
+        karpathy /
 
-      ripgrep</a></p>
+      micrograd</a></p>
 				<p>
-      ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 56726</span>
-						<span>🔱 2282</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13380</span>
+						<span>🔱 1968</span>
 					</div>
-				<div class="stars-today">⭐ 559 stars this week</div>
+				<div class="stars-today">⭐ 415 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/amnezia-vpn/amnezia-client" target="_blank">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
     
 
 
       
-        amnezia-vpn /
+        microsoft /
 
-      amnezia-client</a></p>
+      PowerToys</a></p>
 				<p>
-      Amnezia VPN Client (Desktop+Mobile)
+      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8644</span>
-						<span>🔱 593</span>
+						<span>🔠 C#</span>
+						<span>⭐ 125118</span>
+						<span>🔱 7439</span>
 					</div>
-				<div class="stars-today">⭐ 233 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
-    
-
-
-      
-        fishaudio /
-
-      fish-speech</a></p>
-				<p>
-      SOTA Open Source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23716</span>
-						<span>🔱 1942</span>
-					</div>
-				<div class="stars-today">⭐ 551 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
-    
-
-
-      
-        louislam /
-
-      uptime-kuma</a></p>
-				<p>
-      A fancy self-hosted monitoring tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 77065</span>
-						<span>🔱 6810</span>
-					</div>
-				<div class="stars-today">⭐ 851 stars this week</div>
+				<div class="stars-today">⭐ 740 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 25461</span>
+						<span>⭐ 25465</span>
 						<span>🔱 3254</span>
 					</div>
 				<div class="stars-today">⭐ 422 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 374773</span>
-						<span>🔱 65089</span>
-					</div>
-				<div class="stars-today">⭐ 2199 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,10 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 65267</span>
-						<span>🔱 6786</span>
+						<span>⭐ 65272</span>
+						<span>🔱 6787</span>
 					</div>
 				<div class="stars-today">⭐ 1047 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 33924</span>
+						<span>🔱 2549</span>
+					</div>
+				<div class="stars-today">⭐ 788 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/seaweedfs/seaweedfs" target="_blank">
+    
+
+
+      
+        seaweedfs /
+
+      seaweedfs</a></p>
+				<p>
+      SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26280</span>
+						<span>🔱 2494</span>
+					</div>
+				<div class="stars-today">⭐ 196 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/amnezia-vpn/amnezia-client" target="_blank">
+    
+
+
+      
+        amnezia-vpn /
+
+      amnezia-client</a></p>
+				<p>
+      Amnezia VPN Client (Desktop+Mobile)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8647</span>
+						<span>🔱 593</span>
+					</div>
+				<div class="stars-today">⭐ 233 stars this week</div>
 				</div>
 			</div>
 	
