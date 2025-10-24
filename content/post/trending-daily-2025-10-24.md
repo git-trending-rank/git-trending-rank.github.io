@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-24
-date: 2025-10-24T15:59:11Z
+date: 2025-10-24T17:58:52Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 50921</span>
-						<span>🔱 2236</span>
+						<span>⭐ 51073</span>
+						<span>🔱 2246</span>
 					</div>
 				<div class="stars-today">⭐ 312 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9383</span>
-						<span>🔱 976</span>
+						<span>⭐ 9467</span>
+						<span>🔱 979</span>
 					</div>
 				<div class="stars-today">⭐ 681 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 75565</span>
-						<span>🔱 5313</span>
+						<span>⭐ 75595</span>
+						<span>🔱 5314</span>
 					</div>
 				<div class="stars-today">⭐ 363 stars today</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 13380</span>
+						<span>⭐ 13382</span>
 						<span>🔱 8102</span>
 					</div>
 				<div class="stars-today">⭐ 33 stars today</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57089</span>
+						<span>⭐ 57099</span>
 						<span>🔱 6348</span>
 					</div>
 				<div class="stars-today">⭐ 1140 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14576</span>
-						<span>🔱 1185</span>
+						<span>⭐ 14597</span>
+						<span>🔱 1187</span>
 					</div>
 				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 4552</span>
+						<span>⭐ 4558</span>
 						<span>🔱 535</span>
 					</div>
 				<div class="stars-today">⭐ 77 stars today</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33315</span>
+						<span>⭐ 33327</span>
 						<span>🔱 2081</span>
 					</div>
 				<div class="stars-today">⭐ 239 stars today</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 50448</span>
+						<span>⭐ 50455</span>
 						<span>🔱 8008</span>
 					</div>
 				<div class="stars-today">⭐ 37 stars today</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8398</span>
-						<span>🔱 752</span>
+						<span>⭐ 8407</span>
+						<span>🔱 753</span>
 					</div>
 				<div class="stars-today">⭐ 57 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 998</span>
-						<span>🔱 343</span>
+						<span>⭐ 1010</span>
+						<span>🔱 350</span>
 					</div>
 				<div class="stars-today">⭐ 98 stars today</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 132106</span>
-						<span>🔱 10619</span>
+						<span>⭐ 132140</span>
+						<span>🔱 10623</span>
 					</div>
 				<div class="stars-today">⭐ 337 stars today</div>
 				</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1655</span>
+						<span>⭐ 1667</span>
 						<span>🔱 203</span>
 					</div>
 				<div class="stars-today">⭐ 15 stars today</div>
@@ -316,10 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 26326</span>
+						<span>⭐ 26347</span>
 						<span>🔱 2497</span>
 					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
+				<div class="stars-today">⭐ 89 stars today</div>
 				</div>
 			</div>
 	
@@ -333,12 +333,12 @@ keywords:
 
       rustfs</a></p>
 				<p>
-      🚀 High-performance distributed object storage for MinIO alternative.
+      🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10022</span>
+						<span>⭐ 10043</span>
 						<span>🔱 480</span>
 					</div>
 				<div class="stars-today">⭐ 255 stars today</div>
@@ -360,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 33984</span>
+						<span>⭐ 34019</span>
 						<span>🔱 2550</span>
 					</div>
 				<div class="stars-today">⭐ 67 stars today</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33063</span>
-						<span>🔱 4428</span>
+						<span>⭐ 33088</span>
+						<span>🔱 4429</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
@@ -404,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17061</span>
-						<span>🔱 1836</span>
+						<span>⭐ 17077</span>
+						<span>🔱 1838</span>
 					</div>
 				<div class="stars-today">⭐ 212 stars today</div>
 				</div>
@@ -426,7 +426,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 75173</span>
+						<span>⭐ 75179</span>
 						<span>🔱 25573</span>
 					</div>
 				<div class="stars-today">⭐ 19 stars today</div>
