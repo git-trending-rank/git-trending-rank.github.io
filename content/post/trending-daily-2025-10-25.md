@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-25
-date: 2025-10-25T09:58:48Z
+date: 2025-10-25T11:58:58Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 51825</span>
-						<span>🔱 2286</span>
+						<span>⭐ 51930</span>
+						<span>🔱 2287</span>
 					</div>
-				<div class="stars-today">⭐ 315 stars today</div>
+				<div class="stars-today">⭐ 1372 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheRobotStudio/SO-ARM100" target="_blank">
+    
+
+
+      
+        TheRobotStudio /
+
+      SO-ARM100</a></p>
+				<p>
+      Standard Open Arm 100
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 3569</span>
+						<span>🔱 291</span>
+					</div>
+				<div class="stars-today">⭐ 176 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2452</span>
+						<span>🔱 378</span>
+					</div>
+				<div class="stars-today">⭐ 90 stars today</div>
 				</div>
 			</div>
 	
@@ -52,120 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9921</span>
-						<span>🔱 1011</span>
+						<span>⭐ 9978</span>
+						<span>🔱 1012</span>
 					</div>
-				<div class="stars-today">⭐ 680 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
-    
-
-
-      
-        hoppscotch /
-
-      hoppscotch</a></p>
-				<p>
-      Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 75772</span>
-						<span>🔱 5329</span>
-					</div>
-				<div class="stars-today">⭐ 355 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
-    
-
-
-      
-        zephyrproject-rtos /
-
-      zephyr</a></p>
-				<p>
-      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 13438</span>
-						<span>🔱 8112</span>
-					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
-    
-
-
-      
-        minio /
-
-      minio</a></p>
-				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 57195</span>
-						<span>🔱 6358</span>
-					</div>
-				<div class="stars-today">⭐ 1127 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/emcie-co/parlant" target="_blank">
-    
-
-
-      
-        emcie-co /
-
-      parlant</a></p>
-				<p>
-      LLM agents built for control. Designed for real-world use. Deployed in minutes.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14697</span>
-						<span>🔱 1198</span>
-					</div>
-				<div class="stars-today">⭐ 137 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zyronon/TypeWords" target="_blank">
-    
-
-
-      
-        zyronon /
-
-      TypeWords</a></p>
-				<p>
-      练习英语，一次敲击，一点进步；Practice English, one strike, one step forward
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vue</span>
-						<span>⭐ 4622</span>
-						<span>🔱 541</span>
-					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 837 stars today</div>
 				</div>
 			</div>
 	
@@ -184,76 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33413</span>
-						<span>🔱 2082</span>
+						<span>⭐ 33425</span>
+						<span>🔱 2085</span>
 					</div>
-				<div class="stars-today">⭐ 238 stars today</div>
+				<div class="stars-today">⭐ 151 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
+				<p><a href="https://github.com/zephyrproject-rtos/zephyr" target="_blank">
     
 
 
       
-        PowerShell /
+        zephyrproject-rtos /
 
-      PowerShell</a></p>
+      zephyr</a></p>
 				<p>
-      PowerShell for every system!
+      Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 50524</span>
-						<span>🔱 8016</span>
+						<span>🔠 C</span>
+						<span>⭐ 13442</span>
+						<span>🔱 8114</span>
 					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
+				<div class="stars-today">⭐ 84 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/LTX-Video" target="_blank">
+				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
     
 
 
       
-        Lightricks /
+        hoppscotch /
 
-      LTX-Video</a></p>
+      hoppscotch</a></p>
 				<p>
-      Official repository for LTX-Video
+      Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 75789</span>
+						<span>🔱 5331</span>
+					</div>
+				<div class="stars-today">⭐ 281 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8467</span>
-						<span>🔱 758</span>
+						<span>⭐ 372216</span>
+						<span>🔱 39272</span>
 					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
+				<div class="stars-today">⭐ 327 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenMind/OM1" target="_blank">
+				<p><a href="https://github.com/ubicloud/ubicloud" target="_blank">
     
 
 
       
-        OpenMind /
+        ubicloud /
 
-      OM1</a></p>
+      ubicloud</a></p>
 				<p>
-      Modular AI runtime for robots
+      Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1097</span>
-						<span>🔱 371</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 10920</span>
+						<span>🔱 496</span>
 					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
+				<div class="stars-today">⭐ 297 stars today</div>
 				</div>
 			</div>
 	
@@ -272,164 +228,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 132348</span>
-						<span>🔱 10629</span>
+						<span>⭐ 132379</span>
+						<span>🔱 10630</span>
 					</div>
-				<div class="stars-today">⭐ 339 stars today</div>
+				<div class="stars-today">⭐ 335 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/isaac-sim/IsaacSim" target="_blank">
+				<p><a href="https://github.com/OpenMind/OM1" target="_blank">
     
 
 
       
-        isaac-sim /
+        OpenMind /
 
-      IsaacSim</a></p>
+      OM1</a></p>
 				<p>
-      NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.
+      Modular AI runtime for robots
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1742</span>
-						<span>🔱 207</span>
+						<span>⭐ 1106</span>
+						<span>🔱 375</span>
 					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
+				<div class="stars-today">⭐ 133 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/seaweedfs/seaweedfs" target="_blank">
+				<p><a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">
     
 
 
       
-        seaweedfs /
+        jaywcjlove /
 
-      seaweedfs</a></p>
+      awesome-mac</a></p>
 				<p>
-      SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 26484</span>
-						<span>🔱 2499</span>
-					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀 RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10221</span>
-						<span>🔱 486</span>
-					</div>
-				<div class="stars-today">⭐ 255 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
+       Now we have become very big, Different from the original idea. Collect premium software in various categories.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 34246</span>
-						<span>🔱 2556</span>
+						<span>⭐ 91516</span>
+						<span>🔱 6932</span>
 					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
+				<div class="stars-today">⭐ 151 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/directus/directus" target="_blank">
+				<p><a href="https://github.com/ashishps1/awesome-system-design-resources" target="_blank">
     
 
 
       
-        directus /
+        ashishps1 /
 
-      directus</a></p>
+      awesome-system-design-resources</a></p>
 				<p>
-      The flexible backend for all your projects 🐰 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33251</span>
-						<span>🔱 4436</span>
-					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17187</span>
-						<span>🔱 1844</span>
-					</div>
-				<div class="stars-today">⭐ 213 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elastic/elasticsearch" target="_blank">
-    
-
-
-      
-        elastic /
-
-      elasticsearch</a></p>
-				<p>
-      Free and Open Source, Distributed, RESTful Search Engine
+      Learn System Design concepts and prepare for interviews using free resources.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 75253</span>
-						<span>🔱 25577</span>
+						<span>⭐ 26920</span>
+						<span>🔱 6328</span>
 					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
+				<div class="stars-today">⭐ 55 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/minio/minio" target="_blank">
+    
+
+
+      
+        minio /
+
+      minio</a></p>
+				<p>
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 57200</span>
+						<span>🔱 6361</span>
+					</div>
+				<div class="stars-today">⭐ 193 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/k2-fsa/sherpa-onnx" target="_blank">
+    
+
+
+      
+        k2-fsa /
+
+      sherpa-onnx</a></p>
+				<p>
+      Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8314</span>
+						<span>🔱 941</span>
+					</div>
+				<div class="stars-today">⭐ 39 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3067</span>
+						<span>🔱 198</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	

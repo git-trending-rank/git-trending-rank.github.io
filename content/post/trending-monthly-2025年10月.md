@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-25T09:58:48Z
+date: 2025-10-25T11:58:58Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47132</span>
-						<span>🔱 6584</span>
+						<span>⭐ 47135</span>
+						<span>🔱 6585</span>
 					</div>
 				<div class="stars-today">⭐ 7282 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25029</span>
-						<span>🔱 2277</span>
+						<span>⭐ 25034</span>
+						<span>🔱 2279</span>
 					</div>
 				<div class="stars-today">⭐ 6624 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25256</span>
-						<span>🔱 2547</span>
+						<span>⭐ 25266</span>
+						<span>🔱 2549</span>
 					</div>
 				<div class="stars-today">⭐ 5110 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13512</span>
-						<span>🔱 338</span>
-					</div>
-				<div class="stars-today">⭐ 8715 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6461</span>
-						<span>🔱 498</span>
-					</div>
-				<div class="stars-today">⭐ 3816 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8262</span>
+						<span>⭐ 8265</span>
 						<span>🔱 1986</span>
 					</div>
 				<div class="stars-today">⭐ 2556 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+    
+
+
+      
+        TibixDev /
+
+      winboat</a></p>
+				<p>
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13523</span>
+						<span>🔱 338</span>
+					</div>
+				<div class="stars-today">⭐ 8715 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47850</span>
-						<span>🔱 8024</span>
+						<span>⭐ 47862</span>
+						<span>🔱 8027</span>
 					</div>
 				<div class="stars-today">⭐ 3174 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12896</span>
-						<span>🔱 1339</span>
-					</div>
-				<div class="stars-today">⭐ 1957 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15455</span>
-						<span>🔱 1202</span>
-					</div>
-				<div class="stars-today">⭐ 2499 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13654</span>
-						<span>🔱 1028</span>
+						<span>⭐ 13663</span>
+						<span>🔱 1030</span>
 					</div>
 				<div class="stars-today">⭐ 2262 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6464</span>
+						<span>🔱 498</span>
+					</div>
+				<div class="stars-today">⭐ 3816 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15465</span>
+						<span>🔱 1202</span>
+					</div>
+				<div class="stars-today">⭐ 2499 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 374920</span>
+						<span>🔱 65110</span>
+					</div>
+				<div class="stars-today">⭐ 5043 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7992</span>
+						<span>⭐ 7999</span>
 						<span>🔱 791</span>
 					</div>
 				<div class="stars-today">⭐ 3393 stars this month</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23085</span>
+						<span>⭐ 23087</span>
 						<span>🔱 1547</span>
 					</div>
 				<div class="stars-today">⭐ 3043 stars this month</div>
@@ -280,24 +280,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+				<p><a href="https://github.com/nextcloud/server" target="_blank">
     
 
 
       
-        EbookFoundation /
+        nextcloud /
 
-      free-programming-books</a></p>
+      server</a></p>
 				<p>
-      📚 Freely available programming books
+      ☁️ Nextcloud server, a safe home for all your data
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 374912</span>
-						<span>🔱 65109</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 33136</span>
+						<span>🔱 4609</span>
 					</div>
-				<div class="stars-today">⭐ 5043 stars this month</div>
+				<div class="stars-today">⭐ 2327 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/minio/minio" target="_blank">
+    
+
+
+      
+        minio /
+
+      minio</a></p>
+				<p>
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 57200</span>
+						<span>🔱 6361</span>
+					</div>
+				<div class="stars-today">⭐ 1929 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40265</span>
-						<span>🔱 2585</span>
+						<span>⭐ 40270</span>
+						<span>🔱 2586</span>
 					</div>
 				<div class="stars-today">⭐ 6353 stars this month</div>
 				</div>
@@ -338,32 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 65353</span>
-						<span>🔱 6790</span>
+						<span>⭐ 65359</span>
+						<span>🔱 6791</span>
 					</div>
 				<div class="stars-today">⭐ 3196 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nextcloud/server" target="_blank">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
 
       
-        nextcloud /
+        simular-ai /
 
-      server</a></p>
+      Agent-S</a></p>
 				<p>
-      ☁️ Nextcloud server, a safe home for all your data
+      Agent S: an open agentic framework that uses computers like a human
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 33132</span>
-						<span>🔱 4609</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7556</span>
+						<span>🔱 827</span>
 					</div>
-				<div class="stars-today">⭐ 2327 stars this month</div>
+				<div class="stars-today">⭐ 1306 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,76 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2444</span>
-						<span>🔱 375</span>
+						<span>⭐ 2452</span>
+						<span>🔱 378</span>
 					</div>
 				<div class="stars-today">⭐ 1203 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zama-ai/fhevm" target="_blank">
+				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
     
 
 
       
-        zama-ai /
+        nitrojs /
 
-      fhevm</a></p>
+      nitro</a></p>
 				<p>
-      FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications
+      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24898</span>
-						<span>🔱 1275</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9362</span>
+						<span>🔱 732</span>
 					</div>
-				<div class="stars-today">⭐ 4632 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
-    
-
-
-      
-        YaLTeR /
-
-      niri</a></p>
-				<p>
-      A scrollable-tiling Wayland compositor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14049</span>
-						<span>🔱 497</span>
-					</div>
-				<div class="stars-today">⭐ 2499 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31536</span>
-						<span>🔱 3624</span>
-					</div>
-				<div class="stars-today">⭐ 4925 stars this month</div>
+				<div class="stars-today">⭐ 1643 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,7 +448,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 4464</span>
+						<span>⭐ 4466</span>
 						<span>🔱 2597</span>
 					</div>
 				<div class="stars-today">⭐ 785 stars this month</div>

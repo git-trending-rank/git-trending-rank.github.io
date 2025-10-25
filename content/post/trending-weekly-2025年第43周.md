@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第43周
-date: 2025-10-25T09:58:48Z
+date: 2025-10-25T11:58:58Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13678</span>
+						<span>⭐ 13691</span>
 						<span>🔱 478</span>
 					</div>
 				<div class="stars-today">⭐ 5540 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25256</span>
-						<span>🔱 2547</span>
-					</div>
-				<div class="stars-today">⭐ 4155 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13654</span>
-						<span>🔱 1028</span>
+						<span>⭐ 13663</span>
+						<span>🔱 1030</span>
 					</div>
 				<div class="stars-today">⭐ 1950 stars this week</div>
 				</div>
@@ -96,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7992</span>
+						<span>⭐ 7999</span>
 						<span>🔱 791</span>
 					</div>
 				<div class="stars-today">⭐ 2834 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31536</span>
-						<span>🔱 3624</span>
-					</div>
-				<div class="stars-today">⭐ 3011 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57195</span>
-						<span>🔱 6358</span>
+						<span>⭐ 57200</span>
+						<span>🔱 6361</span>
 					</div>
 				<div class="stars-today">⭐ 1426 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
     
 
 
       
-        karpathy /
+        anthropics /
 
-      nanoGPT</a></p>
+      claude-cookbooks</a></p>
 				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 25266</span>
+						<span>🔱 2549</span>
+					</div>
+				<div class="stars-today">⭐ 4155 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47850</span>
-						<span>🔱 8024</span>
+						<span>⭐ 31548</span>
+						<span>🔱 3626</span>
 					</div>
-				<div class="stars-today">⭐ 1377 stars this week</div>
+				<div class="stars-today">⭐ 3011 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/chat-ui" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      chat-ui</a></p>
+				<p>
+      Open source codebase powering the HuggingChat app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10084</span>
+						<span>🔱 1496</span>
+					</div>
+				<div class="stars-today">⭐ 846 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61097</span>
+						<span>⭐ 61108</span>
 						<span>🔱 9118</span>
 					</div>
 				<div class="stars-today">⭐ 3277 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      nanoGPT</a></p>
+				<p>
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47862</span>
+						<span>🔱 8027</span>
+					</div>
+				<div class="stars-today">⭐ 1377 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18386</span>
+						<span>⭐ 18390</span>
 						<span>🔱 640</span>
 					</div>
 				<div class="stars-today">⭐ 680 stars this week</div>
@@ -228,98 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13411</span>
-						<span>🔱 1973</span>
+						<span>⭐ 13414</span>
+						<span>🔱 1972</span>
 					</div>
 				<div class="stars-today">⭐ 458 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
     
 
 
       
-        microsoft /
+        fishaudio /
 
-      PowerToys</a></p>
+      fish-speech</a></p>
 				<p>
-      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+      SOTA Open Source TTS
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 125159</span>
-						<span>🔱 7445</span>
+						<span>🔠 Python</span>
+						<span>⭐ 23729</span>
+						<span>🔱 1944</span>
 					</div>
-				<div class="stars-today">⭐ 710 stars this week</div>
+				<div class="stars-today">⭐ 605 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
+				<p><a href="https://github.com/BurntSushi/ripgrep" target="_blank">
     
 
 
       
-        Anuken /
+        BurntSushi /
 
-      Mindustry</a></p>
+      ripgrep</a></p>
 				<p>
-      The automation tower defense RTS
+      ripgrep recursively searches directories for a regex pattern while respecting your gitignore
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 25490</span>
-						<span>🔱 3256</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 56757</span>
+						<span>🔱 2281</span>
 					</div>
-				<div class="stars-today">⭐ 465 stars this week</div>
+				<div class="stars-today">⭐ 584 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
+				<p><a href="https://github.com/ThinkInAIXYZ/deepchat" target="_blank">
     
 
 
       
-        dair-ai /
+        ThinkInAIXYZ /
 
-      Prompt-Engineering-Guide</a></p>
+      deepchat</a></p>
 				<p>
-      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
+      🐬DeepChat - A smart assistant that connects powerful AI to your personal world
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 65353</span>
-						<span>🔱 6790</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4769</span>
+						<span>🔱 566</span>
 					</div>
-				<div class="stars-today">⭐ 1050 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
-    
-
-
-      
-        drawdb-io /
-
-      drawdb</a></p>
-				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 34246</span>
-						<span>🔱 2556</span>
-					</div>
-				<div class="stars-today">⭐ 834 stars this week</div>
+				<div class="stars-today">⭐ 549 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,32 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 26484</span>
-						<span>🔱 2499</span>
+						<span>⭐ 26494</span>
+						<span>🔱 2501</span>
 					</div>
 				<div class="stars-today">⭐ 253 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/amnezia-vpn/amnezia-client" target="_blank">
+				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
     
 
 
       
-        amnezia-vpn /
+        Anuken /
 
-      amnezia-client</a></p>
+      Mindustry</a></p>
 				<p>
-      Amnezia VPN Client (Desktop+Mobile)
+      The automation tower defense RTS
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8694</span>
-						<span>🔱 597</span>
+						<span>🔠 Java</span>
+						<span>⭐ 25491</span>
+						<span>🔱 3256</span>
 					</div>
-				<div class="stars-today">⭐ 287 stars this week</div>
+				<div class="stars-today">⭐ 465 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 374920</span>
+						<span>🔱 65110</span>
+					</div>
+				<div class="stars-today">⭐ 2247 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 34266</span>
+						<span>🔱 2557</span>
+					</div>
+				<div class="stars-today">⭐ 834 stars this week</div>
 				</div>
 			</div>
 	
