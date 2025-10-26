@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第43周
-date: 2025-10-26T09:58:47Z
+date: 2025-10-26T11:58:49Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13825</span>
+						<span>⭐ 13841</span>
 						<span>🔱 486</span>
 					</div>
 				<div class="stars-today">⭐ 5695 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13744</span>
-						<span>🔱 1039</span>
-					</div>
-				<div class="stars-today">⭐ 1961 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8204</span>
-						<span>🔱 808</span>
-					</div>
-				<div class="stars-today">⭐ 2726 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57365</span>
-						<span>🔱 6373</span>
+						<span>⭐ 57374</span>
+						<span>🔱 6375</span>
 					</div>
 				<div class="stars-today">⭐ 1563 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8223</span>
+						<span>🔱 811</span>
+					</div>
+				<div class="stars-today">⭐ 2726 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
+    
+
+
+      
+        DrewThomasson /
+
+      ebook2audiobook</a></p>
+				<p>
+      Generate audiobooks from e-books, voice cloning & 1107+ languages!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13751</span>
+						<span>🔱 1040</span>
+					</div>
+				<div class="stars-today">⭐ 1961 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/servo/servo" target="_blank">
+    
+
+
+      
+        servo /
+
+      servo</a></p>
+				<p>
+      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 33131</span>
+						<span>🔱 3309</span>
+					</div>
+				<div class="stars-today">⭐ 1353 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25358</span>
-						<span>🔱 2562</span>
+						<span>⭐ 25363</span>
+						<span>🔱 2563</span>
 					</div>
 				<div class="stars-today">⭐ 4141 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        jingyaogong /
+        LadybirdBrowser /
 
-      minimind</a></p>
+      ladybird</a></p>
 				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31619</span>
-						<span>🔱 3634</span>
+						<span>🔠 C++</span>
+						<span>⭐ 53010</span>
+						<span>🔱 2341</span>
 					</div>
-				<div class="stars-today">⭐ 1783 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/chat-ui" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      chat-ui</a></p>
-				<p>
-      Open source codebase powering the HuggingChat app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10111</span>
-						<span>🔱 1496</span>
-					</div>
-				<div class="stars-today">⭐ 844 stars this week</div>
+				<div class="stars-today">⭐ 2683 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61246</span>
-						<span>🔱 9125</span>
+						<span>⭐ 61256</span>
+						<span>🔱 9126</span>
 					</div>
 				<div class="stars-today">⭐ 2903 stars this week</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47943</span>
-						<span>🔱 8043</span>
+						<span>⭐ 47950</span>
+						<span>🔱 8044</span>
 					</div>
 				<div class="stars-today">⭐ 1270 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Multiplayer at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18416</span>
-						<span>🔱 641</span>
-					</div>
-				<div class="stars-today">⭐ 719 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13440</span>
+						<span>⭐ 13443</span>
 						<span>🔱 1977</span>
 					</div>
 				<div class="stars-today">⭐ 457 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Multiplayer at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18417</span>
+						<span>🔱 641</span>
+					</div>
+				<div class="stars-today">⭐ 719 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,120 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23772</span>
+						<span>⭐ 23773</span>
 						<span>🔱 1945</span>
 					</div>
 				<div class="stars-today">⭐ 615 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BurntSushi/ripgrep" target="_blank">
-    
-
-
-      
-        BurntSushi /
-
-      ripgrep</a></p>
-				<p>
-      ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 56809</span>
-						<span>🔱 2284</span>
-					</div>
-				<div class="stars-today">⭐ 590 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ThinkInAIXYZ/deepchat" target="_blank">
-    
-
-
-      
-        ThinkInAIXYZ /
-
-      deepchat</a></p>
-				<p>
-      🐬DeepChat - A smart assistant that connects powerful AI to your personal world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4800</span>
-						<span>🔱 567</span>
-					</div>
-				<div class="stars-today">⭐ 528 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/seaweedfs/seaweedfs" target="_blank">
-    
-
-
-      
-        seaweedfs /
-
-      seaweedfs</a></p>
-				<p>
-      SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 26547</span>
-						<span>🔱 2500</span>
-					</div>
-				<div class="stars-today">⭐ 432 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
-    
-
-
-      
-        Anuken /
-
-      Mindustry</a></p>
-				<p>
-      The automation tower defense RTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 25516</span>
-						<span>🔱 3256</span>
-					</div>
-				<div class="stars-today">⭐ 481 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 375008</span>
-						<span>🔱 65127</span>
-					</div>
-				<div class="stars-today">⭐ 2291 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,10 +294,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 34329</span>
+						<span>⭐ 34334</span>
 						<span>🔱 2558</span>
 					</div>
 				<div class="stars-today">⭐ 1104 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/chat-ui" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      chat-ui</a></p>
+				<p>
+      Open source codebase powering the HuggingChat app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10111</span>
+						<span>🔱 1497</span>
+					</div>
+				<div class="stars-today">⭐ 844 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
+    
+
+
+      
+        Anuken /
+
+      Mindustry</a></p>
+				<p>
+      The automation tower defense RTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 25517</span>
+						<span>🔱 3256</span>
+					</div>
+				<div class="stars-today">⭐ 481 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31630</span>
+						<span>🔱 3634</span>
+					</div>
+				<div class="stars-today">⭐ 1783 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
+    
+
+
+      
+        louislam /
+
+      uptime-kuma</a></p>
+				<p>
+      A fancy self-hosted monitoring tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 77212</span>
+						<span>🔱 6826</span>
+					</div>
+				<div class="stars-today">⭐ 1122 stars this week</div>
 				</div>
 			</div>
 	

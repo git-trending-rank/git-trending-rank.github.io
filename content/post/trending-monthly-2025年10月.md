@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-26T09:58:47Z
+date: 2025-10-26T11:58:49Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47192</span>
-						<span>🔱 6593</span>
-					</div>
-				<div class="stars-today">⭐ 7319 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
@@ -60,6 +38,28 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47201</span>
+						<span>🔱 6595</span>
+					</div>
+				<div class="stars-today">⭐ 7319 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
     
 
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25358</span>
-						<span>🔱 2562</span>
+						<span>⭐ 25363</span>
+						<span>🔱 2563</span>
 					</div>
 				<div class="stars-today">⭐ 5191 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8301</span>
+						<span>⭐ 8307</span>
 						<span>🔱 1986</span>
 					</div>
 				<div class="stars-today">⭐ 2592 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13654</span>
+						<span>⭐ 13663</span>
 						<span>🔱 342</span>
 					</div>
 				<div class="stars-today">⭐ 8811 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47943</span>
-						<span>🔱 8043</span>
+						<span>⭐ 47950</span>
+						<span>🔱 8044</span>
 					</div>
 				<div class="stars-today">⭐ 3263 stars this month</div>
 				</div>
@@ -162,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13744</span>
-						<span>🔱 1039</span>
+						<span>⭐ 13751</span>
+						<span>🔱 1040</span>
 					</div>
 				<div class="stars-today">⭐ 2360 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6501</span>
-						<span>🔱 499</span>
-					</div>
-				<div class="stars-today">⭐ 3724 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15502</span>
-						<span>🔱 1205</span>
-					</div>
-				<div class="stars-today">⭐ 2365 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 375008</span>
-						<span>🔱 65127</span>
-					</div>
-				<div class="stars-today">⭐ 5022 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8204</span>
-						<span>🔱 808</span>
+						<span>⭐ 8223</span>
+						<span>🔱 811</span>
 					</div>
 				<div class="stars-today">⭐ 3586 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        Infisical /
+        LadybirdBrowser /
 
-      infisical</a></p>
+      ladybird</a></p>
 				<p>
-      Infisical is the open-source platform for secrets, certificates, and privileged access management.
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23130</span>
-						<span>🔱 1550</span>
+						<span>🔠 C++</span>
+						<span>⭐ 53010</span>
+						<span>🔱 2341</span>
 					</div>
-				<div class="stars-today">⭐ 3077 stars this month</div>
+				<div class="stars-today">⭐ 3671 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15503</span>
+						<span>🔱 1205</span>
+					</div>
+				<div class="stars-today">⭐ 2365 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18955</span>
+						<span>⭐ 18959</span>
 						<span>🔱 2114</span>
 					</div>
 				<div class="stars-today">⭐ 5233 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+    
+
+
+      
+        Infisical /
+
+      infisical</a></p>
+				<p>
+      Infisical is the open-source platform for secrets, certificates, and privileged access management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23138</span>
+						<span>🔱 1551</span>
+					</div>
+				<div class="stars-today">⭐ 3077 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 33168</span>
+						<span>⭐ 33171</span>
 						<span>🔱 4610</span>
 					</div>
 				<div class="stars-today">⭐ 2364 stars this month</div>
@@ -338,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57365</span>
-						<span>🔱 6373</span>
+						<span>⭐ 57374</span>
+						<span>🔱 6375</span>
 					</div>
 				<div class="stars-today">⭐ 2042 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 375019</span>
+						<span>🔱 65129</span>
+					</div>
+				<div class="stars-today">⭐ 5022 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6502</span>
+						<span>🔱 499</span>
+					</div>
+				<div class="stars-today">⭐ 3724 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40360</span>
-						<span>🔱 2593</span>
+						<span>⭐ 40367</span>
+						<span>🔱 2594</span>
 					</div>
 				<div class="stars-today">⭐ 6332 stars this month</div>
 				</div>
@@ -382,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 MDX</span>
-						<span>⭐ 65413</span>
+						<span>⭐ 65418</span>
 						<span>🔱 6797</span>
 					</div>
 				<div class="stars-today">⭐ 3244 stars this month</div>
@@ -390,24 +412,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
     
 
 
       
-        simular-ai /
+        jingyaogong /
 
-      Agent-S</a></p>
+      minimind</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7584</span>
-						<span>🔱 829</span>
+						<span>⭐ 31630</span>
+						<span>🔱 3634</span>
 					</div>
-				<div class="stars-today">⭐ 1308 stars this month</div>
+				<div class="stars-today">⭐ 4982 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,54 +448,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2626</span>
-						<span>🔱 408</span>
+						<span>⭐ 2646</span>
+						<span>🔱 416</span>
 					</div>
 				<div class="stars-today">⭐ 1241 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
     
 
 
       
-        nitrojs /
+        simular-ai /
 
-      nitro</a></p>
+      Agent-S</a></p>
 				<p>
-      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+      Agent S: an open agentic framework that uses computers like a human
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9389</span>
-						<span>🔱 732</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7585</span>
+						<span>🔱 829</span>
 					</div>
-				<div class="stars-today">⭐ 1657 stars this month</div>
+				<div class="stars-today">⭐ 1308 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openemr/openemr" target="_blank">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
     
 
 
       
-        openemr /
+        hsliuping /
 
-      openemr</a></p>
+      TradingAgents-CN</a></p>
 				<p>
-      The most popular open source electronic health records and medical practice management solution.
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PHP</span>
-						<span>⭐ 4485</span>
-						<span>🔱 2601</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11339</span>
+						<span>🔱 2442</span>
 					</div>
-				<div class="stars-today">⭐ 804 stars this month</div>
+				<div class="stars-today">⭐ 4077 stars this month</div>
 				</div>
 			</div>
 	
