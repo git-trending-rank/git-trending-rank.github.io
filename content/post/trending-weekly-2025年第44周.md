@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第44周
-date: 2025-10-27T09:58:55Z
+date: 2025-10-27T11:58:50Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13984</span>
-						<span>🔱 494</span>
+						<span>⭐ 14002</span>
+						<span>🔱 495</span>
 					</div>
 				<div class="stars-today">⭐ 5648 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57435</span>
-						<span>🔱 6385</span>
+						<span>⭐ 57441</span>
+						<span>🔱 6387</span>
 					</div>
 				<div class="stars-today">⭐ 1733 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8431</span>
+						<span>⭐ 8448</span>
 						<span>🔱 837</span>
 					</div>
 				<div class="stars-today">⭐ 2772 stars this week</div>
@@ -96,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13876</span>
+						<span>⭐ 13888</span>
 						<span>🔱 1051</span>
 					</div>
 				<div class="stars-today">⭐ 1834 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
-    
-
-
-      
-        servo /
-
-      servo</a></p>
-				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33187</span>
-						<span>🔱 3313</span>
-					</div>
-				<div class="stars-today">⭐ 1411 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25466</span>
-						<span>🔱 2575</span>
-					</div>
-				<div class="stars-today">⭐ 3710 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 54112</span>
-						<span>🔱 2385</span>
+						<span>⭐ 54198</span>
+						<span>🔱 2388</span>
 					</div>
 				<div class="stars-today">⭐ 3449 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 25474</span>
+						<span>🔱 2578</span>
+					</div>
+				<div class="stars-today">⭐ 3710 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61473</span>
+						<span>⭐ 61483</span>
 						<span>🔱 9145</span>
 					</div>
 				<div class="stars-today">⭐ 2601 stars this week</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48112</span>
+						<span>⭐ 48126</span>
 						<span>🔱 8070</span>
 					</div>
 				<div class="stars-today">⭐ 1210 stars this week</div>
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13468</span>
-						<span>🔱 1984</span>
+						<span>⭐ 13470</span>
+						<span>🔱 1986</span>
 					</div>
 				<div class="stars-today">⭐ 434 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Multiplayer at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18445</span>
-						<span>🔱 644</span>
-					</div>
-				<div class="stars-today">⭐ 711 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,76 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23815</span>
-						<span>🔱 1947</span>
+						<span>⭐ 23818</span>
+						<span>🔱 1948</span>
 					</div>
 				<div class="stars-today">⭐ 609 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+				<p><a href="https://github.com/k2-fsa/sherpa-onnx" target="_blank">
     
 
 
       
-        drawdb-io /
+        k2-fsa /
 
-      drawdb</a></p>
+      sherpa-onnx</a></p>
 				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
+      Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 12 programming languages
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 34392</span>
-						<span>🔱 2564</span>
+						<span>🔠 C++</span>
+						<span>⭐ 8489</span>
+						<span>🔱 946</span>
 					</div>
-				<div class="stars-today">⭐ 1159 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/chat-ui" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      chat-ui</a></p>
-				<p>
-      Open source codebase powering the HuggingChat app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10151</span>
-						<span>🔱 1499</span>
-					</div>
-				<div class="stars-today">⭐ 817 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
-    
-
-
-      
-        Anuken /
-
-      Mindustry</a></p>
-				<p>
-      The automation tower defense RTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 25544</span>
-						<span>🔱 3258</span>
-					</div>
-				<div class="stars-today">⭐ 503 stars this week</div>
+				<div class="stars-today">⭐ 688 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31757</span>
+						<span>⭐ 31770</span>
 						<span>🔱 3653</span>
 					</div>
 				<div class="stars-today">⭐ 1582 stars this week</div>
@@ -368,24 +280,156 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
     
 
 
       
-        louislam /
+        microsoft /
 
-      uptime-kuma</a></p>
+      agent-lightning</a></p>
 				<p>
-      A fancy self-hosted monitoring tool
+      The absolute trainer to light up AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2613</span>
+						<span>🔱 200</span>
+					</div>
+				<div class="stars-today">⭐ 814 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
+    
+
+
+      
+        hoppscotch /
+
+      hoppscotch</a></p>
+				<p>
+      Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 76327</span>
+						<span>🔱 5358</span>
+					</div>
+				<div class="stars-today">⭐ 1059 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Multiplayer at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18449</span>
+						<span>🔱 644</span>
+					</div>
+				<div class="stars-today">⭐ 711 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 77280</span>
-						<span>🔱 6832</span>
+						<span>⭐ 34404</span>
+						<span>🔱 2565</span>
 					</div>
-				<div class="stars-today">⭐ 1149 stars this week</div>
+				<div class="stars-today">⭐ 1159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anuken/Mindustry" target="_blank">
+    
+
+
+      
+        Anuken /
+
+      Mindustry</a></p>
+				<p>
+      The automation tower defense RTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 25546</span>
+						<span>🔱 3258</span>
+					</div>
+				<div class="stars-today">⭐ 503 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/seaweedfs/seaweedfs" target="_blank">
+    
+
+
+      
+        seaweedfs /
+
+      seaweedfs</a></p>
+				<p>
+      SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26590</span>
+						<span>🔱 2505</span>
+					</div>
+				<div class="stars-today">⭐ 477 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zyronon/TypeWords" target="_blank">
+    
+
+
+      
+        zyronon /
+
+      TypeWords</a></p>
+				<p>
+      练习英语，一次敲击，一点进步；Practice English, one strike, one step forward
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vue</span>
+						<span>⭐ 4695</span>
+						<span>🔱 553</span>
+					</div>
+				<div class="stars-today">⭐ 778 stars this week</div>
 				</div>
 			</div>
 	

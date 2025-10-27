@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-27
-date: 2025-10-27T09:58:55Z
+date: 2025-10-27T11:58:50Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        toeverything /
 
-      ladybird</a></p>
+      AFFiNE</a></p>
 				<p>
-      Truly independent web browser
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 54112</span>
-						<span>🔱 2385</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56489</span>
+						<span>🔱 3875</span>
 					</div>
-				<div class="stars-today">⭐ 1105 stars today</div>
+				<div class="stars-today">⭐ 119 stars today</div>
 				</div>
 			</div>
 	
@@ -52,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38375</span>
-						<span>🔱 4674</span>
+						<span>⭐ 38480</span>
+						<span>🔱 4683</span>
 					</div>
-				<div class="stars-today">⭐ 611 stars today</div>
+				<div class="stars-today">⭐ 1342 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        cjpais /
+        codecrafters-io /
 
-      Handy</a></p>
+      build-your-own-x</a></p>
 				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
+      Master programming by recreating your favorite technologies from scratch.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3617</span>
-						<span>🔱 229</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 430183</span>
+						<span>🔱 40389</span>
 					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73365</span>
-						<span>🔱 9541</span>
-					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
+				<div class="stars-today">⭐ 343 stars today</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2566</span>
+						<span>⭐ 2613</span>
 						<span>🔱 200</span>
 					</div>
-				<div class="stars-today">⭐ 186 stars today</div>
+				<div class="stars-today">⭐ 593 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        public-apis /
+        LadybirdBrowser /
 
-      public-apis</a></p>
+      ladybird</a></p>
 				<p>
-      A collective list of free APIs
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 373354</span>
-						<span>🔱 39392</span>
+						<span>🔠 C++</span>
+						<span>⭐ 54198</span>
+						<span>🔱 2388</span>
 					</div>
-				<div class="stars-today">⭐ 639 stars today</div>
+				<div class="stars-today">⭐ 1243 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rasbt/LLMs-from-scratch" target="_blank">
+    
+
+
+      
+        rasbt /
+
+      LLMs-from-scratch</a></p>
+				<p>
+      Implement a ChatGPT-like LLM in PyTorch from scratch, step by step
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 76486</span>
+						<span>🔱 11268</span>
+					</div>
+				<div class="stars-today">⭐ 170 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheRobotStudio/SO-ARM100" target="_blank">
+    
+
+
+      
+        TheRobotStudio /
+
+      SO-ARM100</a></p>
+				<p>
+      Standard Open Arm 100
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4017</span>
+						<span>🔱 331</span>
+					</div>
+				<div class="stars-today">⭐ 264 stars today</div>
 				</div>
 			</div>
 	
@@ -162,186 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2878</span>
-						<span>🔱 450</span>
+						<span>⭐ 2904</span>
+						<span>🔱 452</span>
 					</div>
-				<div class="stars-today">⭐ 192 stars today</div>
+				<div class="stars-today">⭐ 262 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/donnemartin/system-design-primer" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        donnemartin /
+        public-apis /
 
-      system-design-primer</a></p>
+      public-apis</a></p>
 				<p>
-      Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 324187</span>
-						<span>🔱 52867</span>
+						<span>⭐ 373411</span>
+						<span>🔱 39400</span>
 					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
+				<div class="stars-today">⭐ 602 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MHSanaei/3x-ui" target="_blank">
+				<p><a href="https://github.com/bol-van/zapret" target="_blank">
     
 
 
       
-        MHSanaei /
+        bol-van /
 
-      3x-ui</a></p>
+      zapret</a></p>
 				<p>
-      Xray panel supporting multi-protocol multi-user expire day & traffic & IP limit (Vmess, Vless, Trojan, ShadowSocks, Wireguard, Tunnel, Mixed, HTTP) 
+      DPI bypass multi platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 25235</span>
-						<span>🔱 5149</span>
+						<span>🔠 C</span>
+						<span>⭐ 12887</span>
+						<span>🔱 909</span>
 					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/2dust/v2rayN" target="_blank">
+				<p><a href="https://github.com/block/goose" target="_blank">
     
 
 
       
-        2dust /
+        block /
 
-      v2rayN</a></p>
+      goose</a></p>
 				<p>
-      A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 88852</span>
-						<span>🔱 13507</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 20577</span>
+						<span>🔱 1880</span>
 					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
+				<div class="stars-today">⭐ 77 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chartdb/chartdb" target="_blank">
+				<p><a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
     
 
 
       
-        chartdb /
+        qeeqbox /
 
-      chartdb</a></p>
+      social-analyzer</a></p>
 				<p>
-      Database diagrams editor that allows you to visualize and design your DB with a single query.
+      API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19815</span>
-						<span>🔱 1116</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 13891</span>
+						<span>🔱 1185</span>
 					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
+				<div class="stars-today">⭐ 532 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/go-gitea/gitea" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        go-gitea /
+        Shubhamsaboo /
 
-      gitea</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 51613</span>
-						<span>🔱 6177</span>
-					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
-    
-
-
-      
-        hoppscotch /
-
-      hoppscotch</a></p>
-				<p>
-      Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 76302</span>
-						<span>🔱 5358</span>
-					</div>
-				<div class="stars-today">⭐ 242 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
-    
-
-
-      
-        paperless-ngx /
-
-      paperless-ngx</a></p>
-				<p>
-      A community-supported supercharged document management system: scan, index and archive all your documents
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33785</span>
-						<span>🔱 2108</span>
+						<span>⭐ 73406</span>
+						<span>🔱 9547</span>
 					</div>
-				<div class="stars-today">⭐ 184 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications</a></p>
-				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 40261</span>
-						<span>🔱 2706</span>
-					</div>
-				<div class="stars-today">⭐ 363 stars today</div>
+				<div class="stars-today">⭐ 406 stars today</div>
 				</div>
 			</div>
 	
