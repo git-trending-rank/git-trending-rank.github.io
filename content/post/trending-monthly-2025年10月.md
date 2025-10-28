@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-28T09:58:42Z
+date: 2025-10-28T11:58:45Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25259</span>
+						<span>⭐ 25266</span>
 						<span>🔱 2297</span>
 					</div>
 				<div class="stars-today">⭐ 6740 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25571</span>
+						<span>⭐ 25578</span>
 						<span>🔱 2591</span>
 					</div>
 				<div class="stars-today">⭐ 5358 stars this month</div>
@@ -60,24 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
     
 
 
       
-        harry0703 /
+        tile-ai /
 
-      MoneyPrinterTurbo</a></p>
+      tilelang</a></p>
 				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47325</span>
-						<span>🔱 6608</span>
+						<span>🔠 C++</span>
+						<span>⭐ 3745</span>
+						<span>🔱 281</span>
 					</div>
-				<div class="stars-today">⭐ 7317 stars this month</div>
+				<div class="stars-today">⭐ 2101 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8386</span>
+						<span>⭐ 8388</span>
 						<span>🔱 1995</span>
 					</div>
 				<div class="stars-today">⭐ 2673 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      nanoGPT</a></p>
+				<p>
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48269</span>
+						<span>🔱 8085</span>
+					</div>
+				<div class="stars-today">⭐ 3504 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
+    
+
+
+      
+        DrewThomasson /
+
+      ebook2audiobook</a></p>
+				<p>
+      Generate audiobooks from e-books, voice cloning & 1107+ languages!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13996</span>
+						<span>🔱 1064</span>
+					</div>
+				<div class="stars-today">⭐ 2585 stars this month</div>
 				</div>
 			</div>
 	
@@ -116,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2851</span>
+						<span>⭐ 2853</span>
 						<span>🔱 355</span>
 					</div>
 				<div class="stars-today">⭐ 1705 stars this month</div>
@@ -138,54 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13938</span>
+						<span>⭐ 13945</span>
 						<span>🔱 354</span>
 					</div>
 				<div class="stars-today">⭐ 8997 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13989</span>
-						<span>🔱 1064</span>
-					</div>
-				<div class="stars-today">⭐ 2585 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanoGPT</a></p>
-				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48256</span>
-						<span>🔱 8083</span>
-					</div>
-				<div class="stars-today">⭐ 3504 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 54477</span>
-						<span>🔱 2404</span>
+						<span>⭐ 54493</span>
+						<span>🔱 2406</span>
 					</div>
 				<div class="stars-today">⭐ 5558 stars this month</div>
 				</div>
@@ -226,32 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13011</span>
-						<span>🔱 1349</span>
+						<span>⭐ 13016</span>
+						<span>🔱 1350</span>
 					</div>
 				<div class="stars-today">⭐ 2041 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        lfnovo /
+        harry0703 /
 
-      open-notebook</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8656</span>
-						<span>🔱 853</span>
+						<span>🔠 Python</span>
+						<span>⭐ 47331</span>
+						<span>🔱 6608</span>
 					</div>
-				<div class="stars-today">⭐ 4008 stars this month</div>
+				<div class="stars-today">⭐ 7317 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23270</span>
+						<span>⭐ 23273</span>
 						<span>🔱 1553</span>
 					</div>
 				<div class="stars-today">⭐ 3199 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
-    
-
-
-      
-        minio /
-
-      minio</a></p>
-				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 57478</span>
-						<span>🔱 6392</span>
-					</div>
-				<div class="stars-today">⭐ 2265 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11683</span>
-						<span>🔱 2501</span>
+						<span>⭐ 11693</span>
+						<span>🔱 2500</span>
 					</div>
 				<div class="stars-today">⭐ 4405 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8672</span>
+						<span>🔱 853</span>
+					</div>
+				<div class="stars-today">⭐ 4008 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31879</span>
-						<span>🔱 3666</span>
+						<span>⭐ 31895</span>
+						<span>🔱 3667</span>
 					</div>
 				<div class="stars-today">⭐ 5137 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/minio/minio" target="_blank">
+    
+
+
+      
+        minio /
+
+      minio</a></p>
+				<p>
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 57485</span>
+						<span>🔱 6392</span>
+					</div>
+				<div class="stars-today">⭐ 2265 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 375288</span>
-						<span>🔱 65192</span>
+						<span>⭐ 375303</span>
+						<span>🔱 65198</span>
 					</div>
 				<div class="stars-today">⭐ 5055 stars this month</div>
 				</div>
@@ -380,7 +402,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40570</span>
+						<span>⭐ 40584</span>
 						<span>🔱 2613</span>
 					</div>
 				<div class="stars-today">⭐ 6385 stars this month</div>
@@ -402,32 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3154</span>
-						<span>🔱 494</span>
+						<span>⭐ 3178</span>
+						<span>🔱 497</span>
 					</div>
 				<div class="stars-today">⭐ 1464 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
-    
-
-
-      
-        servo /
-
-      servo</a></p>
-				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33233</span>
-						<span>🔱 3313</span>
-					</div>
-				<div class="stars-today">⭐ 1660 stars this month</div>
 				</div>
 			</div>
 	
@@ -446,7 +446,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7654</span>
+						<span>⭐ 7655</span>
 						<span>🔱 832</span>
 					</div>
 				<div class="stars-today">⭐ 1373 stars this month</div>
@@ -454,24 +454,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+				<p><a href="https://github.com/servo/servo" target="_blank">
     
 
 
       
-        QwenLM /
+        servo /
 
-      Qwen3-VL</a></p>
+      servo</a></p>
 				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15634</span>
-						<span>🔱 1218</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 33235</span>
+						<span>🔱 3314</span>
 					</div>
-				<div class="stars-today">⭐ 2335 stars this month</div>
+				<div class="stars-today">⭐ 1660 stars this month</div>
 				</div>
 			</div>
 	
