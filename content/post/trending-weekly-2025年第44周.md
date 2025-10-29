@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第44周
-date: 2025-10-29T09:59:05Z
+date: 2025-10-29T11:58:59Z
 categories:
 - weekly
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
+				<p><a href="https://github.com/guofei9987/blind_watermark" target="_blank">
     
 
 
       
-        mountain-loop /
+        guofei9987 /
 
-      yaak</a></p>
+      blind_watermark</a></p>
 				<p>
-      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+      Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14472</span>
-						<span>🔱 511</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10434</span>
+						<span>🔱 1063</span>
 					</div>
-				<div class="stars-today">⭐ 4703 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
-    
-
-
-      
-        minio /
-
-      minio</a></p>
-				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 57542</span>
-						<span>🔱 6395</span>
-					</div>
-				<div class="stars-today">⭐ 1823 stars this week</div>
+				<div class="stars-today">⭐ 2886 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,98 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 54577</span>
-						<span>🔱 2414</span>
+						<span>⭐ 54586</span>
+						<span>🔱 2415</span>
 					</div>
 				<div class="stars-today">⭐ 4746 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
+				<p><a href="https://github.com/minio/minio" target="_blank">
     
 
 
       
-        DrewThomasson /
+        minio /
 
-      ebook2audiobook</a></p>
+      minio</a></p>
 				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 57552</span>
+						<span>🔱 6395</span>
+					</div>
+				<div class="stars-today">⭐ 1823 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moondevonyt/moon-dev-ai-agents" target="_blank">
+    
+
+
+      
+        moondevonyt /
+
+      moon-dev-ai-agents</a></p>
+				<p>
+      autonomous ai agents for trading in python
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14106</span>
-						<span>🔱 1069</span>
+						<span>⭐ 1717</span>
+						<span>🔱 934</span>
 					</div>
-				<div class="stars-today">⭐ 1240 stars this week</div>
+				<div class="stars-today">⭐ 876 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
+				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
     
 
 
       
-        servo /
+        mountain-loop /
 
-      servo</a></p>
+      yaak</a></p>
 				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33270</span>
-						<span>🔱 3314</span>
-					</div>
-				<div class="stars-today">⭐ 889 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8850</span>
-						<span>🔱 871</span>
+						<span>⭐ 14483</span>
+						<span>🔱 511</span>
 					</div>
-				<div class="stars-today">⭐ 2177 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39339</span>
-						<span>🔱 4785</span>
-					</div>
-				<div class="stars-today">⭐ 2693 stars this week</div>
+				<div class="stars-today">⭐ 4703 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3579</span>
+						<span>⭐ 3643</span>
 						<span>🔱 254</span>
 					</div>
 				<div class="stars-today">⭐ 1359 stars this week</div>
@@ -192,46 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        yeongpin /
 
-      PaddleOCR</a></p>
+      cursor-free-vip</a></p>
 				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61844</span>
-						<span>🔱 9176</span>
+						<span>⭐ 39369</span>
+						<span>🔱 4787</span>
 					</div>
-				<div class="stars-today">⭐ 1806 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanoGPT</a></p>
-				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48388</span>
-						<span>🔱 8102</span>
-					</div>
-				<div class="stars-today">⭐ 1075 stars this week</div>
+				<div class="stars-today">⭐ 2693 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4015</span>
+						<span>⭐ 4021</span>
 						<span>🔱 460</span>
 					</div>
 				<div class="stars-today">⭐ 203 stars this week</div>
@@ -258,46 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
     
 
 
       
-        hoppscotch /
+        DrewThomasson /
 
-      hoppscotch</a></p>
+      ebook2audiobook</a></p>
 				<p>
-      Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+      Generate audiobooks from e-books, voice cloning & 1107+ languages!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 76494</span>
-						<span>🔱 5371</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14113</span>
+						<span>🔱 1069</span>
 					</div>
-				<div class="stars-today">⭐ 1383 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      micrograd</a></p>
-				<p>
-      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13515</span>
-						<span>🔱 1992</span>
-					</div>
-				<div class="stars-today">⭐ 250 stars this week</div>
+				<div class="stars-today">⭐ 1240 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3374</span>
-						<span>🔱 536</span>
+						<span>⭐ 3390</span>
+						<span>🔱 538</span>
 					</div>
 				<div class="stars-today">⭐ 969 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 61851</span>
+						<span>🔱 9174</span>
+					</div>
+				<div class="stars-today">⭐ 1806 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 8595</span>
+						<span>⭐ 8598</span>
 						<span>🔱 953</span>
 					</div>
 				<div class="stars-today">⭐ 700 stars this week</div>
@@ -346,46 +280,178 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
     
 
 
       
-        drawdb-io /
+        hoppscotch /
 
-      drawdb</a></p>
+      hoppscotch</a></p>
 				<p>
-      Free, simple, and intuitive online database diagram editor and SQL generator.
+      Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 34550</span>
-						<span>🔱 2577</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 76501</span>
+						<span>🔱 5371</span>
 					</div>
-				<div class="stars-today">⭐ 1172 stars this week</div>
+				<div class="stars-today">⭐ 1383 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+				<p><a href="https://github.com/bol-van/zapret" target="_blank">
     
 
 
       
-        anthropics /
+        bol-van /
 
-      claude-cookbooks</a></p>
+      zapret</a></p>
 				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      DPI bypass multi platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 12989</span>
+						<span>🔱 914</span>
+					</div>
+				<div class="stars-today">⭐ 205 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/seaweedfs/seaweedfs" target="_blank">
+    
+
+
+      
+        seaweedfs /
+
+      seaweedfs</a></p>
+				<p>
+      SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26673</span>
+						<span>🔱 2508</span>
+					</div>
+				<div class="stars-today">⭐ 550 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
+    
+
+
+      
+        vanna-ai /
+
+      vanna</a></p>
+				<p>
+      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21252</span>
+						<span>🔱 1981</span>
+					</div>
+				<div class="stars-today">⭐ 368 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8859</span>
+						<span>🔱 872</span>
+					</div>
+				<div class="stars-today">⭐ 2177 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      micrograd</a></p>
+				<p>
+      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26058</span>
-						<span>🔱 2625</span>
+						<span>⭐ 13516</span>
+						<span>🔱 1992</span>
 					</div>
-				<div class="stars-today">⭐ 1407 stars this week</div>
+				<div class="stars-today">⭐ 250 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheRobotStudio/SO-ARM100" target="_blank">
+    
+
+
+      
+        TheRobotStudio /
+
+      SO-ARM100</a></p>
+				<p>
+      Standard Open Arm 100
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4131</span>
+						<span>🔱 341</span>
+					</div>
+				<div class="stars-today">⭐ 821 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 431408</span>
+						<span>🔱 40498</span>
+					</div>
+				<div class="stars-today">⭐ 2897 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,7 +470,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21687</span>
+						<span>⭐ 21690</span>
 						<span>🔱 765</span>
 					</div>
 				<div class="stars-today">⭐ 395 stars this week</div>

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-29
-date: 2025-10-29T09:59:05Z
+date: 2025-10-29T11:58:58Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,226 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/smartcontractkit/chainlink" target="_blank">
+    
+
+
+      
+        smartcontractkit /
+
+      chainlink</a></p>
+				<p>
+      node of the decentralized oracle network, bridging on and off-chain computation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 7827</span>
+						<span>🔱 1884</span>
+					</div>
+				<div class="stars-today">⭐ 1 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4231</span>
+						<span>🔱 269</span>
+					</div>
+				<div class="stars-today">⭐ 465 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
+    
+
+
+      
+        qeeqbox /
+
+      social-analyzer</a></p>
+				<p>
+      API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 15417</span>
+						<span>🔱 1269</span>
+					</div>
+				<div class="stars-today">⭐ 683 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/open-telemetry/opentelemetry-collector" target="_blank">
+    
+
+
+      
+        open-telemetry /
+
+      opentelemetry-collector</a></p>
+				<p>
+      OpenTelemetry Collector
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5916</span>
+						<span>🔱 1750</span>
+					</div>
+				<div class="stars-today">⭐ 3 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      Web-Dev-For-Beginners</a></p>
+				<p>
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 92538</span>
+						<span>🔱 14355</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
+    
+
+
+      
+        protocolbuffers /
+
+      protobuf</a></p>
+				<p>
+      Protocol Buffers - Google's data interchange format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 69403</span>
+						<span>🔱 15921</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Beingpax/VoiceInk" target="_blank">
+    
+
+
+      
+        Beingpax /
+
+      VoiceInk</a></p>
+				<p>
+      Voice-to-text app for macOS to transcribe what you say to text almost instantly
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 2182</span>
+						<span>🔱 276</span>
+					</div>
+				<div class="stars-today">⭐ 87 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/goose" target="_blank">
+    
+
+
+      
+        block /
+
+      goose</a></p>
+				<p>
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20933</span>
+						<span>🔱 1906</span>
+					</div>
+				<div class="stars-today">⭐ 246 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
+    
+
+
+      
+        allenai /
+
+      olmocr</a></p>
+				<p>
+      Toolkit for linearizing PDFs for LLM datasets/training
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14890</span>
+						<span>🔱 1139</span>
+					</div>
+				<div class="stars-today">⭐ 191 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dotnet/eShop" target="_blank">
+    
+
+
+      
+        dotnet /
+
+      eShop</a></p>
+				<p>
+      A reference .NET application implementing an eCommerce site
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 9363</span>
+						<span>🔱 3184</span>
+					</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
@@ -30,30 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58216</span>
-						<span>🔱 3970</span>
-					</div>
-				<div class="stars-today">⭐ 1289 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39339</span>
-						<span>🔱 4785</span>
+						<span>⭐ 58260</span>
+						<span>🔱 3974</span>
 					</div>
 				<div class="stars-today">⭐ 534 stars today</div>
 				</div>
@@ -74,274 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3579</span>
+						<span>⭐ 3643</span>
 						<span>🔱 254</span>
 					</div>
-				<div class="stars-today">⭐ 475 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/spipm/Depixelization_poc" target="_blank">
-    
-
-
-      
-        spipm /
-
-      Depixelization_poc</a></p>
-				<p>
-      Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2288</span>
-						<span>🔱 184</span>
-					</div>
-				<div class="stars-today">⭐ 178 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
-    
-
-
-      
-        longbridge /
-
-      gpui-component</a></p>
-				<p>
-      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6260</span>
-						<span>🔱 246</span>
-					</div>
-				<div class="stars-today">⭐ 1285 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/juanfont/headscale" target="_blank">
-    
-
-
-      
-        juanfont /
-
-      headscale</a></p>
-				<p>
-      An open source, self-hosted implementation of the Tailscale control server
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 32259</span>
-						<span>🔱 1718</span>
-					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
-    
-
-
-      
-        harvard-edge /
-
-      cs249r_book</a></p>
-				<p>
-      Introduction to Machine Learning Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7248</span>
-						<span>🔱 699</span>
-					</div>
-				<div class="stars-today">⭐ 417 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
-    
-
-
-      
-        qeeqbox /
-
-      social-analyzer</a></p>
-				<p>
-      API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 15348</span>
-						<span>🔱 1264</span>
-					</div>
-				<div class="stars-today">⭐ 847 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 19397</span>
-						<span>🔱 3274</span>
-					</div>
-				<div class="stars-today">⭐ 149 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications</a></p>
-				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 41737</span>
-						<span>🔱 2769</span>
-					</div>
-				<div class="stars-today">⭐ 665 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
-    
-
-
-      
-        coinbase /
-
-      x402</a></p>
-				<p>
-      A payments protocol for the internet. Built on HTTP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3374</span>
-						<span>🔱 536</span>
-					</div>
-				<div class="stars-today">⭐ 277 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 74046</span>
-						<span>🔱 9631</span>
-					</div>
-				<div class="stars-today">⭐ 381 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4202</span>
-						<span>🔱 268</span>
-					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iam-veeramalla/aws-devops-zero-to-hero" target="_blank">
-    
-
-
-      
-        iam-veeramalla /
-
-      aws-devops-zero-to-hero</a></p>
-				<p>
-      AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9178</span>
-						<span>🔱 13195</span>
-					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 431374</span>
-						<span>🔱 40496</span>
-					</div>
-				<div class="stars-today">⭐ 725 stars today</div>
+				<div class="stars-today">⭐ 562 stars today</div>
 				</div>
 			</div>
 	
