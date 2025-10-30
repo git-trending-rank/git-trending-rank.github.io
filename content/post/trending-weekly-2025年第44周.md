@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第44周
-date: 2025-10-30T09:59:00Z
+date: 2025-10-30T11:58:46Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/guofei9987/blind_watermark" target="_blank">
-    
-
-
-      
-        guofei9987 /
-
-      blind_watermark</a></p>
-				<p>
-      Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10524</span>
-						<span>🔱 1067</span>
-					</div>
-				<div class="stars-today">⭐ 2863 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
@@ -52,10 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 54657</span>
-						<span>🔱 2414</span>
+						<span>⭐ 54665</span>
+						<span>🔱 2417</span>
 					</div>
 				<div class="stars-today">⭐ 4794 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/guofei9987/blind_watermark" target="_blank">
+    
+
+
+      
+        guofei9987 /
+
+      blind_watermark</a></p>
+				<p>
+      Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10528</span>
+						<span>🔱 1067</span>
+					</div>
+				<div class="stars-today">⭐ 2863 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39507</span>
+						<span>🔱 4802</span>
+					</div>
+				<div class="stars-today">⭐ 2995 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-lightning</a></p>
+				<p>
+      The absolute trainer to light up AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4166</span>
+						<span>🔱 285</span>
+					</div>
+				<div class="stars-today">⭐ 1883 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57588</span>
+						<span>⭐ 57592</span>
 						<span>🔱 6399</span>
 					</div>
 				<div class="stars-today">⭐ 1841 stars this week</div>
@@ -96,120 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1803</span>
-						<span>🔱 958</span>
+						<span>⭐ 1818</span>
+						<span>🔱 961</span>
 					</div>
 				<div class="stars-today">⭐ 869 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
-    
-
-
-      
-        mountain-loop /
-
-      yaak</a></p>
-				<p>
-      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14589</span>
-						<span>🔱 518</span>
-					</div>
-				<div class="stars-today">⭐ 3244 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4137</span>
-						<span>🔱 284</span>
-					</div>
-				<div class="stars-today">⭐ 1883 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39493</span>
-						<span>🔱 4800</span>
-					</div>
-				<div class="stars-today">⭐ 2995 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/amazon-science/chronos-forecasting" target="_blank">
-    
-
-
-      
-        amazon-science /
-
-      chronos-forecasting</a></p>
-				<p>
-      Chronos: Pretrained Models for Time Series Forecasting
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4081</span>
-						<span>🔱 461</span>
-					</div>
-				<div class="stars-today">⭐ 242 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14187</span>
-						<span>🔱 1073</span>
-					</div>
-				<div class="stars-today">⭐ 999 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,54 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3464</span>
-						<span>🔱 562</span>
+						<span>⭐ 3468</span>
+						<span>🔱 564</span>
 					</div>
 				<div class="stars-today">⭐ 1126 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+				<p><a href="https://github.com/amazon-science/chronos-forecasting" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        amazon-science /
 
-      PaddleOCR</a></p>
+      chronos-forecasting</a></p>
 				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      Chronos: Pretrained Models for Time Series Forecasting
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61996</span>
-						<span>🔱 9184</span>
+						<span>⭐ 4086</span>
+						<span>🔱 461</span>
 					</div>
-				<div class="stars-today">⭐ 1546 stars this week</div>
+				<div class="stars-today">⭐ 242 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/k2-fsa/sherpa-onnx" target="_blank">
+				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
     
 
 
       
-        k2-fsa /
+        mountain-loop /
 
-      sherpa-onnx</a></p>
+      yaak</a></p>
 				<p>
-      Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages
+      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8649</span>
-						<span>🔱 952</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14604</span>
+						<span>🔱 518</span>
 					</div>
-				<div class="stars-today">⭐ 561 stars this week</div>
+				<div class="stars-today">⭐ 3244 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+    
+
+
+      
+        toeverything /
+
+      AFFiNE</a></p>
+				<p>
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 58663</span>
+						<span>🔱 3992</span>
+					</div>
+				<div class="stars-today">⭐ 2207 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76572</span>
+						<span>⭐ 76583</span>
 						<span>🔱 5375</span>
 					</div>
 				<div class="stars-today">⭐ 1418 stars this week</div>
@@ -302,112 +258,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bol-van/zapret" target="_blank">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
     
 
 
       
-        bol-van /
+        DrewThomasson /
 
-      zapret</a></p>
+      ebook2audiobook</a></p>
 				<p>
-      DPI bypass multi platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 13004</span>
-						<span>🔱 913</span>
-					</div>
-				<div class="stars-today">⭐ 206 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/seaweedfs/seaweedfs" target="_blank">
-    
-
-
-      
-        seaweedfs /
-
-      seaweedfs</a></p>
-				<p>
-      SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 26723</span>
-						<span>🔱 2509</span>
-					</div>
-				<div class="stars-today">⭐ 536 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
-    
-
-
-      
-        vanna-ai /
-
-      vanna</a></p>
-				<p>
-      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
+      Generate audiobooks from e-books, voice cloning & 1107+ languages!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21316</span>
-						<span>🔱 1985</span>
+						<span>⭐ 14196</span>
+						<span>🔱 1073</span>
 					</div>
-				<div class="stars-today">⭐ 372 stars this week</div>
+				<div class="stars-today">⭐ 999 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
     
 
 
       
-        lfnovo /
+        allenai /
 
-      open-notebook</a></p>
+      olmocr</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      Toolkit for linearizing PDFs for LLM datasets/training
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15269</span>
+						<span>🔱 1165</span>
+					</div>
+				<div class="stars-today">⭐ 518 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/slidevjs/slidev" target="_blank">
+    
+
+
+      
+        slidevjs /
+
+      slidev</a></p>
+				<p>
+      Presentation Slides for Developers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8989</span>
-						<span>🔱 882</span>
+						<span>⭐ 40963</span>
+						<span>🔱 1723</span>
 					</div>
-				<div class="stars-today">⭐ 1807 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      micrograd</a></p>
-				<p>
-      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13546</span>
-						<span>🔱 1992</span>
-					</div>
-				<div class="stars-today">⭐ 226 stars this week</div>
+				<div class="stars-today">⭐ 315 stars this week</div>
 				</div>
 			</div>
 	
@@ -434,24 +346,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
     
 
 
       
-        codecrafters-io /
+        cjpais /
 
-      build-your-own-x</a></p>
+      Handy</a></p>
 				<p>
-      Master programming by recreating your favorite technologies from scratch.
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 431736</span>
-						<span>🔱 40523</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4775</span>
+						<span>🔱 296</span>
 					</div>
-				<div class="stars-today">⭐ 3074 stars this week</div>
+				<div class="stars-today">⭐ 1479 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8996</span>
+						<span>🔱 883</span>
+					</div>
+				<div class="stars-today">⭐ 1807 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
+    
+
+
+      
+        Canner /
+
+      WrenAI</a></p>
+				<p>
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12597</span>
+						<span>🔱 1313</span>
+					</div>
+				<div class="stars-today">⭐ 291 stars this week</div>
 				</div>
 			</div>
 	
@@ -470,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21732</span>
+						<span>⭐ 21735</span>
 						<span>🔱 769</span>
 					</div>
 				<div class="stars-today">⭐ 413 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/seaweedfs/seaweedfs" target="_blank">
+    
+
+
+      
+        seaweedfs /
+
+      seaweedfs</a></p>
+				<p>
+      SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 26726</span>
+						<span>🔱 2509</span>
+					</div>
+				<div class="stars-today">⭐ 536 stars this week</div>
 				</div>
 			</div>
 	

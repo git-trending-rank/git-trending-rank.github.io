@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-10-30
-date: 2025-10-30T09:59:00Z
+date: 2025-10-30T11:58:45Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/smartcontractkit/chainlink" target="_blank">
+				<p><a href="https://github.com/helm/helm" target="_blank">
     
 
 
       
-        smartcontractkit /
+        helm /
 
-      chainlink</a></p>
+      helm</a></p>
 				<p>
-      node of the decentralized oracle network, bridging on and off-chain computation
+      The Kubernetes Package Manager
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7955</span>
-						<span>🔱 1897</span>
+						<span>⭐ 28743</span>
+						<span>🔱 7370</span>
 					</div>
-				<div class="stars-today">⭐ 5 stars today</div>
+				<div class="stars-today">⭐ 9 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+				<p><a href="https://github.com/storybookjs/storybook" target="_blank">
     
 
 
       
-        cjpais /
+        storybookjs /
 
-      Handy</a></p>
+      storybook</a></p>
 				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
+      Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4729</span>
-						<span>🔱 295</span>
+						<span>⭐ 88268</span>
+						<span>🔱 9742</span>
 					</div>
-				<div class="stars-today">⭐ 466 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
-    
-
-
-      
-        qeeqbox /
-
-      social-analyzer</a></p>
-				<p>
-      API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16014</span>
-						<span>🔱 1311</span>
-					</div>
-				<div class="stars-today">⭐ 692 stars today</div>
+				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6017</span>
+						<span>⭐ 6025</span>
 						<span>🔱 1757</span>
 					</div>
 				<div class="stars-today">⭐ 6 stars today</div>
@@ -104,90 +82,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
+				<p><a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
     
 
 
       
-        microsoft /
+        qeeqbox /
 
-      Web-Dev-For-Beginners</a></p>
+      social-analyzer</a></p>
 				<p>
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
+      API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 92936</span>
-						<span>🔱 14424</span>
+						<span>⭐ 16072</span>
+						<span>🔱 1313</span>
 					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
+				<div class="stars-today">⭐ 692 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
     
 
 
       
-        protocolbuffers /
+        patchy631 /
 
-      protobuf</a></p>
+      ai-engineering-hub</a></p>
 				<p>
-      Protocol Buffers - Google's data interchange format
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 19664</span>
+						<span>🔱 3307</span>
+					</div>
+				<div class="stars-today">⭐ 351 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yhirose/cpp-httplib" target="_blank">
+    
+
+
+      
+        yhirose /
+
+      cpp-httplib</a></p>
+				<p>
+      A C++ header-only HTTP/HTTPS server and client library
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 69474</span>
-						<span>🔱 15921</span>
+						<span>⭐ 15210</span>
+						<span>🔱 2530</span>
 					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Beingpax/VoiceInk" target="_blank">
-    
-
-
-      
-        Beingpax /
-
-      VoiceInk</a></p>
-				<p>
-      Voice-to-text app for macOS to transcribe what you say to text almost instantly
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 2385</span>
-						<span>🔱 281</span>
-					</div>
-				<div class="stars-today">⭐ 61 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21180</span>
-						<span>🔱 1919</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
+				<div class="stars-today">⭐ 38 stars today</div>
 				</div>
 			</div>
 	
@@ -206,54 +162,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15233</span>
-						<span>🔱 1164</span>
+						<span>⭐ 15269</span>
+						<span>🔱 1165</span>
 					</div>
 				<div class="stars-today">⭐ 200 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/eShop" target="_blank">
+				<p><a href="https://github.com/Project-MONAI/MONAI" target="_blank">
     
 
 
       
-        dotnet /
+        Project-MONAI /
 
-      eShop</a></p>
+      MONAI</a></p>
 				<p>
-      A reference .NET application implementing an eCommerce site
+      AI Toolkit for Healthcare Imaging
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 9454</span>
-						<span>🔱 3188</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7013</span>
+						<span>🔱 1298</span>
 					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
+				<div class="stars-today">⭐ 19 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+				<p><a href="https://github.com/janhq/jan" target="_blank">
     
 
 
       
-        toeverything /
+        janhq /
 
-      AFFiNE</a></p>
+      jan</a></p>
 				<p>
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58635</span>
-						<span>🔱 3991</span>
+						<span>⭐ 38419</span>
+						<span>🔱 2323</span>
 					</div>
-				<div class="stars-today">⭐ 535 stars today</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42143</span>
+						<span>🔱 4535</span>
+					</div>
+				<div class="stars-today">⭐ 111 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iam-veeramalla/aws-devops-zero-to-hero" target="_blank">
+    
+
+
+      
+        iam-veeramalla /
+
+      aws-devops-zero-to-hero</a></p>
+				<p>
+      AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9282</span>
+						<span>🔱 13215</span>
+					</div>
+				<div class="stars-today">⭐ 78 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4137</span>
-						<span>🔱 284</span>
+						<span>⭐ 4166</span>
+						<span>🔱 285</span>
 					</div>
 				<div class="stars-today">⭐ 572 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6776</span>
+						<span>🔱 778</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/projectdiscovery/nuclei-templates" target="_blank">
+    
+
+
+      
+        projectdiscovery /
+
+      nuclei-templates</a></p>
+				<p>
+      Community curated list of templates for the nuclei engine to find security vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11113</span>
+						<span>🔱 3107</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      Web-Dev-For-Beginners</a></p>
+				<p>
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 92971</span>
+						<span>🔱 14428</span>
+					</div>
+				<div class="stars-today">⭐ 59 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 88619</span>
+						<span>🔱 9488</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
 				</div>
 			</div>
 	
