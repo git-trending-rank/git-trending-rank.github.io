@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第44周
-date: 2025-10-31T09:58:40Z
+date: 2025-10-31T11:58:57Z
 categories:
 - weekly
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 54759</span>
-						<span>🔱 2423</span>
-					</div>
-				<div class="stars-today">⭐ 4528 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/guofei9987/blind_watermark" target="_blank">
-    
-
-
-      
-        guofei9987 /
-
-      blind_watermark</a></p>
-				<p>
-      Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10598</span>
-						<span>🔱 1072</span>
-					</div>
-				<div class="stars-today">⭐ 1990 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
@@ -74,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39628</span>
+						<span>⭐ 39635</span>
 						<span>🔱 4818</span>
 					</div>
 				<div class="stars-today">⭐ 3130 stars this week</div>
@@ -96,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4539</span>
-						<span>🔱 320</span>
+						<span>⭐ 4567</span>
+						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 2400 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
-    
-
-
-      
-        minio /
-
-      minio</a></p>
-				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 57648</span>
-						<span>🔱 6398</span>
-					</div>
-				<div class="stars-today">⭐ 1651 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moondevonyt/moon-dev-ai-agents" target="_blank">
-    
-
-
-      
-        moondevonyt /
-
-      moon-dev-ai-agents</a></p>
-				<p>
-      autonomous ai agents for trading in python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1908</span>
-						<span>🔱 994</span>
-					</div>
-				<div class="stars-today">⭐ 856 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,186 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3516</span>
-						<span>🔱 589</span>
+						<span>⭐ 3524</span>
+						<span>🔱 590</span>
 					</div>
 				<div class="stars-today">⭐ 1175 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/amazon-science/chronos-forecasting" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        amazon-science /
+        LadybirdBrowser /
 
-      chronos-forecasting</a></p>
+      ladybird</a></p>
 				<p>
-      Chronos: Pretrained Models for Time Series Forecasting
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4122</span>
-						<span>🔱 465</span>
+						<span>🔠 C++</span>
+						<span>⭐ 54767</span>
+						<span>🔱 2423</span>
 					</div>
-				<div class="stars-today">⭐ 292 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
-    
-
-
-      
-        mountain-loop /
-
-      yaak</a></p>
-				<p>
-      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14715</span>
-						<span>🔱 526</span>
-					</div>
-				<div class="stars-today">⭐ 1626 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
-    
-
-
-      
-        toeverything /
-
-      AFFiNE</a></p>
-				<p>
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 58762</span>
-						<span>🔱 3996</span>
-					</div>
-				<div class="stars-today">⭐ 2529 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
-    
-
-
-      
-        hoppscotch /
-
-      hoppscotch</a></p>
-				<p>
-      Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 76643</span>
-						<span>🔱 5376</span>
-					</div>
-				<div class="stars-today">⭐ 1431 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14277</span>
-						<span>🔱 1081</span>
-					</div>
-				<div class="stars-today">⭐ 789 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/allenai/olmocr" target="_blank">
-    
-
-
-      
-        allenai /
-
-      olmocr</a></p>
-				<p>
-      Toolkit for linearizing PDFs for LLM datasets/training
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15466</span>
-						<span>🔱 1177</span>
-					</div>
-				<div class="stars-today">⭐ 851 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/slidevjs/slidev" target="_blank">
-    
-
-
-      
-        slidevjs /
-
-      slidev</a></p>
-				<p>
-      Presentation Slides for Developers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41049</span>
-						<span>🔱 1725</span>
-					</div>
-				<div class="stars-today">⭐ 317 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheRobotStudio/SO-ARM100" target="_blank">
-    
-
-
-      
-        TheRobotStudio /
-
-      SO-ARM100</a></p>
-				<p>
-      Standard Open Arm 100
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4200</span>
-						<span>🔱 349</span>
-					</div>
-				<div class="stars-today">⭐ 856 stars this week</div>
+				<div class="stars-today">⭐ 4528 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4946</span>
-						<span>🔱 302</span>
+						<span>⭐ 4964</span>
+						<span>🔱 304</span>
 					</div>
 				<div class="stars-today">⭐ 1949 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
     
 
 
       
-        lfnovo /
+        toeverything /
 
-      open-notebook</a></p>
+      AFFiNE</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9098</span>
-						<span>🔱 896</span>
+						<span>⭐ 58769</span>
+						<span>🔱 3997</span>
 					</div>
-				<div class="stars-today">⭐ 1460 stars this week</div>
+				<div class="stars-today">⭐ 2529 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/minio/minio" target="_blank">
+    
+
+
+      
+        minio /
+
+      minio</a></p>
+				<p>
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 57654</span>
+						<span>🔱 6399</span>
+					</div>
+				<div class="stars-today">⭐ 1651 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
+    
+
+
+      
+        allenai /
+
+      olmocr</a></p>
+				<p>
+      Toolkit for linearizing PDFs for LLM datasets/training
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15476</span>
+						<span>🔱 1177</span>
+					</div>
+				<div class="stars-today">⭐ 851 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/guofei9987/blind_watermark" target="_blank">
+    
+
+
+      
+        guofei9987 /
+
+      blind_watermark</a></p>
+				<p>
+      Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10602</span>
+						<span>🔱 1072</span>
+					</div>
+				<div class="stars-today">⭐ 1990 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 432050</span>
+						<span>🔱 40549</span>
+					</div>
+				<div class="stars-today">⭐ 3094 stars this week</div>
 				</div>
 			</div>
 	
@@ -404,54 +250,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12666</span>
-						<span>🔱 1318</span>
+						<span>⭐ 12671</span>
+						<span>🔱 1319</span>
 					</div>
 				<div class="stars-today">⭐ 300 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jj-vcs/jj" target="_blank">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
     
 
 
       
-        jj-vcs /
+        microsoft /
 
-      jj</a></p>
+      Web-Dev-For-Beginners</a></p>
 				<p>
-      A Git-compatible VCS that is both simple and powerful
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21807</span>
-						<span>🔱 771</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 93276</span>
+						<span>🔱 14478</span>
 					</div>
-				<div class="stars-today">⭐ 351 stars this week</div>
+				<div class="stars-today">⭐ 684 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/seaweedfs/seaweedfs" target="_blank">
+				<p><a href="https://github.com/open-telemetry/opentelemetry-collector" target="_blank">
     
 
 
       
-        seaweedfs /
+        open-telemetry /
 
-      seaweedfs</a></p>
+      opentelemetry-collector</a></p>
 				<p>
-      SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, xDC replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding. Enterprise version is at seaweedfs.com.
+      OpenTelemetry Collector
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 26966</span>
-						<span>🔱 2521</span>
+						<span>⭐ 6107</span>
+						<span>🔱 1766</span>
+					</div>
+				<div class="stars-today">⭐ 157 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 74278</span>
+						<span>🔱 9668</span>
+					</div>
+				<div class="stars-today">⭐ 1633 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moondevonyt/moon-dev-ai-agents" target="_blank">
+    
+
+
+      
+        moondevonyt /
+
+      moon-dev-ai-agents</a></p>
+				<p>
+      autonomous ai agents for trading in python
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1916</span>
+						<span>🔱 1000</span>
+					</div>
+				<div class="stars-today">⭐ 856 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ubicloud/ubicloud" target="_blank">
+    
+
+
+      
+        ubicloud /
+
+      ubicloud</a></p>
+				<p>
+      Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 11233</span>
+						<span>🔱 507</span>
 					</div>
 				<div class="stars-today">⭐ 504 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
+    
+
+
+      
+        hoppscotch /
+
+      hoppscotch</a></p>
+				<p>
+      Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 76644</span>
+						<span>🔱 5378</span>
+					</div>
+				<div class="stars-today">⭐ 1431 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chatboxai/chatbox" target="_blank">
+    
+
+
+      
+        chatboxai /
+
+      chatbox</a></p>
+				<p>
+      User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37178</span>
+						<span>🔱 3767</span>
+					</div>
+				<div class="stars-today">⭐ 158 stars this week</div>
 				</div>
 			</div>
 	

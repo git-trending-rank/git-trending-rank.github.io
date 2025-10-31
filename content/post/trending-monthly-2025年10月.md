@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年10月
-date: 2025-10-31T09:58:40Z
+date: 2025-10-31T11:58:57Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25468</span>
-						<span>🔱 2315</span>
+						<span>⭐ 25473</span>
+						<span>🔱 2316</span>
 					</div>
 				<div class="stars-today">⭐ 7011 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26551</span>
-						<span>🔱 2663</span>
+						<span>⭐ 26559</span>
+						<span>🔱 2665</span>
 					</div>
 				<div class="stars-today">⭐ 6278 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4946</span>
-						<span>🔱 302</span>
+						<span>⭐ 4964</span>
+						<span>🔱 304</span>
 					</div>
 				<div class="stars-today">⭐ 3941 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48573</span>
-						<span>🔱 8122</span>
+						<span>⭐ 48580</span>
+						<span>🔱 8125</span>
 					</div>
 				<div class="stars-today">⭐ 3826 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 54759</span>
-						<span>🔱 2423</span>
-					</div>
-				<div class="stars-today">⭐ 5930 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14277</span>
+						<span>⭐ 14281</span>
 						<span>🔱 1081</span>
 					</div>
 				<div class="stars-today">⭐ 2873 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 54767</span>
+						<span>🔱 2423</span>
+					</div>
+				<div class="stars-today">⭐ 5930 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8511</span>
+						<span>⭐ 8512</span>
 						<span>🔱 2003</span>
 					</div>
 				<div class="stars-today">⭐ 2790 stars this month</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14278</span>
+						<span>⭐ 14287</span>
 						<span>🔱 358</span>
 					</div>
 				<div class="stars-today">⭐ 9127 stars this month</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32151</span>
-						<span>🔱 3705</span>
+						<span>⭐ 32156</span>
+						<span>🔱 3706</span>
 					</div>
 				<div class="stars-today">⭐ 5345 stars this month</div>
 				</div>
@@ -228,76 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9098</span>
-						<span>🔱 896</span>
+						<span>⭐ 9107</span>
+						<span>🔱 898</span>
 					</div>
 				<div class="stars-today">⭐ 4491 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
-    
-
-
-      
-        Infisical /
-
-      infisical</a></p>
-				<p>
-      Infisical is the open-source platform for secrets, certificates, and privileged access management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23400</span>
-						<span>🔱 1562</span>
-					</div>
-				<div class="stars-today">⭐ 3325 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12015</span>
-						<span>🔱 2556</span>
-					</div>
-				<div class="stars-today">⭐ 4732 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15751</span>
-						<span>🔱 1233</span>
-					</div>
-				<div class="stars-today">⭐ 2341 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3516</span>
-						<span>🔱 589</span>
+						<span>⭐ 3524</span>
+						<span>🔱 590</span>
 					</div>
 				<div class="stars-today">⭐ 1784 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
     
 
 
       
-        simular-ai /
+        QwenLM /
 
-      Agent-S</a></p>
+      Qwen3-VL</a></p>
 				<p>
-      Agent S: an open agentic framework that uses computers like a human
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7791</span>
-						<span>🔱 841</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15756</span>
+						<span>🔱 1233</span>
 					</div>
-				<div class="stars-today">⭐ 1473 stars this month</div>
+				<div class="stars-today">⭐ 2341 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57648</span>
-						<span>🔱 6398</span>
+						<span>⭐ 57654</span>
+						<span>🔱 6399</span>
 					</div>
 				<div class="stars-today">⭐ 2393 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
     
 
 
       
-        servo /
+        Infisical /
 
-      servo</a></p>
+      infisical</a></p>
 				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+      Infisical is the open-source platform for secrets, certificates, and privileged access management.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33426</span>
-						<span>🔱 3319</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23404</span>
+						<span>🔱 1562</span>
 					</div>
-				<div class="stars-today">⭐ 1751 stars this month</div>
+				<div class="stars-today">⭐ 3325 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39628</span>
+						<span>⭐ 39635</span>
 						<span>🔱 4818</span>
 					</div>
 				<div class="stars-today">⭐ 3958 stars this month</div>
@@ -412,24 +346,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+				<p><a href="https://github.com/servo/servo" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        servo /
 
-      PaddleOCR</a></p>
+      servo</a></p>
 				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 62127</span>
-						<span>🔱 9194</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 33436</span>
+						<span>🔱 3319</span>
 					</div>
-				<div class="stars-today">⭐ 5843 stars this month</div>
+				<div class="stars-today">⭐ 1751 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9508</span>
+						<span>⭐ 9513</span>
 						<span>🔱 736</span>
 					</div>
 				<div class="stars-today">⭐ 1734 stars this month</div>
@@ -456,46 +390,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
     
 
 
       
-        karpathy /
+        PaddlePaddle /
 
-      micrograd</a></p>
+      PaddleOCR</a></p>
 				<p>
-      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13560</span>
-						<span>🔱 1993</span>
+						<span>🔠 Python</span>
+						<span>⭐ 62136</span>
+						<span>🔱 9195</span>
 					</div>
-				<div class="stars-today">⭐ 740 stars this month</div>
+				<div class="stars-today">⭐ 5843 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tile-ai/tilelang" target="_blank">
+				<p><a href="https://github.com/thinking-machines-lab/tinker-cookbook" target="_blank">
     
 
 
       
-        tile-ai /
+        thinking-machines-lab /
 
-      tilelang</a></p>
+      tinker-cookbook</a></p>
 				<p>
-       Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels
+      Post-training with Tinker
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3808</span>
-						<span>🔱 292</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1350</span>
+						<span>🔱 101</span>
 					</div>
-				<div class="stars-today">⭐ 1978 stars this month</div>
+				<div class="stars-today">⭐ 1346 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN</a></p>
+				<p>
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12021</span>
+						<span>🔱 2556</span>
+					</div>
+				<div class="stars-today">⭐ 4732 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
+    
+
+
+      
+        EbookFoundation /
+
+      free-programming-books</a></p>
+				<p>
+      📚 Freely available programming books
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 375668</span>
+						<span>🔱 65267</span>
+					</div>
+				<div class="stars-today">⭐ 5165 stars this month</div>
 				</div>
 			</div>
 	
