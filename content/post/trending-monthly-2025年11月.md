@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-01T09:58:48Z
+date: 2025-11-01T11:58:43Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25545</span>
-						<span>🔱 2325</span>
+						<span>⭐ 25555</span>
+						<span>🔱 2327</span>
 					</div>
 				<div class="stars-today">⭐ 7066 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26636</span>
+						<span>⭐ 26648</span>
 						<span>🔱 2672</span>
 					</div>
 				<div class="stars-today">⭐ 6360 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5074</span>
-						<span>🔱 314</span>
-					</div>
-				<div class="stars-today">⭐ 4051 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48642</span>
+						<span>⭐ 48651</span>
 						<span>🔱 8131</span>
 					</div>
 				<div class="stars-today">⭐ 3899 stars this month</div>
@@ -118,98 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14425</span>
-						<span>🔱 1087</span>
+						<span>⭐ 14434</span>
+						<span>🔱 1088</span>
 					</div>
 				<div class="stars-today">⭐ 2948 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        cjpais /
 
-      ladybird</a></p>
+      Handy</a></p>
 				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 54817</span>
-						<span>🔱 2424</span>
-					</div>
-				<div class="stars-today">⭐ 5963 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
-    
-
-
-      
-        evershopcommerce /
-
-      evershop</a></p>
-				<p>
-      🛍️ Typescript E-commerce Platform
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8539</span>
-						<span>🔱 2006</span>
+						<span>⭐ 5086</span>
+						<span>🔱 315</span>
 					</div>
-				<div class="stars-today">⭐ 2825 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14394</span>
-						<span>🔱 359</span>
-					</div>
-				<div class="stars-today">⭐ 9087 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32205</span>
-						<span>🔱 3717</span>
-					</div>
-				<div class="stars-today">⭐ 5378 stars this month</div>
+				<div class="stars-today">⭐ 4051 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9212</span>
-						<span>🔱 906</span>
+						<span>⭐ 9218</span>
+						<span>🔱 907</span>
 					</div>
 				<div class="stars-today">⭐ 4582 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
+    
+
+
+      
+        evershopcommerce /
+
+      evershop</a></p>
+				<p>
+      🛍️ Typescript E-commerce Platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8543</span>
+						<span>🔱 2008</span>
+					</div>
+				<div class="stars-today">⭐ 2825 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 54821</span>
+						<span>🔱 2425</span>
+					</div>
+				<div class="stars-today">⭐ 5963 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32210</span>
+						<span>🔱 3717</span>
+					</div>
+				<div class="stars-today">⭐ 5378 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+    
+
+
+      
+        TibixDev /
+
+      winboat</a></p>
+				<p>
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14404</span>
+						<span>🔱 359</span>
+					</div>
+				<div class="stars-today">⭐ 9087 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13137</span>
+						<span>🔱 1367</span>
+					</div>
+				<div class="stars-today">⭐ 2184 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3574</span>
-						<span>🔱 608</span>
+						<span>⭐ 3575</span>
+						<span>🔱 609</span>
 					</div>
 				<div class="stars-today">⭐ 1774 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15787</span>
-						<span>🔱 1235</span>
-					</div>
-				<div class="stars-today">⭐ 2343 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57702</span>
+						<span>⭐ 57706</span>
 						<span>🔱 6403</span>
 					</div>
 				<div class="stars-today">⭐ 2434 stars this month</div>
@@ -302,24 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
+				<p><a href="https://github.com/audacity/audacity" target="_blank">
     
 
 
       
-        Infisical /
+        audacity /
 
-      infisical</a></p>
+      audacity</a></p>
 				<p>
-      Infisical is the open-source platform for secrets, certificates, and privileged access management.
+      Audio Editor 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23442</span>
-						<span>🔱 1565</span>
+						<span>🔠 C++</span>
+						<span>⭐ 15785</span>
+						<span>🔱 2465</span>
 					</div>
-				<div class="stars-today">⭐ 3364 stars this month</div>
+				<div class="stars-today">⭐ 1584 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39718</span>
-						<span>🔱 4828</span>
+						<span>⭐ 39723</span>
+						<span>🔱 4829</span>
 					</div>
 				<div class="stars-today">⭐ 4043 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15790</span>
+						<span>🔱 1235</span>
+					</div>
+				<div class="stars-today">⭐ 2343 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33481</span>
+						<span>⭐ 33482</span>
 						<span>🔱 3325</span>
 					</div>
 				<div class="stars-today">⭐ 1868 stars this month</div>
@@ -368,24 +390,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
+				<p><a href="https://github.com/Infisical/infisical" target="_blank">
     
 
 
       
-        nitrojs /
+        Infisical /
 
-      nitro</a></p>
+      infisical</a></p>
 				<p>
-      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+      Infisical is the open-source platform for secrets, certificates, and privileged access management.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9544</span>
-						<span>🔱 738</span>
+						<span>⭐ 23443</span>
+						<span>🔱 1565</span>
 					</div>
-				<div class="stars-today">⭐ 1791 stars this month</div>
+				<div class="stars-today">⭐ 3364 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7838</span>
+						<span>🔱 845</span>
+					</div>
+				<div class="stars-today">⭐ 1571 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9803</span>
+						<span>🔱 847</span>
+					</div>
+				<div class="stars-today">⭐ 3271 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +470,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62226</span>
+						<span>⭐ 62237</span>
 						<span>🔱 9202</span>
 					</div>
 				<div class="stars-today">⭐ 5890 stars this month</div>
@@ -412,90 +478,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thinking-machines-lab/tinker-cookbook" target="_blank">
+				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
     
 
 
       
-        thinking-machines-lab /
+        nitrojs /
 
-      tinker-cookbook</a></p>
+      nitro</a></p>
 				<p>
-      Post-training with Tinker
+      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1373</span>
-						<span>🔱 104</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9547</span>
+						<span>🔱 738</span>
 					</div>
-				<div class="stars-today">⭐ 1350 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12071</span>
-						<span>🔱 2569</span>
-					</div>
-				<div class="stars-today">⭐ 4786 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EbookFoundation/free-programming-books" target="_blank">
-    
-
-
-      
-        EbookFoundation /
-
-      free-programming-books</a></p>
-				<p>
-      📚 Freely available programming books
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 375786</span>
-						<span>🔱 65280</span>
-					</div>
-				<div class="stars-today">⭐ 5198 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/rf-detr" target="_blank">
-    
-
-
-      
-        roboflow /
-
-      rf-detr</a></p>
-				<p>
-      RF-DETR is a real-time object detection and segmentation model architecture developed by Roboflow, SOTA on COCO and designed for fine-tuning.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3973</span>
-						<span>🔱 448</span>
-					</div>
-				<div class="stars-today">⭐ 879 stars this month</div>
+				<div class="stars-today">⭐ 1791 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-01
-date: 2025-11-01T09:58:49Z
+date: 2025-11-01T11:58:42Z
 categories:
 - daily
 keywords:
@@ -16,310 +16,90 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/get-convex/chef" target="_blank">
     
 
 
       
-        nvm-sh /
+        get-convex /
 
-      nvm</a></p>
+      chef</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+      The only AI app builder that knows backend
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 88786</span>
-						<span>🔱 9507</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2542</span>
+						<span>🔱 497</span>
 					</div>
-				<div class="stars-today">⭐ 103 stars today</div>
+				<div class="stars-today">⭐ 61 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Wei-Shaw/claude-relay-service" target="_blank">
+				<p><a href="https://github.com/suitenumerique/docs" target="_blank">
     
 
 
       
-        Wei-Shaw /
+        suitenumerique /
 
-      claude-relay-service</a></p>
+      docs</a></p>
 				<p>
-      CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+      A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 4730</span>
-						<span>🔱 784</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14100</span>
+						<span>🔱 423</span>
 					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
+				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ventoy/Ventoy" target="_blank">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
     
 
 
       
-        ventoy /
+        Tencent /
 
-      Ventoy</a></p>
+      WeKnora</a></p>
 				<p>
-      A new bootable USB solution.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 71965</span>
-						<span>🔱 4548</span>
-					</div>
-				<div class="stars-today">⭐ 225 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/projectdiscovery/nuclei-templates" target="_blank">
-    
-
-
-      
-        projectdiscovery /
-
-      nuclei-templates</a></p>
-				<p>
-      Community curated list of templates for the nuclei engine to find security vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11243</span>
-						<span>🔱 3116</span>
-					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fmtlib/fmt" target="_blank">
-    
-
-
-      
-        fmtlib /
-
-      fmt</a></p>
-				<p>
-      A modern formatting library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 22827</span>
-						<span>🔱 2765</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
-    
-
-
-      
-        qeeqbox /
-
-      social-analyzer</a></p>
-				<p>
-      API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16924</span>
-						<span>🔱 1376</span>
-					</div>
-				<div class="stars-today">⭐ 532 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/open-telemetry/opentelemetry-collector" target="_blank">
-    
-
-
-      
-        open-telemetry /
-
-      opentelemetry-collector</a></p>
-				<p>
-      OpenTelemetry Collector
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6177</span>
-						<span>🔱 1767</span>
+						<span>⭐ 7083</span>
+						<span>🔱 806</span>
 					</div>
-				<div class="stars-today">⭐ 85 stars today</div>
+				<div class="stars-today">⭐ 248 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yhirose/cpp-httplib" target="_blank">
+				<p><a href="https://github.com/janhq/jan" target="_blank">
     
 
 
       
-        yhirose /
+        janhq /
 
-      cpp-httplib</a></p>
+      jan</a></p>
 				<p>
-      A C++ header-only HTTP/HTTPS server and client library
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15404</span>
-						<span>🔱 2541</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 38857</span>
+						<span>🔱 2344</span>
 					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5372</span>
-						<span>🔱 387</span>
-					</div>
-				<div class="stars-today">⭐ 408 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      BettaFish</a></p>
-				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2457</span>
-						<span>🔱 317</span>
-					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hiyouga/LLaMA-Factory" target="_blank">
-    
-
-
-      
-        hiyouga /
-
-      LLaMA-Factory</a></p>
-				<p>
-      Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61521</span>
-						<span>🔱 7437</span>
-					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/smartcontractkit/chainlink" target="_blank">
-    
-
-
-      
-        smartcontractkit /
-
-      chainlink</a></p>
-				<p>
-      node of the decentralized oracle network, bridging on and off-chain computation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 8050</span>
-						<span>🔱 1898</span>
-					</div>
-				<div class="stars-today">⭐ 13 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dotnet/eShop" target="_blank">
-    
-
-
-      
-        dotnet /
-
-      eShop</a></p>
-				<p>
-      A reference .NET application implementing an eCommerce site
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 9531</span>
-						<span>🔱 3208</span>
-					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20252</span>
-						<span>🔱 3368</span>
-					</div>
-				<div class="stars-today">⭐ 386 stars today</div>
+				<div class="stars-today">⭐ 338 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +118,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 93577</span>
-						<span>🔱 14524</span>
+						<span>⭐ 93599</span>
+						<span>🔱 14529</span>
 					</div>
 				<div class="stars-today">⭐ 318 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 74575</span>
+						<span>🔱 10873</span>
+					</div>
+				<div class="stars-today">⭐ 225 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+    
+
+
+      
+        juspay /
+
+      hyperswitch</a></p>
+				<p>
+      An open source payments switch written in Rust to make payments fast, reliable and affordable
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 38757</span>
+						<span>🔱 4507</span>
+					</div>
+				<div class="stars-today">⭐ 245 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+    
+
+
+      
+        nvm-sh /
+
+      nvm</a></p>
+				<p>
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 88791</span>
+						<span>🔱 9509</span>
+					</div>
+				<div class="stars-today">⭐ 103 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/copilot-cli" target="_blank">
+    
+
+
+      
+        github /
+
+      copilot-cli</a></p>
+				<p>
+      GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4393</span>
+						<span>🔱 282</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YunaiV/ruoyi-vue-pro" target="_blank">
+    
+
+
+      
+        YunaiV /
+
+      ruoyi-vue-pro</a></p>
+				<p>
+      🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 33844</span>
+						<span>🔱 7310</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hanxi/xiaomusic" target="_blank">
+    
+
+
+      
+        hanxi /
+
+      xiaomusic</a></p>
+				<p>
+      使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6444</span>
+						<span>🔱 637</span>
+					</div>
+				<div class="stars-today">⭐ 197 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      BettaFish</a></p>
+				<p>
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2633</span>
+						<span>🔱 321</span>
+					</div>
+				<div class="stars-today">⭐ 105 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pathwaycom/llm-app" target="_blank">
+    
+
+
+      
+        pathwaycom /
+
+      llm-app</a></p>
+				<p>
+      Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 46242</span>
+						<span>🔱 1187</span>
+					</div>
+				<div class="stars-today">⭐ 224 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lingodotdev/lingo.dev" target="_blank">
+    
+
+
+      
+        lingodotdev /
+
+      lingo.dev</a></p>
+				<p>
+      ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3915</span>
+						<span>🔱 599</span>
+					</div>
+				<div class="stars-today">⭐ 100 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ossu/computer-science" target="_blank">
+    
+
+
+      
+        ossu /
+
+      computer-science</a></p>
+				<p>
+      🎓 Path to a free self-taught education in Computer Science!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 196593</span>
+						<span>🔱 24525</span>
+					</div>
+				<div class="stars-today">⭐ 235 stars today</div>
 				</div>
 			</div>
 	

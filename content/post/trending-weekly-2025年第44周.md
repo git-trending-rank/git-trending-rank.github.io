@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第44周
-date: 2025-11-01T09:58:48Z
+date: 2025-11-01T11:58:42Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39718</span>
-						<span>🔱 4828</span>
-					</div>
-				<div class="stars-today">⭐ 3221 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5372</span>
-						<span>🔱 387</span>
+						<span>⭐ 5414</span>
+						<span>🔱 389</span>
 					</div>
 				<div class="stars-today">⭐ 2814 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39723</span>
+						<span>🔱 4829</span>
+					</div>
+				<div class="stars-today">⭐ 3221 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3574</span>
-						<span>🔱 608</span>
+						<span>⭐ 3575</span>
+						<span>🔱 609</span>
 					</div>
 				<div class="stars-today">⭐ 1170 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 54817</span>
-						<span>🔱 2424</span>
-					</div>
-				<div class="stars-today">⭐ 4220 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5074</span>
-						<span>🔱 314</span>
+						<span>⭐ 5086</span>
+						<span>🔱 315</span>
 					</div>
 				<div class="stars-today">⭐ 1969 stars this week</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58852</span>
-						<span>🔱 3997</span>
+						<span>⭐ 58856</span>
+						<span>🔱 3998</span>
 					</div>
 				<div class="stars-today">⭐ 2597 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
-    
-
-
-      
-        minio /
-
-      minio</a></p>
-				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 57702</span>
-						<span>🔱 6403</span>
-					</div>
-				<div class="stars-today">⭐ 667 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,76 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15524</span>
+						<span>⭐ 15528</span>
 						<span>🔱 1181</span>
 					</div>
 				<div class="stars-today">⭐ 1018 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/guofei9987/blind_watermark" target="_blank">
-    
-
-
-      
-        guofei9987 /
-
-      blind_watermark</a></p>
-				<p>
-      Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10622</span>
-						<span>🔱 1074</span>
-					</div>
-				<div class="stars-today">⭐ 1403 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 432304</span>
-						<span>🔱 40579</span>
-					</div>
-				<div class="stars-today">⭐ 3118 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
-    
-
-
-      
-        Canner /
-
-      WrenAI</a></p>
-				<p>
-      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12722</span>
-						<span>🔱 1323</span>
-					</div>
-				<div class="stars-today">⭐ 329 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 93577</span>
-						<span>🔱 14524</span>
+						<span>⭐ 93599</span>
+						<span>🔱 14529</span>
 					</div>
 				<div class="stars-today">⭐ 912 stars this week</div>
 				</div>
@@ -294,10 +184,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6177</span>
+						<span>⭐ 6178</span>
 						<span>🔱 1767</span>
 					</div>
 				<div class="stars-today">⭐ 219 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 432320</span>
+						<span>🔱 40578</span>
+					</div>
+				<div class="stars-today">⭐ 3118 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/get-convex/chef" target="_blank">
+    
+
+
+      
+        get-convex /
+
+      chef</a></p>
+				<p>
+      The only AI app builder that knows backend
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2542</span>
+						<span>🔱 497</span>
+					</div>
+				<div class="stars-today">⭐ 271 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/helm/helm" target="_blank">
+    
+
+
+      
+        helm /
+
+      helm</a></p>
+				<p>
+      The Kubernetes Package Manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 28859</span>
+						<span>🔱 7380</span>
+					</div>
+				<div class="stars-today">⭐ 149 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheRobotStudio/SO-ARM100" target="_blank">
+    
+
+
+      
+        TheRobotStudio /
+
+      SO-ARM100</a></p>
+				<p>
+      Standard Open Arm 100
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 4217</span>
+						<span>🔱 351</span>
+					</div>
+				<div class="stars-today">⭐ 705 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      deepagents</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4989</span>
+						<span>🔱 734</span>
+					</div>
+				<div class="stars-today">⭐ 395 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
+    
+
+
+      
+        mem0ai /
+
+      mem0</a></p>
+				<p>
+      Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42412</span>
+						<span>🔱 4561</span>
+					</div>
+				<div class="stars-today">⭐ 718 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,98 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74361</span>
-						<span>🔱 9695</span>
+						<span>⭐ 74369</span>
+						<span>🔱 9696</span>
 					</div>
 				<div class="stars-today">⭐ 1643 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moondevonyt/moon-dev-ai-agents" target="_blank">
-    
-
-
-      
-        moondevonyt /
-
-      moon-dev-ai-agents</a></p>
-				<p>
-      autonomous ai agents for trading in python
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2057</span>
-						<span>🔱 1032</span>
-					</div>
-				<div class="stars-today">⭐ 739 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ubicloud/ubicloud" target="_blank">
-    
-
-
-      
-        ubicloud /
-
-      ubicloud</a></p>
-				<p>
-      Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 11276</span>
-						<span>🔱 507</span>
-					</div>
-				<div class="stars-today">⭐ 392 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hoppscotch/hoppscotch" target="_blank">
-    
-
-
-      
-        hoppscotch /
-
-      hoppscotch</a></p>
-				<p>
-      Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 76686</span>
-						<span>🔱 5379</span>
-					</div>
-				<div class="stars-today">⭐ 1158 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chatboxai/chatbox" target="_blank">
-    
-
-
-      
-        chatboxai /
-
-      chatbox</a></p>
-				<p>
-      User-friendly Desktop Client App for AI Models/LLMs (GPT, Claude, Gemini, Ollama...)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37232</span>
-						<span>🔱 3767</span>
-					</div>
-				<div class="stars-today">⭐ 167 stars this week</div>
 				</div>
 			</div>
 	
