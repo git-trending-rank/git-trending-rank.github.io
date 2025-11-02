@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-02T09:58:57Z
+date: 2025-11-02T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+    
+
+
+      
+        Stremio /
+
+      stremio-web</a></p>
+				<p>
+      Stremio - Freedom to Stream
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8490</span>
+						<span>🔱 927</span>
+					</div>
+				<div class="stars-today">⭐ 6910 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25623</span>
-						<span>🔱 2330</span>
+						<span>⭐ 25624</span>
+						<span>🔱 2333</span>
 					</div>
 				<div class="stars-today">⭐ 7141 stars this month</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26726</span>
-						<span>🔱 2676</span>
+						<span>⭐ 26728</span>
+						<span>🔱 2679</span>
 					</div>
 				<div class="stars-today">⭐ 6416 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanoGPT</a></p>
-				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48723</span>
-						<span>🔱 8148</span>
-					</div>
-				<div class="stars-today">⭐ 3954 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14537</span>
+						<span>⭐ 14542</span>
 						<span>🔱 1095</span>
 					</div>
 				<div class="stars-today">⭐ 3090 stars this month</div>
@@ -104,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
     
 
 
       
-        cjpais /
+        karpathy /
 
-      Handy</a></p>
+      nanoGPT</a></p>
 				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5231</span>
-						<span>🔱 321</span>
+						<span>🔠 Python</span>
+						<span>⭐ 48728</span>
+						<span>🔱 8150</span>
 					</div>
-				<div class="stars-today">⭐ 3838 stars this month</div>
+				<div class="stars-today">⭐ 3954 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9331</span>
+						<span>⭐ 9335</span>
 						<span>🔱 919</span>
 					</div>
 				<div class="stars-today">⭐ 4669 stars this month</div>
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8564</span>
-						<span>🔱 2010</span>
+						<span>⭐ 8566</span>
+						<span>🔱 2011</span>
 					</div>
 				<div class="stars-today">⭐ 2852 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5247</span>
+						<span>🔱 322</span>
+					</div>
+				<div class="stars-today">⭐ 3838 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 54865</span>
-						<span>🔱 2429</span>
+						<span>⭐ 54867</span>
+						<span>🔱 2430</span>
 					</div>
 				<div class="stars-today">⭐ 5948 stars this month</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32252</span>
-						<span>🔱 3724</span>
+						<span>⭐ 32255</span>
+						<span>🔱 3725</span>
 					</div>
 				<div class="stars-today">⭐ 5397 stars this month</div>
 				</div>
@@ -228,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14486</span>
-						<span>🔱 362</span>
+						<span>⭐ 14491</span>
+						<span>🔱 363</span>
 					</div>
 				<div class="stars-today">⭐ 9119 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13158</span>
-						<span>🔱 1370</span>
-					</div>
-				<div class="stars-today">⭐ 2184 stars this month</div>
 				</div>
 			</div>
 	
@@ -273,7 +273,7 @@ keywords:
 					<div>
 						<span>🔠 TypeScript</span>
 						<span>⭐ 3612</span>
-						<span>🔱 616</span>
+						<span>🔱 617</span>
 					</div>
 				<div class="stars-today">⭐ 1787 stars this month</div>
 				</div>
@@ -294,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57728</span>
+						<span>⭐ 57731</span>
 						<span>🔱 6404</span>
 					</div>
 				<div class="stars-today">⭐ 2468 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/audacity/audacity" target="_blank">
-    
-
-
-      
-        audacity /
-
-      audacity</a></p>
-				<p>
-      Audio Editor 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15812</span>
-						<span>🔱 2463</span>
-					</div>
-				<div class="stars-today">⭐ 1584 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39807</span>
-						<span>🔱 4837</span>
+						<span>⭐ 39808</span>
+						<span>🔱 4838</span>
 					</div>
 				<div class="stars-today">⭐ 4109 stars this month</div>
 				</div>
@@ -360,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15821</span>
-						<span>🔱 1238</span>
+						<span>⭐ 15825</span>
+						<span>🔱 1239</span>
 					</div>
 				<div class="stars-today">⭐ 2345 stars this month</div>
 				</div>
@@ -382,54 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33521</span>
+						<span>⭐ 33522</span>
 						<span>🔱 3325</span>
 					</div>
 				<div class="stars-today">⭐ 1911 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Infisical/infisical" target="_blank">
-    
-
-
-      
-        Infisical /
-
-      infisical</a></p>
-				<p>
-      Infisical is the open-source platform for secrets, certificates, and privileged access management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23471</span>
-						<span>🔱 1566</span>
-					</div>
-				<div class="stars-today">⭐ 3388 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
-    
-
-
-      
-        simular-ai /
-
-      Agent-S</a></p>
-				<p>
-      Agent S: an open agentic framework that uses computers like a human
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7886</span>
-						<span>🔱 847</span>
-					</div>
-				<div class="stars-today">⭐ 1574 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,32 +382,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 9941</span>
-						<span>🔱 857</span>
+						<span>⭐ 9944</span>
+						<span>🔱 858</span>
 					</div>
 				<div class="stars-today">⭐ 3331 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+				<p><a href="https://github.com/audacity/audacity" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        audacity /
 
-      PaddleOCR</a></p>
+      audacity</a></p>
 				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      Audio Editor 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 15813</span>
+						<span>🔱 2463</span>
+					</div>
+				<div class="stars-today">⭐ 1584 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-lightning</a></p>
+				<p>
+      The absolute trainer to light up AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62308</span>
-						<span>🔱 9205</span>
+						<span>⭐ 5843</span>
+						<span>🔱 426</span>
 					</div>
-				<div class="stars-today">⭐ 5930 stars this month</div>
+				<div class="stars-today">⭐ 3905 stars this month</div>
 				</div>
 			</div>
 	
@@ -492,10 +448,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9580</span>
+						<span>⭐ 9585</span>
 						<span>🔱 740</span>
 					</div>
 				<div class="stars-today">⭐ 1824 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 62316</span>
+						<span>🔱 9207</span>
+					</div>
+				<div class="stars-today">⭐ 5930 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      micrograd</a></p>
+				<p>
+      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13588</span>
+						<span>🔱 2000</span>
+					</div>
+				<div class="stars-today">⭐ 758 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第44周
-date: 2025-11-02T09:58:57Z
+date: 2025-11-02T11:58:46Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5816</span>
-						<span>🔱 422</span>
+						<span>⭐ 5843</span>
+						<span>🔱 426</span>
 					</div>
 				<div class="stars-today">⭐ 3643 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39807</span>
-						<span>🔱 4837</span>
+						<span>⭐ 39808</span>
+						<span>🔱 4838</span>
 					</div>
 				<div class="stars-today">⭐ 3305 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+    
+
+
+      
+        patchy631 /
+
+      ai-engineering-hub</a></p>
+				<p>
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 20350</span>
+						<span>🔱 3392</span>
+					</div>
+				<div class="stars-today">⭐ 1594 stars this week</div>
 				</div>
 			</div>
 	
@@ -75,31 +97,9 @@ keywords:
 					<div>
 						<span>🔠 TypeScript</span>
 						<span>⭐ 3612</span>
-						<span>🔱 616</span>
+						<span>🔱 617</span>
 					</div>
 				<div class="stars-today">⭐ 1130 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5231</span>
-						<span>🔱 321</span>
-					</div>
-				<div class="stars-today">⭐ 2031 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58934</span>
+						<span>⭐ 58939</span>
 						<span>🔱 4001</span>
 					</div>
 				<div class="stars-today">⭐ 2663 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/allenai/olmocr" target="_blank">
-    
-
-
-      
-        allenai /
-
-      olmocr</a></p>
-				<p>
-      Toolkit for linearizing PDFs for LLM datasets/training
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15639</span>
-						<span>🔱 1184</span>
-					</div>
-				<div class="stars-today">⭐ 1011 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 93806</span>
-						<span>🔱 14558</span>
+						<span>⭐ 93821</span>
+						<span>🔱 14562</span>
 					</div>
 				<div class="stars-today">⭐ 1206 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5247</span>
+						<span>🔱 322</span>
+					</div>
+				<div class="stars-today">⭐ 2031 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/get-convex/chef" target="_blank">
+    
+
+
+      
+        get-convex /
+
+      chef</a></p>
+				<p>
+      The only AI app builder that knows backend
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2840</span>
+						<span>🔱 537</span>
+					</div>
+				<div class="stars-today">⭐ 292 stars this week</div>
 				</div>
 			</div>
 	
@@ -192,6 +214,50 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 74488</span>
+						<span>🔱 9722</span>
+					</div>
+				<div class="stars-today">⭐ 1593 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/allenai/olmocr" target="_blank">
+    
+
+
+      
+        allenai /
+
+      olmocr</a></p>
+				<p>
+      Toolkit for linearizing PDFs for LLM datasets/training
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15644</span>
+						<span>🔱 1184</span>
+					</div>
+				<div class="stars-today">⭐ 1011 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
@@ -206,96 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 432616</span>
-						<span>🔱 40612</span>
+						<span>⭐ 432640</span>
+						<span>🔱 40614</span>
 					</div>
 				<div class="stars-today">⭐ 3063 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/get-convex/chef" target="_blank">
+				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
     
 
 
       
-        get-convex /
+        vanna-ai /
 
-      chef</a></p>
+      vanna</a></p>
 				<p>
-      The only AI app builder that knows backend
+      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
     </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2820</span>
-						<span>🔱 535</span>
-					</div>
-				<div class="stars-today">⭐ 292 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/helm/helm" target="_blank">
-    
-
-
-      
-        helm /
-
-      helm</a></p>
-				<p>
-      The Kubernetes Package Manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 28865</span>
-						<span>🔱 7381</span>
-					</div>
-				<div class="stars-today">⭐ 157 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheRobotStudio/SO-ARM100" target="_blank">
-    
-
-
-      
-        TheRobotStudio /
-
-      SO-ARM100</a></p>
-				<p>
-      Standard Open Arm 100
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4259</span>
-						<span>🔱 354</span>
-					</div>
-				<div class="stars-today">⭐ 642 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      deepagents</a></p>
-				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5116</span>
-						<span>🔱 748</span>
+						<span>⭐ 21385</span>
+						<span>🔱 2000</span>
 					</div>
-				<div class="stars-today">⭐ 401 stars this week</div>
+				<div class="stars-today">⭐ 280 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,32 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42471</span>
-						<span>🔱 4567</span>
+						<span>⭐ 42477</span>
+						<span>🔱 4568</span>
 					</div>
 				<div class="stars-today">⭐ 736 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/storybookjs/storybook" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        storybookjs /
 
-      awesome-llm-apps</a></p>
+      storybook</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 74475</span>
-						<span>🔱 9718</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 88520</span>
+						<span>🔱 9756</span>
 					</div>
-				<div class="stars-today">⭐ 1593 stars this week</div>
+				<div class="stars-today">⭐ 325 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/janhq/jan" target="_blank">
+    
+
+
+      
+        janhq /
+
+      jan</a></p>
+				<p>
+      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39001</span>
+						<span>🔱 2354</span>
+					</div>
+				<div class="stars-today">⭐ 575 stars this week</div>
 				</div>
 			</div>
 	

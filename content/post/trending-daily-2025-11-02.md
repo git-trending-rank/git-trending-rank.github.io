@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-02
-date: 2025-11-02T09:58:57Z
+date: 2025-11-02T11:58:46Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,200 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/get-convex/chef" target="_blank">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
     
 
 
       
-        get-convex /
+        666ghj /
 
-      chef</a></p>
+      BettaFish</a></p>
 				<p>
-      The only AI app builder that knows backend
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3835</span>
+						<span>🔱 402</span>
+					</div>
+				<div class="stars-today">⭐ 506 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Wei-Shaw/claude-relay-service" target="_blank">
+    
+
+
+      
+        Wei-Shaw /
+
+      claude-relay-service</a></p>
+				<p>
+      CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 4764</span>
+						<span>🔱 788</span>
+					</div>
+				<div class="stars-today">⭐ 113 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-lightning</a></p>
+				<p>
+      The absolute trainer to light up AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5843</span>
+						<span>🔱 426</span>
+					</div>
+				<div class="stars-today">⭐ 813 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8235</span>
+						<span>🔱 1167</span>
+					</div>
+				<div class="stars-today">⭐ 256 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
+    
+
+
+      
+        GeeeekExplorer /
+
+      nano-vllm</a></p>
+				<p>
+      Nano vLLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7420</span>
+						<span>🔱 951</span>
+					</div>
+				<div class="stars-today">⭐ 140 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The AI coding agent built for the terminal.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2820</span>
-						<span>🔱 535</span>
+						<span>⭐ 30271</span>
+						<span>🔱 2331</span>
 					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
+				<div class="stars-today">⭐ 240 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/charmbracelet/glow" target="_blank">
+    
+
+
+      
+        charmbracelet /
+
+      glow</a></p>
+				<p>
+      Render markdown on the CLI, with pizzazz! 💅🏻
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 19885</span>
+						<span>🔱 481</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NARKOZ/hacker-scripts" target="_blank">
+    
+
+
+      
+        NARKOZ /
+
+      hacker-scripts</a></p>
+				<p>
+      Based on a true story
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 48980</span>
+						<span>🔱 6674</span>
+					</div>
+				<div class="stars-today">⭐ 18 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moondevonyt/moon-dev-ai-agents" target="_blank">
+    
+
+
+      
+        moondevonyt /
+
+      moon-dev-ai-agents</a></p>
+				<p>
+      autonomous ai agents for trading in python
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2257</span>
+						<span>🔱 1076</span>
+					</div>
+				<div class="stars-today">⭐ 184 stars today</div>
 				</div>
 			</div>
 	
@@ -52,296 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14261</span>
-						<span>🔱 432</span>
+						<span>⭐ 14274</span>
+						<span>🔱 434</span>
 					</div>
 				<div class="stars-today">⭐ 28 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
     
 
 
       
-        Tencent /
+        Fosowl /
 
-      WeKnora</a></p>
+      agenticSeek</a></p>
 				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7262</span>
-						<span>🔱 816</span>
-					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/janhq/jan" target="_blank">
-    
-
-
-      
-        janhq /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38998</span>
-						<span>🔱 2352</span>
-					</div>
-				<div class="stars-today">⭐ 112 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      Web-Dev-For-Beginners</a></p>
-				<p>
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 93806</span>
-						<span>🔱 14558</span>
-					</div>
-				<div class="stars-today">⭐ 331 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74834</span>
-						<span>🔱 10889</span>
+						<span>⭐ 22404</span>
+						<span>🔱 2418</span>
 					</div>
-				<div class="stars-today">⭐ 132 stars today</div>
+				<div class="stars-today">⭐ 108 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/juspay/hyperswitch" target="_blank">
+				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
     
 
 
       
-        juspay /
+        HandsOnLLM /
 
-      hyperswitch</a></p>
+      Hands-On-Large-Language-Models</a></p>
 				<p>
-      An open source payments switch written in Rust to make payments fast, reliable and affordable
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 38968</span>
-						<span>🔱 4515</span>
-					</div>
-				<div class="stars-today">⭐ 242 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
-    
-
-
-      
-        nvm-sh /
-
-      nvm</a></p>
-				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 88848</span>
-						<span>🔱 9514</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/copilot-cli" target="_blank">
-    
-
-
-      
-        github /
-
-      copilot-cli</a></p>
-				<p>
-      GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4596</span>
-						<span>🔱 296</span>
-					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YunaiV/ruoyi-vue-pro" target="_blank">
-    
-
-
-      
-        YunaiV /
-
-      ruoyi-vue-pro</a></p>
-				<p>
-      🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城、CRM、ERP、AI 大模型等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 33904</span>
-						<span>🔱 7317</span>
-					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hanxi/xiaomusic" target="_blank">
-    
-
-
-      
-        hanxi /
-
-      xiaomusic</a></p>
-				<p>
-      使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6592</span>
-						<span>🔱 649</span>
-					</div>
-				<div class="stars-today">⭐ 97 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      BettaFish</a></p>
-				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3755</span>
-						<span>🔱 397</span>
-					</div>
-				<div class="stars-today">⭐ 506 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pathwaycom/llm-app" target="_blank">
-    
-
-
-      
-        pathwaycom /
-
-      llm-app</a></p>
-				<p>
-      Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. 🐳Docker-friendly.⚡Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, and more.
+      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 46487</span>
-						<span>🔱 1197</span>
+						<span>⭐ 17058</span>
+						<span>🔱 4024</span>
 					</div>
-				<div class="stars-today">⭐ 135 stars today</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lingodotdev/lingo.dev" target="_blank">
+				<p><a href="https://github.com/hmjz100/LinkSwift" target="_blank">
     
 
 
       
-        lingodotdev /
+        hmjz100 /
 
-      lingo.dev</a></p>
+      LinkSwift</a></p>
 				<p>
-      ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Localization Engine. Join discord:
+      一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4085</span>
-						<span>🔱 612</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7915</span>
+						<span>🔱 372</span>
 					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ossu/computer-science" target="_blank">
-    
-
-
-      
-        ossu /
-
-      computer-science</a></p>
-				<p>
-      🎓 Path to a free self-taught education in Computer Science!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 196829</span>
-						<span>🔱 24533</span>
-					</div>
-				<div class="stars-today">⭐ 140 stars today</div>
+				<div class="stars-today">⭐ 88 stars today</div>
 				</div>
 			</div>
 	
