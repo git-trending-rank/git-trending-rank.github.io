@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第45周
-date: 2025-11-03T09:59:08Z
+date: 2025-11-03T11:59:02Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6340</span>
-						<span>🔱 462</span>
+						<span>⭐ 6374</span>
+						<span>🔱 468</span>
 					</div>
 				<div class="stars-today">⭐ 3841 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+				<p><a href="https://github.com/spipm/Depixelization_poc" target="_blank">
     
 
 
       
-        yeongpin /
+        spipm /
 
-      cursor-free-vip</a></p>
+      Depixelization_poc</a></p>
 				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+      Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39948</span>
-						<span>🔱 4849</span>
+						<span>⭐ 2625</span>
+						<span>🔱 215</span>
 					</div>
-				<div class="stars-today">⭐ 2709 stars this week</div>
+				<div class="stars-today">⭐ 824 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20441</span>
+						<span>⭐ 20450</span>
 						<span>🔱 3404</span>
 					</div>
 				<div class="stars-today">⭐ 1614 stars this week</div>
@@ -82,46 +82,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
     
 
 
       
-        coinbase /
+        yeongpin /
 
-      x402</a></p>
+      cursor-free-vip</a></p>
 				<p>
-      A payments protocol for the internet. Built on HTTP.
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3659</span>
-						<span>🔱 633</span>
+						<span>🔠 Python</span>
+						<span>⭐ 39959</span>
+						<span>🔱 4850</span>
 					</div>
-				<div class="stars-today">⭐ 971 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
-    
-
-
-      
-        toeverything /
-
-      AFFiNE</a></p>
-				<p>
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 59025</span>
-						<span>🔱 4005</span>
-					</div>
-				<div class="stars-today">⭐ 2654 stars this week</div>
+				<div class="stars-today">⭐ 2709 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 93883</span>
+						<span>⭐ 93886</span>
 						<span>🔱 14575</span>
 					</div>
 				<div class="stars-today">⭐ 1412 stars this week</div>
@@ -148,24 +126,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
     
 
 
       
-        cjpais /
+        toeverything /
 
-      Handy</a></p>
+      AFFiNE</a></p>
 				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5428</span>
-						<span>🔱 333</span>
+						<span>⭐ 59041</span>
+						<span>🔱 4006</span>
 					</div>
-				<div class="stars-today">⭐ 1996 stars this week</div>
+				<div class="stars-today">⭐ 2654 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
+    
+
+
+      
+        harvard-edge /
+
+      cs249r_book</a></p>
+				<p>
+      Introduction to Machine Learning Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8034</span>
+						<span>🔱 800</span>
+					</div>
+				<div class="stars-today">⭐ 2401 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3664</span>
+						<span>🔱 633</span>
+					</div>
+				<div class="stars-today">⭐ 971 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2942</span>
-						<span>🔱 556</span>
+						<span>⭐ 2960</span>
+						<span>🔱 558</span>
 					</div>
 				<div class="stars-today">⭐ 554 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/open-telemetry/opentelemetry-collector" target="_blank">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
     
 
 
       
-        open-telemetry /
+        cjpais /
 
-      opentelemetry-collector</a></p>
+      Handy</a></p>
 				<p>
-      OpenTelemetry Collector
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6210</span>
-						<span>🔱 1768</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5441</span>
+						<span>🔱 333</span>
 					</div>
-				<div class="stars-today">⭐ 299 stars this week</div>
+				<div class="stars-today">⭐ 1996 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 74633</span>
-						<span>🔱 9742</span>
+						<span>⭐ 74639</span>
+						<span>🔱 9744</span>
 					</div>
 				<div class="stars-today">⭐ 1543 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/open-telemetry/opentelemetry-collector" target="_blank">
+    
+
+
+      
+        open-telemetry /
+
+      opentelemetry-collector</a></p>
+				<p>
+      OpenTelemetry Collector
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6211</span>
+						<span>🔱 1768</span>
+					</div>
+				<div class="stars-today">⭐ 299 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/juanfont/headscale" target="_blank">
+    
+
+
+      
+        juanfont /
+
+      headscale</a></p>
+				<p>
+      An open source, self-hosted implementation of the Tailscale control server
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 32453</span>
+						<span>🔱 1728</span>
+					</div>
+				<div class="stars-today">⭐ 494 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Project-MONAI/MONAI" target="_blank">
+    
+
+
+      
+        Project-MONAI /
+
+      MONAI</a></p>
+				<p>
+      AI Toolkit for Healthcare Imaging
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7297</span>
+						<span>🔱 1319</span>
+					</div>
+				<div class="stars-today">⭐ 333 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,120 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15726</span>
+						<span>⭐ 15730</span>
 						<span>🔱 1193</span>
 					</div>
 				<div class="stars-today">⭐ 1071 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x</a></p>
-				<p>
-      Master programming by recreating your favorite technologies from scratch.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 432937</span>
-						<span>🔱 40655</span>
-					</div>
-				<div class="stars-today">⭐ 3076 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vanna-ai/vanna" target="_blank">
-    
-
-
-      
-        vanna-ai /
-
-      vanna</a></p>
-				<p>
-      🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using Agentic Retrieval 🔄.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21433</span>
-						<span>🔱 2003</span>
-					</div>
-				<div class="stars-today">⭐ 277 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mem0ai/mem0" target="_blank">
-    
-
-
-      
-        mem0ai /
-
-      mem0</a></p>
-				<p>
-      Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42581</span>
-						<span>🔱 4575</span>
-					</div>
-				<div class="stars-today">⭐ 776 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/storybookjs/storybook" target="_blank">
-    
-
-
-      
-        storybookjs /
-
-      storybook</a></p>
-				<p>
-      Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 88553</span>
-						<span>🔱 9759</span>
-					</div>
-				<div class="stars-today">⭐ 328 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/janhq/jan" target="_blank">
-    
-
-
-      
-        janhq /
-
-      jan</a></p>
-				<p>
-      Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 39065</span>
-						<span>🔱 2359</span>
-					</div>
-				<div class="stars-today">⭐ 679 stars this week</div>
 				</div>
 			</div>
 	

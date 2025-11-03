@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-03T09:59:10Z
+date: 2025-11-03T11:59:02Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8525</span>
+						<span>⭐ 8531</span>
 						<span>🔱 928</span>
 					</div>
 				<div class="stars-today">⭐ 6919 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25708</span>
-						<span>🔱 2341</span>
+						<span>⭐ 25712</span>
+						<span>🔱 2342</span>
 					</div>
 				<div class="stars-today">⭐ 7183 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26827</span>
+						<span>⭐ 26837</span>
 						<span>🔱 2687</span>
 					</div>
 				<div class="stars-today">⭐ 6454 stars this month</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14618</span>
-						<span>🔱 1105</span>
+						<span>⭐ 14621</span>
+						<span>🔱 1106</span>
 					</div>
 				<div class="stars-today">⭐ 3190 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48808</span>
-						<span>🔱 8160</span>
+						<span>⭐ 48816</span>
+						<span>🔱 8162</span>
 					</div>
 				<div class="stars-today">⭐ 4017 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9401</span>
+						<span>⭐ 9403</span>
 						<span>🔱 929</span>
 					</div>
 				<div class="stars-today">⭐ 4779 stars this month</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8596</span>
+						<span>⭐ 8601</span>
 						<span>🔱 2016</span>
 					</div>
 				<div class="stars-today">⭐ 2879 stars this month</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5428</span>
+						<span>⭐ 5441</span>
 						<span>🔱 333</span>
 					</div>
 				<div class="stars-today">⭐ 3907 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 54956</span>
-						<span>🔱 2430</span>
-					</div>
-				<div class="stars-today">⭐ 5961 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32324</span>
-						<span>🔱 3734</span>
+						<span>⭐ 32331</span>
+						<span>🔱 3735</span>
 					</div>
 				<div class="stars-today">⭐ 5412 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 54969</span>
+						<span>🔱 2430</span>
+					</div>
+				<div class="stars-today">⭐ 5961 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13189</span>
+						<span>🔱 1374</span>
+					</div>
+				<div class="stars-today">⭐ 2207 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14578</span>
-						<span>🔱 365</span>
+						<span>⭐ 14585</span>
+						<span>🔱 370</span>
 					</div>
 				<div class="stars-today">⭐ 9165 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
-    
-
-
-      
-        coinbase /
-
-      x402</a></p>
-				<p>
-      A payments protocol for the internet. Built on HTTP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3659</span>
-						<span>🔱 633</span>
-					</div>
-				<div class="stars-today">⭐ 1797 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,120 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57754</span>
-						<span>🔱 6411</span>
+						<span>⭐ 57758</span>
+						<span>🔱 6412</span>
 					</div>
 				<div class="stars-today">⭐ 2481 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39948</span>
-						<span>🔱 4849</span>
-					</div>
-				<div class="stars-today">⭐ 4177 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15876</span>
-						<span>🔱 1246</span>
-					</div>
-				<div class="stars-today">⭐ 2350 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
-    
-
-
-      
-        servo /
-
-      servo</a></p>
-				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33568</span>
-						<span>🔱 3328</span>
-					</div>
-				<div class="stars-today">⭐ 1947 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10079</span>
-						<span>🔱 865</span>
-					</div>
-				<div class="stars-today">⭐ 3433 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/audacity/audacity" target="_blank">
-    
-
-
-      
-        audacity /
-
-      audacity</a></p>
-				<p>
-      Audio Editor 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 15837</span>
-						<span>🔱 2464</span>
-					</div>
-				<div class="stars-today">⭐ 1612 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +316,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6340</span>
-						<span>🔱 462</span>
+						<span>⭐ 6374</span>
+						<span>🔱 468</span>
 					</div>
 				<div class="stars-today">⭐ 4277 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
     
 
 
       
-        nitrojs /
+        coinbase /
 
-      nitro</a></p>
+      x402</a></p>
 				<p>
-      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+      A payments protocol for the internet. Built on HTTP.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9619</span>
-						<span>🔱 741</span>
+						<span>⭐ 3664</span>
+						<span>🔱 633</span>
 					</div>
-				<div class="stars-today">⭐ 1854 stars this month</div>
+				<div class="stars-today">⭐ 1797 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15879</span>
+						<span>🔱 1247</span>
+					</div>
+				<div class="stars-today">⭐ 2350 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10088</span>
+						<span>🔱 866</span>
+					</div>
+				<div class="stars-today">⭐ 3433 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/servo/servo" target="_blank">
+    
+
+
+      
+        servo /
+
+      servo</a></p>
+				<p>
+      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 33571</span>
+						<span>🔱 3328</span>
+					</div>
+				<div class="stars-today">⭐ 1947 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39959</span>
+						<span>🔱 4850</span>
+					</div>
+				<div class="stars-today">⭐ 4177 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,7 +448,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62439</span>
+						<span>⭐ 62445</span>
 						<span>🔱 9217</span>
 					</div>
 				<div class="stars-today">⭐ 5973 stars this month</div>
@@ -478,24 +456,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
+				<p><a href="https://github.com/github/copilot-cli" target="_blank">
     
 
 
       
-        karpathy /
+        github /
 
-      micrograd</a></p>
+      copilot-cli</a></p>
 				<p>
-      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+      GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13605</span>
-						<span>🔱 2001</span>
+						<span>🔠 </span>
+						<span>⭐ 4670</span>
+						<span>🔱 310</span>
 					</div>
-				<div class="stars-today">⭐ 766 stars this month</div>
+				<div class="stars-today">⭐ 1893 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+    
+
+
+      
+        toeverything /
+
+      AFFiNE</a></p>
+				<p>
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 59041</span>
+						<span>🔱 4006</span>
+					</div>
+				<div class="stars-today">⭐ 3496 stars this month</div>
 				</div>
 			</div>
 	

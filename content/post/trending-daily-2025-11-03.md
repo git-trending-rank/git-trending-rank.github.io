@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-03
-date: 2025-11-03T09:59:08Z
+date: 2025-11-03T11:59:02Z
 categories:
 - daily
 keywords:
@@ -30,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5334</span>
-						<span>🔱 552</span>
+						<span>⭐ 5557</span>
+						<span>🔱 572</span>
 					</div>
 				<div class="stars-today">⭐ 1149 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Wei-Shaw/claude-relay-service" target="_blank">
-    
-
-
-      
-        Wei-Shaw /
-
-      claude-relay-service</a></p>
-				<p>
-      CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 4989</span>
-						<span>🔱 809</span>
-					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6340</span>
-						<span>🔱 462</span>
-					</div>
-				<div class="stars-today">⭐ 432 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8627</span>
-						<span>🔱 1208</span>
-					</div>
-				<div class="stars-today">⭐ 240 stars today</div>
 				</div>
 			</div>
 	
@@ -118,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7722</span>
-						<span>🔱 972</span>
+						<span>⭐ 7748</span>
+						<span>🔱 976</span>
 					</div>
 				<div class="stars-today">⭐ 173 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
     
 
 
       
-        sst /
+        HKUDS /
 
-      opencode</a></p>
+      DeepCode</a></p>
 				<p>
-      The AI coding agent built for the terminal.
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30764</span>
-						<span>🔱 2369</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8665</span>
+						<span>🔱 1210</span>
 					</div>
-				<div class="stars-today">⭐ 269 stars today</div>
+				<div class="stars-today">⭐ 240 stars today</div>
 				</div>
 			</div>
 	
@@ -162,76 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 20266</span>
-						<span>🔱 487</span>
+						<span>⭐ 20307</span>
+						<span>🔱 490</span>
 					</div>
 				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NARKOZ/hacker-scripts" target="_blank">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
     
 
 
       
-        NARKOZ /
+        sst /
 
-      hacker-scripts</a></p>
+      opencode</a></p>
 				<p>
-      Based on a true story
+      The AI coding agent built for the terminal.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 49178</span>
-						<span>🔱 6681</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30805</span>
+						<span>🔱 2370</span>
 					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
+				<div class="stars-today">⭐ 269 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moondevonyt/moon-dev-ai-agents" target="_blank">
+				<p><a href="https://github.com/get-convex/chef" target="_blank">
     
 
 
       
-        moondevonyt /
+        get-convex /
 
-      moon-dev-ai-agents</a></p>
+      chef</a></p>
 				<p>
-      autonomous ai agents for trading in python
+      The only AI app builder that knows backend
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2591</span>
-						<span>🔱 1132</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2960</span>
+						<span>🔱 558</span>
 					</div>
-				<div class="stars-today">⭐ 188 stars today</div>
+				<div class="stars-today">⭐ 263 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/suitenumerique/docs" target="_blank">
+				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
     
 
 
       
-        suitenumerique /
+        pytorch /
 
-      docs</a></p>
+      pytorch</a></p>
 				<p>
-      A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
+      Tensors and Dynamic neural networks in Python with strong GPU acceleration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14457</span>
-						<span>🔱 443</span>
+						<span>⭐ 94507</span>
+						<span>🔱 25755</span>
 					</div>
-				<div class="stars-today">⭐ 178 stars today</div>
+				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +184,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22838</span>
-						<span>🔱 2466</span>
+						<span>⭐ 22867</span>
+						<span>🔱 2468</span>
 					</div>
 				<div class="stars-today">⭐ 127 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
+				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
     
 
 
       
-        HandsOnLLM /
+        mudler /
 
-      Hands-On-Large-Language-Models</a></p>
+      LocalAI</a></p>
 				<p>
-      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 17268</span>
-						<span>🔱 4046</span>
+						<span>🔠 Go</span>
+						<span>⭐ 36436</span>
+						<span>🔱 2885</span>
 					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 21 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hmjz100/LinkSwift" target="_blank">
+				<p><a href="https://github.com/1Panel-dev/MaxKB" target="_blank">
     
 
 
       
-        hmjz100 /
+        1Panel-dev /
 
-      LinkSwift</a></p>
+      MaxKB</a></p>
 				<p>
-      一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+      🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8292</span>
-						<span>🔱 395</span>
+						<span>🔠 Python</span>
+						<span>⭐ 18921</span>
+						<span>🔱 2459</span>
 					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
+				<div class="stars-today">⭐ 106 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fastfire/deepdarkCTI" target="_blank">
+    
+
+
+      
+        fastfire /
+
+      deepdarkCTI</a></p>
+				<p>
+      Collection of Cyber Threat Intelligence sources from the deep and dark web
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 6065</span>
+						<span>🔱 1040</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📄🧠 PageIndex: Document Index for Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3117</span>
+						<span>🔱 244</span>
+					</div>
+				<div class="stars-today">⭐ 63 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 74886</span>
+						<span>🔱 10900</span>
+					</div>
+				<div class="stars-today">⭐ 253 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opentui" target="_blank">
+    
+
+
+      
+        sst /
+
+      opentui</a></p>
+				<p>
+      OpenTUI is a library for building terminal user interfaces (TUIs)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3306</span>
+						<span>🔱 122</span>
+					</div>
+				<div class="stars-today">⭐ 57 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DearVa/Everywhere" target="_blank">
+    
+
+
+      
+        DearVa /
+
+      Everywhere</a></p>
+				<p>
+      A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 1902</span>
+						<span>🔱 97</span>
+					</div>
+				<div class="stars-today">⭐ 161 stars today</div>
 				</div>
 			</div>
 	
