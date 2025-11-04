@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-04T09:59:07Z
+date: 2025-11-04T11:58:48Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
+    
+
+
+      
+        mountain-loop /
+
+      yaak</a></p>
+				<p>
+      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15006</span>
+						<span>🔱 540</span>
+					</div>
+				<div class="stars-today">⭐ 7301 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
@@ -30,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8578</span>
+						<span>⭐ 8581</span>
 						<span>🔱 933</span>
 					</div>
 				<div class="stars-today">⭐ 6943 stars this month</div>
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25771</span>
+						<span>⭐ 25777</span>
 						<span>🔱 2350</span>
 					</div>
 				<div class="stars-today">⭐ 7243 stars this month</div>
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26907</span>
-						<span>🔱 2697</span>
+						<span>⭐ 26919</span>
+						<span>🔱 2698</span>
 					</div>
 				<div class="stars-today">⭐ 6519 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14681</span>
-						<span>🔱 1114</span>
-					</div>
-				<div class="stars-today">⭐ 3254 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanoGPT</a></p>
-				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48875</span>
-						<span>🔱 8181</span>
-					</div>
-				<div class="stars-today">⭐ 4083 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,164 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9467</span>
-						<span>🔱 937</span>
+						<span>⭐ 9474</span>
+						<span>🔱 938</span>
 					</div>
 				<div class="stars-today">⭐ 4822 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
     
 
 
       
-        evershopcommerce /
+        karpathy /
 
-      evershop</a></p>
+      nanoGPT</a></p>
 				<p>
-      🛍️ Typescript E-commerce Platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8628</span>
-						<span>🔱 2017</span>
-					</div>
-				<div class="stars-today">⭐ 2910 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5602</span>
-						<span>🔱 346</span>
-					</div>
-				<div class="stars-today">⭐ 3745 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32410</span>
-						<span>🔱 3751</span>
+						<span>⭐ 48884</span>
+						<span>🔱 8182</span>
 					</div>
-				<div class="stars-today">⭐ 5463 stars this month</div>
+				<div class="stars-today">⭐ 4083 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        DrewThomasson /
 
-      ladybird</a></p>
+      ebook2audiobook</a></p>
 				<p>
-      Truly independent web browser
+      Generate audiobooks from e-books, voice cloning & 1107+ languages!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 55075</span>
-						<span>🔱 2437</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14687</span>
+						<span>🔱 1117</span>
 					</div>
-				<div class="stars-today">⭐ 6011 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13217</span>
-						<span>🔱 1377</span>
-					</div>
-				<div class="stars-today">⭐ 2230 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14697</span>
-						<span>🔱 372</span>
-					</div>
-				<div class="stars-today">⭐ 9196 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
-    
-
-
-      
-        minio /
-
-      minio</a></p>
-				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 57791</span>
-						<span>🔱 6417</span>
-					</div>
-				<div class="stars-today">⭐ 2492 stars this month</div>
+				<div class="stars-today">⭐ 3254 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +184,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6649</span>
-						<span>🔱 495</span>
+						<span>⭐ 6668</span>
+						<span>🔱 499</span>
 					</div>
 				<div class="stars-today">⭐ 4744 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
+				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
     
 
 
       
-        coinbase /
+        evershopcommerce /
 
-      x402</a></p>
+      evershop</a></p>
 				<p>
-      A payments protocol for the internet. Built on HTTP.
+      🛍️ Typescript E-commerce Platform
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3696</span>
-						<span>🔱 644</span>
+						<span>⭐ 8631</span>
+						<span>🔱 2016</span>
 					</div>
-				<div class="stars-today">⭐ 1810 stars this month</div>
+				<div class="stars-today">⭐ 2910 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32419</span>
+						<span>🔱 3751</span>
+					</div>
+				<div class="stars-today">⭐ 5463 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5609</span>
+						<span>🔱 348</span>
+					</div>
+				<div class="stars-today">⭐ 3745 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13221</span>
+						<span>🔱 1377</span>
+					</div>
+				<div class="stars-today">⭐ 2230 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/minio/minio" target="_blank">
+    
+
+
+      
+        minio /
+
+      minio</a></p>
+				<p>
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 57798</span>
+						<span>🔱 6417</span>
+					</div>
+				<div class="stars-today">⭐ 2492 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
+    
+
+
+      
+        TibixDev /
+
+      winboat</a></p>
+				<p>
+      Run Windows apps on 🐧 Linux with ✨ seamless integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14718</span>
+						<span>🔱 373</span>
+					</div>
+				<div class="stars-today">⭐ 9196 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 55082</span>
+						<span>🔱 2437</span>
+					</div>
+				<div class="stars-today">⭐ 6011 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15920</span>
-						<span>🔱 1251</span>
+						<span>⭐ 15925</span>
+						<span>🔱 1254</span>
 					</div>
 				<div class="stars-today">⭐ 2381 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3702</span>
+						<span>🔱 647</span>
+					</div>
+				<div class="stars-today">⭐ 1810 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10161</span>
+						<span>⭐ 10164</span>
 						<span>🔱 873</span>
 					</div>
 				<div class="stars-today">⭐ 3542 stars this month</div>
@@ -404,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33617</span>
-						<span>🔱 3332</span>
+						<span>⭐ 33618</span>
+						<span>🔱 3333</span>
 					</div>
 				<div class="stars-today">⭐ 1989 stars this month</div>
 				</div>
@@ -426,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40066</span>
-						<span>🔱 4851</span>
+						<span>⭐ 40076</span>
+						<span>🔱 4852</span>
 					</div>
 				<div class="stars-today">⭐ 4306 stars this month</div>
 				</div>
@@ -448,7 +470,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62563</span>
+						<span>⭐ 62570</span>
 						<span>🔱 9229</span>
 					</div>
 				<div class="stars-today">⭐ 6064 stars this month</div>
@@ -456,46 +478,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/copilot-cli" target="_blank">
+				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
     
 
 
       
-        github /
+        nitrojs /
 
-      copilot-cli</a></p>
+      nitro</a></p>
 				<p>
-      GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 4735</span>
-						<span>🔱 320</span>
-					</div>
-				<div class="stars-today">⭐ 1868 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
-    
-
-
-      
-        toeverything /
-
-      AFFiNE</a></p>
-				<p>
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 59135</span>
-						<span>🔱 4009</span>
+						<span>⭐ 9642</span>
+						<span>🔱 742</span>
 					</div>
-				<div class="stars-today">⭐ 3545 stars this month</div>
+				<div class="stars-today">⭐ 1885 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simular-ai/Agent-S" target="_blank">
+    
+
+
+      
+        simular-ai /
+
+      Agent-S</a></p>
+				<p>
+      Agent S: an open agentic framework that uses computers like a human
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7941</span>
+						<span>🔱 857</span>
+					</div>
+				<div class="stars-today">⭐ 1566 stars this month</div>
 				</div>
 			</div>
 	

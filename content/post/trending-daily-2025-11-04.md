@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-04
-date: 2025-11-04T09:59:06Z
+date: 2025-11-04T11:58:51Z
 categories:
 - daily
 keywords:
@@ -30,274 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9732</span>
-						<span>🔱 1347</span>
+						<span>⭐ 10118</span>
+						<span>🔱 1449</span>
 					</div>
-				<div class="stars-today">⭐ 1621 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
-    
-
-
-      
-        GeeeekExplorer /
-
-      nano-vllm</a></p>
-				<p>
-      Nano vLLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8046</span>
-						<span>🔱 995</span>
-					</div>
-				<div class="stars-today">⭐ 335 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8993</span>
-						<span>🔱 1238</span>
-					</div>
-				<div class="stars-today">⭐ 425 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/glow" target="_blank">
-    
-
-
-      
-        charmbracelet /
-
-      glow</a></p>
-				<p>
-      Render markdown on the CLI, with pizzazz! 💅🏻
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 20584</span>
-						<span>🔱 497</span>
-					</div>
-				<div class="stars-today">⭐ 424 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      The AI coding agent built for the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31267</span>
-						<span>🔱 2407</span>
-					</div>
-				<div class="stars-today">⭐ 540 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/get-convex/chef" target="_blank">
-    
-
-
-      
-        get-convex /
-
-      chef</a></p>
-				<p>
-      The only AI app builder that knows backend
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3170</span>
-						<span>🔱 576</span>
-					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pytorch/pytorch" target="_blank">
-    
-
-
-      
-        pytorch /
-
-      pytorch</a></p>
-				<p>
-      Tensors and Dynamic neural networks in Python with strong GPU acceleration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 94658</span>
-						<span>🔱 25766</span>
-					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
-    
-
-
-      
-        Fosowl /
-
-      agenticSeek</a></p>
-				<p>
-      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23150</span>
-						<span>🔱 2491</span>
-					</div>
-				<div class="stars-today">⭐ 462 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
-    
-
-
-      
-        mudler /
-
-      LocalAI</a></p>
-				<p>
-      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 36730</span>
-						<span>🔱 2905</span>
-					</div>
-				<div class="stars-today">⭐ 229 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1Panel-dev/MaxKB" target="_blank">
-    
-
-
-      
-        1Panel-dev /
-
-      MaxKB</a></p>
-				<p>
-      🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19052</span>
-						<span>🔱 2475</span>
-					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fastfire/deepdarkCTI" target="_blank">
-    
-
-
-      
-        fastfire /
-
-      deepdarkCTI</a></p>
-				<p>
-      Collection of Cyber Threat Intelligence sources from the deep and dark web
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 6229</span>
-						<span>🔱 1044</span>
-					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📄🧠 PageIndex: Document Index for Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3400</span>
-						<span>🔱 257</span>
-					</div>
-				<div class="stars-today">⭐ 64 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 75151</span>
-						<span>🔱 10925</span>
-					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
+				<div class="stars-today">⭐ 4523 stars today</div>
 				</div>
 			</div>
 	
@@ -316,10 +52,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3533</span>
-						<span>🔱 132</span>
+						<span>⭐ 3585</span>
+						<span>🔱 135</span>
 					</div>
-				<div class="stars-today">⭐ 51 stars today</div>
+				<div class="stars-today">⭐ 249 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
+    
+
+
+      
+        GeeeekExplorer /
+
+      nano-vllm</a></p>
+				<p>
+      Nano vLLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8077</span>
+						<span>🔱 997</span>
+					</div>
+				<div class="stars-today">⭐ 333 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
+    
+
+
+      
+        mudler /
+
+      LocalAI</a></p>
+				<p>
+      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 36762</span>
+						<span>🔱 2906</span>
+					</div>
+				<div class="stars-today">⭐ 330 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1Panel-dev/MaxKB" target="_blank">
+    
+
+
+      
+        1Panel-dev /
+
+      MaxKB</a></p>
+				<p>
+      🔥 MaxKB is an open-source platform for building enterprise-grade agents. MaxKB 是强大易用的开源企业级智能体平台。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19060</span>
+						<span>🔱 2476</span>
+					</div>
+				<div class="stars-today">⭐ 147 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/imthenachoman/How-To-Secure-A-Linux-Server" target="_blank">
+    
+
+
+      
+        imthenachoman /
+
+      How-To-Secure-A-Linux-Server</a></p>
+				<p>
+      An evolving how-to guide for securing a Linux server.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 20546</span>
+						<span>🔱 1300</span>
+					</div>
+				<div class="stars-today">⭐ 151 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
+    
+
+
+      
+        Raphire /
+
+      Win11Debloat</a></p>
+				<p>
+      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 31520</span>
+						<span>🔱 1241</span>
+					</div>
+				<div class="stars-today">⭐ 539 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +184,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 2263</span>
-						<span>🔱 117</span>
+						<span>⭐ 2286</span>
+						<span>🔱 118</span>
 					</div>
-				<div class="stars-today">⭐ 103 stars today</div>
+				<div class="stars-today">⭐ 391 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9022</span>
+						<span>🔱 1239</span>
+					</div>
+				<div class="stars-today">⭐ 373 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fosowl/agenticSeek" target="_blank">
+    
+
+
+      
+        Fosowl /
+
+      agenticSeek</a></p>
+				<p>
+      Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin993886460 (Beware of fake account)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23174</span>
+						<span>🔱 2491</span>
+					</div>
+				<div class="stars-today">⭐ 325 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/charmbracelet/glow" target="_blank">
+    
+
+
+      
+        charmbracelet /
+
+      glow</a></p>
+				<p>
+      Render markdown on the CLI, with pizzazz! 💅🏻
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20617</span>
+						<span>🔱 497</span>
+					</div>
+				<div class="stars-today">⭐ 322 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mudler/edgevpn" target="_blank">
+    
+
+
+      
+        mudler /
+
+      edgevpn</a></p>
+				<p>
+      ⛵ The immutable, decentralized, statically built p2p VPN without any central server and automatic discovery! Create decentralized introspectable tunnels over p2p with shared tokens
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1336</span>
+						<span>🔱 150</span>
+					</div>
+				<div class="stars-today">⭐ 157 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hmjz100/LinkSwift" target="_blank">
+    
+
+
+      
+        hmjz100 /
+
+      LinkSwift</a></p>
+				<p>
+      一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8386</span>
+						<span>🔱 404</span>
+					</div>
+				<div class="stars-today">⭐ 375 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      ottomator-agents</a></p>
+				<p>
+      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4631</span>
+						<span>🔱 1664</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PKUFlyingPig/cs-self-learning" target="_blank">
+    
+
+
+      
+        PKUFlyingPig /
+
+      cs-self-learning</a></p>
+				<p>
+      计算机自学指南
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 68548</span>
+						<span>🔱 7672</span>
+					</div>
+				<div class="stars-today">⭐ 66 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
+    
+
+
+      
+        cloudcommunity /
+
+      Free-Certifications</a></p>
+				<p>
+      A curated list of free courses with certifications. Also available at https://free-certifications.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 42839</span>
+						<span>🔱 2880</span>
+					</div>
+				<div class="stars-today">⭐ 455 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
+    
+
+
+      
+        HandsOnLLM /
+
+      Hands-On-Large-Language-Models</a></p>
+				<p>
+      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 17315</span>
+						<span>🔱 4054</span>
+					</div>
+				<div class="stars-today">⭐ 140 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      Federated query engine for AI - The only MCP Server you'll ever need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36883</span>
+						<span>🔱 5942</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Skyvern-AI/skyvern" target="_blank">
+    
+
+
+      
+        Skyvern-AI /
+
+      skyvern</a></p>
+				<p>
+      Automate browser-based workflows with LLMs and Computer Vision
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15547</span>
+						<span>🔱 1326</span>
+					</div>
+				<div class="stars-today">⭐ 88 stars today</div>
 				</div>
 			</div>
 	
