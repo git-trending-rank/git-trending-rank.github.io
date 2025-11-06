@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 06 Nov 2025 09:58:50 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 06 Nov 2025 11:58:51 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第45周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC45%E5%91%A8/</link>
-        <pubDate>Thu, 06 Nov 2025 09:58:50 +0000</pubDate>
+        <pubDate>Thu, 06 Nov 2025 11:58:51 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC45%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16803&lt;/span&gt;
-						&lt;span&gt;🔱 3248&lt;/span&gt;
+						&lt;span&gt;⭐ 17045&lt;/span&gt;
+						&lt;span&gt;🔱 3311&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12306 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,32 +55,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7215&lt;/span&gt;
-						&lt;span&gt;🔱 549&lt;/span&gt;
+						&lt;span&gt;⭐ 7232&lt;/span&gt;
+						&lt;span&gt;🔱 550&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3315 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/qeeqbox/social-analyzer&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        qeeqbox /
-
-      social-analyzer&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17636&lt;/span&gt;
-						&lt;span&gt;🔱 1469&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2038 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,54 +77,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9583&lt;/span&gt;
-						&lt;span&gt;🔱 1291&lt;/span&gt;
+						&lt;span&gt;⭐ 9599&lt;/span&gt;
+						&lt;span&gt;🔱 1293&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1434 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/Web-Dev-For-Beginners&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/qeeqbox/social-analyzer&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        microsoft /
+        qeeqbox /
 
-      Web-Dev-For-Beginners&lt;/a&gt;&lt;/p&gt;
+      social-analyzer&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
+      API, CLI, and Web App for analyzing and finding a person&#39;s profile in 1000 social media \ websites
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 94012&lt;/span&gt;
-						&lt;span&gt;🔱 14620&lt;/span&gt;
+						&lt;span&gt;⭐ 17654&lt;/span&gt;
+						&lt;span&gt;🔱 1471&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1503 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/get-convex/chef&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        get-convex /
-
-      chef&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The only AI app builder that knows backend
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3338&lt;/span&gt;
-						&lt;span&gt;🔱 601&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 875 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2038 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,54 +121,120 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 37393&lt;/span&gt;
-						&lt;span&gt;🔱 2949&lt;/span&gt;
+						&lt;span&gt;⭐ 37417&lt;/span&gt;
+						&lt;span&gt;🔱 2953&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1028 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/patchy631/ai-engineering-hub&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/get-convex/chef&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        patchy631 /
+        get-convex /
 
-      ai-engineering-hub&lt;/a&gt;&lt;/p&gt;
+      chef&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+      The only AI app builder that knows backend
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 20685&lt;/span&gt;
-						&lt;span&gt;🔱 3438&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3343&lt;/span&gt;
+						&lt;span&gt;🔱 602&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1176 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 875 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/helm/helm&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/Web-Dev-For-Beginners&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        helm /
+        microsoft /
 
-      helm&lt;/a&gt;&lt;/p&gt;
+      Web-Dev-For-Beginners&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The Kubernetes Package Manager
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 28895&lt;/span&gt;
-						&lt;span&gt;🔱 7384&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 94017&lt;/span&gt;
+						&lt;span&gt;🔱 14621&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 160 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1503 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/GeeeekExplorer/nano-vllm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        GeeeekExplorer /
+
+      nano-vllm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Nano vLLM
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 8350&lt;/span&gt;
+						&lt;span&gt;🔱 1019&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1079 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nocobase/nocobase&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        nocobase /
+
+      nocobase&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 18053&lt;/span&gt;
+						&lt;span&gt;🔱 2049&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 748 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sst/opentui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        sst /
+
+      opentui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      OpenTUI is a library for building terminal user interfaces (TUIs)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4541&lt;/span&gt;
+						&lt;span&gt;🔱 166&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1226 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -231,10 +253,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 75326&lt;/span&gt;
-						&lt;span&gt;🔱 10961&lt;/span&gt;
+						&lt;span&gt;⭐ 75332&lt;/span&gt;
+						&lt;span&gt;🔱 10962&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1021 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Skyvern-AI/skyvern&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Skyvern-AI /
+
+      skyvern&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Automate browser based workflows with AI
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 16594&lt;/span&gt;
+						&lt;span&gt;🔱 1410&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1244 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/charmbracelet/glow&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        charmbracelet /
+
+      glow&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Render markdown on the CLI, with pizzazz! 💅🏻
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 20858&lt;/span&gt;
+						&lt;span&gt;🔱 501&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1152 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/block/goose&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        block /
+
+      goose&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 21887&lt;/span&gt;
+						&lt;span&gt;🔱 1965&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 908 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,76 +341,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 14621&lt;/span&gt;
-						&lt;span&gt;🔱 449&lt;/span&gt;
+						&lt;span&gt;⭐ 14627&lt;/span&gt;
+						&lt;span&gt;🔱 450&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 611 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Wei-Shaw/claude-relay-service&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Wei-Shaw /
-
-      claude-relay-service&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5113&lt;/span&gt;
-						&lt;span&gt;🔱 827&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 574 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/chaitin/PandaWiki&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        chaitin /
-
-      PandaWiki&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 7652&lt;/span&gt;
-						&lt;span&gt;🔱 673&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 773 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Project-MONAI/MONAI&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Project-MONAI /
-
-      MONAI&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI Toolkit for Healthcare Imaging
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7385&lt;/span&gt;
-						&lt;span&gt;🔱 1328&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 368 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
