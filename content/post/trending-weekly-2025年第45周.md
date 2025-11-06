@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第45周
-date: 2025-11-06T09:58:50Z
+date: 2025-11-06T11:58:51Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16803</span>
-						<span>🔱 3248</span>
+						<span>⭐ 17045</span>
+						<span>🔱 3311</span>
 					</div>
 				<div class="stars-today">⭐ 12306 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7215</span>
-						<span>🔱 549</span>
+						<span>⭐ 7232</span>
+						<span>🔱 550</span>
 					</div>
 				<div class="stars-today">⭐ 3315 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
-    
-
-
-      
-        qeeqbox /
-
-      social-analyzer</a></p>
-				<p>
-      API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 17636</span>
-						<span>🔱 1469</span>
-					</div>
-				<div class="stars-today">⭐ 2038 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9583</span>
-						<span>🔱 1291</span>
+						<span>⭐ 9599</span>
+						<span>🔱 1293</span>
 					</div>
 				<div class="stars-today">⭐ 1434 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
+				<p><a href="https://github.com/qeeqbox/social-analyzer" target="_blank">
     
 
 
       
-        microsoft /
+        qeeqbox /
 
-      Web-Dev-For-Beginners</a></p>
+      social-analyzer</a></p>
 				<p>
-      24 Lessons, 12 Weeks, Get Started as a Web Developer
+      API, CLI, and Web App for analyzing and finding a person's profile in 1000 social media \ websites
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 94012</span>
-						<span>🔱 14620</span>
+						<span>⭐ 17654</span>
+						<span>🔱 1471</span>
 					</div>
-				<div class="stars-today">⭐ 1503 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/get-convex/chef" target="_blank">
-    
-
-
-      
-        get-convex /
-
-      chef</a></p>
-				<p>
-      The only AI app builder that knows backend
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3338</span>
-						<span>🔱 601</span>
-					</div>
-				<div class="stars-today">⭐ 875 stars this week</div>
+				<div class="stars-today">⭐ 2038 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 37393</span>
-						<span>🔱 2949</span>
+						<span>⭐ 37417</span>
+						<span>🔱 2953</span>
 					</div>
 				<div class="stars-today">⭐ 1028 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
+				<p><a href="https://github.com/get-convex/chef" target="_blank">
     
 
 
       
-        patchy631 /
+        get-convex /
 
-      ai-engineering-hub</a></p>
+      chef</a></p>
 				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+      The only AI app builder that knows backend
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 20685</span>
-						<span>🔱 3438</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3343</span>
+						<span>🔱 602</span>
 					</div>
-				<div class="stars-today">⭐ 1176 stars this week</div>
+				<div class="stars-today">⭐ 875 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/helm/helm" target="_blank">
+				<p><a href="https://github.com/microsoft/Web-Dev-For-Beginners" target="_blank">
     
 
 
       
-        helm /
+        microsoft /
 
-      helm</a></p>
+      Web-Dev-For-Beginners</a></p>
 				<p>
-      The Kubernetes Package Manager
+      24 Lessons, 12 Weeks, Get Started as a Web Developer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 28895</span>
-						<span>🔱 7384</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 94017</span>
+						<span>🔱 14621</span>
 					</div>
-				<div class="stars-today">⭐ 160 stars this week</div>
+				<div class="stars-today">⭐ 1503 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
+    
+
+
+      
+        GeeeekExplorer /
+
+      nano-vllm</a></p>
+				<p>
+      Nano vLLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8350</span>
+						<span>🔱 1019</span>
+					</div>
+				<div class="stars-today">⭐ 1079 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
+    
+
+
+      
+        nocobase /
+
+      nocobase</a></p>
+				<p>
+      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18053</span>
+						<span>🔱 2049</span>
+					</div>
+				<div class="stars-today">⭐ 748 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opentui" target="_blank">
+    
+
+
+      
+        sst /
+
+      opentui</a></p>
+				<p>
+      OpenTUI is a library for building terminal user interfaces (TUIs)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4541</span>
+						<span>🔱 166</span>
+					</div>
+				<div class="stars-today">⭐ 1226 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 75326</span>
-						<span>🔱 10961</span>
+						<span>⭐ 75332</span>
+						<span>🔱 10962</span>
 					</div>
 				<div class="stars-today">⭐ 1021 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Skyvern-AI/skyvern" target="_blank">
+    
+
+
+      
+        Skyvern-AI /
+
+      skyvern</a></p>
+				<p>
+      Automate browser based workflows with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16594</span>
+						<span>🔱 1410</span>
+					</div>
+				<div class="stars-today">⭐ 1244 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/charmbracelet/glow" target="_blank">
+    
+
+
+      
+        charmbracelet /
+
+      glow</a></p>
+				<p>
+      Render markdown on the CLI, with pizzazz! 💅🏻
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20858</span>
+						<span>🔱 501</span>
+					</div>
+				<div class="stars-today">⭐ 1152 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/goose" target="_blank">
+    
+
+
+      
+        block /
+
+      goose</a></p>
+				<p>
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21887</span>
+						<span>🔱 1965</span>
+					</div>
+				<div class="stars-today">⭐ 908 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,76 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14621</span>
-						<span>🔱 449</span>
+						<span>⭐ 14627</span>
+						<span>🔱 450</span>
 					</div>
 				<div class="stars-today">⭐ 611 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Wei-Shaw/claude-relay-service" target="_blank">
-    
-
-
-      
-        Wei-Shaw /
-
-      claude-relay-service</a></p>
-				<p>
-      CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 5113</span>
-						<span>🔱 827</span>
-					</div>
-				<div class="stars-today">⭐ 574 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chaitin/PandaWiki" target="_blank">
-    
-
-
-      
-        chaitin /
-
-      PandaWiki</a></p>
-				<p>
-      PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7652</span>
-						<span>🔱 673</span>
-					</div>
-				<div class="stars-today">⭐ 773 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Project-MONAI/MONAI" target="_blank">
-    
-
-
-      
-        Project-MONAI /
-
-      MONAI</a></p>
-				<p>
-      AI Toolkit for Healthcare Imaging
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7385</span>
-						<span>🔱 1328</span>
-					</div>
-				<div class="stars-today">⭐ 368 stars this week</div>
 				</div>
 			</div>
 	

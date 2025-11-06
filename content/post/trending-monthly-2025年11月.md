@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-06T09:58:50Z
+date: 2025-11-06T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15176</span>
+						<span>⭐ 15187</span>
 						<span>🔱 550</span>
 					</div>
 				<div class="stars-today">⭐ 7446 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25901</span>
+						<span>⭐ 25908</span>
 						<span>🔱 2362</span>
 					</div>
 				<div class="stars-today">⭐ 7363 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-cookbooks</a></p>
-				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27066</span>
-						<span>🔱 2715</span>
-					</div>
-				<div class="stars-today">⭐ 6577 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7215</span>
-						<span>🔱 549</span>
+						<span>⭐ 7232</span>
+						<span>🔱 550</span>
 					</div>
 				<div class="stars-today">⭐ 5364 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 27077</span>
+						<span>🔱 2716</span>
+					</div>
+				<div class="stars-today">⭐ 6577 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9598</span>
+						<span>⭐ 9602</span>
 						<span>🔱 951</span>
 					</div>
 				<div class="stars-today">⭐ 4951 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49021</span>
-						<span>🔱 8209</span>
+						<span>⭐ 49027</span>
+						<span>🔱 8213</span>
 					</div>
 				<div class="stars-today">⭐ 4229 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14867</span>
-						<span>🔱 1140</span>
+						<span>⭐ 14870</span>
+						<span>🔱 1143</span>
 					</div>
 				<div class="stars-today">⭐ 3362 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32592</span>
-						<span>🔱 3771</span>
+						<span>⭐ 32602</span>
+						<span>🔱 3774</span>
 					</div>
 				<div class="stars-today">⭐ 5609 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8688</span>
+						<span>⭐ 8690</span>
 						<span>🔱 2021</span>
 					</div>
 				<div class="stars-today">⭐ 2967 stars this month</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5848</span>
+						<span>⭐ 5856</span>
 						<span>🔱 365</span>
 					</div>
 				<div class="stars-today">⭐ 3889 stars this month</div>
@@ -236,24 +236,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+				<p><a href="https://github.com/google-gemini/computer-use-preview" target="_blank">
     
 
 
       
-        Stremio /
+        google-gemini /
 
-      stremio-web</a></p>
-				<p>
-      Stremio - Freedom to Stream
-    </p>
+      computer-use-preview</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8642</span>
-						<span>🔱 936</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1694</span>
+						<span>🔱 216</span>
 					</div>
-				<div class="stars-today">⭐ 6724 stars this month</div>
+				<div class="stars-today">⭐ 1696 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57877</span>
-						<span>🔱 6423</span>
+						<span>⭐ 57884</span>
+						<span>🔱 6424</span>
 					</div>
 				<div class="stars-today">⭐ 2562 stars this month</div>
 				</div>
@@ -294,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3779</span>
-						<span>🔱 669</span>
+						<span>⭐ 3785</span>
+						<span>🔱 670</span>
 					</div>
 				<div class="stars-today">⭐ 1839 stars this month</div>
 				</div>
@@ -316,76 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16008</span>
-						<span>🔱 1268</span>
+						<span>⭐ 16012</span>
+						<span>🔱 1270</span>
 					</div>
 				<div class="stars-today">⭐ 2395 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        yeongpin /
+        LadybirdBrowser /
 
-      cursor-free-vip</a></p>
+      ladybird</a></p>
 				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 55222</span>
+						<span>🔱 2450</span>
+					</div>
+				<div class="stars-today">⭐ 6137 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40210</span>
-						<span>🔱 4860</span>
+						<span>⭐ 62780</span>
+						<span>🔱 9255</span>
 					</div>
-				<div class="stars-today">⭐ 4480 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13286</span>
-						<span>🔱 1383</span>
-					</div>
-				<div class="stars-today">⭐ 2294 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TibixDev/winboat" target="_blank">
-    
-
-
-      
-        TibixDev /
-
-      winboat</a></p>
-				<p>
-      Run Windows apps on 🐧 Linux with ✨ seamless integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14978</span>
-						<span>🔱 377</span>
-					</div>
-				<div class="stars-today">⭐ 9053 stars this month</div>
+				<div class="stars-today">⭐ 6257 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33690</span>
+						<span>⭐ 33698</span>
 						<span>🔱 3338</span>
 					</div>
 				<div class="stars-today">⭐ 2057 stars this month</div>
@@ -426,32 +402,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10289</span>
-						<span>🔱 885</span>
+						<span>⭐ 10294</span>
+						<span>🔱 886</span>
 					</div>
 				<div class="stars-today">⭐ 3664 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        yeongpin /
 
-      ladybird</a></p>
+      cursor-free-vip</a></p>
 				<p>
-      Truly independent web browser
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 55215</span>
-						<span>🔱 2449</span>
+						<span>🔠 Python</span>
+						<span>⭐ 40218</span>
+						<span>🔱 4862</span>
 					</div>
-				<div class="stars-today">⭐ 6137 stars this month</div>
+				<div class="stars-today">⭐ 4480 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13292</span>
+						<span>🔱 1385</span>
+					</div>
+				<div class="stars-today">⭐ 2294 stars this month</div>
 				</div>
 			</div>
 	

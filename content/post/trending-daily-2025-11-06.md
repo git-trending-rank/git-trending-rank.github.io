@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-06
-date: 2025-11-06T09:58:50Z
+date: 2025-11-06T11:58:51Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16803</span>
-						<span>🔱 3248</span>
+						<span>⭐ 17045</span>
+						<span>🔱 3311</span>
 					</div>
-				<div class="stars-today">⭐ 3843 stars today</div>
+				<div class="stars-today">⭐ 3224 stars today</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16543</span>
-						<span>🔱 1404</span>
+						<span>⭐ 16594</span>
+						<span>🔱 1410</span>
 					</div>
-				<div class="stars-today">⭐ 207 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9583</span>
-						<span>🔱 1291</span>
-					</div>
-				<div class="stars-today">⭐ 264 stars today</div>
+				<div class="stars-today">⭐ 878 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18024</span>
-						<span>🔱 2047</span>
+						<span>⭐ 18053</span>
+						<span>🔱 2049</span>
 					</div>
-				<div class="stars-today">⭐ 223 stars today</div>
+				<div class="stars-today">⭐ 379 stars today</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 37393</span>
-						<span>🔱 2949</span>
+						<span>⭐ 37417</span>
+						<span>🔱 2953</span>
 					</div>
-				<div class="stars-today">⭐ 335 stars today</div>
+				<div class="stars-today">⭐ 351 stars today</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4526</span>
-						<span>🔱 164</span>
+						<span>⭐ 4541</span>
+						<span>🔱 166</span>
 					</div>
-				<div class="stars-today">⭐ 790 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/prometheus/alertmanager" target="_blank">
-    
-
-
-      
-        prometheus /
-
-      alertmanager</a></p>
-				<p>
-      Prometheus Alertmanager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7399</span>
-						<span>🔱 2289</span>
-					</div>
-				<div class="stars-today">⭐ 4 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GopeedLab/gopeed" target="_blank">
-    
-
-
-      
-        GopeedLab /
-
-      gopeed</a></p>
-				<p>
-      A modern download manager that supports all platforms. Built with Golang and Flutter.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 21312</span>
-						<span>🔱 1477</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
+				<div class="stars-today">⭐ 204 stars today</div>
 				</div>
 			</div>
 	
@@ -206,164 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21953</span>
-						<span>🔱 1392</span>
+						<span>⭐ 22002</span>
+						<span>🔱 1395</span>
 					</div>
-				<div class="stars-today">⭐ 542 stars today</div>
+				<div class="stars-today">⭐ 936 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
+				<p><a href="https://github.com/modelcontextprotocol/go-sdk" target="_blank">
     
 
 
       
-        Raphire /
+        modelcontextprotocol /
 
-      Win11Debloat</a></p>
+      go-sdk</a></p>
 				<p>
-      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+      The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 32300</span>
-						<span>🔱 1263</span>
+						<span>🔠 Go</span>
+						<span>⭐ 2716</span>
+						<span>🔱 249</span>
 					</div>
-				<div class="stars-today">⭐ 472 stars today</div>
+				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio" target="_blank">
+				<p><a href="https://github.com/ad-on-is/rachoon" target="_blank">
     
 
 
       
-        GoogleCloudPlatform /
+        ad-on-is /
 
-      vertex-ai-creative-studio</a></p>
+      rachoon</a></p>
 				<p>
-      GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 655</span>
-						<span>🔱 212</span>
-					</div>
-				<div class="stars-today">⭐ 9 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3718</span>
-						<span>🔱 270</span>
-					</div>
-				<div class="stars-today">⭐ 82 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/ottomator-agents" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      ottomator-agents</a></p>
-				<p>
-      All the open source AI Agents hosted on the oTTomator Live Agent Studio platform!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4762</span>
-						<span>🔱 1689</span>
-					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NickvisionApps/Parabolic" target="_blank">
-    
-
-
-      
-        NickvisionApps /
-
-      Parabolic</a></p>
-				<p>
-      Download web video and audio
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4295</span>
-						<span>🔱 199</span>
-					</div>
-				<div class="stars-today">⭐ 19 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aandrew-me/ytDownloader" target="_blank">
-    
-
-
-      
-        aandrew-me /
-
-      ytDownloader</a></p>
-				<p>
-      Desktop App for downloading Videos and Audios from hundreds of sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6117</span>
-						<span>🔱 495</span>
-					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      The AI coding agent built for the terminal.
+      🦝 Rachoon — A self-hostable way to handle invoices
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31831</span>
-						<span>🔱 2464</span>
+						<span>⭐ 292</span>
+						<span>🔱 14</span>
 					</div>
-				<div class="stars-today">⭐ 186 stars today</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KotatsuApp/Kotatsu" target="_blank">
+    
+
+
+      
+        KotatsuApp /
+
+      Kotatsu</a></p>
+				<p>
+      Manga reader for Android
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 7177</span>
+						<span>🔱 366</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/ggml" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      ggml</a></p>
+				<p>
+      Tensor library for machine learning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 13386</span>
+						<span>🔱 1377</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FFmpeg/asm-lessons" target="_blank">
+    
+
+
+      
+        FFmpeg /
+
+      asm-lessons</a></p>
+				<p>
+      FFMPEG Assembly Language Lessons
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 9670</span>
+						<span>🔱 288</span>
+					</div>
+				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
 			</div>
 	
@@ -382,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61549</span>
-						<span>🔱 4311</span>
+						<span>⭐ 61608</span>
+						<span>🔱 4315</span>
 					</div>
-				<div class="stars-today">⭐ 60 stars today</div>
+				<div class="stars-today">⭐ 467 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+				<p><a href="https://github.com/PKUFlyingPig/cs-self-learning" target="_blank">
     
 
 
       
-        jwasham /
+        PKUFlyingPig /
 
-      coding-interview-university</a></p>
+      cs-self-learning</a></p>
 				<p>
-      A complete computer science study plan to become a software engineer.
+      计算机自学指南
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 332586</span>
-						<span>🔱 81134</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 68814</span>
+						<span>🔱 7690</span>
 					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
+				<div class="stars-today">⭐ 167 stars today</div>
 				</div>
 			</div>
 	
