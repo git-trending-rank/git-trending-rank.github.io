@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-07T11:58:50Z
+date: 2025-11-07T13:58:38Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15261</span>
+						<span>⭐ 15265</span>
 						<span>🔱 552</span>
 					</div>
 				<div class="stars-today">⭐ 7529 stars this month</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25975</span>
+						<span>⭐ 25976</span>
 						<span>🔱 2368</span>
 					</div>
 				<div class="stars-today">⭐ 7415 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7438</span>
-						<span>🔱 568</span>
+						<span>⭐ 7454</span>
+						<span>🔱 571</span>
 					</div>
 				<div class="stars-today">⭐ 5607 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27155</span>
-						<span>🔱 2722</span>
+						<span>⭐ 27160</span>
+						<span>🔱 2723</span>
 					</div>
 				<div class="stars-today">⭐ 6586 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9662</span>
-						<span>🔱 955</span>
+						<span>⭐ 9666</span>
+						<span>🔱 956</span>
 					</div>
 				<div class="stars-today">⭐ 4993 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49089</span>
-						<span>🔱 8225</span>
+						<span>⭐ 49096</span>
+						<span>🔱 8226</span>
 					</div>
 				<div class="stars-today">⭐ 4279 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14940</span>
+						<span>⭐ 14942</span>
 						<span>🔱 1150</span>
 					</div>
 				<div class="stars-today">⭐ 3415 stars this month</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32686</span>
+						<span>⭐ 32688</span>
 						<span>🔱 3793</span>
 					</div>
 				<div class="stars-today">⭐ 5692 stars this month</div>
@@ -206,52 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8723</span>
+						<span>⭐ 8725</span>
 						<span>🔱 2023</span>
 					</div>
 				<div class="stars-today">⭐ 2995 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5925</span>
-						<span>🔱 372</span>
-					</div>
-				<div class="stars-today">⭐ 3911 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/computer-use-preview" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      computer-use-preview</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1721</span>
-						<span>🔱 216</span>
-					</div>
-				<div class="stars-today">⭐ 1700 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,54 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57924</span>
-						<span>🔱 6427</span>
+						<span>⭐ 57926</span>
+						<span>🔱 6428</span>
 					</div>
 				<div class="stars-today">⭐ 2597 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
     
 
 
       
-        coinbase /
+        cjpais /
 
-      x402</a></p>
+      Handy</a></p>
 				<p>
-      A payments protocol for the internet. Built on HTTP.
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3821</span>
-						<span>🔱 678</span>
+						<span>⭐ 5940</span>
+						<span>🔱 373</span>
 					</div>
-				<div class="stars-today">⭐ 1860 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16065</span>
-						<span>🔱 1275</span>
-					</div>
-				<div class="stars-today">⭐ 2413 stars this month</div>
+				<div class="stars-today">⭐ 3911 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 55276</span>
-						<span>🔱 2451</span>
+						<span>⭐ 55279</span>
+						<span>🔱 2452</span>
 					</div>
 				<div class="stars-today">⭐ 6148 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        QwenLM /
 
-      PaddleOCR</a></p>
+      Qwen3-VL</a></p>
 				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 62927</span>
-						<span>🔱 9267</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16070</span>
+						<span>🔱 1275</span>
 					</div>
-				<div class="stars-today">⭐ 6305 stars this month</div>
+				<div class="stars-today">⭐ 2413 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33746</span>
+						<span>⭐ 33750</span>
 						<span>🔱 3341</span>
 					</div>
 				<div class="stars-today">⭐ 2102 stars this month</div>
@@ -402,10 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10367</span>
+						<span>⭐ 10370</span>
 						<span>🔱 894</span>
 					</div>
 				<div class="stars-today">⭐ 3697 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 62938</span>
+						<span>🔱 9267</span>
+					</div>
+				<div class="stars-today">⭐ 6305 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coinbase/x402" target="_blank">
+    
+
+
+      
+        coinbase /
+
+      x402</a></p>
+				<p>
+      A payments protocol for the internet. Built on HTTP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3831</span>
+						<span>🔱 679</span>
+					</div>
+				<div class="stars-today">⭐ 1860 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40296</span>
+						<span>⭐ 40304</span>
 						<span>🔱 4872</span>
 					</div>
 				<div class="stars-today">⭐ 4527 stars this month</div>
@@ -446,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13348</span>
+						<span>⭐ 13354</span>
 						<span>🔱 1390</span>
 					</div>
 				<div class="stars-today">⭐ 2332 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nitrojs/nitro" target="_blank">
+    
+
+
+      
+        nitrojs /
+
+      nitro</a></p>
+				<p>
+      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9696</span>
+						<span>🔱 746</span>
+					</div>
+				<div class="stars-today">⭐ 1948 stars this month</div>
 				</div>
 			</div>
 	

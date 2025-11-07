@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-07
-date: 2025-11-07T11:58:50Z
+date: 2025-11-07T13:58:39Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/prometheus/alertmanager" target="_blank">
+    
+
+
+      
+        prometheus /
+
+      alertmanager</a></p>
+				<p>
+      Prometheus Alertmanager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 7445</span>
+						<span>🔱 2296</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
@@ -30,98 +52,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20569</span>
-						<span>🔱 4011</span>
+						<span>⭐ 20835</span>
+						<span>🔱 4060</span>
 					</div>
 				<div class="stars-today">⭐ 3552 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Skyvern-AI/skyvern" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        Skyvern-AI /
+        simstudioai /
 
-      skyvern</a></p>
+      sim</a></p>
 				<p>
-      Automate browser based workflows with AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16895</span>
-						<span>🔱 1428</span>
-					</div>
-				<div class="stars-today">⭐ 316 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
-    
-
-
-      
-        nocobase /
-
-      nocobase</a></p>
-				<p>
-      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+      Open-source platform to build and deploy AI agent workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18674</span>
-						<span>🔱 2103</span>
+						<span>⭐ 17553</span>
+						<span>🔱 2334</span>
 					</div>
-				<div class="stars-today">⭐ 627 stars today</div>
+				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
+				<p><a href="https://github.com/lima-vm/lima" target="_blank">
     
 
 
       
-        mudler /
+        lima-vm /
 
-      LocalAI</a></p>
+      lima</a></p>
 				<p>
-      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+      Linux virtual machines, with a focus on running containers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 37742</span>
-						<span>🔱 2976</span>
+						<span>⭐ 18362</span>
+						<span>🔱 722</span>
 					</div>
-				<div class="stars-today">⭐ 331 stars today</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sst/opentui" target="_blank">
+				<p><a href="https://github.com/awslabs/mcp" target="_blank">
     
 
 
       
-        sst /
+        awslabs /
 
-      opentui</a></p>
+      mcp</a></p>
 				<p>
-      OpenTUI is a library for building terminal user interfaces (TUIs)
+      AWS MCP Servers — helping you get the most out of AWS, wherever you use MCP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6966</span>
+						<span>🔱 1035</span>
+					</div>
+				<div class="stars-today">⭐ 14 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      ✨ Open-source AI hackers for your apps 👨🏻‍💻
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3043</span>
+						<span>🔱 397</span>
+					</div>
+				<div class="stars-today">⭐ 378 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/blakeblackshear/frigate" target="_blank">
+    
+
+
+      
+        blakeblackshear /
+
+      frigate</a></p>
+				<p>
+      NVR with realtime local object detection for IP cameras
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4719</span>
-						<span>🔱 174</span>
+						<span>⭐ 26781</span>
+						<span>🔱 2479</span>
 					</div>
-				<div class="stars-today">⭐ 183 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
@@ -140,98 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22540</span>
-						<span>🔱 1437</span>
+						<span>⭐ 22573</span>
+						<span>🔱 1439</span>
 					</div>
 				<div class="stars-today">⭐ 552 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/go-sdk" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      go-sdk</a></p>
-				<p>
-      The official Go SDK for Model Context Protocol servers and clients. Maintained in collaboration with Google.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2849</span>
-						<span>🔱 257</span>
-					</div>
-				<div class="stars-today">⭐ 143 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ad-on-is/rachoon" target="_blank">
-    
-
-
-      
-        ad-on-is /
-
-      rachoon</a></p>
-				<p>
-      🦝 Rachoon — A self-hostable way to handle invoices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 551</span>
-						<span>🔱 33</span>
-					</div>
-				<div class="stars-today">⭐ 267 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KotatsuApp/Kotatsu" target="_blank">
-    
-
-
-      
-        KotatsuApp /
-
-      Kotatsu</a></p>
-				<p>
-      Manga reader for Android
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 7335</span>
-						<span>🔱 385</span>
-					</div>
-				<div class="stars-today">⭐ 167 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ggml-org/ggml" target="_blank">
-    
-
-
-      
-        ggml-org /
-
-      ggml</a></p>
-				<p>
-      Tensor library for machine learning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 13506</span>
-						<span>🔱 1385</span>
-					</div>
-				<div class="stars-today">⭐ 122 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +206,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9951</span>
-						<span>🔱 300</span>
+						<span>⭐ 9974</span>
+						<span>🔱 301</span>
 					</div>
 				<div class="stars-today">⭐ 294 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/localstack/localstack" target="_blank">
+				<p><a href="https://github.com/ad-on-is/rachoon" target="_blank">
     
 
 
       
-        localstack /
+        ad-on-is /
 
-      localstack</a></p>
+      rachoon</a></p>
 				<p>
-      💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
+      🦝 Rachoon — A self-hostable way to handle invoices
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 62293</span>
-						<span>🔱 4360</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 559</span>
+						<span>🔱 34</span>
 					</div>
-				<div class="stars-today">⭐ 692 stars today</div>
+				<div class="stars-today">⭐ 267 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PKUFlyingPig/cs-self-learning" target="_blank">
+				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
     
 
 
       
-        PKUFlyingPig /
+        TheAlgorithms /
 
-      cs-self-learning</a></p>
+      Python</a></p>
 				<p>
-      计算机自学指南
+      All Algorithms implemented in Python
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 69077</span>
-						<span>🔱 7703</span>
+						<span>🔠 Python</span>
+						<span>⭐ 212626</span>
+						<span>🔱 49179</span>
 					</div>
-				<div class="stars-today">⭐ 270 stars today</div>
+				<div class="stars-today">⭐ 115 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 332705</span>
+						<span>🔱 81153</span>
+					</div>
+				<div class="stars-today">⭐ 101 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 75368</span>
+						<span>🔱 9916</span>
+					</div>
+				<div class="stars-today">⭐ 315 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      vertex-ai-creative-studio</a></p>
+				<p>
+      GenMedia Creative Studio is a Vertex AI generative media user experience highlighting the use of Imagen, Veo, Gemini 🍌, Gemini TTS, Chirp 3, Lyria and other generative media APIs on Google Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 679</span>
+						<span>🔱 219</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GopeedLab/gopeed" target="_blank">
+    
+
+
+      
+        GopeedLab /
+
+      gopeed</a></p>
+				<p>
+      A modern download manager that supports all platforms. Built with Golang and Flutter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 21394</span>
+						<span>🔱 1482</span>
+					</div>
+				<div class="stars-today">⭐ 63 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Skyvern-AI/skyvern" target="_blank">
+    
+
+
+      
+        Skyvern-AI /
+
+      skyvern</a></p>
+				<p>
+      Automate browser based workflows with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16926</span>
+						<span>🔱 1429</span>
+					</div>
+				<div class="stars-today">⭐ 316 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/antiwork/gumroad" target="_blank">
+    
+
+
+      
+        antiwork /
+
+      gumroad</a></p>
+				<p>
+      Sell stuff and see what sticks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 7386</span>
+						<span>🔱 1397</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coder/code-server" target="_blank">
+    
+
+
+      
+        coder /
+
+      code-server</a></p>
+				<p>
+      VS Code in the browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 74571</span>
+						<span>🔱 6328</span>
+					</div>
+				<div class="stars-today">⭐ 22 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remix-run/react-router" target="_blank">
+    
+
+
+      
+        remix-run /
+
+      react-router</a></p>
+				<p>
+      Declarative routing for React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 55839</span>
+						<span>🔱 10760</span>
+					</div>
+				<div class="stars-today">⭐ 8 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dbeaver/dbeaver" target="_blank">
+    
+
+
+      
+        dbeaver /
+
+      dbeaver</a></p>
+				<p>
+      Free universal database tool and SQL client
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 46133</span>
+						<span>🔱 3898</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars today</div>
 				</div>
 			</div>
 	
