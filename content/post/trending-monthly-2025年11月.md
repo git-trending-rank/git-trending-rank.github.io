@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-08T11:58:41Z
+date: 2025-11-08T13:59:00Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15315</span>
+						<span>⭐ 15317</span>
 						<span>🔱 554</span>
 					</div>
 				<div class="stars-today">⭐ 7599 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26009</span>
-						<span>🔱 2375</span>
+						<span>⭐ 26014</span>
+						<span>🔱 2376</span>
 					</div>
 				<div class="stars-today">⭐ 7463 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7559</span>
-						<span>🔱 576</span>
+						<span>⭐ 7568</span>
+						<span>🔱 581</span>
 					</div>
 				<div class="stars-today">⭐ 5819 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
+    
+
+
+      
+        longbridge /
+
+      gpui-component</a></p>
+				<p>
+      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7264</span>
+						<span>🔱 286</span>
+					</div>
+				<div class="stars-today">⭐ 3536 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27211</span>
+						<span>⭐ 27217</span>
 						<span>🔱 2729</span>
 					</div>
 				<div class="stars-today">⭐ 6589 stars this month</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9719</span>
-						<span>🔱 958</span>
+						<span>⭐ 9728</span>
+						<span>🔱 960</span>
 					</div>
 				<div class="stars-today">⭐ 5032 stars this month</div>
 				</div>
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49140</span>
+						<span>⭐ 49147</span>
 						<span>🔱 8231</span>
 					</div>
 				<div class="stars-today">⭐ 4326 stars this month</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14979</span>
-						<span>🔱 1154</span>
+						<span>⭐ 14983</span>
+						<span>🔱 1155</span>
 					</div>
 				<div class="stars-today">⭐ 3478 stars this month</div>
 				</div>
@@ -184,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32726</span>
-						<span>🔱 3797</span>
+						<span>⭐ 32732</span>
+						<span>🔱 3798</span>
 					</div>
 				<div class="stars-today">⭐ 5740 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/evershopcommerce/evershop" target="_blank">
-    
-
-
-      
-        evershopcommerce /
-
-      evershop</a></p>
-				<p>
-      🛍️ Typescript E-commerce Platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8744</span>
-						<span>🔱 2022</span>
-					</div>
-				<div class="stars-today">⭐ 3026 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 57953</span>
+						<span>⭐ 57957</span>
 						<span>🔱 6428</span>
 					</div>
 				<div class="stars-today">⭐ 2612 stars this month</div>
@@ -250,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6012</span>
-						<span>🔱 379</span>
+						<span>⭐ 6025</span>
+						<span>🔱 380</span>
 					</div>
 				<div class="stars-today">⭐ 3808 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 55319</span>
-						<span>🔱 2455</span>
-					</div>
-				<div class="stars-today">⭐ 6101 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL</a></p>
-				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16101</span>
-						<span>🔱 1279</span>
-					</div>
-				<div class="stars-today">⭐ 2446 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33770</span>
+						<span>⭐ 33773</span>
 						<span>🔱 3341</span>
 					</div>
 				<div class="stars-today">⭐ 2146 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10420</span>
-						<span>🔱 901</span>
-					</div>
-				<div class="stars-today">⭐ 3758 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63019</span>
+						<span>⭐ 63028</span>
 						<span>🔱 9273</span>
 					</div>
 				<div class="stars-today">⭐ 6413 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 55321</span>
+						<span>🔱 2455</span>
+					</div>
+				<div class="stars-today">⭐ 6101 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10424</span>
+						<span>🔱 901</span>
+					</div>
+				<div class="stars-today">⭐ 3758 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3858</span>
-						<span>🔱 691</span>
+						<span>⭐ 3861</span>
+						<span>🔱 693</span>
 					</div>
 				<div class="stars-today">⭐ 1889 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen3-VL</a></p>
+				<p>
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16106</span>
+						<span>🔱 1279</span>
+					</div>
+				<div class="stars-today">⭐ 2446 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40347</span>
+						<span>⭐ 40350</span>
 						<span>🔱 4875</span>
 					</div>
 				<div class="stars-today">⭐ 4597 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13383</span>
-						<span>🔱 1392</span>
-					</div>
-				<div class="stars-today">⭐ 2320 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,10 +426,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9724</span>
+						<span>⭐ 9725</span>
 						<span>🔱 748</span>
 					</div>
 				<div class="stars-today">⭐ 1948 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/micrograd" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      micrograd</a></p>
+				<p>
+      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13652</span>
+						<span>🔱 2013</span>
+					</div>
+				<div class="stars-today">⭐ 802 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13386</span>
+						<span>🔱 1392</span>
+					</div>
+				<div class="stars-today">⭐ 2320 stars this month</div>
 				</div>
 			</div>
 	
