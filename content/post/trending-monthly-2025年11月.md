@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-09T11:58:48Z
+date: 2025-11-09T13:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15378</span>
+						<span>⭐ 15380</span>
 						<span>🔱 557</span>
 					</div>
 				<div class="stars-today">⭐ 7645 stars this month</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26050</span>
-						<span>🔱 2378</span>
+						<span>⭐ 26053</span>
+						<span>🔱 2379</span>
 					</div>
 				<div class="stars-today">⭐ 7486 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7642</span>
-						<span>🔱 585</span>
+						<span>⭐ 7653</span>
+						<span>🔱 586</span>
 					</div>
 				<div class="stars-today">⭐ 5927 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
-    
-
-
-      
-        longbridge /
-
-      gpui-component</a></p>
-				<p>
-      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7353</span>
-						<span>🔱 291</span>
-					</div>
-				<div class="stars-today">⭐ 3540 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27261</span>
-						<span>🔱 2732</span>
+						<span>⭐ 27268</span>
+						<span>🔱 2733</span>
 					</div>
 				<div class="stars-today">⭐ 6603 stars this month</div>
 				</div>
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9779</span>
+						<span>⭐ 9785</span>
 						<span>🔱 972</span>
 					</div>
 				<div class="stars-today">⭐ 5069 stars this month</div>
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49185</span>
-						<span>🔱 8240</span>
+						<span>⭐ 49191</span>
+						<span>🔱 8242</span>
 					</div>
 				<div class="stars-today">⭐ 4357 stars this month</div>
 				</div>
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15012</span>
+						<span>⭐ 15013</span>
 						<span>🔱 1160</span>
 					</div>
 				<div class="stars-today">⭐ 3492 stars this month</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32770</span>
+						<span>⭐ 32777</span>
 						<span>🔱 3803</span>
 					</div>
 				<div class="stars-today">⭐ 5766 stars this month</div>
@@ -229,31 +207,9 @@ keywords:
 					<div>
 						<span>🔠 Go</span>
 						<span>⭐ 57979</span>
-						<span>🔱 6429</span>
+						<span>🔱 6430</span>
 					</div>
 				<div class="stars-today">⭐ 2626 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6111</span>
-						<span>🔱 381</span>
-					</div>
-				<div class="stars-today">⭐ 3797 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33798</span>
-						<span>🔱 3343</span>
+						<span>⭐ 33804</span>
+						<span>🔱 3344</span>
 					</div>
 				<div class="stars-today">⭐ 2161 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        cjpais /
 
-      PaddleOCR</a></p>
+      Handy</a></p>
 				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 63133</span>
-						<span>🔱 9278</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6123</span>
+						<span>🔱 385</span>
 					</div>
-				<div class="stars-today">⭐ 6450 stars this month</div>
+				<div class="stars-today">⭐ 3797 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 55352</span>
+						<span>⭐ 55355</span>
 						<span>🔱 2460</span>
 					</div>
 				<div class="stars-today">⭐ 6080 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 63141</span>
+						<span>🔱 9277</span>
+					</div>
+				<div class="stars-today">⭐ 6450 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40415</span>
+						<span>🔱 4877</span>
+					</div>
+				<div class="stars-today">⭐ 4627 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10522</span>
+						<span>⭐ 10534</span>
 						<span>🔱 904</span>
 					</div>
 				<div class="stars-today">⭐ 3787 stars this month</div>
@@ -360,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3881</span>
+						<span>⭐ 3882</span>
 						<span>🔱 697</span>
 					</div>
 				<div class="stars-today">⭐ 1897 stars this month</div>
@@ -382,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16127</span>
+						<span>⭐ 16131</span>
 						<span>🔱 1283</span>
 					</div>
 				<div class="stars-today">⭐ 2463 stars this month</div>
@@ -390,24 +390,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
     
 
 
       
-        yeongpin /
+        usestrix /
 
-      cursor-free-vip</a></p>
+      strix</a></p>
 				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+      ✨ Open-source AI hackers for your apps 👨🏻‍💻
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40405</span>
-						<span>🔱 4877</span>
+						<span>⭐ 5843</span>
+						<span>🔱 600</span>
 					</div>
-				<div class="stars-today">⭐ 4627 stars this month</div>
+				<div class="stars-today">⭐ 2142 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
+    
+
+
+      
+        mudler /
+
+      LocalAI</a></p>
+				<p>
+      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 37907</span>
+						<span>🔱 3001</span>
+					</div>
+				<div class="stars-today">⭐ 2238 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,7 +448,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9748</span>
+						<span>⭐ 9750</span>
 						<span>🔱 748</span>
 					</div>
 				<div class="stars-today">⭐ 1974 stars this month</div>
@@ -448,32 +470,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 13668</span>
-						<span>🔱 2016</span>
+						<span>⭐ 13669</span>
+						<span>🔱 2017</span>
 					</div>
 				<div class="stars-today">⭐ 803 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+				<p><a href="https://github.com/dair-ai/Prompt-Engineering-Guide" target="_blank">
     
 
 
       
-        supermemoryai /
+        dair-ai /
 
-      supermemory</a></p>
+      Prompt-Engineering-Guide</a></p>
 				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13430</span>
-						<span>🔱 1394</span>
+						<span>🔠 MDX</span>
+						<span>⭐ 66125</span>
+						<span>🔱 6886</span>
 					</div>
-				<div class="stars-today">⭐ 2303 stars this month</div>
+				<div class="stars-today">⭐ 3686 stars this month</div>
 				</div>
 			</div>
 	

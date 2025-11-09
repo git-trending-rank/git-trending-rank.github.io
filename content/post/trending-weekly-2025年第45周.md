@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第45周
-date: 2025-11-09T11:58:48Z
+date: 2025-11-09T13:58:37Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23550</span>
-						<span>🔱 4507</span>
+						<span>⭐ 23633</span>
+						<span>🔱 4524</span>
 					</div>
 				<div class="stars-today">⭐ 19911 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9829</span>
-						<span>🔱 1330</span>
-					</div>
-				<div class="stars-today">⭐ 1765 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5650</span>
-						<span>🔱 587</span>
+						<span>⭐ 5843</span>
+						<span>🔱 600</span>
 					</div>
 				<div class="stars-today">⭐ 1568 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
-    
-
-
-      
-        mudler /
-
-      LocalAI</a></p>
-				<p>
-      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 37888</span>
-						<span>🔱 3000</span>
-					</div>
-				<div class="stars-today">⭐ 1694 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17223</span>
-						<span>🔱 1461</span>
+						<span>⭐ 17231</span>
+						<span>🔱 1464</span>
 					</div>
 				<div class="stars-today">⭐ 1774 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9835</span>
+						<span>🔱 1332</span>
+					</div>
+				<div class="stars-today">⭐ 1765 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19035</span>
-						<span>🔱 2125</span>
+						<span>⭐ 19044</span>
+						<span>🔱 2126</span>
 					</div>
 				<div class="stars-today">⭐ 1802 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sst/opentui" target="_blank">
+				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
     
 
 
       
-        sst /
+        mudler /
 
-      opentui</a></p>
+      LocalAI</a></p>
 				<p>
-      OpenTUI is a library for building terminal user interfaces (TUIs)
+      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4808</span>
-						<span>🔱 180</span>
+						<span>🔠 Go</span>
+						<span>⭐ 37907</span>
+						<span>🔱 3001</span>
 					</div>
-				<div class="stars-today">⭐ 1573 stars this week</div>
+				<div class="stars-today">⭐ 1694 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8542</span>
+						<span>⭐ 8548</span>
 						<span>🔱 1038</span>
 					</div>
 				<div class="stars-today">⭐ 1260 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opentui" target="_blank">
+    
+
+
+      
+        sst /
+
+      opentui</a></p>
+				<p>
+      OpenTUI is a library for building terminal user interfaces (TUIs)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4812</span>
+						<span>🔱 180</span>
+					</div>
+				<div class="stars-today">⭐ 1573 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,76 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7642</span>
-						<span>🔱 585</span>
+						<span>⭐ 7653</span>
+						<span>🔱 586</span>
 					</div>
 				<div class="stars-today">⭐ 2117 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/droidrun/droidrun" target="_blank">
-    
-
-
-      
-        droidrun /
-
-      droidrun</a></p>
-				<p>
-      Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5631</span>
-						<span>🔱 591</span>
-					</div>
-				<div class="stars-today">⭐ 395 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/glow" target="_blank">
-    
-
-
-      
-        charmbracelet /
-
-      glow</a></p>
-				<p>
-      Render markdown on the CLI, with pizzazz! 💅🏻
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21032</span>
-						<span>🔱 505</span>
-					</div>
-				<div class="stars-today">⭐ 1199 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/prometheus/alertmanager" target="_blank">
-    
-
-
-      
-        prometheus /
-
-      alertmanager</a></p>
-				<p>
-      Prometheus Alertmanager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7953</span>
-						<span>🔱 2343</span>
-					</div>
-				<div class="stars-today">⭐ 610 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 18668</span>
+						<span>⭐ 18686</span>
 						<span>🔱 745</span>
 					</div>
 				<div class="stars-today">⭐ 223 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/prometheus/alertmanager" target="_blank">
+    
+
+
+      
+        prometheus /
+
+      alertmanager</a></p>
+				<p>
+      Prometheus Alertmanager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 7959</span>
+						<span>🔱 2343</span>
+					</div>
+				<div class="stars-today">⭐ 610 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/droidrun/droidrun" target="_blank">
+    
+
+
+      
+        droidrun /
+
+      droidrun</a></p>
+				<p>
+      Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5633</span>
+						<span>🔱 591</span>
+					</div>
+				<div class="stars-today">⭐ 395 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
+    
+
+
+      
+        Raphire /
+
+      Win11Debloat</a></p>
+				<p>
+      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 32512</span>
+						<span>🔱 1277</span>
+					</div>
+				<div class="stars-today">⭐ 1850 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NginxProxyManager/nginx-proxy-manager" target="_blank">
+    
+
+
+      
+        NginxProxyManager /
+
+      nginx-proxy-manager</a></p>
+				<p>
+      Docker container for managing Nginx proxy hosts with a simple, powerful interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29325</span>
+						<span>🔱 3368</span>
+					</div>
+				<div class="stars-today">⭐ 214 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/airweave-ai/airweave" target="_blank">
+    
+
+
+      
+        airweave-ai /
+
+      airweave</a></p>
+				<p>
+      Context retrieval for AI agents across apps and databases
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4846</span>
+						<span>🔱 582</span>
+					</div>
+				<div class="stars-today">⭐ 547 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/charmbracelet/glow" target="_blank">
+    
+
+
+      
+        charmbracelet /
+
+      glow</a></p>
+				<p>
+      Render markdown on the CLI, with pizzazz! 💅🏻
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21036</span>
+						<span>🔱 505</span>
+					</div>
+				<div class="stars-today">⭐ 1199 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37162</span>
+						<span>⭐ 37168</span>
 						<span>🔱 5969</span>
 					</div>
 				<div class="stars-today">⭐ 414 stars this week</div>
@@ -338,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15494</span>
+						<span>⭐ 15498</span>
 						<span>🔱 1119</span>
 					</div>
 				<div class="stars-today">⭐ 217 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Memory for AI Agents in 6 lines of code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8230</span>
-						<span>🔱 767</span>
-					</div>
-				<div class="stars-today">⭐ 329 stars this week</div>
 				</div>
 			</div>
 	
