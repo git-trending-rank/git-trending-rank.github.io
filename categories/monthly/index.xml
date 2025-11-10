@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 10 Nov 2025 11:59:01 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 10 Nov 2025 13:58:56 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年11月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B411%E6%9C%88/</link>
-        <pubDate>Mon, 10 Nov 2025 11:59:01 +0000</pubDate>
+        <pubDate>Mon, 10 Nov 2025 13:58:56 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B411%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,32 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 15446&lt;/span&gt;
-						&lt;span&gt;🔱 561&lt;/span&gt;
+						&lt;span&gt;⭐ 15454&lt;/span&gt;
+						&lt;span&gt;🔱 562&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7696 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/prompt-eng-interactive-tutorial&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Anthropic&#39;s Interactive Prompt Engineering Tutorial
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 26103&lt;/span&gt;
-						&lt;span&gt;🔱 2381&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7513 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7814&lt;/span&gt;
-						&lt;span&gt;🔱 608&lt;/span&gt;
+						&lt;span&gt;⭐ 7829&lt;/span&gt;
+						&lt;span&gt;🔱 609&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6001 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,10 +77,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 27355&lt;/span&gt;
-						&lt;span&gt;🔱 2735&lt;/span&gt;
+						&lt;span&gt;⭐ 27360&lt;/span&gt;
+						&lt;span&gt;🔱 2736&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6602 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/longbridge/gpui-component&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        longbridge /
+
+      gpui-component&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 7449&lt;/span&gt;
+						&lt;span&gt;🔱 293&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3659 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,10 +121,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9828&lt;/span&gt;
+						&lt;span&gt;⭐ 9836&lt;/span&gt;
 						&lt;span&gt;🔱 977&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5100 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/prompt-eng-interactive-tutorial&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Anthropic&#39;s Interactive Prompt Engineering Tutorial
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 26110&lt;/span&gt;
+						&lt;span&gt;🔱 2381&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7513 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 49255&lt;/span&gt;
-						&lt;span&gt;🔱 8253&lt;/span&gt;
+						&lt;span&gt;⭐ 49264&lt;/span&gt;
+						&lt;span&gt;🔱 8254&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4375 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -187,10 +209,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 32901&lt;/span&gt;
-						&lt;span&gt;🔱 3819&lt;/span&gt;
+						&lt;span&gt;⭐ 32935&lt;/span&gt;
+						&lt;span&gt;🔱 3824&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5758 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/usestrix/strix&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        usestrix /
+
+      strix&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ✨ Open-source AI hackers for your apps 👨🏻‍💻
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 8350&lt;/span&gt;
+						&lt;span&gt;🔱 767&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3867 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/volcengine/MineContext&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        volcengine /
+
+      MineContext&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3433&lt;/span&gt;
+						&lt;span&gt;🔱 212&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3002 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,7 +275,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 58006&lt;/span&gt;
+						&lt;span&gt;⭐ 58009&lt;/span&gt;
 						&lt;span&gt;🔱 6429&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2635 stars this month&lt;/div&gt;
@@ -231,7 +297,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 33839&lt;/span&gt;
+						&lt;span&gt;⭐ 33842&lt;/span&gt;
 						&lt;span&gt;🔱 3347&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2181 stars this month&lt;/div&gt;
@@ -253,32 +319,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6187&lt;/span&gt;
+						&lt;span&gt;⭐ 6189&lt;/span&gt;
 						&lt;span&gt;🔱 387&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3728 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Truly independent web browser
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 55394&lt;/span&gt;
-						&lt;span&gt;🔱 2461&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6075 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,10 +341,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 63269&lt;/span&gt;
-						&lt;span&gt;🔱 9290&lt;/span&gt;
+						&lt;span&gt;⭐ 63282&lt;/span&gt;
+						&lt;span&gt;🔱 9293&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6463 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Truly independent web browser
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 55398&lt;/span&gt;
+						&lt;span&gt;🔱 2461&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6075 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/coinbase/x402&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        coinbase /
+
+      x402&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A payments protocol for the internet. Built on HTTP.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3924&lt;/span&gt;
+						&lt;span&gt;🔱 707&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1889 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,8 +407,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 40523&lt;/span&gt;
-						&lt;span&gt;🔱 4894&lt;/span&gt;
+						&lt;span&gt;⭐ 40541&lt;/span&gt;
+						&lt;span&gt;🔱 4896&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4649 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -341,76 +429,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 10629&lt;/span&gt;
+						&lt;span&gt;⭐ 10636&lt;/span&gt;
 						&lt;span&gt;🔱 912&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3868 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/coinbase/x402&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        coinbase /
-
-      x402&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A payments protocol for the internet. Built on HTTP.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3920&lt;/span&gt;
-						&lt;span&gt;🔱 704&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1889 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen3-VL&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        QwenLM /
-
-      Qwen3-VL&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 16168&lt;/span&gt;
-						&lt;span&gt;🔱 1290&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2438 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/usestrix/strix&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        usestrix /
-
-      strix&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      ✨ Open-source AI hackers for your apps 👨🏻‍💻
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8180&lt;/span&gt;
-						&lt;span&gt;🔱 754&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3867 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -429,76 +451,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 38036&lt;/span&gt;
-						&lt;span&gt;🔱 3017&lt;/span&gt;
+						&lt;span&gt;⭐ 38045&lt;/span&gt;
+						&lt;span&gt;🔱 3020&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2283 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nitrojs/nitro&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/QwenLM/Qwen3-VL&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        nitrojs /
+        QwenLM /
 
-      nitro&lt;/a&gt;&lt;/p&gt;
+      Qwen3-VL&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Next Generation Server Toolkit. Create web servers with everything you need and deploy them wherever you prefer.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9778&lt;/span&gt;
-						&lt;span&gt;🔱 749&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1990 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/karpathy/micrograd&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        karpathy /
-
-      micrograd&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 13688&lt;/span&gt;
-						&lt;span&gt;🔱 2020&lt;/span&gt;
+						&lt;span&gt;⭐ 16174&lt;/span&gt;
+						&lt;span&gt;🔱 1290&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 817 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dair-ai/Prompt-Engineering-Guide&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dair-ai /
-
-      Prompt-Engineering-Guide&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🐙 Guides, papers, lessons, notebooks and resources for prompt engineering, context engineering, RAG, and AI Agents.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 MDX&lt;/span&gt;
-						&lt;span&gt;⭐ 66209&lt;/span&gt;
-						&lt;span&gt;🔱 6894&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3669 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2438 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
