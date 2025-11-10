@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-10
-date: 2025-11-10T11:59:01Z
+date: 2025-11-10T13:58:56Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/adk-go" target="_blank">
+    
+
+
+      
+        google /
+
+      adk-go</a></p>
+				<p>
+      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 900</span>
+						<span>🔱 49</span>
+					</div>
+				<div class="stars-today">⭐ 396 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/usestrix/strix" target="_blank">
@@ -30,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8180</span>
-						<span>🔱 754</span>
+						<span>⭐ 8350</span>
+						<span>🔱 767</span>
 					</div>
-				<div class="stars-today">⭐ 2131 stars today</div>
+				<div class="stars-today">⭐ 2552 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33007</span>
+						<span>⭐ 33032</span>
 						<span>🔱 5823</span>
 					</div>
-				<div class="stars-today">⭐ 838 stars today</div>
+				<div class="stars-today">⭐ 386 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 54866</span>
+						<span>🔱 12327</span>
+					</div>
+				<div class="stars-today">⭐ 207 stars today</div>
 				</div>
 			</div>
 	
@@ -74,186 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1703</span>
+						<span>⭐ 1707</span>
 						<span>🔱 136</span>
 					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
+				<div class="stars-today">⭐ 140 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mui/material-ui" target="_blank">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
     
 
 
       
-        mui /
+        iptv-org /
 
-      material-ui</a></p>
+      iptv</a></p>
 				<p>
-      Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 97230</span>
-						<span>🔱 32723</span>
-					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-go" target="_blank">
-    
-
-
-      
-        google /
-
-      adk-go</a></p>
-				<p>
-      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 825</span>
-						<span>🔱 47</span>
-					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/axios/axios" target="_blank">
-    
-
-
-      
-        axios /
-
-      axios</a></p>
-				<p>
-      Promise based HTTP client for the browser and node.js
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 108197</span>
-						<span>🔱 11402</span>
-					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      Collection of publicly available IPTV channels from all over the world
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17892</span>
-						<span>🔱 2378</span>
+						<span>⭐ 99027</span>
+						<span>🔱 4248</span>
 					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
+				<div class="stars-today">⭐ 139 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/airweave-ai/airweave" target="_blank">
+				<p><a href="https://github.com/lzhoang2801/OpCore-Simplify" target="_blank">
     
 
 
       
-        airweave-ai /
+        lzhoang2801 /
 
-      airweave</a></p>
+      OpCore-Simplify</a></p>
 				<p>
-      Context retrieval for AI agents across apps and databases
+      A tool designed to simplify the creation of OpenCore EFI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5052</span>
-						<span>🔱 594</span>
+						<span>⭐ 2185</span>
+						<span>🔱 211</span>
 					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
+				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HyDE-Project/HyDE" target="_blank">
+				<p><a href="https://github.com/YaLTeR/niri" target="_blank">
     
 
 
       
-        HyDE-Project /
+        YaLTeR /
 
-      HyDE</a></p>
+      niri</a></p>
 				<p>
-      HyDE, your Development Environment 🖥️💻
+      A scrollable-tiling Wayland compositor.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 7015</span>
-						<span>🔱 491</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 14679</span>
+						<span>🔱 521</span>
 					</div>
-				<div class="stars-today">⭐ 20 stars today</div>
+				<div class="stars-today">⭐ 49 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
+				<p><a href="https://github.com/bobeff/open-source-games" target="_blank">
     
 
 
       
-        AUTOMATIC1111 /
+        bobeff /
 
-      stable-diffusion-webui</a></p>
+      open-source-games</a></p>
 				<p>
-      Stable Diffusion web UI
+      A list of open source games.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 1978</span>
+						<span>🔱 147</span>
+					</div>
+				<div class="stars-today">⭐ 196 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/call-center-ai" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      call-center-ai</a></p>
+				<p>
+      Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 158083</span>
-						<span>🔱 29339</span>
+						<span>⭐ 1436</span>
+						<span>🔱 267</span>
 					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/prometheus/alertmanager" target="_blank">
-    
-
-
-      
-        prometheus /
-
-      alertmanager</a></p>
-				<p>
-      Prometheus Alertmanager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 8014</span>
-						<span>🔱 2349</span>
-					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
+				<div class="stars-today">⭐ 237 stars today</div>
 				</div>
 			</div>
 	
@@ -272,120 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6005</span>
+						<span>⭐ 6012</span>
 						<span>🔱 767</span>
 					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
+				<div class="stars-today">⭐ 133 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/Kimi-K2" target="_blank">
+				<p><a href="https://github.com/opencloud-eu/opencloud" target="_blank">
     
 
 
       
-        MoonshotAI /
+        opencloud-eu /
 
-      Kimi-K2</a></p>
+      opencloud</a></p>
 				<p>
-      Kimi K2 is the large language model series developed by Moonshot AI team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 9076</span>
-						<span>🔱 601</span>
-					</div>
-				<div class="stars-today">⭐ 106 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WerWolv/ImHex" target="_blank">
-    
-
-
-      
-        WerWolv /
-
-      ImHex</a></p>
-				<p>
-      🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 51463</span>
-						<span>🔱 2279</span>
-					</div>
-				<div class="stars-today">⭐ 149 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lima-vm/lima" target="_blank">
-    
-
-
-      
-        lima-vm /
-
-      lima</a></p>
-				<p>
-      Linux virtual machines, with a focus on running containers
+      🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 18848</span>
-						<span>🔱 746</span>
+						<span>⭐ 3324</span>
+						<span>🔱 109</span>
 					</div>
-				<div class="stars-today">⭐ 163 stars today</div>
+				<div class="stars-today">⭐ 212 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/JetBrains/kotlin" target="_blank">
+				<p><a href="https://github.com/end-4/dots-hyprland" target="_blank">
     
 
 
       
-        JetBrains /
+        end-4 /
 
-      kotlin</a></p>
+      dots-hyprland</a></p>
 				<p>
-      The Kotlin Programming Language. 
+      uhh questioning the meaning of dotfiles
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 51765</span>
-						<span>🔱 6101</span>
+						<span>🔠 QML</span>
+						<span>⭐ 10310</span>
+						<span>🔱 822</span>
 					</div>
-				<div class="stars-today">⭐ 5 stars today</div>
+				<div class="stars-today">⭐ 34 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ziglang/zig" target="_blank">
+				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
     
 
 
       
-        ziglang /
+        Zie619 /
 
-      zig</a></p>
+      n8n-workflows</a></p>
 				<p>
-      General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+      all of the workflows of n8n i could find (also from the site itself)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 42205</span>
-						<span>🔱 3102</span>
+						<span>🔠 Python</span>
+						<span>⭐ 39212</span>
+						<span>🔱 3826</span>
 					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
+				<div class="stars-today">⭐ 264 stars today</div>
 				</div>
 			</div>
 	

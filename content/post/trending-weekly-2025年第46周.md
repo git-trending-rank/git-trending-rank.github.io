@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第46周
-date: 2025-11-10T11:59:01Z
+date: 2025-11-10T13:58:56Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24722</span>
-						<span>🔱 4725</span>
+						<span>⭐ 24816</span>
+						<span>🔱 4745</span>
 					</div>
 				<div class="stars-today">⭐ 19836 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8180</span>
-						<span>🔱 754</span>
+						<span>⭐ 8350</span>
+						<span>🔱 767</span>
 					</div>
 				<div class="stars-today">⭐ 3610 stars this week</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17335</span>
-						<span>🔱 1477</span>
+						<span>⭐ 17343</span>
+						<span>🔱 1478</span>
 					</div>
 				<div class="stars-today">⭐ 1862 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9965</span>
-						<span>🔱 1350</span>
-					</div>
-				<div class="stars-today">⭐ 1615 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
-    
-
-
-      
-        nocobase /
-
-      nocobase</a></p>
-				<p>
-      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19181</span>
-						<span>🔱 2144</span>
-					</div>
-				<div class="stars-today">⭐ 2008 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 38036</span>
-						<span>🔱 3017</span>
+						<span>⭐ 38045</span>
+						<span>🔱 3020</span>
 					</div>
 				<div class="stars-today">⭐ 1747 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
+				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
     
 
 
       
-        GeeeekExplorer /
+        nocobase /
 
-      nano-vllm</a></p>
+      nocobase</a></p>
 				<p>
-      Nano vLLM
+      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19190</span>
+						<span>🔱 2144</span>
+					</div>
+				<div class="stars-today">⭐ 2008 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8608</span>
-						<span>🔱 1045</span>
+						<span>⭐ 9977</span>
+						<span>🔱 1352</span>
 					</div>
-				<div class="stars-today">⭐ 1122 stars this week</div>
+				<div class="stars-today">⭐ 1615 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4863</span>
+						<span>⭐ 4870</span>
 						<span>🔱 181</span>
 					</div>
 				<div class="stars-today">⭐ 1578 stars this week</div>
@@ -192,24 +170,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
+				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
     
 
 
       
-        microsoft /
+        GeeeekExplorer /
 
-      agent-lightning</a></p>
+      nano-vllm</a></p>
 				<p>
-      The absolute trainer to light up AI agents.
+      Nano vLLM
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7814</span>
-						<span>🔱 608</span>
+						<span>⭐ 8612</span>
+						<span>🔱 1045</span>
 					</div>
-				<div class="stars-today">⭐ 1786 stars this week</div>
+				<div class="stars-today">⭐ 1122 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 18848</span>
-						<span>🔱 746</span>
+						<span>⭐ 18862</span>
+						<span>🔱 747</span>
 					</div>
 				<div class="stars-today">⭐ 378 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/airweave-ai/airweave" target="_blank">
+    
+
+
+      
+        airweave-ai /
+
+      airweave</a></p>
+				<p>
+      Context retrieval for AI agents across apps and databases
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5060</span>
+						<span>🔱 595</span>
+					</div>
+				<div class="stars-today">⭐ 548 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-lightning</a></p>
+				<p>
+      The absolute trainer to light up AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7829</span>
+						<span>🔱 609</span>
+					</div>
+				<div class="stars-today">⭐ 1786 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8014</span>
+						<span>⭐ 8017</span>
 						<span>🔱 2349</span>
 					</div>
 				<div class="stars-today">⭐ 684 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lzhoang2801/OpCore-Simplify" target="_blank">
+    
+
+
+      
+        lzhoang2801 /
+
+      OpCore-Simplify</a></p>
+				<p>
+      A tool designed to simplify the creation of OpenCore EFI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2185</span>
+						<span>🔱 211</span>
+					</div>
+				<div class="stars-today">⭐ 211 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kvcache-ai/ktransformers" target="_blank">
+    
+
+
+      
+        kvcache-ai /
+
+      ktransformers</a></p>
+				<p>
+      A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15549</span>
+						<span>🔱 1125</span>
+					</div>
+				<div class="stars-today">⭐ 240 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5697</span>
+						<span>⭐ 5703</span>
 						<span>🔱 593</span>
 					</div>
 				<div class="stars-today">⭐ 394 stars this week</div>
@@ -294,54 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 32601</span>
-						<span>🔱 1280</span>
+						<span>⭐ 32610</span>
+						<span>🔱 1281</span>
 					</div>
 				<div class="stars-today">⭐ 1853 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NginxProxyManager/nginx-proxy-manager" target="_blank">
+				<p><a href="https://github.com/dbeaver/dbeaver" target="_blank">
     
 
 
       
-        NginxProxyManager /
+        dbeaver /
 
-      nginx-proxy-manager</a></p>
+      dbeaver</a></p>
 				<p>
-      Docker container for managing Nginx proxy hosts with a simple, powerful interface
+      Free universal database tool and SQL client
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29374</span>
-						<span>🔱 3373</span>
+						<span>🔠 Java</span>
+						<span>⭐ 46594</span>
+						<span>🔱 3919</span>
 					</div>
-				<div class="stars-today">⭐ 237 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/airweave-ai/airweave" target="_blank">
-    
-
-
-      
-        airweave-ai /
-
-      airweave</a></p>
-				<p>
-      Context retrieval for AI agents across apps and databases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5052</span>
-						<span>🔱 594</span>
-					</div>
-				<div class="stars-today">⭐ 548 stars this week</div>
+				<div class="stars-today">⭐ 583 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,54 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 21094</span>
-						<span>🔱 506</span>
+						<span>⭐ 21098</span>
+						<span>🔱 507</span>
 					</div>
 				<div class="stars-today">⭐ 1142 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        mindsdb /
+        VectifyAI /
 
-      mindsdb</a></p>
+      PageIndex</a></p>
 				<p>
-      Federated query engine for AI - The only MCP Server you'll ever need
+      📑 PageIndex: Document Index for Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37207</span>
-						<span>🔱 5971</span>
+						<span>⭐ 3817</span>
+						<span>🔱 277</span>
 					</div>
-				<div class="stars-today">⭐ 415 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kvcache-ai/ktransformers" target="_blank">
-    
-
-
-      
-        kvcache-ai /
-
-      ktransformers</a></p>
-				<p>
-      A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15542</span>
-						<span>🔱 1125</span>
-					</div>
-				<div class="stars-today">⭐ 240 stars this week</div>
+				<div class="stars-today">⭐ 754 stars this week</div>
 				</div>
 			</div>
 	
