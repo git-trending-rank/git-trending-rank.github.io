@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-10
-date: 2025-11-10T04:16:18Z
+date: 2025-11-10T05:58:40Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7187</span>
-						<span>🔱 694</span>
+						<span>⭐ 7349</span>
+						<span>🔱 707</span>
 					</div>
 				<div class="stars-today">⭐ 2131 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32879</span>
-						<span>🔱 5818</span>
+						<span>⭐ 32905</span>
+						<span>🔱 5819</span>
 					</div>
 				<div class="stars-today">⭐ 838 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1653</span>
-						<span>🔱 132</span>
+						<span>⭐ 1664</span>
+						<span>🔱 133</span>
 					</div>
 				<div class="stars-today">⭐ 76 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 97155</span>
-						<span>🔱 32716</span>
+						<span>⭐ 97169</span>
+						<span>🔱 32717</span>
 					</div>
 				<div class="stars-today">⭐ 8 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 699</span>
-						<span>🔱 39</span>
+						<span>⭐ 728</span>
+						<span>🔱 40</span>
 					</div>
 				<div class="stars-today">⭐ 182 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 108166</span>
-						<span>🔱 11400</span>
+						<span>⭐ 108172</span>
+						<span>🔱 11401</span>
 					</div>
 				<div class="stars-today">⭐ 7 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17821</span>
-						<span>🔱 2371</span>
+						<span>⭐ 17833</span>
+						<span>🔱 2374</span>
 					</div>
 				<div class="stars-today">⭐ 63 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4982</span>
-						<span>🔱 590</span>
+						<span>⭐ 5004</span>
+						<span>🔱 591</span>
 					</div>
 				<div class="stars-today">⭐ 172 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6953</span>
-						<span>🔱 491</span>
+						<span>⭐ 6971</span>
+						<span>🔱 492</span>
 					</div>
 				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 158028</span>
-						<span>🔱 29334</span>
+						<span>⭐ 158042</span>
+						<span>🔱 29335</span>
 					</div>
 				<div class="stars-today">⭐ 43 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7996</span>
-						<span>🔱 2348</span>
+						<span>⭐ 8001</span>
+						<span>🔱 2349</span>
 					</div>
 				<div class="stars-today">⭐ 78 stars today</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5964</span>
+						<span>⭐ 5975</span>
 						<span>🔱 767</span>
 					</div>
 				<div class="stars-today">⭐ 10 stars today</div>
@@ -294,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8967</span>
+						<span>⭐ 8997</span>
 						<span>🔱 596</span>
 					</div>
 				<div class="stars-today">⭐ 106 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 76319</span>
-						<span>🔱 10067</span>
-					</div>
-				<div class="stars-today">⭐ 417 stars today</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 51357</span>
-						<span>🔱 2274</span>
+						<span>⭐ 51381</span>
+						<span>🔱 2277</span>
 					</div>
 				<div class="stars-today">⭐ 149 stars today</div>
 				</div>
@@ -360,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 18788</span>
+						<span>⭐ 18802</span>
 						<span>🔱 746</span>
 					</div>
 				<div class="stars-today">⭐ 163 stars today</div>
@@ -382,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 51710</span>
-						<span>🔱 6098</span>
+						<span>⭐ 51724</span>
+						<span>🔱 6099</span>
 					</div>
 				<div class="stars-today">⭐ 5 stars today</div>
 				</div>
@@ -404,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 42163</span>
+						<span>⭐ 42170</span>
 						<span>🔱 3101</span>
 					</div>
 				<div class="stars-today">⭐ 21 stars today</div>
