@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-11T11:58:35Z
+date: 2025-11-11T13:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15505</span>
+						<span>⭐ 15512</span>
 						<span>🔱 564</span>
 					</div>
 				<div class="stars-today">⭐ 7762 stars this month</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7939</span>
+						<span>⭐ 7946</span>
 						<span>🔱 617</span>
 					</div>
 				<div class="stars-today">⭐ 6150 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      ✨ Open-source AI hackers for your apps 👨🏻‍💻
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9352</span>
+						<span>🔱 840</span>
+					</div>
+				<div class="stars-today">⭐ 6299 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27436</span>
+						<span>⭐ 27442</span>
 						<span>🔱 2741</span>
 					</div>
 				<div class="stars-today">⭐ 6666 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
-    
-
-
-      
-        longbridge /
-
-      gpui-component</a></p>
-				<p>
-      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7539</span>
-						<span>🔱 298</span>
-					</div>
-				<div class="stars-today">⭐ 3612 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9899</span>
+						<span>⭐ 9903</span>
 						<span>🔱 989</span>
 					</div>
 				<div class="stars-today">⭐ 5128 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26159</span>
-						<span>🔱 2382</span>
-					</div>
-				<div class="stars-today">⭐ 7557 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanoGPT</a></p>
-				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49322</span>
-						<span>🔱 8259</span>
-					</div>
-				<div class="stars-today">⭐ 4425 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15126</span>
-						<span>🔱 1169</span>
+						<span>⭐ 15134</span>
+						<span>🔱 1170</span>
 					</div>
 				<div class="stars-today">⭐ 3541 stars this month</div>
 				</div>
@@ -206,54 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33227</span>
-						<span>🔱 3868</span>
+						<span>⭐ 33248</span>
+						<span>🔱 3871</span>
 					</div>
 				<div class="stars-today">⭐ 5859 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
     
 
 
       
-        usestrix /
+        karpathy /
 
-      strix</a></p>
+      nanoGPT</a></p>
 				<p>
-      ✨ Open-source AI hackers for your apps 👨🏻‍💻
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9285</span>
-						<span>🔱 838</span>
+						<span>⭐ 49332</span>
+						<span>🔱 8262</span>
 					</div>
-				<div class="stars-today">⭐ 6299 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      MineContext</a></p>
-				<p>
-      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3494</span>
-						<span>🔱 216</span>
-					</div>
-				<div class="stars-today">⭐ 3002 stars this month</div>
+				<div class="stars-today">⭐ 4425 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 58041</span>
+						<span>⭐ 58046</span>
 						<span>🔱 6433</span>
 					</div>
 				<div class="stars-today">⭐ 2640 stars this month</div>
@@ -294,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33865</span>
+						<span>⭐ 33871</span>
 						<span>🔱 3350</span>
 					</div>
 				<div class="stars-today">⭐ 2213 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6281</span>
-						<span>🔱 396</span>
-					</div>
-				<div class="stars-today">⭐ 3713 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63403</span>
+						<span>⭐ 63437</span>
 						<span>🔱 9303</span>
 					</div>
 				<div class="stars-today">⭐ 6531 stars this month</div>
@@ -346,24 +258,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
     
 
 
       
-        LadybirdBrowser /
+        cjpais /
 
-      ladybird</a></p>
+      Handy</a></p>
 				<p>
-      Truly independent web browser
+      A free, open source, and extensible speech-to-text application that works completely offline.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 55426</span>
-						<span>🔱 2463</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6287</span>
+						<span>🔱 397</span>
 					</div>
-				<div class="stars-today">⭐ 6080 stars this month</div>
+				<div class="stars-today">⭐ 3713 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      MineContext</a></p>
+				<p>
+      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3498</span>
+						<span>🔱 217</span>
+					</div>
+				<div class="stars-today">⭐ 3002 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3946</span>
-						<span>🔱 706</span>
+						<span>⭐ 3948</span>
+						<span>🔱 707</span>
 					</div>
 				<div class="stars-today">⭐ 1902 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 55431</span>
+						<span>🔱 2463</span>
+					</div>
+				<div class="stars-today">⭐ 6080 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 26166</span>
+						<span>🔱 2383</span>
+					</div>
+				<div class="stars-today">⭐ 7557 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40655</span>
-						<span>🔱 4907</span>
+						<span>⭐ 40707</span>
+						<span>🔱 4911</span>
 					</div>
 				<div class="stars-today">⭐ 4721 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10792</span>
-						<span>🔱 933</span>
-					</div>
-				<div class="stars-today">⭐ 3812 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,10 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 38157</span>
-						<span>🔱 3026</span>
+						<span>⭐ 38163</span>
+						<span>🔱 3027</span>
 					</div>
 				<div class="stars-today">⭐ 2412 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10801</span>
+						<span>🔱 934</span>
+					</div>
+				<div class="stars-today">⭐ 3812 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,8 +448,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16232</span>
-						<span>🔱 1296</span>
+						<span>⭐ 16240</span>
+						<span>🔱 1298</span>
 					</div>
 				<div class="stars-today">⭐ 2391 stars this month</div>
 				</div>

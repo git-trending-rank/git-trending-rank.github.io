@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第46周
-date: 2025-11-11T11:58:35Z
+date: 2025-11-11T13:58:37Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25504</span>
-						<span>🔱 4875</span>
+						<span>⭐ 25550</span>
+						<span>🔱 4881</span>
 					</div>
 				<div class="stars-today">⭐ 19164 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9285</span>
-						<span>🔱 838</span>
+						<span>⭐ 9352</span>
+						<span>🔱 840</span>
 					</div>
 				<div class="stars-today">⭐ 6173 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17404</span>
-						<span>🔱 1487</span>
+						<span>⭐ 17407</span>
+						<span>🔱 1488</span>
 					</div>
 				<div class="stars-today">⭐ 1938 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 38157</span>
-						<span>🔱 3026</span>
+						<span>⭐ 38163</span>
+						<span>🔱 3027</span>
 					</div>
 				<div class="stars-today">⭐ 1643 stars this week</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19288</span>
-						<span>🔱 2150</span>
+						<span>⭐ 19290</span>
+						<span>🔱 2151</span>
 					</div>
 				<div class="stars-today">⭐ 2132 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lima-vm/lima" target="_blank">
+    
+
+
+      
+        lima-vm /
+
+      lima</a></p>
+				<p>
+      Linux virtual machines, with a focus on running containers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 18915</span>
+						<span>🔱 752</span>
+					</div>
+				<div class="stars-today">⭐ 547 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10051</span>
-						<span>🔱 1360</span>
+						<span>⭐ 10061</span>
+						<span>🔱 1361</span>
 					</div>
 				<div class="stars-today">⭐ 1326 stars this week</div>
 				</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4908</span>
+						<span>⭐ 4909</span>
 						<span>🔱 181</span>
 					</div>
 				<div class="stars-today">⭐ 1565 stars this week</div>
@@ -170,90 +192,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
+				<p><a href="https://github.com/opencloud-eu/opencloud" target="_blank">
     
 
 
       
-        GeeeekExplorer /
+        opencloud-eu /
 
-      nano-vllm</a></p>
+      opencloud</a></p>
 				<p>
-      Nano vLLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8665</span>
-						<span>🔱 1047</span>
-					</div>
-				<div class="stars-today">⭐ 854 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lima-vm/lima" target="_blank">
-    
-
-
-      
-        lima-vm /
-
-      lima</a></p>
-				<p>
-      Linux virtual machines, with a focus on running containers
+      🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 18914</span>
-						<span>🔱 752</span>
+						<span>⭐ 3589</span>
+						<span>🔱 119</span>
 					</div>
-				<div class="stars-today">⭐ 547 stars this week</div>
+				<div class="stars-today">⭐ 851 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/airweave-ai/airweave" target="_blank">
+				<p><a href="https://github.com/dbeaver/dbeaver" target="_blank">
     
 
 
       
-        airweave-ai /
+        dbeaver /
 
-      airweave</a></p>
+      dbeaver</a></p>
 				<p>
-      Context retrieval for AI agents across apps and databases
+      Free universal database tool and SQL client
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5104</span>
-						<span>🔱 603</span>
+						<span>🔠 Java</span>
+						<span>⭐ 46652</span>
+						<span>🔱 3928</span>
 					</div>
-				<div class="stars-today">⭐ 737 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7939</span>
-						<span>🔱 617</span>
-					</div>
-				<div class="stars-today">⭐ 1436 stars this week</div>
+				<div class="stars-today">⭐ 588 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8025</span>
+						<span>⭐ 8026</span>
 						<span>🔱 2348</span>
 					</div>
 				<div class="stars-today">⭐ 745 stars this week</div>
@@ -280,24 +258,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lzhoang2801/OpCore-Simplify" target="_blank">
+				<p><a href="https://github.com/NginxProxyManager/nginx-proxy-manager" target="_blank">
     
 
 
       
-        lzhoang2801 /
+        NginxProxyManager /
 
-      OpCore-Simplify</a></p>
+      nginx-proxy-manager</a></p>
 				<p>
-      A tool designed to simplify the creation of OpenCore EFI
+      Docker container for managing Nginx proxy hosts with a simple, powerful interface
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2300</span>
-						<span>🔱 221</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29402</span>
+						<span>🔱 3376</span>
 					</div>
-				<div class="stars-today">⭐ 212 stars this week</div>
+				<div class="stars-today">⭐ 271 stars this week</div>
 				</div>
 			</div>
 	
@@ -324,112 +302,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/droidrun/droidrun" target="_blank">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
     
 
 
       
-        droidrun /
+        microsoft /
 
-      droidrun</a></p>
+      agent-lightning</a></p>
 				<p>
-      Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+      The absolute trainer to light up AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5768</span>
-						<span>🔱 596</span>
+						<span>⭐ 7946</span>
+						<span>🔱 617</span>
 					</div>
-				<div class="stars-today">⭐ 436 stars this week</div>
+				<div class="stars-today">⭐ 1436 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
     
 
 
       
-        Raphire /
+        topoteretes /
 
-      Win11Debloat</a></p>
+      cognee</a></p>
 				<p>
-      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 32707</span>
-						<span>🔱 1283</span>
-					</div>
-				<div class="stars-today">⭐ 1768 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dbeaver/dbeaver" target="_blank">
-    
-
-
-      
-        dbeaver /
-
-      dbeaver</a></p>
-				<p>
-      Free universal database tool and SQL client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 46648</span>
-						<span>🔱 3927</span>
-					</div>
-				<div class="stars-today">⭐ 588 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/charmbracelet/glow" target="_blank">
-    
-
-
-      
-        charmbracelet /
-
-      glow</a></p>
-				<p>
-      Render markdown on the CLI, with pizzazz! 💅🏻
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21147</span>
-						<span>🔱 506</span>
-					</div>
-				<div class="stars-today">⭐ 773 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Reasoning-based RAG
+      Memory for AI Agents in 6 lines of code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3860</span>
-						<span>🔱 278</span>
+						<span>⭐ 8315</span>
+						<span>🔱 784</span>
 					</div>
-				<div class="stars-today">⭐ 686 stars this week</div>
+				<div class="stars-today">⭐ 412 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ggml-org/llama.cpp" target="_blank">
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp</a></p>
+				<p>
+      LLM inference in C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 89574</span>
+						<span>🔱 13639</span>
+					</div>
+				<div class="stars-today">⭐ 990 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
+    
+
+
+      
+        sansan0 /
+
+      TrendRadar</a></p>
+				<p>
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5970</span>
+						<span>🔱 4481</span>
+					</div>
+				<div class="stars-today">⭐ 1036 stars this week</div>
 				</div>
 			</div>
 	
