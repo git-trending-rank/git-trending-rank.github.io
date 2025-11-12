@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-12T11:58:56Z
+date: 2025-11-12T13:59:02Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15562</span>
-						<span>🔱 567</span>
+						<span>⭐ 15567</span>
+						<span>🔱 568</span>
 					</div>
 				<div class="stars-today">⭐ 7760 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8031</span>
-						<span>🔱 626</span>
+						<span>⭐ 8038</span>
+						<span>🔱 628</span>
 					</div>
 				<div class="stars-today">⭐ 6266 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10007</span>
-						<span>🔱 913</span>
+						<span>⭐ 10056</span>
+						<span>🔱 917</span>
 					</div>
 				<div class="stars-today">⭐ 7429 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
+    
+
+
+      
+        longbridge /
+
+      gpui-component</a></p>
+				<p>
+      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7714</span>
+						<span>🔱 305</span>
+					</div>
+				<div class="stars-today">⭐ 3698 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 27501</span>
+						<span>⭐ 27507</span>
 						<span>🔱 2747</span>
 					</div>
 				<div class="stars-today">⭐ 6723 stars this month</div>
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9961</span>
+						<span>⭐ 9963</span>
 						<span>🔱 995</span>
 					</div>
 				<div class="stars-today">⭐ 5190 stars this month</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15189</span>
-						<span>🔱 1173</span>
+						<span>⭐ 15193</span>
+						<span>🔱 1175</span>
 					</div>
 				<div class="stars-today">⭐ 3609 stars this month</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33386</span>
-						<span>🔱 3892</span>
+						<span>⭐ 33397</span>
+						<span>🔱 3894</span>
 					</div>
 				<div class="stars-today">⭐ 6154 stars this month</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49394</span>
-						<span>🔱 8275</span>
+						<span>⭐ 49400</span>
+						<span>🔱 8276</span>
 					</div>
 				<div class="stars-today">⭐ 4481 stars this month</div>
 				</div>
@@ -206,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 58078</span>
-						<span>🔱 6437</span>
+						<span>⭐ 58081</span>
+						<span>🔱 6438</span>
 					</div>
 				<div class="stars-today">⭐ 2660 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
-    
-
-
-      
-        servo /
-
-      servo</a></p>
-				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33891</span>
-						<span>🔱 3349</span>
-					</div>
-				<div class="stars-today">⭐ 2230 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63595</span>
-						<span>🔱 9316</span>
+						<span>⭐ 63607</span>
+						<span>🔱 9318</span>
 					</div>
 				<div class="stars-today">⭐ 6646 stars this month</div>
 				</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6363</span>
-						<span>🔱 406</span>
+						<span>⭐ 6366</span>
+						<span>🔱 407</span>
 					</div>
 				<div class="stars-today">⭐ 3723 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      MineContext</a></p>
-				<p>
-      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3538</span>
-						<span>🔱 224</span>
-					</div>
-				<div class="stars-today">⭐ 2892 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3967</span>
-						<span>🔱 715</span>
+						<span>⭐ 3971</span>
+						<span>🔱 719</span>
 					</div>
 				<div class="stars-today">⭐ 1901 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 55468</span>
-						<span>🔱 2467</span>
-					</div>
-				<div class="stars-today">⭐ 6076 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 26209</span>
-						<span>🔱 2385</span>
-					</div>
-				<div class="stars-today">⭐ 7610 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41042</span>
-						<span>🔱 4954</span>
+						<span>⭐ 41076</span>
+						<span>🔱 4956</span>
 					</div>
 				<div class="stars-today">⭐ 4865 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 55470</span>
+						<span>🔱 2467</span>
+					</div>
+				<div class="stars-today">⭐ 6076 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 38260</span>
+						<span>⭐ 38262</span>
 						<span>🔱 3040</span>
 					</div>
 				<div class="stars-today">⭐ 2520 stars this month</div>
@@ -412,46 +368,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+				<p><a href="https://github.com/Skyvern-AI/skyvern" target="_blank">
     
 
 
       
-        davila7 /
+        Skyvern-AI /
 
-      claude-code-templates</a></p>
+      skyvern</a></p>
 				<p>
-      CLI tool for configuring and monitoring Claude Code
+      Automate browser based workflows with AI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11040</span>
-						<span>🔱 956</span>
+						<span>🔠 Python</span>
+						<span>⭐ 17546</span>
+						<span>🔱 1500</span>
 					</div>
-				<div class="stars-today">⭐ 3807 stars this month</div>
+				<div class="stars-today">⭐ 2954 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen3-VL" target="_blank">
+				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
     
 
 
       
-        QwenLM /
+        volcengine /
 
-      Qwen3-VL</a></p>
+      MineContext</a></p>
 				<p>
-      Qwen3-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.
+      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16294</span>
-						<span>🔱 1299</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3539</span>
+						<span>🔱 224</span>
 					</div>
-				<div class="stars-today">⭐ 2324 stars this month</div>
+				<div class="stars-today">⭐ 2892 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
+    
+
+
+      
+        sansan0 /
+
+      TrendRadar</a></p>
+				<p>
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8228</span>
+						<span>🔱 5462</span>
+					</div>
+				<div class="stars-today">⭐ 2393 stars this month</div>
 				</div>
 			</div>
 	

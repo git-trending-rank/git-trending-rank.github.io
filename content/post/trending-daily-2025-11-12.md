@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-11-12
-date: 2025-11-12T11:58:56Z
+date: 2025-11-12T13:59:02Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8025</span>
-						<span>🔱 5373</span>
+						<span>⭐ 8228</span>
+						<span>🔱 5462</span>
 					</div>
-				<div class="stars-today">⭐ 444 stars today</div>
+				<div class="stars-today">⭐ 2255 stars today</div>
 				</div>
 			</div>
 	
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2683</span>
-						<span>🔱 144</span>
+						<span>⭐ 2722</span>
+						<span>🔱 145</span>
 					</div>
 				<div class="stars-today">⭐ 579 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      ✨ Open-source AI hackers for your apps
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10007</span>
-						<span>🔱 913</span>
-					</div>
-				<div class="stars-today">⭐ 730 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bobeff/open-source-games" target="_blank">
-    
-
-
-      
-        bobeff /
-
-      open-source-games</a></p>
-				<p>
-      A list of open source games.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 3514</span>
-						<span>🔱 255</span>
-					</div>
-				<div class="stars-today">⭐ 1047 stars today</div>
 				</div>
 			</div>
 	
@@ -118,186 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 55535</span>
-						<span>🔱 12433</span>
+						<span>⭐ 55561</span>
+						<span>🔱 12437</span>
 					</div>
 				<div class="stars-today">⭐ 314 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/serverless-dns/serverless-dns" target="_blank">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
     
 
 
       
-        serverless-dns /
+        yeongpin /
 
-      serverless-dns</a></p>
+      cursor-free-vip</a></p>
 				<p>
-      The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2983</span>
-						<span>🔱 2083</span>
-					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yichuan-w/LEANN" target="_blank">
-    
-
-
-      
-        yichuan-w /
-
-      LEANN</a></p>
-				<p>
-      RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4255</span>
-						<span>🔱 420</span>
+						<span>⭐ 41076</span>
+						<span>🔱 4956</span>
 					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yangshun/tech-interview-handbook" target="_blank">
-    
-
-
-      
-        yangshun /
-
-      tech-interview-handbook</a></p>
-				<p>
-      💯 Curated coding interview preparation materials for busy software engineers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 132217</span>
-						<span>🔱 16033</span>
-					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      12 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 44753</span>
-						<span>🔱 15128</span>
-					</div>
-				<div class="stars-today">⭐ 124 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LizardByte/Sunshine" target="_blank">
-    
-
-
-      
-        LizardByte /
-
-      Sunshine</a></p>
-				<p>
-      Self-hosted game stream host for Moonlight.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 31271</span>
-						<span>🔱 1494</span>
-					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dgtlmoon/changedetection.io" target="_blank">
-    
-
-
-      
-        dgtlmoon /
-
-      changedetection.io</a></p>
-				<p>
-      Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28701</span>
-						<span>🔱 1587</span>
-					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11040</span>
-						<span>🔱 956</span>
-					</div>
-				<div class="stars-today">⭐ 170 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-docs" target="_blank">
-    
-
-
-      
-        google /
-
-      adk-docs</a></p>
-				<p>
-      An open-source, code-first toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 925</span>
-						<span>🔱 585</span>
-					</div>
-				<div class="stars-today">⭐ 5 stars today</div>
+				<div class="stars-today">⭐ 396 stars today</div>
 				</div>
 			</div>
 	
@@ -316,76 +118,296 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 89085</span>
+						<span>⭐ 89088</span>
 						<span>🔱 9545</span>
 					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
+				<div class="stars-today">⭐ 106 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AtsushiSakai/PythonRobotics" target="_blank">
+				<p><a href="https://github.com/traefik/traefik" target="_blank">
     
 
 
       
-        AtsushiSakai /
+        traefik /
 
-      PythonRobotics</a></p>
+      traefik</a></p>
 				<p>
-      Python sample codes and textbook for robotics algorithms.
+      The Cloud Native Application Proxy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 57665</span>
+						<span>🔱 5547</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      LightRAG</a></p>
+				<p>
+      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26585</span>
-						<span>🔱 6968</span>
+						<span>⭐ 22615</span>
+						<span>🔱 3399</span>
 					</div>
-				<div class="stars-today">⭐ 32 stars today</div>
+				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-web" target="_blank">
+				<p><a href="https://github.com/bobeff/open-source-games" target="_blank">
     
 
 
       
-        google /
+        bobeff /
 
-      adk-web</a></p>
+      open-source-games</a></p>
 				<p>
-      Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 582</span>
-						<span>🔱 147</span>
-					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/WICG/email-verification-protocol" target="_blank">
-    
-
-
-      
-        WICG /
-
-      email-verification-protocol</a></p>
-				<p>
-      verified autofill 
+      A list of open source games.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 360</span>
-						<span>🔱 16</span>
+						<span>⭐ 3592</span>
+						<span>🔱 265</span>
 					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
+				<div class="stars-today">⭐ 1047 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/verl" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      verl</a></p>
+				<p>
+      verl: Volcano Engine Reinforcement Learning for LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15386</span>
+						<span>🔱 2490</span>
+					</div>
+				<div class="stars-today">⭐ 44 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GibsonAI/Memori" target="_blank">
+    
+
+
+      
+        GibsonAI /
+
+      Memori</a></p>
+				<p>
+      Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2354</span>
+						<span>🔱 216</span>
+					</div>
+				<div class="stars-today">⭐ 383 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yangshun/tech-interview-handbook" target="_blank">
+    
+
+
+      
+        yangshun /
+
+      tech-interview-handbook</a></p>
+				<p>
+      💯 Curated coding interview preparation materials for busy software engineers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 132242</span>
+						<span>🔱 16035</span>
+					</div>
+				<div class="stars-today">⭐ 414 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/call-center-ai" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      call-center-ai</a></p>
+				<p>
+      Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2170</span>
+						<span>🔱 332</span>
+					</div>
+				<div class="stars-today">⭐ 197 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MustardChef/WSABuilds" target="_blank">
+    
+
+
+      
+        MustardChef /
+
+      WSABuilds</a></p>
+				<p>
+      Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12607</span>
+						<span>🔱 1981</span>
+					</div>
+				<div class="stars-today">⭐ 175 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/playcanvas/engine" target="_blank">
+    
+
+
+      
+        playcanvas /
+
+      engine</a></p>
+				<p>
+      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11126</span>
+						<span>🔱 1526</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 99626</span>
+						<span>🔱 4311</span>
+					</div>
+				<div class="stars-today">⭐ 190 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
+    
+
+
+      
+        Zie619 /
+
+      n8n-workflows</a></p>
+				<p>
+      all of the workflows of n8n i could find (also from the site itself)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39833</span>
+						<span>🔱 3913</span>
+					</div>
+				<div class="stars-today">⭐ 148 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/milvus-io/milvus" target="_blank">
+    
+
+
+      
+        milvus-io /
+
+      milvus</a></p>
+				<p>
+      Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 38452</span>
+						<span>🔱 3509</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wolfpld/tracy" target="_blank">
+    
+
+
+      
+        wolfpld /
+
+      tracy</a></p>
+				<p>
+      Frame profiler
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 13103</span>
+						<span>🔱 888</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
 				</div>
 			</div>
 	
