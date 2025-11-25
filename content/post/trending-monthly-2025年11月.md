@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年11月
-date: 2025-11-25T11:58:40Z
+date: 2025-11-25T13:58:56Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16201</span>
-						<span>🔱 596</span>
+						<span>⭐ 16204</span>
+						<span>🔱 597</span>
 					</div>
 				<div class="stars-today">⭐ 2775 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8848</span>
+						<span>⭐ 8850</span>
 						<span>🔱 708</span>
 					</div>
 				<div class="stars-today">⭐ 7043 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13499</span>
-						<span>🔱 1268</span>
+						<span>⭐ 13513</span>
+						<span>🔱 1270</span>
 					</div>
 				<div class="stars-today">⭐ 11287 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8494</span>
+						<span>⭐ 8498</span>
 						<span>🔱 327</span>
 					</div>
 				<div class="stars-today">⭐ 4271 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 28302</span>
+						<span>⭐ 28312</span>
 						<span>🔱 2842</span>
 					</div>
 				<div class="stars-today">⭐ 3151 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10943</span>
-						<span>🔱 1092</span>
+						<span>⭐ 10946</span>
+						<span>🔱 1093</span>
 					</div>
 				<div class="stars-today">⭐ 3123 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15664</span>
+						<span>⭐ 15671</span>
 						<span>🔱 1218</span>
 					</div>
 				<div class="stars-today">⭐ 2090 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34477</span>
-						<span>🔱 4035</span>
+						<span>⭐ 34485</span>
+						<span>🔱 4036</span>
 					</div>
 				<div class="stars-today">⭐ 3039 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50077</span>
+						<span>⭐ 50083</span>
 						<span>🔱 8370</span>
 					</div>
 				<div class="stars-today">⭐ 2352 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 58515</span>
-						<span>🔱 6483</span>
+						<span>⭐ 58520</span>
+						<span>🔱 6482</span>
 					</div>
 				<div class="stars-today">⭐ 1587 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64891</span>
-						<span>🔱 9397</span>
+						<span>⭐ 64902</span>
+						<span>🔱 9399</span>
 					</div>
 				<div class="stars-today">⭐ 3951 stars this month</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7179</span>
+						<span>⭐ 7184</span>
 						<span>🔱 471</span>
 					</div>
 				<div class="stars-today">⭐ 4162 stars this month</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43628</span>
+						<span>⭐ 43637</span>
 						<span>🔱 5228</span>
 					</div>
 				<div class="stars-today">⭐ 7367 stars this month</div>
@@ -338,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 55878</span>
+						<span>⭐ 55884</span>
 						<span>🔱 2500</span>
 					</div>
 				<div class="stars-today">⭐ 5462 stars this month</div>
@@ -360,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 39171</span>
+						<span>⭐ 39176</span>
 						<span>🔱 3111</span>
 					</div>
 				<div class="stars-today">⭐ 3227 stars this month</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18809</span>
-						<span>🔱 1615</span>
+						<span>⭐ 18816</span>
+						<span>🔱 1616</span>
 					</div>
 				<div class="stars-today">⭐ 3555 stars this month</div>
 				</div>
@@ -404,7 +404,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4016</span>
+						<span>⭐ 4020</span>
 						<span>🔱 264</span>
 					</div>
 				<div class="stars-today">⭐ 1342 stars this month</div>
@@ -421,13 +421,13 @@ keywords:
 
       TrendRadar</a></p>
 				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28002</span>
-						<span>🔱 15237</span>
+						<span>⭐ 28124</span>
+						<span>🔱 15317</span>
 					</div>
 				<div class="stars-today">⭐ 22347 stars this month</div>
 				</div>
