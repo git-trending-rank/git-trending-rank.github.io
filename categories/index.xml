@@ -6,28 +6,28 @@
         <description>Recent content in Categories on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 25 Nov 2025 13:58:56 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Daily</title>
-        <link>https://git-trending-rank.github.io/categories/daily/</link>
-        <pubDate>Tue, 25 Nov 2025 13:58:56 +0000</pubDate>
+        <lastBuildDate>Tue, 25 Nov 2025 15:58:49 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Weekly</title>
+        <link>https://git-trending-rank.github.io/categories/weekly/</link>
+        <pubDate>Tue, 25 Nov 2025 15:58:49 +0000</pubDate>
         
-        <guid>https://git-trending-rank.github.io/categories/daily/</guid>
+        <guid>https://git-trending-rank.github.io/categories/weekly/</guid>
         <description></description>
         </item>
         <item>
         <title>Monthly</title>
         <link>https://git-trending-rank.github.io/categories/monthly/</link>
-        <pubDate>Tue, 25 Nov 2025 13:58:56 +0000</pubDate>
+        <pubDate>Tue, 25 Nov 2025 15:58:48 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/categories/monthly/</guid>
         <description></description>
         </item>
         <item>
-        <title>Weekly</title>
-        <link>https://git-trending-rank.github.io/categories/weekly/</link>
-        <pubDate>Tue, 25 Nov 2025 13:58:56 +0000</pubDate>
+        <title>Daily</title>
+        <link>https://git-trending-rank.github.io/categories/daily/</link>
+        <pubDate>Tue, 25 Nov 2025 15:58:46 +0000</pubDate>
         
-        <guid>https://git-trending-rank.github.io/categories/weekly/</guid>
+        <guid>https://git-trending-rank.github.io/categories/daily/</guid>
         <description></description>
         </item>
         <item>
