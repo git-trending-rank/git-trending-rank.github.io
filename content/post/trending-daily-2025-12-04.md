@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-04
-date: 2025-12-04T15:59:11Z
+date: 2025-12-04T17:58:52Z
 categories:
 - daily
 keywords:
@@ -16,156 +16,350 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
+				<p><a href="https://github.com/basecamp/fizzy" target="_blank">
     
 
 
       
-        sansan0 /
+        basecamp /
 
-      TrendRadar</a></p>
+      fizzy</a></p>
 				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+      Kanban as it should be. Not as it has been.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37427</span>
-						<span>🔱 20069</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 2537</span>
+						<span>🔱 305</span>
 					</div>
-				<div class="stars-today">⭐ 973 stars today</div>
+				<div class="stars-today">⭐ 829 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-go" target="_blank">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
     
 
 
       
-        google /
+        oven-sh /
 
-      adk-go</a></p>
+      bun</a></p>
 				<p>
-      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 83341</span>
+						<span>🔱 3673</span>
+					</div>
+				<div class="stars-today">⭐ 331 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2985</span>
+						<span>🔱 379</span>
+					</div>
+				<div class="stars-today">⭐ 508 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 51782</span>
+						<span>🔱 6571</span>
+					</div>
+				<div class="stars-today">⭐ 103 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 56289</span>
+						<span>🔱 2520</span>
+					</div>
+				<div class="stars-today">⭐ 70 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects" target="_blank">
+    
+
+
+      
+        ashishpatel26 /
+
+      500-AI-Agents-Projects</a></p>
+				<p>
+      The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 17804</span>
+						<span>🔱 3326</span>
+					</div>
+				<div class="stars-today">⭐ 505 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The AI coding agent built for the terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35351</span>
+						<span>🔱 2933</span>
+					</div>
+				<div class="stars-today">⭐ 279 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" target="_blank">
+    
+
+
+      
+        ZJU-LLMs /
+
+      Foundations-of-LLMs</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 12982</span>
+						<span>🔱 1213</span>
+					</div>
+				<div class="stars-today">⭐ 54 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+    
+
+
+      
+        trustedsec /
+
+      social-engineer-toolkit</a></p>
+				<p>
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12989</span>
+						<span>🔱 3127</span>
+					</div>
+				<div class="stars-today">⭐ 73 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 18739</span>
+						<span>🔱 1443</span>
+					</div>
+				<div class="stars-today">⭐ 74 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 79615</span>
+						<span>🔱 18554</span>
+					</div>
+				<div class="stars-today">⭐ 93 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kubernetes/kubernetes" target="_blank">
+    
+
+
+      
+        kubernetes /
+
+      kubernetes</a></p>
+				<p>
+      Production-Grade Container Scheduling and Management
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6030</span>
-						<span>🔱 408</span>
+						<span>⭐ 118979</span>
+						<span>🔱 41842</span>
 					</div>
-				<div class="stars-today">⭐ 126 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+				<p><a href="https://github.com/lynx-family/lynx" target="_blank">
     
 
 
       
-        TapXWorld /
+        lynx-family /
 
-      ChinaTextbook</a></p>
+      lynx</a></p>
 				<p>
-      所有小初高、大学PDF教材。
+      Empower the Web community and invite more to build across platforms.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 60935</span>
-						<span>🔱 13530</span>
+						<span>🔠 C++</span>
+						<span>⭐ 13637</span>
+						<span>🔱 472</span>
 					</div>
-				<div class="stars-today">⭐ 214 stars today</div>
+				<div class="stars-today">⭐ 32 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
     
 
 
       
-        yeongpin /
+        codecrafters-io /
 
-      cursor-free-vip</a></p>
+      build-your-own-x</a></p>
 				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 446106</span>
+						<span>🔱 41860</span>
+					</div>
+				<div class="stars-today">⭐ 503 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/wshobson/agents" target="_blank">
+    
+
+
+      
+        wshobson /
+
+      agents</a></p>
+				<p>
+      Intelligent automation and multi-agent orchestration for Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45086</span>
-						<span>🔱 5386</span>
+						<span>⭐ 21896</span>
+						<span>🔱 2455</span>
 					</div>
-				<div class="stars-today">⭐ 216 stars today</div>
+				<div class="stars-today">⭐ 65 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/bin456789/reinstall" target="_blank">
     
 
 
       
-        nvm-sh /
+        bin456789 /
 
-      nvm</a></p>
+      reinstall</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+      一键DD/重装脚本 (One-click reinstall OS on VPS)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 90267</span>
-						<span>🔱 9642</span>
+						<span>⭐ 9260</span>
+						<span>🔱 1540</span>
 					</div>
-				<div class="stars-today">⭐ 69 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/traefik/traefik" target="_blank">
-    
-
-
-      
-        traefik /
-
-      traefik</a></p>
-				<p>
-      The Cloud Native Application Proxy
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 60172</span>
-						<span>🔱 5695</span>
-					</div>
-				<div class="stars-today">⭐ 99 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      LightRAG</a></p>
-				<p>
-      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25364</span>
-						<span>🔱 3637</span>
-					</div>
-				<div class="stars-today">⭐ 136 stars today</div>
+				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
 			</div>
 	
@@ -184,230 +378,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 10197</span>
+						<span>⭐ 10207</span>
 						<span>🔱 764</span>
 					</div>
 				<div class="stars-today">⭐ 229 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/verl" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      verl</a></p>
-				<p>
-      verl: Volcano Engine Reinforcement Learning for LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17219</span>
-						<span>🔱 2740</span>
-					</div>
-				<div class="stars-today">⭐ 73 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
-    
-
-
-      
-        MemoriLabs /
-
-      Memori</a></p>
-				<p>
-      Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9263</span>
-						<span>🔱 661</span>
-					</div>
-				<div class="stars-today">⭐ 247 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yangshun/tech-interview-handbook" target="_blank">
-    
-
-
-      
-        yangshun /
-
-      tech-interview-handbook</a></p>
-				<p>
-      Curated coding interview preparation materials for busy software engineers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 135913</span>
-						<span>🔱 16294</span>
-					</div>
-				<div class="stars-today">⭐ 128 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/call-center-ai" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      call-center-ai</a></p>
-				<p>
-      Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5904</span>
-						<span>🔱 655</span>
-					</div>
-				<div class="stars-today">⭐ 114 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MustardChef/WSABuilds" target="_blank">
-    
-
-
-      
-        MustardChef /
-
-      WSABuilds</a></p>
-				<p>
-      Run Windows Subsystem For Android on your Windows 10 and Windows 11 PC using prebuilt binaries with Google Play Store (MindTheGapps) and/or Magisk or KernelSU (root solutions) built in. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14523</span>
-						<span>🔱 2065</span>
-					</div>
-				<div class="stars-today">⭐ 50 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/playcanvas/engine" target="_blank">
-    
-
-
-      
-        playcanvas /
-
-      engine</a></p>
-				<p>
-      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14068</span>
-						<span>🔱 1669</span>
-					</div>
-				<div class="stars-today">⭐ 124 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 104550</span>
-						<span>🔱 4672</span>
-					</div>
-				<div class="stars-today">⭐ 181 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zie619/n8n-workflows" target="_blank">
-    
-
-
-      
-        Zie619 /
-
-      n8n-workflows</a></p>
-				<p>
-      all of the workflows of n8n i could find (also from the site itself)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46746</span>
-						<span>🔱 5188</span>
-					</div>
-				<div class="stars-today">⭐ 226 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/milvus-io/milvus" target="_blank">
-    
-
-
-      
-        milvus-io /
-
-      milvus</a></p>
-				<p>
-      Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 41438</span>
-						<span>🔱 3684</span>
-					</div>
-				<div class="stars-today">⭐ 137 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/wolfpld/tracy" target="_blank">
-    
-
-
-      
-        wolfpld /
-
-      tracy</a></p>
-				<p>
-      Frame profiler
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 14685</span>
-						<span>🔱 956</span>
-					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
 				</div>
 			</div>
 	

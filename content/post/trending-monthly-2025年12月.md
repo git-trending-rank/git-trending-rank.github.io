@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-04T15:59:08Z
+date: 2025-12-04T17:58:52Z
 categories:
 - monthly
 keywords:
@@ -16,46 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mountain-loop/yaak" target="_blank">
+				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
     
 
 
       
-        mountain-loop /
+        sansan0 /
 
-      yaak</a></p>
+      TrendRadar</a></p>
 				<p>
-      The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16661</span>
-						<span>🔱 616</span>
-					</div>
-				<div class="stars-today">⭐ 1737 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9373</span>
-						<span>🔱 753</span>
+						<span>⭐ 37457</span>
+						<span>🔱 20079</span>
 					</div>
-				<div class="stars-today">⭐ 2921 stars this month</div>
+				<div class="stars-today">⭐ 31945 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kavishdevar/librepods" target="_blank">
+    
+
+
+      
+        kavishdevar /
+
+      librepods</a></p>
+				<p>
+      AirPods liberated from Apple's ecosystem.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 19001</span>
+						<span>🔱 890</span>
+					</div>
+				<div class="stars-today">⭐ 17464 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,296 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16624</span>
-						<span>🔱 1662</span>
+						<span>⭐ 16633</span>
+						<span>🔱 1663</span>
 					</div>
 				<div class="stars-today">⭐ 14242 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/longbridge/gpui-component" target="_blank">
+				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
     
 
 
       
-        longbridge /
+        MemoriLabs /
 
-      gpui-component</a></p>
+      Memori</a></p>
 				<p>
-      Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+      Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8981</span>
-						<span>🔱 346</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9272</span>
+						<span>🔱 663</span>
 					</div>
-				<div class="stars-today">⭐ 2103 stars this month</div>
+				<div class="stars-today">⭐ 7793 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
     
 
 
       
-        anthropics /
+        666ghj /
 
-      claude-cookbooks</a></p>
+      BettaFish</a></p>
 				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 29065</span>
-						<span>🔱 2927</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30845</span>
+						<span>🔱 5908</span>
 					</div>
-				<div class="stars-today">⭐ 2196 stars this month</div>
+				<div class="stars-today">⭐ 20199 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/lzhoang2801/OpCore-Simplify" target="_blank">
     
 
 
       
-        lfnovo /
+        lzhoang2801 /
 
-      open-notebook</a></p>
+      OpCore-Simplify</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      A tool designed to simplify the creation of OpenCore EFI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3523</span>
+						<span>🔱 334</span>
+					</div>
+				<div class="stars-today">⭐ 1512 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11994</span>
-						<span>🔱 1212</span>
+						<span>⭐ 14874</span>
+						<span>🔱 4458</span>
 					</div>
-				<div class="stars-today">⭐ 2505 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
-    
-
-
-      
-        DrewThomasson /
-
-      ebook2audiobook</a></p>
-				<p>
-      Generate audiobooks from e-books, voice cloning & 1107+ languages!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15884</span>
-						<span>🔱 1240</span>
-					</div>
-				<div class="stars-today">⭐ 1302 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35138</span>
-						<span>🔱 4111</span>
-					</div>
-				<div class="stars-today">⭐ 2834 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanoGPT</a></p>
-				<p>
-      The simplest, fastest repository for training/finetuning medium-sized GPTs.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 50506</span>
-						<span>🔱 8443</span>
-					</div>
-				<div class="stars-today">⭐ 1721 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
-    
-
-
-      
-        minio /
-
-      minio</a></p>
-				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 58924</span>
-						<span>🔱 6594</span>
-					</div>
-				<div class="stars-today">⭐ 1196 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
-    
-
-
-      
-        PaddlePaddle /
-
-      PaddleOCR</a></p>
-				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 65777</span>
-						<span>🔱 9459</span>
-					</div>
-				<div class="stars-today">⭐ 3337 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7749</span>
-						<span>🔱 509</span>
-					</div>
-				<div class="stars-today">⭐ 2244 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coinbase/x402" target="_blank">
-    
-
-
-      
-        coinbase /
-
-      x402</a></p>
-				<p>
-      A payments protocol for the internet. Built on HTTP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4863</span>
-						<span>🔱 837</span>
-					</div>
-				<div class="stars-today">⭐ 1156 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45086</span>
-						<span>🔱 5386</span>
-					</div>
-				<div class="stars-today">⭐ 5400 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 56277</span>
-						<span>🔱 2518</span>
-					</div>
-				<div class="stars-today">⭐ 1390 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
-    
-
-
-      
-        mudler /
-
-      LocalAI</a></p>
-				<p>
-      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 39741</span>
-						<span>🔱 3162</span>
-					</div>
-				<div class="stars-today">⭐ 3327 stars this month</div>
+				<div class="stars-today">⭐ 1331 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19428</span>
+						<span>⭐ 19430</span>
 						<span>🔱 1681</span>
 					</div>
 				<div class="stars-today">⭐ 4006 stars this month</div>
@@ -390,46 +192,244 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/MineContext" target="_blank">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
     
 
 
       
-        volcengine /
+        yeongpin /
 
-      MineContext</a></p>
+      cursor-free-vip</a></p>
 				<p>
-      MineContext is your proactive context-aware AI partner（Context-Engineering+ChatGPT Pulse）
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4412</span>
-						<span>🔱 308</span>
+						<span>⭐ 45089</span>
+						<span>🔱 5387</span>
 					</div>
-				<div class="stars-today">⭐ 1180 stars this month</div>
+				<div class="stars-today">⭐ 5400 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
+				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
     
 
 
       
-        sansan0 /
+        microsoft /
 
-      TrendRadar</a></p>
+      magentic-ui</a></p>
 				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+      A research prototype of a human-centered web agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37427</span>
-						<span>🔱 20069</span>
+						<span>⭐ 8514</span>
+						<span>🔱 882</span>
 					</div>
-				<div class="stars-today">⭐ 31945 stars this month</div>
+				<div class="stars-today">⭐ 625 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/playcanvas/engine" target="_blank">
+    
+
+
+      
+        playcanvas /
+
+      engine</a></p>
+				<p>
+      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14071</span>
+						<span>🔱 1669</span>
+					</div>
+				<div class="stars-today">⭐ 3098 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
+    
+
+
+      
+        nocobase /
+
+      nocobase</a></p>
+				<p>
+      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20531</span>
+						<span>🔱 2284</span>
+					</div>
+				<div class="stars-today">⭐ 3475 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 60941</span>
+						<span>🔱 13531</span>
+					</div>
+				<div class="stars-today">⭐ 6716 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1Panel-dev/CordysCRM" target="_blank">
+    
+
+
+      
+        1Panel-dev /
+
+      CordysCRM</a></p>
+				<p>
+      🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 1275</span>
+						<span>🔱 240</span>
+					</div>
+				<div class="stars-today">⭐ 882 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ValveSoftware/Proton" target="_blank">
+    
+
+
+      
+        ValveSoftware /
+
+      Proton</a></p>
+				<p>
+      Compatibility tool for Steam Play based on Wine and additional components
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 28963</span>
+						<span>🔱 1259</span>
+					</div>
+				<div class="stars-today">⭐ 914 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/farion1231/cc-switch" target="_blank">
+    
+
+
+      
+        farion1231 /
+
+      cc-switch</a></p>
+				<p>
+      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5736</span>
+						<span>🔱 371</span>
+					</div>
+				<div class="stars-today">⭐ 2686 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lima-vm/lima" target="_blank">
+    
+
+
+      
+        lima-vm /
+
+      lima</a></p>
+				<p>
+      Linux virtual machines, with a focus on running containers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 19606</span>
+						<span>🔱 779</span>
+					</div>
+				<div class="stars-today">⭐ 1264 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      gemini-cli</a></p>
+				<p>
+      An open-source AI agent that brings the power of Gemini directly into your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 85787</span>
+						<span>🔱 9782</span>
+					</div>
+				<div class="stars-today">⭐ 4794 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
+    
+
+
+      
+        QuantConnect /
+
+      Lean</a></p>
+				<p>
+      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 13502</span>
+						<span>🔱 3950</span>
+					</div>
+				<div class="stars-today">⭐ 830 stars this month</div>
 				</div>
 			</div>
 	
