@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 05 Dec 2025 09:58:58 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 05 Dec 2025 11:58:41 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年第49周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC49%E5%91%A8/</link>
-        <pubDate>Fri, 05 Dec 2025 09:58:58 +0000</pubDate>
+        <pubDate>Fri, 05 Dec 2025 11:58:41 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC49%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,7 +33,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8579&lt;/span&gt;
+						&lt;span&gt;⭐ 8583&lt;/span&gt;
 						&lt;span&gt;🔱 884&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 473 stars this week&lt;/div&gt;
@@ -55,7 +55,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7578&lt;/span&gt;
+						&lt;span&gt;⭐ 7585&lt;/span&gt;
 						&lt;span&gt;🔱 927&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 537 stars this week&lt;/div&gt;
@@ -77,7 +77,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10636&lt;/span&gt;
+						&lt;span&gt;⭐ 10639&lt;/span&gt;
 						&lt;span&gt;🔱 1936&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 216 stars this week&lt;/div&gt;
@@ -85,46 +85,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/arhamkhnz/next-shadcn-admin-dashboard&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/oven-sh/bun&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        arhamkhnz /
+        oven-sh /
 
-      next-shadcn-admin-dashboard&lt;/a&gt;&lt;/p&gt;
+      bun&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1123&lt;/span&gt;
-						&lt;span&gt;🔱 219&lt;/span&gt;
+						&lt;span&gt;🔠 Zig&lt;/span&gt;
+						&lt;span&gt;⭐ 83977&lt;/span&gt;
+						&lt;span&gt;🔱 3702&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 435 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 923 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/penpot/penpot&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        penpot /
+        rustfs /
 
-      penpot&lt;/a&gt;&lt;/p&gt;
+      rustfs&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Penpot: The open-source design tool for design and code collaboration
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Clojure&lt;/span&gt;
-						&lt;span&gt;⭐ 43103&lt;/span&gt;
-						&lt;span&gt;🔱 2372&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 13561&lt;/span&gt;
+						&lt;span&gt;🔱 611&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 673 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1465 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 95696&lt;/span&gt;
-						&lt;span&gt;🔱 10817&lt;/span&gt;
+						&lt;span&gt;⭐ 95713&lt;/span&gt;
+						&lt;span&gt;🔱 10818&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 926 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -165,10 +165,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 44674&lt;/span&gt;
-						&lt;span&gt;🔱 3089&lt;/span&gt;
+						&lt;span&gt;⭐ 44693&lt;/span&gt;
+						&lt;span&gt;🔱 3091&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 907 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/aliasrobotics/cai&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        aliasrobotics /
+
+      cai&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Cybersecurity AI (CAI), the framework for AI Security
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6014&lt;/span&gt;
+						&lt;span&gt;🔱 827&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 370 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,54 +209,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 194852&lt;/span&gt;
+						&lt;span&gt;⭐ 194858&lt;/span&gt;
 						&lt;span&gt;🔱 31048&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 668 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sansan0/TrendRadar&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sansan0 /
-
-      TrendRadar&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 37641&lt;/span&gt;
-						&lt;span&gt;🔱 20073&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6775 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/winapps-org/winapps&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        winapps-org /
-
-      winapps&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 12685&lt;/span&gt;
-						&lt;span&gt;🔱 395&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 570 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,7 +231,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 7732&lt;/span&gt;
+						&lt;span&gt;⭐ 7734&lt;/span&gt;
 						&lt;span&gt;🔱 2137&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 115 stars this week&lt;/div&gt;
@@ -261,24 +239,90 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/danielmiessler/Fabric&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sansan0/TrendRadar&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        danielmiessler /
+        sansan0 /
 
-      Fabric&lt;/a&gt;&lt;/p&gt;
+      TrendRadar&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 37662&lt;/span&gt;
+						&lt;span&gt;🔱 20069&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6775 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/next.js&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel /
+
+      next.js&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The React Framework
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 34972&lt;/span&gt;
-						&lt;span&gt;🔱 3569&lt;/span&gt;
+						&lt;span&gt;⭐ 136111&lt;/span&gt;
+						&lt;span&gt;🔱 29977&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 344 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 237 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/winapps-org/winapps&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        winapps-org /
+
+      winapps&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 12687&lt;/span&gt;
+						&lt;span&gt;🔱 395&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 570 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/arhamkhnz/next-shadcn-admin-dashboard&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        arhamkhnz /
+
+      next-shadcn-admin-dashboard&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1126&lt;/span&gt;
+						&lt;span&gt;🔱 219&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 435 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,32 +341,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8972&lt;/span&gt;
+						&lt;span&gt;⭐ 8974&lt;/span&gt;
 						&lt;span&gt;🔱 874&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 343 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/oven-sh/bun&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        oven-sh /
-
-      bun&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Zig&lt;/span&gt;
-						&lt;span&gt;⭐ 83927&lt;/span&gt;
-						&lt;span&gt;🔱 3698&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 923 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -341,8 +363,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12507&lt;/span&gt;
-						&lt;span&gt;🔱 1721&lt;/span&gt;
+						&lt;span&gt;⭐ 12509&lt;/span&gt;
+						&lt;span&gt;🔱 1722&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 130 stars this week&lt;/div&gt;
 				&lt;/div&gt;

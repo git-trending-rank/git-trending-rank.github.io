@@ -6,10 +6,10 @@
         <description>Recent content in Posts on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 05 Dec 2025 09:58:58 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 05 Dec 2025 11:58:41 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-12-05</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-12-05/</link>
-        <pubDate>Fri, 05 Dec 2025 09:58:58 +0000</pubDate>
+        <pubDate>Fri, 05 Dec 2025 11:58:41 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-12-05/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,32 +33,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Ruby&lt;/span&gt;
-						&lt;span&gt;⭐ 3626&lt;/span&gt;
-						&lt;span&gt;🔱 375&lt;/span&gt;
+						&lt;span&gt;⭐ 3745&lt;/span&gt;
+						&lt;span&gt;🔱 384&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 829 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/oven-sh/bun&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        oven-sh /
+        rustfs /
 
-      bun&lt;/a&gt;&lt;/p&gt;
+      rustfs&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Zig&lt;/span&gt;
-						&lt;span&gt;⭐ 83927&lt;/span&gt;
-						&lt;span&gt;🔱 3698&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 13561&lt;/span&gt;
+						&lt;span&gt;🔱 611&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 280 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1257 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trustedsec/social-engineer-toolkit&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trustedsec /
+
+      social-engineer-toolkit&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13153&lt;/span&gt;
+						&lt;span&gt;🔱 3134&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 73 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,52 +99,74 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3643&lt;/span&gt;
-						&lt;span&gt;🔱 427&lt;/span&gt;
+						&lt;span&gt;⭐ 3698&lt;/span&gt;
+						&lt;span&gt;🔱 431&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 508 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/codex&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/facebook/react&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        openai /
+        facebook /
 
-      codex&lt;/a&gt;&lt;/p&gt;
+      react&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Lightweight coding agent that runs in your terminal
+      The library for web and native user interfaces.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 51954&lt;/span&gt;
-						&lt;span&gt;🔱 6588&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 241133&lt;/span&gt;
+						&lt;span&gt;🔱 50000&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 103 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 51 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CorentinTh/it-tools&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        LadybirdBrowser /
+        CorentinTh /
 
-      ladybird&lt;/a&gt;&lt;/p&gt;
+      it-tools&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Truly independent web browser
+      Collection of handy online tools for developers, with great UX. 
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 56375&lt;/span&gt;
-						&lt;span&gt;🔱 2525&lt;/span&gt;
+						&lt;span&gt;🔠 Vue&lt;/span&gt;
+						&lt;span&gt;⭐ 34651&lt;/span&gt;
+						&lt;span&gt;🔱 4308&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 112 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/next.js&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel /
+
+      next.js&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The React Framework
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 136111&lt;/span&gt;
+						&lt;span&gt;🔱 29977&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 70 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -143,10 +187,96 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 18192&lt;/span&gt;
-						&lt;span&gt;🔱 3365&lt;/span&gt;
+						&lt;span&gt;⭐ 18233&lt;/span&gt;
+						&lt;span&gt;🔱 3371&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 505 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sinelaw/fresh&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        sinelaw /
+
+      fresh&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Text editor for your terminal: easy, powerful and fast
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 400&lt;/span&gt;
+						&lt;span&gt;🔱 10&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 160 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/oven-sh/bun&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        oven-sh /
+
+      bun&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Zig&lt;/span&gt;
+						&lt;span&gt;⭐ 83977&lt;/span&gt;
+						&lt;span&gt;🔱 3702&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 280 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mtdvio/every-programmer-should-know&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mtdvio /
+
+      every-programmer-should-know&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of (mostly) technical things every software developer should know about
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 95702&lt;/span&gt;
+						&lt;span&gt;🔱 8519&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 128 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
+						&lt;span&gt;⭐ 18787&lt;/span&gt;
+						&lt;span&gt;🔱 1453&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,226 +295,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 35687&lt;/span&gt;
-						&lt;span&gt;🔱 2960&lt;/span&gt;
+						&lt;span&gt;⭐ 35745&lt;/span&gt;
+						&lt;span&gt;🔱 2963&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 279 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ZJU-LLMs/Foundations-of-LLMs&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TelegramMessenger/Telegram-iOS&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ZJU-LLMs /
+        TelegramMessenger /
 
-      Foundations-of-LLMs&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 13104&lt;/span&gt;
-						&lt;span&gt;🔱 1224&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 54 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/trustedsec/social-engineer-toolkit&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        trustedsec /
-
-      social-engineer-toolkit&lt;/a&gt;&lt;/p&gt;
+      Telegram-iOS&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+      Telegram-iOS
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13130&lt;/span&gt;
-						&lt;span&gt;🔱 3133&lt;/span&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 7499&lt;/span&gt;
+						&lt;span&gt;🔱 2179&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 73 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
-						&lt;span&gt;⭐ 18785&lt;/span&gt;
-						&lt;span&gt;🔱 1450&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ML-For-Beginners&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 79925&lt;/span&gt;
-						&lt;span&gt;🔱 18587&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 93 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/kubernetes/kubernetes&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        kubernetes /
-
-      kubernetes&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Production-Grade Container Scheduling and Management
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 119056&lt;/span&gt;
-						&lt;span&gt;🔱 41846&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 31 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lynx-family/lynx&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lynx-family /
-
-      lynx&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Empower the Web community and invite more to build across platforms.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 13713&lt;/span&gt;
-						&lt;span&gt;🔱 475&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 32 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/codecrafters-io/build-your-own-x&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        codecrafters-io /
-
-      build-your-own-x&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Master programming by recreating your favorite technologies from scratch.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Markdown&lt;/span&gt;
-						&lt;span&gt;⭐ 446477&lt;/span&gt;
-						&lt;span&gt;🔱 41881&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 397 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/wshobson/agents&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        wshobson /
-
-      agents&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Intelligent automation and multi-agent orchestration for Claude Code
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 22058&lt;/span&gt;
-						&lt;span&gt;🔱 2471&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 65 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bin456789/reinstall&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        bin456789 /
-
-      reinstall&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      一键DD/重装脚本 (One-click reinstall OS on VPS)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 9362&lt;/span&gt;
-						&lt;span&gt;🔱 1550&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 45 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bobeff/open-source-games&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        bobeff /
-
-      open-source-games&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A list of open source games.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 10335&lt;/span&gt;
-						&lt;span&gt;🔱 772&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 231 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -397,7 +333,7 @@
         <item>
         <title>GitHub 趋势 2025年12月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B412%E6%9C%88/</link>
-        <pubDate>Fri, 05 Dec 2025 09:58:58 +0000</pubDate>
+        <pubDate>Fri, 05 Dec 2025 11:58:41 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B412%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -421,8 +357,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 37641&lt;/span&gt;
-						&lt;span&gt;🔱 20073&lt;/span&gt;
+						&lt;span&gt;⭐ 37662&lt;/span&gt;
+						&lt;span&gt;🔱 20069&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 32776 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -443,7 +379,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Kotlin&lt;/span&gt;
-						&lt;span&gt;⭐ 19115&lt;/span&gt;
+						&lt;span&gt;⭐ 19138&lt;/span&gt;
 						&lt;span&gt;🔱 896&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17576 stars this month&lt;/div&gt;
@@ -465,7 +401,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16733&lt;/span&gt;
+						&lt;span&gt;⭐ 16742&lt;/span&gt;
 						&lt;span&gt;🔱 1690&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14495 stars this month&lt;/div&gt;
@@ -487,32 +423,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9344&lt;/span&gt;
+						&lt;span&gt;⭐ 9347&lt;/span&gt;
 						&lt;span&gt;🔱 666&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7793 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/666ghj/BettaFish&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        666ghj /
-
-      BettaFish&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 30942&lt;/span&gt;
-						&lt;span&gt;🔱 5923&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20199 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -531,7 +445,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3563&lt;/span&gt;
+						&lt;span&gt;⭐ 3570&lt;/span&gt;
 						&lt;span&gt;🔱 339&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1562 stars this month&lt;/div&gt;
@@ -539,68 +453,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ourongxing/newsnow&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/666ghj/BettaFish&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ourongxing /
+        666ghj /
 
-      newsnow&lt;/a&gt;&lt;/p&gt;
+      BettaFish&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Elegant reading of real-time and hottest news
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14903&lt;/span&gt;
-						&lt;span&gt;🔱 4462&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1336 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Skyvern-AI/skyvern&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Skyvern-AI /
-
-      skyvern&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Automate browser based workflows with AI
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19509&lt;/span&gt;
-						&lt;span&gt;🔱 1684&lt;/span&gt;
+						&lt;span&gt;⭐ 30953&lt;/span&gt;
+						&lt;span&gt;🔱 5925&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3975 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/yeongpin/cursor-free-vip&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      [Support 0.49.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You&#39;ve reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 45156&lt;/span&gt;
-						&lt;span&gt;🔱 5394&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5469 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20199 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -619,7 +489,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8579&lt;/span&gt;
+						&lt;span&gt;⭐ 8583&lt;/span&gt;
 						&lt;span&gt;🔱 884&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 625 stars this month&lt;/div&gt;
@@ -627,46 +497,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/playcanvas/engine&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/opencloud-eu/opencloud&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        playcanvas /
+        opencloud-eu /
 
-      engine&lt;/a&gt;&lt;/p&gt;
+      opencloud&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+      🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14084&lt;/span&gt;
-						&lt;span&gt;🔱 1669&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 4298&lt;/span&gt;
+						&lt;span&gt;🔱 149&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3098 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1777 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/nocobase/nocobase&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ourongxing/newsnow&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        nocobase /
+        ourongxing /
 
-      nocobase&lt;/a&gt;&lt;/p&gt;
+      newsnow&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+      Elegant reading of real-time and hottest news
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 20566&lt;/span&gt;
-						&lt;span&gt;🔱 2284&lt;/span&gt;
+						&lt;span&gt;⭐ 14908&lt;/span&gt;
+						&lt;span&gt;🔱 4462&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3091 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1336 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -685,98 +555,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Roff&lt;/span&gt;
-						&lt;span&gt;⭐ 60999&lt;/span&gt;
-						&lt;span&gt;🔱 13545&lt;/span&gt;
+						&lt;span&gt;⭐ 61008&lt;/span&gt;
+						&lt;span&gt;🔱 13544&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6716 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/1Panel-dev/CordysCRM&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/yeongpin/cursor-free-vip&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        1Panel-dev /
+        yeongpin /
 
-      CordysCRM&lt;/a&gt;&lt;/p&gt;
+      cursor-free-vip&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
+      [Support 0.49.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You&#39;ve reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 1298&lt;/span&gt;
-						&lt;span&gt;🔱 245&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 45162&lt;/span&gt;
+						&lt;span&gt;🔱 5394&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 883 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ValveSoftware/Proton&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ValveSoftware /
-
-      Proton&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Compatibility tool for Steam Play based on Wine and additional components
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 28991&lt;/span&gt;
-						&lt;span&gt;🔱 1260&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 928 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/farion1231/cc-switch&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        farion1231 /
-
-      cc-switch&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5806&lt;/span&gt;
-						&lt;span&gt;🔱 375&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2723 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lima-vm/lima&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lima-vm /
-
-      lima&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Linux virtual machines, with a focus on running containers
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 19643&lt;/span&gt;
-						&lt;span&gt;🔱 779&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1308 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5469 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -795,10 +599,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 85898&lt;/span&gt;
-						&lt;span&gt;🔱 9793&lt;/span&gt;
+						&lt;span&gt;⭐ 85903&lt;/span&gt;
+						&lt;span&gt;🔱 9794&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4793 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/farion1231/cc-switch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        farion1231 /
+
+      cc-switch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex &amp; Gemini CLI.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5810&lt;/span&gt;
+						&lt;span&gt;🔱 377&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2723 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ValveSoftware/Proton&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ValveSoftware /
+
+      Proton&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Compatibility tool for Steam Play based on Wine and additional components
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 28997&lt;/span&gt;
+						&lt;span&gt;🔱 1260&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 928 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/playcanvas/engine&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        playcanvas /
+
+      engine&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 14087&lt;/span&gt;
+						&lt;span&gt;🔱 1668&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3098 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -817,10 +687,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 13555&lt;/span&gt;
+						&lt;span&gt;⭐ 13557&lt;/span&gt;
 						&lt;span&gt;🔱 3953&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 853 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lima-vm/lima&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lima-vm /
+
+      lima&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Linux virtual machines, with a focus on running containers
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 19646&lt;/span&gt;
+						&lt;span&gt;🔱 779&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1308 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ostris/ai-toolkit&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ostris /
+
+      ai-toolkit&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The ultimate training toolkit for finetuning diffusion models
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7585&lt;/span&gt;
+						&lt;span&gt;🔱 927&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 788 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/traefik/traefik&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        traefik /
+
+      traefik&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Cloud Native Application Proxy
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 60198&lt;/span&gt;
+						&lt;span&gt;🔱 5700&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2807 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -833,7 +769,7 @@
         <item>
         <title>GitHub 趋势 2025年第49周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC49%E5%91%A8/</link>
-        <pubDate>Fri, 05 Dec 2025 09:58:58 +0000</pubDate>
+        <pubDate>Fri, 05 Dec 2025 11:58:41 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2025%E5%B9%B4%E7%AC%AC49%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -857,7 +793,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8579&lt;/span&gt;
+						&lt;span&gt;⭐ 8583&lt;/span&gt;
 						&lt;span&gt;🔱 884&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 473 stars this week&lt;/div&gt;
@@ -879,7 +815,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7578&lt;/span&gt;
+						&lt;span&gt;⭐ 7585&lt;/span&gt;
 						&lt;span&gt;🔱 927&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 537 stars this week&lt;/div&gt;
@@ -901,7 +837,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10636&lt;/span&gt;
+						&lt;span&gt;⭐ 10639&lt;/span&gt;
 						&lt;span&gt;🔱 1936&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 216 stars this week&lt;/div&gt;
@@ -909,46 +845,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/arhamkhnz/next-shadcn-admin-dashboard&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/oven-sh/bun&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        arhamkhnz /
+        oven-sh /
 
-      next-shadcn-admin-dashboard&lt;/a&gt;&lt;/p&gt;
+      bun&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1123&lt;/span&gt;
-						&lt;span&gt;🔱 219&lt;/span&gt;
+						&lt;span&gt;🔠 Zig&lt;/span&gt;
+						&lt;span&gt;⭐ 83977&lt;/span&gt;
+						&lt;span&gt;🔱 3702&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 435 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 923 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/penpot/penpot&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        penpot /
+        rustfs /
 
-      penpot&lt;/a&gt;&lt;/p&gt;
+      rustfs&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Penpot: The open-source design tool for design and code collaboration
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Clojure&lt;/span&gt;
-						&lt;span&gt;⭐ 43103&lt;/span&gt;
-						&lt;span&gt;🔱 2372&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 13561&lt;/span&gt;
+						&lt;span&gt;🔱 611&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 673 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1465 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -967,8 +903,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 95696&lt;/span&gt;
-						&lt;span&gt;🔱 10817&lt;/span&gt;
+						&lt;span&gt;⭐ 95713&lt;/span&gt;
+						&lt;span&gt;🔱 10818&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 926 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -989,10 +925,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 44674&lt;/span&gt;
-						&lt;span&gt;🔱 3089&lt;/span&gt;
+						&lt;span&gt;⭐ 44693&lt;/span&gt;
+						&lt;span&gt;🔱 3091&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 907 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/aliasrobotics/cai&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        aliasrobotics /
+
+      cai&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Cybersecurity AI (CAI), the framework for AI Security
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6014&lt;/span&gt;
+						&lt;span&gt;🔱 827&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 370 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -1011,54 +969,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 194852&lt;/span&gt;
+						&lt;span&gt;⭐ 194858&lt;/span&gt;
 						&lt;span&gt;🔱 31048&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 668 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sansan0/TrendRadar&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sansan0 /
-
-      TrendRadar&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 37641&lt;/span&gt;
-						&lt;span&gt;🔱 20073&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6775 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/winapps-org/winapps&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        winapps-org /
-
-      winapps&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 12685&lt;/span&gt;
-						&lt;span&gt;🔱 395&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 570 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -1077,7 +991,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 7732&lt;/span&gt;
+						&lt;span&gt;⭐ 7734&lt;/span&gt;
 						&lt;span&gt;🔱 2137&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 115 stars this week&lt;/div&gt;
@@ -1085,24 +999,90 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/danielmiessler/Fabric&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sansan0/TrendRadar&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        danielmiessler /
+        sansan0 /
 
-      Fabric&lt;/a&gt;&lt;/p&gt;
+      TrendRadar&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 37662&lt;/span&gt;
+						&lt;span&gt;🔱 20069&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6775 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel/next.js&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel /
+
+      next.js&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The React Framework
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 34972&lt;/span&gt;
-						&lt;span&gt;🔱 3569&lt;/span&gt;
+						&lt;span&gt;⭐ 136111&lt;/span&gt;
+						&lt;span&gt;🔱 29977&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 344 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 237 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/winapps-org/winapps&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        winapps-org /
+
+      winapps&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 12687&lt;/span&gt;
+						&lt;span&gt;🔱 395&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 570 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/arhamkhnz/next-shadcn-admin-dashboard&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        arhamkhnz /
+
+      next-shadcn-admin-dashboard&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1126&lt;/span&gt;
+						&lt;span&gt;🔱 219&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 435 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -1121,32 +1101,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8972&lt;/span&gt;
+						&lt;span&gt;⭐ 8974&lt;/span&gt;
 						&lt;span&gt;🔱 874&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 343 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/oven-sh/bun&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        oven-sh /
-
-      bun&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Zig&lt;/span&gt;
-						&lt;span&gt;⭐ 83927&lt;/span&gt;
-						&lt;span&gt;🔱 3698&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 923 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -1165,8 +1123,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12507&lt;/span&gt;
-						&lt;span&gt;🔱 1721&lt;/span&gt;
+						&lt;span&gt;⭐ 12509&lt;/span&gt;
+						&lt;span&gt;🔱 1722&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 130 stars this week&lt;/div&gt;
 				&lt;/div&gt;
