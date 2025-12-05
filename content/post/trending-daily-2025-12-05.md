@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-05
-date: 2025-12-05T11:58:41Z
+date: 2025-12-05T13:59:14Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 3745</span>
-						<span>🔱 384</span>
+						<span>⭐ 3860</span>
+						<span>🔱 385</span>
 					</div>
 				<div class="stars-today">⭐ 829 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13561</span>
-						<span>🔱 611</span>
+						<span>⭐ 13757</span>
+						<span>🔱 618</span>
 					</div>
 				<div class="stars-today">⭐ 1257 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13153</span>
-						<span>🔱 3134</span>
+						<span>⭐ 13180</span>
+						<span>🔱 3136</span>
 					</div>
 				<div class="stars-today">⭐ 73 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3698</span>
-						<span>🔱 431</span>
+						<span>⭐ 3752</span>
+						<span>🔱 435</span>
 					</div>
 				<div class="stars-today">⭐ 508 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 241133</span>
-						<span>🔱 50000</span>
+						<span>⭐ 241143</span>
+						<span>🔱 50005</span>
 					</div>
 				<div class="stars-today">⭐ 51 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Vue</span>
-						<span>⭐ 34651</span>
-						<span>🔱 4308</span>
+						<span>⭐ 34675</span>
+						<span>🔱 4309</span>
 					</div>
 				<div class="stars-today">⭐ 112 stars today</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 136111</span>
+						<span>⭐ 136127</span>
 						<span>🔱 29977</span>
 					</div>
 				<div class="stars-today">⭐ 70 stars today</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 18233</span>
-						<span>🔱 3371</span>
+						<span>⭐ 18277</span>
+						<span>🔱 3376</span>
 					</div>
 				<div class="stars-today">⭐ 505 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 400</span>
-						<span>🔱 10</span>
+						<span>⭐ 427</span>
+						<span>🔱 12</span>
 					</div>
 				<div class="stars-today">⭐ 160 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 83977</span>
-						<span>🔱 3702</span>
+						<span>⭐ 84003</span>
+						<span>🔱 3703</span>
 					</div>
 				<div class="stars-today">⭐ 280 stars today</div>
 				</div>
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 95702</span>
-						<span>🔱 8519</span>
+						<span>⭐ 95739</span>
+						<span>🔱 8520</span>
 					</div>
 				<div class="stars-today">⭐ 128 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10329</span>
+						<span>🔱 1340</span>
+					</div>
+				<div class="stars-today">⭐ 198 stars today</div>
 				</div>
 			</div>
 	
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 18787</span>
-						<span>🔱 1453</span>
+						<span>⭐ 18799</span>
+						<span>🔱 1455</span>
 					</div>
 				<div class="stars-today">⭐ 64 stars today</div>
 				</div>
@@ -287,13 +309,13 @@ keywords:
 
       opencode</a></p>
 				<p>
-      The AI coding agent built for the terminal.
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35745</span>
-						<span>🔱 2963</span>
+						<span>⭐ 35791</span>
+						<span>🔱 2967</span>
 					</div>
 				<div class="stars-today">⭐ 279 stars today</div>
 				</div>
@@ -314,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 7499</span>
+						<span>⭐ 7510</span>
 						<span>🔱 2179</span>
 					</div>
 				<div class="stars-today">⭐ 12 stars today</div>
