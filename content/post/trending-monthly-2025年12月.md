@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-05T09:58:58Z
+date: 2025-12-05T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37641</span>
-						<span>🔱 20073</span>
+						<span>⭐ 37662</span>
+						<span>🔱 20069</span>
 					</div>
 				<div class="stars-today">⭐ 32776 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 19115</span>
+						<span>⭐ 19138</span>
 						<span>🔱 896</span>
 					</div>
 				<div class="stars-today">⭐ 17576 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16733</span>
+						<span>⭐ 16742</span>
 						<span>🔱 1690</span>
 					</div>
 				<div class="stars-today">⭐ 14495 stars this month</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9344</span>
+						<span>⭐ 9347</span>
 						<span>🔱 666</span>
 					</div>
 				<div class="stars-today">⭐ 7793 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      BettaFish</a></p>
-				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30942</span>
-						<span>🔱 5923</span>
-					</div>
-				<div class="stars-today">⭐ 20199 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3563</span>
+						<span>⭐ 3570</span>
 						<span>🔱 339</span>
 					</div>
 				<div class="stars-today">⭐ 1562 stars this month</div>
@@ -148,68 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
     
 
 
       
-        ourongxing /
+        666ghj /
 
-      newsnow</a></p>
+      BettaFish</a></p>
 				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14903</span>
-						<span>🔱 4462</span>
-					</div>
-				<div class="stars-today">⭐ 1336 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Skyvern-AI/skyvern" target="_blank">
-    
-
-
-      
-        Skyvern-AI /
-
-      skyvern</a></p>
-				<p>
-      Automate browser based workflows with AI
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19509</span>
-						<span>🔱 1684</span>
+						<span>⭐ 30953</span>
+						<span>🔱 5925</span>
 					</div>
-				<div class="stars-today">⭐ 3975 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45156</span>
-						<span>🔱 5394</span>
-					</div>
-				<div class="stars-today">⭐ 5469 stars this month</div>
+				<div class="stars-today">⭐ 20199 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8579</span>
+						<span>⭐ 8583</span>
 						<span>🔱 884</span>
 					</div>
 				<div class="stars-today">⭐ 625 stars this month</div>
@@ -236,46 +170,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/playcanvas/engine" target="_blank">
+				<p><a href="https://github.com/opencloud-eu/opencloud" target="_blank">
     
 
 
       
-        playcanvas /
+        opencloud-eu /
 
-      engine</a></p>
+      opencloud</a></p>
 				<p>
-      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+      🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14084</span>
-						<span>🔱 1669</span>
+						<span>🔠 Go</span>
+						<span>⭐ 4298</span>
+						<span>🔱 149</span>
 					</div>
-				<div class="stars-today">⭐ 3098 stars this month</div>
+				<div class="stars-today">⭐ 1777 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nocobase/nocobase" target="_blank">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
     
 
 
       
-        nocobase /
+        ourongxing /
 
-      nocobase</a></p>
+      newsnow</a></p>
 				<p>
-      NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+      Elegant reading of real-time and hottest news
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20566</span>
-						<span>🔱 2284</span>
+						<span>⭐ 14908</span>
+						<span>🔱 4462</span>
 					</div>
-				<div class="stars-today">⭐ 3091 stars this month</div>
+				<div class="stars-today">⭐ 1336 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,98 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 60999</span>
-						<span>🔱 13545</span>
+						<span>⭐ 61008</span>
+						<span>🔱 13544</span>
 					</div>
 				<div class="stars-today">⭐ 6716 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/1Panel-dev/CordysCRM" target="_blank">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
     
 
 
       
-        1Panel-dev /
+        yeongpin /
 
-      CordysCRM</a></p>
+      cursor-free-vip</a></p>
 				<p>
-      🔥 新一代的开源 AI CRM 系统。An open-source AI CRM alternative to Salesforce.
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 1298</span>
-						<span>🔱 245</span>
+						<span>🔠 Python</span>
+						<span>⭐ 45162</span>
+						<span>🔱 5394</span>
 					</div>
-				<div class="stars-today">⭐ 883 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ValveSoftware/Proton" target="_blank">
-    
-
-
-      
-        ValveSoftware /
-
-      Proton</a></p>
-				<p>
-      Compatibility tool for Steam Play based on Wine and additional components
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 28991</span>
-						<span>🔱 1260</span>
-					</div>
-				<div class="stars-today">⭐ 928 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/farion1231/cc-switch" target="_blank">
-    
-
-
-      
-        farion1231 /
-
-      cc-switch</a></p>
-				<p>
-      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5806</span>
-						<span>🔱 375</span>
-					</div>
-				<div class="stars-today">⭐ 2723 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lima-vm/lima" target="_blank">
-    
-
-
-      
-        lima-vm /
-
-      lima</a></p>
-				<p>
-      Linux virtual machines, with a focus on running containers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 19643</span>
-						<span>🔱 779</span>
-					</div>
-				<div class="stars-today">⭐ 1308 stars this month</div>
+				<div class="stars-today">⭐ 5469 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 85898</span>
-						<span>🔱 9793</span>
+						<span>⭐ 85903</span>
+						<span>🔱 9794</span>
 					</div>
 				<div class="stars-today">⭐ 4793 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/farion1231/cc-switch" target="_blank">
+    
+
+
+      
+        farion1231 /
+
+      cc-switch</a></p>
+				<p>
+      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5810</span>
+						<span>🔱 377</span>
+					</div>
+				<div class="stars-today">⭐ 2723 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ValveSoftware/Proton" target="_blank">
+    
+
+
+      
+        ValveSoftware /
+
+      Proton</a></p>
+				<p>
+      Compatibility tool for Steam Play based on Wine and additional components
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 28997</span>
+						<span>🔱 1260</span>
+					</div>
+				<div class="stars-today">⭐ 928 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/playcanvas/engine" target="_blank">
+    
+
+
+      
+        playcanvas /
+
+      engine</a></p>
+				<p>
+      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14087</span>
+						<span>🔱 1668</span>
+					</div>
+				<div class="stars-today">⭐ 3098 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +360,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 13555</span>
+						<span>⭐ 13557</span>
 						<span>🔱 3953</span>
 					</div>
 				<div class="stars-today">⭐ 853 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lima-vm/lima" target="_blank">
+    
+
+
+      
+        lima-vm /
+
+      lima</a></p>
+				<p>
+      Linux virtual machines, with a focus on running containers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 19646</span>
+						<span>🔱 779</span>
+					</div>
+				<div class="stars-today">⭐ 1308 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+    
+
+
+      
+        ostris /
+
+      ai-toolkit</a></p>
+				<p>
+      The ultimate training toolkit for finetuning diffusion models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7585</span>
+						<span>🔱 927</span>
+					</div>
+				<div class="stars-today">⭐ 788 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/traefik/traefik" target="_blank">
+    
+
+
+      
+        traefik /
+
+      traefik</a></p>
+				<p>
+      The Cloud Native Application Proxy
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 60198</span>
+						<span>🔱 5700</span>
+					</div>
+				<div class="stars-today">⭐ 2807 stars this month</div>
 				</div>
 			</div>
 	

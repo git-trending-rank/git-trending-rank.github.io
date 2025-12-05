@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第49周
-date: 2025-12-05T09:58:58Z
+date: 2025-12-05T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8579</span>
+						<span>⭐ 8583</span>
 						<span>🔱 884</span>
 					</div>
 				<div class="stars-today">⭐ 473 stars this week</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7578</span>
+						<span>⭐ 7585</span>
 						<span>🔱 927</span>
 					</div>
 				<div class="stars-today">⭐ 537 stars this week</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10636</span>
+						<span>⭐ 10639</span>
 						<span>🔱 1936</span>
 					</div>
 				<div class="stars-today">⭐ 216 stars this week</div>
@@ -82,46 +82,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/arhamkhnz/next-shadcn-admin-dashboard" target="_blank">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
     
 
 
       
-        arhamkhnz /
+        oven-sh /
 
-      next-shadcn-admin-dashboard</a></p>
+      bun</a></p>
 				<p>
-      Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1123</span>
-						<span>🔱 219</span>
+						<span>🔠 Zig</span>
+						<span>⭐ 83977</span>
+						<span>🔱 3702</span>
 					</div>
-				<div class="stars-today">⭐ 435 stars this week</div>
+				<div class="stars-today">⭐ 923 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/penpot/penpot" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        penpot /
+        rustfs /
 
-      penpot</a></p>
+      rustfs</a></p>
 				<p>
-      Penpot: The open-source design tool for design and code collaboration
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 43103</span>
-						<span>🔱 2372</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13561</span>
+						<span>🔱 611</span>
 					</div>
-				<div class="stars-today">⭐ 673 stars this week</div>
+				<div class="stars-today">⭐ 1465 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 95696</span>
-						<span>🔱 10817</span>
+						<span>⭐ 95713</span>
+						<span>🔱 10818</span>
 					</div>
 				<div class="stars-today">⭐ 926 stars this week</div>
 				</div>
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44674</span>
-						<span>🔱 3089</span>
+						<span>⭐ 44693</span>
+						<span>🔱 3091</span>
 					</div>
 				<div class="stars-today">⭐ 907 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
+    
+
+
+      
+        aliasrobotics /
+
+      cai</a></p>
+				<p>
+      Cybersecurity AI (CAI), the framework for AI Security
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6014</span>
+						<span>🔱 827</span>
+					</div>
+				<div class="stars-today">⭐ 370 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 194852</span>
+						<span>⭐ 194858</span>
 						<span>🔱 31048</span>
 					</div>
 				<div class="stars-today">⭐ 668 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
-    
-
-
-      
-        sansan0 /
-
-      TrendRadar</a></p>
-				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37641</span>
-						<span>🔱 20073</span>
-					</div>
-				<div class="stars-today">⭐ 6775 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
-    
-
-
-      
-        winapps-org /
-
-      winapps</a></p>
-				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 12685</span>
-						<span>🔱 395</span>
-					</div>
-				<div class="stars-today">⭐ 570 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 7732</span>
+						<span>⭐ 7734</span>
 						<span>🔱 2137</span>
 					</div>
 				<div class="stars-today">⭐ 115 stars this week</div>
@@ -258,24 +236,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Fabric" target="_blank">
+				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
     
 
 
       
-        danielmiessler /
+        sansan0 /
 
-      Fabric</a></p>
+      TrendRadar</a></p>
 				<p>
-      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37662</span>
+						<span>🔱 20069</span>
+					</div>
+				<div class="stars-today">⭐ 6775 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel/next.js" target="_blank">
+    
+
+
+      
+        vercel /
+
+      next.js</a></p>
+				<p>
+      The React Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 34972</span>
-						<span>🔱 3569</span>
+						<span>⭐ 136111</span>
+						<span>🔱 29977</span>
 					</div>
-				<div class="stars-today">⭐ 344 stars this week</div>
+				<div class="stars-today">⭐ 237 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
+    
+
+
+      
+        winapps-org /
+
+      winapps</a></p>
+				<p>
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 12687</span>
+						<span>🔱 395</span>
+					</div>
+				<div class="stars-today">⭐ 570 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/arhamkhnz/next-shadcn-admin-dashboard" target="_blank">
+    
+
+
+      
+        arhamkhnz /
+
+      next-shadcn-admin-dashboard</a></p>
+				<p>
+      Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1126</span>
+						<span>🔱 219</span>
+					</div>
+				<div class="stars-today">⭐ 435 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8972</span>
+						<span>⭐ 8974</span>
 						<span>🔱 874</span>
 					</div>
 				<div class="stars-today">⭐ 343 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 83927</span>
-						<span>🔱 3698</span>
-					</div>
-				<div class="stars-today">⭐ 923 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12507</span>
-						<span>🔱 1721</span>
+						<span>⭐ 12509</span>
+						<span>🔱 1722</span>
 					</div>
 				<div class="stars-today">⭐ 130 stars this week</div>
 				</div>
