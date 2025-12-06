@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第49周
-date: 2025-12-06T09:58:49Z
+date: 2025-12-06T11:58:56Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8657</span>
-						<span>🔱 893</span>
+						<span>⭐ 8659</span>
+						<span>🔱 895</span>
 					</div>
 				<div class="stars-today">⭐ 537 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 84263</span>
+						<span>🔱 3727</span>
+					</div>
+				<div class="stars-today">⭐ 1664 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7662</span>
-						<span>🔱 930</span>
+						<span>⭐ 7668</span>
+						<span>🔱 931</span>
 					</div>
 				<div class="stars-today">⭐ 595 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10703</span>
-						<span>🔱 1951</span>
+						<span>⭐ 10714</span>
+						<span>🔱 1952</span>
 					</div>
 				<div class="stars-today">⭐ 240 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 84240</span>
-						<span>🔱 3724</span>
-					</div>
-				<div class="stars-today">⭐ 1664 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,142 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14810</span>
-						<span>🔱 642</span>
+						<span>⭐ 14893</span>
+						<span>🔱 643</span>
 					</div>
 				<div class="stars-today">⭐ 2083 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
-    
-
-
-      
-        comfyanonymous /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 95842</span>
-						<span>🔱 10832</span>
-					</div>
-				<div class="stars-today">⭐ 987 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44780</span>
-						<span>🔱 3102</span>
-					</div>
-				<div class="stars-today">⭐ 942 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
-    
-
-
-      
-        aliasrobotics /
-
-      cai</a></p>
-				<p>
-      Cybersecurity AI (CAI), the framework for AI Security
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6073</span>
-						<span>🔱 834</span>
-					</div>
-				<div class="stars-today">⭐ 365 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trekhleb/javascript-algorithms" target="_blank">
-    
-
-
-      
-        trekhleb /
-
-      javascript-algorithms</a></p>
-				<p>
-      📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 194877</span>
-						<span>🔱 31048</span>
-					</div>
-				<div class="stars-today">⭐ 703 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gunnarmorling/1brc" target="_blank">
-    
-
-
-      
-        gunnarmorling /
-
-      1brc</a></p>
-				<p>
-      1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 7741</span>
-						<span>🔱 2137</span>
-					</div>
-				<div class="stars-today">⭐ 129 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
-    
-
-
-      
-        sansan0 /
-
-      TrendRadar</a></p>
-				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点【 当前仅推荐Docker部署，Fork/Actions方式暂停（正在与GitHub官方沟通中）】
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37785</span>
-						<span>🔱 20076</span>
-					</div>
-				<div class="stars-today">⭐ 6089 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +140,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 136247</span>
-						<span>🔱 29986</span>
+						<span>⭐ 136253</span>
+						<span>🔱 29988</span>
 					</div>
 				<div class="stars-today">⭐ 281 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
+    
+
+
+      
+        comfyanonymous /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 95850</span>
+						<span>🔱 10832</span>
+					</div>
+				<div class="stars-today">⭐ 987 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gunnarmorling/1brc" target="_blank">
+    
+
+
+      
+        gunnarmorling /
+
+      1brc</a></p>
+				<p>
+      1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 7743</span>
+						<span>🔱 2138</span>
+					</div>
+				<div class="stars-today">⭐ 129 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
+    
+
+
+      
+        aliasrobotics /
+
+      cai</a></p>
+				<p>
+      Cybersecurity AI (CAI), the framework for AI Security
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6079</span>
+						<span>🔱 837</span>
+					</div>
+				<div class="stars-today">⭐ 365 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/android/nav3-recipes" target="_blank">
+    
+
+
+      
+        android /
+
+      nav3-recipes</a></p>
+				<p>
+      Implement common use cases with Jetpack Navigation 3
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 964</span>
+						<span>🔱 87</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
+    
+
+
+      
+        QuentinFuxa /
+
+      WhisperLiveKit</a></p>
+				<p>
+      Simultaneous speech-to-text model
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9014</span>
+						<span>🔱 878</span>
+					</div>
+				<div class="stars-today">⭐ 362 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FortAwesome/Font-Awesome" target="_blank">
+    
+
+
+      
+        FortAwesome /
+
+      Font-Awesome</a></p>
+				<p>
+      The iconic SVG, font, and CSS toolkit
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 75894</span>
+						<span>🔱 12213</span>
+					</div>
+				<div class="stars-today">⭐ 75 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      typescript-go</a></p>
+				<p>
+      Staging repo for development of native port of TypeScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 23098</span>
+						<span>🔱 749</span>
+					</div>
+				<div class="stars-today">⭐ 148 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Comfy-Org/ComfyUI-Manager" target="_blank">
+    
+
+
+      
+        Comfy-Org /
+
+      ComfyUI-Manager</a></p>
+				<p>
+      ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12545</span>
+						<span>🔱 1726</span>
+					</div>
+				<div class="stars-today">⭐ 156 stars this week</div>
 				</div>
 			</div>
 	
@@ -302,68 +346,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/arhamkhnz/next-shadcn-admin-dashboard" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        arhamkhnz /
+        anthropics /
 
-      next-shadcn-admin-dashboard</a></p>
+      claude-code</a></p>
 				<p>
-      Modern Admin Dashboard Template built with Shadcn UI and Next.js 16
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1192</span>
-						<span>🔱 222</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 44794</span>
+						<span>🔱 3102</span>
 					</div>
-				<div class="stars-today">⭐ 274 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
-    
-
-
-      
-        QuentinFuxa /
-
-      WhisperLiveKit</a></p>
-				<p>
-      Simultaneous speech-to-text model
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9012</span>
-						<span>🔱 876</span>
-					</div>
-				<div class="stars-today">⭐ 362 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI-Manager" target="_blank">
-    
-
-
-      
-        Comfy-Org /
-
-      ComfyUI-Manager</a></p>
-				<p>
-      ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12542</span>
-						<span>🔱 1726</span>
-					</div>
-				<div class="stars-today">⭐ 156 stars this week</div>
+				<div class="stars-today">⭐ 942 stars this week</div>
 				</div>
 			</div>
 	

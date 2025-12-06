@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-06T09:58:49Z
+date: 2025-12-06T11:58:56Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37785</span>
-						<span>🔱 20076</span>
+						<span>⭐ 37792</span>
+						<span>🔱 20075</span>
 					</div>
 				<div class="stars-today">⭐ 33109 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 19353</span>
-						<span>🔱 913</span>
+						<span>⭐ 19382</span>
+						<span>🔱 916</span>
 					</div>
 				<div class="stars-today">⭐ 17748 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16855</span>
-						<span>🔱 1702</span>
+						<span>⭐ 16862</span>
+						<span>🔱 1705</span>
 					</div>
 				<div class="stars-today">⭐ 14617 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9415</span>
+						<span>⭐ 9425</span>
 						<span>🔱 674</span>
 					</div>
 				<div class="stars-today">⭐ 7870 stars this month</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3616</span>
-						<span>🔱 341</span>
+						<span>⭐ 3621</span>
+						<span>🔱 344</span>
 					</div>
 				<div class="stars-today">⭐ 1610 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      BettaFish</a></p>
-				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31032</span>
-						<span>🔱 5938</span>
-					</div>
-				<div class="stars-today">⭐ 17177 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8657</span>
-						<span>🔱 893</span>
+						<span>⭐ 8659</span>
+						<span>🔱 895</span>
 					</div>
 				<div class="stars-today">⭐ 711 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 61054</span>
+						<span>🔱 13554</span>
+					</div>
+				<div class="stars-today">⭐ 6770 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4314</span>
-						<span>🔱 151</span>
+						<span>⭐ 4315</span>
+						<span>🔱 153</span>
 					</div>
 				<div class="stars-today">⭐ 1779 stars this month</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14937</span>
-						<span>🔱 4467</span>
+						<span>⭐ 14940</span>
+						<span>🔱 4468</span>
 					</div>
 				<div class="stars-today">⭐ 1353 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 61049</span>
-						<span>🔱 13554</span>
-					</div>
-				<div class="stars-today">⭐ 6770 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45210</span>
-						<span>🔱 5400</span>
+						<span>⭐ 45215</span>
+						<span>🔱 5403</span>
 					</div>
 				<div class="stars-today">⭐ 5498 stars this month</div>
 				</div>
@@ -272,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86018</span>
-						<span>🔱 9811</span>
+						<span>⭐ 86031</span>
+						<span>🔱 9813</span>
 					</div>
 				<div class="stars-today">⭐ 4840 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/farion1231/cc-switch" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        farion1231 /
+        rustfs /
 
-      cc-switch</a></p>
+      rustfs</a></p>
 				<p>
-      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5864</span>
-						<span>🔱 383</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 14893</span>
+						<span>🔱 643</span>
 					</div>
-				<div class="stars-today">⭐ 2725 stars this month</div>
+				<div class="stars-today">⭐ 3005 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 29046</span>
+						<span>⭐ 29054</span>
 						<span>🔱 1261</span>
 					</div>
 				<div class="stars-today">⭐ 970 stars this month</div>
@@ -324,68 +302,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/playcanvas/engine" target="_blank">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
     
 
 
       
-        playcanvas /
+        iptv-org /
 
-      engine</a></p>
+      iptv</a></p>
 				<p>
-      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+      Collection of publicly available IPTV channels from all over the world
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14103</span>
-						<span>🔱 1668</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 104614</span>
+						<span>🔱 4687</span>
 					</div>
-				<div class="stars-today">⭐ 3119 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
-    
-
-
-      
-        QuantConnect /
-
-      Lean</a></p>
-				<p>
-      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 13606</span>
-						<span>🔱 3956</span>
-					</div>
-				<div class="stars-today">⭐ 916 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lima-vm/lima" target="_blank">
-    
-
-
-      
-        lima-vm /
-
-      lima</a></p>
-				<p>
-      Linux virtual machines, with a focus on running containers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 19668</span>
-						<span>🔱 780</span>
-					</div>
-				<div class="stars-today">⭐ 1347 stars this month</div>
+				<div class="stars-today">⭐ 6530 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,32 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7662</span>
-						<span>🔱 930</span>
+						<span>⭐ 7668</span>
+						<span>🔱 931</span>
 					</div>
 				<div class="stars-today">⭐ 851 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/traefik/traefik" target="_blank">
+				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
     
 
 
       
-        traefik /
+        QuantConnect /
 
-      traefik</a></p>
+      Lean</a></p>
 				<p>
-      The Cloud Native Application Proxy
+      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 60238</span>
-						<span>🔱 5701</span>
+						<span>🔠 C#</span>
+						<span>⭐ 13607</span>
+						<span>🔱 3956</span>
 					</div>
-				<div class="stars-today">⭐ 2821 stars this month</div>
+				<div class="stars-today">⭐ 916 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/farion1231/cc-switch" target="_blank">
+    
+
+
+      
+        farion1231 /
+
+      cc-switch</a></p>
+				<p>
+      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5871</span>
+						<span>🔱 384</span>
+					</div>
+				<div class="stars-today">⭐ 2725 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/playcanvas/engine" target="_blank">
+    
+
+
+      
+        playcanvas /
+
+      engine</a></p>
+				<p>
+      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14107</span>
+						<span>🔱 1667</span>
+					</div>
+				<div class="stars-today">⭐ 3119 stars this month</div>
 				</div>
 			</div>
 	
