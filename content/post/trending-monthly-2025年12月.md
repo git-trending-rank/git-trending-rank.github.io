@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-07T09:58:58Z
+date: 2025-12-07T11:58:33Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37912</span>
-						<span>🔱 20100</span>
+						<span>⭐ 37930</span>
+						<span>🔱 20095</span>
 					</div>
 				<div class="stars-today">⭐ 33211 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 19573</span>
+						<span>⭐ 19587</span>
 						<span>🔱 933</span>
 					</div>
 				<div class="stars-today">⭐ 17971 stars this month</div>
@@ -60,24 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/google/adk-go" target="_blank">
     
 
 
       
-        usestrix /
+        google /
 
-      strix</a></p>
+      adk-go</a></p>
 				<p>
-      Open-source AI agents for penetration testing
+      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16943</span>
-						<span>🔱 1721</span>
+						<span>🔠 Go</span>
+						<span>⭐ 6064</span>
+						<span>🔱 411</span>
 					</div>
-				<div class="stars-today">⭐ 14301 stars this month</div>
+				<div class="stars-today">⭐ 6095 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9506</span>
+						<span>⭐ 9512</span>
 						<span>🔱 678</span>
 					</div>
 				<div class="stars-today">⭐ 7918 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI agents for penetration testing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16951</span>
+						<span>🔱 1720</span>
+					</div>
+				<div class="stars-today">⭐ 14301 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3651</span>
+						<span>⭐ 3655</span>
 						<span>🔱 349</span>
 					</div>
 				<div class="stars-today">⭐ 1648 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5764</span>
-						<span>🔱 664</span>
-					</div>
-				<div class="stars-today">⭐ 2785 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8735</span>
-						<span>🔱 902</span>
+						<span>⭐ 8748</span>
+						<span>🔱 903</span>
 					</div>
 				<div class="stars-today">⭐ 781 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5775</span>
+						<span>🔱 667</span>
+					</div>
+				<div class="stars-today">⭐ 2785 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 61100</span>
-						<span>🔱 13562</span>
+						<span>⭐ 61103</span>
+						<span>🔱 13564</span>
 					</div>
 				<div class="stars-today">⭐ 6787 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 15311</span>
+						<span>🔱 657</span>
+					</div>
+				<div class="stars-today">⭐ 3966 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4333</span>
+						<span>⭐ 4334</span>
 						<span>🔱 153</span>
 					</div>
 				<div class="stars-today">⭐ 1726 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      gemini-cli</a></p>
+				<p>
+      An open-source AI agent that brings the power of Gemini directly into your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 86144</span>
+						<span>🔱 9833</span>
+					</div>
+				<div class="stars-today">⭐ 4829 stars this month</div>
 				</div>
 			</div>
 	
@@ -229,7 +295,7 @@ keywords:
 					<div>
 						<span>🔠 TypeScript</span>
 						<span>⭐ 14968</span>
-						<span>🔱 4471</span>
+						<span>🔱 4473</span>
 					</div>
 				<div class="stars-today">⭐ 1357 stars this month</div>
 				</div>
@@ -250,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45257</span>
+						<span>⭐ 45263</span>
 						<span>🔱 5407</span>
 					</div>
 				<div class="stars-today">⭐ 5467 stars this month</div>
@@ -258,90 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
     
 
 
       
-        google-gemini /
+        HKUDS /
 
-      gemini-cli</a></p>
+      LightRAG</a></p>
 				<p>
-      An open-source AI agent that brings the power of Gemini directly into your terminal.
+      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 86131</span>
-						<span>🔱 9830</span>
+						<span>🔠 Python</span>
+						<span>⭐ 25488</span>
+						<span>🔱 3652</span>
 					</div>
-				<div class="stars-today">⭐ 4829 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15279</span>
-						<span>🔱 655</span>
-					</div>
-				<div class="stars-today">⭐ 3966 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ValveSoftware/Proton" target="_blank">
-    
-
-
-      
-        ValveSoftware /
-
-      Proton</a></p>
-				<p>
-      Compatibility tool for Steam Play based on Wine and additional components
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 29085</span>
-						<span>🔱 1262</span>
-					</div>
-				<div class="stars-today">⭐ 1011 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 104676</span>
-						<span>🔱 4695</span>
-					</div>
-				<div class="stars-today">⭐ 6549 stars this month</div>
+				<div class="stars-today">⭐ 3113 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,76 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7727</span>
-						<span>🔱 938</span>
+						<span>⭐ 7733</span>
+						<span>🔱 939</span>
 					</div>
 				<div class="stars-today">⭐ 922 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
+				<p><a href="https://github.com/traefik/traefik" target="_blank">
     
 
 
       
-        QuantConnect /
+        traefik /
 
-      Lean</a></p>
+      traefik</a></p>
 				<p>
-      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+      The Cloud Native Application Proxy
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 13661</span>
-						<span>🔱 3964</span>
+						<span>🔠 Go</span>
+						<span>⭐ 60269</span>
+						<span>🔱 5703</span>
 					</div>
-				<div class="stars-today">⭐ 951 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/farion1231/cc-switch" target="_blank">
-    
-
-
-      
-        farion1231 /
-
-      cc-switch</a></p>
-				<p>
-      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5948</span>
-						<span>🔱 393</span>
-					</div>
-				<div class="stars-today">⭐ 2724 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/playcanvas/engine" target="_blank">
-    
-
-
-      
-        playcanvas /
-
-      engine</a></p>
-				<p>
-      Powerful web graphics runtime built on WebGL, WebGPU, WebXR and glTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14135</span>
-						<span>🔱 1669</span>
-					</div>
-				<div class="stars-today">⭐ 3133 stars this month</div>
+				<div class="stars-today">⭐ 2841 stars this month</div>
 				</div>
 			</div>
 	

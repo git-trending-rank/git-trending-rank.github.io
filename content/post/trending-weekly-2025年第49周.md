@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第49周
-date: 2025-12-07T09:58:58Z
+date: 2025-12-07T11:58:33Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8735</span>
-						<span>🔱 902</span>
+						<span>⭐ 8748</span>
+						<span>🔱 903</span>
 					</div>
 				<div class="stars-today">⭐ 600 stars this week</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 84445</span>
+						<span>⭐ 84458</span>
 						<span>🔱 3745</span>
 					</div>
 				<div class="stars-today">⭐ 1951 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
-    
-
-
-      
-        ostris /
-
-      ai-toolkit</a></p>
-				<p>
-      The ultimate training toolkit for finetuning diffusion models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7727</span>
-						<span>🔱 938</span>
-					</div>
-				<div class="stars-today">⭐ 580 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10968</span>
-						<span>🔱 1987</span>
-					</div>
-				<div class="stars-today">⭐ 294 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15279</span>
-						<span>🔱 655</span>
+						<span>⭐ 15311</span>
+						<span>🔱 657</span>
 					</div>
 				<div class="stars-today">⭐ 3302 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10994</span>
+						<span>🔱 1988</span>
+					</div>
+				<div class="stars-today">⭐ 294 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 136274</span>
-						<span>🔱 29990</span>
+						<span>⭐ 136273</span>
+						<span>🔱 29991</span>
 					</div>
 				<div class="stars-today">⭐ 402 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
+				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
     
 
 
       
-        comfyanonymous /
+        microsoft /
 
-      ComfyUI</a></p>
+      typescript-go</a></p>
 				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+      Staging repo for development of native port of TypeScript
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 95959</span>
-						<span>🔱 10847</span>
+						<span>🔠 Go</span>
+						<span>⭐ 23124</span>
+						<span>🔱 752</span>
 					</div>
-				<div class="stars-today">⭐ 1031 stars this week</div>
+				<div class="stars-today">⭐ 170 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lynx-family/lynx" target="_blank">
+    
+
+
+      
+        lynx-family /
+
+      lynx</a></p>
+				<p>
+      Empower the Web community and invite more to build across platforms.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 13803</span>
+						<span>🔱 478</span>
+					</div>
+				<div class="stars-today">⭐ 233 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 30243</span>
+						<span>🔱 2837</span>
+					</div>
+				<div class="stars-today">⭐ 144 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FortAwesome/Font-Awesome" target="_blank">
+    
+
+
+      
+        FortAwesome /
+
+      Font-Awesome</a></p>
+				<p>
+      The iconic SVG, font, and CSS toolkit
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 75930</span>
+						<span>🔱 12211</span>
+					</div>
+				<div class="stars-today">⭐ 77 stars this week</div>
 				</div>
 			</div>
 	
@@ -192,28 +236,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
-    
-
-
-      
-        aliasrobotics /
-
-      cai</a></p>
-				<p>
-      Cybersecurity AI (CAI), the framework for AI Security
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6125</span>
-						<span>🔱 843</span>
-					</div>
-				<div class="stars-today">⭐ 404 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/android/nav3-recipes" target="_blank">
     
 
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 974</span>
+						<span>⭐ 976</span>
 						<span>🔱 89</span>
 					</div>
 				<div class="stars-today">⭐ 74 stars this week</div>
@@ -236,112 +258,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/QuentinFuxa/WhisperLiveKit" target="_blank">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
     
 
 
       
-        QuentinFuxa /
+        ostris /
 
-      WhisperLiveKit</a></p>
+      ai-toolkit</a></p>
 				<p>
-      Simultaneous speech-to-text model
+      The ultimate training toolkit for finetuning diffusion models
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9058</span>
-						<span>🔱 890</span>
+						<span>⭐ 7733</span>
+						<span>🔱 939</span>
 					</div>
-				<div class="stars-today">⭐ 390 stars this week</div>
+				<div class="stars-today">⭐ 580 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FortAwesome/Font-Awesome" target="_blank">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
     
 
 
       
-        FortAwesome /
+        humanlayer /
 
-      Font-Awesome</a></p>
+      humanlayer</a></p>
 				<p>
-      The iconic SVG, font, and CSS toolkit
+      The best way to get AI coding agents to solve hard problems in complex codebases.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 75929</span>
-						<span>🔱 12211</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7364</span>
+						<span>🔱 603</span>
 					</div>
-				<div class="stars-today">⭐ 77 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      typescript-go</a></p>
-				<p>
-      Staging repo for development of native port of TypeScript
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 23122</span>
-						<span>🔱 752</span>
-					</div>
-				<div class="stars-today">⭐ 170 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Comfy-Org/ComfyUI-Manager" target="_blank">
-    
-
-
-      
-        Comfy-Org /
-
-      ComfyUI-Manager</a></p>
-				<p>
-      ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12576</span>
-						<span>🔱 1732</span>
-					</div>
-				<div class="stars-today">⭐ 180 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
-    
-
-
-      
-        winapps-org /
-
-      winapps</a></p>
-				<p>
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 12967</span>
-						<span>🔱 401</span>
-					</div>
-				<div class="stars-today">⭐ 373 stars this week</div>
+				<div class="stars-today">⭐ 388 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +316,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44893</span>
+						<span>⭐ 44902</span>
 						<span>🔱 3116</span>
 					</div>
 				<div class="stars-today">⭐ 964 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/once-campfire" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      once-campfire</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 3670</span>
+						<span>🔱 587</span>
+					</div>
+				<div class="stars-today">⭐ 73 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TelegramMessenger/Telegram-iOS" target="_blank">
+    
+
+
+      
+        TelegramMessenger /
+
+      Telegram-iOS</a></p>
+				<p>
+      Telegram-iOS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 7589</span>
+						<span>🔱 2196</span>
+					</div>
+				<div class="stars-today">⭐ 116 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
+    
+
+
+      
+        aliasrobotics /
+
+      cai</a></p>
+				<p>
+      Cybersecurity AI (CAI), the framework for AI Security
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6130</span>
+						<span>🔱 843</span>
+					</div>
+				<div class="stars-today">⭐ 404 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
+    
+
+
+      
+        comfyanonymous /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 95970</span>
+						<span>🔱 10848</span>
+					</div>
+				<div class="stars-today">⭐ 1031 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/minio/minio" target="_blank">
+    
+
+
+      
+        minio /
+
+      minio</a></p>
+				<p>
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 59018</span>
+						<span>🔱 6649</span>
+					</div>
+				<div class="stars-today">⭐ 440 stars this week</div>
 				</div>
 			</div>
 	
