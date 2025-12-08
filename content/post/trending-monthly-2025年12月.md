@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-08T09:58:53Z
+date: 2025-12-08T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38158</span>
-						<span>🔱 20132</span>
+						<span>⭐ 38182</span>
+						<span>🔱 20135</span>
 					</div>
 				<div class="stars-today">⭐ 33318 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 19930</span>
-						<span>🔱 956</span>
+						<span>⭐ 19996</span>
+						<span>🔱 964</span>
 					</div>
 				<div class="stars-today">⭐ 18157 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6097</span>
+						<span>⭐ 6099</span>
 						<span>🔱 412</span>
 					</div>
 				<div class="stars-today">⭐ 6014 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
-    
-
-
-      
-        MemoriLabs /
-
-      Memori</a></p>
-				<p>
-      Open-Source Memory Engine for LLMs, AI Agents & Multi-Agent Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9591</span>
-						<span>🔱 685</span>
-					</div>
-				<div class="stars-today">⭐ 7979 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17077</span>
-						<span>🔱 1733</span>
+						<span>⭐ 17090</span>
+						<span>🔱 1734</span>
 					</div>
 				<div class="stars-today">⭐ 14024 stars this month</div>
 				</div>
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3691</span>
+						<span>⭐ 3694</span>
 						<span>🔱 353</span>
 					</div>
 				<div class="stars-today">⭐ 1674 stars this month</div>
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8832</span>
+						<span>⭐ 8840</span>
 						<span>🔱 907</span>
 					</div>
 				<div class="stars-today">⭐ 869 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 15851</span>
+						<span>🔱 680</span>
+					</div>
+				<div class="stars-today">⭐ 4334 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5952</span>
-						<span>🔱 686</span>
+						<span>⭐ 5965</span>
+						<span>🔱 689</span>
 					</div>
 				<div class="stars-today">⭐ 2789 stars this month</div>
 				</div>
@@ -206,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 61185</span>
-						<span>🔱 13577</span>
+						<span>⭐ 61192</span>
+						<span>🔱 13579</span>
 					</div>
 				<div class="stars-today">⭐ 6818 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15819</span>
-						<span>🔱 679</span>
-					</div>
-				<div class="stars-today">⭐ 4334 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opencloud-eu/opencloud" target="_blank">
-    
-
-
-      
-        opencloud-eu /
-
-      opencloud</a></p>
-				<p>
-      🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4350</span>
-						<span>🔱 153</span>
-					</div>
-				<div class="stars-today">⭐ 1603 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86285</span>
-						<span>🔱 9845</span>
+						<span>⭐ 86303</span>
+						<span>🔱 9847</span>
 					</div>
 				<div class="stars-today">⭐ 4837 stars this month</div>
 				</div>
@@ -294,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15018</span>
+						<span>⭐ 15023</span>
 						<span>🔱 4482</span>
 					</div>
 				<div class="stars-today">⭐ 1354 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
-    
-
-
-      
-        yeongpin /
-
-      cursor-free-vip</a></p>
-				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45339</span>
-						<span>🔱 5417</span>
-					</div>
-				<div class="stars-today">⭐ 5446 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25544</span>
-						<span>🔱 3662</span>
+						<span>⭐ 25552</span>
+						<span>🔱 3663</span>
 					</div>
 				<div class="stars-today">⭐ 3122 stars this month</div>
 				</div>
@@ -360,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7817</span>
+						<span>⭐ 7824</span>
 						<span>🔱 942</span>
 					</div>
 				<div class="stars-today">⭐ 984 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13180</span>
+						<span>🔱 1565</span>
+					</div>
+				<div class="stars-today">⭐ 3216 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 60312</span>
+						<span>⭐ 60321</span>
 						<span>🔱 5703</span>
 					</div>
 				<div class="stars-today">⭐ 2862 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
+    
+
+
+      
+        QuantConnect /
+
+      Lean</a></p>
+				<p>
+      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 13687</span>
+						<span>🔱 3968</span>
+					</div>
+				<div class="stars-today">⭐ 993 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+    
+
+
+      
+        yeongpin /
+
+      cursor-free-vip</a></p>
+				<p>
+      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45347</span>
+						<span>🔱 5418</span>
+					</div>
+				<div class="stars-today">⭐ 5446 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11307</span>
+						<span>🔱 2010</span>
+					</div>
+				<div class="stars-today">⭐ 869 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-08
-date: 2025-12-08T09:58:50Z
+date: 2025-12-08T11:58:41Z
 categories:
 - daily
 keywords:
@@ -30,184 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12993</span>
-						<span>🔱 1554</span>
+						<span>⭐ 13180</span>
+						<span>🔱 1565</span>
 					</div>
-				<div class="stars-today">⭐ 577 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cutile-python</a></p>
-				<p>
-      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 915</span>
-						<span>🔱 44</span>
-					</div>
-				<div class="stars-today">⭐ 148 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 22064</span>
-						<span>🔱 3612</span>
-					</div>
-				<div class="stars-today">⭐ 268 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TelegramMessenger/Telegram-iOS" target="_blank">
-    
-
-
-      
-        TelegramMessenger /
-
-      Telegram-iOS</a></p>
-				<p>
-      Telegram-iOS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 7693</span>
-						<span>🔱 2201</span>
-					</div>
-				<div class="stars-today">⭐ 8 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11281</span>
-						<span>🔱 2010</span>
-					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15819</span>
-						<span>🔱 679</span>
-					</div>
-				<div class="stars-today">⭐ 429 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36992</span>
-						<span>🔱 3094</span>
-					</div>
-				<div class="stars-today">⭐ 153 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BeehiveInnovations/pal-mcp-server" target="_blank">
-    
-
-
-      
-        BeehiveInnovations /
-
-      pal-mcp-server</a></p>
-				<p>
-      The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10246</span>
-						<span>🔱 861</span>
-					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Foundry-Local" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      Foundry-Local</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Svelte</span>
-						<span>⭐ 1473</span>
-						<span>🔱 178</span>
-					</div>
-				<div class="stars-today">⭐ 189 stars today</div>
+				<div class="stars-today">⭐ 1825 stars today</div>
 				</div>
 			</div>
 	
@@ -226,54 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1148</span>
-						<span>🔱 37</span>
+						<span>⭐ 1167</span>
+						<span>🔱 38</span>
 					</div>
-				<div class="stars-today">⭐ 302 stars today</div>
+				<div class="stars-today">⭐ 227 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ashishpatel26/500-AI-Agents-Projects" target="_blank">
+				<p><a href="https://github.com/winapps-org/winapps" target="_blank">
     
 
 
       
-        ashishpatel26 /
+        winapps-org /
 
-      500-AI-Agents-Projects</a></p>
+      winapps</a></p>
 				<p>
-      The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.
+       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 19540</span>
-						<span>🔱 3509</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 13117</span>
+						<span>🔱 407</span>
 					</div>
-				<div class="stars-today">⭐ 423 stars today</div>
+				<div class="stars-today">⭐ 135 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/blakeblackshear/frigate" target="_blank">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
     
 
 
       
-        blakeblackshear /
+        patchy631 /
 
-      frigate</a></p>
+      ai-engineering-hub</a></p>
 				<p>
-      NVR with realtime local object detection for IP cameras
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 22119</span>
+						<span>🔱 3613</span>
+					</div>
+				<div class="stars-today">⭐ 549 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/slidevjs/slidev" target="_blank">
+    
+
+
+      
+        slidevjs /
+
+      slidev</a></p>
+				<p>
+      Presentation Slides for Developers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27749</span>
-						<span>🔱 2587</span>
+						<span>⭐ 42454</span>
+						<span>🔱 1822</span>
 					</div>
-				<div class="stars-today">⭐ 25 stars today</div>
+				<div class="stars-today">⭐ 212 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/vibesdk" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      vibesdk</a></p>
+				<p>
+      An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3515</span>
+						<span>🔱 913</span>
+					</div>
+				<div class="stars-today">⭐ 149 stars today</div>
 				</div>
 			</div>
 	
@@ -292,32 +162,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12894</span>
-						<span>🔱 1301</span>
+						<span>⭐ 12936</span>
+						<span>🔱 1302</span>
 					</div>
-				<div class="stars-today">⭐ 201 stars today</div>
+				<div class="stars-today">⭐ 543 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/activepieces/activepieces" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
     
 
 
       
-        activepieces /
+        anthropics /
 
-      activepieces</a></p>
+      claude-quickstarts</a></p>
 				<p>
-      AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19583</span>
-						<span>🔱 3009</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11307</span>
+						<span>🔱 2010</span>
 					</div>
-				<div class="stars-today">⭐ 22 stars today</div>
+				<div class="stars-today">⭐ 322 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      BettaFish</a></p>
+				<p>
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31445</span>
+						<span>🔱 6057</span>
+					</div>
+				<div class="stars-today">⭐ 305 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/Foundry-Local" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      Foundry-Local</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Svelte</span>
+						<span>⭐ 1483</span>
+						<span>🔱 179</span>
+					</div>
+				<div class="stars-today">⭐ 229 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 80357</span>
+						<span>🔱 18857</span>
+					</div>
+				<div class="stars-today">⭐ 142 stars today</div>
 				</div>
 			</div>
 	

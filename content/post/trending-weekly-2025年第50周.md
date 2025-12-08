@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第50周
-date: 2025-12-08T09:58:50Z
+date: 2025-12-08T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        microsoft /
+        rustfs /
 
-      magentic-ui</a></p>
+      rustfs</a></p>
 				<p>
-      A research prototype of a human-centered web agent
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8832</span>
-						<span>🔱 907</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 15851</span>
+						<span>🔱 680</span>
 					</div>
-				<div class="stars-today">⭐ 610 stars this week</div>
+				<div class="stars-today">⭐ 3671 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 84581</span>
+						<span>⭐ 84593</span>
 						<span>🔱 3755</span>
 					</div>
 				<div class="stars-today">⭐ 2109 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15819</span>
-						<span>🔱 679</span>
-					</div>
-				<div class="stars-today">⭐ 3671 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11281</span>
+						<span>⭐ 11307</span>
 						<span>🔱 2010</span>
 					</div>
 				<div class="stars-today">⭐ 536 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
-    
-
-
-      
-        vercel /
-
-      next.js</a></p>
-				<p>
-      The React Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 136312</span>
-						<span>🔱 29992</span>
-					</div>
-				<div class="stars-today">⭐ 412 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 23161</span>
-						<span>🔱 754</span>
+						<span>⭐ 23165</span>
+						<span>🔱 755</span>
 					</div>
 				<div class="stars-today">⭐ 190 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      magentic-ui</a></p>
+				<p>
+      A research prototype of a human-centered web agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8840</span>
+						<span>🔱 907</span>
+					</div>
+				<div class="stars-today">⭐ 610 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel/next.js" target="_blank">
+    
+
+
+      
+        vercel /
+
+      next.js</a></p>
+				<p>
+      The React Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 136317</span>
+						<span>🔱 29993</span>
+					</div>
+				<div class="stars-today">⭐ 412 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 45021</span>
+						<span>🔱 3127</span>
+					</div>
+				<div class="stars-today">⭐ 1016 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 13818</span>
+						<span>⭐ 13822</span>
 						<span>🔱 478</span>
 					</div>
 				<div class="stars-today">⭐ 276 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
+    
+
+
+      
+        humanlayer /
+
+      humanlayer</a></p>
+				<p>
+      The best way to get AI coding agents to solve hard problems in complex codebases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7465</span>
+						<span>🔱 609</span>
+					</div>
+				<div class="stars-today">⭐ 437 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 30276</span>
+						<span>⭐ 30283</span>
 						<span>🔱 2839</span>
 					</div>
 				<div class="stars-today">⭐ 249 stars this week</div>
@@ -206,140 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 75954</span>
-						<span>🔱 12210</span>
+						<span>⭐ 75958</span>
+						<span>🔱 12211</span>
 					</div>
 				<div class="stars-today">⭐ 108 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gunnarmorling/1brc" target="_blank">
-    
-
-
-      
-        gunnarmorling /
-
-      1brc</a></p>
-				<p>
-      1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 7772</span>
-						<span>🔱 2138</span>
-					</div>
-				<div class="stars-today">⭐ 102 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/android/nav3-recipes" target="_blank">
-    
-
-
-      
-        android /
-
-      nav3-recipes</a></p>
-				<p>
-      Implement common use cases with Jetpack Navigation 3
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 991</span>
-						<span>🔱 89</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
-    
-
-
-      
-        ostris /
-
-      ai-toolkit</a></p>
-				<p>
-      The ultimate training toolkit for finetuning diffusion models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7817</span>
-						<span>🔱 942</span>
-					</div>
-				<div class="stars-today">⭐ 536 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7455</span>
-						<span>🔱 609</span>
-					</div>
-				<div class="stars-today">⭐ 437 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 45009</span>
-						<span>🔱 3127</span>
-					</div>
-				<div class="stars-today">⭐ 1016 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/once-campfire" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      once-campfire</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 3687</span>
-						<span>🔱 588</span>
-					</div>
-				<div class="stars-today">⭐ 77 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 7693</span>
-						<span>🔱 2201</span>
+						<span>⭐ 7695</span>
+						<span>🔱 2202</span>
 					</div>
 				<div class="stars-today">⭐ 127 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
+				<p><a href="https://github.com/facebook/react" target="_blank">
     
 
 
       
-        aliasrobotics /
+        facebook /
 
-      cai</a></p>
+      react</a></p>
 				<p>
-      Cybersecurity AI (CAI), the framework for AI Security
+      The library for web and native user interfaces.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6178</span>
-						<span>🔱 846</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 241376</span>
+						<span>🔱 50032</span>
 					</div>
-				<div class="stars-today">⭐ 437 stars this week</div>
+				<div class="stars-today">⭐ 462 stars this week</div>
 				</div>
 			</div>
 	
@@ -402,10 +316,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 96109</span>
-						<span>🔱 10870</span>
+						<span>⭐ 96124</span>
+						<span>🔱 10874</span>
 					</div>
 				<div class="stars-today">⭐ 1046 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+    
+
+
+      
+        ostris /
+
+      ai-toolkit</a></p>
+				<p>
+      The ultimate training toolkit for finetuning diffusion models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7824</span>
+						<span>🔱 942</span>
+					</div>
+				<div class="stars-today">⭐ 536 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/once-campfire" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      once-campfire</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 3690</span>
+						<span>🔱 588</span>
+					</div>
+				<div class="stars-today">⭐ 77 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aliasrobotics/cai" target="_blank">
+    
+
+
+      
+        aliasrobotics /
+
+      cai</a></p>
+				<p>
+      Cybersecurity AI (CAI), the framework for AI Security
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6183</span>
+						<span>🔱 846</span>
+					</div>
+				<div class="stars-today">⭐ 437 stars this week</div>
 				</div>
 			</div>
 	
@@ -424,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 59051</span>
-						<span>🔱 6670</span>
+						<span>⭐ 59053</span>
+						<span>🔱 6673</span>
 					</div>
 				<div class="stars-today">⭐ 428 stars this week</div>
 				</div>
