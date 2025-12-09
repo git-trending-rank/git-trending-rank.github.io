@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-09T09:58:49Z
+date: 2025-12-09T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38361</span>
-						<span>🔱 20183</span>
+						<span>⭐ 38377</span>
+						<span>🔱 20200</span>
 					</div>
 				<div class="stars-today">⭐ 33506 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 20389</span>
-						<span>🔱 1000</span>
+						<span>⭐ 20430</span>
+						<span>🔱 1004</span>
 					</div>
 				<div class="stars-today">⭐ 18593 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6117</span>
-						<span>🔱 417</span>
+						<span>⭐ 6120</span>
+						<span>🔱 418</span>
 					</div>
 				<div class="stars-today">⭐ 5892 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15721</span>
+						<span>🔱 1733</span>
+					</div>
+				<div class="stars-today">⭐ 3529 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17213</span>
-						<span>🔱 1743</span>
+						<span>⭐ 17227</span>
+						<span>🔱 1742</span>
 					</div>
 				<div class="stars-today">⭐ 13517 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lzhoang2801/OpCore-Simplify" target="_blank">
-    
-
-
-      
-        lzhoang2801 /
-
-      OpCore-Simplify</a></p>
-				<p>
-      A tool designed to simplify the creation of OpenCore EFI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3731</span>
-						<span>🔱 356</span>
-					</div>
-				<div class="stars-today">⭐ 1681 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8906</span>
+						<span>⭐ 8912</span>
 						<span>🔱 914</span>
 					</div>
 				<div class="stars-today">⭐ 958 stars this month</div>
@@ -162,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16113</span>
-						<span>🔱 688</span>
+						<span>⭐ 16133</span>
+						<span>🔱 692</span>
 					</div>
 				<div class="stars-today">⭐ 4848 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+				<p><a href="https://github.com/lzhoang2801/OpCore-Simplify" target="_blank">
     
 
 
       
-        datawhalechina /
+        lzhoang2801 /
 
-      hello-agents</a></p>
+      OpCore-Simplify</a></p>
 				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+      A tool designed to simplify the creation of OpenCore EFI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6290</span>
-						<span>🔱 728</span>
+						<span>⭐ 3733</span>
+						<span>🔱 356</span>
 					</div>
-				<div class="stars-today">⭐ 2889 stars this month</div>
+				<div class="stars-today">⭐ 1681 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 61261</span>
-						<span>🔱 13597</span>
+						<span>⭐ 61270</span>
+						<span>🔱 13600</span>
 					</div>
 				<div class="stars-today">⭐ 6876 stars this month</div>
 				</div>
@@ -228,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86455</span>
-						<span>🔱 9870</span>
+						<span>⭐ 86467</span>
+						<span>🔱 9872</span>
 					</div>
 				<div class="stars-today">⭐ 4932 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11657</span>
+						<span>🔱 2043</span>
+					</div>
+				<div class="stars-today">⭐ 1160 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6340</span>
+						<span>🔱 733</span>
+					</div>
+				<div class="stars-today">⭐ 2889 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15080</span>
-						<span>🔱 4492</span>
+						<span>⭐ 15083</span>
+						<span>🔱 4493</span>
 					</div>
 				<div class="stars-today">⭐ 1388 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      LightRAG</a></p>
-				<p>
-      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25628</span>
-						<span>🔱 3668</span>
-					</div>
-				<div class="stars-today">⭐ 3167 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7893</span>
+						<span>⭐ 7898</span>
 						<span>🔱 948</span>
 					</div>
 				<div class="stars-today">⭐ 1062 stars this month</div>
@@ -302,24 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
     
 
 
       
-        microsoft /
+        HKUDS /
 
-      VibeVoice</a></p>
+      LightRAG</a></p>
 				<p>
-      Open-Source Frontier Voice AI
+      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15596</span>
-						<span>🔱 1725</span>
+						<span>⭐ 25636</span>
+						<span>🔱 3669</span>
 					</div>
-				<div class="stars-today">⭐ 3529 stars this month</div>
+				<div class="stars-today">⭐ 3167 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 60346</span>
+						<span>⭐ 60348</span>
 						<span>🔱 5704</span>
 					</div>
 				<div class="stars-today">⭐ 2898 stars this month</div>
@@ -360,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 13757</span>
+						<span>⭐ 13762</span>
 						<span>🔱 3977</span>
 					</div>
 				<div class="stars-today">⭐ 1009 stars this month</div>
@@ -382,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45419</span>
-						<span>🔱 5433</span>
+						<span>⭐ 45426</span>
+						<span>🔱 5435</span>
 					</div>
 				<div class="stars-today">⭐ 5478 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11645</span>
-						<span>🔱 2042</span>
-					</div>
-				<div class="stars-today">⭐ 1160 stars this month</div>
 				</div>
 			</div>
 	
