@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 09 Dec 2025 09:58:48 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 09 Dec 2025 11:58:51 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-12-09</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-12-09/</link>
-        <pubDate>Tue, 09 Dec 2025 09:58:48 +0000</pubDate>
+        <pubDate>Tue, 09 Dec 2025 11:58:51 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-12-09/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,6 +17,72 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/KaijuEngine/kaiju&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        KaijuEngine /
+
+      kaiju&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 793&lt;/span&gt;
+						&lt;span&gt;🔱 36&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 249 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        thedotmack /
+
+      claude-mem&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1113&lt;/span&gt;
+						&lt;span&gt;🔱 80&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 323 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dyad-sh/dyad&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dyad-sh /
+
+      dyad&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 17881&lt;/span&gt;
+						&lt;span&gt;🔱 1984&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 70 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/VibeVoice&#34; target=&#34;_blank&#34;&gt;
@@ -33,54 +99,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15596&lt;/span&gt;
-						&lt;span&gt;🔱 1725&lt;/span&gt;
+						&lt;span&gt;⭐ 15721&lt;/span&gt;
+						&lt;span&gt;🔱 1733&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1894 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sinelaw/fresh&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NVIDIA/cutile-python&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        sinelaw /
+        NVIDIA /
 
-      fresh&lt;/a&gt;&lt;/p&gt;
+      cutile-python&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Text editor for your terminal: easy, powerful and fast
+      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 1431&lt;/span&gt;
-						&lt;span&gt;🔱 44&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 1109&lt;/span&gt;
+						&lt;span&gt;🔱 50&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 230 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 333 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/winapps-org/winapps&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/adk-samples&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        winapps-org /
+        google /
 
-      winapps&lt;/a&gt;&lt;/p&gt;
+      adk-samples&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-       Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/
+      A collection of sample agents built with Agent Development Kit (ADK) 
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 13343&lt;/span&gt;
-						&lt;span&gt;🔱 418&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6898&lt;/span&gt;
+						&lt;span&gt;🔱 2000&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 139 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 67 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,98 +165,30 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 22616&lt;/span&gt;
-						&lt;span&gt;🔱 3660&lt;/span&gt;
+						&lt;span&gt;⭐ 22648&lt;/span&gt;
+						&lt;span&gt;🔱 3663&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 572 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/slidevjs/slidev&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zhu-xlab/GlobalBuildingAtlas&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        slidevjs /
+        zhu-xlab /
 
-      slidev&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Presentation Slides for Developers
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 42969&lt;/span&gt;
-						&lt;span&gt;🔱 1836&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 223 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/cloudflare/vibesdk&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        cloudflare /
-
-      vibesdk&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3883&lt;/span&gt;
-						&lt;span&gt;🔱 941&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 184 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lfnovo/open-notebook&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lfnovo /
-
-      open-notebook&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An Open Source implementation of Notebook LM with more flexibility and features
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13495&lt;/span&gt;
-						&lt;span&gt;🔱 1352&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 548 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-quickstarts&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    &lt;/p&gt;
+      GlobalBuildingAtlas&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11645&lt;/span&gt;
-						&lt;span&gt;🔱 2042&lt;/span&gt;
+						&lt;span&gt;⭐ 1012&lt;/span&gt;
+						&lt;span&gt;🔱 109&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 322 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 140 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,52 +207,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 31860&lt;/span&gt;
-						&lt;span&gt;🔱 6125&lt;/span&gt;
+						&lt;span&gt;⭐ 31892&lt;/span&gt;
+						&lt;span&gt;🔱 6133&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 285 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/Foundry-Local&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/generative-ai-for-beginners&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
         microsoft /
 
-      Foundry-Local&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Svelte&lt;/span&gt;
-						&lt;span&gt;⭐ 1653&lt;/span&gt;
-						&lt;span&gt;🔱 188&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 222 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ML-For-Beginners&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners&lt;/a&gt;&lt;/p&gt;
+      generative-ai-for-beginners&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+      21 Lessons, Get Started Building with Generative AI 
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 80892&lt;/span&gt;
-						&lt;span&gt;🔱 18962&lt;/span&gt;
+						&lt;span&gt;⭐ 102866&lt;/span&gt;
+						&lt;span&gt;🔱 54756&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 162 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 98 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sst/opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        sst /
+
+      opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open source coding agent.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 37269&lt;/span&gt;
+						&lt;span&gt;🔱 3124&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 654 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/srbhr/Resume-Matcher&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        srbhr /
+
+      Resume-Matcher&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 24141&lt;/span&gt;
+						&lt;span&gt;🔱 4522&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 34 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Johnshall /
+
+      Shadowrocket-ADBlock-Rules-Forever&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 20015&lt;/span&gt;
+						&lt;span&gt;🔱 1289&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 143 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
