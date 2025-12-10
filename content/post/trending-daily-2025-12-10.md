@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-10
-date: 2025-12-10T09:58:41Z
+date: 2025-12-10T11:58:49Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KaijuEngine/kaiju" target="_blank">
-    
-
-
-      
-        KaijuEngine /
-
-      kaiju</a></p>
-				<p>
-      General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2168</span>
-						<span>🔱 71</span>
-					</div>
-				<div class="stars-today">⭐ 260 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
@@ -52,10 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 1707</span>
-						<span>🔱 127</span>
+						<span>⭐ 1827</span>
+						<span>🔱 130</span>
 					</div>
-				<div class="stars-today">⭐ 209 stars today</div>
+				<div class="stars-today">⭐ 673 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KaijuEngine/kaiju" target="_blank">
+    
+
+
+      
+        KaijuEngine /
+
+      kaiju</a></p>
+				<p>
+      General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2264</span>
+						<span>🔱 80</span>
+					</div>
+				<div class="stars-today">⭐ 1486 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9183</span>
+						<span>🔱 728</span>
+					</div>
+				<div class="stars-today">⭐ 260 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13832</span>
+						<span>🔱 1391</span>
+					</div>
+				<div class="stars-today">⭐ 571 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18121</span>
-						<span>🔱 2001</span>
+						<span>⭐ 18135</span>
+						<span>🔱 2004</span>
 					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
+				<div class="stars-today">⭐ 266 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6790</span>
+						<span>🔱 776</span>
+					</div>
+				<div class="stars-today">⭐ 439 stars today</div>
 				</div>
 			</div>
 	
@@ -96,96 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16646</span>
-						<span>🔱 1814</span>
+						<span>⭐ 16693</span>
+						<span>🔱 1818</span>
 					</div>
-				<div class="stars-today">⭐ 2638 stars today</div>
+				<div class="stars-today">⭐ 988 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
+				<p><a href="https://github.com/block/goose" target="_blank">
     
 
 
       
-        NVIDIA /
+        block /
 
-      cutile-python</a></p>
+      goose</a></p>
 				<p>
-      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1306</span>
-						<span>🔱 61</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 23158</span>
+						<span>🔱 2098</span>
 					</div>
-				<div class="stars-today">⭐ 178 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-samples" target="_blank">
-    
-
-
-      
-        google /
-
-      adk-samples</a></p>
-				<p>
-      A collection of sample agents built with Agent Development Kit (ADK) 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7158</span>
-						<span>🔱 2016</span>
-					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 22917</span>
-						<span>🔱 3695</span>
-					</div>
-				<div class="stars-today">⭐ 550 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zhu-xlab/GlobalBuildingAtlas" target="_blank">
-    
-
-
-      
-        zhu-xlab /
-
-      GlobalBuildingAtlas</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1199</span>
-						<span>🔱 122</span>
-					</div>
-				<div class="stars-today">⭐ 143 stars today</div>
+				<div class="stars-today">⭐ 389 stars today</div>
 				</div>
 			</div>
 	
@@ -204,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32179</span>
+						<span>⭐ 32204</span>
 						<span>🔱 6193</span>
 					</div>
-				<div class="stars-today">⭐ 464 stars today</div>
+				<div class="stars-today">⭐ 331 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/vibesdk" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      vibesdk</a></p>
+				<p>
+      An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4002</span>
+						<span>🔱 952</span>
+					</div>
+				<div class="stars-today">⭐ 325 stars today</div>
 				</div>
 			</div>
 	
@@ -226,76 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 103229</span>
-						<span>🔱 54828</span>
+						<span>⭐ 103259</span>
+						<span>🔱 54832</span>
 					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
+				<div class="stars-today">⭐ 399 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
+				<p><a href="https://github.com/infiniflow/ragflow" target="_blank">
     
 
 
       
-        sst /
+        infiniflow /
 
-      opencode</a></p>
+      ragflow</a></p>
 				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37714</span>
-						<span>🔱 3161</span>
-					</div>
-				<div class="stars-today">⭐ 243 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
-    
-
-
-      
-        srbhr /
-
-      Resume-Matcher</a></p>
-				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+      RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24485</span>
-						<span>🔱 4540</span>
+						<span>⭐ 69270</span>
+						<span>🔱 7522</span>
 					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
+				<div class="stars-today">⭐ 187 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever" target="_blank">
+				<p><a href="https://github.com/google/adk-samples" target="_blank">
     
 
 
       
-        Johnshall /
+        google /
 
-      Shadowrocket-ADBlock-Rules-Forever</a></p>
+      adk-samples</a></p>
 				<p>
-      提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
+      A collection of sample agents built with Agent Development Kit (ADK) 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 20304</span>
-						<span>🔱 1307</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7182</span>
+						<span>🔱 2018</span>
 					</div>
-				<div class="stars-today">⭐ 237 stars today</div>
+				<div class="stars-today">⭐ 285 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 81022</span>
+						<span>🔱 19025</span>
+					</div>
+				<div class="stars-today">⭐ 495 stars today</div>
 				</div>
 			</div>
 	

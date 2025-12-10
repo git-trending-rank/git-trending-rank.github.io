@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-10T09:58:41Z
+date: 2025-12-10T11:58:49Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38532</span>
-						<span>🔱 20276</span>
+						<span>⭐ 38542</span>
+						<span>🔱 20278</span>
 					</div>
 				<div class="stars-today">⭐ 33617 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 20776</span>
-						<span>🔱 1040</span>
+						<span>⭐ 20805</span>
+						<span>🔱 1042</span>
 					</div>
 				<div class="stars-today">⭐ 18967 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-go" target="_blank">
-    
-
-
-      
-        google /
-
-      adk-go</a></p>
-				<p>
-      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6153</span>
-						<span>🔱 423</span>
-					</div>
-				<div class="stars-today">⭐ 5752 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16646</span>
-						<span>🔱 1814</span>
+						<span>⭐ 16693</span>
+						<span>🔱 1818</span>
 					</div>
 				<div class="stars-today">⭐ 5893 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/adk-go" target="_blank">
+    
+
+
+      
+        google /
+
+      adk-go</a></p>
+				<p>
+      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6155</span>
+						<span>🔱 423</span>
+					</div>
+				<div class="stars-today">⭐ 5752 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17349</span>
+						<span>⭐ 17362</span>
 						<span>🔱 1763</span>
 					</div>
 				<div class="stars-today">⭐ 11770 stars this month</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8954</span>
+						<span>⭐ 8956</span>
 						<span>🔱 916</span>
 					</div>
 				<div class="stars-today">⭐ 1018 stars this month</div>
@@ -162,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16412</span>
+						<span>⭐ 16428</span>
 						<span>🔱 708</span>
 					</div>
 				<div class="stars-today">⭐ 5076 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lzhoang2801/OpCore-Simplify" target="_blank">
-    
-
-
-      
-        lzhoang2801 /
-
-      OpCore-Simplify</a></p>
-				<p>
-      A tool designed to simplify the creation of OpenCore EFI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3763</span>
-						<span>🔱 360</span>
-					</div>
-				<div class="stars-today">⭐ 1653 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 61463</span>
-						<span>🔱 13652</span>
-					</div>
-				<div class="stars-today">⭐ 6805 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      gemini-cli</a></p>
-				<p>
-      An open-source AI agent that brings the power of Gemini directly into your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 86614</span>
-						<span>🔱 9898</span>
-					</div>
-				<div class="stars-today">⭐ 4998 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11771</span>
+						<span>⭐ 11785</span>
 						<span>🔱 2057</span>
 					</div>
 				<div class="stars-today">⭐ 1474 stars this month</div>
@@ -272,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6730</span>
-						<span>🔱 773</span>
+						<span>⭐ 6790</span>
+						<span>🔱 776</span>
 					</div>
 				<div class="stars-today">⭐ 3166 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15116</span>
-						<span>🔱 4502</span>
-					</div>
-				<div class="stars-today">⭐ 1404 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,54 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7961</span>
-						<span>🔱 951</span>
+						<span>⭐ 7966</span>
+						<span>🔱 953</span>
 					</div>
 				<div class="stars-today">⭐ 1121 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
+				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
     
 
 
       
-        HKUDS /
+        google-gemini /
 
-      LightRAG</a></p>
+      gemini-cli</a></p>
 				<p>
-      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+      An open-source AI agent that brings the power of Gemini directly into your terminal.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25708</span>
-						<span>🔱 3674</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 86630</span>
+						<span>🔱 9898</span>
 					</div>
-				<div class="stars-today">⭐ 3231 stars this month</div>
+				<div class="stars-today">⭐ 4998 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/traefik/traefik" target="_blank">
+				<p><a href="https://github.com/lzhoang2801/OpCore-Simplify" target="_blank">
     
 
 
       
-        traefik /
+        lzhoang2801 /
 
-      traefik</a></p>
+      OpCore-Simplify</a></p>
 				<p>
-      The Cloud Native Application Proxy
+      A tool designed to simplify the creation of OpenCore EFI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 60392</span>
-						<span>🔱 5702</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3766</span>
+						<span>🔱 361</span>
 					</div>
-				<div class="stars-today">⭐ 2906 stars this month</div>
+				<div class="stars-today">⭐ 1653 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +294,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 13817</span>
-						<span>🔱 3983</span>
+						<span>⭐ 13821</span>
+						<span>🔱 3984</span>
 					</div>
 				<div class="stars-today">⭐ 1072 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/yeongpin/cursor-free-vip" target="_blank">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
     
 
 
       
-        yeongpin /
+        ourongxing /
 
-      cursor-free-vip</a></p>
+      newsnow</a></p>
 				<p>
-      [Support 0.49.x]（Reset Cursor AI MachineID & Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15117</span>
+						<span>🔱 4500</span>
+					</div>
+				<div class="stars-today">⭐ 1404 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 61470</span>
+						<span>🔱 13652</span>
+					</div>
+				<div class="stars-today">⭐ 6805 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      LightRAG</a></p>
+				<p>
+      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45538</span>
-						<span>🔱 5444</span>
+						<span>⭐ 25712</span>
+						<span>🔱 3674</span>
 					</div>
-				<div class="stars-today">⭐ 5507 stars this month</div>
+				<div class="stars-today">⭐ 3231 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+    
+
+
+      
+        trustedsec /
+
+      social-engineer-toolkit</a></p>
+				<p>
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13508</span>
+						<span>🔱 3165</span>
+					</div>
+				<div class="stars-today">⭐ 930 stars this month</div>
 				</div>
 			</div>
 	
