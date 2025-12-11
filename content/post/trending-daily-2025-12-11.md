@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-11
-date: 2025-12-11T03:16:01Z
+date: 2025-12-11T04:23:39Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2879</span>
-						<span>🔱 176</span>
+						<span>⭐ 2955</span>
+						<span>🔱 179</span>
 					</div>
 				<div class="stars-today">⭐ 779 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2888</span>
-						<span>🔱 97</span>
+						<span>⭐ 2942</span>
+						<span>🔱 99</span>
 					</div>
 				<div class="stars-today">⭐ 1480 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9588</span>
-						<span>🔱 753</span>
+						<span>⭐ 9618</span>
+						<span>🔱 755</span>
 					</div>
 				<div class="stars-today">⭐ 321 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14089</span>
-						<span>🔱 1416</span>
+						<span>⭐ 14111</span>
+						<span>🔱 1417</span>
 					</div>
 				<div class="stars-today">⭐ 314 stars today</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18249</span>
+						<span>⭐ 18261</span>
 						<span>🔱 2008</span>
 					</div>
 				<div class="stars-today">⭐ 258 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7162</span>
-						<span>🔱 798</span>
+						<span>⭐ 7219</span>
+						<span>🔱 801</span>
 					</div>
 				<div class="stars-today">⭐ 458 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17065</span>
-						<span>🔱 1862</span>
+						<span>⭐ 17085</span>
+						<span>🔱 1865</span>
 					</div>
 				<div class="stars-today">⭐ 966 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23424</span>
-						<span>🔱 2112</span>
+						<span>⭐ 23445</span>
+						<span>🔱 2115</span>
 					</div>
 				<div class="stars-today">⭐ 441 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32370</span>
-						<span>🔱 6217</span>
+						<span>⭐ 32384</span>
+						<span>🔱 6218</span>
 					</div>
 				<div class="stars-today">⭐ 326 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4156</span>
-						<span>🔱 963</span>
+						<span>⭐ 4170</span>
+						<span>🔱 964</span>
 					</div>
 				<div class="stars-today">⭐ 101 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 103484</span>
-						<span>🔱 54915</span>
+						<span>⭐ 103508</span>
+						<span>🔱 54923</span>
 					</div>
 				<div class="stars-today">⭐ 404 stars today</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69413</span>
+						<span>⭐ 69426</span>
 						<span>🔱 7531</span>
 					</div>
 				<div class="stars-today">⭐ 174 stars today</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7379</span>
-						<span>🔱 2027</span>
+						<span>⭐ 7395</span>
+						<span>🔱 2028</span>
 					</div>
 				<div class="stars-today">⭐ 282 stars today</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 81348</span>
-						<span>🔱 19064</span>
+						<span>⭐ 81384</span>
+						<span>🔱 19070</span>
 					</div>
 				<div class="stars-today">⭐ 141 stars today</div>
 				</div>
