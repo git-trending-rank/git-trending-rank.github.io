@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第50周
-date: 2025-12-11T09:58:55Z
+date: 2025-12-11T11:58:58Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 5406</span>
+						<span>⭐ 5421</span>
 						<span>🔱 588</span>
 					</div>
 				<div class="stars-today">⭐ 3900 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6832</span>
-						<span>🔱 751</span>
-					</div>
-				<div class="stars-today">⭐ 3885 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16608</span>
+						<span>⭐ 16628</span>
 						<span>🔱 720</span>
 					</div>
 				<div class="stars-today">⭐ 4669 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6927</span>
+						<span>🔱 760</span>
+					</div>
+				<div class="stars-today">⭐ 3885 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11884</span>
-						<span>🔱 2064</span>
+						<span>⭐ 11894</span>
+						<span>🔱 2066</span>
 					</div>
 				<div class="stars-today">⭐ 1264 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9857</span>
+						<span>🔱 763</span>
+					</div>
+				<div class="stars-today">⭐ 554 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,186 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 84871</span>
+						<span>⭐ 84880</span>
 						<span>🔱 3785</span>
 					</div>
 				<div class="stars-today">⭐ 1930 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      typescript-go</a></p>
-				<p>
-      Staging repo for development of native port of TypeScript
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 23275</span>
-						<span>🔱 760</span>
-					</div>
-				<div class="stars-today">⭐ 257 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm-omni" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm-omni</a></p>
-				<p>
-      A framework for efficient model inference with omni-modality models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 846</span>
-						<span>🔱 104</span>
-					</div>
-				<div class="stars-today">⭐ 224 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
-    
-
-
-      
-        humanlayer /
-
-      humanlayer</a></p>
-				<p>
-      The best way to get AI coding agents to solve hard problems in complex codebases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7720</span>
-						<span>🔱 632</span>
-					</div>
-				<div class="stars-today">⭐ 603 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
-    
-
-
-      
-        vercel /
-
-      next.js</a></p>
-				<p>
-      The React Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 136432</span>
-						<span>🔱 30019</span>
-					</div>
-				<div class="stars-today">⭐ 461 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14251</span>
-						<span>🔱 1430</span>
-					</div>
-				<div class="stars-today">⭐ 2030 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lynx-family/lynx" target="_blank">
-    
-
-
-      
-        lynx-family /
-
-      lynx</a></p>
-				<p>
-      Empower the Web community and invite more to build across platforms.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 13881</span>
-						<span>🔱 482</span>
-					</div>
-				<div class="stars-today">⭐ 278 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 30402</span>
-						<span>🔱 2847</span>
-					</div>
-				<div class="stars-today">⭐ 336 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TelegramMessenger/Telegram-iOS" target="_blank">
-    
-
-
-      
-        TelegramMessenger /
-
-      Telegram-iOS</a></p>
-				<p>
-      Telegram-iOS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 7749</span>
-						<span>🔱 2213</span>
-					</div>
-				<div class="stars-today">⭐ 267 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +162,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24609</span>
+						<span>⭐ 24613</span>
 						<span>🔱 4549</span>
 					</div>
 				<div class="stars-today">⭐ 520 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14277</span>
+						<span>🔱 1433</span>
+					</div>
+				<div class="stars-today">⭐ 2030 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      typescript-go</a></p>
+				<p>
+      Staging repo for development of native port of TypeScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 23279</span>
+						<span>🔱 760</span>
+					</div>
+				<div class="stars-today">⭐ 257 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TelegramMessenger/Telegram-iOS" target="_blank">
+    
+
+
+      
+        TelegramMessenger /
+
+      Telegram-iOS</a></p>
+				<p>
+      Telegram-iOS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 7751</span>
+						<span>🔱 2214</span>
+					</div>
+				<div class="stars-today">⭐ 267 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lynx-family/lynx" target="_blank">
+    
+
+
+      
+        lynx-family /
+
+      lynx</a></p>
+				<p>
+      Empower the Web community and invite more to build across platforms.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 13882</span>
+						<span>🔱 483</span>
+					</div>
+				<div class="stars-today">⭐ 278 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/vibesdk" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      vibesdk</a></p>
+				<p>
+      An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4232</span>
+						<span>🔱 970</span>
+					</div>
+				<div class="stars-today">⭐ 726 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/projectdiscovery/nuclei-templates" target="_blank">
+    
+
+
+      
+        projectdiscovery /
+
+      nuclei-templates</a></p>
+				<p>
+      Community curated list of templates for the nuclei engine to find security vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11615</span>
+						<span>🔱 3214</span>
+					</div>
+				<div class="stars-today">⭐ 160 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/leejet/stable-diffusion.cpp" target="_blank">
+    
+
+
+      
+        leejet /
+
+      stable-diffusion.cpp</a></p>
+				<p>
+      Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4809</span>
+						<span>🔱 467</span>
+					</div>
+				<div class="stars-today">⭐ 124 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8036</span>
+						<span>⭐ 8038</span>
 						<span>🔱 955</span>
 					</div>
 				<div class="stars-today">⭐ 513 stars this week</div>
@@ -346,24 +346,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FortAwesome/Font-Awesome" target="_blank">
+				<p><a href="https://github.com/vercel/next.js" target="_blank">
     
 
 
       
-        FortAwesome /
+        vercel /
 
-      Font-Awesome</a></p>
+      next.js</a></p>
 				<p>
-      The iconic SVG, font, and CSS toolkit
+      The React Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 76056</span>
-						<span>🔱 12220</span>
+						<span>⭐ 136433</span>
+						<span>🔱 30020</span>
 					</div>
-				<div class="stars-today">⭐ 164 stars this week</div>
+				<div class="stars-today">⭐ 461 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45435</span>
-						<span>🔱 3164</span>
+						<span>⭐ 45445</span>
+						<span>🔱 3163</span>
 					</div>
 				<div class="stars-today">⭐ 901 stars this week</div>
 				</div>

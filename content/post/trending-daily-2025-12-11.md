@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-11
-date: 2025-12-11T09:58:54Z
+date: 2025-12-11T11:58:58Z
 categories:
 - daily
 keywords:
@@ -30,142 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3394</span>
-						<span>🔱 194</span>
+						<span>⭐ 3480</span>
+						<span>🔱 197</span>
 					</div>
 				<div class="stars-today">⭐ 779 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KaijuEngine/kaiju" target="_blank">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
     
 
 
       
-        KaijuEngine /
+        Tencent /
 
-      kaiju</a></p>
+      WeKnora</a></p>
 				<p>
-      General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3200</span>
-						<span>🔱 104</span>
+						<span>⭐ 7977</span>
+						<span>🔱 910</span>
 					</div>
-				<div class="stars-today">⭐ 1480 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9781</span>
-						<span>🔱 760</span>
-					</div>
-				<div class="stars-today">⭐ 321 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
-    
-
-
-      
-        lfnovo /
-
-      open-notebook</a></p>
-				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14251</span>
-						<span>🔱 1430</span>
-					</div>
-				<div class="stars-today">⭐ 314 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dyad-sh/dyad" target="_blank">
-    
-
-
-      
-        dyad-sh /
-
-      dyad</a></p>
-				<p>
-      Free, local, open-source AI app builder ✨ v0 / lovable / Bolt alternative 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18330</span>
-						<span>🔱 2015</span>
-					</div>
-				<div class="stars-today">⭐ 258 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7543</span>
-						<span>🔱 825</span>
-					</div>
-				<div class="stars-today">⭐ 458 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17216</span>
-						<span>🔱 1879</span>
-					</div>
-				<div class="stars-today">⭐ 966 stars today</div>
+				<div class="stars-today">⭐ 87 stars today</div>
 				</div>
 			</div>
 	
@@ -184,142 +74,230 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23543</span>
-						<span>🔱 2118</span>
+						<span>⭐ 23587</span>
+						<span>🔱 2119</span>
 					</div>
 				<div class="stars-today">⭐ 441 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+				<p><a href="https://github.com/KaijuEngine/kaiju" target="_blank">
     
 
 
       
-        666ghj /
+        KaijuEngine /
 
-      BettaFish</a></p>
+      kaiju</a></p>
 				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+      General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32486</span>
-						<span>🔱 6230</span>
+						<span>🔠 Go</span>
+						<span>⭐ 3254</span>
+						<span>🔱 104</span>
 					</div>
-				<div class="stars-today">⭐ 326 stars today</div>
+				<div class="stars-today">⭐ 1480 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/vibesdk" target="_blank">
+				<p><a href="https://github.com/tempoxyz/tempo" target="_blank">
     
 
 
       
-        cloudflare /
+        tempoxyz /
 
-      vibesdk</a></p>
+      tempo</a></p>
 				<p>
-      An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
+      the blockchain for payments
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 255</span>
+						<span>🔱 49</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
+    
+
+
+      
+        YimMenu /
+
+      YimMenuV2</a></p>
+				<p>
+      Experimental menu for GTA 5: Enhanced
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 715</span>
+						<span>🔱 186</span>
+					</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
+    
+
+
+      
+        mlabonne /
+
+      llm-course</a></p>
+				<p>
+      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 69730</span>
+						<span>🔱 7964</span>
+					</div>
+				<div class="stars-today">⭐ 218 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4227</span>
-						<span>🔱 969</span>
+						<span>⭐ 9857</span>
+						<span>🔱 763</span>
 					</div>
-				<div class="stars-today">⭐ 101 stars today</div>
+				<div class="stars-today">⭐ 321 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/generative-ai-for-beginners" target="_blank">
+				<p><a href="https://github.com/HotCakeX/Harden-Windows-Security" target="_blank">
     
 
 
       
-        microsoft /
+        HotCakeX /
 
-      generative-ai-for-beginners</a></p>
+      Harden-Windows-Security</a></p>
 				<p>
-      21 Lessons, Get Started Building with Generative AI 
+      Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 103587</span>
-						<span>🔱 54947</span>
+						<span>🔠 C#</span>
+						<span>⭐ 3477</span>
+						<span>🔱 271</span>
 					</div>
-				<div class="stars-today">⭐ 404 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/infiniflow/ragflow" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        infiniflow /
+        TapXWorld /
 
-      ragflow</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 61592</span>
+						<span>🔱 13669</span>
+					</div>
+				<div class="stars-today">⭐ 193 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      Federated query engine for AI - The only MCP Server you'll ever need
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69491</span>
-						<span>🔱 7539</span>
+						<span>⭐ 37557</span>
+						<span>🔱 6035</span>
 					</div>
-				<div class="stars-today">⭐ 174 stars today</div>
+				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-samples" target="_blank">
+				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
     
 
 
       
-        google /
+        GoogleCloudPlatform /
 
-      adk-samples</a></p>
+      agent-starter-pack</a></p>
 				<p>
-      A collection of sample agents built with Agent Development Kit (ADK) 
+      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7491</span>
-						<span>🔱 2030</span>
+						<span>⭐ 3919</span>
+						<span>🔱 1072</span>
 					</div>
-				<div class="stars-today">⭐ 282 stars today</div>
+				<div class="stars-today">⭐ 71 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
     
 
 
       
-        microsoft /
+        rustdesk /
 
-      ML-For-Beginners</a></p>
+      rustdesk</a></p>
 				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 81513</span>
-						<span>🔱 19096</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 103797</span>
+						<span>🔱 15335</span>
 					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
+				<div class="stars-today">⭐ 65 stars today</div>
 				</div>
 			</div>
 	
