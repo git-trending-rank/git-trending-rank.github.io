@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-12T09:58:56Z
+date: 2025-12-12T11:58:50Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 21479</span>
-						<span>🔱 1083</span>
+						<span>⭐ 21497</span>
+						<span>🔱 1087</span>
 					</div>
 				<div class="stars-today">⭐ 19752 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38821</span>
-						<span>🔱 20408</span>
+						<span>⭐ 38831</span>
+						<span>🔱 20409</span>
 					</div>
 				<div class="stars-today">⭐ 33192 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17464</span>
-						<span>🔱 1917</span>
+						<span>⭐ 17481</span>
+						<span>🔱 1919</span>
 					</div>
 				<div class="stars-today">⭐ 7424 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10283</span>
+						<span>⭐ 10300</span>
 						<span>🔱 704</span>
 					</div>
 				<div class="stars-today">⭐ 7845 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16790</span>
+						<span>⭐ 16804</span>
 						<span>🔱 730</span>
 					</div>
 				<div class="stars-today">⭐ 5504 stars this month</div>
@@ -140,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9029</span>
+						<span>⭐ 9031</span>
 						<span>🔱 919</span>
 					</div>
 				<div class="stars-today">⭐ 1108 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12003</span>
+						<span>🔱 2075</span>
+					</div>
+				<div class="stars-today">⭐ 1699 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8128</span>
+						<span>🔱 883</span>
+					</div>
+				<div class="stars-today">⭐ 4224 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6222</span>
+						<span>⭐ 6225</span>
 						<span>🔱 425</span>
 					</div>
 				<div class="stars-today">⭐ 4160 stars this month</div>
@@ -184,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17556</span>
-						<span>🔱 1789</span>
+						<span>⭐ 17560</span>
+						<span>🔱 1791</span>
 					</div>
 				<div class="stars-today">⭐ 8309 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11996</span>
-						<span>🔱 2075</span>
-					</div>
-				<div class="stars-today">⭐ 1699 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8081</span>
+						<span>⭐ 8082</span>
 						<span>🔱 958</span>
 					</div>
 				<div class="stars-today">⭐ 1244 stars this month</div>
@@ -236,24 +258,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
     
 
 
       
-        datawhalechina /
+        GoogleCloudPlatform /
 
-      hello-agents</a></p>
+      agent-starter-pack</a></p>
 				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8091</span>
-						<span>🔱 880</span>
+						<span>⭐ 4260</span>
+						<span>🔱 1106</span>
 					</div>
-				<div class="stars-today">⭐ 4224 stars this month</div>
+				<div class="stars-today">⭐ 1092 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 87007</span>
-						<span>🔱 9945</span>
+						<span>⭐ 87015</span>
+						<span>🔱 9950</span>
 					</div>
 				<div class="stars-today">⭐ 5173 stars this month</div>
 				</div>
@@ -294,120 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13628</span>
-						<span>🔱 3170</span>
+						<span>⭐ 13632</span>
+						<span>🔱 3171</span>
 					</div>
 				<div class="stars-today">⭐ 1015 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
-    
-
-
-      
-        QuantConnect /
-
-      Lean</a></p>
-				<p>
-      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 13939</span>
-						<span>🔱 3993</span>
-					</div>
-				<div class="stars-today">⭐ 1189 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 61747</span>
-						<span>🔱 13691</span>
-					</div>
-				<div class="stars-today">⭐ 6560 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15194</span>
-						<span>🔱 4516</span>
-					</div>
-				<div class="stars-today">⭐ 1419 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      agent-starter-pack</a></p>
-				<p>
-      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4239</span>
-						<span>🔱 1103</span>
-					</div>
-				<div class="stars-today">⭐ 1092 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      LightRAG</a></p>
-				<p>
-      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25850</span>
-						<span>🔱 3702</span>
-					</div>
-				<div class="stars-today">⭐ 3327 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +338,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38238</span>
-						<span>🔱 3209</span>
+						<span>⭐ 38250</span>
+						<span>🔱 3213</span>
 					</div>
 				<div class="stars-today">⭐ 5827 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15201</span>
+						<span>🔱 4516</span>
+					</div>
+				<div class="stars-today">⭐ 1419 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 84946</span>
+						<span>🔱 3792</span>
+					</div>
+				<div class="stars-today">⭐ 2970 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      LightRAG</a></p>
+				<p>
+      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25855</span>
+						<span>🔱 3702</span>
+					</div>
+				<div class="stars-today">⭐ 3327 stars this month</div>
 				</div>
 			</div>
 	

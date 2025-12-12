@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-12
-date: 2025-12-12T09:58:56Z
+date: 2025-12-12T11:58:49Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4086</span>
-						<span>🔱 235</span>
+						<span>⭐ 4141</span>
+						<span>🔱 236</span>
 					</div>
-				<div class="stars-today">⭐ 1669 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 8296</span>
-						<span>🔱 921</span>
-					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
+				<div class="stars-today">⭐ 667 stars today</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23920</span>
+						<span>⭐ 23939</span>
 						<span>🔱 2135</span>
 					</div>
 				<div class="stars-today">⭐ 443 stars today</div>
@@ -82,90 +60,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KaijuEngine/kaiju" target="_blank">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
     
 
 
       
-        KaijuEngine /
+        datawhalechina /
 
-      kaiju</a></p>
+      hello-agents</a></p>
 				<p>
-      General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3461</span>
-						<span>🔱 108</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8128</span>
+						<span>🔱 883</span>
 					</div>
-				<div class="stars-today">⭐ 999 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tempoxyz/tempo" target="_blank">
-    
-
-
-      
-        tempoxyz /
-
-      tempo</a></p>
-				<p>
-      the blockchain for payments
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 384</span>
-						<span>🔱 60</span>
-					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
-    
-
-
-      
-        YimMenu /
-
-      YimMenuV2</a></p>
-				<p>
-      Experimental menu for GTA 5: Enhanced
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 772</span>
-						<span>🔱 217</span>
-					</div>
-				<div class="stars-today">⭐ 22 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mlabonne/llm-course" target="_blank">
-    
-
-
-      
-        mlabonne /
-
-      llm-course</a></p>
-				<p>
-      Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 70011</span>
-						<span>🔱 7990</span>
-					</div>
-				<div class="stars-today">⭐ 187 stars today</div>
+				<div class="stars-today">⭐ 813 stars today</div>
 				</div>
 			</div>
 	
@@ -184,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10594</span>
-						<span>🔱 801</span>
+						<span>⭐ 10628</span>
+						<span>🔱 802</span>
 					</div>
 				<div class="stars-today">⭐ 682 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HotCakeX/Harden-Windows-Security" target="_blank">
-    
-
-
-      
-        HotCakeX /
-
-      Harden-Windows-Security</a></p>
-				<p>
-      Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 3611</span>
-						<span>🔱 278</span>
-					</div>
-				<div class="stars-today">⭐ 42 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 61747</span>
-						<span>🔱 13691</span>
-					</div>
-				<div class="stars-today">⭐ 127 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      Federated query engine for AI - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37716</span>
-						<span>🔱 6047</span>
-					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +118,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4239</span>
-						<span>🔱 1103</span>
+						<span>⭐ 4260</span>
+						<span>🔱 1106</span>
 					</div>
 				<div class="stars-today">⭐ 90 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
     
 
 
       
-        rustdesk /
+        YimMenu /
 
-      rustdesk</a></p>
+      YimMenuV2</a></p>
 				<p>
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+      Experimental menu for GTA 5: Enhanced
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 778</span>
+						<span>🔱 220</span>
+					</div>
+				<div class="stars-today">⭐ 22 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/refly-ai/refly" target="_blank">
+    
+
+
+      
+        refly-ai /
+
+      refly</a></p>
+				<p>
+      Vibe Workflow Platform for Non-technical Creators.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5077</span>
+						<span>🔱 465</span>
+					</div>
+				<div class="stars-today">⭐ 54 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HotCakeX/Harden-Windows-Security" target="_blank">
+    
+
+
+      
+        HotCakeX /
+
+      Harden-Windows-Security</a></p>
+				<p>
+      Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 3618</span>
+						<span>🔱 278</span>
+					</div>
+				<div class="stars-today">⭐ 42 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7950</span>
+						<span>🔱 847</span>
+					</div>
+				<div class="stars-today">⭐ 1038 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+    
+
+
+      
+        tursodatabase /
+
+      turso</a></p>
+				<p>
+      Turso is an in-process SQL database, compatible with SQLite.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 104068</span>
-						<span>🔱 15345</span>
+						<span>⭐ 15110</span>
+						<span>🔱 626</span>
 					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
+				<div class="stars-today">⭐ 52 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
+    
+
+
+      
+        langgenius /
+
+      dify</a></p>
+				<p>
+      Production-ready platform for agentic workflow development.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 121305</span>
+						<span>🔱 18858</span>
+					</div>
+				<div class="stars-today">⭐ 129 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tempoxyz/tempo" target="_blank">
+    
+
+
+      
+        tempoxyz /
+
+      tempo</a></p>
+				<p>
+      the blockchain for payments
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 393</span>
+						<span>🔱 60</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/infiniflow/ragflow" target="_blank">
+    
+
+
+      
+        infiniflow /
+
+      ragflow</a></p>
+				<p>
+      RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 69608</span>
+						<span>🔱 7550</span>
+					</div>
+				<div class="stars-today">⭐ 236 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
+    
+
+
+      
+        grpc /
+
+      grpc-go</a></p>
+				<p>
+      The Go language implementation of gRPC. HTTP/2 based RPC
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 22581</span>
+						<span>🔱 4623</span>
+					</div>
+				<div class="stars-today">⭐ 12 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第50周
-date: 2025-12-12T09:58:56Z
+date: 2025-12-12T11:58:49Z
 categories:
 - weekly
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/fizzy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      fizzy</a></p>
-				<p>
-      Kanban as it should be. Not as it has been.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 5545</span>
-						<span>🔱 617</span>
-					</div>
-				<div class="stars-today">⭐ 3172 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 16790</span>
-						<span>🔱 730</span>
-					</div>
-				<div class="stars-today">⭐ 3732 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
@@ -74,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7887</span>
-						<span>🔱 843</span>
+						<span>⭐ 7950</span>
+						<span>🔱 847</span>
 					</div>
 				<div class="stars-today">⭐ 4107 stars this week</div>
 				</div>
@@ -96,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11996</span>
+						<span>⭐ 12003</span>
 						<span>🔱 2075</span>
 					</div>
 				<div class="stars-today">⭐ 1347 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 16804</span>
+						<span>🔱 730</span>
+					</div>
+				<div class="stars-today">⭐ 3732 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10594</span>
-						<span>🔱 801</span>
+						<span>⭐ 10628</span>
+						<span>🔱 802</span>
 					</div>
 				<div class="stars-today">⭐ 1179 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+				<p><a href="https://github.com/basecamp/fizzy" target="_blank">
     
 
 
       
-        oven-sh /
+        basecamp /
 
-      bun</a></p>
+      fizzy</a></p>
 				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+      Kanban as it should be. Not as it has been.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 84941</span>
-						<span>🔱 3791</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 5561</span>
+						<span>🔱 620</span>
 					</div>
-				<div class="stars-today">⭐ 1725 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
-    
-
-
-      
-        srbhr /
-
-      Resume-Matcher</a></p>
-				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24682</span>
-						<span>🔱 4550</span>
-					</div>
-				<div class="stars-today">⭐ 616 stars this week</div>
+				<div class="stars-today">⭐ 3172 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14423</span>
-						<span>🔱 1457</span>
+						<span>⭐ 14436</span>
+						<span>🔱 1458</span>
 					</div>
 				<div class="stars-today">⭐ 2353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RosettaCommons/foundry" target="_blank">
+    
+
+
+      
+        RosettaCommons /
+
+      foundry</a></p>
+				<p>
+      Central repository for biomolecular foundation models with shared trainers and pipeline components
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 516</span>
+						<span>🔱 67</span>
+					</div>
+				<div class="stars-today">⭐ 167 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+    
+
+
+      
+        srbhr /
+
+      Resume-Matcher</a></p>
+				<p>
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24686</span>
+						<span>🔱 4551</span>
+					</div>
+				<div class="stars-today">⭐ 616 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/goose" target="_blank">
+    
+
+
+      
+        block /
+
+      goose</a></p>
+				<p>
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 23939</span>
+						<span>🔱 2135</span>
+					</div>
+				<div class="stars-today">⭐ 1065 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 8320</span>
+						<span>🔱 923</span>
+					</div>
+				<div class="stars-today">⭐ 280 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,98 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 23305</span>
+						<span>⭐ 23309</span>
 						<span>🔱 763</span>
 					</div>
 				<div class="stars-today">⭐ 253 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TelegramMessenger/Telegram-iOS" target="_blank">
-    
-
-
-      
-        TelegramMessenger /
-
-      Telegram-iOS</a></p>
-				<p>
-      Telegram-iOS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 7770</span>
-						<span>🔱 2216</span>
-					</div>
-				<div class="stars-today">⭐ 274 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lynx-family/lynx" target="_blank">
-    
-
-
-      
-        lynx-family /
-
-      lynx</a></p>
-				<p>
-      Empower the Web community and invite more to build across platforms.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 13896</span>
-						<span>🔱 483</span>
-					</div>
-				<div class="stars-today">⭐ 265 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/vibesdk" target="_blank">
-    
-
-
-      
-        cloudflare /
-
-      vibesdk</a></p>
-				<p>
-      An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4316</span>
-						<span>🔱 974</span>
-					</div>
-				<div class="stars-today">⭐ 925 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/projectdiscovery/nuclei-templates" target="_blank">
-    
-
-
-      
-        projectdiscovery /
-
-      nuclei-templates</a></p>
-				<p>
-      Community curated list of templates for the nuclei engine to find security vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11632</span>
-						<span>🔱 3217</span>
-					</div>
-				<div class="stars-today">⭐ 163 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4835</span>
+						<span>⭐ 4836</span>
 						<span>🔱 467</span>
 					</div>
 				<div class="stars-today">⭐ 121 stars this week</div>
@@ -324,46 +280,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+				<p><a href="https://github.com/lynx-family/lynx" target="_blank">
     
 
 
       
-        ostris /
+        lynx-family /
 
-      ai-toolkit</a></p>
+      lynx</a></p>
 				<p>
-      The ultimate training toolkit for finetuning diffusion models
+      Empower the Web community and invite more to build across platforms.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8081</span>
-						<span>🔱 958</span>
+						<span>🔠 C++</span>
+						<span>⭐ 13897</span>
+						<span>🔱 483</span>
 					</div>
-				<div class="stars-today">⭐ 542 stars this week</div>
+				<div class="stars-today">⭐ 265 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel/next.js" target="_blank">
+				<p><a href="https://github.com/humanlayer/humanlayer" target="_blank">
     
 
 
       
-        vercel /
+        humanlayer /
 
-      next.js</a></p>
+      humanlayer</a></p>
 				<p>
-      The React Framework
+      The best way to get AI coding agents to solve hard problems in complex codebases.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 136473</span>
-						<span>🔱 30028</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7755</span>
+						<span>🔱 637</span>
 					</div>
-				<div class="stars-today">⭐ 443 stars this week</div>
+				<div class="stars-today">⭐ 547 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 84946</span>
+						<span>🔱 3792</span>
+					</div>
+				<div class="stars-today">⭐ 1725 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8128</span>
+						<span>🔱 883</span>
+					</div>
+				<div class="stars-today">⭐ 2468 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45590</span>
+						<span>⭐ 45599</span>
 						<span>🔱 3181</span>
 					</div>
 				<div class="stars-today">⭐ 954 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/projectdiscovery/nuclei-templates" target="_blank">
+    
+
+
+      
+        projectdiscovery /
+
+      nuclei-templates</a></p>
+				<p>
+      Community curated list of templates for the nuclei engine to find security vulnerabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11633</span>
+						<span>🔱 3217</span>
+					</div>
+				<div class="stars-today">⭐ 163 stars this week</div>
 				</div>
 			</div>
 	
