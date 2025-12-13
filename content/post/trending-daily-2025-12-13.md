@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-13
-date: 2025-12-13T09:58:41Z
+date: 2025-12-13T11:58:53Z
 categories:
 - daily
 keywords:
@@ -16,178 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
     
 
 
       
-        thedotmack /
+        CopilotKit /
 
-      claude-mem</a></p>
+      CopilotKit</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4994</span>
-						<span>🔱 283</span>
+						<span>⭐ 25672</span>
+						<span>🔱 3409</span>
 					</div>
-				<div class="stars-today">⭐ 658 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24158</span>
-						<span>🔱 2149</span>
-					</div>
-				<div class="stars-today">⭐ 371 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8507</span>
-						<span>🔱 915</span>
-					</div>
-				<div class="stars-today">⭐ 527 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11000</span>
-						<span>🔱 817</span>
-					</div>
-				<div class="stars-today">⭐ 791 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      agent-starter-pack</a></p>
-				<p>
-      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4486</span>
-						<span>🔱 1123</span>
-					</div>
-				<div class="stars-today">⭐ 348 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
-    
-
-
-      
-        YimMenu /
-
-      YimMenuV2</a></p>
-				<p>
-      Experimental menu for GTA 5: Enhanced
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 828</span>
-						<span>🔱 240</span>
-					</div>
-				<div class="stars-today">⭐ 64 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refly-ai/refly" target="_blank">
-    
-
-
-      
-        refly-ai /
-
-      refly</a></p>
-				<p>
-      Vibe Workflow Platform for Non-technical Creators.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5287</span>
-						<span>🔱 478</span>
-					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HotCakeX/Harden-Windows-Security" target="_blank">
-    
-
-
-      
-        HotCakeX /
-
-      Harden-Windows-Security</a></p>
-				<p>
-      Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 3752</span>
-						<span>🔱 281</span>
-					</div>
-				<div class="stars-today">⭐ 149 stars today</div>
+				<div class="stars-today">⭐ 152 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +52,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8494</span>
-						<span>🔱 905</span>
+						<span>⭐ 8590</span>
+						<span>🔱 916</span>
 					</div>
-				<div class="stars-today">⭐ 1036 stars today</div>
+				<div class="stars-today">⭐ 635 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5058</span>
+						<span>🔱 287</span>
+					</div>
+				<div class="stars-today">⭐ 949 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
+    
+
+
+      
+        mindsdb /
+
+      mindsdb</a></p>
+				<p>
+      Federated query engine for AI - The only MCP Server you'll ever need
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37750</span>
+						<span>🔱 6049</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19356</span>
+						<span>🔱 2578</span>
+					</div>
+				<div class="stars-today">⭐ 516 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 8438</span>
+						<span>🔱 928</span>
+					</div>
+				<div class="stars-today">⭐ 117 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/spipm/Depixelization_poc" target="_blank">
+    
+
+
+      
+        spipm /
+
+      Depixelization_poc</a></p>
+				<p>
+      Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3528</span>
+						<span>🔱 269</span>
+					</div>
+				<div class="stars-today">⭐ 197 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/YimMenu/YimMenuV2" target="_blank">
+    
+
+
+      
+        YimMenu /
+
+      YimMenuV2</a></p>
+				<p>
+      Experimental menu for GTA 5: Enhanced
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 830</span>
+						<span>🔱 243</span>
+					</div>
+				<div class="stars-today">⭐ 56 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15272</span>
-						<span>🔱 628</span>
+						<span>⭐ 15281</span>
+						<span>🔱 629</span>
 					</div>
-				<div class="stars-today">⭐ 88 stars today</div>
+				<div class="stars-today">⭐ 177 stars today</div>
 				</div>
 			</div>
 	
@@ -250,76 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 121488</span>
-						<span>🔱 18881</span>
+						<span>⭐ 121506</span>
+						<span>🔱 18884</span>
 					</div>
-				<div class="stars-today">⭐ 118 stars today</div>
+				<div class="stars-today">⭐ 213 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tempoxyz/tempo" target="_blank">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
     
 
 
       
-        tempoxyz /
+        datawhalechina /
 
-      tempo</a></p>
+      hello-agents</a></p>
 				<p>
-      the blockchain for payments
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 480</span>
-						<span>🔱 65</span>
-					</div>
-				<div class="stars-today">⭐ 142 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/infiniflow/ragflow" target="_blank">
-    
-
-
-      
-        infiniflow /
-
-      ragflow</a></p>
-				<p>
-      RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69740</span>
-						<span>🔱 7555</span>
+						<span>⭐ 8543</span>
+						<span>🔱 920</span>
 					</div>
-				<div class="stars-today">⭐ 111 stars today</div>
+				<div class="stars-today">⭐ 425 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/grpc/grpc-go" target="_blank">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
     
 
 
       
-        grpc /
+        agentsmd /
 
-      grpc-go</a></p>
+      agents.md</a></p>
 				<p>
-      The Go language implementation of gRPC. HTTP/2 based RPC
+      AGENTS.md — a simple, open format for guiding coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22638</span>
-						<span>🔱 4626</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11032</span>
+						<span>🔱 819</span>
 					</div>
-				<div class="stars-today">⭐ 5 stars today</div>
+				<div class="stars-today">⭐ 408 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shadcn-ui/ui" target="_blank">
+    
+
+
+      
+        shadcn-ui /
+
+      ui</a></p>
+				<p>
+      A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 101788</span>
+						<span>🔱 7408</span>
+					</div>
+				<div class="stars-today">⭐ 112 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/nanoGPT" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      nanoGPT</a></p>
+				<p>
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50942</span>
+						<span>🔱 8539</span>
+					</div>
+				<div class="stars-today">⭐ 76 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16464</span>
+						<span>🔱 1018</span>
+					</div>
+				<div class="stars-today">⭐ 81 stars today</div>
 				</div>
 			</div>
 	
