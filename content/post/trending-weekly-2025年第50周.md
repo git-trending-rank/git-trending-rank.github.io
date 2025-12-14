@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第50周
-date: 2025-12-14T09:58:49Z
+date: 2025-12-14T11:58:33Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17788</span>
-						<span>🔱 1955</span>
+						<span>⭐ 17812</span>
+						<span>🔱 1957</span>
 					</div>
 				<div class="stars-today">⭐ 6950 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9671</span>
-						<span>🔱 1008</span>
-					</div>
-				<div class="stars-today">⭐ 4526 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11421</span>
-						<span>🔱 842</span>
+						<span>⭐ 11445</span>
+						<span>🔱 843</span>
 					</div>
 				<div class="stars-today">⭐ 2271 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
     
 
 
       
-        anthropics /
+        DayuanJiang /
 
-      claude-quickstarts</a></p>
+      next-ai-draw-io</a></p>
 				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9770</span>
+						<span>🔱 1015</span>
+					</div>
+				<div class="stars-today">⭐ 4526 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      cutile-python</a></p>
+				<p>
+      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12167</span>
-						<span>🔱 2089</span>
+						<span>⭐ 1472</span>
+						<span>🔱 74</span>
 					</div>
-				<div class="stars-today">⭐ 1398 stars this week</div>
+				<div class="stars-today">⭐ 985 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24286</span>
+						<span>⭐ 24291</span>
 						<span>🔱 2164</span>
 					</div>
 				<div class="stars-today">⭐ 1516 stars this week</div>
@@ -126,90 +126,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
     
 
 
       
-        lfnovo /
+        anthropics /
 
-      open-notebook</a></p>
+      claude-quickstarts</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14754</span>
-						<span>🔱 1487</span>
-					</div>
-				<div class="stars-today">⭐ 2416 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17039</span>
-						<span>🔱 740</span>
-					</div>
-				<div class="stars-today">⭐ 2060 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
-    
-
-
-      
-        srbhr /
-
-      Resume-Matcher</a></p>
-				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24860</span>
-						<span>🔱 4558</span>
+						<span>⭐ 12172</span>
+						<span>🔱 2089</span>
 					</div>
-				<div class="stars-today">⭐ 782 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners</a></p>
-				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 81803</span>
-						<span>🔱 19197</span>
-					</div>
-				<div class="stars-today">⭐ 1664 stars this week</div>
+				<div class="stars-today">⭐ 1398 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8629</span>
-						<span>🔱 946</span>
+						<span>⭐ 8649</span>
+						<span>🔱 948</span>
 					</div>
 				<div class="stars-today">⭐ 689 stars this week</div>
 				</div>
@@ -250,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8862</span>
-						<span>🔱 945</span>
+						<span>⭐ 8891</span>
+						<span>🔱 947</span>
 					</div>
 				<div class="stars-today">⭐ 2879 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/leejet/stable-diffusion.cpp" target="_blank">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
     
 
 
       
-        leejet /
+        srbhr /
 
-      stable-diffusion.cpp</a></p>
+      Resume-Matcher</a></p>
 				<p>
-      Diffusion model(SD,Flux,Wan,Qwen Image,Z-Image,...) inference in pure C/C++
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4867</span>
-						<span>🔱 470</span>
-					</div>
-				<div class="stars-today">⭐ 139 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RosettaCommons/foundry" target="_blank">
-    
-
-
-      
-        RosettaCommons /
-
-      foundry</a></p>
-				<p>
-      Central repository for biomolecular foundation models with shared trainers and pipeline components
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 550</span>
-						<span>🔱 69</span>
+						<span>⭐ 24864</span>
+						<span>🔱 4558</span>
 					</div>
-				<div class="stars-today">⭐ 165 stars this week</div>
+				<div class="stars-today">⭐ 782 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15408</span>
+						<span>⭐ 15419</span>
 						<span>🔱 630</span>
 					</div>
 				<div class="stars-today">⭐ 362 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17047</span>
+						<span>🔱 740</span>
+					</div>
+				<div class="stars-today">⭐ 2060 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+    
+
+
+      
+        lfnovo /
+
+      open-notebook</a></p>
+				<p>
+      An Open Source implementation of Notebook LM with more flexibility and features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14765</span>
+						<span>🔱 1490</span>
+					</div>
+				<div class="stars-today">⭐ 2416 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      ML-For-Beginners</a></p>
+				<p>
+      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 81812</span>
+						<span>🔱 19199</span>
+					</div>
+				<div class="stars-today">⭐ 1664 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4474</span>
+						<span>⭐ 4475</span>
 						<span>🔱 542</span>
 					</div>
 				<div class="stars-today">⭐ 250 stars this week</div>

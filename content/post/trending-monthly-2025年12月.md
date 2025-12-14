@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-14T09:58:49Z
+date: 2025-12-14T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 21927</span>
-						<span>🔱 1113</span>
+						<span>⭐ 21944</span>
+						<span>🔱 1114</span>
 					</div>
 				<div class="stars-today">⭐ 20285 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39012</span>
-						<span>🔱 20450</span>
+						<span>⭐ 39018</span>
+						<span>🔱 20453</span>
 					</div>
 				<div class="stars-today">⭐ 28989 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17788</span>
-						<span>🔱 1955</span>
-					</div>
-				<div class="stars-today">⭐ 7826 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10801</span>
+						<span>⭐ 10818</span>
 						<span>🔱 712</span>
 					</div>
 				<div class="stars-today">⭐ 7669 stars this month</div>
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17039</span>
+						<span>⭐ 17047</span>
 						<span>🔱 740</span>
 					</div>
 				<div class="stars-today">⭐ 5768 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      magentic-ui</a></p>
-				<p>
-      A research prototype of a human-centered web agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9072</span>
-						<span>🔱 924</span>
-					</div>
-				<div class="stars-today">⭐ 1156 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8862</span>
-						<span>🔱 945</span>
+						<span>⭐ 8891</span>
+						<span>🔱 947</span>
 					</div>
 				<div class="stars-today">⭐ 4954 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      magentic-ui</a></p>
+				<p>
+      A research prototype of a human-centered web agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9073</span>
+						<span>🔱 924</span>
+					</div>
+				<div class="stars-today">⭐ 1156 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12167</span>
+						<span>⭐ 12172</span>
 						<span>🔱 2089</span>
 					</div>
 				<div class="stars-today">⭐ 1904 stars this month</div>
@@ -206,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4565</span>
+						<span>⭐ 4567</span>
 						<span>🔱 1132</span>
 					</div>
 				<div class="stars-today">⭐ 1652 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-go" target="_blank">
-    
-
-
-      
-        google /
-
-      adk-go</a></p>
-				<p>
-      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6269</span>
-						<span>🔱 430</span>
-					</div>
-				<div class="stars-today">⭐ 3264 stars this month</div>
 				</div>
 			</div>
 	
@@ -258,24 +214,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
+				<p><a href="https://github.com/google/adk-go" target="_blank">
     
 
 
       
-        usestrix /
+        google /
 
-      strix</a></p>
+      adk-go</a></p>
 				<p>
-      Open-source AI agents for penetration testing
+      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17669</span>
-						<span>🔱 1803</span>
+						<span>🔠 Go</span>
+						<span>⭐ 6271</span>
+						<span>🔱 430</span>
 					</div>
-				<div class="stars-today">⭐ 7273 stars this month</div>
+				<div class="stars-today">⭐ 3264 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 87247</span>
-						<span>🔱 9974</span>
+						<span>⭐ 87258</span>
+						<span>🔱 9976</span>
 					</div>
 				<div class="stars-today">⭐ 5238 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
     
 
 
       
-        trustedsec /
+        usestrix /
 
-      social-engineer-toolkit</a></p>
+      strix</a></p>
 				<p>
-      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+      Open-source AI agents for penetration testing
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13716</span>
-						<span>🔱 3180</span>
+						<span>⭐ 17671</span>
+						<span>🔱 1803</span>
 					</div>
-				<div class="stars-today">⭐ 1113 stars this month</div>
+				<div class="stars-today">⭐ 7273 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38615</span>
-						<span>🔱 3272</span>
+						<span>⭐ 38631</span>
+						<span>🔱 3275</span>
 					</div>
 				<div class="stars-today">⭐ 6013 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+    
+
+
+      
+        trustedsec /
+
+      social-engineer-toolkit</a></p>
+				<p>
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13720</span>
+						<span>🔱 3180</span>
+					</div>
+				<div class="stars-today">⭐ 1113 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11421</span>
-						<span>🔱 842</span>
+						<span>⭐ 11445</span>
+						<span>🔱 843</span>
 					</div>
 				<div class="stars-today">⭐ 2979 stars this month</div>
 				</div>
@@ -382,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85033</span>
+						<span>⭐ 85035</span>
 						<span>🔱 3799</span>
 					</div>
 				<div class="stars-today">⭐ 3043 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      LightRAG</a></p>
-				<p>
-      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25917</span>
-						<span>🔱 3709</span>
-					</div>
-				<div class="stars-today">⭐ 3140 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 81803</span>
-						<span>🔱 19197</span>
+						<span>⭐ 81812</span>
+						<span>🔱 19199</span>
 					</div>
 				<div class="stars-today">⭐ 2969 stars this month</div>
 				</div>
