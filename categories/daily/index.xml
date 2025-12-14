@@ -6,7 +6,355 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 13 Dec 2025 23:58:36 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 14 Dec 2025 03:19:44 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2025-12-14</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2025-12-14/</link>
+        <pubDate>Sun, 14 Dec 2025 03:19:44 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2025-12-14/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CopilotKit/CopilotKit&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CopilotKit /
+
+      CopilotKit&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic last-mile 🪁
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 26228&lt;/span&gt;
+						&lt;span&gt;🔱 3438&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 135 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/DayuanJiang/next-ai-draw-io&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9216&lt;/span&gt;
+						&lt;span&gt;🔱 968&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 624 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        thedotmack /
+
+      claude-mem&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5273&lt;/span&gt;
+						&lt;span&gt;🔱 300&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 950 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mindsdb/mindsdb&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mindsdb /
+
+      mindsdb&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Federated query engine for AI - The only MCP Server you&#39;ll ever need
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 37831&lt;/span&gt;
+						&lt;span&gt;🔱 6055&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 23 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/simstudioai/sim&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        simstudioai /
+
+      sim&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open-source platform to build and deploy AI agent workflows.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 19478&lt;/span&gt;
+						&lt;span&gt;🔱 2585&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 151 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Tencent/WeKnora&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Tencent /
+
+      WeKnora&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 8569&lt;/span&gt;
+						&lt;span&gt;🔱 941&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 117 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/spipm/Depixelization_poc&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        spipm /
+
+      Depixelization_poc&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Depix is a PoC for a technique to recover plaintext from pixelized screenshots.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3632&lt;/span&gt;
+						&lt;span&gt;🔱 276&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 197 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/YimMenu/YimMenuV2&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        YimMenu /
+
+      YimMenuV2&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Experimental menu for GTA 5: Enhanced
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 857&lt;/span&gt;
+						&lt;span&gt;🔱 260&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 56 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tursodatabase/turso&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tursodatabase /
+
+      turso&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Turso is an in-process SQL database, compatible with SQLite.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 15375&lt;/span&gt;
+						&lt;span&gt;🔱 630&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 179 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langgenius/dify&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langgenius /
+
+      dify&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Production-ready platform for agentic workflow development.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 121612&lt;/span&gt;
+						&lt;span&gt;🔱 18897&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 217 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/datawhalechina/hello-agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 8736&lt;/span&gt;
+						&lt;span&gt;🔱 932&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 423 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/agentsmd/agents.md&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        agentsmd /
+
+      agents.md&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AGENTS.md — a simple, open format for guiding coding agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11278&lt;/span&gt;
+						&lt;span&gt;🔱 835&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 406 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/shadcn-ui/ui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        shadcn-ui /
+
+      ui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 102025&lt;/span&gt;
+						&lt;span&gt;🔱 7424&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 117 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/karpathy/nanoGPT&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        karpathy /
+
+      nanoGPT&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The simplest, fastest repository for training/finetuning medium-sized GPTs.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 51025&lt;/span&gt;
+						&lt;span&gt;🔱 8549&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 78 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ChromeDevTools/chrome-devtools-mcp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Chrome DevTools for coding agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 16632&lt;/span&gt;
+						&lt;span&gt;🔱 1027&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 51 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2025-12-13</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-12-13/</link>
         <pubDate>Sat, 13 Dec 2025 23:58:36 +0000</pubDate>
