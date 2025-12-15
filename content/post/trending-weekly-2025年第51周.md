@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第51周
-date: 2025-12-15T10:01:14Z
+date: 2025-12-15T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6411</span>
+						<span>🔱 370</span>
+					</div>
+				<div class="stars-today">⭐ 4949 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18033</span>
-						<span>🔱 1978</span>
+						<span>⭐ 18044</span>
+						<span>🔱 1980</span>
 					</div>
 				<div class="stars-today">⭐ 6492 stars this week</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11722</span>
-						<span>🔱 866</span>
+						<span>⭐ 11741</span>
+						<span>🔱 870</span>
 					</div>
 				<div class="stars-today">⭐ 2658 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11133</span>
-						<span>🔱 1135</span>
+						<span>⭐ 11218</span>
+						<span>🔱 1139</span>
 					</div>
 				<div class="stars-today">⭐ 5461 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cutile-python</a></p>
-				<p>
-      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1520</span>
-						<span>🔱 79</span>
-					</div>
-				<div class="stars-today">⭐ 869 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24407</span>
-						<span>🔱 2170</span>
+						<span>⭐ 24413</span>
+						<span>🔱 2172</span>
 					</div>
 				<div class="stars-today">⭐ 1616 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
     
 
 
       
-        anthropics /
+        NVIDIA /
 
-      claude-quickstarts</a></p>
+      cutile-python</a></p>
 				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12259</span>
-						<span>🔱 2095</span>
+						<span>⭐ 1527</span>
+						<span>🔱 79</span>
 					</div>
-				<div class="stars-today">⭐ 1189 stars this week</div>
+				<div class="stars-today">⭐ 869 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8935</span>
-						<span>🔱 964</span>
+						<span>⭐ 8950</span>
+						<span>🔱 966</span>
 					</div>
 				<div class="stars-today">⭐ 896 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9492</span>
-						<span>🔱 992</span>
+						<span>⭐ 9541</span>
+						<span>🔱 997</span>
 					</div>
 				<div class="stars-today">⭐ 3163 stars this week</div>
 				</div>
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24957</span>
-						<span>🔱 4565</span>
+						<span>⭐ 24966</span>
+						<span>🔱 4566</span>
 					</div>
 				<div class="stars-today">⭐ 849 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12264</span>
+						<span>🔱 2096</span>
+					</div>
+				<div class="stars-today">⭐ 1189 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15597</span>
+						<span>⭐ 15606</span>
 						<span>🔱 636</span>
 					</div>
 				<div class="stars-today">⭐ 498 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17184</span>
-						<span>🔱 745</span>
-					</div>
-				<div class="stars-today">⭐ 1734 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14935</span>
-						<span>🔱 1511</span>
+						<span>⭐ 14947</span>
+						<span>🔱 1512</span>
 					</div>
 				<div class="stars-today">⭐ 2377 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17194</span>
+						<span>🔱 746</span>
+					</div>
+				<div class="stars-today">⭐ 1734 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 81958</span>
-						<span>🔱 19218</span>
+						<span>⭐ 81969</span>
+						<span>🔱 19220</span>
 					</div>
 				<div class="stars-today">⭐ 1652 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/strands-agents/sdk-python" target="_blank">
-    
-
-
-      
-        strands-agents /
-
-      sdk-python</a></p>
-				<p>
-      A model-driven approach to building AI agents in just a few lines of code.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4517</span>
-						<span>🔱 542</span>
-					</div>
-				<div class="stars-today">⭐ 276 stars this week</div>
 				</div>
 			</div>
 	
