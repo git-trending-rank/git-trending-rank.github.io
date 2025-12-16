@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-16T11:58:51Z
+date: 2025-12-16T14:01:30Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 22444</span>
-						<span>🔱 1156</span>
+						<span>⭐ 22461</span>
+						<span>🔱 1159</span>
 					</div>
 				<div class="stars-today">⭐ 20773 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39309</span>
-						<span>🔱 20576</span>
+						<span>⭐ 39327</span>
+						<span>🔱 20586</span>
 					</div>
 				<div class="stars-today">⭐ 26172 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11010</span>
-						<span>🔱 719</span>
+						<span>⭐ 11018</span>
+						<span>🔱 720</span>
 					</div>
 				<div class="stars-today">⭐ 7454 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17322</span>
+						<span>⭐ 17332</span>
 						<span>🔱 750</span>
 					</div>
 				<div class="stars-today">⭐ 5957 stars this month</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9925</span>
-						<span>🔱 1028</span>
+						<span>⭐ 9954</span>
+						<span>🔱 1031</span>
 					</div>
 				<div class="stars-today">⭐ 5730 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12343</span>
-						<span>🔱 2099</span>
+						<span>⭐ 12346</span>
+						<span>🔱 2100</span>
 					</div>
 				<div class="stars-today">⭐ 2048 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9117</span>
+						<span>⭐ 9120</span>
 						<span>🔱 931</span>
 					</div>
 				<div class="stars-today">⭐ 1195 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      agent-starter-pack</a></p>
-				<p>
-      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4711</span>
-						<span>🔱 1160</span>
-					</div>
-				<div class="stars-today">⭐ 1725 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8221</span>
-						<span>🔱 970</span>
+						<span>⭐ 8224</span>
+						<span>🔱 971</span>
 					</div>
 				<div class="stars-today">⭐ 1350 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      agent-starter-pack</a></p>
+				<p>
+      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4714</span>
+						<span>🔱 1160</span>
+					</div>
+				<div class="stars-today">⭐ 1725 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12024</span>
+						<span>🔱 888</span>
+					</div>
+				<div class="stars-today">⭐ 3602 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13808</span>
-						<span>🔱 3188</span>
+						<span>⭐ 13811</span>
+						<span>🔱 3190</span>
 					</div>
 				<div class="stars-today">⭐ 1184 stars this month</div>
 				</div>
@@ -250,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 87546</span>
-						<span>🔱 10016</span>
+						<span>⭐ 87562</span>
+						<span>🔱 10017</span>
 					</div>
 				<div class="stars-today">⭐ 5279 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11997</span>
-						<span>🔱 887</span>
-					</div>
-				<div class="stars-today">⭐ 3602 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-go" target="_blank">
-    
-
-
-      
-        google /
-
-      adk-go</a></p>
-				<p>
-      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6322</span>
-						<span>🔱 436</span>
-					</div>
-				<div class="stars-today">⭐ 2953 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39183</span>
-						<span>🔱 3315</span>
+						<span>⭐ 39214</span>
+						<span>🔱 3320</span>
 					</div>
 				<div class="stars-today">⭐ 6228 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 85132</span>
-						<span>🔱 3804</span>
-					</div>
-				<div class="stars-today">⭐ 3080 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI agents for penetration testing
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17827</span>
-						<span>🔱 1819</span>
-					</div>
-				<div class="stars-today">⭐ 6881 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82088</span>
-						<span>🔱 19260</span>
+						<span>⭐ 82103</span>
+						<span>🔱 19261</span>
 					</div>
 				<div class="stars-today">⭐ 3192 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/adk-go" target="_blank">
+    
+
+
+      
+        google /
+
+      adk-go</a></p>
+				<p>
+      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6325</span>
+						<span>🔱 436</span>
+					</div>
+				<div class="stars-today">⭐ 2953 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 85134</span>
+						<span>🔱 3804</span>
+					</div>
+				<div class="stars-today">⭐ 3080 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97016</span>
-						<span>🔱 10990</span>
+						<span>⭐ 97030</span>
+						<span>🔱 10992</span>
 					</div>
 				<div class="stars-today">⭐ 3463 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usestrix/strix" target="_blank">
+    
+
+
+      
+        usestrix /
+
+      strix</a></p>
+				<p>
+      Open-source AI agents for penetration testing
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17834</span>
+						<span>🔱 1820</span>
+					</div>
+				<div class="stars-today">⭐ 6881 stars this month</div>
 				</div>
 			</div>
 	

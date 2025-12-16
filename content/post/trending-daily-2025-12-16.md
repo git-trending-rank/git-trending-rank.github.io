@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-16
-date: 2025-12-16T11:58:51Z
+date: 2025-12-16T14:01:30Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22421</span>
-						<span>🔱 2820</span>
+						<span>⭐ 22526</span>
+						<span>🔱 2826</span>
 					</div>
 				<div class="stars-today">⭐ 1401 stars today</div>
 				</div>
@@ -52,186 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 14311</span>
-						<span>🔱 1317</span>
+						<span>⭐ 14339</span>
+						<span>🔱 1318</span>
 					</div>
 				<div class="stars-today">⭐ 368 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
-    
-
-
-      
-        jellyfin /
-
-      jellyfin-desktop</a></p>
-				<p>
-      Jellyfin Desktop Client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4621</span>
-						<span>🔱 437</span>
-					</div>
-				<div class="stars-today">⭐ 168 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shadcn-ui/ui" target="_blank">
-    
-
-
-      
-        shadcn-ui /
-
-      ui</a></p>
-				<p>
-      A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 102838</span>
-						<span>🔱 7470</span>
-					</div>
-				<div class="stars-today">⭐ 338 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
-    
-
-
-      
-        CopilotKit /
-
-      CopilotKit</a></p>
-				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26907</span>
-						<span>🔱 3491</span>
-					</div>
-				<div class="stars-today">⭐ 281 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obsproject/obs-studio" target="_blank">
-    
-
-
-      
-        obsproject /
-
-      obs-studio</a></p>
-				<p>
-      OBS Studio - Free and open source software for live streaming and screen recording
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 69059</span>
-						<span>🔱 8893</span>
-					</div>
-				<div class="stars-today">⭐ 320 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
-    
-
-
-      
-        Morganamilo /
-
-      paru</a></p>
-				<p>
-      Feature packed AUR helper
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7925</span>
-						<span>🔱 294</span>
-					</div>
-				<div class="stars-today">⭐ 79 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12555</span>
-						<span>🔱 1669</span>
-					</div>
-				<div class="stars-today">⭐ 305 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
-    
-
-
-      
-        Raphire /
-
-      Win11Debloat</a></p>
-				<p>
-      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 35544</span>
-						<span>🔱 1385</span>
-					</div>
-				<div class="stars-today">⭐ 333 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 53951</span>
-						<span>🔱 6820</span>
-					</div>
-				<div class="stars-today">⭐ 258 stars today</div>
 				</div>
 			</div>
 	
@@ -250,32 +74,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43018</span>
-						<span>🔱 7650</span>
+						<span>⭐ 43034</span>
+						<span>🔱 7651</span>
 					</div>
 				<div class="stars-today">⭐ 169 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/theOehrly/Fast-F1" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        theOehrly /
+        thedotmack /
 
-      Fast-F1</a></p>
+      claude-mem</a></p>
 				<p>
-      FastF1 is a python package for accessing and analyzing Formula 1 results, schedules, timing data and telemetry
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4139</span>
-						<span>🔱 381</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7142</span>
+						<span>🔱 412</span>
 					</div>
-				<div class="stars-today">⭐ 219 stars today</div>
+				<div class="stars-today">⭐ 633 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
+    
+
+
+      
+        Morganamilo /
+
+      paru</a></p>
+				<p>
+      Feature packed AUR helper
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7937</span>
+						<span>🔱 294</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
+    
+
+
+      
+        jellyfin /
+
+      jellyfin-desktop</a></p>
+				<p>
+      Jellyfin Desktop Client
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4643</span>
+						<span>🔱 439</span>
+					</div>
+				<div class="stars-today">⭐ 168 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nicotsx/zerobyte" target="_blank">
+    
+
+
+      
+        nicotsx /
+
+      zerobyte</a></p>
+				<p>
+      Backup automation for self-hosters
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2560</span>
+						<span>🔱 48</span>
+					</div>
+				<div class="stars-today">⭐ 133 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eudoxia0/hashcards" target="_blank">
+    
+
+
+      
+        eudoxia0 /
+
+      hashcards</a></p>
+				<p>
+      A plain text-based spaced repetition system.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 620</span>
+						<span>🔱 29</span>
+					</div>
+				<div class="stars-today">⭐ 89 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/codex" target="_blank">
+    
+
+
+      
+        openai /
+
+      codex</a></p>
+				<p>
+      Lightweight coding agent that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 53982</span>
+						<span>🔱 6824</span>
+					</div>
+				<div class="stars-today">⭐ 258 stars today</div>
 				</div>
 			</div>
 	
@@ -294,54 +228,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11072</span>
-						<span>🔱 562</span>
+						<span>⭐ 11133</span>
+						<span>🔱 564</span>
 					</div>
 				<div class="stars-today">⭐ 614 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/daytonaio/daytona" target="_blank">
+				<p><a href="https://github.com/mdn/content" target="_blank">
     
 
 
       
-        daytonaio /
+        mdn /
 
-      daytona</a></p>
+      content</a></p>
 				<p>
-      Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
+      The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37624</span>
-						<span>🔱 2800</span>
+						<span>🔠 Markdown</span>
+						<span>⭐ 10160</span>
+						<span>🔱 22999</span>
 					</div>
-				<div class="stars-today">⭐ 276 stars today</div>
+				<div class="stars-today">⭐ 144 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
     
 
 
       
-        public-apis /
+        Raphire /
 
-      public-apis</a></p>
+      Win11Debloat</a></p>
 				<p>
-      A collective list of free APIs
+      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 385226</span>
-						<span>🔱 41115</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 35581</span>
+						<span>🔱 1385</span>
 					</div>
-				<div class="stars-today">⭐ 893 stars today</div>
+				<div class="stars-today">⭐ 333 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mnh-jansson/open-battery-information" target="_blank">
+    
+
+
+      
+        mnh-jansson /
+
+      open-battery-information</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 855</span>
+						<span>🔱 153</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
 				</div>
 			</div>
 	

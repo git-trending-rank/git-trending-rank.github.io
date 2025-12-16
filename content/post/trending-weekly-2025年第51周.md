@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第51周
-date: 2025-12-16T11:58:51Z
+date: 2025-12-16T14:01:39Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7053</span>
-						<span>🔱 403</span>
+						<span>⭐ 7143</span>
+						<span>🔱 412</span>
 					</div>
 				<div class="stars-today">⭐ 5541 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18287</span>
-						<span>🔱 2012</span>
-					</div>
-				<div class="stars-today">⭐ 4975 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11997</span>
-						<span>🔱 887</span>
+						<span>⭐ 12024</span>
+						<span>🔱 888</span>
 					</div>
 				<div class="stars-today">⭐ 2894 stars this week</div>
 				</div>
@@ -96,54 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12110</span>
-						<span>🔱 1227</span>
+						<span>⭐ 12163</span>
+						<span>🔱 1230</span>
 					</div>
 				<div class="stars-today">⭐ 6315 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
     
 
 
       
-        block /
+        microsoft /
 
-      goose</a></p>
+      VibeVoice</a></p>
 				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24509</span>
-						<span>🔱 2180</span>
-					</div>
-				<div class="stars-today">⭐ 1703 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cutile-python</a></p>
-				<p>
-      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+      Open-Source Frontier Voice AI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1564</span>
-						<span>🔱 80</span>
+						<span>⭐ 18322</span>
+						<span>🔱 2015</span>
 					</div>
-				<div class="stars-today">⭐ 599 stars this week</div>
+				<div class="stars-today">⭐ 4975 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22526</span>
+						<span>🔱 2826</span>
+					</div>
+				<div class="stars-today">⭐ 2647 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9071</span>
+						<span>⭐ 9077</span>
 						<span>🔱 977</span>
 					</div>
 				<div class="stars-today">⭐ 1165 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/goose" target="_blank">
+    
+
+
+      
+        block /
+
+      goose</a></p>
+				<p>
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 24515</span>
+						<span>🔱 2181</span>
+					</div>
+				<div class="stars-today">⭐ 1703 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9925</span>
-						<span>🔱 1028</span>
+						<span>⭐ 9954</span>
+						<span>🔱 1031</span>
 					</div>
 				<div class="stars-today">⭐ 3601 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
-    
-
-
-      
-        srbhr /
-
-      Resume-Matcher</a></p>
-				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25068</span>
-						<span>🔱 4570</span>
-					</div>
-				<div class="stars-today">⭐ 900 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12343</span>
-						<span>🔱 2099</span>
-					</div>
-				<div class="stars-today">⭐ 972 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15682</span>
+						<span>⭐ 15685</span>
 						<span>🔱 637</span>
 					</div>
 				<div class="stars-today">⭐ 664 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      cutile-python</a></p>
+				<p>
+      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1566</span>
+						<span>🔱 80</span>
+					</div>
+				<div class="stars-today">⭐ 599 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15119</span>
+						<span>⭐ 15129</span>
 						<span>🔱 1532</span>
 					</div>
 				<div class="stars-today">⭐ 2057 stars this week</div>
@@ -280,24 +258,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
     
 
 
       
-        rustfs /
+        mindsdb /
 
-      rustfs</a></p>
+      mindsdb</a></p>
 				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+      Federated query engine for AI - The only MCP Server you'll ever need
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17322</span>
-						<span>🔱 750</span>
+						<span>🔠 Python</span>
+						<span>⭐ 37915</span>
+						<span>🔱 6060</span>
 					</div>
-				<div class="stars-today">⭐ 1375 stars this week</div>
+				<div class="stars-today">⭐ 452 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+    
+
+
+      
+        srbhr /
+
+      Resume-Matcher</a></p>
+				<p>
+      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25076</span>
+						<span>🔱 4570</span>
+					</div>
+				<div class="stars-today">⭐ 900 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82088</span>
-						<span>🔱 19260</span>
+						<span>⭐ 82103</span>
+						<span>🔱 19261</span>
 					</div>
 				<div class="stars-today">⭐ 1676 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
+    
+
+
+      
+        jellyfin /
+
+      jellyfin-desktop</a></p>
+				<p>
+      Jellyfin Desktop Client
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4643</span>
+						<span>🔱 439</span>
+					</div>
+				<div class="stars-today">⭐ 100 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/strands-agents/sdk-python" target="_blank">
+    
+
+
+      
+        strands-agents /
+
+      sdk-python</a></p>
+				<p>
+      A model-driven approach to building AI agents in just a few lines of code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4537</span>
+						<span>🔱 546</span>
+					</div>
+				<div class="stars-today">⭐ 304 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12346</span>
+						<span>🔱 2100</span>
+					</div>
+				<div class="stars-today">⭐ 972 stars this week</div>
 				</div>
 			</div>
 	
