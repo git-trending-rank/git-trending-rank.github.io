@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-17T09:59:10Z
+date: 2025-12-17T11:59:09Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 22577</span>
+						<span>⭐ 22592</span>
 						<span>🔱 1164</span>
 					</div>
 				<div class="stars-today">⭐ 19862 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39463</span>
+						<span>⭐ 39482</span>
 						<span>🔱 20629</span>
 					</div>
 				<div class="stars-today">⭐ 25120 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
-    
-
-
-      
-        MemoriLabs /
-
-      Memori</a></p>
-				<p>
-      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11058</span>
-						<span>🔱 724</span>
-					</div>
-				<div class="stars-today">⭐ 7126 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17441</span>
+						<span>⭐ 17448</span>
 						<span>🔱 755</span>
 					</div>
 				<div class="stars-today">⭐ 6069 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apurvsinghgautam/robin" target="_blank">
+    
+
+
+      
+        apurvsinghgautam /
+
+      robin</a></p>
+				<p>
+      AI-Powered Dark Web OSINT Tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2004</span>
+						<span>🔱 497</span>
+					</div>
+				<div class="stars-today">⭐ 1882 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10182</span>
-						<span>🔱 1052</span>
+						<span>⭐ 10205</span>
+						<span>🔱 1056</span>
 					</div>
 				<div class="stars-today">⭐ 6071 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12413</span>
-						<span>🔱 2109</span>
-					</div>
-				<div class="stars-today">⭐ 2127 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9147</span>
+						<span>⭐ 9149</span>
 						<span>🔱 933</span>
 					</div>
 				<div class="stars-today">⭐ 1214 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12420</span>
+						<span>🔱 2109</span>
+					</div>
+				<div class="stars-today">⭐ 2127 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
+    
+
+
+      
+        MemoriLabs /
+
+      Memori</a></p>
+				<p>
+      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11061</span>
+						<span>🔱 724</span>
+					</div>
+				<div class="stars-today">⭐ 7126 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+    
+
+
+      
+        trustedsec /
+
+      social-engineer-toolkit</a></p>
+				<p>
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13857</span>
+						<span>🔱 3197</span>
+					</div>
+				<div class="stars-today">⭐ 1240 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12242</span>
+						<span>🔱 898</span>
+					</div>
+				<div class="stars-today">⭐ 3838 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8256</span>
+						<span>⭐ 8258</span>
 						<span>🔱 973</span>
 					</div>
 				<div class="stars-today">⭐ 1383 stars this month</div>
@@ -206,76 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4759</span>
-						<span>🔱 1168</span>
+						<span>⭐ 4762</span>
+						<span>🔱 1170</span>
 					</div>
 				<div class="stars-today">⭐ 1786 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12224</span>
-						<span>🔱 897</span>
-					</div>
-				<div class="stars-today">⭐ 3838 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
-    
-
-
-      
-        trustedsec /
-
-      social-engineer-toolkit</a></p>
-				<p>
-      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13850</span>
-						<span>🔱 3196</span>
-					</div>
-				<div class="stars-today">⭐ 1240 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      gemini-cli</a></p>
-				<p>
-      An open-source AI agent that brings the power of Gemini directly into your terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 87711</span>
-						<span>🔱 10038</span>
-					</div>
-				<div class="stars-today">⭐ 5293 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39612</span>
-						<span>🔱 3346</span>
+						<span>⭐ 39664</span>
+						<span>🔱 3352</span>
 					</div>
 				<div class="stars-today">⭐ 6460 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      gemini-cli</a></p>
+				<p>
+      An open-source AI agent that brings the power of Gemini directly into your terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 87717</span>
+						<span>🔱 10039</span>
+					</div>
+				<div class="stars-today">⭐ 5293 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 85197</span>
+						<span>🔱 3807</span>
+					</div>
+				<div class="stars-today">⭐ 3121 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82201</span>
-						<span>🔱 19286</span>
+						<span>⭐ 82207</span>
+						<span>🔱 19287</span>
 					</div>
 				<div class="stars-today">⭐ 3295 stars this month</div>
 				</div>
@@ -338,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6352</span>
+						<span>⭐ 6354</span>
 						<span>🔱 437</span>
 					</div>
 				<div class="stars-today">⭐ 2829 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 85193</span>
-						<span>🔱 3807</span>
-					</div>
-				<div class="stars-today">⭐ 3121 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97145</span>
-						<span>🔱 11003</span>
+						<span>⭐ 97154</span>
+						<span>🔱 11005</span>
 					</div>
 				<div class="stars-today">⭐ 3540 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI agents for penetration testing
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17903</span>
-						<span>🔱 1830</span>
-					</div>
-				<div class="stars-today">⭐ 6631 stars this month</div>
 				</div>
 			</div>
 	

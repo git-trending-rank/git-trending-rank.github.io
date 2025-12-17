@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-17
-date: 2025-12-17T09:59:10Z
+date: 2025-12-17T11:59:05Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
     
 
 
       
-        simstudioai /
+        C4illin /
 
-      sim</a></p>
+      ConvertX</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23282</span>
-						<span>🔱 2900</span>
+						<span>⭐ 11693</span>
+						<span>🔱 581</span>
 					</div>
-				<div class="stars-today">⭐ 1357 stars today</div>
+				<div class="stars-today">⭐ 628 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        ZJU-LLMs /
+        resemble-ai /
 
-      Foundations-of-LLMs</a></p>
+      chatterbox</a></p>
 				<p>
-      A book for Learning the Foundations of LLMs
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 14600</span>
-						<span>🔱 1334</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15561</span>
+						<span>🔱 2184</span>
 					</div>
-				<div class="stars-today">⭐ 349 stars today</div>
+				<div class="stars-today">⭐ 255 stars today</div>
 				</div>
 			</div>
 	
@@ -74,54 +74,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43238</span>
-						<span>🔱 7672</span>
+						<span>⭐ 43257</span>
+						<span>🔱 7673</span>
 					</div>
 				<div class="stars-today">⭐ 167 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        thedotmack /
+        simstudioai /
 
-      claude-mem</a></p>
+      sim</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      Open-source platform to build and deploy AI agent workflows.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7611</span>
-						<span>🔱 456</span>
+						<span>⭐ 23354</span>
+						<span>🔱 2906</span>
 					</div>
-				<div class="stars-today">⭐ 632 stars today</div>
+				<div class="stars-today">⭐ 1357 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
+				<p><a href="https://github.com/Free-TV/IPTV" target="_blank">
     
 
 
       
-        Morganamilo /
+        Free-TV /
 
-      paru</a></p>
+      IPTV</a></p>
 				<p>
-      Feature packed AUR helper
+      M3U Playlist for free TV channels
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 7979</span>
-						<span>🔱 295</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8405</span>
+						<span>🔱 1522</span>
 					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
+				<div class="stars-today">⭐ 870 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 62790</span>
+						<span>🔱 13925</span>
+					</div>
+				<div class="stars-today">⭐ 579 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/0xk1h0/ChatGPT_DAN" target="_blank">
+    
+
+
+      
+        0xk1h0 /
+
+      ChatGPT_DAN</a></p>
+				<p>
+      ChatGPT DAN, Jailbreaks prompt
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 10302</span>
+						<span>🔱 958</span>
+					</div>
+				<div class="stars-today">⭐ 47 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 385674</span>
+						<span>🔱 41172</span>
+					</div>
+				<div class="stars-today">⭐ 892 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nicotsx/zerobyte" target="_blank">
+    
+
+
+      
+        nicotsx /
+
+      zerobyte</a></p>
+				<p>
+      Backup automation for self-hosters. Built on top of restic
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2979</span>
+						<span>🔱 58</span>
+					</div>
+				<div class="stars-today">⭐ 402 stars today</div>
 				</div>
 			</div>
 	
@@ -140,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4778</span>
+						<span>⭐ 4791</span>
 						<span>🔱 443</span>
 					</div>
 				<div class="stars-today">⭐ 173 stars today</div>
@@ -148,154 +236,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nicotsx/zerobyte" target="_blank">
+				<p><a href="https://github.com/NVIDIA-NeMo/Gym" target="_blank">
     
 
 
       
-        nicotsx /
+        NVIDIA-NeMo /
 
-      zerobyte</a></p>
+      Gym</a></p>
 				<p>
-      Backup automation for self-hosters
+      Build RL environments for LLM training
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2947</span>
-						<span>🔱 58</span>
+						<span>🔠 Python</span>
+						<span>⭐ 149</span>
+						<span>🔱 15</span>
 					</div>
-				<div class="stars-today">⭐ 402 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eudoxia0/hashcards" target="_blank">
-    
-
-
-      
-        eudoxia0 /
-
-      hashcards</a></p>
-				<p>
-      A plain text-based spaced repetition system.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 766</span>
-						<span>🔱 33</span>
-					</div>
-				<div class="stars-today">⭐ 92 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 54164</span>
-						<span>🔱 6848</span>
-					</div>
-				<div class="stars-today">⭐ 268 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
-    
-
-
-      
-        C4illin /
-
-      ConvertX</a></p>
-				<p>
-      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11635</span>
-						<span>🔱 578</span>
-					</div>
-				<div class="stars-today">⭐ 628 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mdn/content" target="_blank">
-    
-
-
-      
-        mdn /
-
-      content</a></p>
-				<p>
-      The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 10365</span>
-						<span>🔱 23003</span>
-					</div>
-				<div class="stars-today">⭐ 18 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
-    
-
-
-      
-        Raphire /
-
-      Win11Debloat</a></p>
-				<p>
-      A simple, lightweight PowerShell script to remove pre-installed apps, disable telemetry, as well as perform various other changes to customize, declutter and improve your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 35866</span>
-						<span>🔱 1391</span>
-					</div>
-				<div class="stars-today">⭐ 337 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mnh-jansson/open-battery-information" target="_blank">
-    
-
-
-      
-        mnh-jansson /
-
-      open-battery-information</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 901</span>
-						<span>🔱 153</span>
-					</div>
-				<div class="stars-today">⭐ 24 stars today</div>
+				<div class="stars-today">⭐ 21 stars today</div>
 				</div>
 			</div>
 	

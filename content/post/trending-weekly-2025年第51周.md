@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第51周
-date: 2025-12-17T09:59:10Z
+date: 2025-12-17T11:59:05Z
 categories:
 - weekly
 keywords:
@@ -30,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7611</span>
-						<span>🔱 456</span>
+						<span>⭐ 7647</span>
+						<span>🔱 458</span>
 					</div>
 				<div class="stars-today">⭐ 5999 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12224</span>
-						<span>🔱 897</span>
-					</div>
-				<div class="stars-today">⭐ 3145 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12552</span>
-						<span>🔱 1261</span>
-					</div>
-				<div class="stars-today">⭐ 6568 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18450</span>
-						<span>🔱 2029</span>
-					</div>
-				<div class="stars-today">⭐ 2560 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23282</span>
-						<span>🔱 2900</span>
+						<span>⭐ 23354</span>
+						<span>🔱 2906</span>
 					</div>
 				<div class="stars-today">⭐ 3859 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12584</span>
+						<span>🔱 1267</span>
+					</div>
+				<div class="stars-today">⭐ 6568 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12242</span>
+						<span>🔱 898</span>
+					</div>
+				<div class="stars-today">⭐ 3145 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9166</span>
+						<span>⭐ 9174</span>
 						<span>🔱 989</span>
 					</div>
 				<div class="stars-today">⭐ 1265 stars this week</div>
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24592</span>
+						<span>⭐ 24600</span>
 						<span>🔱 2190</span>
 					</div>
 				<div class="stars-today">⭐ 1794 stars this week</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10182</span>
-						<span>🔱 1052</span>
+						<span>⭐ 10205</span>
+						<span>🔱 1056</span>
 					</div>
 				<div class="stars-today">⭐ 3610 stars this week</div>
 				</div>
@@ -206,54 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15738</span>
-						<span>🔱 637</span>
+						<span>⭐ 15743</span>
+						<span>🔱 638</span>
 					</div>
 				<div class="stars-today">⭐ 736 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
+				<p><a href="https://github.com/KaijuEngine/kaiju" target="_blank">
     
 
 
       
-        NVIDIA /
+        KaijuEngine /
 
-      cutile-python</a></p>
+      kaiju</a></p>
 				<p>
-      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+      General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1596</span>
-						<span>🔱 80</span>
+						<span>🔠 Go</span>
+						<span>⭐ 3702</span>
+						<span>🔱 127</span>
 					</div>
-				<div class="stars-today">⭐ 441 stars this week</div>
+				<div class="stars-today">⭐ 2610 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lfnovo/open-notebook" target="_blank">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
     
 
 
       
-        lfnovo /
+        microsoft /
 
-      open-notebook</a></p>
+      VibeVoice</a></p>
 				<p>
-      An Open Source implementation of Notebook LM with more flexibility and features
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18456</span>
+						<span>🔱 2030</span>
+					</div>
+				<div class="stars-today">⭐ 2560 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43257</span>
+						<span>🔱 7673</span>
+					</div>
+				<div class="stars-today">⭐ 487 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15278</span>
-						<span>🔱 1546</span>
+						<span>⭐ 16953</span>
+						<span>🔱 1046</span>
 					</div>
-				<div class="stars-today">⭐ 1595 stars this week</div>
+				<div class="stars-today">⭐ 668 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37952</span>
-						<span>🔱 6062</span>
+						<span>⭐ 37956</span>
+						<span>🔱 6061</span>
 					</div>
 				<div class="stars-today">⭐ 460 stars this week</div>
 				</div>
@@ -294,98 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25148</span>
+						<span>⭐ 25159</span>
 						<span>🔱 4575</span>
 					</div>
 				<div class="stars-today">⭐ 938 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ML-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ML-For-Beginners</a></p>
-				<p>
-      12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82201</span>
-						<span>🔱 19286</span>
-					</div>
-				<div class="stars-today">⭐ 1220 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
-    
-
-
-      
-        jellyfin /
-
-      jellyfin-desktop</a></p>
-				<p>
-      Jellyfin Desktop Client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4778</span>
-						<span>🔱 443</span>
-					</div>
-				<div class="stars-today">⭐ 246 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/strands-agents/sdk-python" target="_blank">
-    
-
-
-      
-        strands-agents /
-
-      sdk-python</a></p>
-				<p>
-      A model-driven approach to building AI agents in just a few lines of code.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4578</span>
-						<span>🔱 548</span>
-					</div>
-				<div class="stars-today">⭐ 282 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12413</span>
-						<span>🔱 2109</span>
-					</div>
-				<div class="stars-today">⭐ 679 stars this week</div>
 				</div>
 			</div>
 	
