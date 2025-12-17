@@ -6,18 +6,10 @@
         <description>Recent content in Categories on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 16 Dec 2025 23:58:50 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Weekly</title>
-        <link>https://git-trending-rank.github.io/categories/weekly/</link>
-        <pubDate>Tue, 16 Dec 2025 23:58:50 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/categories/weekly/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Wed, 17 Dec 2025 03:12:08 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Daily</title>
         <link>https://git-trending-rank.github.io/categories/daily/</link>
-        <pubDate>Tue, 16 Dec 2025 23:58:49 +0000</pubDate>
+        <pubDate>Wed, 17 Dec 2025 03:12:08 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/categories/daily/</guid>
         <description></description>
@@ -25,9 +17,17 @@
         <item>
         <title>Monthly</title>
         <link>https://git-trending-rank.github.io/categories/monthly/</link>
-        <pubDate>Tue, 16 Dec 2025 23:58:49 +0000</pubDate>
+        <pubDate>Wed, 17 Dec 2025 03:12:08 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/categories/monthly/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Weekly</title>
+        <link>https://git-trending-rank.github.io/categories/weekly/</link>
+        <pubDate>Wed, 17 Dec 2025 03:12:08 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/categories/weekly/</guid>
         <description></description>
         </item>
         <item>
