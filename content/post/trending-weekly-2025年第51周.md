@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第51周
-date: 2025-12-18T09:59:48Z
+date: 2025-12-18T11:58:56Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7930</span>
+						<span>🔱 476</span>
+					</div>
+				<div class="stars-today">⭐ 5655 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/simstudioai/sim" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23572</span>
-						<span>🔱 2932</span>
+						<span>⭐ 23588</span>
+						<span>🔱 2935</span>
 					</div>
 				<div class="stars-today">⭐ 4729 stars this week</div>
 				</div>
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13054</span>
+						<span>⭐ 13088</span>
 						<span>🔱 1299</span>
 					</div>
 				<div class="stars-today">⭐ 6418 stars this week</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12395</span>
-						<span>🔱 903</span>
+						<span>⭐ 12415</span>
+						<span>🔱 905</span>
 					</div>
 				<div class="stars-today">⭐ 3017 stars this week</div>
 				</div>
@@ -96,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9259</span>
-						<span>🔱 994</span>
+						<span>⭐ 9266</span>
+						<span>🔱 995</span>
 					</div>
 				<div class="stars-today">⭐ 1290 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        block /
+        virattt /
 
-      goose</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24669</span>
-						<span>🔱 2195</span>
+						<span>🔠 Python</span>
+						<span>⭐ 43501</span>
+						<span>🔱 7708</span>
 					</div>
-				<div class="stars-today">⭐ 1407 stars this week</div>
+				<div class="stars-today">⭐ 729 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10471</span>
+						<span>⭐ 10491</span>
 						<span>🔱 1092</span>
 					</div>
 				<div class="stars-today">⭐ 3394 stars this week</div>
@@ -162,76 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15774</span>
-						<span>🔱 640</span>
+						<span>⭐ 15782</span>
+						<span>🔱 641</span>
 					</div>
 				<div class="stars-today">⭐ 798 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KaijuEngine/kaiju" target="_blank">
+				<p><a href="https://github.com/block/goose" target="_blank">
     
 
 
       
-        KaijuEngine /
+        block /
 
-      kaiju</a></p>
+      goose</a></p>
 				<p>
-      General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3738</span>
-						<span>🔱 129</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 24677</span>
+						<span>🔱 2196</span>
 					</div>
-				<div class="stars-today">⭐ 1317 stars this week</div>
+				<div class="stars-today">⭐ 1407 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        microsoft /
+        anthropics /
 
-      VibeVoice</a></p>
+      claude-code</a></p>
 				<p>
-      Open-Source Frontier Voice AI
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18576</span>
-						<span>🔱 2048</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 46464</span>
+						<span>🔱 3256</span>
 					</div>
-				<div class="stars-today">⭐ 1720 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43482</span>
-						<span>🔱 7706</span>
-					</div>
-				<div class="stars-today">⭐ 729 stars this week</div>
+				<div class="stars-today">⭐ 1060 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17073</span>
+						<span>⭐ 17086</span>
 						<span>🔱 1052</span>
 					</div>
 				<div class="stars-today">⭐ 725 stars this week</div>
@@ -272,32 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38016</span>
-						<span>🔱 6062</span>
+						<span>⭐ 38021</span>
+						<span>🔱 6063</span>
 					</div>
 				<div class="stars-today">⭐ 452 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/srbhr/Resume-Matcher" target="_blank">
+				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
     
 
 
       
-        srbhr /
+        jellyfin /
 
-      Resume-Matcher</a></p>
+      jellyfin-desktop</a></p>
 				<p>
-      Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions. 
+      Jellyfin Desktop Client
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4942</span>
+						<span>🔱 452</span>
+					</div>
+				<div class="stars-today">⭐ 433 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25254</span>
-						<span>🔱 4582</span>
+						<span>⭐ 12719</span>
+						<span>🔱 1706</span>
 					</div>
-				<div class="stars-today">⭐ 682 stars this week</div>
+				<div class="stars-today">⭐ 918 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16016</span>
+						<span>🔱 2212</span>
+					</div>
+				<div class="stars-today">⭐ 1058 stars this week</div>
 				</div>
 			</div>
 	

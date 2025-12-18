@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-18T09:59:49Z
+date: 2025-12-18T11:58:55Z
 categories:
 - monthly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kavishdevar/librepods" target="_blank">
+				<p><a href="https://github.com/facebookresearch/sam3" target="_blank">
     
 
 
       
-        kavishdevar /
+        facebookresearch /
 
-      librepods</a></p>
+      sam3</a></p>
 				<p>
-      AirPods liberated from Apple's ecosystem.
+      The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 22774</span>
-						<span>🔱 1176</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6058</span>
+						<span>🔱 703</span>
 					</div>
-				<div class="stars-today">⭐ 16980 stars this month</div>
+				<div class="stars-today">⭐ 6055 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39618</span>
-						<span>🔱 20673</span>
+						<span>⭐ 39625</span>
+						<span>🔱 20677</span>
 					</div>
 				<div class="stars-today">⭐ 23253 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kavishdevar/librepods" target="_blank">
+    
+
+
+      
+        kavishdevar /
+
+      librepods</a></p>
+				<p>
+      AirPods liberated from Apple's ecosystem.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 22796</span>
+						<span>🔱 1177</span>
+					</div>
+				<div class="stars-today">⭐ 16980 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17544</span>
+						<span>⭐ 17553</span>
 						<span>🔱 759</span>
 					</div>
 				<div class="stars-today">⭐ 6172 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apurvsinghgautam/robin" target="_blank">
-    
-
-
-      
-        apurvsinghgautam /
-
-      robin</a></p>
-				<p>
-      AI-Powered Dark Web OSINT Tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2068</span>
-						<span>🔱 501</span>
-					</div>
-				<div class="stars-today">⭐ 1892 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10471</span>
-						<span>🔱 1092</span>
-					</div>
-				<div class="stars-today">⭐ 6256 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9178</span>
+						<span>⭐ 9179</span>
 						<span>🔱 934</span>
 					</div>
 				<div class="stars-today">⭐ 1243 stars this month</div>
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12484</span>
-						<span>🔱 2117</span>
+						<span>⭐ 12487</span>
+						<span>🔱 2118</span>
 					</div>
 				<div class="stars-today">⭐ 2197 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
     
 
 
       
-        MemoriLabs /
+        datawhalechina /
 
-      Memori</a></p>
+      hello-agents</a></p>
 				<p>
-      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11105</span>
-						<span>🔱 724</span>
+						<span>⭐ 10491</span>
+						<span>🔱 1092</span>
 					</div>
-				<div class="stars-today">⭐ 6619 stars this month</div>
+				<div class="stars-today">⭐ 6256 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13898</span>
+						<span>⭐ 13900</span>
 						<span>🔱 3202</span>
 					</div>
 				<div class="stars-today">⭐ 1284 stars this month</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12395</span>
-						<span>🔱 903</span>
+						<span>⭐ 12415</span>
+						<span>🔱 905</span>
 					</div>
 				<div class="stars-today">⭐ 4024 stars this month</div>
 				</div>
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8297</span>
+						<span>⭐ 8301</span>
 						<span>🔱 974</span>
 					</div>
 				<div class="stars-today">⭐ 1413 stars this month</div>
@@ -258,24 +236,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
+				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
     
 
 
       
-        GoogleCloudPlatform /
+        MemoriLabs /
 
-      agent-starter-pack</a></p>
+      Memori</a></p>
 				<p>
-      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
+      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4825</span>
-						<span>🔱 1179</span>
+						<span>⭐ 11108</span>
+						<span>🔱 724</span>
 					</div>
-				<div class="stars-today">⭐ 1826 stars this month</div>
+				<div class="stars-today">⭐ 6619 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40009</span>
-						<span>🔱 3391</span>
+						<span>⭐ 40044</span>
+						<span>🔱 3390</span>
 					</div>
 				<div class="stars-today">⭐ 6857 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/gemini-cli" target="_blank">
+				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
     
 
 
       
-        google-gemini /
+        GoogleCloudPlatform /
 
-      gemini-cli</a></p>
+      agent-starter-pack</a></p>
 				<p>
-      An open-source AI agent that brings the power of Gemini directly into your terminal.
+      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 87871</span>
-						<span>🔱 10058</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4830</span>
+						<span>🔱 1180</span>
 					</div>
-				<div class="stars-today">⭐ 5352 stars this month</div>
+				<div class="stars-today">⭐ 1826 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85238</span>
-						<span>🔱 3814</span>
+						<span>⭐ 85241</span>
+						<span>🔱 3815</span>
 					</div>
 				<div class="stars-today">⭐ 3170 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apurvsinghgautam/robin" target="_blank">
+    
+
+
+      
+        apurvsinghgautam /
+
+      robin</a></p>
+				<p>
+      AI-Powered Dark Web OSINT Tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2072</span>
+						<span>🔱 502</span>
+					</div>
+				<div class="stars-today">⭐ 1892 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 82310</span>
-						<span>🔱 19306</span>
+						<span>⭐ 82320</span>
+						<span>🔱 19308</span>
 					</div>
 				<div class="stars-today">⭐ 3375 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-go" target="_blank">
-    
-
-
-      
-        google /
-
-      adk-go</a></p>
-				<p>
-      An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6380</span>
-						<span>🔱 442</span>
-					</div>
-				<div class="stars-today">⭐ 2654 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97270</span>
-						<span>🔱 11019</span>
+						<span>⭐ 97278</span>
+						<span>🔱 11020</span>
 					</div>
 				<div class="stars-today">⭐ 3568 stars this month</div>
 				</div>

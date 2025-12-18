@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-18
-date: 2025-12-18T09:59:48Z
+date: 2025-12-18T11:58:55Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        C4illin /
+        anthropics /
 
-      ConvertX</a></p>
+      claude-code</a></p>
 				<p>
-      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12405</span>
-						<span>🔱 614</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 46464</span>
+						<span>🔱 3256</span>
 					</div>
-				<div class="stars-today">⭐ 629 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15983</span>
-						<span>🔱 2212</span>
-					</div>
-				<div class="stars-today">⭐ 345 stars today</div>
+				<div class="stars-today">⭐ 187 stars today</div>
 				</div>
 			</div>
 	
@@ -74,186 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43482</span>
-						<span>🔱 7706</span>
+						<span>⭐ 43501</span>
+						<span>🔱 7708</span>
 					</div>
 				<div class="stars-today">⭐ 251 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/astral-sh/ty" target="_blank">
     
 
 
       
-        simstudioai /
+        astral-sh /
 
-      sim</a></p>
+      ty</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23572</span>
-						<span>🔱 2932</span>
-					</div>
-				<div class="stars-today">⭐ 981 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Free-TV/IPTV" target="_blank">
-    
-
-
-      
-        Free-TV /
-
-      IPTV</a></p>
-				<p>
-      M3U Playlist for free TV channels
+      An extremely fast Python type checker and language server, written in Rust.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8761</span>
-						<span>🔱 1536</span>
+						<span>⭐ 14576</span>
+						<span>🔱 148</span>
 					</div>
-				<div class="stars-today">⭐ 756 stars today</div>
+				<div class="stars-today">⭐ 250 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+				<p><a href="https://github.com/letta-ai/letta" target="_blank">
     
 
 
       
-        TapXWorld /
+        letta-ai /
 
-      ChinaTextbook</a></p>
+      letta</a></p>
 				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 62986</span>
-						<span>🔱 13961</span>
-					</div>
-				<div class="stars-today">⭐ 287 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/0xk1h0/ChatGPT_DAN" target="_blank">
-    
-
-
-      
-        0xk1h0 /
-
-      ChatGPT_DAN</a></p>
-				<p>
-      ChatGPT DAN, Jailbreaks prompt
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 10532</span>
-						<span>🔱 970</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
+      Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 386335</span>
-						<span>🔱 41237</span>
+						<span>⭐ 19697</span>
+						<span>🔱 2074</span>
 					</div>
-				<div class="stars-today">⭐ 488 stars today</div>
+				<div class="stars-today">⭐ 102 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nicotsx/zerobyte" target="_blank">
+				<p><a href="https://github.com/schollz/croc" target="_blank">
     
 
 
       
-        nicotsx /
+        schollz /
 
-      zerobyte</a></p>
+      croc</a></p>
 				<p>
-      Backup automation for self-hosters. Built on top of restic
+      Easily and securely send things from one computer to another 🐊 📦
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3376</span>
-						<span>🔱 68</span>
+						<span>🔠 Go</span>
+						<span>⭐ 32514</span>
+						<span>🔱 1287</span>
 					</div>
-				<div class="stars-today">⭐ 466 stars today</div>
+				<div class="stars-today">⭐ 130 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        jellyfin /
+        resemble-ai /
 
-      jellyfin-desktop</a></p>
+      chatterbox</a></p>
 				<p>
-      Jellyfin Desktop Client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4936</span>
-						<span>🔱 453</span>
-					</div>
-				<div class="stars-today">⭐ 167 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Gym" target="_blank">
-    
-
-
-      
-        NVIDIA-NeMo /
-
-      Gym</a></p>
-				<p>
-      Build RL environments for LLM training
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 337</span>
-						<span>🔱 25</span>
+						<span>⭐ 16016</span>
+						<span>🔱 2212</span>
 					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
+				<div class="stars-today">⭐ 345 stars today</div>
 				</div>
 			</div>
 	
