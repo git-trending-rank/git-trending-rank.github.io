@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-19
-date: 2025-12-19T09:58:40Z
+date: 2025-12-19T11:58:41Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">
+    
+
+
+      
+        jaywcjlove /
+
+      awesome-mac</a></p>
+				<p>
+       Now we have become very big, Different from the original idea. Collect premium software in various categories.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 96146</span>
+						<span>🔱 7220</span>
+					</div>
+				<div class="stars-today">⭐ 218 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
@@ -30,120 +52,184 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 46921</span>
-						<span>🔱 3292</span>
+						<span>⭐ 46959</span>
+						<span>🔱 3294</span>
 					</div>
-				<div class="stars-today">⭐ 178 stars today</div>
+				<div class="stars-today">⭐ 511 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/NVIDIA-NeMo/Gym" target="_blank">
     
 
 
       
-        virattt /
+        NVIDIA-NeMo /
 
-      ai-hedge-fund</a></p>
+      Gym</a></p>
 				<p>
-      An AI Hedge Fund Team
+      Build RL environments for LLM training
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43738</span>
-						<span>🔱 7736</span>
+						<span>⭐ 379</span>
+						<span>🔱 27</span>
 					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
+				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/astral-sh/ty" target="_blank">
+				<p><a href="https://github.com/GreyDGL/PentestGPT" target="_blank">
     
 
 
       
-        astral-sh /
+        GreyDGL /
 
-      ty</a></p>
+      PentestGPT</a></p>
 				<p>
-      An extremely fast Python type checker and language server, written in Rust.
+      A GPT-empowered penetration testing tool
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14986</span>
-						<span>🔱 157</span>
+						<span>⭐ 9456</span>
+						<span>🔱 1377</span>
 					</div>
-				<div class="stars-today">⭐ 251 stars today</div>
+				<div class="stars-today">⭐ 26 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/letta-ai/letta" target="_blank">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
     
 
 
       
-        letta-ai /
+        exo-explore /
 
-      letta</a></p>
+      exo</a></p>
 				<p>
-      Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19991</span>
-						<span>🔱 2093</span>
+						<span>⭐ 33298</span>
+						<span>🔱 2273</span>
 					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
+				<div class="stars-today">⭐ 437 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/schollz/croc" target="_blank">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
     
 
 
       
-        schollz /
+        swisskyrepo /
 
-      croc</a></p>
+      PayloadsAllTheThings</a></p>
 				<p>
-      Easily and securely send things from one computer to another 🐊 📦
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 33202</span>
-						<span>🔱 1306</span>
-					</div>
-				<div class="stars-today">⭐ 130 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16367</span>
-						<span>🔱 2235</span>
+						<span>⭐ 72420</span>
+						<span>🔱 16346</span>
 					</div>
-				<div class="stars-today">⭐ 477 stars today</div>
+				<div class="stars-today">⭐ 32 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sgl-project/mini-sglang" target="_blank">
+    
+
+
+      
+        sgl-project /
+
+      mini-sglang</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1302</span>
+						<span>🔱 95</span>
+					</div>
+				<div class="stars-today">⭐ 501 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/adk-js" target="_blank">
+    
+
+
+      
+        google /
+
+      adk-js</a></p>
+				<p>
+      An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 246</span>
+						<span>🔱 26</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/afshinea/stanford-cs-229-machine-learning" target="_blank">
+    
+
+
+      
+        afshinea /
+
+      stanford-cs-229-machine-learning</a></p>
+				<p>
+      VIP cheatsheets for Stanford's CS 229 Machine Learning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 18901</span>
+						<span>🔱 4133</span>
+					</div>
+				<div class="stars-today">⭐ 57 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/metabase/metabase" target="_blank">
+    
+
+
+      
+        metabase /
+
+      metabase</a></p>
+				<p>
+      The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Clojure</span>
+						<span>⭐ 45033</span>
+						<span>🔱 6092</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
 			</div>
 	

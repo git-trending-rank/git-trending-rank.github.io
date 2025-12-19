@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第51周
-date: 2025-12-19T09:58:40Z
+date: 2025-12-19T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8150</span>
-						<span>🔱 484</span>
-					</div>
-				<div class="stars-today">⭐ 4395 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/simstudioai/sim" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23653</span>
-						<span>🔱 2944</span>
+						<span>⭐ 23660</span>
+						<span>🔱 2945</span>
 					</div>
 				<div class="stars-today">⭐ 4930 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8163</span>
+						<span>🔱 485</span>
+					</div>
+				<div class="stars-today">⭐ 4395 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13528</span>
-						<span>🔱 1355</span>
+						<span>⭐ 13558</span>
+						<span>🔱 1357</span>
 					</div>
 				<div class="stars-today">⭐ 6164 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12581</span>
-						<span>🔱 911</span>
-					</div>
-				<div class="stars-today">⭐ 2469 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,98 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9461</span>
-						<span>🔱 1020</span>
+						<span>⭐ 9479</span>
+						<span>🔱 1022</span>
 					</div>
 				<div class="stars-today">⭐ 1287 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 43738</span>
-						<span>🔱 7736</span>
-					</div>
-				<div class="stars-today">⭐ 963 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10960</span>
-						<span>🔱 1140</span>
-					</div>
-				<div class="stars-today">⭐ 2914 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
-    
-
-
-      
-        tursodatabase /
-
-      turso</a></p>
-				<p>
-      Turso is an in-process SQL database, compatible with SQLite.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15824</span>
-						<span>🔱 645</span>
-					</div>
-				<div class="stars-today">⭐ 784 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24744</span>
-						<span>🔱 2204</span>
-					</div>
-				<div class="stars-today">⭐ 1057 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 46921</span>
-						<span>🔱 3292</span>
+						<span>⭐ 46959</span>
+						<span>🔱 3294</span>
 					</div>
 				<div class="stars-today">⭐ 1099 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+    
+
+
+      
+        tursodatabase /
+
+      turso</a></p>
+				<p>
+      Turso is an in-process SQL database, compatible with SQLite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 15826</span>
+						<span>🔱 645</span>
+					</div>
+				<div class="stars-today">⭐ 784 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12589</span>
+						<span>🔱 911</span>
+					</div>
+				<div class="stars-today">⭐ 2469 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
+    
+
+
+      
+        jellyfin /
+
+      jellyfin-desktop</a></p>
+				<p>
+      Jellyfin Desktop Client
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4981</span>
+						<span>🔱 456</span>
+					</div>
+				<div class="stars-today">⭐ 556 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10988</span>
+						<span>🔱 1146</span>
+					</div>
+				<div class="stars-today">⭐ 2914 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17220</span>
+						<span>⭐ 17223</span>
 						<span>🔱 1059</span>
 					</div>
 				<div class="stars-today">⭐ 785 stars this week</div>
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38063</span>
+						<span>⭐ 38064</span>
 						<span>🔱 6064</span>
 					</div>
 				<div class="stars-today">⭐ 475 stars this week</div>
@@ -280,46 +258,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
     
 
 
       
-        jellyfin /
+        CopilotKit /
 
-      jellyfin-desktop</a></p>
+      CopilotKit</a></p>
 				<p>
-      Jellyfin Desktop Client
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4980</span>
-						<span>🔱 456</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27052</span>
+						<span>🔱 3510</span>
 					</div>
-				<div class="stars-today">⭐ 556 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepCode</a></p>
-				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12786</span>
-						<span>🔱 1710</span>
-					</div>
-				<div class="stars-today">⭐ 942 stars this week</div>
+				<div class="stars-today">⭐ 1695 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16367</span>
+						<span>⭐ 16379</span>
 						<span>🔱 2235</span>
 					</div>
 				<div class="stars-today">⭐ 1117 stars this week</div>

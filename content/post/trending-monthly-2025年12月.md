@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-19T09:58:42Z
+date: 2025-12-19T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6148</span>
-						<span>🔱 710</span>
+						<span>⭐ 6155</span>
+						<span>🔱 712</span>
 					</div>
 				<div class="stars-today">⭐ 6071 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39672</span>
-						<span>🔱 20721</span>
+						<span>⭐ 39682</span>
+						<span>🔱 20725</span>
 					</div>
 				<div class="stars-today">⭐ 21405 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 22945</span>
-						<span>🔱 1193</span>
+						<span>⭐ 22956</span>
+						<span>🔱 1194</span>
 					</div>
 				<div class="stars-today">⭐ 16019 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17648</span>
+						<span>⭐ 17654</span>
 						<span>🔱 763</span>
 					</div>
 				<div class="stars-today">⭐ 6255 stars this month</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9203</span>
+						<span>⭐ 9205</span>
 						<span>🔱 936</span>
 					</div>
 				<div class="stars-today">⭐ 1271 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12528</span>
-						<span>🔱 2128</span>
-					</div>
-				<div class="stars-today">⭐ 2267 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10960</span>
-						<span>🔱 1140</span>
+						<span>⭐ 10988</span>
+						<span>🔱 1146</span>
 					</div>
 				<div class="stars-today">⭐ 6423 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
     
 
 
       
-        trustedsec /
+        anthropics /
 
-      social-engineer-toolkit</a></p>
+      claude-quickstarts</a></p>
 				<p>
-      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13930</span>
-						<span>🔱 3203</span>
+						<span>⭐ 12532</span>
+						<span>🔱 2129</span>
 					</div>
-				<div class="stars-today">⭐ 1327 stars this month</div>
+				<div class="stars-today">⭐ 2267 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/sam-3d-body" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      sam-3d-body</a></p>
+				<p>
+      The repository provides code for running inference with the SAM 3D Body Model (3DB), links for downloading the trained model checkpoints and datasets, and example notebooks that show how to use the model.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2261</span>
+						<span>🔱 213</span>
+					</div>
+				<div class="stars-today">⭐ 2263 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12581</span>
+						<span>⭐ 12589</span>
 						<span>🔱 911</span>
 					</div>
 				<div class="stars-today">⭐ 4165 stars this month</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8330</span>
-						<span>🔱 977</span>
+						<span>⭐ 8334</span>
+						<span>🔱 976</span>
 					</div>
 				<div class="stars-today">⭐ 1448 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
-    
-
-
-      
-        MemoriLabs /
-
-      Memori</a></p>
-				<p>
-      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11144</span>
-						<span>🔱 731</span>
-					</div>
-				<div class="stars-today">⭐ 6289 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40283</span>
-						<span>🔱 3421</span>
+						<span>⭐ 40305</span>
+						<span>🔱 3425</span>
 					</div>
 				<div class="stars-today">⭐ 7115 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      agent-starter-pack</a></p>
-				<p>
-      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4900</span>
-						<span>🔱 1183</span>
-					</div>
-				<div class="stars-today">⭐ 1886 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85293</span>
-						<span>🔱 3820</span>
+						<span>⭐ 85295</span>
+						<span>🔱 3821</span>
 					</div>
 				<div class="stars-today">⭐ 3213 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/apurvsinghgautam/robin" target="_blank">
+				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
     
 
 
       
-        apurvsinghgautam /
+        MemoriLabs /
 
-      robin</a></p>
+      Memori</a></p>
 				<p>
-      AI-Powered Dark Web OSINT Tool
+      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2162</span>
-						<span>🔱 518</span>
+						<span>⭐ 11150</span>
+						<span>🔱 732</span>
 					</div>
-				<div class="stars-today">⭐ 1454 stars this month</div>
+				<div class="stars-today">⭐ 6289 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      agent-starter-pack</a></p>
+				<p>
+      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4906</span>
+						<span>🔱 1183</span>
+					</div>
+				<div class="stars-today">⭐ 1886 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97379</span>
+						<span>⭐ 97391</span>
 						<span>🔱 11031</span>
 					</div>
 				<div class="stars-today">⭐ 3594 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
+    
+
+
+      
+        Morganamilo /
+
+      paru</a></p>
+				<p>
+      Feature packed AUR helper
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8018</span>
+						<span>🔱 296</span>
+					</div>
+				<div class="stars-today">⭐ 443 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23660</span>
+						<span>🔱 2945</span>
+					</div>
+				<div class="stars-today">⭐ 5310 stars this month</div>
 				</div>
 			</div>
 	
