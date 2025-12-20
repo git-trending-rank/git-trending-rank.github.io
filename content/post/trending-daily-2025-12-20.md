@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-20
-date: 2025-12-20T09:58:39Z
+date: 2025-12-20T11:58:43Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jaywcjlove/awesome-mac" target="_blank">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
     
 
 
       
-        jaywcjlove /
+        exo-explore /
 
-      awesome-mac</a></p>
+      exo</a></p>
 				<p>
-       Now we have become very big, Different from the original idea. Collect premium software in various categories.
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 96463</span>
-						<span>🔱 7246</span>
+						<span>🔠 Python</span>
+						<span>⭐ 33912</span>
+						<span>🔱 2308</span>
 					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
+				<div class="stars-today">⭐ 615 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lintsinghua/DeepAudit" target="_blank">
+    
+
+
+      
+        lintsinghua /
+
+      DeepAudit</a></p>
+				<p>
+      DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1890</span>
+						<span>🔱 209</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
 				</div>
 			</div>
 	
@@ -52,76 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47266</span>
-						<span>🔱 3319</span>
+						<span>⭐ 47295</span>
+						<span>🔱 3321</span>
 					</div>
-				<div class="stars-today">⭐ 510 stars today</div>
+				<div class="stars-today">⭐ 339 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA-NeMo/Gym" target="_blank">
+				<p><a href="https://github.com/github/awesome-copilot" target="_blank">
     
 
 
       
-        NVIDIA-NeMo /
+        github /
 
-      Gym</a></p>
+      awesome-copilot</a></p>
 				<p>
-      Build RL environments for LLM training
+      Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 500</span>
-						<span>🔱 31</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14835</span>
+						<span>🔱 1755</span>
 					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GreyDGL/PentestGPT" target="_blank">
-    
-
-
-      
-        GreyDGL /
-
-      PentestGPT</a></p>
-				<p>
-      A GPT-empowered penetration testing tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9687</span>
-						<span>🔱 1416</span>
-					</div>
-				<div class="stars-today">⭐ 34 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33832</span>
-						<span>🔱 2305</span>
-					</div>
-				<div class="stars-today">⭐ 448 stars today</div>
+				<div class="stars-today">⭐ 217 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72705</span>
+						<span>⭐ 72723</span>
 						<span>🔱 16357</span>
 					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
+				<div class="stars-today">⭐ 307 stars today</div>
 				</div>
 			</div>
 	
@@ -160,76 +138,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1587</span>
-						<span>🔱 117</span>
+						<span>⭐ 1610</span>
+						<span>🔱 119</span>
 					</div>
-				<div class="stars-today">⭐ 504 stars today</div>
+				<div class="stars-today">⭐ 312 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/adk-js" target="_blank">
+				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
     
 
 
       
-        google /
+        cloudcommunity /
 
-      adk-js</a></p>
+      Free-Certifications</a></p>
 				<p>
-      An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 466</span>
-						<span>🔱 35</span>
-					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/afshinea/stanford-cs-229-machine-learning" target="_blank">
-    
-
-
-      
-        afshinea /
-
-      stanford-cs-229-machine-learning</a></p>
-				<p>
-      VIP cheatsheets for Stanford's CS 229 Machine Learning
+      A curated list of free courses with certifications. Also available at https://free-certifications.com/
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 19100</span>
-						<span>🔱 4145</span>
+						<span>⭐ 46923</span>
+						<span>🔱 3164</span>
 					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
+				<div class="stars-today">⭐ 250 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/metabase/metabase" target="_blank">
+				<p><a href="https://github.com/GreyDGL/PentestGPT" target="_blank">
     
 
 
       
-        metabase /
+        GreyDGL /
 
-      metabase</a></p>
+      PentestGPT</a></p>
 				<p>
-      The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊
+      A GPT-empowered penetration testing tool
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Clojure</span>
-						<span>⭐ 45218</span>
-						<span>🔱 6106</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9707</span>
+						<span>🔱 1422</span>
 					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
+				<div class="stars-today">⭐ 257 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NexaAI/nexa-sdk" target="_blank">
+    
+
+
+      
+        NexaAI /
+
+      nexa-sdk</a></p>
+				<p>
+      Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6604</span>
+						<span>🔱 867</span>
+					</div>
+				<div class="stars-today">⭐ 303 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/astral-sh/ty" target="_blank">
+    
+
+
+      
+        astral-sh /
+
+      ty</a></p>
+				<p>
+      An extremely fast Python type checker and language server, written in Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15099</span>
+						<span>🔱 160</span>
+					</div>
+				<div class="stars-today">⭐ 374 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 105691</span>
+						<span>🔱 4816</span>
+					</div>
+				<div class="stars-today">⭐ 361 stars today</div>
 				</div>
 			</div>
 	

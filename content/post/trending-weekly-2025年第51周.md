@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第51周
-date: 2025-12-20T09:58:39Z
+date: 2025-12-20T11:58:43Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23736</span>
-						<span>🔱 2957</span>
+						<span>⭐ 23746</span>
+						<span>🔱 2959</span>
 					</div>
 				<div class="stars-today">⭐ 4515 stars this week</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8305</span>
-						<span>🔱 497</span>
+						<span>⭐ 8319</span>
+						<span>🔱 498</span>
 					</div>
 				<div class="stars-today">⭐ 3944 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13759</span>
-						<span>🔱 1393</span>
-					</div>
-				<div class="stars-today">⭐ 5634 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9576</span>
-						<span>🔱 1041</span>
-					</div>
-				<div class="stars-today">⭐ 1177 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47266</span>
-						<span>🔱 3319</span>
+						<span>⭐ 47295</span>
+						<span>🔱 3321</span>
 					</div>
 				<div class="stars-today">⭐ 1440 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13781</span>
+						<span>🔱 1395</span>
+					</div>
+				<div class="stars-today">⭐ 5634 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+    
+
+
+      
+        exo-explore /
+
+      exo</a></p>
+				<p>
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33912</span>
+						<span>🔱 2308</span>
+					</div>
+				<div class="stars-today">⭐ 1081 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9583</span>
+						<span>🔱 1041</span>
+					</div>
+				<div class="stars-today">⭐ 1177 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15850</span>
+						<span>⭐ 15852</span>
 						<span>🔱 648</span>
 					</div>
 				<div class="stars-today">⭐ 706 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12685</span>
-						<span>🔱 916</span>
-					</div>
-				<div class="stars-today">⭐ 1936 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin-desktop" target="_blank">
-    
-
-
-      
-        jellyfin /
-
-      jellyfin-desktop</a></p>
-				<p>
-      Jellyfin Desktop Client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 5010</span>
-						<span>🔱 455</span>
-					</div>
-				<div class="stars-today">⭐ 590 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,76 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11143</span>
-						<span>🔱 1163</span>
+						<span>⭐ 11161</span>
+						<span>🔱 1165</span>
 					</div>
 				<div class="stars-today">⭐ 2836 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+				<p><a href="https://github.com/refly-ai/refly" target="_blank">
     
 
 
       
-        ChromeDevTools /
+        refly-ai /
 
-      chrome-devtools-mcp</a></p>
+      refly</a></p>
 				<p>
-      Chrome DevTools for coding agents
+      Vibe Workflow Platform for Non-technical Creators.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17341</span>
-						<span>🔱 1065</span>
+						<span>⭐ 5559</span>
+						<span>🔱 518</span>
 					</div>
-				<div class="stars-today">⭐ 837 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mindsdb/mindsdb" target="_blank">
-    
-
-
-      
-        mindsdb /
-
-      mindsdb</a></p>
-				<p>
-      Query Engine for AI - The only MCP Server you'll ever need
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38092</span>
-						<span>🔱 6067</span>
-					</div>
-				<div class="stars-today">⭐ 365 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
-    
-
-
-      
-        CopilotKit /
-
-      CopilotKit</a></p>
-				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27111</span>
-						<span>🔱 3517</span>
-					</div>
-				<div class="stars-today">⭐ 1590 stars this week</div>
+				<div class="stars-today">⭐ 415 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16466</span>
-						<span>🔱 2249</span>
+						<span>⭐ 16475</span>
+						<span>🔱 2252</span>
 					</div>
 				<div class="stars-today">⭐ 1433 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12693</span>
+						<span>🔱 916</span>
+					</div>
+				<div class="stars-today">⭐ 1936 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+    
+
+
+      
+        CopilotKit /
+
+      CopilotKit</a></p>
+				<p>
+      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27117</span>
+						<span>🔱 3518</span>
+					</div>
+				<div class="stars-today">⭐ 1590 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17349</span>
+						<span>🔱 1066</span>
+					</div>
+				<div class="stars-today">⭐ 837 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/v2fly/domain-list-community" target="_blank">
+    
+
+
+      
+        v2fly /
+
+      domain-list-community</a></p>
+				<p>
+      Community managed domain list. Generate geosite.dat for V2Ray.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6998</span>
+						<span>🔱 1156</span>
+					</div>
+				<div class="stars-today">⭐ 67 stars this week</div>
 				</div>
 			</div>
 	
