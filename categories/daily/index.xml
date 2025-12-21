@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 21 Dec 2025 09:58:42 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 21 Dec 2025 11:58:40 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-12-21</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-12-21/</link>
-        <pubDate>Sun, 21 Dec 2025 09:58:42 +0000</pubDate>
+        <pubDate>Sun, 21 Dec 2025 11:58:40 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-12-21/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,140 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 34936&lt;/span&gt;
-						&lt;span&gt;🔱 2355&lt;/span&gt;
+						&lt;span&gt;⭐ 35041&lt;/span&gt;
+						&lt;span&gt;🔱 2363&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 618 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lintsinghua/DeepAudit&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lintsinghua /
-
-      DeepAudit&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2160&lt;/span&gt;
-						&lt;span&gt;🔱 228&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 85 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 47550&lt;/span&gt;
-						&lt;span&gt;🔱 3332&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 337 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/github/awesome-copilot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        github /
-
-      awesome-copilot&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 15189&lt;/span&gt;
-						&lt;span&gt;🔱 1774&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 231 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/swisskyrepo/PayloadsAllTheThings&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 72930&lt;/span&gt;
-						&lt;span&gt;🔱 16367&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 307 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/sgl-project/mini-sglang&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        sgl-project /
-
-      mini-sglang&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1792&lt;/span&gt;
-						&lt;span&gt;🔱 143&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 311 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/cloudcommunity/Free-Certifications&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 47314&lt;/span&gt;
-						&lt;span&gt;🔱 3183&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 244 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1151 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -185,76 +55,162 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9866&lt;/span&gt;
-						&lt;span&gt;🔱 1441&lt;/span&gt;
+						&lt;span&gt;⭐ 9888&lt;/span&gt;
+						&lt;span&gt;🔱 1444&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 256 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 188 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NexaAI/nexa-sdk&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/swisskyrepo/PayloadsAllTheThings&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        NexaAI /
+        swisskyrepo /
 
-      nexa-sdk&lt;/a&gt;&lt;/p&gt;
+      PayloadsAllTheThings&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) &amp; mobile (Android &amp; iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 6851&lt;/span&gt;
-						&lt;span&gt;🔱 880&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 300 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/astral-sh/ty&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        astral-sh /
-
-      ty&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An extremely fast Python type checker and language server, written in Rust.
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15353&lt;/span&gt;
-						&lt;span&gt;🔱 162&lt;/span&gt;
+						&lt;span&gt;⭐ 72955&lt;/span&gt;
+						&lt;span&gt;🔱 16368&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 97 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 241 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/iptv-org/iptv&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/sgl-project/mini-sglang&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        iptv-org /
+        sgl-project /
 
-      iptv&lt;/a&gt;&lt;/p&gt;
+      mini-sglang&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 1808&lt;/span&gt;
+						&lt;span&gt;🔱 143&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 202 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pollen-robotics/reachy_mini&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pollen-robotics /
+
+      reachy_mini&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Collection of publicly available IPTV channels from all over the world
+      Reachy Mini&#39;s SDK
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 105997&lt;/span&gt;
-						&lt;span&gt;🔱 4859&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 432&lt;/span&gt;
+						&lt;span&gt;🔱 70&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 228 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cocoindex-io/cocoindex&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cocoindex-io /
+
+      cocoindex&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 4248&lt;/span&gt;
+						&lt;span&gt;🔱 344&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 187 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cloudcommunity/Free-Certifications&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cloudcommunity /
+
+      Free-Certifications&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A curated list of free courses with certifications. Also available at https://free-certifications.com/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 47349&lt;/span&gt;
+						&lt;span&gt;🔱 3184&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 436 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 47573&lt;/span&gt;
+						&lt;span&gt;🔱 3334&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 296 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trimstray/the-book-of-secret-knowledge&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trimstray /
+
+      the-book-of-secret-knowledge&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 198897&lt;/span&gt;
+						&lt;span&gt;🔱 12119&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 168 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
