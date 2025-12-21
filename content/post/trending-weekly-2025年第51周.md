@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第51周
-date: 2025-12-21T09:58:42Z
+date: 2025-12-21T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23839</span>
+						<span>⭐ 23850</span>
 						<span>🔱 2970</span>
 					</div>
 				<div class="stars-today">⭐ 4494 stars this week</div>
@@ -52,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8493</span>
+						<span>⭐ 8516</span>
 						<span>🔱 503</span>
 					</div>
 				<div class="stars-today">⭐ 3312 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
+    
+
+
+      
+        Morganamilo /
+
+      paru</a></p>
+				<p>
+      Feature packed AUR helper
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8054</span>
+						<span>🔱 297</span>
+					</div>
+				<div class="stars-today">⭐ 334 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+    
+
+
+      
+        exo-explore /
+
+      exo</a></p>
+				<p>
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 35041</span>
+						<span>🔱 2363</span>
+					</div>
+				<div class="stars-today">⭐ 1129 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47550</span>
-						<span>🔱 3332</span>
+						<span>⭐ 47573</span>
+						<span>🔱 3334</span>
 					</div>
 				<div class="stars-today">⭐ 1635 stars this week</div>
 				</div>
@@ -96,120 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13964</span>
-						<span>🔱 1414</span>
+						<span>⭐ 13980</span>
+						<span>🔱 1416</span>
 					</div>
 				<div class="stars-today">⭐ 5255 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34936</span>
-						<span>🔱 2355</span>
-					</div>
-				<div class="stars-today">⭐ 1129 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9726</span>
-						<span>🔱 1049</span>
-					</div>
-				<div class="stars-today">⭐ 1164 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
-    
-
-
-      
-        tursodatabase /
-
-      turso</a></p>
-				<p>
-      Turso is an in-process SQL database, compatible with SQLite.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15872</span>
-						<span>🔱 648</span>
-					</div>
-				<div class="stars-today">⭐ 590 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11355</span>
-						<span>🔱 1193</span>
-					</div>
-				<div class="stars-today">⭐ 2647 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refly-ai/refly" target="_blank">
-    
-
-
-      
-        refly-ai /
-
-      refly</a></p>
-				<p>
-      Vibe Workflow Platform for Non-technical Creators.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5604</span>
-						<span>🔱 522</span>
-					</div>
-				<div class="stars-today">⭐ 270 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16536</span>
+						<span>⭐ 16547</span>
 						<span>🔱 2258</span>
 					</div>
 				<div class="stars-today">⭐ 1498 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12785</span>
-						<span>🔱 921</span>
-					</div>
-				<div class="stars-today">⭐ 1682 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27159</span>
+						<span>⭐ 27160</span>
 						<span>🔱 3522</span>
 					</div>
 				<div class="stars-today">⭐ 1503 stars this week</div>
@@ -280,24 +192,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+				<p><a href="https://github.com/refly-ai/refly" target="_blank">
     
 
 
       
-        ChromeDevTools /
+        refly-ai /
 
-      chrome-devtools-mcp</a></p>
+      refly</a></p>
 				<p>
-      Chrome DevTools for coding agents
+      Vibe Workflow Platform for Non-technical Creators.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17439</span>
-						<span>🔱 1070</span>
+						<span>⭐ 5608</span>
+						<span>🔱 522</span>
 					</div>
-				<div class="stars-today">⭐ 903 stars this week</div>
+				<div class="stars-today">⭐ 270 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Personal AI Infrastructure for upgrading humans.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1614</span>
+						<span>🔱 362</span>
+					</div>
+				<div class="stars-today">⭐ 250 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9735</span>
+						<span>🔱 1049</span>
+					</div>
+				<div class="stars-today">⭐ 1164 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7012</span>
+						<span>⭐ 7014</span>
 						<span>🔱 1160</span>
 					</div>
 				<div class="stars-today">⭐ 73 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40773</span>
+						<span>🔱 3479</span>
+					</div>
+				<div class="stars-today">⭐ 2145 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+    
+
+
+      
+        tursodatabase /
+
+      turso</a></p>
+				<p>
+      Turso is an in-process SQL database, compatible with SQLite.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 15873</span>
+						<span>🔱 648</span>
+					</div>
+				<div class="stars-today">⭐ 590 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepCode</a></p>
+				<p>
+      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12883</span>
+						<span>🔱 1727</span>
+					</div>
+				<div class="stars-today">⭐ 921 stars this week</div>
 				</div>
 			</div>
 	

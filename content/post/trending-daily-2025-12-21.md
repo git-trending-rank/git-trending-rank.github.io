@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-21
-date: 2025-12-21T09:58:42Z
+date: 2025-12-21T11:58:40Z
 categories:
 - daily
 keywords:
@@ -30,140 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34936</span>
-						<span>🔱 2355</span>
+						<span>⭐ 35041</span>
+						<span>🔱 2363</span>
 					</div>
-				<div class="stars-today">⭐ 618 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lintsinghua/DeepAudit" target="_blank">
-    
-
-
-      
-        lintsinghua /
-
-      DeepAudit</a></p>
-				<p>
-      DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。​让安全不再昂贵，让审计不再复杂。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2160</span>
-						<span>🔱 228</span>
-					</div>
-				<div class="stars-today">⭐ 85 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 47550</span>
-						<span>🔱 3332</span>
-					</div>
-				<div class="stars-today">⭐ 337 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/awesome-copilot" target="_blank">
-    
-
-
-      
-        github /
-
-      awesome-copilot</a></p>
-				<p>
-      Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 15189</span>
-						<span>🔱 1774</span>
-					</div>
-				<div class="stars-today">⭐ 231 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 72930</span>
-						<span>🔱 16367</span>
-					</div>
-				<div class="stars-today">⭐ 307 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sgl-project/mini-sglang" target="_blank">
-    
-
-
-      
-        sgl-project /
-
-      mini-sglang</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1792</span>
-						<span>🔱 143</span>
-					</div>
-				<div class="stars-today">⭐ 311 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications</a></p>
-				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 47314</span>
-						<span>🔱 3183</span>
-					</div>
-				<div class="stars-today">⭐ 244 stars today</div>
+				<div class="stars-today">⭐ 1151 stars today</div>
 				</div>
 			</div>
 	
@@ -182,76 +52,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9866</span>
-						<span>🔱 1441</span>
+						<span>⭐ 9888</span>
+						<span>🔱 1444</span>
 					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
+				<div class="stars-today">⭐ 188 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NexaAI/nexa-sdk" target="_blank">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
     
 
 
       
-        NexaAI /
+        swisskyrepo /
 
-      nexa-sdk</a></p>
+      PayloadsAllTheThings</a></p>
 				<p>
-      Run the latest LLMs and VLMs across GPU, NPU, and CPU with PC (Python/C++) & mobile (Android & iOS) support, running quickly with OpenAI gpt-oss, Granite4, Qwen3VL, Gemma 3n and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6851</span>
-						<span>🔱 880</span>
-					</div>
-				<div class="stars-today">⭐ 300 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/astral-sh/ty" target="_blank">
-    
-
-
-      
-        astral-sh /
-
-      ty</a></p>
-				<p>
-      An extremely fast Python type checker and language server, written in Rust.
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15353</span>
-						<span>🔱 162</span>
+						<span>⭐ 72955</span>
+						<span>🔱 16368</span>
 					</div>
-				<div class="stars-today">⭐ 97 stars today</div>
+				<div class="stars-today">⭐ 241 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+				<p><a href="https://github.com/sgl-project/mini-sglang" target="_blank">
     
 
 
       
-        iptv-org /
+        sgl-project /
 
-      iptv</a></p>
+      mini-sglang</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1808</span>
+						<span>🔱 143</span>
+					</div>
+				<div class="stars-today">⭐ 202 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pollen-robotics/reachy_mini" target="_blank">
+    
+
+
+      
+        pollen-robotics /
+
+      reachy_mini</a></p>
 				<p>
-      Collection of publicly available IPTV channels from all over the world
+      Reachy Mini's SDK
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 105997</span>
-						<span>🔱 4859</span>
+						<span>🔠 Python</span>
+						<span>⭐ 432</span>
+						<span>🔱 70</span>
 					</div>
-				<div class="stars-today">⭐ 228 stars today</div>
+				<div class="stars-today">⭐ 13 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
+    
+
+
+      
+        cocoindex-io /
+
+      cocoindex</a></p>
+				<p>
+      Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4248</span>
+						<span>🔱 344</span>
+					</div>
+				<div class="stars-today">⭐ 187 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
+    
+
+
+      
+        cloudcommunity /
+
+      Free-Certifications</a></p>
+				<p>
+      A curated list of free courses with certifications. Also available at https://free-certifications.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 47349</span>
+						<span>🔱 3184</span>
+					</div>
+				<div class="stars-today">⭐ 436 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 47573</span>
+						<span>🔱 3334</span>
+					</div>
+				<div class="stars-today">⭐ 296 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trimstray/the-book-of-secret-knowledge" target="_blank">
+    
+
+
+      
+        trimstray /
+
+      the-book-of-secret-knowledge</a></p>
+				<p>
+      A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 198897</span>
+						<span>🔱 12119</span>
+					</div>
+				<div class="stars-today">⭐ 168 stars today</div>
 				</div>
 			</div>
 	

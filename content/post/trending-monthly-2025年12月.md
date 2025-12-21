@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-21T09:58:42Z
+date: 2025-12-21T11:58:40Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39872</span>
-						<span>🔱 20773</span>
+						<span>⭐ 39880</span>
+						<span>🔱 20776</span>
 					</div>
 				<div class="stars-today">⭐ 18624 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/sam3" target="_blank">
-    
-
-
-      
-        facebookresearch /
-
-      sam3</a></p>
-				<p>
-      The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6255</span>
-						<span>🔱 727</span>
-					</div>
-				<div class="stars-today">⭐ 4496 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17787</span>
-						<span>🔱 767</span>
+						<span>⭐ 17791</span>
+						<span>🔱 768</span>
 					</div>
 				<div class="stars-today">⭐ 6362 stars this month</div>
 				</div>
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9249</span>
+						<span>⭐ 9252</span>
 						<span>🔱 940</span>
 					</div>
 				<div class="stars-today">⭐ 1317 stars this month</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11355</span>
-						<span>🔱 1193</span>
+						<span>⭐ 11385</span>
+						<span>🔱 1198</span>
 					</div>
 				<div class="stars-today">⭐ 6845 stars this month</div>
 				</div>
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12623</span>
+						<span>⭐ 12628</span>
 						<span>🔱 2140</span>
 					</div>
 				<div class="stars-today">⭐ 2346 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/sam3" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      sam3</a></p>
+				<p>
+      The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6263</span>
+						<span>🔱 728</span>
+					</div>
+				<div class="stars-today">⭐ 4496 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12785</span>
+						<span>⭐ 12795</span>
 						<span>🔱 921</span>
 					</div>
 				<div class="stars-today">⭐ 4342 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kavishdevar/librepods" target="_blank">
-    
-
-
-      
-        kavishdevar /
-
-      librepods</a></p>
-				<p>
-      AirPods liberated from Apple's ecosystem.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 23192</span>
-						<span>🔱 1213</span>
-					</div>
-				<div class="stars-today">⭐ 11383 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 40757</span>
-						<span>🔱 3479</span>
-					</div>
-				<div class="stars-today">⭐ 7372 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
-    
-
-
-      
-        ostris /
-
-      ai-toolkit</a></p>
-				<p>
-      The ultimate training toolkit for finetuning diffusion models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8373</span>
-						<span>🔱 979</span>
-					</div>
-				<div class="stars-today">⭐ 1472 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13974</span>
+						<span>⭐ 13975</span>
 						<span>🔱 3209</span>
 					</div>
 				<div class="stars-today">⭐ 1359 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+    
+
+
+      
+        ostris /
+
+      ai-toolkit</a></p>
+				<p>
+      The ultimate training toolkit for finetuning diffusion models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8374</span>
+						<span>🔱 979</span>
+					</div>
+				<div class="stars-today">⭐ 1472 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40773</span>
+						<span>🔱 3479</span>
+					</div>
+				<div class="stars-today">⭐ 7372 stars this month</div>
 				</div>
 			</div>
 	
@@ -273,9 +251,75 @@ keywords:
 					<div>
 						<span>🔠 Zig</span>
 						<span>⭐ 85370</span>
-						<span>🔱 3826</span>
+						<span>🔱 3827</span>
 					</div>
 				<div class="stars-today">⭐ 3262 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kavishdevar/librepods" target="_blank">
+    
+
+
+      
+        kavishdevar /
+
+      librepods</a></p>
+				<p>
+      AirPods liberated from Apple's ecosystem.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 23197</span>
+						<span>🔱 1213</span>
+					</div>
+				<div class="stars-today">⭐ 11383 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9735</span>
+						<span>🔱 1049</span>
+					</div>
+				<div class="stars-today">⭐ 2025 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23850</span>
+						<span>🔱 2970</span>
+					</div>
+				<div class="stars-today">⭐ 5438 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4999</span>
-						<span>🔱 1198</span>
+						<span>⭐ 5002</span>
+						<span>🔱 1199</span>
 					</div>
 				<div class="stars-today">⭐ 1995 stars this month</div>
 				</div>
@@ -316,54 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97563</span>
-						<span>🔱 11053</span>
+						<span>⭐ 97573</span>
+						<span>🔱 11054</span>
 					</div>
 				<div class="stars-today">⭐ 3623 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9726</span>
-						<span>🔱 1049</span>
-					</div>
-				<div class="stars-today">⭐ 2025 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
-    
-
-
-      
-        MemoriLabs /
-
-      Memori</a></p>
-				<p>
-      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11244</span>
-						<span>🔱 736</span>
-					</div>
-				<div class="stars-today">⭐ 5783 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8051</span>
+						<span>⭐ 8054</span>
 						<span>🔱 297</span>
 					</div>
 				<div class="stars-today">⭐ 466 stars this month</div>
@@ -390,24 +390,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
     
 
 
       
-        simstudioai /
+        MemoriLabs /
 
-      sim</a></p>
+      Memori</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23839</span>
-						<span>🔱 2970</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11248</span>
+						<span>🔱 736</span>
 					</div>
-				<div class="stars-today">⭐ 5438 stars this month</div>
+				<div class="stars-today">⭐ 5783 stars this month</div>
 				</div>
 			</div>
 	
