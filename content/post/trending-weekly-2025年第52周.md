@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第52周
-date: 2025-12-22T09:58:51Z
+date: 2025-12-22T11:58:49Z
 categories:
 - weekly
 keywords:
@@ -14,72 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23935</span>
-						<span>🔱 2975</span>
-					</div>
-				<div class="stars-today">⭐ 4226 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8705</span>
-						<span>🔱 516</span>
-					</div>
-				<div class="stars-today">⭐ 3163 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
-    
-
-
-      
-        Morganamilo /
-
-      paru</a></p>
-				<p>
-      Feature packed AUR helper
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8073</span>
-						<span>🔱 298</span>
-					</div>
-				<div class="stars-today">⭐ 305 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/exo-explore/exo" target="_blank">
@@ -96,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36230</span>
-						<span>🔱 2428</span>
+						<span>⭐ 36341</span>
+						<span>🔱 2435</span>
 					</div>
 				<div class="stars-today">⭐ 2387 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23939</span>
+						<span>🔱 2978</span>
+					</div>
+				<div class="stars-today">⭐ 4226 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47861</span>
-						<span>🔱 3353</span>
+						<span>⭐ 47879</span>
+						<span>🔱 3357</span>
 					</div>
 				<div class="stars-today">⭐ 1838 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
     
 
 
       
-        DayuanJiang /
+        Morganamilo /
 
-      next-ai-draw-io</a></p>
+      paru</a></p>
 				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+      Feature packed AUR helper
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8074</span>
+						<span>🔱 298</span>
+					</div>
+				<div class="stars-today">⭐ 305 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14330</span>
-						<span>🔱 1452</span>
+						<span>⭐ 8726</span>
+						<span>🔱 517</span>
 					</div>
-				<div class="stars-today">⭐ 4200 stars this week</div>
+				<div class="stars-today">⭐ 3163 stars this week</div>
 				</div>
 			</div>
 	
@@ -163,53 +141,31 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 16616</span>
-						<span>🔱 2264</span>
+						<span>🔱 2263</span>
 					</div>
 				<div class="stars-today">⭐ 1564 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CopilotKit/CopilotKit" target="_blank">
+				<p><a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" target="_blank">
     
 
 
       
-        CopilotKit /
+        ZJU-LLMs /
 
-      CopilotKit</a></p>
+      Foundations-of-LLMs</a></p>
 				<p>
-      React UI + elegant infrastructure for AI Copilots, AI chatbots, and in-app AI agents. The Agentic Frontend 🪁
+      A book for Learning the Foundations of LLMs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27222</span>
-						<span>🔱 3532</span>
+						<span>🔠 </span>
+						<span>⭐ 14887</span>
+						<span>🔱 1376</span>
 					</div>
-				<div class="stars-today">⭐ 674 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refly-ai/refly" target="_blank">
-    
-
-
-      
-        refly-ai /
-
-      refly</a></p>
-				<p>
-      Vibe Workflow Platform for Non-technical Creators.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5668</span>
-						<span>🔱 529</span>
-					</div>
-				<div class="stars-today">⭐ 282 stars this week</div>
+				<div class="stars-today">⭐ 1195 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1704</span>
+						<span>⭐ 1710</span>
 						<span>🔱 376</span>
 					</div>
 				<div class="stars-today">⭐ 270 stars this week</div>
@@ -236,24 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
     
 
 
       
-        Tencent /
+        DayuanJiang /
 
-      WeKnora</a></p>
+      next-ai-draw-io</a></p>
 				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9870</span>
-						<span>🔱 1060</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14352</span>
+						<span>🔱 1456</span>
 					</div>
-				<div class="stars-today">⭐ 1097 stars this week</div>
+				<div class="stars-today">⭐ 4200 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 7040</span>
+						<span>⭐ 7042</span>
 						<span>🔱 1161</span>
 					</div>
 				<div class="stars-today">⭐ 90 stars this week</div>
@@ -294,32 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41035</span>
-						<span>🔱 3505</span>
+						<span>⭐ 41054</span>
+						<span>🔱 3508</span>
 					</div>
 				<div class="stars-today">⭐ 2209 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tursodatabase/turso" target="_blank">
+				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
     
 
 
       
-        tursodatabase /
+        AUTOMATIC1111 /
 
-      turso</a></p>
+      stable-diffusion-webui</a></p>
 				<p>
-      Turso is an in-process SQL database, compatible with SQLite.
+      Stable Diffusion web UI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 15903</span>
-						<span>🔱 652</span>
+						<span>🔠 Python</span>
+						<span>⭐ 159156</span>
+						<span>🔱 29585</span>
 					</div>
-				<div class="stars-today">⭐ 462 stars this week</div>
+				<div class="stars-today">⭐ 239 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9883</span>
+						<span>🔱 1060</span>
+					</div>
+				<div class="stars-today">⭐ 1097 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
+    
+
+
+      
+        GeeeekExplorer /
+
+      nano-vllm</a></p>
+				<p>
+      Nano vLLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9937</span>
+						<span>🔱 1248</span>
+					</div>
+				<div class="stars-today">⭐ 333 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/refly-ai/refly" target="_blank">
+    
+
+
+      
+        refly-ai /
+
+      refly</a></p>
+				<p>
+      Vibe Workflow Platform for Non-technical Creators.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5677</span>
+						<span>🔱 529</span>
+					</div>
+				<div class="stars-today">⭐ 282 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12946</span>
+						<span>⭐ 12952</span>
 						<span>🔱 1736</span>
 					</div>
 				<div class="stars-today">⭐ 889 stars this week</div>

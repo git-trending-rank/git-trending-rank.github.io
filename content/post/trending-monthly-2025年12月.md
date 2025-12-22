@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-22T09:58:51Z
+date: 2025-12-22T11:58:49Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
-    
-
-
-      
-        sansan0 /
-
-      TrendRadar</a></p>
-				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40014</span>
-						<span>🔱 20804</span>
-					</div>
-				<div class="stars-today">⭐ 17490 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17877</span>
-						<span>🔱 771</span>
+						<span>⭐ 17889</span>
+						<span>🔱 773</span>
 					</div>
 				<div class="stars-today">⭐ 6395 stars this month</div>
 				</div>
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9273</span>
-						<span>🔱 940</span>
+						<span>⭐ 9274</span>
+						<span>🔱 941</span>
 					</div>
 				<div class="stars-today">⭐ 1338 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11697</span>
-						<span>🔱 1229</span>
-					</div>
-				<div class="stars-today">⭐ 6976 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12672</span>
+						<span>⭐ 12676</span>
 						<span>🔱 2142</span>
 					</div>
 				<div class="stars-today">⭐ 2395 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11723</span>
+						<span>🔱 1230</span>
+					</div>
+				<div class="stars-today">⭐ 6976 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
+    
+
+
+      
+        sansan0 /
+
+      TrendRadar</a></p>
+				<p>
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40024</span>
+						<span>🔱 20805</span>
+					</div>
+				<div class="stars-today">⭐ 17490 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+    
+
+
+      
+        trustedsec /
+
+      social-engineer-toolkit</a></p>
+				<p>
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14017</span>
+						<span>🔱 3211</span>
+					</div>
+				<div class="stars-today">⭐ 1384 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6321</span>
-						<span>🔱 734</span>
+						<span>⭐ 6325</span>
+						<span>🔱 735</span>
 					</div>
 				<div class="stars-today">⭐ 3518 stars this month</div>
 				</div>
@@ -162,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12898</span>
-						<span>🔱 927</span>
+						<span>⭐ 12903</span>
+						<span>🔱 928</span>
 					</div>
 				<div class="stars-today">⭐ 4416 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
-    
-
-
-      
-        trustedsec /
-
-      social-engineer-toolkit</a></p>
-				<p>
-      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14014</span>
-						<span>🔱 3210</span>
-					</div>
-				<div class="stars-today">⭐ 1384 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
-    
-
-
-      
-        ostris /
-
-      ai-toolkit</a></p>
-				<p>
-      The ultimate training toolkit for finetuning diffusion models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8415</span>
-						<span>🔱 984</span>
-					</div>
-				<div class="stars-today">⭐ 1481 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41035</span>
-						<span>🔱 3505</span>
+						<span>⭐ 41054</span>
+						<span>🔱 3508</span>
 					</div>
 				<div class="stars-today">⭐ 7496 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 85427</span>
-						<span>🔱 3832</span>
-					</div>
-				<div class="stars-today">⭐ 3295 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kavishdevar/librepods" target="_blank">
-    
-
-
-      
-        kavishdevar /
-
-      librepods</a></p>
-				<p>
-      AirPods liberated from Apple's ecosystem.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 23315</span>
-						<span>🔱 1216</span>
-					</div>
-				<div class="stars-today">⭐ 9389 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9870</span>
+						<span>⭐ 9883</span>
 						<span>🔱 1060</span>
 					</div>
 				<div class="stars-today">⭐ 2164 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+    
+
+
+      
+        ostris /
+
+      ai-toolkit</a></p>
+				<p>
+      The ultimate training toolkit for finetuning diffusion models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8416</span>
+						<span>🔱 985</span>
+					</div>
+				<div class="stars-today">⭐ 1481 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23935</span>
-						<span>🔱 2975</span>
+						<span>⭐ 23939</span>
+						<span>🔱 2978</span>
 					</div>
 				<div class="stars-today">⭐ 5520 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 85435</span>
+						<span>🔱 3833</span>
+					</div>
+				<div class="stars-today">⭐ 3295 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5034</span>
+						<span>⭐ 5037</span>
 						<span>🔱 1205</span>
 					</div>
 				<div class="stars-today">⭐ 2030 stars this month</div>
@@ -360,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97696</span>
-						<span>🔱 11065</span>
+						<span>⭐ 97708</span>
+						<span>🔱 11067</span>
 					</div>
 				<div class="stars-today">⭐ 3651 stars this month</div>
 				</div>
@@ -382,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8073</span>
+						<span>⭐ 8074</span>
 						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 483 stars this month</div>
@@ -390,24 +368,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MemoriLabs/Memori" target="_blank">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
     
 
 
       
-        MemoriLabs /
+        exo-explore /
 
-      Memori</a></p>
+      exo</a></p>
 				<p>
-      SQL Native Memory Layer for LLMs, AI Agents & Multi-Agent Systems
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11338</span>
-						<span>🔱 740</span>
+						<span>⭐ 36341</span>
+						<span>🔱 2435</span>
 					</div>
-				<div class="stars-today">⭐ 5584 stars this month</div>
+				<div class="stars-today">⭐ 2932 stars this month</div>
 				</div>
 			</div>
 	
