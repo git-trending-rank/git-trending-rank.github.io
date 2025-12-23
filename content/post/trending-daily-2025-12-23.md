@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-23
-date: 2025-12-23T17:58:39Z
+date: 2025-12-23T19:58:45Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6291</span>
-						<span>🔱 478</span>
+						<span>⭐ 6496</span>
+						<span>🔱 490</span>
 					</div>
 				<div class="stars-today">⭐ 1100 stars today</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37792</span>
+						<span>⭐ 37821</span>
 						<span>🔱 2530</span>
 					</div>
 				<div class="stars-today">⭐ 1377 stars today</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18538</span>
-						<span>🔱 1314</span>
+						<span>⭐ 18565</span>
+						<span>🔱 1316</span>
 					</div>
 				<div class="stars-today">⭐ 413 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5356</span>
-						<span>🔱 540</span>
+						<span>⭐ 5383</span>
+						<span>🔱 542</span>
 					</div>
 				<div class="stars-today">⭐ 143 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 492</span>
-						<span>🔱 70</span>
+						<span>⭐ 511</span>
+						<span>🔱 75</span>
 					</div>
 				<div class="stars-today">⭐ 184 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14418</span>
-						<span>🔱 932</span>
+						<span>⭐ 14457</span>
+						<span>🔱 935</span>
 					</div>
 				<div class="stars-today">⭐ 431 stars today</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7025</span>
+						<span>⭐ 7048</span>
 						<span>🔱 1247</span>
 					</div>
 				<div class="stars-today">⭐ 5 stars today</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 48351</span>
-						<span>🔱 3216</span>
+						<span>⭐ 48379</span>
+						<span>🔱 3217</span>
 					</div>
 				<div class="stars-today">⭐ 421 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Svelte</span>
-						<span>⭐ 118592</span>
-						<span>🔱 16710</span>
+						<span>⭐ 118619</span>
+						<span>🔱 16712</span>
 					</div>
 				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13265</span>
-						<span>🔱 1164</span>
+						<span>⭐ 13289</span>
+						<span>🔱 1166</span>
 					</div>
 				<div class="stars-today">⭐ 230 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40955</span>
-						<span>🔱 3028</span>
+						<span>⭐ 40994</span>
+						<span>🔱 3030</span>
 					</div>
 				<div class="stars-today">⭐ 72 stars today</div>
 				</div>
@@ -267,12 +267,12 @@ keywords:
 
       Yuxi-Know</a></p>
 				<p>
-      结合LightRAG 知识库的知识图谱智能体平台。LangChain v1 + Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
+      结合LightRAG 知识库的知识图谱智能体平台。LangChain v1 + Vue + FastAPI。DeepAgents、MinerU PDF 解析、Neo4j 、MCP。| An intelligent agent platform that integrates a LightRAG knowledge base and its knowledge graph. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2813</span>
+						<span>⭐ 2820</span>
 						<span>🔱 359</span>
 					</div>
 				<div class="stars-today">⭐ 52 stars today</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73564</span>
+						<span>⭐ 73575</span>
 						<span>🔱 16407</span>
 					</div>
 				<div class="stars-today">⭐ 259 stars today</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1374</span>
-						<span>🔱 184</span>
+						<span>⭐ 1379</span>
+						<span>🔱 185</span>
 					</div>
 				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
