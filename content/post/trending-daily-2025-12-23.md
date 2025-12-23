@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-23
-date: 2025-12-23T03:17:44Z
+date: 2025-12-23T04:26:20Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37173</span>
-						<span>🔱 2486</span>
+						<span>⭐ 37221</span>
+						<span>🔱 2490</span>
 					</div>
 				<div class="stars-today">⭐ 1320 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 106490</span>
-						<span>🔱 4934</span>
+						<span>⭐ 106509</span>
+						<span>🔱 4935</span>
 					</div>
 				<div class="stars-today">⭐ 248 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 73418</span>
+						<span>⭐ 73433</span>
 						<span>🔱 16398</span>
 					</div>
 				<div class="stars-today">⭐ 335 stars today</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10367</span>
+						<span>⭐ 10374</span>
 						<span>🔱 1546</span>
 					</div>
 				<div class="stars-today">⭐ 327 stars today</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25154</span>
-						<span>🔱 2347</span>
+						<span>⭐ 25218</span>
+						<span>🔱 2352</span>
 					</div>
 				<div class="stars-today">⭐ 928 stars today</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4804</span>
+						<span>⭐ 4813</span>
 						<span>🔱 367</span>
 					</div>
 				<div class="stars-today">⭐ 407 stars today</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 36132</span>
+						<span>⭐ 36151</span>
 						<span>🔱 3656</span>
 					</div>
 				<div class="stars-today">⭐ 341 stars today</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 193000</span>
-						<span>🔱 75145</span>
+						<span>⭐ 193004</span>
+						<span>🔱 75148</span>
 					</div>
 				<div class="stars-today">⭐ 28 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5171</span>
-						<span>🔱 424</span>
+						<span>⭐ 5206</span>
+						<span>🔱 425</span>
 					</div>
 				<div class="stars-today">⭐ 368 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 83510</span>
-						<span>🔱 36254</span>
+						<span>⭐ 83527</span>
+						<span>🔱 36257</span>
 					</div>
 				<div class="stars-today">⭐ 40 stars today</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 810</span>
+						<span>⭐ 815</span>
 						<span>🔱 80</span>
 					</div>
 				<div class="stars-today">⭐ 26 stars today</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18276</span>
+						<span>⭐ 18293</span>
 						<span>🔱 1302</span>
 					</div>
 				<div class="stars-today">⭐ 299 stars today</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 68405</span>
+						<span>⭐ 68409</span>
 						<span>🔱 21864</span>
 					</div>
 				<div class="stars-today">⭐ 13 stars today</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2487</span>
-						<span>🔱 255</span>
+						<span>⭐ 2501</span>
+						<span>🔱 259</span>
 					</div>
 				<div class="stars-today">⭐ 140 stars today</div>
 				</div>
@@ -338,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 48127</span>
+						<span>⭐ 48147</span>
 						<span>🔱 3209</span>
 					</div>
 				<div class="stars-today">⭐ 521 stars today</div>
@@ -360,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 451219</span>
-						<span>🔱 42324</span>
+						<span>⭐ 451242</span>
+						<span>🔱 42325</span>
 					</div>
 				<div class="stars-today">⭐ 318 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/justlovemaki/AIClient-2-API" target="_blank">
-    
-
-
-      
-        justlovemaki /
-
-      AIClient-2-API</a></p>
-				<p>
-      Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1908</span>
-						<span>🔱 285</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
 			</div>
 	
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 40537</span>
-						<span>🔱 3267</span>
+						<span>⭐ 40547</span>
+						<span>🔱 3268</span>
 					</div>
 				<div class="stars-today">⭐ 63 stars today</div>
 				</div>
