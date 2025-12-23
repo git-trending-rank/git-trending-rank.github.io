@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-23
-date: 2025-12-23T09:59:02Z
+date: 2025-12-23T11:58:43Z
 categories:
 - daily
 keywords:
@@ -14,182 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37585</span>
-						<span>🔱 2514</span>
-					</div>
-				<div class="stars-today">⭐ 1320 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 106606</span>
-						<span>🔱 4944</span>
-					</div>
-				<div class="stars-today">⭐ 248 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73504</span>
-						<span>🔱 16404</span>
-					</div>
-				<div class="stars-today">⭐ 335 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GreyDGL/PentestGPT" target="_blank">
-    
-
-
-      
-        GreyDGL /
-
-      PentestGPT</a></p>
-				<p>
-      A GPT-empowered penetration testing tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10441</span>
-						<span>🔱 1553</span>
-					</div>
-				<div class="stars-today">⭐ 327 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25536</span>
-						<span>🔱 2370</span>
-					</div>
-				<div class="stars-today">⭐ 928 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
-    
-
-
-      
-        cocoindex-io /
-
-      cocoindex</a></p>
-				<p>
-      Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4880</span>
-						<span>🔱 367</span>
-					</div>
-				<div class="stars-today">⭐ 407 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Fabric" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Fabric</a></p>
-				<p>
-      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 36241</span>
-						<span>🔱 3663</span>
-					</div>
-				<div class="stars-today">⭐ 341 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tensorflow/tensorflow" target="_blank">
-    
-
-
-      
-        tensorflow /
-
-      tensorflow</a></p>
-				<p>
-      An Open Source Machine Learning Framework for Everyone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 193023</span>
-						<span>🔱 75153</span>
-					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
@@ -206,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5356</span>
-						<span>🔱 436</span>
+						<span>⭐ 5453</span>
+						<span>🔱 442</span>
 					</div>
-				<div class="stars-today">⭐ 368 stars today</div>
+				<div class="stars-today">⭐ 1100 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/core" target="_blank">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
     
 
 
       
-        home-assistant /
+        exo-explore /
 
-      core</a></p>
+      exo</a></p>
 				<p>
-      🏡 Open source home automation that puts local control and privacy first.
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 83596</span>
-						<span>🔱 36265</span>
+						<span>⭐ 37687</span>
+						<span>🔱 2520</span>
 					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Semperis/EntraGoat" target="_blank">
-    
-
-
-      
-        Semperis /
-
-      EntraGoat</a></p>
-				<p>
-      A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 834</span>
-						<span>🔱 81</span>
-					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
+				<div class="stars-today">⭐ 1377 stars today</div>
 				</div>
 			</div>
 	
@@ -272,54 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18371</span>
-						<span>🔱 1307</span>
+						<span>⭐ 18416</span>
+						<span>🔱 1308</span>
 					</div>
-				<div class="stars-today">⭐ 299 stars today</div>
+				<div class="stars-today">⭐ 413 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/expressjs/express" target="_blank">
+				<p><a href="https://github.com/yichuan-w/LEANN" target="_blank">
     
 
 
       
-        expressjs /
+        yichuan-w /
 
-      express</a></p>
+      LEANN</a></p>
 				<p>
-      Fast, unopinionated, minimalist web framework for node.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 68429</span>
-						<span>🔱 21867</span>
-					</div>
-				<div class="stars-today">⭐ 13 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lintsinghua/DeepAudit" target="_blank">
-    
-
-
-      
-        lintsinghua /
-
-      DeepAudit</a></p>
-				<p>
-      DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。支持中转站。​让安全不再昂贵，让审计不再复杂。
+      RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2631</span>
-						<span>🔱 265</span>
+						<span>⭐ 5258</span>
+						<span>🔱 537</span>
 					</div>
-				<div class="stars-today">⭐ 140 stars today</div>
+				<div class="stars-today">⭐ 143 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stan-smith/FossFLOW" target="_blank">
+    
+
+
+      
+        stan-smith /
+
+      FossFLOW</a></p>
+				<p>
+      Make beautiful isometric infrastructure diagrams
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14259</span>
+						<span>🔱 922</span>
+					</div>
+				<div class="stars-today">⭐ 148 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vendure-ecommerce/vendure" target="_blank">
+    
+
+
+      
+        vendure-ecommerce /
+
+      vendure</a></p>
+				<p>
+      The most customizable commerce platform built with TypeScript, NestJS and GraphQL. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6954</span>
+						<span>🔱 1243</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
 				</div>
 			</div>
 	
@@ -338,54 +162,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 48234</span>
-						<span>🔱 3212</span>
+						<span>⭐ 48262</span>
+						<span>🔱 3213</span>
 					</div>
-				<div class="stars-today">⭐ 521 stars today</div>
+				<div class="stars-today">⭐ 421 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+				<p><a href="https://github.com/open-webui/open-webui" target="_blank">
     
 
 
       
-        codecrafters-io /
+        open-webui /
 
-      build-your-own-x</a></p>
+      open-webui</a></p>
 				<p>
-      Master programming by recreating your favorite technologies from scratch.
+      User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Markdown</span>
-						<span>⭐ 451353</span>
-						<span>🔱 42338</span>
+						<span>🔠 Svelte</span>
+						<span>⭐ 118520</span>
+						<span>🔱 16706</span>
 					</div>
-				<div class="stars-today">⭐ 318 stars today</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
     
 
 
       
-        mudler /
+        davila7 /
 
-      LocalAI</a></p>
+      claude-code-templates</a></p>
 				<p>
-      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
+      CLI tool for configuring and monitoring Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 40608</span>
-						<span>🔱 3274</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13170</span>
+						<span>🔱 1160</span>
 					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
+				<div class="stars-today">⭐ 112 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 40847</span>
+						<span>🔱 3018</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xerrors/Yuxi-Know" target="_blank">
+    
+
+
+      
+        xerrors /
+
+      Yuxi-Know</a></p>
+				<p>
+      结合LightRAG 知识库的知识图谱智能体平台。LangChain v1 + Vue + FastAPI。集成主流大模型、LightRAG、MinerU、PP-Structure、Neo4j 、联网检索、工具调用。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2757</span>
+						<span>🔱 357</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
+    
+
+
+      
+        swisskyrepo /
+
+      PayloadsAllTheThings</a></p>
+				<p>
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73522</span>
+						<span>🔱 16405</span>
+					</div>
+				<div class="stars-today">⭐ 259 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vllm-project/vllm-omni" target="_blank">
+    
+
+
+      
+        vllm-project /
+
+      vllm-omni</a></p>
+				<p>
+      A framework for efficient model inference with omni-modality models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1333</span>
+						<span>🔱 180</span>
+					</div>
+				<div class="stars-today">⭐ 146 stars today</div>
 				</div>
 			</div>
 	

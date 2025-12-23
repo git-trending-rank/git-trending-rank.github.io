@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第52周
-date: 2025-12-23T09:59:01Z
+date: 2025-12-23T11:58:43Z
 categories:
 - weekly
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37585</span>
-						<span>🔱 2514</span>
-					</div>
-				<div class="stars-today">⭐ 3688 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24020</span>
-						<span>🔱 2990</span>
-					</div>
-				<div class="stars-today">⭐ 2892 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/skills" target="_blank">
@@ -74,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25536</span>
-						<span>🔱 2370</span>
+						<span>⭐ 25607</span>
+						<span>🔱 2376</span>
 					</div>
 				<div class="stars-today">⭐ 3675 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 43980</span>
+						<span>🔱 7778</span>
+					</div>
+				<div class="stars-today">⭐ 1104 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 48095</span>
-						<span>🔱 3372</span>
+						<span>⭐ 48108</span>
+						<span>🔱 3374</span>
 					</div>
 				<div class="stars-today">⭐ 1997 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
-    
-
-
-      
-        Morganamilo /
-
-      paru</a></p>
-				<p>
-      Feature packed AUR helper
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8083</span>
-						<span>🔱 299</span>
-					</div>
-				<div class="stars-today">⭐ 240 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8855</span>
-						<span>🔱 527</span>
-					</div>
-				<div class="stars-today">⭐ 2298 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16666</span>
+						<span>⭐ 16673</span>
 						<span>🔱 2270</span>
 					</div>
 				<div class="stars-today">⭐ 1613 stars this week</div>
@@ -170,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ZJU-LLMs/Foundations-of-LLMs" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        ZJU-LLMs /
+        simstudioai /
 
-      Foundations-of-LLMs</a></p>
+      sim</a></p>
 				<p>
-      A book for Learning the Foundations of LLMs
+      Open-source platform to build and deploy AI agent workflows.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 14972</span>
-						<span>🔱 1379</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24026</span>
+						<span>🔱 2991</span>
 					</div>
-				<div class="stars-today">⭐ 924 stars this week</div>
+				<div class="stars-today">⭐ 2892 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1788</span>
-						<span>🔱 382</span>
+						<span>⭐ 1795</span>
+						<span>🔱 383</span>
 					</div>
 				<div class="stars-today">⭐ 350 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
     
 
 
       
-        DayuanJiang /
+        davila7 /
 
-      next-ai-draw-io</a></p>
+      claude-code-templates</a></p>
 				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13170</span>
+						<span>🔱 1160</span>
+					</div>
+				<div class="stars-today">⭐ 572 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
+    
+
+
+      
+        Morganamilo /
+
+      paru</a></p>
+				<p>
+      Feature packed AUR helper
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 8084</span>
+						<span>🔱 299</span>
+					</div>
+				<div class="stars-today">⭐ 240 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
+    
+
+
+      
+        GeeeekExplorer /
+
+      nano-vllm</a></p>
+				<p>
+      Nano vLLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10025</span>
+						<span>🔱 1254</span>
+					</div>
+				<div class="stars-today">⭐ 344 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14604</span>
-						<span>🔱 1496</span>
+						<span>⭐ 41371</span>
+						<span>🔱 3533</span>
 					</div>
-				<div class="stars-today">⭐ 3115 stars this week</div>
+				<div class="stars-today">⭐ 2244 stars this week</div>
 				</div>
 			</div>
 	
@@ -251,31 +251,31 @@ keywords:
 					<div>
 						<span>🔠 Go</span>
 						<span>⭐ 7060</span>
-						<span>🔱 1163</span>
+						<span>🔱 1162</span>
 					</div>
 				<div class="stars-today">⭐ 105 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        sst /
+        LadybirdBrowser /
 
-      opencode</a></p>
+      ladybird</a></p>
 				<p>
-      The open source coding agent.
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41337</span>
-						<span>🔱 3529</span>
+						<span>🔠 C++</span>
+						<span>⭐ 56967</span>
+						<span>🔱 2566</span>
 					</div>
-				<div class="stars-today">⭐ 2244 stars this week</div>
+				<div class="stars-today">⭐ 454 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 159187</span>
+						<span>⭐ 159189</span>
 						<span>🔱 29597</span>
 					</div>
 				<div class="stars-today">⭐ 236 stars this week</div>
@@ -302,90 +302,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        Tencent /
+        thedotmack /
 
-      WeKnora</a></p>
+      claude-mem</a></p>
 				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9989</span>
-						<span>🔱 1074</span>
-					</div>
-				<div class="stars-today">⭐ 953 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
-    
-
-
-      
-        GeeeekExplorer /
-
-      nano-vllm</a></p>
-				<p>
-      Nano vLLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10016</span>
-						<span>🔱 1254</span>
-					</div>
-				<div class="stars-today">⭐ 344 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refly-ai/refly" target="_blank">
-    
-
-
-      
-        refly-ai /
-
-      refly</a></p>
-				<p>
-      Vibe Workflow Platform for Non-technical Creators.
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5731</span>
-						<span>🔱 530</span>
+						<span>⭐ 8868</span>
+						<span>🔱 528</span>
 					</div>
-				<div class="stars-today">⭐ 308 stars this week</div>
+				<div class="stars-today">⭐ 2298 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepCode" target="_blank">
+				<p><a href="https://github.com/abseil/abseil-cpp" target="_blank">
     
 
 
       
-        HKUDS /
+        abseil /
 
-      DeepCode</a></p>
+      abseil-cpp</a></p>
 				<p>
-      "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)"
+      Abseil Common Libraries (C++)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12998</span>
-						<span>🔱 1739</span>
+						<span>🔠 C++</span>
+						<span>⭐ 16769</span>
+						<span>🔱 2925</span>
 					</div>
-				<div class="stars-today">⭐ 705 stars this week</div>
+				<div class="stars-today">⭐ 73 stars this week</div>
 				</div>
 			</div>
 	
