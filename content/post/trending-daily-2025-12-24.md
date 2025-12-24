@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-24
-date: 2025-12-24T09:58:38Z
+date: 2025-12-24T11:58:57Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7873</span>
-						<span>🔱 566</span>
+						<span>⭐ 8075</span>
+						<span>🔱 574</span>
 					</div>
 				<div class="stars-today">⭐ 1146 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
     
 
 
       
-        exo-explore /
+        twitter /
 
-      exo</a></p>
+      the-algorithm</a></p>
 				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+      Source code for the X Recommendation Algorithm
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38049</span>
-						<span>🔱 2542</span>
+						<span>🔠 Scala</span>
+						<span>⭐ 68361</span>
+						<span>🔱 12691</span>
 					</div>
-				<div class="stars-today">⭐ 1347 stars today</div>
+				<div class="stars-today">⭐ 272 stars today</div>
 				</div>
 			</div>
 	
@@ -74,230 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18854</span>
-						<span>🔱 1329</span>
+						<span>⭐ 18895</span>
+						<span>🔱 1332</span>
 					</div>
 				<div class="stars-today">⭐ 417 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yichuan-w/LEANN" target="_blank">
-    
-
-
-      
-        yichuan-w /
-
-      LEANN</a></p>
-				<p>
-      RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5633</span>
-						<span>🔱 562</span>
-					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/safety-research/bloom" target="_blank">
-    
-
-
-      
-        safety-research /
-
-      bloom</a></p>
-				<p>
-      bloom - evaluate any behavior immediately  🌸🌱
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 650</span>
-						<span>🔱 87</span>
-					</div>
-				<div class="stars-today">⭐ 180 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/stan-smith/FossFLOW" target="_blank">
-    
-
-
-      
-        stan-smith /
-
-      FossFLOW</a></p>
-				<p>
-      Make beautiful isometric infrastructure diagrams
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14726</span>
-						<span>🔱 952</span>
-					</div>
-				<div class="stars-today">⭐ 368 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vendure-ecommerce/vendure" target="_blank">
-    
-
-
-      
-        vendure-ecommerce /
-
-      vendure</a></p>
-				<p>
-      The most customizable commerce platform built with TypeScript, NestJS and GraphQL. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7191</span>
-						<span>🔱 1254</span>
-					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cloudcommunity/Free-Certifications" target="_blank">
-    
-
-
-      
-        cloudcommunity /
-
-      Free-Certifications</a></p>
-				<p>
-      A curated list of free courses with certifications. Also available at https://free-certifications.com/
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 48582</span>
-						<span>🔱 3229</span>
-					</div>
-				<div class="stars-today">⭐ 419 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/open-webui/open-webui" target="_blank">
-    
-
-
-      
-        open-webui /
-
-      open-webui</a></p>
-				<p>
-      User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Svelte</span>
-						<span>⭐ 118807</span>
-						<span>🔱 16727</span>
-					</div>
-				<div class="stars-today">⭐ 99 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13487</span>
-						<span>🔱 1179</span>
-					</div>
-				<div class="stars-today">⭐ 226 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
-    
-
-
-      
-        makeplane /
-
-      plane</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41234</span>
-						<span>🔱 3042</span>
-					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xerrors/Yuxi-Know" target="_blank">
-    
-
-
-      
-        xerrors /
-
-      Yuxi-Know</a></p>
-				<p>
-      结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3002</span>
-						<span>🔱 372</span>
-					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73676</span>
-						<span>🔱 16413</span>
-					</div>
-				<div class="stars-today">⭐ 258 stars today</div>
 				</div>
 			</div>
 	
@@ -316,10 +96,274 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1496</span>
-						<span>🔱 197</span>
+						<span>⭐ 1509</span>
+						<span>🔱 198</span>
 					</div>
 				<div class="stars-today">⭐ 104 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/stan-smith/FossFLOW" target="_blank">
+    
+
+
+      
+        stan-smith /
+
+      FossFLOW</a></p>
+				<p>
+      Make beautiful isometric infrastructure diagrams
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14759</span>
+						<span>🔱 956</span>
+					</div>
+				<div class="stars-today">⭐ 368 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13508</span>
+						<span>🔱 1179</span>
+					</div>
+				<div class="stars-today">⭐ 226 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/safety-research/bloom" target="_blank">
+    
+
+
+      
+        safety-research /
+
+      bloom</a></p>
+				<p>
+      bloom - evaluate any behavior immediately  🌸🌱
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 661</span>
+						<span>🔱 88</span>
+					</div>
+				<div class="stars-today">⭐ 180 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 41264</span>
+						<span>🔱 3044</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yichuan-w/LEANN" target="_blank">
+    
+
+
+      
+        yichuan-w /
+
+      LEANN</a></p>
+				<p>
+      RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5663</span>
+						<span>🔱 563</span>
+					</div>
+				<div class="stars-today">⭐ 150 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Fabric" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Fabric</a></p>
+				<p>
+      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 36380</span>
+						<span>🔱 3668</span>
+					</div>
+				<div class="stars-today">⭐ 353 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apurvsinghgautam/robin" target="_blank">
+    
+
+
+      
+        apurvsinghgautam /
+
+      robin</a></p>
+				<p>
+      AI-Powered Dark Web OSINT Tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2436</span>
+						<span>🔱 553</span>
+					</div>
+				<div class="stars-today">⭐ 125 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
+    
+
+
+      
+        langgenius /
+
+      dify</a></p>
+				<p>
+      Production-ready platform for agentic workflow development.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 122827</span>
+						<span>🔱 19111</span>
+					</div>
+				<div class="stars-today">⭐ 328 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26255</span>
+						<span>🔱 2428</span>
+					</div>
+				<div class="stars-today">⭐ 1006 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/etcd-io/etcd" target="_blank">
+    
+
+
+      
+        etcd-io /
+
+      etcd</a></p>
+				<p>
+      Distributed reliable key-value store for the most critical data of a distributed system
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 51065</span>
+						<span>🔱 10254</span>
+					</div>
+				<div class="stars-today">⭐ 14 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/facebookresearch/dinov3" target="_blank">
+    
+
+
+      
+        facebookresearch /
+
+      dinov3</a></p>
+				<p>
+      Reference PyTorch implementation and models for DINOv3
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 8969</span>
+						<span>🔱 663</span>
+					</div>
+				<div class="stars-today">⭐ 50 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vendure-ecommerce/vendure" target="_blank">
+    
+
+
+      
+        vendure-ecommerce /
+
+      vendure</a></p>
+				<p>
+      The most customizable commerce platform built with TypeScript, NestJS and GraphQL. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7210</span>
+						<span>🔱 1255</span>
+					</div>
+				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
 			</div>
 	

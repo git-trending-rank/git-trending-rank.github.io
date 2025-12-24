@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-24T09:58:38Z
+date: 2025-12-24T11:58:57Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18065</span>
-						<span>🔱 785</span>
-					</div>
-				<div class="stars-today">⭐ 6546 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/exo-explore/exo" target="_blank">
@@ -52,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38049</span>
+						<span>⭐ 38071</span>
 						<span>🔱 2542</span>
 					</div>
 				<div class="stars-today">⭐ 5323 stars this month</div>
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12215</span>
-						<span>🔱 1277</span>
+						<span>⭐ 12235</span>
+						<span>🔱 1278</span>
 					</div>
 				<div class="stars-today">⭐ 7503 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18078</span>
+						<span>🔱 786</span>
+					</div>
+				<div class="stars-today">⭐ 6546 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12760</span>
+						<span>⭐ 12766</span>
 						<span>🔱 2149</span>
 					</div>
 				<div class="stars-today">⭐ 2481 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9364</span>
+						<span>⭐ 9370</span>
 						<span>🔱 952</span>
 					</div>
 				<div class="stars-today">⭐ 1396 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14091</span>
-						<span>🔱 3217</span>
+						<span>⭐ 14093</span>
+						<span>🔱 3218</span>
 					</div>
 				<div class="stars-today">⭐ 1452 stars this month</div>
 				</div>
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13080</span>
-						<span>🔱 940</span>
+						<span>⭐ 13089</span>
+						<span>🔱 941</span>
 					</div>
 				<div class="stars-today">⭐ 4575 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+    
+
+
+      
+        ostris /
+
+      ai-toolkit</a></p>
+				<p>
+      The ultimate training toolkit for finetuning diffusion models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8476</span>
+						<span>🔱 993</span>
+					</div>
+				<div class="stars-today">⭐ 1536 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10098</span>
+						<span>⭐ 10110</span>
 						<span>🔱 1080</span>
 					</div>
 				<div class="stars-today">⭐ 2434 stars this month</div>
@@ -206,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41735</span>
-						<span>🔱 3555</span>
+						<span>⭐ 41754</span>
+						<span>🔱 3559</span>
 					</div>
 				<div class="stars-today">⭐ 7964 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
-    
-
-
-      
-        sansan0 /
-
-      TrendRadar</a></p>
-				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40289</span>
-						<span>🔱 20857</span>
-					</div>
-				<div class="stars-today">⭐ 15466 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
-    
-
-
-      
-        ostris /
-
-      ai-toolkit</a></p>
-				<p>
-      The ultimate training toolkit for finetuning diffusion models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8472</span>
-						<span>🔱 993</span>
-					</div>
-				<div class="stars-today">⭐ 1536 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24196</span>
-						<span>🔱 3004</span>
+						<span>⭐ 24208</span>
+						<span>🔱 3006</span>
 					</div>
 				<div class="stars-today">⭐ 5677 stars this month</div>
 				</div>
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85524</span>
+						<span>⭐ 85525</span>
 						<span>🔱 3836</span>
 					</div>
 				<div class="stars-today">⭐ 3371 stars this month</div>
@@ -316,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5177</span>
-						<span>🔱 1217</span>
+						<span>⭐ 5184</span>
+						<span>🔱 1218</span>
 					</div>
 				<div class="stars-today">⭐ 2115 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/sam3" target="_blank">
-    
-
-
-      
-        facebookresearch /
-
-      sam3</a></p>
-				<p>
-      The repository provides code for running inference and finetuning with the Meta Segment Anything Model 3 (SAM 3), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6431</span>
-						<span>🔱 747</span>
-					</div>
-				<div class="stars-today">⭐ 3042 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8092</span>
+						<span>⭐ 8093</span>
 						<span>🔱 299</span>
 					</div>
 				<div class="stars-today">⭐ 501 stars this month</div>
@@ -382,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97922</span>
-						<span>🔱 11100</span>
+						<span>⭐ 97936</span>
+						<span>🔱 11102</span>
 					</div>
 				<div class="stars-today">⭐ 3743 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
+    
+
+
+      
+        cocoindex-io /
+
+      cocoindex</a></p>
+				<p>
+      Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4976</span>
+						<span>🔱 376</span>
+					</div>
+				<div class="stars-today">⭐ 1561 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 48288</span>
-						<span>🔱 3391</span>
+						<span>⭐ 48304</span>
+						<span>🔱 3392</span>
 					</div>
 				<div class="stars-today">⭐ 5162 stars this month</div>
 				</div>
