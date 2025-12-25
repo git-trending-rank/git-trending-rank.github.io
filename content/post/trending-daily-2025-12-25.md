@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-25
-date: 2025-12-25T13:58:34Z
+date: 2025-12-25T15:58:43Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10039</span>
-						<span>🔱 681</span>
+						<span>⭐ 10193</span>
+						<span>🔱 689</span>
 					</div>
 				<div class="stars-today">⭐ 1797 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3079</span>
-						<span>🔱 379</span>
+						<span>⭐ 3111</span>
+						<span>🔱 381</span>
 					</div>
 				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 68687</span>
+						<span>⭐ 68709</span>
 						<span>🔱 12709</span>
 					</div>
 				<div class="stars-today">⭐ 303 stars today</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7490</span>
-						<span>🔱 1275</span>
+						<span>⭐ 7505</span>
+						<span>🔱 1276</span>
 					</div>
 				<div class="stars-today">⭐ 262 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5952</span>
-						<span>🔱 593</span>
+						<span>⭐ 5982</span>
+						<span>🔱 595</span>
 					</div>
 				<div class="stars-today">⭐ 269 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17528</span>
-						<span>🔱 2347</span>
+						<span>⭐ 17586</span>
+						<span>🔱 2354</span>
 					</div>
 				<div class="stars-today">⭐ 468 stars today</div>
 				</div>
@@ -157,13 +157,13 @@ keywords:
 
       plane</a></p>
 				<p>
-      🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
+      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41586</span>
-						<span>🔱 3067</span>
+						<span>⭐ 41624</span>
+						<span>🔱 3068</span>
 					</div>
 				<div class="stars-today">⭐ 300 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1642</span>
-						<span>🔱 207</span>
+						<span>⭐ 1656</span>
+						<span>🔱 209</span>
 					</div>
 				<div class="stars-today">⭐ 121 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1355</span>
-						<span>🔱 91</span>
+						<span>⭐ 1379</span>
+						<span>🔱 93</span>
 					</div>
 				<div class="stars-today">⭐ 44 stars today</div>
 				</div>
