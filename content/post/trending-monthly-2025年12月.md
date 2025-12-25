@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-25T09:58:48Z
+date: 2025-12-25T11:58:35Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38243</span>
-						<span>🔱 2560</span>
+						<span>⭐ 38252</span>
+						<span>🔱 2561</span>
 					</div>
 				<div class="stars-today">⭐ 5660 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12431</span>
-						<span>🔱 1292</span>
+						<span>⭐ 12451</span>
+						<span>🔱 1294</span>
 					</div>
 				<div class="stars-today">⭐ 7655 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18168</span>
+						<span>⭐ 18173</span>
 						<span>🔱 789</span>
 					</div>
 				<div class="stars-today">⭐ 6618 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12799</span>
+						<span>⭐ 12800</span>
 						<span>🔱 2152</span>
 					</div>
 				<div class="stars-today">⭐ 2518 stars this month</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9398</span>
+						<span>⭐ 9399</span>
 						<span>🔱 953</span>
 					</div>
 				<div class="stars-today">⭐ 1455 stars this month</div>
@@ -162,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13179</span>
+						<span>⭐ 13188</span>
 						<span>🔱 949</span>
 					</div>
 				<div class="stars-today">⭐ 4639 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
-    
-
-
-      
-        ostris /
-
-      ai-toolkit</a></p>
-				<p>
-      The ultimate training toolkit for finetuning diffusion models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8508</span>
-						<span>🔱 996</span>
-					</div>
-				<div class="stars-today">⭐ 1560 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10173</span>
-						<span>🔱 1093</span>
-					</div>
-				<div class="stars-today">⭐ 2520 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42121</span>
-						<span>🔱 3596</span>
-					</div>
-				<div class="stars-today">⭐ 8201 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24354</span>
-						<span>🔱 3029</span>
+						<span>⭐ 24367</span>
+						<span>🔱 3030</span>
 					</div>
 				<div class="stars-today">⭐ 5853 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+    
+
+
+      
+        ostris /
+
+      ai-toolkit</a></p>
+				<p>
+      The ultimate training toolkit for finetuning diffusion models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8509</span>
+						<span>🔱 996</span>
+					</div>
+				<div class="stars-today">⭐ 1560 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42148</span>
+						<span>🔱 3600</span>
+					</div>
+				<div class="stars-today">⭐ 8201 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 10177</span>
+						<span>🔱 1094</span>
+					</div>
+				<div class="stars-today">⭐ 2520 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85561</span>
+						<span>⭐ 85565</span>
 						<span>🔱 3840</span>
 					</div>
 				<div class="stars-today">⭐ 3389 stars this month</div>
@@ -280,24 +280,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/agent-starter-pack" target="_blank">
+				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
     
 
 
       
-        GoogleCloudPlatform /
+        cocoindex-io /
 
-      agent-starter-pack</a></p>
+      cocoindex</a></p>
 				<p>
-      Ship AI Agents to Google Cloud in minutes, not months. Production-ready templates with built-in CI/CD, evaluation, and observability.
+      Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5233</span>
-						<span>🔱 1220</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 5094</span>
+						<span>🔱 388</span>
 					</div>
-				<div class="stars-today">⭐ 2189 stars this month</div>
+				<div class="stars-today">⭐ 1601 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 48478</span>
+						<span>🔱 3414</span>
+					</div>
+				<div class="stars-today">⭐ 5285 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 98029</span>
+						<span>⭐ 98037</span>
 						<span>🔱 11115</span>
 					</div>
 				<div class="stars-today">⭐ 3780 stars this month</div>
@@ -346,46 +368,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
+				<p><a href="https://github.com/FunAudioLLM/CosyVoice" target="_blank">
     
 
 
       
-        cocoindex-io /
+        FunAudioLLM /
 
-      cocoindex</a></p>
+      CosyVoice</a></p>
 				<p>
-      Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
+      Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5090</span>
-						<span>🔱 388</span>
+						<span>🔠 Python</span>
+						<span>⭐ 18277</span>
+						<span>🔱 2038</span>
 					</div>
-				<div class="stars-today">⭐ 1601 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 48464</span>
-						<span>🔱 3413</span>
-					</div>
-				<div class="stars-today">⭐ 5285 stars this month</div>
+				<div class="stars-today">⭐ 941 stars this month</div>
 				</div>
 			</div>
 	
