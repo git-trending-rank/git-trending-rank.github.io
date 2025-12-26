@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第52周
-date: 2025-12-26T09:58:40Z
+date: 2025-12-26T11:58:54Z
 categories:
 - weekly
 keywords:
@@ -30,30 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38379</span>
-						<span>🔱 2574</span>
+						<span>⭐ 38392</span>
+						<span>🔱 2575</span>
 					</div>
 				<div class="stars-today">⭐ 5480 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/A2UI" target="_blank">
-    
-
-
-      
-        google /
-
-      A2UI</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7509</span>
-						<span>🔱 491</span>
-					</div>
-				<div class="stars-today">⭐ 3133 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,10 +52,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27378</span>
+						<span>⭐ 27404</span>
 						<span>🔱 2512</span>
 					</div>
 				<div class="stars-today">⭐ 5292 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/A2UI" target="_blank">
+    
+
+
+      
+        google /
+
+      A2UI</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7524</span>
+						<span>🔱 491</span>
+					</div>
+				<div class="stars-today">⭐ 3133 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sgl-project/mini-sglang" target="_blank">
+    
+
+
+      
+        sgl-project /
+
+      mini-sglang</a></p>
+				<p>
+      A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2408</span>
+						<span>🔱 222</span>
+					</div>
+				<div class="stars-today">⭐ 1125 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 48698</span>
-						<span>🔱 3431</span>
+						<span>⭐ 48712</span>
+						<span>🔱 3433</span>
 					</div>
 				<div class="stars-today">⭐ 2049 stars this week</div>
 				</div>
@@ -116,98 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13806</span>
-						<span>🔱 1196</span>
+						<span>⭐ 13811</span>
+						<span>🔱 1197</span>
 					</div>
 				<div class="stars-today">⭐ 1081 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17919</span>
-						<span>🔱 2380</span>
-					</div>
-				<div class="stars-today">⭐ 1513 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
-    
-
-
-      
-        GeeeekExplorer /
-
-      nano-vllm</a></p>
-				<p>
-      Nano vLLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10170</span>
-						<span>🔱 1275</span>
-					</div>
-				<div class="stars-today">⭐ 430 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Personal AI Infrastructure for upgrading humans.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2132</span>
-						<span>🔱 418</span>
-					</div>
-				<div class="stars-today">⭐ 592 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/astral-sh/ty" target="_blank">
-    
-
-
-      
-        astral-sh /
-
-      ty</a></p>
-				<p>
-      An extremely fast Python type checker and language server, written in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15733</span>
-						<span>🔱 169</span>
-					</div>
-				<div class="stars-today">⭐ 1040 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5191</span>
+						<span>⭐ 5198</span>
 						<span>🔱 392</span>
 					</div>
 				<div class="stars-today">⭐ 1133 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17941</span>
+						<span>🔱 2381</span>
+					</div>
+				<div class="stars-today">⭐ 1513 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,32 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 36754</span>
-						<span>🔱 3687</span>
+						<span>⭐ 36764</span>
+						<span>🔱 3688</span>
 					</div>
 				<div class="stars-today">⭐ 1450 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
     
 
 
       
-        virattt /
+        danielmiessler /
 
-      ai-hedge-fund</a></p>
+      Personal_AI_Infrastructure</a></p>
 				<p>
-      An AI Hedge Fund Team
+      Personal AI Infrastructure for upgrading humans.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44167</span>
-						<span>🔱 7801</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2137</span>
+						<span>🔱 419</span>
 					</div>
-				<div class="stars-today">⭐ 623 stars this week</div>
+				<div class="stars-today">⭐ 592 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,54 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 159304</span>
-						<span>🔱 29631</span>
+						<span>⭐ 159309</span>
+						<span>🔱 29630</span>
 					</div>
 				<div class="stars-today">⭐ 282 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/letta-ai/letta" target="_blank">
-    
-
-
-      
-        letta-ai /
-
-      letta</a></p>
-				<p>
-      Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20273</span>
-						<span>🔱 2115</span>
-					</div>
-				<div class="stars-today">⭐ 489 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73816</span>
-						<span>🔱 16432</span>
-					</div>
-				<div class="stars-today">⭐ 1427 stars this week</div>
 				</div>
 			</div>
 	
@@ -358,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19354</span>
-						<span>🔱 1349</span>
+						<span>⭐ 19369</span>
+						<span>🔱 1350</span>
 					</div>
 				<div class="stars-today">⭐ 1780 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
+    
+
+
+      
+        swisskyrepo /
+
+      PayloadsAllTheThings</a></p>
+				<p>
+      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73823</span>
+						<span>🔱 16432</span>
+					</div>
+				<div class="stars-today">⭐ 1427 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/astral-sh/ty" target="_blank">
+    
+
+
+      
+        astral-sh /
+
+      ty</a></p>
+				<p>
+      An extremely fast Python type checker and language server, written in Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15738</span>
+						<span>🔱 169</span>
+					</div>
+				<div class="stars-today">⭐ 1040 stars this week</div>
 				</div>
 			</div>
 	

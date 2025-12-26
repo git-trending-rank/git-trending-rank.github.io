@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-26
-date: 2025-12-26T09:58:40Z
+date: 2025-12-26T11:58:54Z
 categories:
 - daily
 keywords:
@@ -30,76 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11635</span>
-						<span>🔱 772</span>
+						<span>⭐ 11777</span>
+						<span>🔱 778</span>
 					</div>
-				<div class="stars-today">⭐ 1818 stars today</div>
+				<div class="stars-today">⭐ 1948 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xerrors/Yuxi-Know" target="_blank">
+				<p><a href="https://github.com/langgenius/dify" target="_blank">
     
 
 
       
-        xerrors /
+        langgenius /
 
-      Yuxi-Know</a></p>
+      dify</a></p>
 				<p>
-      结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3356</span>
-						<span>🔱 406</span>
-					</div>
-				<div class="stars-today">⭐ 55 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
-    
-
-
-      
-        twitter /
-
-      the-algorithm</a></p>
-				<p>
-      Source code for the X Recommendation Algorithm
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Scala</span>
-						<span>⭐ 68902</span>
-						<span>🔱 12737</span>
-					</div>
-				<div class="stars-today">⭐ 326 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vendure-ecommerce/vendure" target="_blank">
-    
-
-
-      
-        vendure-ecommerce /
-
-      vendure</a></p>
-				<p>
-      The most customizable commerce platform built with TypeScript, NestJS and GraphQL. 
+      Production-ready platform for agentic workflow development.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7665</span>
-						<span>🔱 1295</span>
+						<span>⭐ 123379</span>
+						<span>🔱 19183</span>
 					</div>
-				<div class="stars-today">⭐ 272 stars today</div>
+				<div class="stars-today">⭐ 265 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
+    
+
+
+      
+        NanmiCoder /
+
+      MediaCrawler</a></p>
+				<p>
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40714</span>
+						<span>🔱 9151</span>
+					</div>
+				<div class="stars-today">⭐ 78 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/flowsurface-rs/flowsurface" target="_blank">
+    
+
+
+      
+        flowsurface-rs /
+
+      flowsurface</a></p>
+				<p>
+      A native desktop charting platform for crypto markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 713</span>
+						<span>🔱 129</span>
+					</div>
+				<div class="stars-today">⭐ 143 stars today</div>
 				</div>
 			</div>
 	
@@ -118,98 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6259</span>
-						<span>🔱 611</span>
+						<span>⭐ 6276</span>
+						<span>🔱 613</span>
 					</div>
-				<div class="stars-today">⭐ 262 stars today</div>
+				<div class="stars-today">⭐ 356 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+				<p><a href="https://github.com/apurvsinghgautam/robin" target="_blank">
     
 
 
       
-        resemble-ai /
+        apurvsinghgautam /
 
-      chatterbox</a></p>
+      robin</a></p>
 				<p>
-      SoTA open-source TTS
+      AI-Powered Dark Web OSINT Tool
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17919</span>
-						<span>🔱 2380</span>
+						<span>⭐ 2793</span>
+						<span>🔱 578</span>
 					</div>
-				<div class="stars-today">⭐ 472 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
-    
-
-
-      
-        makeplane /
-
-      plane</a></p>
-				<p>
-      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 41965</span>
-						<span>🔱 3082</span>
-					</div>
-				<div class="stars-today">⭐ 303 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm-omni" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm-omni</a></p>
-				<p>
-      A framework for efficient model inference with omni-modality models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1793</span>
-						<span>🔱 219</span>
-					</div>
-				<div class="stars-today">⭐ 121 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ModelTC/LightX2V" target="_blank">
-    
-
-
-      
-        ModelTC /
-
-      LightX2V</a></p>
-				<p>
-      Light Video Generation Inference Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1534</span>
-						<span>🔱 101</span>
-					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
+				<div class="stars-today">⭐ 95 stars today</div>
 				</div>
 			</div>
 	

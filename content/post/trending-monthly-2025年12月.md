@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-26T09:58:40Z
+date: 2025-12-26T11:58:54Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38379</span>
-						<span>🔱 2574</span>
+						<span>⭐ 38392</span>
+						<span>🔱 2575</span>
 					</div>
 				<div class="stars-today">⭐ 5821 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12639</span>
-						<span>🔱 1310</span>
-					</div>
-				<div class="stars-today">⭐ 7806 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18252</span>
+						<span>⭐ 18259</span>
 						<span>🔱 791</span>
 					</div>
 				<div class="stars-today">⭐ 6672 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12659</span>
+						<span>🔱 1316</span>
+					</div>
+				<div class="stars-today">⭐ 7806 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12851</span>
-						<span>🔱 2154</span>
+						<span>⭐ 12854</span>
+						<span>🔱 2155</span>
 					</div>
 				<div class="stars-today">⭐ 2547 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      magentic-ui</a></p>
-				<p>
-      A research prototype of a human-centered web agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9427</span>
-						<span>🔱 957</span>
-					</div>
-				<div class="stars-today">⭐ 1450 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
-    
-
-
-      
-        trustedsec /
-
-      social-engineer-toolkit</a></p>
-				<p>
-      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14164</span>
-						<span>🔱 3226</span>
-					</div>
-				<div class="stars-today">⭐ 1514 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13260</span>
-						<span>🔱 952</span>
-					</div>
-				<div class="stars-today">⭐ 4706 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24466</span>
-						<span>🔱 3052</span>
+						<span>⭐ 24469</span>
+						<span>🔱 3053</span>
 					</div>
 				<div class="stars-today">⭐ 5983 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
     
 
 
       
-        ostris /
+        trustedsec /
 
-      ai-toolkit</a></p>
+      social-engineer-toolkit</a></p>
 				<p>
-      The ultimate training toolkit for finetuning diffusion models
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8553</span>
-						<span>🔱 1002</span>
+						<span>⭐ 14166</span>
+						<span>🔱 3226</span>
 					</div>
-				<div class="stars-today">⭐ 1587 stars this month</div>
+				<div class="stars-today">⭐ 1514 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      magentic-ui</a></p>
+				<p>
+      A research prototype of a human-centered web agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9430</span>
+						<span>🔱 958</span>
+					</div>
+				<div class="stars-today">⭐ 1450 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13263</span>
+						<span>🔱 953</span>
+					</div>
+				<div class="stars-today">⭐ 4706 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42436</span>
-						<span>🔱 3628</span>
+						<span>⭐ 42459</span>
+						<span>🔱 3632</span>
 					</div>
 				<div class="stars-today">⭐ 8478 stars this month</div>
 				</div>
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10245</span>
+						<span>⭐ 10250</span>
 						<span>🔱 1101</span>
 					</div>
 				<div class="stars-today">⭐ 2569 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+    
+
+
+      
+        ostris /
+
+      ai-toolkit</a></p>
+				<p>
+      The ultimate training toolkit for finetuning diffusion models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8554</span>
+						<span>🔱 1002</span>
+					</div>
+				<div class="stars-today">⭐ 1587 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85617</span>
+						<span>⭐ 85621</span>
 						<span>🔱 3843</span>
 					</div>
 				<div class="stars-today">⭐ 3407 stars this month</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5191</span>
+						<span>⭐ 5198</span>
 						<span>🔱 392</span>
 					</div>
 				<div class="stars-today">⭐ 1701 stars this month</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 48698</span>
-						<span>🔱 3431</span>
+						<span>⭐ 48712</span>
+						<span>🔱 3433</span>
 					</div>
 				<div class="stars-today">⭐ 5291 stars this month</div>
 				</div>
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8114</span>
+						<span>⭐ 8115</span>
 						<span>🔱 300</span>
 					</div>
 				<div class="stars-today">⭐ 511 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
-    
-
-
-      
-        comfyanonymous /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 98131</span>
-						<span>🔱 11125</span>
-					</div>
-				<div class="stars-today">⭐ 3790 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18350</span>
+						<span>⭐ 18355</span>
 						<span>🔱 2046</span>
 					</div>
 				<div class="stars-today">⭐ 958 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
+    
+
+
+      
+        comfyanonymous /
+
+      ComfyUI</a></p>
+				<p>
+      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 98139</span>
+						<span>🔱 11126</span>
+					</div>
+				<div class="stars-today">⭐ 3790 stars this month</div>
 				</div>
 			</div>
 	
