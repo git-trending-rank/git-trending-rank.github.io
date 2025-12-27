@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-27T09:58:50Z
+date: 2025-12-27T11:58:43Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38496</span>
+						<span>⭐ 38505</span>
 						<span>🔱 2585</span>
 					</div>
 				<div class="stars-today">⭐ 5948 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18317</span>
-						<span>🔱 791</span>
-					</div>
-				<div class="stars-today">⭐ 6729 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12765</span>
-						<span>🔱 1328</span>
+						<span>⭐ 12780</span>
+						<span>🔱 1329</span>
 					</div>
 				<div class="stars-today">⭐ 7942 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
     
 
 
       
-        anthropics /
+        rustfs /
 
-      claude-quickstarts</a></p>
+      rustfs</a></p>
 				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12881</span>
-						<span>🔱 2157</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 18324</span>
+						<span>🔱 791</span>
 					</div>
-				<div class="stars-today">⭐ 2597 stars this month</div>
+				<div class="stars-today">⭐ 6729 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24518</span>
-						<span>🔱 3057</span>
+						<span>⭐ 24521</span>
+						<span>🔱 3058</span>
 					</div>
 				<div class="stars-today">⭐ 6064 stars this month</div>
 				</div>
@@ -140,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14195</span>
+						<span>⭐ 14197</span>
 						<span>🔱 3230</span>
 					</div>
 				<div class="stars-today">⭐ 1548 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      magentic-ui</a></p>
-				<p>
-      A research prototype of a human-centered web agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9449</span>
-						<span>🔱 962</span>
-					</div>
-				<div class="stars-today">⭐ 1451 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13313</span>
-						<span>🔱 954</span>
-					</div>
-				<div class="stars-today">⭐ 4748 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42734</span>
-						<span>🔱 3665</span>
+						<span>⭐ 42763</span>
+						<span>🔱 3669</span>
 					</div>
 				<div class="stars-today">⭐ 8674 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12885</span>
+						<span>🔱 2158</span>
+					</div>
+				<div class="stars-today">⭐ 2597 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13318</span>
+						<span>🔱 955</span>
+					</div>
+				<div class="stars-today">⭐ 4748 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      magentic-ui</a></p>
+				<p>
+      A research prototype of a human-centered web agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9453</span>
+						<span>🔱 962</span>
+					</div>
+				<div class="stars-today">⭐ 1451 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10296</span>
+						<span>⭐ 10303</span>
 						<span>🔱 1103</span>
 					</div>
 				<div class="stars-today">⭐ 2639 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
-    
-
-
-      
-        ostris /
-
-      ai-toolkit</a></p>
-				<p>
-      The ultimate training toolkit for finetuning diffusion models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8581</span>
-						<span>🔱 1008</span>
-					</div>
-				<div class="stars-today">⭐ 1617 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/oven-sh/bun" target="_blank">
-    
-
-
-      
-        oven-sh /
-
-      bun</a></p>
-				<p>
-      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 85648</span>
-						<span>🔱 3845</span>
-					</div>
-				<div class="stars-today">⭐ 3446 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5279</span>
+						<span>⭐ 5285</span>
 						<span>🔱 397</span>
 					</div>
 				<div class="stars-today">⭐ 1791 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/oven-sh/bun" target="_blank">
+    
+
+
+      
+        oven-sh /
+
+      bun</a></p>
+				<p>
+      Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 85651</span>
+						<span>🔱 3845</span>
+					</div>
+				<div class="stars-today">⭐ 3446 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18068</span>
+						<span>🔱 2400</span>
+					</div>
+				<div class="stars-today">⭐ 3318 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 48924</span>
-						<span>🔱 3449</span>
+						<span>⭐ 48945</span>
+						<span>🔱 3451</span>
 					</div>
 				<div class="stars-today">⭐ 5351 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+    
+
+
+      
+        ostris /
+
+      ai-toolkit</a></p>
+				<p>
+      The ultimate training toolkit for finetuning diffusion models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8582</span>
+						<span>🔱 1008</span>
+					</div>
+				<div class="stars-today">⭐ 1617 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18410</span>
+						<span>⭐ 18412</span>
 						<span>🔱 2048</span>
 					</div>
 				<div class="stars-today">⭐ 1024 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/comfyanonymous/ComfyUI" target="_blank">
-    
-
-
-      
-        comfyanonymous /
-
-      ComfyUI</a></p>
-				<p>
-      The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 98224</span>
-						<span>🔱 11138</span>
-					</div>
-				<div class="stars-today">⭐ 3788 stars this month</div>
 				</div>
 			</div>
 	
