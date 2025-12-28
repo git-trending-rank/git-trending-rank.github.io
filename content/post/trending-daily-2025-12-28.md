@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-28
-date: 2025-12-28T13:58:50Z
+date: 2025-12-28T15:58:56Z
 categories:
 - daily
 keywords:
@@ -28,10 +28,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 20043</span>
-						<span>🔱 1650</span>
+						<span>⭐ 20071</span>
+						<span>🔱 1654</span>
 					</div>
 				<div class="stars-today">⭐ 259 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tw93/Mole" target="_blank">
+    
+
+
+      
+        tw93 /
+
+      Mole</a></p>
+				<p>
+      🐹 Deep clean and optimize your Mac.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 20870</span>
+						<span>🔱 567</span>
+					</div>
+				<div class="stars-today">⭐ 1605 stars today</div>
 				</div>
 			</div>
 	
@@ -50,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 215727</span>
+						<span>⭐ 215752</span>
 						<span>🔱 49750</span>
 					</div>
 				<div class="stars-today">⭐ 358 stars today</div>
@@ -72,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 814</span>
+						<span>⭐ 821</span>
 						<span>🔱 38</span>
 					</div>
 				<div class="stars-today">⭐ 10 stars today</div>
@@ -89,13 +111,13 @@ keywords:
 
       vibe-kanban</a></p>
 				<p>
-      Kanban board to manage your AI coding agents
+      Get 10X more out of Claude Code, Codex or any coding agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 6990</span>
-						<span>🔱 712</span>
+						<span>⭐ 7072</span>
+						<span>🔱 714</span>
 					</div>
 				<div class="stars-today">⭐ 144 stars today</div>
 				</div>
@@ -116,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21031</span>
-						<span>🔱 1373</span>
+						<span>⭐ 21056</span>
+						<span>🔱 1375</span>
 					</div>
 				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
@@ -138,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 14290</span>
+						<span>⭐ 14336</span>
 						<span>🔱 4055</span>
 					</div>
 				<div class="stars-today">⭐ 72 stars today</div>
@@ -160,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 84713</span>
-						<span>🔱 12039</span>
+						<span>⭐ 84745</span>
+						<span>🔱 12042</span>
 					</div>
 				<div class="stars-today">⭐ 397 stars today</div>
 				</div>
@@ -182,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3610</span>
+						<span>⭐ 3652</span>
 						<span>🔱 114</span>
 					</div>
 				<div class="stars-today">⭐ 300 stars today</div>
