@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-28
-date: 2025-12-28T09:58:55Z
+date: 2025-12-28T11:58:58Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,48 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 20019</span>
+						<span>🔱 1644</span>
+					</div>
+				<div class="stars-today">⭐ 259 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tw93/Mole" target="_blank">
+    
+
+
+      
+        tw93 /
+
+      Mole</a></p>
+				<p>
+      🐹 Deep clean and optimize your Mac.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 20703</span>
+						<span>🔱 565</span>
+					</div>
+				<div class="stars-today">⭐ 1605 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
@@ -30,54 +72,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 215676</span>
-						<span>🔱 49748</span>
+						<span>⭐ 215696</span>
+						<span>🔱 49751</span>
 					</div>
 				<div class="stars-today">⭐ 152 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xerrors/Yuxi-Know" target="_blank">
+				<p><a href="https://github.com/Sergeydigl3/zapret-discord-youtube-linux" target="_blank">
     
 
 
       
-        xerrors /
+        Sergeydigl3 /
 
-      Yuxi-Know</a></p>
+      zapret-discord-youtube-linux</a></p>
 				<p>
-      结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+      (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3546</span>
-						<span>🔱 421</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 805</span>
+						<span>🔱 38</span>
 					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/agrinman/tunnelto" target="_blank">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
     
 
 
       
-        agrinman /
+        BloopAI /
 
-      tunnelto</a></p>
+      vibe-kanban</a></p>
 				<p>
-      Expose your local web server to the internet with a public URL.
+      Kanban board to manage your AI coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3966</span>
-						<span>🔱 215</span>
+						<span>⭐ 6925</span>
+						<span>🔱 710</span>
 					</div>
-				<div class="stars-today">⭐ 590 stars today</div>
+				<div class="stars-today">⭐ 144 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RustPython/RustPython" target="_blank">
+    
+
+
+      
+        RustPython /
+
+      RustPython</a></p>
+				<p>
+      A Python Interpreter written in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21013</span>
+						<span>🔱 1372</span>
+					</div>
+				<div class="stars-today">⭐ 58 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
+    
+
+
+      
+        QuantConnect /
+
+      Lean</a></p>
+				<p>
+      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 14251</span>
+						<span>🔱 4054</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
 				</div>
 			</div>
 	
@@ -96,32 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 84652</span>
-						<span>🔱 12031</span>
+						<span>⭐ 84680</span>
+						<span>🔱 12037</span>
 					</div>
 				<div class="stars-today">⭐ 143 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
+				<p><a href="https://github.com/sinelaw/fresh" target="_blank">
     
 
 
       
-        rendercv /
+        sinelaw /
 
-      rendercv</a></p>
+      fresh</a></p>
 				<p>
-      CV/resume generator for academics and engineers, YAML to PDF
+      Text editor for your terminal: easy, powerful and fast
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12817</span>
-						<span>🔱 846</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 3585</span>
+						<span>🔱 111</span>
 					</div>
-				<div class="stars-today">⭐ 634 stars today</div>
+				<div class="stars-today">⭐ 300 stars today</div>
 				</div>
 			</div>
 	

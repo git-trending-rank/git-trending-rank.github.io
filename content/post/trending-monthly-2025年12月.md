@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-28T09:58:55Z
+date: 2025-12-28T11:58:59Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38592</span>
+						<span>⭐ 38598</span>
 						<span>🔱 2587</span>
 					</div>
 				<div class="stars-today">⭐ 6044 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tw93/Mole" target="_blank">
+    
+
+
+      
+        tw93 /
+
+      Mole</a></p>
+				<p>
+      🐹 Deep clean and optimize your Mac.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 20703</span>
+						<span>🔱 565</span>
+					</div>
+				<div class="stars-today">⭐ 14518 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12895</span>
+						<span>⭐ 12907</span>
 						<span>🔱 1346</span>
 					</div>
 				<div class="stars-today">⭐ 7980 stars this month</div>
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18379</span>
+						<span>⭐ 18387</span>
 						<span>🔱 791</span>
 					</div>
 				<div class="stars-today">⭐ 6782 stars this month</div>
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24572</span>
-						<span>🔱 3062</span>
+						<span>⭐ 24580</span>
+						<span>🔱 3063</span>
 					</div>
 				<div class="stars-today">⭐ 6104 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
-    
-
-
-      
-        trustedsec /
-
-      social-engineer-toolkit</a></p>
-				<p>
-      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14231</span>
-						<span>🔱 3235</span>
-					</div>
-				<div class="stars-today">⭐ 1578 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43060</span>
-						<span>🔱 3692</span>
+						<span>⭐ 43089</span>
+						<span>🔱 3694</span>
 					</div>
 				<div class="stars-today">⭐ 8852 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12919</span>
-						<span>🔱 2160</span>
-					</div>
-				<div class="stars-today">⭐ 2575 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13378</span>
+						<span>⭐ 13386</span>
 						<span>🔱 956</span>
 					</div>
 				<div class="stars-today">⭐ 4775 stars this month</div>
@@ -192,24 +170,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
     
 
 
       
-        microsoft /
+        anthropics /
 
-      magentic-ui</a></p>
+      claude-quickstarts</a></p>
 				<p>
-      A research prototype of a human-centered web agent
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9475</span>
-						<span>🔱 961</span>
+						<span>⭐ 12921</span>
+						<span>🔱 2160</span>
 					</div>
-				<div class="stars-today">⭐ 1446 stars this month</div>
+				<div class="stars-today">⭐ 2575 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10388</span>
-						<span>🔱 1114</span>
+						<span>⭐ 10395</span>
+						<span>🔱 1116</span>
 					</div>
 				<div class="stars-today">⭐ 2691 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      magentic-ui</a></p>
+				<p>
+      A research prototype of a human-centered web agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9478</span>
+						<span>🔱 961</span>
+					</div>
+				<div class="stars-today">⭐ 1446 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5349</span>
+						<span>⭐ 5356</span>
 						<span>🔱 402</span>
 					</div>
 				<div class="stars-today">⭐ 1876 stars this month</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85688</span>
+						<span>⭐ 85691</span>
 						<span>🔱 3848</span>
 					</div>
 				<div class="stars-today">⭐ 3463 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18174</span>
-						<span>🔱 2411</span>
-					</div>
-				<div class="stars-today">⭐ 3387 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 49139</span>
-						<span>🔱 3478</span>
+						<span>⭐ 49161</span>
+						<span>🔱 3480</span>
 					</div>
 				<div class="stars-today">⭐ 5466 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ostris/ai-toolkit" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        ostris /
+        resemble-ai /
 
-      ai-toolkit</a></p>
+      chatterbox</a></p>
 				<p>
-      The ultimate training toolkit for finetuning diffusion models
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8617</span>
-						<span>🔱 1010</span>
+						<span>⭐ 18189</span>
+						<span>🔱 2413</span>
 					</div>
-				<div class="stars-today">⭐ 1624 stars this month</div>
+				<div class="stars-today">⭐ 3387 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8138</span>
+						<span>⭐ 8140</span>
 						<span>🔱 301</span>
 					</div>
 				<div class="stars-today">⭐ 521 stars this month</div>
@@ -382,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18462</span>
-						<span>🔱 2055</span>
+						<span>⭐ 18471</span>
+						<span>🔱 2058</span>
 					</div>
 				<div class="stars-today">⭐ 1069 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Personal AI Infrastructure for upgrading humans.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2330</span>
+						<span>🔱 447</span>
+					</div>
+				<div class="stars-today">⭐ 1195 stars this month</div>
 				</div>
 			</div>
 	

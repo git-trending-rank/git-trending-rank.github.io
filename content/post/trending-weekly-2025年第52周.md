@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第52周
-date: 2025-12-28T09:58:58Z
+date: 2025-12-28T11:58:59Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38592</span>
+						<span>⭐ 38598</span>
 						<span>🔱 2587</span>
 					</div>
 				<div class="stars-today">⭐ 4624 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tw93/Mole" target="_blank">
+    
+
+
+      
+        tw93 /
+
+      Mole</a></p>
+				<p>
+      🐹 Deep clean and optimize your Mac.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 20703</span>
+						<span>🔱 565</span>
+					</div>
+				<div class="stars-today">⭐ 9145 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28050</span>
-						<span>🔱 2566</span>
+						<span>⭐ 28083</span>
+						<span>🔱 2571</span>
 					</div>
 				<div class="stars-today">⭐ 5152 stars this week</div>
 				</div>
@@ -74,74 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13922</span>
+						<span>⭐ 13929</span>
 						<span>🔱 1206</span>
 					</div>
 				<div class="stars-today">⭐ 1142 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/A2UI" target="_blank">
-    
-
-
-      
-        google /
-
-      A2UI</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7823</span>
-						<span>🔱 517</span>
-					</div>
-				<div class="stars-today">⭐ 2106 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
-    
-
-
-      
-        cocoindex-io /
-
-      cocoindex</a></p>
-				<p>
-      Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5349</span>
-						<span>🔱 402</span>
-					</div>
-				<div class="stars-today">⭐ 1221 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 49139</span>
-						<span>🔱 3478</span>
-					</div>
-				<div class="stars-today">⭐ 1697 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2551</span>
-						<span>🔱 244</span>
+						<span>⭐ 2557</span>
+						<span>🔱 245</span>
 					</div>
 				<div class="stars-today">⭐ 875 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        resemble-ai /
+        anthropics /
 
-      chatterbox</a></p>
+      claude-code</a></p>
 				<p>
-      SoTA open-source TTS
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18174</span>
-						<span>🔱 2411</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 49161</span>
+						<span>🔱 3480</span>
 					</div>
-				<div class="stars-today">⭐ 1622 stars this week</div>
+				<div class="stars-today">⭐ 1697 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +162,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 37000</span>
-						<span>🔱 3707</span>
+						<span>⭐ 37021</span>
+						<span>🔱 3706</span>
 					</div>
 				<div class="stars-today">⭐ 1559 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/A2UI" target="_blank">
+    
+
+
+      
+        google /
+
+      A2UI</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7840</span>
+						<span>🔱 517</span>
+					</div>
+				<div class="stars-today">⭐ 2106 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19548</span>
-						<span>🔱 1363</span>
+						<span>⭐ 19563</span>
+						<span>🔱 1365</span>
 					</div>
 				<div class="stars-today">⭐ 1824 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18189</span>
+						<span>🔱 2413</span>
+					</div>
+				<div class="stars-today">⭐ 1622 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pollen-robotics/reachy_mini" target="_blank">
+    
+
+
+      
+        pollen-robotics /
+
+      reachy_mini</a></p>
+				<p>
+      Reachy Mini's SDK
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 613</span>
+						<span>🔱 89</span>
+					</div>
+				<div class="stars-today">⭐ 195 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,10 +270,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2322</span>
+						<span>⭐ 2330</span>
 						<span>🔱 447</span>
 					</div>
 				<div class="stars-today">⭐ 666 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42079</span>
+						<span>🔱 3095</span>
+					</div>
+				<div class="stars-today">⭐ 1380 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43089</span>
+						<span>🔱 3694</span>
+					</div>
+				<div class="stars-today">⭐ 2340 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,76 +336,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 159393</span>
-						<span>🔱 29646</span>
+						<span>⭐ 159394</span>
+						<span>🔱 29645</span>
 					</div>
 				<div class="stars-today">⭐ 322 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/swisskyrepo/PayloadsAllTheThings" target="_blank">
-    
-
-
-      
-        swisskyrepo /
-
-      PayloadsAllTheThings</a></p>
-				<p>
-      A list of useful payloads and bypass for Web Application Security and Pentest/CTF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73958</span>
-						<span>🔱 16438</span>
-					</div>
-				<div class="stars-today">⭐ 1198 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sinelaw/fresh" target="_blank">
-    
-
-
-      
-        sinelaw /
-
-      fresh</a></p>
-				<p>
-      Text editor for your terminal: easy, powerful and fast
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3567</span>
-						<span>🔱 111</span>
-					</div>
-				<div class="stars-today">⭐ 904 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GeeeekExplorer/nano-vllm" target="_blank">
-    
-
-
-      
-        GeeeekExplorer /
-
-      nano-vllm</a></p>
-				<p>
-      Nano vLLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10249</span>
-						<span>🔱 1283</span>
-					</div>
-				<div class="stars-today">⭐ 379 stars this week</div>
 				</div>
 			</div>
 	
