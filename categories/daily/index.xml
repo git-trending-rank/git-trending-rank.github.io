@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 28 Dec 2025 13:58:50 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 28 Dec 2025 15:58:56 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025-12-28</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2025-12-28/</link>
-        <pubDate>Sun, 28 Dec 2025 13:58:50 +0000</pubDate>
+        <pubDate>Sun, 28 Dec 2025 15:58:56 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2025-12-28/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -31,10 +31,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
-						&lt;span&gt;⭐ 20043&lt;/span&gt;
-						&lt;span&gt;🔱 1650&lt;/span&gt;
+						&lt;span&gt;⭐ 20071&lt;/span&gt;
+						&lt;span&gt;🔱 1654&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 259 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tw93/Mole&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tw93 /
+
+      Mole&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🐹 Deep clean and optimize your Mac.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 20870&lt;/span&gt;
+						&lt;span&gt;🔱 567&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1605 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -53,7 +75,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 215727&lt;/span&gt;
+						&lt;span&gt;⭐ 215752&lt;/span&gt;
 						&lt;span&gt;🔱 49750&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 358 stars today&lt;/div&gt;
@@ -75,7 +97,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 814&lt;/span&gt;
+						&lt;span&gt;⭐ 821&lt;/span&gt;
 						&lt;span&gt;🔱 38&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10 stars today&lt;/div&gt;
@@ -92,13 +114,13 @@
 
       vibe-kanban&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Kanban board to manage your AI coding agents
+      Get 10X more out of Claude Code, Codex or any coding agent
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 6990&lt;/span&gt;
-						&lt;span&gt;🔱 712&lt;/span&gt;
+						&lt;span&gt;⭐ 7072&lt;/span&gt;
+						&lt;span&gt;🔱 714&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 144 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -119,8 +141,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 21031&lt;/span&gt;
-						&lt;span&gt;🔱 1373&lt;/span&gt;
+						&lt;span&gt;⭐ 21056&lt;/span&gt;
+						&lt;span&gt;🔱 1375&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 58 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -141,7 +163,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 14290&lt;/span&gt;
+						&lt;span&gt;⭐ 14336&lt;/span&gt;
 						&lt;span&gt;🔱 4055&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 72 stars today&lt;/div&gt;
@@ -163,8 +185,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 84713&lt;/span&gt;
-						&lt;span&gt;🔱 12039&lt;/span&gt;
+						&lt;span&gt;⭐ 84745&lt;/span&gt;
+						&lt;span&gt;🔱 12042&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 397 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -185,7 +207,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 3610&lt;/span&gt;
+						&lt;span&gt;⭐ 3652&lt;/span&gt;
 						&lt;span&gt;🔱 114&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 300 stars today&lt;/div&gt;
