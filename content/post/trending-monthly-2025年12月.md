@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-29T10:00:02Z
+date: 2025-12-29T11:58:45Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9358</span>
+						<span>🔱 566</span>
+					</div>
+				<div class="stars-today">⭐ 8862 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/exo-explore/exo" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38790</span>
-						<span>🔱 2597</span>
+						<span>⭐ 38812</span>
+						<span>🔱 2599</span>
 					</div>
 				<div class="stars-today">⭐ 6111 stars this month</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13132</span>
-						<span>🔱 1370</span>
+						<span>⭐ 13153</span>
+						<span>🔱 1372</span>
 					</div>
 				<div class="stars-today">⭐ 8026 stars this month</div>
 				</div>
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18498</span>
+						<span>⭐ 18511</span>
 						<span>🔱 797</span>
 					</div>
 				<div class="stars-today">⭐ 6810 stars this month</div>
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24628</span>
+						<span>⭐ 24637</span>
 						<span>🔱 3071</span>
 					</div>
 				<div class="stars-today">⭐ 6149 stars this month</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43535</span>
-						<span>🔱 3728</span>
+						<span>⭐ 43572</span>
+						<span>🔱 3734</span>
 					</div>
 				<div class="stars-today">⭐ 9042 stars this month</div>
 				</div>
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13473</span>
+						<span>⭐ 13481</span>
 						<span>🔱 960</span>
 					</div>
 				<div class="stars-today">⭐ 4804 stars this month</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12965</span>
-						<span>🔱 2171</span>
+						<span>⭐ 12966</span>
+						<span>🔱 2170</span>
 					</div>
 				<div class="stars-today">⭐ 2544 stars this month</div>
 				</div>
@@ -184,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10507</span>
-						<span>🔱 1132</span>
+						<span>⭐ 10517</span>
+						<span>🔱 1134</span>
 					</div>
 				<div class="stars-today">⭐ 2769 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/magentic-ui" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        microsoft /
+        resemble-ai /
 
-      magentic-ui</a></p>
+      chatterbox</a></p>
 				<p>
-      A research prototype of a human-centered web agent
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9508</span>
-						<span>🔱 963</span>
+						<span>⭐ 18831</span>
+						<span>🔱 2471</span>
 					</div>
-				<div class="stars-today">⭐ 1447 stars this month</div>
+				<div class="stars-today">⭐ 3481 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5432</span>
+						<span>⭐ 5438</span>
 						<span>🔱 410</span>
 					</div>
 				<div class="stars-today">⭐ 1932 stars this month</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85724</span>
-						<span>🔱 3852</span>
+						<span>⭐ 85731</span>
+						<span>🔱 3853</span>
 					</div>
 				<div class="stars-today">⭐ 3485 stars this month</div>
 				</div>
@@ -272,76 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 49470</span>
-						<span>🔱 3499</span>
+						<span>⭐ 49486</span>
+						<span>🔱 3501</span>
 					</div>
 				<div class="stars-today">⭐ 5557 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18782</span>
-						<span>🔱 2466</span>
-					</div>
-				<div class="stars-today">⭐ 3481 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Morganamilo/paru" target="_blank">
-    
-
-
-      
-        Morganamilo /
-
-      paru</a></p>
-				<p>
-      Feature packed AUR helper
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 8149</span>
-						<span>🔱 301</span>
-					</div>
-				<div class="stars-today">⭐ 535 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FunAudioLLM/CosyVoice" target="_blank">
-    
-
-
-      
-        FunAudioLLM /
-
-      CosyVoice</a></p>
-				<p>
-      Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18538</span>
-						<span>🔱 2064</span>
-					</div>
-				<div class="stars-today">⭐ 1109 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 2476</span>
-						<span>🔱 460</span>
+						<span>⭐ 2489</span>
+						<span>🔱 463</span>
 					</div>
 				<div class="stars-today">⭐ 1261 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FunAudioLLM/CosyVoice" target="_blank">
+    
+
+
+      
+        FunAudioLLM /
+
+      CosyVoice</a></p>
+				<p>
+      Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18546</span>
+						<span>🔱 2064</span>
+					</div>
+				<div class="stars-today">⭐ 1109 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/astral-sh/ty" target="_blank">
+    
+
+
+      
+        astral-sh /
+
+      ty</a></p>
+				<p>
+      An extremely fast Python type checker and language server, written in Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15872</span>
+						<span>🔱 172</span>
+					</div>
+				<div class="stars-today">⭐ 2222 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44236</span>
+						<span>🔱 7815</span>
+					</div>
+				<div class="stars-today">⭐ 1865 stars this month</div>
 				</div>
 			</div>
 	

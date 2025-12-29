@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第1周
-date: 2025-12-29T10:00:02Z
+date: 2025-12-29T11:58:44Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38790</span>
-						<span>🔱 2597</span>
+						<span>⭐ 38812</span>
+						<span>🔱 2599</span>
 					</div>
 				<div class="stars-today">⭐ 3545 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28761</span>
-						<span>🔱 2641</span>
+						<span>⭐ 28843</span>
+						<span>🔱 2646</span>
 					</div>
 				<div class="stars-today">⭐ 4444 stars this week</div>
 				</div>
@@ -74,118 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14038</span>
-						<span>🔱 1212</span>
+						<span>⭐ 14048</span>
+						<span>🔱 1214</span>
 					</div>
 				<div class="stars-today">⭐ 1102 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sgl-project/mini-sglang" target="_blank">
-    
-
-
-      
-        sgl-project /
-
-      mini-sglang</a></p>
-				<p>
-      A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2611</span>
-						<span>🔱 249</span>
-					</div>
-				<div class="stars-today">⭐ 739 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 49470</span>
-						<span>🔱 3499</span>
-					</div>
-				<div class="stars-today">⭐ 1644 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Fabric" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Fabric</a></p>
-				<p>
-      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 37221</span>
-						<span>🔱 3724</span>
-					</div>
-				<div class="stars-today">⭐ 1487 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/A2UI" target="_blank">
-    
-
-
-      
-        google /
-
-      A2UI</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8142</span>
-						<span>🔱 539</span>
-					</div>
-				<div class="stars-today">⭐ 2129 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
-    
-
-
-      
-        google /
-
-      langextract</a></p>
-				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19703</span>
-						<span>🔱 1379</span>
-					</div>
-				<div class="stars-today">⭐ 1887 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,76 +96,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18782</span>
-						<span>🔱 2466</span>
+						<span>⭐ 18831</span>
+						<span>🔱 2471</span>
 					</div>
 				<div class="stars-today">⭐ 1699 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pollen-robotics/reachy_mini" target="_blank">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
     
 
 
       
-        pollen-robotics /
+        Flowseal /
 
-      reachy_mini</a></p>
-				<p>
-      Reachy Mini's SDK
-    </p>
+      zapret-discord-youtube</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 633</span>
-						<span>🔱 91</span>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 20246</span>
+						<span>🔱 1678</span>
 					</div>
-				<div class="stars-today">⭐ 176 stars this week</div>
+				<div class="stars-today">⭐ 691 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+				<p><a href="https://github.com/danielmiessler/Fabric" target="_blank">
     
 
 
       
         danielmiessler /
 
-      Personal_AI_Infrastructure</a></p>
+      Fabric</a></p>
 				<p>
-      Personal AI Infrastructure for upgrading humans.
+      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 2476</span>
-						<span>🔱 460</span>
+						<span>🔠 Go</span>
+						<span>⭐ 37232</span>
+						<span>🔱 3724</span>
 					</div>
-				<div class="stars-today">⭐ 718 stars this week</div>
+				<div class="stars-today">⭐ 1487 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        makeplane /
+        anthropics /
 
-      plane</a></p>
+      claude-code</a></p>
 				<p>
-      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42186</span>
-						<span>🔱 3102</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 49486</span>
+						<span>🔱 3501</span>
 					</div>
-				<div class="stars-today">⭐ 1414 stars this week</div>
+				<div class="stars-today">⭐ 1644 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/langextract" target="_blank">
+    
+
+
+      
+        google /
+
+      langextract</a></p>
+				<p>
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19714</span>
+						<span>🔱 1379</span>
+					</div>
+				<div class="stars-today">⭐ 1887 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +204,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43535</span>
-						<span>🔱 3728</span>
+						<span>⭐ 43572</span>
+						<span>🔱 3734</span>
 					</div>
 				<div class="stars-today">⭐ 2418 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/A2UI" target="_blank">
+    
+
+
+      
+        google /
+
+      A2UI</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8176</span>
+						<span>🔱 541</span>
+					</div>
+				<div class="stars-today">⭐ 2129 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Personal AI Infrastructure for upgrading humans.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 2489</span>
+						<span>🔱 463</span>
+					</div>
+				<div class="stars-today">⭐ 718 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 7744</span>
+						<span>🔱 762</span>
+					</div>
+				<div class="stars-today">⭐ 357 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,10 +290,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 159429</span>
+						<span>⭐ 159431</span>
 						<span>🔱 29651</span>
 					</div>
 				<div class="stars-today">⭐ 327 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sinelaw/fresh" target="_blank">
+    
+
+
+      
+        sinelaw /
+
+      fresh</a></p>
+				<p>
+      Text editor for your terminal: easy, powerful and fast
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 3962</span>
+						<span>🔱 129</span>
+					</div>
+				<div class="stars-today">⭐ 1086 stars this week</div>
 				</div>
 			</div>
 	
