@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-29
-date: 2025-12-29T21:58:48Z
+date: 2025-12-29T23:58:41Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 14819</span>
-						<span>🔱 4089</span>
+						<span>⭐ 14844</span>
+						<span>🔱 4090</span>
 					</div>
 				<div class="stars-today">⭐ 390 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21309</span>
-						<span>🔱 1385</span>
+						<span>⭐ 21326</span>
+						<span>🔱 1386</span>
 					</div>
 				<div class="stars-today">⭐ 221 stars today</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 20306</span>
-						<span>🔱 1683</span>
+						<span>⭐ 20312</span>
+						<span>🔱 1684</span>
 					</div>
 				<div class="stars-today">⭐ 238 stars today</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 7953</span>
-						<span>🔱 779</span>
+						<span>⭐ 7978</span>
+						<span>🔱 782</span>
 					</div>
 				<div class="stars-today">⭐ 825 stars today</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25353</span>
-						<span>🔱 4305</span>
+						<span>⭐ 25382</span>
+						<span>🔱 4306</span>
 					</div>
 				<div class="stars-today">⭐ 124 stars today</div>
 				</div>
@@ -133,12 +133,12 @@ keywords:
 
       TrendRadar</a></p>
 				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
+      🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41304</span>
+						<span>⭐ 41314</span>
 						<span>🔱 21055</span>
 					</div>
 				<div class="stars-today">⭐ 299 stars today</div>
@@ -160,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4090</span>
+						<span>⭐ 4104</span>
 						<span>🔱 132</span>
 					</div>
 				<div class="stars-today">⭐ 392 stars today</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 103309</span>
-						<span>🔱 27453</span>
+						<span>⭐ 103344</span>
+						<span>🔱 27463</span>
 					</div>
 				<div class="stars-today">⭐ 376 stars today</div>
 				</div>
@@ -204,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 71988</span>
+						<span>⭐ 72004</span>
 						<span>🔱 6108</span>
 					</div>
 				<div class="stars-today">⭐ 132 stars today</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19130</span>
-						<span>🔱 2507</span>
+						<span>⭐ 19170</span>
+						<span>🔱 2513</span>
 					</div>
 				<div class="stars-today">⭐ 640 stars today</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 7924</span>
-						<span>🔱 1526</span>
+						<span>⭐ 7935</span>
+						<span>🔱 1529</span>
 					</div>
 				<div class="stars-today">⭐ 62 stars today</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 216091</span>
-						<span>🔱 49791</span>
+						<span>⭐ 216105</span>
+						<span>🔱 49792</span>
 					</div>
 				<div class="stars-today">⭐ 335 stars today</div>
 				</div>
@@ -290,7 +290,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 1455</span>
+						<span>⭐ 1464</span>
 						<span>🔱 52</span>
 					</div>
 				<div class="stars-today">⭐ 111 stars today</div>
@@ -312,8 +312,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 47075</span>
-						<span>🔱 4260</span>
+						<span>⭐ 47086</span>
+						<span>🔱 4261</span>
 					</div>
 				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
