@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-30T09:58:36Z
+date: 2025-12-30T11:58:59Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15631</span>
+						<span>🔱 1625</span>
+					</div>
+				<div class="stars-today">⭐ 14771 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9541</span>
-						<span>🔱 575</span>
+						<span>⭐ 9558</span>
+						<span>🔱 576</span>
 					</div>
 				<div class="stars-today">⭐ 8939 stars this month</div>
 				</div>
@@ -52,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38944</span>
-						<span>🔱 2615</span>
+						<span>⭐ 38954</span>
+						<span>🔱 2618</span>
 					</div>
 				<div class="stars-today">⭐ 6313 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tw93/Mole" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        tw93 /
+        simstudioai /
 
-      Mole</a></p>
+      sim</a></p>
 				<p>
-      🐹 Deep clean and optimize your Mac.
+      Open-source platform to build and deploy AI agent workflows.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 22776</span>
-						<span>🔱 611</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24685</span>
+						<span>🔱 3074</span>
 					</div>
-				<div class="stars-today">⭐ 16318 stars this month</div>
+				<div class="stars-today">⭐ 6201 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13378</span>
-						<span>🔱 1403</span>
+						<span>⭐ 13398</span>
+						<span>🔱 1407</span>
 					</div>
 				<div class="stars-today">⭐ 8240 stars this month</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18623</span>
-						<span>🔱 801</span>
+						<span>⭐ 18634</span>
+						<span>🔱 802</span>
 					</div>
 				<div class="stars-today">⭐ 6900 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24683</span>
-						<span>🔱 3075</span>
-					</div>
-				<div class="stars-today">⭐ 6201 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44007</span>
-						<span>🔱 3781</span>
+						<span>⭐ 44063</span>
+						<span>🔱 3785</span>
 					</div>
 				<div class="stars-today">⭐ 9437 stars this month</div>
 				</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13545</span>
+						<span>⭐ 13552</span>
 						<span>🔱 962</span>
 					</div>
 				<div class="stars-today">⭐ 4879 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13006</span>
-						<span>🔱 2172</span>
-					</div>
-				<div class="stars-today">⭐ 2546 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10590</span>
+						<span>⭐ 10595</span>
 						<span>🔱 1144</span>
 					</div>
 				<div class="stars-today">⭐ 2881 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13011</span>
+						<span>🔱 2172</span>
+					</div>
+				<div class="stars-today">⭐ 2546 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19378</span>
-						<span>🔱 2534</span>
+						<span>⭐ 19424</span>
+						<span>🔱 2538</span>
 					</div>
 				<div class="stars-today">⭐ 4110 stars this month</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5482</span>
+						<span>⭐ 5487</span>
 						<span>🔱 410</span>
 					</div>
 				<div class="stars-today">⭐ 2008 stars this month</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85757</span>
-						<span>🔱 3858</span>
+						<span>⭐ 85760</span>
+						<span>🔱 3859</span>
 					</div>
 				<div class="stars-today">⭐ 3516 stars this month</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 49748</span>
-						<span>🔱 3524</span>
+						<span>⭐ 49778</span>
+						<span>🔱 3526</span>
 					</div>
 				<div class="stars-today">⭐ 5810 stars this month</div>
 				</div>
@@ -339,53 +339,9 @@ keywords:
 					<div>
 						<span>🔠 Python</span>
 						<span>⭐ 18598</span>
-						<span>🔱 2069</span>
+						<span>🔱 2070</span>
 					</div>
 				<div class="stars-today">⭐ 1177 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/astral-sh/ty" target="_blank">
-    
-
-
-      
-        astral-sh /
-
-      ty</a></p>
-				<p>
-      An extremely fast Python type checker and language server, written in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15930</span>
-						<span>🔱 173</span>
-					</div>
-				<div class="stars-today">⭐ 2256 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44270</span>
-						<span>🔱 7817</span>
-					</div>
-				<div class="stars-today">⭐ 1846 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第1周
-date: 2025-12-30T09:58:36Z
+date: 2025-12-30T11:58:59Z
 categories:
 - weekly
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tw93/Mole" target="_blank">
+				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
     
 
 
       
-        tw93 /
+        rendercv /
 
-      Mole</a></p>
+      rendercv</a></p>
 				<p>
-      🐹 Deep clean and optimize your Mac.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 22776</span>
-						<span>🔱 611</span>
-					</div>
-				<div class="stars-today">⭐ 10762 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+      CV/resume generator for academics and engineers, YAML to PDF
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38944</span>
-						<span>🔱 2615</span>
+						<span>⭐ 13256</span>
+						<span>🔱 895</span>
 					</div>
-				<div class="stars-today">⭐ 2513 stars this week</div>
+				<div class="stars-today">⭐ 8576 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29722</span>
-						<span>🔱 2718</span>
+						<span>⭐ 29790</span>
+						<span>🔱 2722</span>
 					</div>
 				<div class="stars-today">⭐ 4275 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14121</span>
-						<span>🔱 1218</span>
-					</div>
-				<div class="stars-today">⭐ 1117 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,138 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19378</span>
-						<span>🔱 2534</span>
+						<span>⭐ 19424</span>
+						<span>🔱 2538</span>
 					</div>
 				<div class="stars-today">⭐ 2249 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 20345</span>
-						<span>🔱 1686</span>
-					</div>
-				<div class="stars-today">⭐ 781 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Fabric" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Fabric</a></p>
-				<p>
-      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 37344</span>
-						<span>🔱 3735</span>
-					</div>
-				<div class="stars-today">⭐ 1389 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 49748</span>
-						<span>🔱 3524</span>
-					</div>
-				<div class="stars-today">⭐ 1655 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
-    
-
-
-      
-        google /
-
-      langextract</a></p>
-				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19830</span>
-						<span>🔱 1383</span>
-					</div>
-				<div class="stars-today">⭐ 1735 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 44007</span>
-						<span>🔱 3781</span>
-					</div>
-				<div class="stars-today">⭐ 2607 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/A2UI" target="_blank">
-    
-
-
-      
-        google /
-
-      A2UI</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8490</span>
-						<span>🔱 568</span>
-					</div>
-				<div class="stars-today">⭐ 2033 stars this week</div>
 				</div>
 			</div>
 	
@@ -268,32 +96,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8220</span>
-						<span>🔱 801</span>
+						<span>⭐ 8322</span>
+						<span>🔱 804</span>
 					</div>
 				<div class="stars-today">⭐ 1084 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
+				<p><a href="https://github.com/bellard/quickjs" target="_blank">
     
 
 
       
-        AUTOMATIC1111 /
+        bellard /
 
-      stable-diffusion-webui</a></p>
+      quickjs</a></p>
 				<p>
-      Stable Diffusion web UI
+      Public repository of the QuickJS Javascript Engine.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 10199</span>
+						<span>🔱 1064</span>
+					</div>
+				<div class="stars-today">⭐ 334 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 20351</span>
+						<span>🔱 1685</span>
+					</div>
+				<div class="stars-today">⭐ 781 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
+    
+
+
+      
+        iptv-org /
+
+      iptv</a></p>
+				<p>
+      Collection of publicly available IPTV channels from all over the world
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 107546</span>
+						<span>🔱 5123</span>
+					</div>
+				<div class="stars-today">⭐ 1154 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates</a></p>
+				<p>
+      CLI tool for configuring and monitoring Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 159470</span>
-						<span>🔱 29659</span>
+						<span>⭐ 14132</span>
+						<span>🔱 1218</span>
 					</div>
-				<div class="stars-today">⭐ 343 stars this week</div>
+				<div class="stars-today">⭐ 1117 stars this week</div>
 				</div>
 			</div>
 	
@@ -312,10 +204,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4211</span>
-						<span>🔱 138</span>
+						<span>⭐ 4219</span>
+						<span>🔱 139</span>
 					</div>
 				<div class="stars-today">⭐ 1353 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+    
+
+
+      
+        exo-explore /
+
+      exo</a></p>
+				<p>
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38954</span>
+						<span>🔱 2618</span>
+					</div>
+				<div class="stars-today">⭐ 2513 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 44063</span>
+						<span>🔱 3785</span>
+					</div>
+				<div class="stars-today">⭐ 2607 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Fabric" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Fabric</a></p>
+				<p>
+      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 37350</span>
+						<span>🔱 3735</span>
+					</div>
+				<div class="stars-today">⭐ 1389 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
+    
+
+
+      
+        AUTOMATIC1111 /
+
+      stable-diffusion-webui</a></p>
+				<p>
+      Stable Diffusion web UI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 159472</span>
+						<span>🔱 29660</span>
+					</div>
+				<div class="stars-today">⭐ 343 stars this week</div>
 				</div>
 			</div>
 	

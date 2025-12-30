@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025-12-30
-date: 2025-12-30T09:58:36Z
+date: 2025-12-30T11:58:59Z
 categories:
 - daily
 keywords:
@@ -14,70 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
-    
-
-
-      
-        QuantConnect /
-
-      Lean</a></p>
-				<p>
-      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 15032</span>
-						<span>🔱 4111</span>
-					</div>
-				<div class="stars-today">⭐ 383 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RustPython/RustPython" target="_blank">
-    
-
-
-      
-        RustPython /
-
-      RustPython</a></p>
-				<p>
-      A Python Interpreter written in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21417</span>
-						<span>🔱 1389</span>
-					</div>
-				<div class="stars-today">⭐ 228 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 20345</span>
-						<span>🔱 1686</span>
-					</div>
-				<div class="stars-today">⭐ 234 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
@@ -94,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 8220</span>
-						<span>🔱 801</span>
+						<span>⭐ 8322</span>
+						<span>🔱 804</span>
 					</div>
-				<div class="stars-today">⭐ 827 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
-    
-
-
-      
-        gitroomhq /
-
-      postiz-app</a></p>
-				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25566</span>
-						<span>🔱 4322</span>
-					</div>
-				<div class="stars-today">⭐ 63 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
-    
-
-
-      
-        sansan0 /
-
-      TrendRadar</a></p>
-				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41542</span>
-						<span>🔱 21098</span>
-					</div>
-				<div class="stars-today">⭐ 296 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sinelaw/fresh" target="_blank">
-    
-
-
-      
-        sinelaw /
-
-      fresh</a></p>
-				<p>
-      Text editor for your terminal: easy, powerful and fast
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4211</span>
-						<span>🔱 138</span>
-					</div>
-				<div class="stars-today">⭐ 386 stars today</div>
+				<div class="stars-today">⭐ 580 stars today</div>
 				</div>
 			</div>
 	
@@ -182,32 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 103733</span>
-						<span>🔱 27548</span>
+						<span>⭐ 103791</span>
+						<span>🔱 27562</span>
 					</div>
-				<div class="stars-today">⭐ 386 stars today</div>
+				<div class="stars-today">⭐ 658 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stirling-Tools/Stirling-PDF" target="_blank">
+				<p><a href="https://github.com/QuantConnect/Lean" target="_blank">
     
 
 
       
-        Stirling-Tools /
+        QuantConnect /
 
-      Stirling-PDF</a></p>
+      Lean</a></p>
 				<p>
-      #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+      Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 72202</span>
-						<span>🔱 6126</span>
+						<span>🔠 C#</span>
+						<span>⭐ 15059</span>
+						<span>🔱 4111</span>
 					</div>
-				<div class="stars-today">⭐ 108 stars today</div>
+				<div class="stars-today">⭐ 437 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jrouwe/JoltPhysics" target="_blank">
+    
+
+
+      
+        jrouwe /
+
+      JoltPhysics</a></p>
+				<p>
+      A multi core friendly rigid body physics and collision detection library. Written in C++. Suitable for games and VR applications. Used by Horizon Forbidden West.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8930</span>
+						<span>🔱 606</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/timescale/pg-aiguide" target="_blank">
+    
+
+
+      
+        timescale /
+
+      pg-aiguide</a></p>
+				<p>
+      MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 618</span>
+						<span>🔱 36</span>
+					</div>
+				<div class="stars-today">⭐ 382 stars today</div>
 				</div>
 			</div>
 	
@@ -226,96 +140,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19378</span>
-						<span>🔱 2534</span>
+						<span>⭐ 19424</span>
+						<span>🔱 2538</span>
 					</div>
-				<div class="stars-today">⭐ 654 stars today</div>
+				<div class="stars-today">⭐ 600 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/antiwork/gumroad" target="_blank">
+				<p><a href="https://github.com/RustPython/RustPython" target="_blank">
     
 
 
       
-        antiwork /
+        RustPython /
 
-      gumroad</a></p>
+      RustPython</a></p>
 				<p>
-      Sell stuff and see what sticks
+      A Python Interpreter written in Rust
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 8001</span>
-						<span>🔱 1532</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 21426</span>
+						<span>🔱 1390</span>
 					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
+				<div class="stars-today">⭐ 193 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheAlgorithms/Python" target="_blank">
+				<p><a href="https://github.com/sinelaw/fresh" target="_blank">
     
 
 
       
-        TheAlgorithms /
+        sinelaw /
 
-      Python</a></p>
+      fresh</a></p>
 				<p>
-      All Algorithms implemented in Python
+      Text editor for your terminal: easy, powerful and fast
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4219</span>
+						<span>🔱 139</span>
+					</div>
+				<div class="stars-today">⭐ 262 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alexta69/metube" target="_blank">
+    
+
+
+      
+        alexta69 /
+
+      metube</a></p>
+				<p>
+      Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 216211</span>
-						<span>🔱 49801</span>
+						<span>⭐ 11373</span>
+						<span>🔱 769</span>
 					</div>
-				<div class="stars-today">⭐ 337 stars today</div>
+				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vanilla-wiiu/vanilla" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        vanilla-wiiu /
+        anthropics /
 
-      vanilla</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 1520</span>
-						<span>🔱 57</span>
-					</div>
-				<div class="stars-today">⭐ 114 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
-    
-
-
-      
-        jellyfin /
-
-      jellyfin</a></p>
+      skills</a></p>
 				<p>
-      The Free Software Media System - Server Backend & API
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 47157</span>
-						<span>🔱 4268</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29790</span>
+						<span>🔱 2722</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 974 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9264</span>
+						<span>🔱 650</span>
+					</div>
+				<div class="stars-today">⭐ 138 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 44063</span>
+						<span>🔱 3785</span>
+					</div>
+				<div class="stars-today">⭐ 501 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/louislam/uptime-kuma" target="_blank">
+    
+
+
+      
+        louislam /
+
+      uptime-kuma</a></p>
+				<p>
+      A fancy self-hosted monitoring tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 80366</span>
+						<span>🔱 7169</span>
+					</div>
+				<div class="stars-today">⭐ 56 stars today</div>
 				</div>
 			</div>
 	
