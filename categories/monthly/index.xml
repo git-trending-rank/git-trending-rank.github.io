@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 31 Dec 2025 09:58:38 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 31 Dec 2025 11:58:37 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2025年12月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B412%E6%9C%88/</link>
-        <pubDate>Wed, 31 Dec 2025 09:58:38 +0000</pubDate>
+        <pubDate>Wed, 31 Dec 2025 11:58:37 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2025%E5%B9%B412%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,28 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/DayuanJiang/next-ai-draw-io&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 15882&lt;/span&gt;
-						&lt;span&gt;🔱 1653&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14840 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
@@ -55,10 +33,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9701&lt;/span&gt;
+						&lt;span&gt;⭐ 9714&lt;/span&gt;
 						&lt;span&gt;🔱 587&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9156 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/basecamp/fizzy&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        basecamp /
+
+      fizzy&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Kanban as it should be. Not as it has been.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Ruby&lt;/span&gt;
+						&lt;span&gt;⭐ 6411&lt;/span&gt;
+						&lt;span&gt;🔱 824&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6430 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/DayuanJiang/next-ai-draw-io&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 15893&lt;/span&gt;
+						&lt;span&gt;🔱 1653&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14840 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,32 +99,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 39058&lt;/span&gt;
+						&lt;span&gt;⭐ 39068&lt;/span&gt;
 						&lt;span&gt;🔱 2625&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6475 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/simstudioai/sim&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        simstudioai /
-
-      sim&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open-source platform to build and deploy AI agent workflows.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 24745&lt;/span&gt;
-						&lt;span&gt;🔱 3084&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6262 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,32 +121,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13588&lt;/span&gt;
-						&lt;span&gt;🔱 1432&lt;/span&gt;
+						&lt;span&gt;⭐ 13596&lt;/span&gt;
+						&lt;span&gt;🔱 1433&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8501 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/simstudioai/sim&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        rustfs /
+        simstudioai /
 
-      rustfs&lt;/a&gt;&lt;/p&gt;
+      sim&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+      Open-source platform to build and deploy AI agent workflows.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 18729&lt;/span&gt;
-						&lt;span&gt;🔱 804&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 24748&lt;/span&gt;
+						&lt;span&gt;🔱 3085&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7027 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6262 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,76 +165,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 44743&lt;/span&gt;
-						&lt;span&gt;🔱 3851&lt;/span&gt;
+						&lt;span&gt;⭐ 44777&lt;/span&gt;
+						&lt;span&gt;🔱 3855&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9993 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/agentsmd/agents.md&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        agentsmd /
-
-      agents.md&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AGENTS.md — a simple, open format for guiding coding agents
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13633&lt;/span&gt;
-						&lt;span&gt;🔱 966&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4954 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Tencent/WeKnora&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Tencent /
-
-      WeKnora&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 10682&lt;/span&gt;
-						&lt;span&gt;🔱 1145&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2964 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-quickstarts&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13039&lt;/span&gt;
-						&lt;span&gt;🔱 2174&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2592 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,10 +187,120 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19808&lt;/span&gt;
-						&lt;span&gt;🔱 2588&lt;/span&gt;
+						&lt;span&gt;⭐ 19843&lt;/span&gt;
+						&lt;span&gt;🔱 2591&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4747 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rustfs/rustfs&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        rustfs /
+
+      rustfs&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 18740&lt;/span&gt;
+						&lt;span&gt;🔱 804&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7027 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Tencent/WeKnora&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Tencent /
+
+      WeKnora&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 10690&lt;/span&gt;
+						&lt;span&gt;🔱 1146&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2964 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/agentsmd/agents.md&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        agentsmd /
+
+      agents.md&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AGENTS.md — a simple, open format for guiding coding agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 13638&lt;/span&gt;
+						&lt;span&gt;🔱 966&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4954 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-quickstarts&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13042&lt;/span&gt;
+						&lt;span&gt;🔱 2175&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2592 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/trustedsec/social-engineer-toolkit&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        trustedsec /
+
+      social-engineer-toolkit&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 14260&lt;/span&gt;
+						&lt;span&gt;🔱 3240&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1632 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,7 +319,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 5524&lt;/span&gt;
+						&lt;span&gt;⭐ 5528&lt;/span&gt;
 						&lt;span&gt;🔱 412&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2059 stars this month&lt;/div&gt;
@@ -297,8 +341,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Zig&lt;/span&gt;
-						&lt;span&gt;⭐ 85796&lt;/span&gt;
-						&lt;span&gt;🔱 3864&lt;/span&gt;
+						&lt;span&gt;⭐ 85803&lt;/span&gt;
+						&lt;span&gt;🔱 3865&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3552 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -319,8 +363,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 50019&lt;/span&gt;
-						&lt;span&gt;🔱 3543&lt;/span&gt;
+						&lt;span&gt;⭐ 50032&lt;/span&gt;
+						&lt;span&gt;🔱 3545&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6111 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -341,32 +385,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2688&lt;/span&gt;
-						&lt;span&gt;🔱 495&lt;/span&gt;
+						&lt;span&gt;⭐ 2698&lt;/span&gt;
+						&lt;span&gt;🔱 496&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1542 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/FunAudioLLM/CosyVoice&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/skills&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        FunAudioLLM /
+        anthropics /
 
-      CosyVoice&lt;/a&gt;&lt;/p&gt;
+      skills&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+      Public repository for Agent Skills
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 18653&lt;/span&gt;
-						&lt;span&gt;🔱 2074&lt;/span&gt;
+						&lt;span&gt;⭐ 30676&lt;/span&gt;
+						&lt;span&gt;🔱 2795&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1238 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11266 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
