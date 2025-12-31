@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年第1周
-date: 2025-12-31T09:58:38Z
+date: 2025-12-31T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13490</span>
+						<span>⭐ 13506</span>
 						<span>🔱 910</span>
 					</div>
 				<div class="stars-today">⭐ 7905 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30622</span>
-						<span>🔱 2792</span>
-					</div>
-				<div class="stars-today">⭐ 4232 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19808</span>
-						<span>🔱 2588</span>
+						<span>⭐ 19843</span>
+						<span>🔱 2591</span>
 					</div>
 				<div class="stars-today">⭐ 2779 stars this week</div>
 				</div>
@@ -96,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 9739</span>
-						<span>🔱 884</span>
+						<span>⭐ 9857</span>
+						<span>🔱 898</span>
 					</div>
 				<div class="stars-today">⭐ 1599 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bellard/quickjs" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        bellard /
+        anthropics /
 
-      quickjs</a></p>
+      skills</a></p>
 				<p>
-      Public repository of the QuickJS Javascript Engine.
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 10224</span>
-						<span>🔱 1066</span>
+						<span>🔠 Python</span>
+						<span>⭐ 30676</span>
+						<span>🔱 2795</span>
 					</div>
-				<div class="stars-today">⭐ 322 stars this week</div>
+				<div class="stars-today">⭐ 4232 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xerrors/Yuxi-Know" target="_blank">
+    
+
+
+      
+        xerrors /
+
+      Yuxi-Know</a></p>
+				<p>
+      结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3648</span>
+						<span>🔱 438</span>
+					</div>
+				<div class="stars-today">⭐ 649 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,10 +138,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 20413</span>
+						<span>⭐ 20416</span>
 						<span>🔱 1693</span>
 					</div>
 				<div class="stars-today">⭐ 863 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Personal AI Infrastructure for upgrading humans.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2698</span>
+						<span>🔱 496</span>
+					</div>
+				<div class="stars-today">⭐ 793 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
+    
+
+
+      
+        sst /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 44777</span>
+						<span>🔱 3855</span>
+					</div>
+				<div class="stars-today">⭐ 2764 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42519</span>
+						<span>🔱 3161</span>
+					</div>
+				<div class="stars-today">⭐ 1500 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 107834</span>
-						<span>🔱 5149</span>
+						<span>⭐ 107856</span>
+						<span>🔱 5152</span>
 					</div>
 				<div class="stars-today">⭐ 969 stars this week</div>
 				</div>
@@ -182,32 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14255</span>
-						<span>🔱 1228</span>
+						<span>⭐ 14271</span>
+						<span>🔱 1229</span>
 					</div>
 				<div class="stars-today">⭐ 978 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
     
 
 
       
-        danielmiessler /
+        gitroomhq /
 
-      Personal_AI_Infrastructure</a></p>
+      postiz-app</a></p>
 				<p>
-      Personal AI Infrastructure for upgrading humans.
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2688</span>
-						<span>🔱 495</span>
+						<span>⭐ 25634</span>
+						<span>🔱 4334</span>
 					</div>
-				<div class="stars-today">⭐ 793 stars this week</div>
+				<div class="stars-today">⭐ 689 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,98 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4430</span>
-						<span>🔱 144</span>
+						<span>⭐ 4438</span>
+						<span>🔱 145</span>
 					</div>
 				<div class="stars-today">⭐ 1572 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+				<p><a href="https://github.com/ModelTC/LightX2V" target="_blank">
     
 
 
       
-        exo-explore /
+        ModelTC /
 
-      exo</a></p>
+      LightX2V</a></p>
 				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+      Light Image Video Generation Inference Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39058</span>
-						<span>🔱 2625</span>
+						<span>⭐ 1627</span>
+						<span>🔱 115</span>
 					</div>
-				<div class="stars-today">⭐ 1309 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 44743</span>
-						<span>🔱 3851</span>
-					</div>
-				<div class="stars-today">⭐ 2764 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Fabric" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Fabric</a></p>
-				<p>
-      Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 37440</span>
-						<span>🔱 3747</span>
-					</div>
-				<div class="stars-today">⭐ 1118 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">
-    
-
-
-      
-        AUTOMATIC1111 /
-
-      stable-diffusion-webui</a></p>
-				<p>
-      Stable Diffusion web UI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 159505</span>
-						<span>🔱 29667</span>
-					</div>
-				<div class="stars-today">⭐ 351 stars this week</div>
+				<div class="stars-today">⭐ 333 stars this week</div>
 				</div>
 			</div>
 	

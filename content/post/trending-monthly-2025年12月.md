@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2025年12月
-date: 2025-12-31T09:58:38Z
+date: 2025-12-31T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15882</span>
-						<span>🔱 1653</span>
-					</div>
-				<div class="stars-today">⭐ 14840 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
@@ -52,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9701</span>
+						<span>⭐ 9714</span>
 						<span>🔱 587</span>
 					</div>
 				<div class="stars-today">⭐ 9156 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/fizzy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      fizzy</a></p>
+				<p>
+      Kanban as it should be. Not as it has been.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 6411</span>
+						<span>🔱 824</span>
+					</div>
+				<div class="stars-today">⭐ 6430 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15893</span>
+						<span>🔱 1653</span>
+					</div>
+				<div class="stars-today">⭐ 14840 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39058</span>
+						<span>⭐ 39068</span>
 						<span>🔱 2625</span>
 					</div>
 				<div class="stars-today">⭐ 6475 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24745</span>
-						<span>🔱 3084</span>
-					</div>
-				<div class="stars-today">⭐ 6262 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13588</span>
-						<span>🔱 1432</span>
+						<span>⭐ 13596</span>
+						<span>🔱 1433</span>
 					</div>
 				<div class="stars-today">⭐ 8501 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        rustfs /
+        simstudioai /
 
-      rustfs</a></p>
+      sim</a></p>
 				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+      Open-source platform to build and deploy AI agent workflows.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18729</span>
-						<span>🔱 804</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24748</span>
+						<span>🔱 3085</span>
 					</div>
-				<div class="stars-today">⭐ 7027 stars this month</div>
+				<div class="stars-today">⭐ 6262 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44743</span>
-						<span>🔱 3851</span>
+						<span>⭐ 44777</span>
+						<span>🔱 3855</span>
 					</div>
 				<div class="stars-today">⭐ 9993 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13633</span>
-						<span>🔱 966</span>
-					</div>
-				<div class="stars-today">⭐ 4954 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10682</span>
-						<span>🔱 1145</span>
-					</div>
-				<div class="stars-today">⭐ 2964 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-quickstarts</a></p>
-				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13039</span>
-						<span>🔱 2174</span>
-					</div>
-				<div class="stars-today">⭐ 2592 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19808</span>
-						<span>🔱 2588</span>
+						<span>⭐ 19843</span>
+						<span>🔱 2591</span>
 					</div>
 				<div class="stars-today">⭐ 4747 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18740</span>
+						<span>🔱 804</span>
+					</div>
+				<div class="stars-today">⭐ 7027 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 10690</span>
+						<span>🔱 1146</span>
+					</div>
+				<div class="stars-today">⭐ 2964 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13638</span>
+						<span>🔱 966</span>
+					</div>
+				<div class="stars-today">⭐ 4954 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-quickstarts</a></p>
+				<p>
+      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13042</span>
+						<span>🔱 2175</span>
+					</div>
+				<div class="stars-today">⭐ 2592 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+    
+
+
+      
+        trustedsec /
+
+      social-engineer-toolkit</a></p>
+				<p>
+      The Social-Engineer Toolkit (SET) repository from TrustedSec - All new versions of SET will be deployed here.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14260</span>
+						<span>🔱 3240</span>
+					</div>
+				<div class="stars-today">⭐ 1632 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5524</span>
+						<span>⭐ 5528</span>
 						<span>🔱 412</span>
 					</div>
 				<div class="stars-today">⭐ 2059 stars this month</div>
@@ -294,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 85796</span>
-						<span>🔱 3864</span>
+						<span>⭐ 85803</span>
+						<span>🔱 3865</span>
 					</div>
 				<div class="stars-today">⭐ 3552 stars this month</div>
 				</div>
@@ -316,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 50019</span>
-						<span>🔱 3543</span>
+						<span>⭐ 50032</span>
+						<span>🔱 3545</span>
 					</div>
 				<div class="stars-today">⭐ 6111 stars this month</div>
 				</div>
@@ -338,32 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2688</span>
-						<span>🔱 495</span>
+						<span>⭐ 2698</span>
+						<span>🔱 496</span>
 					</div>
 				<div class="stars-today">⭐ 1542 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FunAudioLLM/CosyVoice" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        FunAudioLLM /
+        anthropics /
 
-      CosyVoice</a></p>
+      skills</a></p>
 				<p>
-      Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18653</span>
-						<span>🔱 2074</span>
+						<span>⭐ 30676</span>
+						<span>🔱 2795</span>
 					</div>
-				<div class="stars-today">⭐ 1238 stars this month</div>
+				<div class="stars-today">⭐ 11266 stars this month</div>
 				</div>
 			</div>
 	
