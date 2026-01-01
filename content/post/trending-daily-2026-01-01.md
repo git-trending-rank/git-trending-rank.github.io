@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-01
-date: 2026-01-01T09:58:45Z
+date: 2026-01-01T11:59:00Z
 categories:
 - daily
 keywords:
@@ -16,66 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
+				<p><a href="https://github.com/awslabs/amazon-bedrock-agentcore-samples" target="_blank">
     
 
 
       
-        afkarxyz /
+        awslabs /
 
-      SpotiFLAC</a></p>
+      amazon-bedrock-agentcore-samples</a></p>
 				<p>
-      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+      Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1692</span>
-						<span>🔱 96</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 1897</span>
+						<span>🔱 716</span>
 					</div>
-				<div class="stars-today">⭐ 341 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/computer-use-preview" target="_blank">
-    
-
-
-      
-        google-gemini /
-
-      computer-use-preview</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2391</span>
-						<span>🔱 308</span>
-					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
-    
-
-
-      
-        harvard-edge /
-
-      cs249r_book</a></p>
-				<p>
-      Introduction to Machine Learning Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14133</span>
-						<span>🔱 1610</span>
-					</div>
-				<div class="stars-today">⭐ 1145 stars today</div>
+				<div class="stars-today">⭐ 219 stars today</div>
 				</div>
 			</div>
 	
@@ -94,76 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10330</span>
-						<span>🔱 933</span>
+						<span>⭐ 10390</span>
+						<span>🔱 937</span>
 					</div>
-				<div class="stars-today">⭐ 1546 stars today</div>
+				<div class="stars-today">⭐ 541 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/timescale/pg-aiguide" target="_blank">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
     
 
 
       
-        timescale /
+        usememos /
 
-      pg-aiguide</a></p>
+      memos</a></p>
 				<p>
-      MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1070</span>
-						<span>🔱 55</span>
+						<span>🔠 Go</span>
+						<span>⭐ 47756</span>
+						<span>🔱 3443</span>
 					</div>
-				<div class="stars-today">⭐ 314 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sansan0/TrendRadar" target="_blank">
-    
-
-
-      
-        sansan0 /
-
-      TrendRadar</a></p>
-				<p>
-      🎯 告别信息过载，AI 助你看懂新闻资讯热点，支持 RSS 订阅，简单的舆情监控分析 - 多平台热点聚合+基于 MCP 的AI分析工具。监控35个平台（抖音、知乎、B站、华尔街见闻、财联社等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等20种工具）。支持企业微信/个人微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 推送，30秒快速部署，1分钟手机通知，无需编程。支持Docker部署，支持数据远程云存储⭐ 让算法为你服务，用AI理解热点
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41844</span>
-						<span>🔱 21143</span>
-					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-cookbook</a></p>
-				<p>
-      Examples and guides for using the OpenAI API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 70246</span>
-						<span>🔱 11801</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
+				<div class="stars-today">⭐ 81 stars today</div>
 				</div>
 			</div>
 	
@@ -182,54 +96,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 12646</span>
+						<span>⭐ 12666</span>
 						<span>🔱 1268</span>
 					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
+				<div class="stars-today">⭐ 232 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
     
 
 
       
-        resemble-ai /
+        afkarxyz /
 
-      chatterbox</a></p>
+      SpotiFLAC</a></p>
 				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20030</span>
-						<span>🔱 2613</span>
-					</div>
-				<div class="stars-today">⭐ 436 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
-    
-
-
-      
-        nocodb /
-
-      nocodb</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source Airtable Alternative
+      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 59671</span>
-						<span>🔱 4427</span>
+						<span>⭐ 1721</span>
+						<span>🔱 98</span>
 					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
+				<div class="stars-today">⭐ 437 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HQarroum/docker-android" target="_blank">
+    
+
+
+      
+        HQarroum /
+
+      docker-android</a></p>
+				<p>
+      🤖 A minimal and customizable Docker image running the Android emulator as a service.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 944</span>
+						<span>🔱 65</span>
+					</div>
+				<div class="stars-today">⭐ 304 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
+    
+
+
+      
+        harvard-edge /
+
+      cs249r_book</a></p>
+				<p>
+      Introduction to Machine Learning Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14177</span>
+						<span>🔱 1612</span>
+					</div>
+				<div class="stars-today">⭐ 652 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Polymarket/agents" target="_blank">
+    
+
+
+      
+        Polymarket /
+
+      agents</a></p>
+				<p>
+      Trade autonomously on Polymarket using AI Agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1276</span>
+						<span>🔱 352</span>
+					</div>
+				<div class="stars-today">⭐ 66 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
+    
+
+
+      
+        HandsOnLLM /
+
+      Hands-On-Large-Language-Models</a></p>
+				<p>
+      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 19267</span>
+						<span>🔱 4592</span>
+					</div>
+				<div class="stars-today">⭐ 101 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yichuan-w/LEANN" target="_blank">
+    
+
+
+      
+        yichuan-w /
+
+      LEANN</a></p>
+				<p>
+      RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7576</span>
+						<span>🔱 699</span>
+					</div>
+				<div class="stars-today">⭐ 638 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/livekit/agents" target="_blank">
+    
+
+
+      
+        livekit /
+
+      agents</a></p>
+				<p>
+      A powerful framework for building realtime voice AI agents 🤖🎙️📹 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8663</span>
+						<span>🔱 2307</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15989</span>
+						<span>🔱 1659</span>
+					</div>
+				<div class="stars-today">⭐ 95 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第1周
-date: 2026-01-01T09:58:45Z
+date: 2026-01-01T11:59:00Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,68 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
     
 
 
       
-        rendercv /
+        BloopAI /
 
-      rendercv</a></p>
+      vibe-kanban</a></p>
 				<p>
-      CV/resume generator for academics and engineers, YAML to PDF
+      Get 10X more out of Claude Code, Codex or any coding agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13645</span>
-						<span>🔱 922</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 10390</span>
+						<span>🔱 937</span>
 					</div>
-				<div class="stars-today">⭐ 5369 stars this week</div>
+				<div class="stars-today">⭐ 3197 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/antvis/Infographic" target="_blank">
+    
+
+
+      
+        antvis /
+
+      Infographic</a></p>
+				<p>
+      🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2266</span>
+						<span>🔱 150</span>
+					</div>
+				<div class="stars-today">⭐ 1592 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
+    
+
+
+      
+        harvard-edge /
+
+      cs249r_book</a></p>
+				<p>
+      Introduction to Machine Learning Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14177</span>
+						<span>🔱 1612</span>
+					</div>
+				<div class="stars-today">⭐ 2647 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20030</span>
-						<span>🔱 2613</span>
+						<span>⭐ 20045</span>
+						<span>🔱 2614</span>
 					</div>
 				<div class="stars-today">⭐ 2858 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
     
 
 
       
-        BloopAI /
+        rendercv /
 
-      vibe-kanban</a></p>
+      rendercv</a></p>
 				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
+      CV/resume generator for academics and engineers, YAML to PDF
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 10330</span>
-						<span>🔱 933</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13658</span>
+						<span>🔱 923</span>
 					</div>
-				<div class="stars-today">⭐ 3197 stars this week</div>
+				<div class="stars-today">⭐ 5369 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31138</span>
-						<span>🔱 2830</span>
+						<span>⭐ 31175</span>
+						<span>🔱 2832</span>
 					</div>
 				<div class="stars-today">⭐ 4478 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xerrors/Yuxi-Know" target="_blank">
+				<p><a href="https://github.com/alexta69/metube" target="_blank">
     
 
 
       
-        xerrors /
+        alexta69 /
 
-      Yuxi-Know</a></p>
+      metube</a></p>
 				<p>
-      结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
+      Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3678</span>
-						<span>🔱 439</span>
+						<span>⭐ 11722</span>
+						<span>🔱 793</span>
 					</div>
-				<div class="stars-today">⭐ 645 stars this week</div>
+				<div class="stars-today">⭐ 483 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,54 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 20443</span>
-						<span>🔱 1698</span>
+						<span>⭐ 20445</span>
+						<span>🔱 1699</span>
 					</div>
 				<div class="stars-today">⭐ 897 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
+				<p><a href="https://github.com/antiwork/gumroad" target="_blank">
     
 
 
       
-        sst /
+        antiwork /
 
-      opencode</a></p>
+      gumroad</a></p>
 				<p>
-      The open source coding agent.
+      Sell stuff and see what sticks
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 45026</span>
-						<span>🔱 3879</span>
+						<span>🔠 Ruby</span>
+						<span>⭐ 8017</span>
+						<span>🔱 1547</span>
 					</div>
-				<div class="stars-today">⭐ 3110 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
-    
-
-
-      
-        makeplane /
-
-      plane</a></p>
-				<p>
-      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42628</span>
-						<span>🔱 3173</span>
-					</div>
-				<div class="stars-today">⭐ 1293 stars this week</div>
+				<div class="stars-today">⭐ 214 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,98 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 108023</span>
-						<span>🔱 5162</span>
+						<span>⭐ 108041</span>
+						<span>🔱 5165</span>
 					</div>
 				<div class="stars-today">⭐ 1142 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+				<p><a href="https://github.com/sst/opencode" target="_blank">
     
 
 
       
-        davila7 /
+        sst /
 
-      claude-code-templates</a></p>
+      opencode</a></p>
 				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14341</span>
-						<span>🔱 1237</span>
-					</div>
-				<div class="stars-today">⭐ 766 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
-    
-
-
-      
-        gitroomhq /
-
-      postiz-app</a></p>
-				<p>
-      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25692</span>
-						<span>🔱 4344</span>
+						<span>⭐ 45050</span>
+						<span>🔱 3881</span>
 					</div>
-				<div class="stars-today">⭐ 723 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sinelaw/fresh" target="_blank">
-    
-
-
-      
-        sinelaw /
-
-      fresh</a></p>
-				<p>
-      Text editor for your terminal: easy, powerful and fast
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4486</span>
-						<span>🔱 148</span>
-					</div>
-				<div class="stars-today">⭐ 1765 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ModelTC/LightX2V" target="_blank">
-    
-
-
-      
-        ModelTC /
-
-      LightX2V</a></p>
-				<p>
-      Light Image Video Generation Inference Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1647</span>
-						<span>🔱 117</span>
-					</div>
-				<div class="stars-today">⭐ 335 stars this week</div>
+				<div class="stars-today">⭐ 3110 stars this week</div>
 				</div>
 			</div>
 	
