@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第1周
-date: 2026-01-01T05:59:40Z
+date: 2026-01-01T07:58:52Z
 categories:
 - weekly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13616</span>
+						<span>⭐ 13629</span>
 						<span>🔱 919</span>
 					</div>
 				<div class="stars-today">⭐ 5369 stars this week</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19996</span>
-						<span>🔱 2611</span>
+						<span>⭐ 20014</span>
+						<span>🔱 2612</span>
 					</div>
 				<div class="stars-today">⭐ 2858 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 10228</span>
-						<span>🔱 925</span>
+						<span>⭐ 10273</span>
+						<span>🔱 930</span>
 					</div>
 				<div class="stars-today">⭐ 3197 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31060</span>
-						<span>🔱 2827</span>
+						<span>⭐ 31099</span>
+						<span>🔱 2828</span>
 					</div>
 				<div class="stars-today">⭐ 4478 stars this week</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3667</span>
+						<span>⭐ 3673</span>
 						<span>🔱 439</span>
 					</div>
 				<div class="stars-today">⭐ 645 stars this week</div>
@@ -138,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 20439</span>
-						<span>🔱 1696</span>
+						<span>⭐ 20440</span>
+						<span>🔱 1697</span>
 					</div>
 				<div class="stars-today">⭐ 897 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Personal AI Infrastructure for upgrading humans.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2792</span>
-						<span>🔱 509</span>
-					</div>
-				<div class="stars-today">⭐ 772 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44978</span>
-						<span>🔱 3876</span>
+						<span>⭐ 44996</span>
+						<span>🔱 3878</span>
 					</div>
 				<div class="stars-today">⭐ 3110 stars this week</div>
 				</div>
@@ -204,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42612</span>
-						<span>🔱 3171</span>
+						<span>⭐ 42620</span>
+						<span>🔱 3172</span>
 					</div>
 				<div class="stars-today">⭐ 1293 stars this week</div>
 				</div>
@@ -226,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 107999</span>
+						<span>⭐ 108012</span>
 						<span>🔱 5162</span>
 					</div>
 				<div class="stars-today">⭐ 1142 stars this week</div>
@@ -248,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14326</span>
-						<span>🔱 1236</span>
+						<span>⭐ 14337</span>
+						<span>🔱 1237</span>
 					</div>
 				<div class="stars-today">⭐ 766 stars this week</div>
 				</div>
@@ -270,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25686</span>
+						<span>⭐ 25689</span>
 						<span>🔱 4344</span>
 					</div>
 				<div class="stars-today">⭐ 723 stars this week</div>
@@ -292,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 4478</span>
-						<span>🔱 147</span>
+						<span>⭐ 4480</span>
+						<span>🔱 148</span>
 					</div>
 				<div class="stars-today">⭐ 1765 stars this week</div>
 				</div>
@@ -314,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1643</span>
+						<span>⭐ 1645</span>
 						<span>🔱 116</span>
 					</div>
 				<div class="stars-today">⭐ 335 stars this week</div>
