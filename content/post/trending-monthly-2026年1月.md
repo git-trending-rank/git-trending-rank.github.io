@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-02T09:58:37Z
+date: 2026-01-02T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9919</span>
+						<span>⭐ 9926</span>
 						<span>🔱 605</span>
 					</div>
 				<div class="stars-today">⭐ 9400 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16304</span>
-						<span>🔱 1681</span>
+						<span>⭐ 16326</span>
+						<span>🔱 1684</span>
 					</div>
 				<div class="stars-today">⭐ 14681 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/fizzy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      fizzy</a></p>
-				<p>
-      Kanban as it should be. Not as it has been.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 6471</span>
-						<span>🔱 831</span>
-					</div>
-				<div class="stars-today">⭐ 6467 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39212</span>
+						<span>⭐ 39218</span>
 						<span>🔱 2645</span>
 					</div>
 				<div class="stars-today">⭐ 6634 stars this month</div>
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24836</span>
+						<span>⭐ 24840</span>
 						<span>🔱 3104</span>
 					</div>
 				<div class="stars-today">⭐ 6337 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20184</span>
-						<span>🔱 2635</span>
-					</div>
-				<div class="stars-today">⭐ 5335 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13766</span>
+						<span>⭐ 13772</span>
 						<span>🔱 1461</span>
 					</div>
 				<div class="stars-today">⭐ 8432 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20198</span>
+						<span>🔱 2636</span>
+					</div>
+				<div class="stars-today">⭐ 5335 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 11101</span>
+						<span>🔱 1000</span>
+					</div>
+				<div class="stars-today">⭐ 4376 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/fizzy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      fizzy</a></p>
+				<p>
+      Kanban as it should be. Not as it has been.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 6479</span>
+						<span>🔱 832</span>
+					</div>
+				<div class="stars-today">⭐ 6467 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45391</span>
+						<span>⭐ 45428</span>
 						<span>🔱 3926</span>
 					</div>
 				<div class="stars-today">⭐ 10740 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18881</span>
-						<span>🔱 811</span>
-					</div>
-				<div class="stars-today">⭐ 7145 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13816</span>
-						<span>🔱 976</span>
+						<span>⭐ 13832</span>
+						<span>🔱 977</span>
 					</div>
 				<div class="stars-today">⭐ 5072 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10755</span>
-						<span>🔱 1154</span>
+						<span>⭐ 10757</span>
+						<span>🔱 1155</span>
 					</div>
 				<div class="stars-today">⭐ 3059 stars this month</div>
 				</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13110</span>
-						<span>🔱 2181</span>
+						<span>⭐ 13112</span>
+						<span>🔱 2182</span>
 					</div>
 				<div class="stars-today">⭐ 2617 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 11029</span>
-						<span>🔱 992</span>
-					</div>
-				<div class="stars-today">⭐ 4376 stars this month</div>
 				</div>
 			</div>
 	
@@ -324,28 +302,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm-omni" target="_blank">
-    
-
-
-      
-        vllm-project /
-
-      vllm-omni</a></p>
-				<p>
-      A framework for efficient model inference with omni-modality models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1929</span>
-						<span>🔱 243</span>
-					</div>
-				<div class="stars-today">⭐ 1824 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
@@ -360,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31581</span>
-						<span>🔱 2862</span>
+						<span>⭐ 31622</span>
+						<span>🔱 2866</span>
 					</div>
 				<div class="stars-today">⭐ 12382 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18892</span>
+						<span>🔱 811</span>
+					</div>
+				<div class="stars-today">⭐ 7145 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 50447</span>
+						<span>🔱 3598</span>
+					</div>
+				<div class="stars-today">⭐ 6332 stars this month</div>
 				</div>
 			</div>
 	

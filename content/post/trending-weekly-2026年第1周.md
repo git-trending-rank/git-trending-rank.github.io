@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第1周
-date: 2026-01-02T09:58:37Z
+date: 2026-01-02T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11029</span>
-						<span>🔱 992</span>
+						<span>⭐ 11101</span>
+						<span>🔱 1000</span>
 					</div>
 				<div class="stars-today">⭐ 3727 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/antvis/Infographic" target="_blank">
-    
-
-
-      
-        antvis /
-
-      Infographic</a></p>
-				<p>
-      🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2458</span>
-						<span>🔱 155</span>
-					</div>
-				<div class="stars-today">⭐ 1600 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
-    
-
-
-      
-        harvard-edge /
-
-      cs249r_book</a></p>
-				<p>
-      Introduction to Machine Learning Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14670</span>
-						<span>🔱 1664</span>
-					</div>
-				<div class="stars-today">⭐ 2943 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20184</span>
-						<span>🔱 2635</span>
+						<span>⭐ 20198</span>
+						<span>🔱 2636</span>
 					</div>
 				<div class="stars-today">⭐ 2596 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
-    
-
-
-      
-        rendercv /
-
-      rendercv</a></p>
-				<p>
-      CV/resume generator for academics and engineers, YAML to PDF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13812</span>
-						<span>🔱 932</span>
-					</div>
-				<div class="stars-today">⭐ 3717 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31581</span>
-						<span>🔱 2862</span>
+						<span>⭐ 31622</span>
+						<span>🔱 2866</span>
 					</div>
 				<div class="stars-today">⭐ 4237 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
+    
+
+
+      
+        harvard-edge /
+
+      cs249r_book</a></p>
+				<p>
+      Introduction to Machine Learning Systems
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14707</span>
+						<span>🔱 1669</span>
+					</div>
+				<div class="stars-today">⭐ 2943 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/antvis/Infographic" target="_blank">
+    
+
+
+      
+        antvis /
+
+      Infographic</a></p>
+				<p>
+      🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2471</span>
+						<span>🔱 157</span>
+					</div>
+				<div class="stars-today">⭐ 1600 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
+    
+
+
+      
+        afkarxyz /
+
+      SpotiFLAC</a></p>
+				<p>
+      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2007</span>
+						<span>🔱 114</span>
+					</div>
+				<div class="stars-today">⭐ 1100 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,30 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11806</span>
-						<span>🔱 796</span>
+						<span>⭐ 11811</span>
+						<span>🔱 797</span>
 					</div>
 				<div class="stars-today">⭐ 515 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 20492</span>
-						<span>🔱 1706</span>
-					</div>
-				<div class="stars-today">⭐ 889 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +184,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 8058</span>
+						<span>⭐ 8059</span>
 						<span>🔱 1552</span>
 					</div>
 				<div class="stars-today">⭐ 214 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 20496</span>
+						<span>🔱 1708</span>
+					</div>
+				<div class="stars-today">⭐ 889 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
+    
+
+
+      
+        rendercv /
+
+      rendercv</a></p>
+				<p>
+      CV/resume generator for academics and engineers, YAML to PDF
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13840</span>
+						<span>🔱 933</span>
+					</div>
+				<div class="stars-today">⭐ 3717 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 108175</span>
-						<span>🔱 5187</span>
+						<span>⭐ 108193</span>
+						<span>🔱 5188</span>
 					</div>
 				<div class="stars-today">⭐ 1185 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sst/opencode" target="_blank">
-    
-
-
-      
-        sst /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 45391</span>
-						<span>🔱 3926</span>
-					</div>
-				<div class="stars-today">⭐ 2979 stars this week</div>
 				</div>
 			</div>
 	
