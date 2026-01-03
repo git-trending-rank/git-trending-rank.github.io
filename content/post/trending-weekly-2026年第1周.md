@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第1周
-date: 2026-01-03T09:58:41Z
+date: 2026-01-03T11:58:47Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11560</span>
-						<span>🔱 1042</span>
+						<span>⭐ 11608</span>
+						<span>🔱 1045</span>
 					</div>
 				<div class="stars-today">⭐ 4424 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20331</span>
-						<span>🔱 2653</span>
-					</div>
-				<div class="stars-today">⭐ 2316 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32009</span>
-						<span>🔱 2902</span>
-					</div>
-				<div class="stars-today">⭐ 4277 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14923</span>
-						<span>🔱 1694</span>
+						<span>⭐ 14943</span>
+						<span>🔱 1695</span>
 					</div>
 				<div class="stars-today">⭐ 3444 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/antvis/Infographic" target="_blank">
-    
-
-
-      
-        antvis /
-
-      Infographic</a></p>
-				<p>
-      🦋 An Infographic Generation and Rendering Framework, bring words to life with AI!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2661</span>
-						<span>🔱 169</span>
-					</div>
-				<div class="stars-today">⭐ 1391 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2114</span>
+						<span>⭐ 2124</span>
 						<span>🔱 126</span>
 					</div>
 				<div class="stars-today">⭐ 1305 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20342</span>
+						<span>🔱 2653</span>
+					</div>
+				<div class="stars-today">⭐ 2316 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11874</span>
+						<span>⭐ 11878</span>
 						<span>🔱 804</span>
 					</div>
 				<div class="stars-today">⭐ 592 stars this week</div>
@@ -184,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 8086</span>
+						<span>⭐ 8088</span>
 						<span>🔱 1559</span>
 					</div>
 				<div class="stars-today">⭐ 251 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
+    
+
+
+      
+        usememos /
+
+      memos</a></p>
+				<p>
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 49260</span>
+						<span>🔱 3563</span>
+					</div>
+				<div class="stars-today">⭐ 1079 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +182,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Batchfile</span>
-						<span>⭐ 20525</span>
-						<span>🔱 1712</span>
+						<span>⭐ 20533</span>
+						<span>🔱 1713</span>
 					</div>
 				<div class="stars-today">⭐ 877 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32042</span>
+						<span>🔱 2907</span>
+					</div>
+				<div class="stars-today">⭐ 4277 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-gemini/computer-use-preview" target="_blank">
+    
+
+
+      
+        google-gemini /
+
+      computer-use-preview</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2453</span>
+						<span>🔱 314</span>
+					</div>
+				<div class="stars-today">⭐ 521 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,54 +246,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2977</span>
-						<span>🔱 548</span>
+						<span>⭐ 2989</span>
+						<span>🔱 550</span>
 					</div>
 				<div class="stars-today">⭐ 740 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
+				<p><a href="https://github.com/gitroomhq/postiz-app" target="_blank">
     
 
 
       
-        rendercv /
+        gitroomhq /
 
-      rendercv</a></p>
+      postiz-app</a></p>
 				<p>
-      CV/resume generator for academics and engineers, YAML to PDF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14013</span>
-						<span>🔱 948</span>
-					</div>
-				<div class="stars-today">⭐ 2071 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
+      📨 The ultimate social media scheduling tool, with a bunch of AI 🤖
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 108311</span>
-						<span>🔱 5208</span>
+						<span>⭐ 25741</span>
+						<span>🔱 4361</span>
 					</div>
-				<div class="stars-today">⭐ 1195 stars this week</div>
+				<div class="stars-today">⭐ 778 stars this week</div>
 				</div>
 			</div>
 	

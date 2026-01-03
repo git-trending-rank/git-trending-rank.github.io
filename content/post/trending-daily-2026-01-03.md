@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-03
-date: 2026-01-03T09:58:41Z
+date: 2026-01-03T11:58:47Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HQarroum/docker-android" target="_blank">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
     
 
 
       
-        HQarroum /
+        usememos /
 
-      docker-android</a></p>
+      memos</a></p>
 				<p>
-      🤖 A minimal and customizable Docker image running the Android emulator as a service.
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 1901</span>
-						<span>🔱 120</span>
+						<span>🔠 Go</span>
+						<span>⭐ 49260</span>
+						<span>🔱 3563</span>
 					</div>
-				<div class="stars-today">⭐ 474 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
-    
-
-
-      
-        nocodb /
-
-      nocodb</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source Airtable Alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 60027</span>
-						<span>🔱 4461</span>
-					</div>
-				<div class="stars-today">⭐ 112 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-cookbook</a></p>
-				<p>
-      Examples and guides for using the OpenAI API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 70483</span>
-						<span>🔱 11829</span>
-					</div>
-				<div class="stars-today">⭐ 30 stars today</div>
+				<div class="stars-today">⭐ 841 stars today</div>
 				</div>
 			</div>
 	
@@ -96,120 +52,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16146</span>
-						<span>🔱 4735</span>
+						<span>⭐ 16171</span>
+						<span>🔱 4738</span>
 					</div>
-				<div class="stars-today">⭐ 220 stars today</div>
+				<div class="stars-today">⭐ 314 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rossant/awesome-math" target="_blank">
+				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
     
 
 
       
-        rossant /
+        pathwaycom /
 
-      awesome-math</a></p>
+      pathway</a></p>
 				<p>
-      A curated list of awesome mathematics resources
+      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13052</span>
-						<span>🔱 1273</span>
+						<span>⭐ 55780</span>
+						<span>🔱 1517</span>
 					</div>
-				<div class="stars-today">⭐ 117 stars today</div>
+				<div class="stars-today">⭐ 1274 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        usememos /
+        OpenBB-finance /
 
-      memos</a></p>
+      OpenBB</a></p>
 				<p>
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 49114</span>
-						<span>🔱 3551</span>
-					</div>
-				<div class="stars-today">⭐ 661 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GitHubDaily/GitHubDaily" target="_blank">
-    
-
-
-      
-        GitHubDaily /
-
-      GitHubDaily</a></p>
-				<p>
-      坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 43958</span>
-						<span>🔱 4423</span>
-					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SYSTRAN/faster-whisper" target="_blank">
-    
-
-
-      
-        SYSTRAN /
-
-      faster-whisper</a></p>
-				<p>
-      Faster Whisper transcription with CTranslate2
+      Financial data platform for analysts, quants and AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20119</span>
-						<span>🔱 1683</span>
+						<span>⭐ 56205</span>
+						<span>🔱 5467</span>
 					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Koenkk/zigbee2mqtt" target="_blank">
+				<p><a href="https://github.com/HQarroum/docker-android" target="_blank">
     
 
 
       
-        Koenkk /
+        HQarroum /
 
-      zigbee2mqtt</a></p>
+      docker-android</a></p>
 				<p>
-      Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
+      🤖 A minimal and customizable Docker image running the Android emulator as a service.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 1942</span>
+						<span>🔱 121</span>
+					</div>
+				<div class="stars-today">⭐ 525 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/beancount/beancount" target="_blank">
+    
+
+
+      
+        beancount /
+
+      beancount</a></p>
+				<p>
+      Beancount: Double-Entry Accounting from Text Files.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4864</span>
+						<span>🔱 384</span>
+					</div>
+				<div class="stars-today">⭐ 111 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maplibre/maplibre-gl-js" target="_blank">
+    
+
+
+      
+        maplibre /
+
+      maplibre-gl-js</a></p>
+				<p>
+      MapLibre GL JS - Interactive vector tile maps in the browser
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14537</span>
-						<span>🔱 1885</span>
+						<span>⭐ 8911</span>
+						<span>🔱 950</span>
 					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nukeop/nuclear" target="_blank">
+    
+
+
+      
+        nukeop /
+
+      nuclear</a></p>
+				<p>
+      Streaming music player that finds free music for you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16642</span>
+						<span>🔱 1248</span>
+					</div>
+				<div class="stars-today">⭐ 95 stars today</div>
 				</div>
 			</div>
 	
