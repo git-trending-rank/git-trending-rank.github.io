@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-04T09:58:57Z
+date: 2026-01-04T11:58:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10171</span>
-						<span>🔱 621</span>
+						<span>⭐ 10177</span>
+						<span>🔱 622</span>
 					</div>
 				<div class="stars-today">⭐ 9616 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19444</span>
-						<span>🔱 2157</span>
+						<span>⭐ 19453</span>
+						<span>🔱 2159</span>
 					</div>
 				<div class="stars-today">⭐ 9365 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16637</span>
-						<span>🔱 1713</span>
+						<span>⭐ 16656</span>
+						<span>🔱 1715</span>
 					</div>
 				<div class="stars-today">⭐ 14163 stars this month</div>
 				</div>
@@ -96,120 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39350</span>
-						<span>🔱 2657</span>
+						<span>⭐ 39356</span>
+						<span>🔱 2658</span>
 					</div>
 				<div class="stars-today">⭐ 6763 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 46865</span>
-						<span>🔱 4032</span>
-					</div>
-				<div class="stars-today">⭐ 11263 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14103</span>
-						<span>🔱 1501</span>
-					</div>
-				<div class="stars-today">⭐ 8456 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10850</span>
-						<span>🔱 1166</span>
-					</div>
-				<div class="stars-today">⭐ 3097 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14055</span>
-						<span>🔱 991</span>
-					</div>
-				<div class="stars-today">⭐ 5262 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20506</span>
-						<span>🔱 2675</span>
-					</div>
-				<div class="stars-today">⭐ 5600 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12253</span>
-						<span>🔱 1129</span>
+						<span>⭐ 12295</span>
+						<span>🔱 1136</span>
 					</div>
 				<div class="stars-today">⭐ 5578 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
     
 
 
       
-        simstudioai /
+        anomalyco /
 
-      sim</a></p>
+      opencode</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24922</span>
-						<span>🔱 3113</span>
+						<span>⭐ 46989</span>
+						<span>🔱 4038</span>
 					</div>
-				<div class="stars-today">⭐ 6387 stars this month</div>
+				<div class="stars-today">⭐ 11263 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20515</span>
+						<span>🔱 2676</span>
+					</div>
+				<div class="stars-today">⭐ 5600 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 10854</span>
+						<span>🔱 1166</span>
+					</div>
+				<div class="stars-today">⭐ 3097 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 50932</span>
-						<span>🔱 3652</span>
+						<span>⭐ 50964</span>
+						<span>🔱 3655</span>
 					</div>
 				<div class="stars-today">⭐ 6425 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14067</span>
+						<span>🔱 993</span>
+					</div>
+				<div class="stars-today">⭐ 5262 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24923</span>
+						<span>🔱 3113</span>
+					</div>
+				<div class="stars-today">⭐ 6387 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14122</span>
+						<span>🔱 1503</span>
+					</div>
+				<div class="stars-today">⭐ 8456 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32698</span>
-						<span>🔱 2956</span>
+						<span>⭐ 32760</span>
+						<span>🔱 2964</span>
 					</div>
 				<div class="stars-today">⭐ 13018 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-quickstarts" target="_blank">
+				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
     
 
 
       
-        anthropics /
+        NVIDIA /
 
-      claude-quickstarts</a></p>
+      cutile-python</a></p>
 				<p>
-      A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
+      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13189</span>
-						<span>🔱 2196</span>
+						<span>⭐ 1730</span>
+						<span>🔱 88</span>
 					</div>
-				<div class="stars-today">⭐ 2647 stars this month</div>
+				<div class="stars-today">⭐ 1733 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3181</span>
-						<span>🔱 572</span>
+						<span>⭐ 3194</span>
+						<span>🔱 573</span>
 					</div>
 				<div class="stars-today">⭐ 1854 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
-    
-
-
-      
-        cocoindex-io /
-
-      cocoindex</a></p>
-				<p>
-      Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5665</span>
-						<span>🔱 416</span>
-					</div>
-				<div class="stars-today">⭐ 2146 stars this month</div>
 				</div>
 			</div>
 	

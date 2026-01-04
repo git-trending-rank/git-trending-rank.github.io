@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-04
-date: 2026-01-04T09:58:56Z
+date: 2026-01-04T11:58:36Z
 categories:
 - daily
 keywords:
@@ -14,72 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
-    
-
-
-      
-        usememos /
-
-      memos</a></p>
-				<p>
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 50858</span>
-						<span>🔱 3666</span>
-					</div>
-				<div class="stars-today">⭐ 819 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16471</span>
-						<span>🔱 4789</span>
-					</div>
-				<div class="stars-today">⭐ 314 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pathwaycom/pathway" target="_blank">
-    
-
-
-      
-        pathwaycom /
-
-      pathway</a></p>
-				<p>
-      Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56087</span>
-						<span>🔱 1536</span>
-					</div>
-				<div class="stars-today">⭐ 1219 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
@@ -96,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56603</span>
-						<span>🔱 5504</span>
+						<span>⭐ 56632</span>
+						<span>🔱 5508</span>
 					</div>
-				<div class="stars-today">⭐ 195 stars today</div>
+				<div class="stars-today">⭐ 440 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-cookbook</a></p>
+				<p>
+      Examples and guides for using the OpenAI API
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 70519</span>
+						<span>🔱 11835</span>
+					</div>
+				<div class="stars-today">⭐ 197 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
+    
+
+
+      
+        nocodb /
+
+      nocodb</a></p>
+				<p>
+      🔥 🔥 🔥 Open Source Airtable Alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 60439</span>
+						<span>🔱 4496</span>
+					</div>
+				<div class="stars-today">⭐ 278 stars today</div>
 				</div>
 			</div>
 	
@@ -118,76 +96,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2307</span>
+						<span>⭐ 2333</span>
 						<span>🔱 139</span>
 					</div>
-				<div class="stars-today">⭐ 518 stars today</div>
+				<div class="stars-today">⭐ 410 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/beancount/beancount" target="_blank">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
     
 
 
       
-        beancount /
+        usememos /
 
-      beancount</a></p>
+      memos</a></p>
 				<p>
-      Beancount: Double-Entry Accounting from Text Files.
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 50960</span>
+						<span>🔱 3673</span>
+					</div>
+				<div class="stars-today">⭐ 1799 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5014</span>
-						<span>🔱 393</span>
+						<span>⭐ 44429</span>
+						<span>🔱 7843</span>
 					</div>
-				<div class="stars-today">⭐ 111 stars today</div>
+				<div class="stars-today">⭐ 88 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/maplibre/maplibre-gl-js" target="_blank">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
     
 
 
       
-        maplibre /
+        ourongxing /
 
-      maplibre-gl-js</a></p>
+      newsnow</a></p>
 				<p>
-      MapLibre GL JS - Interactive vector tile maps in the browser
+      Elegant reading of real-time and hottest news
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9188</span>
-						<span>🔱 962</span>
+						<span>⭐ 16495</span>
+						<span>🔱 4794</span>
 					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
+				<div class="stars-today">⭐ 332 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nukeop/nuclear" target="_blank">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
     
 
 
       
-        nukeop /
+        anomalyco /
 
-      nuclear</a></p>
+      opencode</a></p>
 				<p>
-      Streaming music player that finds free music for you
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16903</span>
-						<span>🔱 1259</span>
+						<span>⭐ 46989</span>
+						<span>🔱 4038</span>
 					</div>
-				<div class="stars-today">⭐ 96 stars today</div>
+				<div class="stars-today">⭐ 990 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/5rahim/seanime" target="_blank">
+    
+
+
+      
+        5rahim /
+
+      seanime</a></p>
+				<p>
+      Open-source media server with a web interface and desktop app for anime and manga.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1882</span>
+						<span>🔱 131</span>
+					</div>
+				<div class="stars-today">⭐ 406 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/python/cpython" target="_blank">
+    
+
+
+      
+        python /
+
+      cpython</a></p>
+				<p>
+      The Python programming language
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70613</span>
+						<span>🔱 33813</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars today</div>
 				</div>
 			</div>
 	
