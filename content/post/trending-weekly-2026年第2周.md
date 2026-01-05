@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第2周
-date: 2026-01-05T10:01:23Z
+date: 2026-01-05T11:58:50Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12714</span>
-						<span>🔱 1184</span>
+						<span>⭐ 12771</span>
+						<span>🔱 1186</span>
 					</div>
 				<div class="stars-today">⭐ 5400 stars this week</div>
 				</div>
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 51543</span>
-						<span>🔱 3717</span>
+						<span>⭐ 51599</span>
+						<span>🔱 3720</span>
 					</div>
 				<div class="stars-today">⭐ 3504 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
     
 
 
       
-        afkarxyz /
+        shareAI-lab /
 
-      SpotiFLAC</a></p>
+      learn-claude-code</a></p>
 				<p>
-      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+      How can we build a true AI agent? Like Claude Code.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2320</span>
-						<span>🔱 132</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13168</span>
+						<span>🔱 3202</span>
 					</div>
-				<div class="stars-today">⭐ 1512 stars this week</div>
+				<div class="stars-today">⭐ 1382 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15583</span>
-						<span>🔱 1775</span>
+						<span>⭐ 15637</span>
+						<span>🔱 1789</span>
 					</div>
 				<div class="stars-today">⭐ 3391 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
+    
+
+
+      
+        afkarxyz /
+
+      SpotiFLAC</a></p>
+				<p>
+      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2326</span>
+						<span>🔱 132</span>
+					</div>
+				<div class="stars-today">⭐ 1512 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16697</span>
+						<span>🔱 4827</span>
+					</div>
+				<div class="stars-today">⭐ 972 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20666</span>
-						<span>🔱 2685</span>
+						<span>⭐ 20678</span>
+						<span>🔱 2686</span>
 					</div>
 				<div class="stars-today">⭐ 2375 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/antiwork/gumroad" target="_blank">
-    
-
-
-      
-        antiwork /
-
-      gumroad</a></p>
-				<p>
-      Sell stuff and see what sticks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 8147</span>
-						<span>🔱 1575</span>
-					</div>
-				<div class="stars-today">⭐ 287 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3447</span>
+						<span>⭐ 3470</span>
 						<span>🔱 600</span>
 					</div>
 				<div class="stars-today">⭐ 874 stars this week</div>
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12023</span>
+						<span>⭐ 12029</span>
 						<span>🔱 818</span>
 					</div>
 				<div class="stars-today">⭐ 713 stars this week</div>
@@ -192,22 +214,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-gemini/computer-use-preview" target="_blank">
+				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
     
 
 
       
-        google-gemini /
+        nocodb /
 
-      computer-use-preview</a></p>
-				<p></p>
+      nocodb</a></p>
+				<p>
+      🔥 🔥 🔥 Open Source Airtable Alternative
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 60809</span>
+						<span>🔱 4520</span>
+					</div>
+				<div class="stars-today">⭐ 1226 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Financial data platform for analysts, quants and AI agents.
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2586</span>
-						<span>🔱 329</span>
+						<span>⭐ 57003</span>
+						<span>🔱 5538</span>
 					</div>
-				<div class="stars-today">⭐ 594 stars this week</div>
+				<div class="stars-today">⭐ 855 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 48826</span>
+						<span>🔱 4148</span>
+					</div>
+				<div class="stars-today">⭐ 4187 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-05
-date: 2026-01-05T10:01:23Z
+date: 2026-01-05T11:58:50Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
     
 
 
       
-        OpenBB-finance /
+        anomalyco /
 
-      OpenBB</a></p>
+      opencode</a></p>
 				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56977</span>
-						<span>🔱 5537</span>
-					</div>
-				<div class="stars-today">⭐ 436 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-cookbook" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-cookbook</a></p>
-				<p>
-      Examples and guides for using the OpenAI API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 70764</span>
-						<span>🔱 11854</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
-    
-
-
-      
-        nocodb /
-
-      nocodb</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source Airtable Alternative
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60781</span>
-						<span>🔱 4518</span>
+						<span>⭐ 48826</span>
+						<span>🔱 4148</span>
 					</div>
-				<div class="stars-today">⭐ 383 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HQarroum/docker-android" target="_blank">
-    
-
-
-      
-        HQarroum /
-
-      docker-android</a></p>
-				<p>
-      🤖 A minimal and customizable Docker image running the Android emulator as a service.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 2625</span>
-						<span>🔱 154</span>
-					</div>
-				<div class="stars-today">⭐ 397 stars today</div>
+				<div class="stars-today">⭐ 1046 stars today</div>
 				</div>
 			</div>
 	
@@ -118,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 51543</span>
-						<span>🔱 3717</span>
+						<span>⭐ 51599</span>
+						<span>🔱 3720</span>
 					</div>
 				<div class="stars-today">⭐ 1719 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        virattt /
+        OpenBB-finance /
 
-      ai-hedge-fund</a></p>
+      OpenBB</a></p>
 				<p>
-      An AI Hedge Fund Team
+      Financial data platform for analysts, quants and AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44612</span>
-						<span>🔱 7863</span>
+						<span>⭐ 57003</span>
+						<span>🔱 5538</span>
 					</div>
-				<div class="stars-today">⭐ 99 stars today</div>
+				<div class="stars-today">⭐ 436 stars today</div>
 				</div>
 			</div>
 	
@@ -162,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16682</span>
-						<span>🔱 4826</span>
+						<span>⭐ 16697</span>
+						<span>🔱 4827</span>
 					</div>
 				<div class="stars-today">⭐ 332 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        anomalyco /
+        virattt /
 
-      opencode</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      The open source coding agent.
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 48676</span>
-						<span>🔱 4144</span>
+						<span>🔠 Python</span>
+						<span>⭐ 44635</span>
+						<span>🔱 7864</span>
 					</div>
-				<div class="stars-today">⭐ 1046 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/5rahim/seanime" target="_blank">
-    
-
-
-      
-        5rahim /
-
-      seanime</a></p>
-				<p>
-      Open-source media server with a web interface and desktop app for anime and manga.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2320</span>
-						<span>🔱 145</span>
-					</div>
-				<div class="stars-today">⭐ 380 stars today</div>
+				<div class="stars-today">⭐ 99 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70765</span>
-						<span>🔱 33823</span>
+						<span>⭐ 70775</span>
+						<span>🔱 33822</span>
 					</div>
 				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19602</span>
+						<span>🔱 2179</span>
+					</div>
+				<div class="stars-today">⭐ 105 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/3b1b/manim" target="_blank">
+    
+
+
+      
+        3b1b /
+
+      manim</a></p>
+				<p>
+      Animation engine for explanatory math videos
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 83044</span>
+						<span>🔱 7032</span>
+					</div>
+				<div class="stars-today">⭐ 82 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maplibre/maplibre-gl-js" target="_blank">
+    
+
+
+      
+        maplibre /
+
+      maplibre-gl-js</a></p>
+				<p>
+      MapLibre GL JS - Interactive vector tile maps in the browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9241</span>
+						<span>🔱 965</span>
+					</div>
+				<div class="stars-today">⭐ 262 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 51355</span>
+						<span>🔱 3693</span>
+					</div>
+				<div class="stars-today">⭐ 360 stars today</div>
 				</div>
 			</div>
 	

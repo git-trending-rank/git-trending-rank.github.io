@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-05T10:01:24Z
+date: 2026-01-05T11:58:50Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10287</span>
-						<span>🔱 626</span>
+						<span>⭐ 10295</span>
+						<span>🔱 627</span>
 					</div>
 				<div class="stars-today">⭐ 9735 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19584</span>
-						<span>🔱 2178</span>
-					</div>
-				<div class="stars-today">⭐ 9438 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16829</span>
-						<span>🔱 1729</span>
+						<span>⭐ 16842</span>
+						<span>🔱 1730</span>
 					</div>
 				<div class="stars-today">⭐ 13848 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19602</span>
+						<span>🔱 2179</span>
+					</div>
+				<div class="stars-today">⭐ 9438 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39436</span>
+						<span>⭐ 39443</span>
 						<span>🔱 2663</span>
 					</div>
 				<div class="stars-today">⭐ 6813 stars this month</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12714</span>
-						<span>🔱 1184</span>
+						<span>⭐ 12771</span>
+						<span>🔱 1186</span>
 					</div>
 				<div class="stars-today">⭐ 6206 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 51355</span>
+						<span>🔱 3693</span>
+					</div>
+				<div class="stars-today">⭐ 6620 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48676</span>
-						<span>🔱 4144</span>
+						<span>⭐ 48826</span>
+						<span>🔱 4148</span>
 					</div>
 				<div class="stars-today">⭐ 12011 stars this month</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20666</span>
-						<span>🔱 2685</span>
+						<span>⭐ 20678</span>
+						<span>🔱 2686</span>
 					</div>
 				<div class="stars-today">⭐ 5750 stars this month</div>
 				</div>
@@ -184,98 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10922</span>
-						<span>🔱 1172</span>
+						<span>⭐ 10925</span>
+						<span>🔱 1171</span>
 					</div>
 				<div class="stars-today">⭐ 3157 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 51318</span>
-						<span>🔱 3691</span>
-					</div>
-				<div class="stars-today">⭐ 6620 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14243</span>
-						<span>🔱 1003</span>
-					</div>
-				<div class="stars-today">⭐ 5351 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24971</span>
-						<span>🔱 3115</span>
-					</div>
-				<div class="stars-today">⭐ 6420 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14354</span>
-						<span>🔱 1527</span>
-					</div>
-				<div class="stars-today">⭐ 8614 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33436</span>
+						<span>⭐ 33476</span>
 						<span>🔱 3023</span>
 					</div>
 				<div class="stars-today">⭐ 13586 stars this month</div>
@@ -302,24 +236,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
     
 
 
       
-        NVIDIA /
+        simstudioai /
 
-      cutile-python</a></p>
+      sim</a></p>
 				<p>
-      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24975</span>
+						<span>🔱 3114</span>
+					</div>
+				<div class="stars-today">⭐ 6420 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14254</span>
+						<span>🔱 1004</span>
+					</div>
+				<div class="stars-today">⭐ 5351 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1755</span>
-						<span>🔱 90</span>
+						<span>⭐ 14377</span>
+						<span>🔱 1529</span>
 					</div>
-				<div class="stars-today">⭐ 1736 stars this month</div>
+				<div class="stars-today">⭐ 8614 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3447</span>
+						<span>⭐ 3470</span>
 						<span>🔱 600</span>
 					</div>
 				<div class="stars-today">⭐ 2039 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44635</span>
+						<span>🔱 7864</span>
+					</div>
+				<div class="stars-today">⭐ 2018 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      cutile-python</a></p>
+				<p>
+      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1756</span>
+						<span>🔱 91</span>
+					</div>
+				<div class="stars-today">⭐ 1736 stars this month</div>
 				</div>
 			</div>
 	
