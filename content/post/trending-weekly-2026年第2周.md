@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第2周
-date: 2026-01-06T11:58:59Z
+date: 2026-01-06T14:00:49Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13296</span>
-						<span>🔱 1229</span>
-					</div>
-				<div class="stars-today">⭐ 5066 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/usememos/memos" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52189</span>
-						<span>🔱 3753</span>
+						<span>⭐ 52213</span>
+						<span>🔱 3754</span>
 					</div>
 				<div class="stars-today">⭐ 4153 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
     
 
 
       
-        harvard-edge /
+        BloopAI /
 
-      cs249r_book</a></p>
+      vibe-kanban</a></p>
 				<p>
-      Introduction to Machine Learning Systems
+      Get 10X more out of Claude Code, Codex or any coding agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16179</span>
-						<span>🔱 1848</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13339</span>
+						<span>🔱 1232</span>
 					</div>
-				<div class="stars-today">⭐ 3861 stars this week</div>
+				<div class="stars-today">⭐ 5066 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2440</span>
+						<span>⭐ 2448</span>
 						<span>🔱 136</span>
 					</div>
 				<div class="stars-today">⭐ 1590 stars this week</div>
@@ -118,76 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16919</span>
-						<span>🔱 4856</span>
+						<span>⭐ 16924</span>
+						<span>🔱 4858</span>
 					</div>
 				<div class="stars-today">⭐ 1136 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
     
 
 
       
-        resemble-ai /
+        anomalyco /
 
-      chatterbox</a></p>
+      opencode</a></p>
 				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20801</span>
-						<span>🔱 2699</span>
-					</div>
-				<div class="stars-today">⭐ 1859 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Personal AI Infrastructure for upgrading humans.
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3654</span>
-						<span>🔱 624</span>
+						<span>⭐ 51012</span>
+						<span>🔱 4310</span>
 					</div>
-				<div class="stars-today">⭐ 989 stars this week</div>
+				<div class="stars-today">⭐ 5430 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alexta69/metube" target="_blank">
+				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
     
 
 
       
-        alexta69 /
+        harvard-edge /
 
-      metube</a></p>
+      cs249r_book</a></p>
 				<p>
-      Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
+      Introduction to Machine Learning Systems
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12092</span>
-						<span>🔱 829</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16215</span>
+						<span>🔱 1849</span>
 					</div>
-				<div class="stars-today">⭐ 753 stars this week</div>
+				<div class="stars-today">⭐ 3861 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60995</span>
-						<span>🔱 4531</span>
+						<span>⭐ 61004</span>
+						<span>🔱 4530</span>
 					</div>
 				<div class="stars-today">⭐ 1517 stars this week</div>
 				</div>
@@ -228,32 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57361</span>
-						<span>🔱 5557</span>
+						<span>⭐ 57369</span>
+						<span>🔱 5559</span>
 					</div>
 				<div class="stars-today">⭐ 1166 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+				<p><a href="https://github.com/timescale/pg-aiguide" target="_blank">
     
 
 
       
-        anomalyco /
+        timescale /
 
-      opencode</a></p>
+      pg-aiguide</a></p>
 				<p>
-      The open source coding agent.
+      MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1257</span>
+						<span>🔱 67</span>
+					</div>
+				<div class="stars-today">⭐ 636 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Personal AI Infrastructure for upgrading humans.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50871</span>
-						<span>🔱 4299</span>
+						<span>⭐ 3665</span>
+						<span>🔱 624</span>
 					</div>
-				<div class="stars-today">⭐ 5430 stars this week</div>
+				<div class="stars-today">⭐ 989 stars this week</div>
 				</div>
 			</div>
 	

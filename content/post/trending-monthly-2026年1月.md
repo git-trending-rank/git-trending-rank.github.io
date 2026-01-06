@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-06T11:59:00Z
+date: 2026-01-06T14:00:49Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10794</span>
-						<span>🔱 663</span>
+						<span>⭐ 10891</span>
+						<span>🔱 666</span>
 					</div>
 				<div class="stars-today">⭐ 9824 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17037</span>
-						<span>🔱 1749</span>
+						<span>⭐ 17049</span>
+						<span>🔱 1750</span>
 					</div>
 				<div class="stars-today">⭐ 13207 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19972</span>
-						<span>🔱 2203</span>
-					</div>
-				<div class="stars-today">⭐ 9411 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39527</span>
-						<span>🔱 2675</span>
-					</div>
-				<div class="stars-today">⭐ 6896 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13296</span>
-						<span>🔱 1229</span>
+						<span>⭐ 13339</span>
+						<span>🔱 1232</span>
 					</div>
 				<div class="stars-today">⭐ 6667 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+    
+
+
+      
+        exo-explore /
+
+      exo</a></p>
+				<p>
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39530</span>
+						<span>🔱 2675</span>
+					</div>
+				<div class="stars-today">⭐ 6896 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 51983</span>
-						<span>🔱 3735</span>
+						<span>⭐ 52022</span>
+						<span>🔱 3741</span>
 					</div>
 				<div class="stars-today">⭐ 6883 stars this month</div>
 				</div>
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50871</span>
-						<span>🔱 4299</span>
+						<span>⭐ 51012</span>
+						<span>🔱 4310</span>
 					</div>
 				<div class="stars-today">⭐ 13401 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19983</span>
+						<span>🔱 2203</span>
+					</div>
+				<div class="stars-today">⭐ 9411 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20801</span>
+						<span>⭐ 20805</span>
 						<span>🔱 2699</span>
 					</div>
 				<div class="stars-today">⭐ 5896 stars this month</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10986</span>
-						<span>🔱 1176</span>
+						<span>⭐ 10989</span>
+						<span>🔱 1177</span>
 					</div>
 				<div class="stars-today">⭐ 3207 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34220</span>
-						<span>🔱 3087</span>
-					</div>
-				<div class="stars-today">⭐ 14162 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25037</span>
+						<span>⭐ 25039</span>
 						<span>🔱 3115</span>
 					</div>
 				<div class="stars-today">⭐ 6463 stars this month</div>
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14396</span>
+						<span>⭐ 14404</span>
 						<span>🔱 1011</span>
 					</div>
 				<div class="stars-today">⭐ 5521 stars this month</div>
@@ -280,24 +258,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        datawhalechina /
+        anthropics /
 
-      hello-agents</a></p>
+      skills</a></p>
 				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14663</span>
-						<span>🔱 1563</span>
+						<span>⭐ 34286</span>
+						<span>🔱 3093</span>
 					</div>
-				<div class="stars-today">⭐ 8788 stars this month</div>
+				<div class="stars-today">⭐ 14162 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3654</span>
+						<span>⭐ 3665</span>
 						<span>🔱 624</span>
 					</div>
 				<div class="stars-today">⭐ 2299 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14684</span>
+						<span>🔱 1565</span>
+					</div>
+				<div class="stars-today">⭐ 8788 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44891</span>
+						<span>⭐ 44900</span>
 						<span>🔱 7884</span>
 					</div>
 				<div class="stars-today">⭐ 2203 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/cutile-python" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      cutile-python</a></p>
-				<p>
-      cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1780</span>
-						<span>🔱 93</span>
-					</div>
-				<div class="stars-today">⭐ 1567 stars this month</div>
 				</div>
 			</div>
 	
