@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第2周
-date: 2026-01-06T14:00:49Z
+date: 2026-01-06T15:59:39Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52213</span>
-						<span>🔱 3754</span>
+						<span>⭐ 52229</span>
+						<span>🔱 3757</span>
 					</div>
 				<div class="stars-today">⭐ 4153 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13339</span>
-						<span>🔱 1232</span>
+						<span>⭐ 13379</span>
+						<span>🔱 1236</span>
 					</div>
 				<div class="stars-today">⭐ 5066 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2448</span>
+						<span>⭐ 2456</span>
 						<span>🔱 136</span>
 					</div>
 				<div class="stars-today">⭐ 1590 stars this week</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16924</span>
-						<span>🔱 4858</span>
+						<span>⭐ 16929</span>
+						<span>🔱 4860</span>
 					</div>
 				<div class="stars-today">⭐ 1136 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 51012</span>
-						<span>🔱 4310</span>
+						<span>⭐ 51160</span>
+						<span>🔱 4321</span>
 					</div>
 				<div class="stars-today">⭐ 5430 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16215</span>
-						<span>🔱 1849</span>
+						<span>⭐ 16243</span>
+						<span>🔱 1851</span>
 					</div>
 				<div class="stars-today">⭐ 3861 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 61004</span>
-						<span>🔱 4530</span>
+						<span>⭐ 61012</span>
+						<span>🔱 4532</span>
 					</div>
 				<div class="stars-today">⭐ 1517 stars this week</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57369</span>
+						<span>⭐ 57374</span>
 						<span>🔱 5559</span>
 					</div>
 				<div class="stars-today">⭐ 1166 stars this week</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1257</span>
+						<span>⭐ 1261</span>
 						<span>🔱 67</span>
 					</div>
 				<div class="stars-today">⭐ 636 stars this week</div>
@@ -228,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3665</span>
-						<span>🔱 624</span>
+						<span>⭐ 3676</span>
+						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 989 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 86925</span>
+						<span>🔱 12399</span>
+					</div>
+				<div class="stars-today">⭐ 1596 stars this week</div>
 				</div>
 			</div>
 	
