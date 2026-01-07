@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第2周
-date: 2026-01-07T09:59:22Z
+date: 2026-01-07T11:58:53Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52344</span>
-						<span>🔱 3761</span>
+						<span>⭐ 52353</span>
+						<span>🔱 3762</span>
 					</div>
 				<div class="stars-today">⭐ 4677 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13638</span>
-						<span>🔱 1259</span>
-					</div>
-				<div class="stars-today">⭐ 5031 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13315</span>
-						<span>🔱 3218</span>
+						<span>⭐ 13333</span>
+						<span>🔱 3222</span>
 					</div>
 				<div class="stars-today">⭐ 1493 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
     
 
 
       
-        afkarxyz /
+        BloopAI /
 
-      SpotiFLAC</a></p>
+      vibe-kanban</a></p>
 				<p>
-      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+      Get 10X more out of Claude Code, Codex or any coding agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2519</span>
-						<span>🔱 137</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 13666</span>
+						<span>🔱 1262</span>
 					</div>
-				<div class="stars-today">⭐ 1506 stars this week</div>
+				<div class="stars-today">⭐ 5031 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16976</span>
+						<span>⭐ 16983</span>
 						<span>🔱 4874</span>
 					</div>
 				<div class="stars-today">⭐ 1335 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 52493</span>
-						<span>🔱 4440</span>
-					</div>
-				<div class="stars-today">⭐ 6908 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
-    
-
-
-      
-        harvard-edge /
-
-      cs249r_book</a></p>
-				<p>
-      Introduction to Machine Learning Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16423</span>
-						<span>🔱 1874</span>
-					</div>
-				<div class="stars-today">⭐ 3830 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nocodb/nocodb" target="_blank">
-    
-
-
-      
-        nocodb /
-
-      nocodb</a></p>
-				<p>
-      🔥 🔥 🔥 Open Source Airtable Alternative
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 61093</span>
-						<span>🔱 4535</span>
-					</div>
-				<div class="stars-today">⭐ 1617 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57454</span>
-						<span>🔱 5563</span>
+						<span>⭐ 57463</span>
+						<span>🔱 5564</span>
 					</div>
 				<div class="stars-today">⭐ 1481 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/timescale/pg-aiguide" target="_blank">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
     
 
 
       
-        timescale /
+        anomalyco /
 
-      pg-aiguide</a></p>
+      opencode</a></p>
 				<p>
-      MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code.
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1302</span>
-						<span>🔱 68</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 52660</span>
+						<span>🔱 4452</span>
 					</div>
-				<div class="stars-today">⭐ 617 stars this week</div>
+				<div class="stars-today">⭐ 6908 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 52379</span>
+						<span>🔱 3765</span>
+					</div>
+				<div class="stars-today">⭐ 2312 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3785</span>
+						<span>⭐ 3794</span>
 						<span>🔱 639</span>
 					</div>
 				<div class="stars-today">⭐ 1076 stars this week</div>
@@ -258,24 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        afkarxyz /
 
-      awesome-llm-apps</a></p>
+      SpotiFLAC</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 87077</span>
-						<span>🔱 12419</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2524</span>
+						<span>🔱 138</span>
 					</div>
-				<div class="stars-today">⭐ 1578 stars this week</div>
+				<div class="stars-today">⭐ 1506 stars this week</div>
 				</div>
 			</div>
 	

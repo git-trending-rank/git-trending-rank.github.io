@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-07T09:59:22Z
+date: 2026-01-07T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11424</span>
-						<span>🔱 718</span>
+						<span>⭐ 11474</span>
+						<span>🔱 719</span>
 					</div>
 				<div class="stars-today">⭐ 10294 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17189</span>
-						<span>🔱 1764</span>
-					</div>
-				<div class="stars-today">⭐ 12967 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13638</span>
-						<span>🔱 1259</span>
+						<span>⭐ 13666</span>
+						<span>🔱 1262</span>
 					</div>
 				<div class="stars-today">⭐ 7148 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
     
 
 
       
-        exo-explore /
+        DayuanJiang /
 
-      exo</a></p>
+      next-ai-draw-io</a></p>
 				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39578</span>
-						<span>🔱 2678</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17196</span>
+						<span>🔱 1764</span>
 					</div>
-				<div class="stars-today">⭐ 6964 stars this month</div>
+				<div class="stars-today">⭐ 12967 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 52350</span>
-						<span>🔱 3762</span>
+						<span>⭐ 52379</span>
+						<span>🔱 3765</span>
 					</div>
 				<div class="stars-today">⭐ 7391 stars this month</div>
 				</div>
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52493</span>
-						<span>🔱 4440</span>
+						<span>⭐ 52660</span>
+						<span>🔱 4452</span>
 					</div>
 				<div class="stars-today">⭐ 14934 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
     
 
 
       
-        microsoft /
+        exo-explore /
 
-      VibeVoice</a></p>
+      exo</a></p>
 				<p>
-      Open-Source Frontier Voice AI
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20049</span>
-						<span>🔱 2209</span>
+						<span>⭐ 39585</span>
+						<span>🔱 2678</span>
 					</div>
-				<div class="stars-today">⭐ 9333 stars this month</div>
+				<div class="stars-today">⭐ 6964 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20878</span>
+						<span>⭐ 20885</span>
 						<span>🔱 2713</span>
 					</div>
 				<div class="stars-today">⭐ 6004 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11039</span>
-						<span>🔱 1183</span>
-					</div>
-				<div class="stars-today">⭐ 3260 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25059</span>
-						<span>🔱 3117</span>
+						<span>⭐ 25062</span>
+						<span>🔱 3118</span>
 					</div>
 				<div class="stars-today">⭐ 6516 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14485</span>
-						<span>🔱 1015</span>
-					</div>
-				<div class="stars-today">⭐ 5630 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34864</span>
-						<span>🔱 3154</span>
+						<span>⭐ 34908</span>
+						<span>🔱 3158</span>
 					</div>
 				<div class="stars-today">⭐ 14773 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 11043</span>
+						<span>🔱 1183</span>
+					</div>
+				<div class="stars-today">⭐ 3260 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3785</span>
+						<span>⭐ 3794</span>
 						<span>🔱 639</span>
 					</div>
 				<div class="stars-today">⭐ 2463 stars this month</div>
@@ -316,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14873</span>
+						<span>⭐ 14892</span>
 						<span>🔱 1592</span>
 					</div>
 				<div class="stars-today">⭐ 9015 stars this month</div>
@@ -338,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44960</span>
-						<span>🔱 7883</span>
+						<span>⭐ 44964</span>
+						<span>🔱 7884</span>
 					</div>
 				<div class="stars-today">⭐ 2441 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14498</span>
+						<span>🔱 1016</span>
+					</div>
+				<div class="stars-today">⭐ 5630 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
+    
+
+
+      
+        usememos /
+
+      memos</a></p>
+				<p>
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 52353</span>
+						<span>🔱 3762</span>
+					</div>
+				<div class="stars-today">⭐ 5491 stars this month</div>
 				</div>
 			</div>
 	
