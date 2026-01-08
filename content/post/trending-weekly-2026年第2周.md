@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第2周
-date: 2026-01-08T11:58:40Z
+date: 2026-01-08T14:12:25Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52532</span>
-						<span>🔱 3776</span>
+						<span>⭐ 52543</span>
+						<span>🔱 3778</span>
 					</div>
 				<div class="stars-today">⭐ 4792 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54621</span>
-						<span>🔱 4642</span>
+						<span>⭐ 54791</span>
+						<span>🔱 4665</span>
 					</div>
 				<div class="stars-today">⭐ 7955 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17049</span>
-						<span>🔱 4886</span>
+						<span>⭐ 17052</span>
+						<span>🔱 4890</span>
 					</div>
 				<div class="stars-today">⭐ 1381 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14010</span>
-						<span>🔱 1299</span>
+						<span>⭐ 14041</span>
+						<span>🔱 1305</span>
 					</div>
 				<div class="stars-today">⭐ 3871 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 53045</span>
-						<span>🔱 3814</span>
+						<span>⭐ 53123</span>
+						<span>🔱 3815</span>
 					</div>
 				<div class="stars-today">⭐ 2396 stars this week</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57562</span>
-						<span>🔱 5571</span>
+						<span>⭐ 57570</span>
+						<span>🔱 5573</span>
 					</div>
 				<div class="stars-today">⭐ 1553 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Personal AI Infrastructure for upgrading humans.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3954</span>
-						<span>🔱 659</span>
-					</div>
-				<div class="stars-today">⭐ 1106 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1220</span>
+						<span>⭐ 1230</span>
 						<span>🔱 80</span>
 					</div>
 				<div class="stars-today">⭐ 237 stars this week</div>
