@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-08
-date: 2026-01-08T05:58:41Z
+date: 2026-01-08T07:58:37Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12063</span>
-						<span>🔱 762</span>
+						<span>⭐ 12130</span>
+						<span>🔱 765</span>
 					</div>
 				<div class="stars-today">⭐ 703 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37790</span>
-						<span>🔱 10649</span>
+						<span>⭐ 37806</span>
+						<span>🔱 10650</span>
 					</div>
 				<div class="stars-today">⭐ 9 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28637</span>
-						<span>🔱 2302</span>
+						<span>⭐ 28698</span>
+						<span>🔱 2308</span>
 					</div>
 				<div class="stars-today">⭐ 783 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 127660</span>
-						<span>🔱 7584</span>
+						<span>⭐ 127694</span>
+						<span>🔱 7585</span>
 					</div>
 				<div class="stars-today">⭐ 330 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 70196</span>
-						<span>🔱 15991</span>
+						<span>⭐ 70201</span>
+						<span>🔱 15993</span>
 					</div>
 				<div class="stars-today">⭐ 133 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19067</span>
-						<span>🔱 1180</span>
+						<span>⭐ 19103</span>
+						<span>🔱 1184</span>
 					</div>
 				<div class="stars-today">⭐ 90 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11485</span>
-						<span>🔱 960</span>
+						<span>⭐ 11534</span>
+						<span>🔱 963</span>
 					</div>
 				<div class="stars-today">⭐ 233 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25370</span>
-						<span>🔱 4121</span>
+						<span>⭐ 25427</span>
+						<span>🔱 4126</span>
 					</div>
 				<div class="stars-today">⭐ 158 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16762</span>
-						<span>🔱 1343</span>
+						<span>⭐ 16791</span>
+						<span>🔱 1349</span>
 					</div>
 				<div class="stars-today">⭐ 69 stars today</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 7346</span>
+						<span>⭐ 7376</span>
 						<span>🔱 683</span>
 					</div>
 				<div class="stars-today">⭐ 454 stars today</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 1476</span>
-						<span>🔱 122</span>
+						<span>⭐ 1494</span>
+						<span>🔱 124</span>
 					</div>
 				<div class="stars-today">⭐ 261 stars today</div>
 				</div>
@@ -267,13 +267,13 @@ keywords:
 
       MiroThinker</a></p>
 				<p>
-      MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.
+      MiroThinker is a open-source search agent suite, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI DeepResearch and Gemini DeepResearch.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2806</span>
-						<span>🔱 184</span>
+						<span>⭐ 2972</span>
+						<span>🔱 190</span>
 					</div>
 				<div class="stars-today">⭐ 511 stars today</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 28459</span>
-						<span>🔱 2735</span>
+						<span>⭐ 28498</span>
+						<span>🔱 2741</span>
 					</div>
 				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
