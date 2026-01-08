@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-08T09:59:59Z
+date: 2026-01-08T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12212</span>
+						<span>⭐ 12258</span>
 						<span>🔱 767</span>
 					</div>
 				<div class="stars-today">⭐ 10962 stars this month</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 13977</span>
-						<span>🔱 1296</span>
+						<span>⭐ 14010</span>
+						<span>🔱 1299</span>
 					</div>
 				<div class="stars-today">⭐ 7452 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17322</span>
-						<span>🔱 1778</span>
-					</div>
-				<div class="stars-today">⭐ 12916 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 52989</span>
-						<span>🔱 3811</span>
+						<span>⭐ 53045</span>
+						<span>🔱 3814</span>
 					</div>
 				<div class="stars-today">⭐ 7676 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 54481</span>
-						<span>🔱 4629</span>
-					</div>
-				<div class="stars-today">⭐ 16562 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39637</span>
+						<span>⭐ 39641</span>
 						<span>🔱 2679</span>
 					</div>
 				<div class="stars-today">⭐ 7020 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 54621</span>
+						<span>🔱 4642</span>
+					</div>
+				<div class="stars-today">⭐ 16562 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17341</span>
+						<span>🔱 1780</span>
+					</div>
+				<div class="stars-today">⭐ 12916 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20962</span>
-						<span>🔱 2725</span>
+						<span>⭐ 20970</span>
+						<span>🔱 2727</span>
 					</div>
 				<div class="stars-today">⭐ 6069 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25104</span>
-						<span>🔱 3126</span>
+						<span>⭐ 25107</span>
+						<span>🔱 3128</span>
 					</div>
 				<div class="stars-today">⭐ 6539 stars this month</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35543</span>
-						<span>🔱 3223</span>
+						<span>⭐ 35602</span>
+						<span>🔱 3229</span>
 					</div>
 				<div class="stars-today">⭐ 15361 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11102</span>
-						<span>🔱 1192</span>
-					</div>
-				<div class="stars-today">⭐ 3309 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3947</span>
+						<span>⭐ 3954</span>
 						<span>🔱 659</span>
 					</div>
 				<div class="stars-today">⭐ 2591 stars this month</div>
@@ -258,24 +236,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
     
 
 
       
-        datawhalechina /
+        Tencent /
 
-      hello-agents</a></p>
+      WeKnora</a></p>
 				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15131</span>
-						<span>🔱 1614</span>
+						<span>🔠 Go</span>
+						<span>⭐ 11106</span>
+						<span>🔱 1192</span>
 					</div>
-				<div class="stars-today">⭐ 9175 stars this month</div>
+				<div class="stars-today">⭐ 3309 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45012</span>
-						<span>🔱 7899</span>
+						<span>⭐ 45014</span>
+						<span>🔱 7900</span>
 					</div>
 				<div class="stars-today">⭐ 2512 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14619</span>
-						<span>🔱 1028</span>
-					</div>
-				<div class="stars-today">⭐ 5712 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52518</span>
-						<span>🔱 3775</span>
+						<span>⭐ 52532</span>
+						<span>🔱 3776</span>
 					</div>
 				<div class="stars-today">⭐ 5596 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15147</span>
+						<span>🔱 1616</span>
+					</div>
+				<div class="stars-today">⭐ 9175 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
+    
+
+
+      
+        agentsmd /
+
+      agents.md</a></p>
+				<p>
+      AGENTS.md — a simple, open format for guiding coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14629</span>
+						<span>🔱 1028</span>
+					</div>
+				<div class="stars-today">⭐ 5712 stars this month</div>
 				</div>
 			</div>
 	

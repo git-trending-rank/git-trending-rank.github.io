@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第2周
-date: 2026-01-08T09:59:58Z
+date: 2026-01-08T11:58:40Z
 categories:
 - weekly
 keywords:
@@ -30,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52518</span>
-						<span>🔱 3775</span>
+						<span>⭐ 52532</span>
+						<span>🔱 3776</span>
 					</div>
 				<div class="stars-today">⭐ 4792 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13977</span>
-						<span>🔱 1296</span>
-					</div>
-				<div class="stars-today">⭐ 3871 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
-    
-
-
-      
-        ourongxing /
-
-      newsnow</a></p>
-				<p>
-      Elegant reading of real-time and hottest news
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17041</span>
-						<span>🔱 4883</span>
-					</div>
-				<div class="stars-today">⭐ 1381 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57555</span>
-						<span>🔱 5571</span>
-					</div>
-				<div class="stars-today">⭐ 1553 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54481</span>
-						<span>🔱 4629</span>
+						<span>⭐ 54621</span>
+						<span>🔱 4642</span>
 					</div>
 				<div class="stars-today">⭐ 7955 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+    
+
+
+      
+        ourongxing /
+
+      newsnow</a></p>
+				<p>
+      Elegant reading of real-time and hottest news
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17049</span>
+						<span>🔱 4886</span>
+					</div>
+				<div class="stars-today">⭐ 1381 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14010</span>
+						<span>🔱 1299</span>
+					</div>
+				<div class="stars-today">⭐ 3871 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 52989</span>
-						<span>🔱 3811</span>
+						<span>⭐ 53045</span>
+						<span>🔱 3814</span>
 					</div>
 				<div class="stars-today">⭐ 2396 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
+    
+
+
+      
+        OpenBB-finance /
+
+      OpenBB</a></p>
+				<p>
+      Financial data platform for analysts, quants and AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57562</span>
+						<span>🔱 5571</span>
+					</div>
+				<div class="stars-today">⭐ 1553 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3947</span>
+						<span>⭐ 3954</span>
 						<span>🔱 659</span>
 					</div>
 				<div class="stars-today">⭐ 1106 stars this week</div>
@@ -170,24 +170,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
+				<p><a href="https://github.com/numman-ali/opencode-openai-codex-auth" target="_blank">
     
 
 
       
-        afkarxyz /
+        numman-ali /
 
-      SpotiFLAC</a></p>
+      opencode-openai-codex-auth</a></p>
 				<p>
-      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
+      OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2591</span>
-						<span>🔱 141</span>
+						<span>⭐ 1220</span>
+						<span>🔱 80</span>
 					</div>
-				<div class="stars-today">⭐ 1261 stars this week</div>
+				<div class="stars-today">⭐ 237 stars this week</div>
 				</div>
 			</div>
 	
