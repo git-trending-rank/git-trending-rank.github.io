@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-09T10:00:00Z
+date: 2026-01-09T11:58:50Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12682</span>
-						<span>🔱 789</span>
+						<span>⭐ 12723</span>
+						<span>🔱 792</span>
 					</div>
 				<div class="stars-today">⭐ 11464 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14257</span>
-						<span>🔱 1333</span>
+						<span>⭐ 14278</span>
+						<span>🔱 1336</span>
 					</div>
 				<div class="stars-today">⭐ 7717 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56446</span>
+						<span>🔱 4811</span>
+					</div>
+				<div class="stars-today">⭐ 18016 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 53739</span>
-						<span>🔱 3867</span>
+						<span>⭐ 53791</span>
+						<span>🔱 3870</span>
 					</div>
 				<div class="stars-today">⭐ 8302 stars this month</div>
 				</div>
@@ -96,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39679</span>
+						<span>⭐ 39683</span>
 						<span>🔱 2681</span>
 					</div>
 				<div class="stars-today">⭐ 7059 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 56299</span>
-						<span>🔱 4801</span>
-					</div>
-				<div class="stars-today">⭐ 18016 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17473</span>
-						<span>🔱 1792</span>
-					</div>
-				<div class="stars-today">⭐ 12459 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21030</span>
-						<span>🔱 2734</span>
+						<span>⭐ 21039</span>
+						<span>🔱 2736</span>
 					</div>
 				<div class="stars-today">⭐ 6155 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
     
 
 
       
-        simstudioai /
+        DayuanJiang /
 
-      sim</a></p>
+      next-ai-draw-io</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25121</span>
-						<span>🔱 3133</span>
+						<span>⭐ 17489</span>
+						<span>🔱 1793</span>
 					</div>
-				<div class="stars-today">⭐ 6567 stars this month</div>
+				<div class="stars-today">⭐ 12459 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36239</span>
-						<span>🔱 3285</span>
+						<span>⭐ 36281</span>
+						<span>🔱 3289</span>
 					</div>
 				<div class="stars-today">⭐ 15991 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25122</span>
+						<span>🔱 3132</span>
+					</div>
+				<div class="stars-today">⭐ 6567 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4084</span>
-						<span>🔱 677</span>
+						<span>⭐ 4096</span>
+						<span>🔱 678</span>
 					</div>
 				<div class="stars-today">⭐ 2784 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11147</span>
-						<span>🔱 1193</span>
-					</div>
-				<div class="stars-today">⭐ 3361 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45036</span>
+						<span>⭐ 45039</span>
 						<span>🔱 7902</span>
 					</div>
 				<div class="stars-today">⭐ 2561 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 11148</span>
+						<span>🔱 1193</span>
+					</div>
+				<div class="stars-today">⭐ 3361 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52660</span>
-						<span>🔱 3781</span>
+						<span>⭐ 52663</span>
+						<span>🔱 3780</span>
 					</div>
 				<div class="stars-today">⭐ 5755 stars this month</div>
 				</div>
@@ -316,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15373</span>
-						<span>🔱 1640</span>
+						<span>⭐ 15388</span>
+						<span>🔱 1641</span>
 					</div>
 				<div class="stars-today">⭐ 9260 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14722</span>
-						<span>🔱 1031</span>
-					</div>
-				<div class="stars-today">⭐ 5822 stars this month</div>
 				</div>
 			</div>
 	
