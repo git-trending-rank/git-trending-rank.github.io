@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-10
-date: 2026-01-10T09:58:37Z
+date: 2026-01-10T11:58:37Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19841</span>
-						<span>🔱 1214</span>
-					</div>
-				<div class="stars-today">⭐ 432 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
@@ -52,10 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 54370</span>
-						<span>🔱 3922</span>
+						<span>⭐ 54409</span>
+						<span>🔱 3924</span>
 					</div>
-				<div class="stars-today">⭐ 789 stars today</div>
+				<div class="stars-today">⭐ 650 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19870</span>
+						<span>🔱 1215</span>
+					</div>
+				<div class="stars-today">⭐ 290 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/awesome-copilot" target="_blank">
+    
+
+
+      
+        github /
+
+      awesome-copilot</a></p>
+				<p>
+      Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16762</span>
+						<span>🔱 1943</span>
+					</div>
+				<div class="stars-today">⭐ 165 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory infrastructure for LLMs and AI agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4134</span>
+						<span>🔱 275</span>
+					</div>
+				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
@@ -74,120 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 15729</span>
-						<span>🔱 1256</span>
+						<span>⭐ 15786</span>
+						<span>🔱 1260</span>
 					</div>
 				<div class="stars-today">⭐ 381 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tailwindlabs/tailwindcss" target="_blank">
-    
-
-
-      
-        tailwindlabs /
-
-      tailwindcss</a></p>
-				<p>
-      A utility-first CSS framework for rapid UI development.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 92590</span>
-						<span>🔱 4938</span>
-					</div>
-				<div class="stars-today">⭐ 262 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
-    
-
-
-      
-        netbirdio /
-
-      netbird</a></p>
-				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 20905</span>
-						<span>🔱 1020</span>
-					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
-    
-
-
-      
-        C4illin /
-
-      ConvertX</a></p>
-				<p>
-      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14064</span>
-						<span>🔱 752</span>
-					</div>
-				<div class="stars-today">⭐ 160 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lightricks/ComfyUI-LTXVideo" target="_blank">
-    
-
-
-      
-        Lightricks /
-
-      ComfyUI-LTXVideo</a></p>
-				<p>
-      LTX-Video Support for ComfyUI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2819</span>
-						<span>🔱 274</span>
-					</div>
-				<div class="stars-today">⭐ 158 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
-    
-
-
-      
-        MiroMindAI /
-
-      MiroThinker</a></p>
-				<p>
-      MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4057</span>
-						<span>🔱 256</span>
-					</div>
-				<div class="stars-today">⭐ 619 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 37971</span>
+						<span>⭐ 37979</span>
 						<span>🔱 10663</span>
 					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
+				<div class="stars-today">⭐ 88 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xpipe-io/xpipe" target="_blank">
+    
+
+
+      
+        xpipe-io /
+
+      xpipe</a></p>
+				<p>
+      Access your entire server infrastructure from your local desktop
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 13118</span>
+						<span>🔱 508</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
 				</div>
 			</div>
 	
@@ -228,54 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22045</span>
-						<span>🔱 2122</span>
+						<span>⭐ 22100</span>
+						<span>🔱 2125</span>
 					</div>
-				<div class="stars-today">⭐ 831 stars today</div>
+				<div class="stars-today">⭐ 801 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever" target="_blank">
+				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
     
 
 
       
-        Johnshall /
+        C4illin /
 
-      Shadowrocket-ADBlock-Rules-Forever</a></p>
+      ConvertX</a></p>
 				<p>
-      提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 21550</span>
-						<span>🔱 1404</span>
-					</div>
-				<div class="stars-today">⭐ 101 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
+      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58364</span>
-						<span>🔱 4994</span>
+						<span>⭐ 14096</span>
+						<span>🔱 755</span>
 					</div>
-				<div class="stars-today">⭐ 1877 stars today</div>
+				<div class="stars-today">⭐ 404 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opf/openproject" target="_blank">
+    
+
+
+      
+        opf /
+
+      openproject</a></p>
+				<p>
+      OpenProject is the leading open source project management software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 13565</span>
+						<span>🔱 2995</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
+    
+
+
+      
+        MiroMindAI /
+
+      MiroThinker</a></p>
+				<p>
+      MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4083</span>
+						<span>🔱 259</span>
+					</div>
+				<div class="stars-today">⭐ 310 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 77005</span>
+						<span>🔱 11271</span>
+					</div>
+				<div class="stars-today">⭐ 109 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 38166</span>
+						<span>🔱 4876</span>
+					</div>
+				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
 			</div>
 	

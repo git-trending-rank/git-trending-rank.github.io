@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-10T09:58:37Z
+date: 2026-01-10T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12931</span>
+						<span>⭐ 12941</span>
 						<span>🔱 813</span>
 					</div>
 				<div class="stars-today">⭐ 11620 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14448</span>
-						<span>🔱 1348</span>
-					</div>
-				<div class="stars-today">⭐ 7975 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58364</span>
-						<span>🔱 4994</span>
+						<span>⭐ 58576</span>
+						<span>🔱 5014</span>
 					</div>
 				<div class="stars-today">⭐ 19704 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14467</span>
+						<span>🔱 1350</span>
+					</div>
+				<div class="stars-today">⭐ 7975 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 54370</span>
-						<span>🔱 3922</span>
+						<span>⭐ 54409</span>
+						<span>🔱 3924</span>
 					</div>
 				<div class="stars-today">⭐ 8946 stars this month</div>
 				</div>
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39726</span>
+						<span>⭐ 39731</span>
 						<span>🔱 2683</span>
 					</div>
 				<div class="stars-today">⭐ 7104 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21112</span>
-						<span>🔱 2751</span>
-					</div>
-				<div class="stars-today">⭐ 6218 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17651</span>
-						<span>🔱 1805</span>
-					</div>
-				<div class="stars-today">⭐ 11955 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36759</span>
-						<span>🔱 3334</span>
+						<span>⭐ 36806</span>
+						<span>🔱 3339</span>
 					</div>
 				<div class="stars-today">⭐ 16507 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
     
 
 
       
-        simstudioai /
+        resemble-ai /
 
-      sim</a></p>
+      chatterbox</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      SoTA open-source TTS
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25149</span>
-						<span>🔱 3134</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21118</span>
+						<span>🔱 2754</span>
 					</div>
-				<div class="stars-today">⭐ 6586 stars this month</div>
+				<div class="stars-today">⭐ 6218 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4182</span>
-						<span>🔱 689</span>
+						<span>⭐ 4189</span>
+						<span>🔱 690</span>
 					</div>
 				<div class="stars-today">⭐ 2869 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25150</span>
+						<span>🔱 3134</span>
+					</div>
+				<div class="stars-today">⭐ 6586 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17671</span>
+						<span>🔱 1807</span>
+					</div>
+				<div class="stars-today">⭐ 11955 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45062</span>
-						<span>🔱 7907</span>
+						<span>⭐ 45065</span>
+						<span>🔱 7908</span>
 					</div>
 				<div class="stars-today">⭐ 2589 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
-    
-
-
-      
-        Tencent /
-
-      WeKnora</a></p>
-				<p>
-      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 11202</span>
-						<span>🔱 1207</span>
-					</div>
-				<div class="stars-today">⭐ 3377 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52782</span>
-						<span>🔱 3781</span>
+						<span>⭐ 52801</span>
+						<span>🔱 3782</span>
 					</div>
 				<div class="stars-today">⭐ 5878 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
     
 
 
       
-        datawhalechina /
+        Lissy93 /
 
-      hello-agents</a></p>
+      web-check</a></p>
 				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15514</span>
-						<span>🔱 1655</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29234</span>
+						<span>🔱 2343</span>
 					</div>
-				<div class="stars-today">⭐ 9086 stars this month</div>
+				<div class="stars-today">⭐ 2219 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tencent/WeKnora" target="_blank">
+    
+
+
+      
+        Tencent /
+
+      WeKnora</a></p>
+				<p>
+      LLM-powered framework for deep document understanding, semantic retrieval, and context-aware answers using RAG paradigm.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 11208</span>
+						<span>🔱 1208</span>
+					</div>
+				<div class="stars-today">⭐ 3377 stars this month</div>
 				</div>
 			</div>
 	

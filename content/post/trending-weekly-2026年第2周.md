@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第2周
-date: 2026-01-10T09:58:37Z
+date: 2026-01-10T11:58:37Z
 categories:
 - weekly
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
-    
-
-
-      
-        Lissy93 /
-
-      web-check</a></p>
-				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29221</span>
-						<span>🔱 2343</span>
-					</div>
-				<div class="stars-today">⭐ 2050 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
-    
-
-
-      
-        usememos /
-
-      memos</a></p>
-				<p>
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 52782</span>
-						<span>🔱 3781</span>
-					</div>
-				<div class="stars-today">⭐ 4297 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
@@ -74,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58364</span>
-						<span>🔱 4994</span>
+						<span>⭐ 58576</span>
+						<span>🔱 5014</span>
 					</div>
 				<div class="stars-today">⭐ 11233 stars this week</div>
 				</div>
@@ -96,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 994</span>
-						<span>🔱 77</span>
+						<span>⭐ 1014</span>
+						<span>🔱 78</span>
 					</div>
 				<div class="stars-today">⭐ 640 stars this week</div>
 				</div>
@@ -118,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 54370</span>
-						<span>🔱 3922</span>
+						<span>⭐ 54409</span>
+						<span>🔱 3924</span>
 					</div>
 				<div class="stars-today">⭐ 3452 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HQarroum/docker-android" target="_blank">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
     
 
 
       
-        HQarroum /
+        usememos /
 
-      docker-android</a></p>
+      memos</a></p>
 				<p>
-      🤖 A minimal and customizable Docker image running the Android emulator as a service.
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 2762</span>
-						<span>🔱 159</span>
+						<span>🔠 Go</span>
+						<span>⭐ 52801</span>
+						<span>🔱 3782</span>
 					</div>
-				<div class="stars-today">⭐ 1293 stars this week</div>
+				<div class="stars-today">⭐ 4297 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop</a></p>
+				<p>
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22100</span>
+						<span>🔱 2125</span>
+					</div>
+				<div class="stars-today">⭐ 1020 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57896</span>
-						<span>🔱 5611</span>
+						<span>⭐ 57908</span>
+						<span>🔱 5612</span>
 					</div>
 				<div class="stars-today">⭐ 1802 stars this week</div>
 				</div>
@@ -184,54 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14448</span>
-						<span>🔱 1348</span>
+						<span>⭐ 14467</span>
+						<span>🔱 1350</span>
 					</div>
 				<div class="stars-today">⭐ 3205 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ourongxing/newsnow" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        ourongxing /
+        ChromeDevTools /
 
-      newsnow</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      Elegant reading of real-time and hottest news
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17133</span>
-						<span>🔱 4898</span>
+						<span>⭐ 19870</span>
+						<span>🔱 1215</span>
 					</div>
-				<div class="stars-today">⭐ 1264 stars this week</div>
+				<div class="stars-today">⭐ 1214 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/numman-ali/opencode-openai-codex-auth" target="_blank">
+				<p><a href="https://github.com/HQarroum/docker-android" target="_blank">
     
 
 
       
-        numman-ali /
+        HQarroum /
 
-      opencode-openai-codex-auth</a></p>
+      docker-android</a></p>
 				<p>
-      OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method
+      🤖 A minimal and customizable Docker image running the Android emulator as a service.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1336</span>
-						<span>🔱 83</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 2768</span>
+						<span>🔱 159</span>
 					</div>
-				<div class="stars-today">⭐ 305 stars this week</div>
+				<div class="stars-today">⭐ 1293 stars this week</div>
 				</div>
 			</div>
 	
