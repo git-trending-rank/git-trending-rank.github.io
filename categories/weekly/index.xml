@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 10 Jan 2026 09:58:37 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 10 Jan 2026 11:58:37 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第2周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC2%E5%91%A8/</link>
-        <pubDate>Sat, 10 Jan 2026 09:58:37 +0000</pubDate>
+        <pubDate>Sat, 10 Jan 2026 11:58:37 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC2%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,50 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Lissy93/web-check&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Lissy93 /
-
-      web-check&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 29221&lt;/span&gt;
-						&lt;span&gt;🔱 2343&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2050 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/usememos/memos&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        usememos /
-
-      memos&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 52782&lt;/span&gt;
-						&lt;span&gt;🔱 3781&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4297 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
@@ -77,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 58364&lt;/span&gt;
-						&lt;span&gt;🔱 4994&lt;/span&gt;
+						&lt;span&gt;⭐ 58576&lt;/span&gt;
+						&lt;span&gt;🔱 5014&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11233 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 994&lt;/span&gt;
-						&lt;span&gt;🔱 77&lt;/span&gt;
+						&lt;span&gt;⭐ 1014&lt;/span&gt;
+						&lt;span&gt;🔱 78&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 640 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -121,32 +77,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 54370&lt;/span&gt;
-						&lt;span&gt;🔱 3922&lt;/span&gt;
+						&lt;span&gt;⭐ 54409&lt;/span&gt;
+						&lt;span&gt;🔱 3924&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3452 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/HQarroum/docker-android&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/usememos/memos&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        HQarroum /
+        usememos /
 
-      docker-android&lt;/a&gt;&lt;/p&gt;
+      memos&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🤖 A minimal and customizable Docker image running the Android emulator as a service.
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 2762&lt;/span&gt;
-						&lt;span&gt;🔱 159&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 52801&lt;/span&gt;
+						&lt;span&gt;🔱 3782&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1293 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4297 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/UI-TARS-desktop&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 22100&lt;/span&gt;
+						&lt;span&gt;🔱 2125&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1020 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 57896&lt;/span&gt;
-						&lt;span&gt;🔱 5611&lt;/span&gt;
+						&lt;span&gt;⭐ 57908&lt;/span&gt;
+						&lt;span&gt;🔱 5612&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1802 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -187,54 +165,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 14448&lt;/span&gt;
-						&lt;span&gt;🔱 1348&lt;/span&gt;
+						&lt;span&gt;⭐ 14467&lt;/span&gt;
+						&lt;span&gt;🔱 1350&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3205 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ourongxing/newsnow&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ChromeDevTools/chrome-devtools-mcp&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ourongxing /
+        ChromeDevTools /
 
-      newsnow&lt;/a&gt;&lt;/p&gt;
+      chrome-devtools-mcp&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Elegant reading of real-time and hottest news
+      Chrome DevTools for coding agents
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17133&lt;/span&gt;
-						&lt;span&gt;🔱 4898&lt;/span&gt;
+						&lt;span&gt;⭐ 19870&lt;/span&gt;
+						&lt;span&gt;🔱 1215&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1264 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1214 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/numman-ali/opencode-openai-codex-auth&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HQarroum/docker-android&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        numman-ali /
+        HQarroum /
 
-      opencode-openai-codex-auth&lt;/a&gt;&lt;/p&gt;
+      docker-android&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI&#39;s official authentication method
+      🤖 A minimal and customizable Docker image running the Android emulator as a service.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1336&lt;/span&gt;
-						&lt;span&gt;🔱 83&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 2768&lt;/span&gt;
+						&lt;span&gt;🔱 159&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 305 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1293 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
