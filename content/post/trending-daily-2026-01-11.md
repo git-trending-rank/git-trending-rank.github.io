@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-11
-date: 2026-01-11T09:58:36Z
+date: 2026-01-11T11:58:39Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
     
 
 
       
-        anthropics /
+        anomalyco /
 
-      claude-code</a></p>
+      opencode</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 54959</span>
-						<span>🔱 3978</span>
-					</div>
-				<div class="stars-today">⭐ 644 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20188</span>
-						<span>🔱 1229</span>
+						<span>⭐ 60646</span>
+						<span>🔱 5201</span>
 					</div>
-				<div class="stars-today">⭐ 291 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/awesome-copilot" target="_blank">
-    
-
-
-      
-        github /
-
-      awesome-copilot</a></p>
-				<p>
-      Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 17047</span>
-						<span>🔱 1960</span>
-					</div>
-				<div class="stars-today">⭐ 152 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory infrastructure for LLMs and AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4370</span>
-						<span>🔱 292</span>
-					</div>
-				<div class="stars-today">⭐ 78 stars today</div>
+				<div class="stars-today">⭐ 2248 stars today</div>
 				</div>
 			</div>
 	
@@ -118,54 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 16405</span>
-						<span>🔱 1291</span>
+						<span>⭐ 16489</span>
+						<span>🔱 1297</span>
 					</div>
-				<div class="stars-today">⭐ 777 stars today</div>
+				<div class="stars-today">⭐ 702 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/googletest" target="_blank">
+				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
     
 
 
       
-        google /
+        frankbria /
 
-      googletest</a></p>
+      ralph-claude-code</a></p>
 				<p>
-      GoogleTest - Google Testing and Mocking Framework
+      Autonomous AI development loop for Claude Code with intelligent exit detection
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 38048</span>
-						<span>🔱 10664</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 1264</span>
+						<span>🔱 96</span>
 					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
+				<div class="stars-today">⭐ 196 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xpipe-io/xpipe" target="_blank">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
     
 
 
       
-        xpipe-io /
+        davila7 /
 
-      xpipe</a></p>
+      claude-code-templates</a></p>
 				<p>
-      Access your entire server infrastructure from your local desktop
+      CLI tool for configuring and monitoring Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 13345</span>
-						<span>🔱 514</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15399</span>
+						<span>🔱 1340</span>
 					</div>
-				<div class="stars-today">⭐ 75 stars today</div>
+				<div class="stars-today">⭐ 131 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/makeplane/plane" target="_blank">
+    
+
+
+      
+        makeplane /
+
+      plane</a></p>
+				<p>
+      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43298</span>
+						<span>🔱 3255</span>
+					</div>
+				<div class="stars-today">⭐ 317 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twitter/twemoji" target="_blank">
+    
+
+
+      
+        twitter /
+
+      twemoji</a></p>
+				<p>
+      Emoji for everyone. https://twemoji.twitter.com/
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 17388</span>
+						<span>🔱 1904</span>
+					</div>
+				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22529</span>
-						<span>🔱 2179</span>
+						<span>⭐ 22560</span>
+						<span>🔱 2183</span>
 					</div>
-				<div class="stars-today">⭐ 802 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
-    
-
-
-      
-        C4illin /
-
-      ConvertX</a></p>
-				<p>
-      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14386</span>
-						<span>🔱 766</span>
-					</div>
-				<div class="stars-today">⭐ 406 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opf/openproject" target="_blank">
-    
-
-
-      
-        opf /
-
-      openproject</a></p>
-				<p>
-      OpenProject is the leading open source project management software.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 13738</span>
-						<span>🔱 3011</span>
-					</div>
-				<div class="stars-today">⭐ 16 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
-    
-
-
-      
-        MiroMindAI /
-
-      MiroThinker</a></p>
-				<p>
-      MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4347</span>
-						<span>🔱 271</span>
-					</div>
-				<div class="stars-today">⭐ 305 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77247</span>
-						<span>🔱 11292</span>
-					</div>
-				<div class="stars-today">⭐ 119 stars today</div>
+				<div class="stars-today">⭐ 471 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +184,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38487</span>
-						<span>🔱 4902</span>
+						<span>⭐ 38507</span>
+						<span>🔱 4903</span>
 					</div>
-				<div class="stars-today">⭐ 214 stars today</div>
+				<div class="stars-today">⭐ 343 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      home-assistant.io</a></p>
+				<p>
+      📘 Home Assistant User documentation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 7783</span>
+						<span>🔱 8071</span>
+					</div>
+				<div class="stars-today">⭐ 5 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 55004</span>
+						<span>🔱 3979</span>
+					</div>
+				<div class="stars-today">⭐ 602 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
+    
+
+
+      
+        C4illin /
+
+      ConvertX</a></p>
+				<p>
+      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14409</span>
+						<span>🔱 766</span>
+					</div>
+				<div class="stars-today">⭐ 312 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25307</span>
+						<span>🔱 3149</span>
+					</div>
+				<div class="stars-today">⭐ 145 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gyoridavid/ai_agents_az" target="_blank">
+    
+
+
+      
+        gyoridavid /
+
+      ai_agents_az</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2244</span>
+						<span>🔱 611</span>
+					</div>
+				<div class="stars-today">⭐ 340 stars today</div>
 				</div>
 			</div>
 	

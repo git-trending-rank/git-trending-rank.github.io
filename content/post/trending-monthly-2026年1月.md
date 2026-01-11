@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-11T09:58:36Z
+date: 2026-01-11T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13114</span>
-						<span>🔱 829</span>
-					</div>
-				<div class="stars-today">⭐ 11124 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60455</span>
-						<span>🔱 5185</span>
+						<span>⭐ 60646</span>
+						<span>🔱 5201</span>
 					</div>
 				<div class="stars-today">⭐ 21296 stars this month</div>
 				</div>
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 14655</span>
-						<span>🔱 1366</span>
+						<span>⭐ 14677</span>
+						<span>🔱 1368</span>
 					</div>
 				<div class="stars-today">⭐ 8121 stars this month</div>
 				</div>
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 54959</span>
-						<span>🔱 3978</span>
+						<span>⭐ 55004</span>
+						<span>🔱 3979</span>
 					</div>
 				<div class="stars-today">⭐ 9409 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        exo-explore /
+        thedotmack /
 
-      exo</a></p>
+      claude-mem</a></p>
 				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39769</span>
-						<span>🔱 2686</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13135</span>
+						<span>🔱 830</span>
 					</div>
-				<div class="stars-today">⭐ 7139 stars this month</div>
+				<div class="stars-today">⭐ 11124 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37369</span>
-						<span>🔱 3388</span>
+						<span>⭐ 37432</span>
+						<span>🔱 3392</span>
 					</div>
 				<div class="stars-today">⭐ 16836 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+    
+
+
+      
+        exo-explore /
+
+      exo</a></p>
+				<p>
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39774</span>
+						<span>🔱 2686</span>
+					</div>
+				<div class="stars-today">⭐ 7139 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21192</span>
+						<span>⭐ 21199</span>
 						<span>🔱 2762</span>
 					</div>
 				<div class="stars-today">⭐ 6284 stars this month</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4286</span>
+						<span>⭐ 4293</span>
 						<span>🔱 705</span>
 					</div>
 				<div class="stars-today">⭐ 2949 stars this month</div>
@@ -206,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25294</span>
-						<span>🔱 3148</span>
+						<span>⭐ 25307</span>
+						<span>🔱 3149</span>
 					</div>
 				<div class="stars-today">⭐ 6600 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
-    
-
-
-      
-        DayuanJiang /
-
-      next-ai-draw-io</a></p>
-				<p>
-      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17810</span>
-						<span>🔱 1821</span>
-					</div>
-				<div class="stars-today">⭐ 11551 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45123</span>
-						<span>🔱 7914</span>
-					</div>
-				<div class="stars-today">⭐ 2612 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 52963</span>
-						<span>🔱 3790</span>
+						<span>⭐ 52990</span>
+						<span>🔱 3791</span>
 					</div>
 				<div class="stars-today">⭐ 5971 stars this month</div>
 				</div>
@@ -294,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13723</span>
+						<span>⭐ 13734</span>
 						<span>🔱 3276</span>
 					</div>
 				<div class="stars-today">⭐ 2149 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45127</span>
+						<span>🔱 7917</span>
+					</div>
+				<div class="stars-today">⭐ 2612 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29346</span>
-						<span>🔱 2348</span>
+						<span>⭐ 29356</span>
+						<span>🔱 2349</span>
 					</div>
 				<div class="stars-today">⭐ 2310 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DayuanJiang/next-ai-draw-io" target="_blank">
+    
+
+
+      
+        DayuanJiang /
+
+      next-ai-draw-io</a></p>
+				<p>
+      A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17815</span>
+						<span>🔱 1821</span>
+					</div>
+				<div class="stars-today">⭐ 11551 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      Claude Code superpowers: core skills library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 16489</span>
+						<span>🔱 1297</span>
+					</div>
+				<div class="stars-today">⭐ 6737 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11269</span>
+						<span>⭐ 11278</span>
 						<span>🔱 1219</span>
 					</div>
 				<div class="stars-today">⭐ 3359 stars this month</div>

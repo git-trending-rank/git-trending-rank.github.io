@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第2周
-date: 2026-01-11T09:58:35Z
+date: 2026-01-11T11:58:39Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60455</span>
-						<span>🔱 5185</span>
+						<span>⭐ 60646</span>
+						<span>🔱 5201</span>
 					</div>
 				<div class="stars-today">⭐ 12889 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 1231</span>
-						<span>🔱 95</span>
+						<span>⭐ 1264</span>
+						<span>🔱 96</span>
 					</div>
 				<div class="stars-today">⭐ 748 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 54959</span>
-						<span>🔱 3978</span>
+						<span>⭐ 55004</span>
+						<span>🔱 3979</span>
 					</div>
 				<div class="stars-today">⭐ 3895 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
-    
-
-
-      
-        usememos /
-
-      memos</a></p>
-				<p>
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 52963</span>
-						<span>🔱 3790</span>
-					</div>
-				<div class="stars-today">⭐ 3513 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22529</span>
-						<span>🔱 2179</span>
+						<span>⭐ 22560</span>
+						<span>🔱 2183</span>
 					</div>
 				<div class="stars-today">⭐ 1824 stars this week</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58036</span>
-						<span>🔱 5629</span>
+						<span>⭐ 58060</span>
+						<span>🔱 5631</span>
 					</div>
 				<div class="stars-today">⭐ 1763 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14655</span>
-						<span>🔱 1366</span>
-					</div>
-				<div class="stars-today">⭐ 2879 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20188</span>
-						<span>🔱 1229</span>
+						<span>⭐ 20210</span>
+						<span>🔱 1231</span>
 					</div>
 				<div class="stars-today">⭐ 1459 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HQarroum/docker-android" target="_blank">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
     
 
 
       
-        HQarroum /
+        usememos /
 
-      docker-android</a></p>
+      memos</a></p>
 				<p>
-      🤖 A minimal and customizable Docker image running the Android emulator as a service.
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 52990</span>
+						<span>🔱 3791</span>
+					</div>
+				<div class="stars-today">⭐ 3513 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      Claude Code superpowers: core skills library
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2840</span>
-						<span>🔱 162</span>
+						<span>⭐ 16489</span>
+						<span>🔱 1297</span>
 					</div>
-				<div class="stars-today">⭐ 821 stars this week</div>
+				<div class="stars-today">⭐ 2576 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/googletest" target="_blank">
+    
+
+
+      
+        google /
+
+      googletest</a></p>
+				<p>
+      GoogleTest - Google Testing and Mocking Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 38052</span>
+						<span>🔱 10664</span>
+					</div>
+				<div class="stars-today">⭐ 335 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 14677</span>
+						<span>🔱 1368</span>
+					</div>
+				<div class="stars-today">⭐ 2879 stars this week</div>
 				</div>
 			</div>
 	
