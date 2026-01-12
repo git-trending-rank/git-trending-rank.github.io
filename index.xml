@@ -6,312 +6,10 @@
         <description>Recent content on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 12 Jan 2026 07:58:44 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>GitHub 趋势 2026-01-12</title>
-        <link>https://git-trending-rank.github.io/post/trending-daily-2026-01-12/</link>
-        <pubDate>Mon, 12 Jan 2026 07:58:44 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-daily-2026-01-12/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anomalyco /
-
-      opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The open source coding agent.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 63285&lt;/span&gt;
-						&lt;span&gt;🔱 5433&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2087 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        obra /
-
-      superpowers&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code superpowers: core skills library
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 17733&lt;/span&gt;
-						&lt;span&gt;🔱 1385&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 699 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/frankbria/ralph-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        frankbria /
-
-      ralph-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Autonomous AI development loop for Claude Code with intelligent exit detection
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 1833&lt;/span&gt;
-						&lt;span&gt;🔱 127&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 255 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/davila7/claude-code-templates&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      CLI tool for configuring and monitoring Claude Code
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15711&lt;/span&gt;
-						&lt;span&gt;🔱 1357&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 133 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/makeplane/plane&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        makeplane /
-
-      plane&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 43696&lt;/span&gt;
-						&lt;span&gt;🔱 3285&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 326 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/twitter/twemoji&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        twitter /
-
-      twemoji&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Emoji for everyone. https://twemoji.twitter.com/
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 17479&lt;/span&gt;
-						&lt;span&gt;🔱 1906&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/UI-TARS-desktop&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 22949&lt;/span&gt;
-						&lt;span&gt;🔱 2226&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 473 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/twentyhq/twenty&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        twentyhq /
-
-      twenty&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Building a modern alternative to Salesforce, powered by the community.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 38747&lt;/span&gt;
-						&lt;span&gt;🔱 4926&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 342 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/home-assistant/home-assistant.io&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        home-assistant /
-
-      home-assistant.io&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📘 Home Assistant User documentation
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 8007&lt;/span&gt;
-						&lt;span&gt;🔱 8088&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 55458&lt;/span&gt;
-						&lt;span&gt;🔱 4016&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 602 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/C4illin/ConvertX&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        C4illin /
-
-      ConvertX&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14711&lt;/span&gt;
-						&lt;span&gt;🔱 784&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 316 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/simstudioai/sim&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        simstudioai /
-
-      sim&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open-source platform to build and deploy AI agent workflows.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 25470&lt;/span&gt;
-						&lt;span&gt;🔱 3161&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 152 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/gyoridavid/ai_agents_az&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        gyoridavid /
-
-      ai_agents_az&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2533&lt;/span&gt;
-						&lt;span&gt;🔱 662&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 333 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Mon, 12 Jan 2026 10:12:34 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年1月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B41%E6%9C%88/</link>
-        <pubDate>Mon, 12 Jan 2026 07:58:44 +0000</pubDate>
+        <pubDate>Mon, 12 Jan 2026 10:12:34 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B41%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -335,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 63285&lt;/span&gt;
-						&lt;span&gt;🔱 5433&lt;/span&gt;
+						&lt;span&gt;⭐ 63686&lt;/span&gt;
+						&lt;span&gt;🔱 5459&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22938 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -357,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 15046&lt;/span&gt;
-						&lt;span&gt;🔱 1399&lt;/span&gt;
+						&lt;span&gt;⭐ 15104&lt;/span&gt;
+						&lt;span&gt;🔱 1403&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8294 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -379,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 55458&lt;/span&gt;
-						&lt;span&gt;🔱 4016&lt;/span&gt;
+						&lt;span&gt;⭐ 55526&lt;/span&gt;
+						&lt;span&gt;🔱 4021&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9788 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -401,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13347&lt;/span&gt;
-						&lt;span&gt;🔱 859&lt;/span&gt;
+						&lt;span&gt;⭐ 13367&lt;/span&gt;
+						&lt;span&gt;🔱 861&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9771 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -423,8 +121,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 38054&lt;/span&gt;
-						&lt;span&gt;🔱 3455&lt;/span&gt;
+						&lt;span&gt;⭐ 38157&lt;/span&gt;
+						&lt;span&gt;🔱 3478&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17222 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -445,7 +143,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 39825&lt;/span&gt;
+						&lt;span&gt;⭐ 39832&lt;/span&gt;
 						&lt;span&gt;🔱 2686&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7165 stars this month&lt;/div&gt;
@@ -467,7 +165,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 21270&lt;/span&gt;
+						&lt;span&gt;⭐ 21279&lt;/span&gt;
 						&lt;span&gt;🔱 2772&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6340 stars this month&lt;/div&gt;
@@ -489,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 9691&lt;/span&gt;
-						&lt;span&gt;🔱 595&lt;/span&gt;
+						&lt;span&gt;⭐ 9719&lt;/span&gt;
+						&lt;span&gt;🔱 597&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5111 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -511,8 +209,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4382&lt;/span&gt;
-						&lt;span&gt;🔱 715&lt;/span&gt;
+						&lt;span&gt;⭐ 4392&lt;/span&gt;
+						&lt;span&gt;🔱 716&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3011 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -533,7 +231,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 25470&lt;/span&gt;
+						&lt;span&gt;⭐ 25484&lt;/span&gt;
 						&lt;span&gt;🔱 3161&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6739 stars this month&lt;/div&gt;
@@ -555,8 +253,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 53225&lt;/span&gt;
-						&lt;span&gt;🔱 3804&lt;/span&gt;
+						&lt;span&gt;⭐ 53313&lt;/span&gt;
+						&lt;span&gt;🔱 3815&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6102 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -577,8 +275,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13894&lt;/span&gt;
-						&lt;span&gt;🔱 3291&lt;/span&gt;
+						&lt;span&gt;⭐ 13909&lt;/span&gt;
+						&lt;span&gt;🔱 3293&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2198 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -599,7 +297,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 45174&lt;/span&gt;
+						&lt;span&gt;⭐ 45179&lt;/span&gt;
 						&lt;span&gt;🔱 7921&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2654 stars this month&lt;/div&gt;
@@ -621,8 +319,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 29432&lt;/span&gt;
-						&lt;span&gt;🔱 2354&lt;/span&gt;
+						&lt;span&gt;⭐ 29444&lt;/span&gt;
+						&lt;span&gt;🔱 2357&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2415 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -643,8 +341,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17987&lt;/span&gt;
-						&lt;span&gt;🔱 1842&lt;/span&gt;
+						&lt;span&gt;⭐ 18017&lt;/span&gt;
+						&lt;span&gt;🔱 1843&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11008 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -665,8 +363,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 17733&lt;/span&gt;
-						&lt;span&gt;🔱 1385&lt;/span&gt;
+						&lt;span&gt;⭐ 17921&lt;/span&gt;
+						&lt;span&gt;🔱 1392&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7108 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -687,8 +385,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 11360&lt;/span&gt;
-						&lt;span&gt;🔱 1237&lt;/span&gt;
+						&lt;span&gt;⭐ 11372&lt;/span&gt;
+						&lt;span&gt;🔱 1238&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3358 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -701,9 +399,311 @@
 </description>
         </item>
         <item>
+        <title>GitHub 趋势 2026-01-12</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2026-01-12/</link>
+        <pubDate>Mon, 12 Jan 2026 10:12:33 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2026-01-12/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anomalyco /
+
+      opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open source coding agent.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 63686&lt;/span&gt;
+						&lt;span&gt;🔱 5459&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2087 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        obra /
+
+      superpowers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code superpowers: core skills library
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 17921&lt;/span&gt;
+						&lt;span&gt;🔱 1392&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 699 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/frankbria/ralph-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        frankbria /
+
+      ralph-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Autonomous AI development loop for Claude Code with intelligent exit detection
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 1892&lt;/span&gt;
+						&lt;span&gt;🔱 129&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 255 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/davila7/claude-code-templates&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        davila7 /
+
+      claude-code-templates&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      CLI tool for configuring and monitoring Claude Code
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 15742&lt;/span&gt;
+						&lt;span&gt;🔱 1357&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 133 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/makeplane/plane&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        makeplane /
+
+      plane&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 43755&lt;/span&gt;
+						&lt;span&gt;🔱 3285&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 326 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/twitter/twemoji&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        twitter /
+
+      twemoji&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Emoji for everyone. https://twemoji.twitter.com/
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 HTML&lt;/span&gt;
+						&lt;span&gt;⭐ 17483&lt;/span&gt;
+						&lt;span&gt;🔱 1906&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/UI-TARS-desktop&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 23013&lt;/span&gt;
+						&lt;span&gt;🔱 2230&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 473 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/twentyhq/twenty&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        twentyhq /
+
+      twenty&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Building a modern alternative to Salesforce, powered by the community.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 38775&lt;/span&gt;
+						&lt;span&gt;🔱 4928&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 342 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/home-assistant/home-assistant.io&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        home-assistant /
+
+      home-assistant.io&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📘 Home Assistant User documentation
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 HTML&lt;/span&gt;
+						&lt;span&gt;⭐ 8028&lt;/span&gt;
+						&lt;span&gt;🔱 8091&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 55526&lt;/span&gt;
+						&lt;span&gt;🔱 4021&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 602 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/C4illin/ConvertX&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        C4illin /
+
+      ConvertX&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 14768&lt;/span&gt;
+						&lt;span&gt;🔱 787&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 316 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/simstudioai/sim&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        simstudioai /
+
+      sim&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open-source platform to build and deploy AI agent workflows.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 25484&lt;/span&gt;
+						&lt;span&gt;🔱 3161&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 152 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gyoridavid/ai_agents_az&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        gyoridavid /
+
+      ai_agents_az&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 2556&lt;/span&gt;
+						&lt;span&gt;🔱 663&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 333 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2026年第3周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC3%E5%91%A8/</link>
-        <pubDate>Mon, 12 Jan 2026 07:58:44 +0000</pubDate>
+        <pubDate>Mon, 12 Jan 2026 10:12:33 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC3%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -727,8 +727,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 63285&lt;/span&gt;
-						&lt;span&gt;🔱 5433&lt;/span&gt;
+						&lt;span&gt;⭐ 63686&lt;/span&gt;
+						&lt;span&gt;🔱 5459&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13823 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -749,8 +749,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 1833&lt;/span&gt;
-						&lt;span&gt;🔱 127&lt;/span&gt;
+						&lt;span&gt;⭐ 1892&lt;/span&gt;
+						&lt;span&gt;🔱 129&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 925 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -771,8 +771,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 55458&lt;/span&gt;
-						&lt;span&gt;🔱 4016&lt;/span&gt;
+						&lt;span&gt;⭐ 55526&lt;/span&gt;
+						&lt;span&gt;🔱 4021&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4137 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -793,8 +793,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 22949&lt;/span&gt;
-						&lt;span&gt;🔱 2226&lt;/span&gt;
+						&lt;span&gt;⭐ 23013&lt;/span&gt;
+						&lt;span&gt;🔱 2230&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2212 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -815,8 +815,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 9691&lt;/span&gt;
-						&lt;span&gt;🔱 595&lt;/span&gt;
+						&lt;span&gt;⭐ 9719&lt;/span&gt;
+						&lt;span&gt;🔱 597&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1579 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -837,8 +837,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 58247&lt;/span&gt;
-						&lt;span&gt;🔱 5643&lt;/span&gt;
+						&lt;span&gt;⭐ 58281&lt;/span&gt;
+						&lt;span&gt;🔱 5646&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1503 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -859,8 +859,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 20450&lt;/span&gt;
-						&lt;span&gt;🔱 1237&lt;/span&gt;
+						&lt;span&gt;⭐ 20479&lt;/span&gt;
+						&lt;span&gt;🔱 1239&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1701 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -881,8 +881,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 53225&lt;/span&gt;
-						&lt;span&gt;🔱 3804&lt;/span&gt;
+						&lt;span&gt;⭐ 53313&lt;/span&gt;
+						&lt;span&gt;🔱 3815&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2122 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -903,8 +903,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 17733&lt;/span&gt;
-						&lt;span&gt;🔱 1385&lt;/span&gt;
+						&lt;span&gt;⭐ 17921&lt;/span&gt;
+						&lt;span&gt;🔱 1392&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2878 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -947,8 +947,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 15046&lt;/span&gt;
-						&lt;span&gt;🔱 1399&lt;/span&gt;
+						&lt;span&gt;⭐ 15104&lt;/span&gt;
+						&lt;span&gt;🔱 1403&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2442 stars this week&lt;/div&gt;
 				&lt;/div&gt;
