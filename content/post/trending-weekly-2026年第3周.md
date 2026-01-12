@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第3周
-date: 2026-01-12T10:12:33Z
+date: 2026-01-12T11:58:52Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 63686</span>
-						<span>🔱 5459</span>
+						<span>⭐ 63889</span>
+						<span>🔱 5477</span>
 					</div>
 				<div class="stars-today">⭐ 13823 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 1892</span>
-						<span>🔱 129</span>
+						<span>⭐ 1933</span>
+						<span>🔱 135</span>
 					</div>
 				<div class="stars-today">⭐ 925 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 55526</span>
-						<span>🔱 4021</span>
+						<span>⭐ 55570</span>
+						<span>🔱 4023</span>
 					</div>
 				<div class="stars-today">⭐ 4137 stars this week</div>
 				</div>
@@ -96,98 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23013</span>
-						<span>🔱 2230</span>
+						<span>⭐ 23045</span>
+						<span>🔱 2234</span>
 					</div>
 				<div class="stars-today">⭐ 2212 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steveyegge/beads" target="_blank">
-    
-
-
-      
-        steveyegge /
-
-      beads</a></p>
-				<p>
-      Beads - A memory upgrade for your coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 9719</span>
-						<span>🔱 597</span>
-					</div>
-				<div class="stars-today">⭐ 1579 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58281</span>
-						<span>🔱 5646</span>
-					</div>
-				<div class="stars-today">⭐ 1503 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20479</span>
-						<span>🔱 1239</span>
-					</div>
-				<div class="stars-today">⭐ 1701 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
-    
-
-
-      
-        usememos /
-
-      memos</a></p>
-				<p>
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 53313</span>
-						<span>🔱 3815</span>
-					</div>
-				<div class="stars-today">⭐ 2122 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 17921</span>
-						<span>🔱 1392</span>
+						<span>⭐ 18025</span>
+						<span>🔱 1401</span>
 					</div>
 				<div class="stars-today">⭐ 2878 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/googletest" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        google /
+        ChromeDevTools /
 
-      googletest</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      GoogleTest - Google Testing and Mocking Framework
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 38070</span>
-						<span>🔱 10666</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20494</span>
+						<span>🔱 1239</span>
 					</div>
-				<div class="stars-today">⭐ 382 stars this week</div>
+				<div class="stars-today">⭐ 1701 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steveyegge/beads" target="_blank">
+    
+
+
+      
+        steveyegge /
+
+      beads</a></p>
+				<p>
+      Beads - A memory upgrade for your coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9730</span>
+						<span>🔱 597</span>
+					</div>
+				<div class="stars-today">⭐ 1579 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 127840</span>
+						<span>🔱 7591</span>
+					</div>
+				<div class="stars-today">⭐ 823 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15104</span>
-						<span>🔱 1403</span>
+						<span>⭐ 15140</span>
+						<span>🔱 1404</span>
 					</div>
 				<div class="stars-today">⭐ 2442 stars this week</div>
 				</div>

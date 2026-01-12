@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-12
-date: 2026-01-12T10:12:33Z
+date: 2026-01-12T11:58:52Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
     
 
 
       
-        anomalyco /
+        DioxusLabs /
 
-      opencode</a></p>
+      dioxus</a></p>
 				<p>
-      The open source coding agent.
+      Fullstack app framework for web, desktop, and mobile.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 63686</span>
-						<span>🔱 5459</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 33344</span>
+						<span>🔱 1458</span>
 					</div>
-				<div class="stars-today">⭐ 2087 stars today</div>
+				<div class="stars-today">⭐ 145 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
     
 
 
       
-        obra /
+        NanmiCoder /
 
-      superpowers</a></p>
+      MediaCrawler</a></p>
 				<p>
-      Claude Code superpowers: core skills library
+      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 17921</span>
-						<span>🔱 1392</span>
+						<span>🔠 Python</span>
+						<span>⭐ 41998</span>
+						<span>🔱 9334</span>
 					</div>
-				<div class="stars-today">⭐ 699 stars today</div>
+				<div class="stars-today">⭐ 139 stars today</div>
 				</div>
 			</div>
 	
@@ -74,76 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 1892</span>
-						<span>🔱 129</span>
+						<span>⭐ 1933</span>
+						<span>🔱 135</span>
 					</div>
-				<div class="stars-today">⭐ 255 stars today</div>
+				<div class="stars-today">⭐ 667 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
     
 
 
       
-        davila7 /
+        iptv-org /
 
-      claude-code-templates</a></p>
+      iptv</a></p>
 				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15742</span>
-						<span>🔱 1357</span>
-					</div>
-				<div class="stars-today">⭐ 133 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/makeplane/plane" target="_blank">
-    
-
-
-      
-        makeplane /
-
-      plane</a></p>
-				<p>
-      🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+      Collection of publicly available IPTV channels from all over the world
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43755</span>
-						<span>🔱 3285</span>
+						<span>⭐ 109202</span>
+						<span>🔱 5323</span>
 					</div>
-				<div class="stars-today">⭐ 326 stars today</div>
+				<div class="stars-today">⭐ 163 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twitter/twemoji" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        twitter /
+        hacksider /
 
-      twemoji</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      Emoji for everyone. https://twemoji.twitter.com/
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 17483</span>
-						<span>🔱 1906</span>
+						<span>🔠 Python</span>
+						<span>⭐ 77328</span>
+						<span>🔱 11298</span>
 					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
+				<div class="stars-today">⭐ 235 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23013</span>
-						<span>🔱 2230</span>
+						<span>⭐ 23045</span>
+						<span>🔱 2234</span>
 					</div>
-				<div class="stars-today">⭐ 473 stars today</div>
+				<div class="stars-today">⭐ 492 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        twentyhq /
+        obra /
 
-      twenty</a></p>
+      superpowers</a></p>
 				<p>
-      Building a modern alternative to Salesforce, powered by the community.
+      Claude Code superpowers: core skills library
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 38775</span>
-						<span>🔱 4928</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 18025</span>
+						<span>🔱 1401</span>
 					</div>
-				<div class="stars-today">⭐ 342 stars today</div>
+				<div class="stars-today">⭐ 1547 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/claude-flow" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      claude-flow</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11463</span>
+						<span>🔱 1475</span>
+					</div>
+				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
@@ -206,96 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 8028</span>
+						<span>⭐ 8045</span>
 						<span>🔱 8091</span>
 					</div>
-				<div class="stars-today">⭐ 12 stars today</div>
+				<div class="stars-today">⭐ 268 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/mpv-player/mpv" target="_blank">
     
 
 
       
-        anthropics /
+        mpv-player /
 
-      claude-code</a></p>
+      mpv</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      🎥 Command line media player
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 55526</span>
-						<span>🔱 4021</span>
+						<span>🔠 C</span>
+						<span>⭐ 33392</span>
+						<span>🔱 3190</span>
 					</div>
-				<div class="stars-today">⭐ 602 stars today</div>
+				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/C4illin/ConvertX" target="_blank">
+				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
     
 
 
       
-        C4illin /
+        OpenBMB /
 
-      ConvertX</a></p>
+      ChatDev</a></p>
 				<p>
-      💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
+      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
     </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14768</span>
-						<span>🔱 787</span>
-					</div>
-				<div class="stars-today">⭐ 316 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25484</span>
-						<span>🔱 3161</span>
-					</div>
-				<div class="stars-today">⭐ 152 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gyoridavid/ai_agents_az" target="_blank">
-    
-
-
-      
-        gyoridavid /
-
-      ai_agents_az</a></p>
-				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2556</span>
-						<span>🔱 663</span>
+						<span>⭐ 28231</span>
+						<span>🔱 3575</span>
 					</div>
-				<div class="stars-today">⭐ 333 stars today</div>
+				<div class="stars-today">⭐ 57 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opf/openproject" target="_blank">
+    
+
+
+      
+        opf /
+
+      openproject</a></p>
+				<p>
+      OpenProject is the leading open source project management software.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 13819</span>
+						<span>🔱 3028</span>
+					</div>
+				<div class="stars-today">⭐ 175 stars today</div>
 				</div>
 			</div>
 	
