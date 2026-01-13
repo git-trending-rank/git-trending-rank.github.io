@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-13
-date: 2026-01-13T09:59:57Z
+date: 2026-01-13T11:58:40Z
 categories:
 - daily
 keywords:
@@ -14,138 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DioxusLabs/dioxus" target="_blank">
-    
-
-
-      
-        DioxusLabs /
-
-      dioxus</a></p>
-				<p>
-      Fullstack app framework for web, desktop, and mobile.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 33919</span>
-						<span>🔱 1490</span>
-					</div>
-				<div class="stars-today">⭐ 177 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NanmiCoder/MediaCrawler" target="_blank">
-    
-
-
-      
-        NanmiCoder /
-
-      MediaCrawler</a></p>
-				<p>
-      小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫 | 知乎问答文章｜评论爬虫
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42465</span>
-						<span>🔱 9397</span>
-					</div>
-				<div class="stars-today">⭐ 167 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
-    
-
-
-      
-        frankbria /
-
-      ralph-claude-code</a></p>
-				<p>
-      Autonomous AI development loop for Claude Code with intelligent exit detection
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 2425</span>
-						<span>🔱 162</span>
-					</div>
-				<div class="stars-today">⭐ 673 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 109507</span>
-						<span>🔱 5341</span>
-					</div>
-				<div class="stars-today">⭐ 140 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 77683</span>
-						<span>🔱 11339</span>
-					</div>
-				<div class="stars-today">⭐ 91 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23368</span>
-						<span>🔱 2267</span>
-					</div>
-				<div class="stars-today">⭐ 492 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/obra/superpowers" target="_blank">
@@ -162,32 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 19445</span>
-						<span>🔱 1484</span>
+						<span>⭐ 19583</span>
+						<span>🔱 1491</span>
 					</div>
-				<div class="stars-today">⭐ 1538 stars today</div>
+				<div class="stars-today">⭐ 1566 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/claude-flow" target="_blank">
+				<p><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader" target="_blank">
     
 
 
       
-        ruvnet /
+        icloud-photos-downloader /
 
-      claude-flow</a></p>
+      icloud_photos_downloader</a></p>
 				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks.
+      A command-line tool to download photos from iCloud
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11856</span>
-						<span>🔱 1497</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10818</span>
+						<span>🔱 721</span>
 					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
+				<div class="stars-today">⭐ 807 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/blakeblackshear/frigate" target="_blank">
+    
+
+
+      
+        blakeblackshear /
+
+      frigate</a></p>
+				<p>
+      NVR with realtime local object detection for IP cameras
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28810</span>
+						<span>🔱 2700</span>
+					</div>
+				<div class="stars-today">⭐ 38 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+    
+
+
+      
+        twitter /
+
+      the-algorithm</a></p>
+				<p>
+      Source code for the X Recommendation Algorithm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Scala</span>
+						<span>⭐ 69379</span>
+						<span>🔱 12838</span>
+					</div>
+				<div class="stars-today">⭐ 43 stars today</div>
 				</div>
 			</div>
 	
@@ -206,76 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 8208</span>
+						<span>⭐ 8221</span>
 						<span>🔱 8110</span>
 					</div>
-				<div class="stars-today">⭐ 267 stars today</div>
+				<div class="stars-today">⭐ 184 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mpv-player/mpv" target="_blank">
+				<p><a href="https://github.com/chidiwilliams/buzz" target="_blank">
     
 
 
       
-        mpv-player /
+        chidiwilliams /
 
-      mpv</a></p>
+      buzz</a></p>
 				<p>
-      🎥 Command line media player
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 33560</span>
-						<span>🔱 3195</span>
-					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      ChatDev</a></p>
-				<p>
-      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+      Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28495</span>
-						<span>🔱 3600</span>
+						<span>⭐ 16501</span>
+						<span>🔱 1232</span>
 					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
+				<div class="stars-today">⭐ 263 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opf/openproject" target="_blank">
+				<p><a href="https://github.com/adam-maj/tiny-gpu" target="_blank">
     
 
 
       
-        opf /
+        adam-maj /
 
-      openproject</a></p>
+      tiny-gpu</a></p>
 				<p>
-      OpenProject is the leading open source project management software.
+      A minimal GPU design in Verilog to learn how GPUs work from the ground up
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 14050</span>
-						<span>🔱 3043</span>
+						<span>🔠 SystemVerilog</span>
+						<span>⭐ 9613</span>
+						<span>🔱 765</span>
 					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 140 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Free-TV/IPTV" target="_blank">
+    
+
+
+      
+        Free-TV /
+
+      IPTV</a></p>
+				<p>
+      M3U Playlist for free TV channels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10381</span>
+						<span>🔱 1721</span>
+					</div>
+				<div class="stars-today">⭐ 787 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+    
+
+
+      
+        onlook-dev /
+
+      onlook</a></p>
+				<p>
+      The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23930</span>
+						<span>🔱 1778</span>
+					</div>
+				<div class="stars-today">⭐ 42 stars today</div>
 				</div>
 			</div>
 	

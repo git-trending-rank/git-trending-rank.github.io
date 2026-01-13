@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-13T09:59:57Z
+date: 2026-01-13T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 65911</span>
-						<span>🔱 5670</span>
+						<span>⭐ 66054</span>
+						<span>🔱 5695</span>
 					</div>
 				<div class="stars-today">⭐ 26199 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39180</span>
+						<span>🔱 3571</span>
+					</div>
+				<div class="stars-today">⭐ 17890 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15497</span>
-						<span>🔱 1438</span>
+						<span>⭐ 15507</span>
+						<span>🔱 1439</span>
 					</div>
 				<div class="stars-today">⭐ 8782 stars this month</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 55936</span>
-						<span>🔱 4069</span>
+						<span>⭐ 55964</span>
+						<span>🔱 4075</span>
 					</div>
 				<div class="stars-today">⭐ 10227 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39101</span>
-						<span>🔱 3565</span>
-					</div>
-				<div class="stars-today">⭐ 17890 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39885</span>
+						<span>⭐ 39883</span>
 						<span>🔱 2694</span>
 					</div>
 				<div class="stars-today">⭐ 7215 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13527</span>
-						<span>🔱 880</span>
-					</div>
-				<div class="stars-today">⭐ 9261 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21357</span>
+						<span>⭐ 21353</span>
 						<span>🔱 2787</span>
 					</div>
 				<div class="stars-today">⭐ 6427 stars this month</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4477</span>
-						<span>🔱 729</span>
+						<span>⭐ 4484</span>
+						<span>🔱 731</span>
 					</div>
 				<div class="stars-today">⭐ 3083 stars this month</div>
 				</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9916</span>
+						<span>⭐ 9929</span>
 						<span>🔱 619</span>
 					</div>
 				<div class="stars-today">⭐ 5121 stars this month</div>
@@ -214,24 +192,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        shareAI-lab /
+        thedotmack /
 
-      learn-claude-code</a></p>
+      claude-mem</a></p>
 				<p>
-      How can we build a true AI agent? Like Claude Code.
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14051</span>
-						<span>🔱 3302</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13533</span>
+						<span>🔱 880</span>
 					</div>
-				<div class="stars-today">⭐ 2382 stars this month</div>
+				<div class="stars-today">⭐ 9261 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      Claude Code superpowers: core skills library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 19583</span>
+						<span>🔱 1491</span>
+					</div>
+				<div class="stars-today">⭐ 8708 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 53743</span>
-						<span>🔱 3853</span>
+						<span>⭐ 53778</span>
+						<span>🔱 3859</span>
 					</div>
 				<div class="stars-today">⭐ 6512 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      How can we build a true AI agent? Like Claude Code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14062</span>
+						<span>🔱 3304</span>
+					</div>
+				<div class="stars-today">⭐ 2382 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23367</span>
-						<span>🔱 2267</span>
+						<span>⭐ 23379</span>
+						<span>🔱 2268</span>
 					</div>
 				<div class="stars-today">⭐ 3291 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45234</span>
-						<span>🔱 7930</span>
-					</div>
-				<div class="stars-today">⭐ 2704 stars this month</div>
 				</div>
 			</div>
 	
@@ -324,46 +324,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        obra /
+        virattt /
 
-      superpowers</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      Claude Code superpowers: core skills library
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 19445</span>
-						<span>🔱 1484</span>
+						<span>🔠 Python</span>
+						<span>⭐ 45233</span>
+						<span>🔱 7930</span>
 					</div>
-				<div class="stars-today">⭐ 8708 stars this month</div>
+				<div class="stars-today">⭐ 2704 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+				<p><a href="https://github.com/yichuan-w/LEANN" target="_blank">
     
 
 
       
-        simstudioai /
+        yichuan-w /
 
-      sim</a></p>
+      LEANN</a></p>
 				<p>
-      Open-source platform to build and deploy AI agent workflows.
+      RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8520</span>
+						<span>🔱 757</span>
+					</div>
+				<div class="stars-today">⭐ 3563 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25617</span>
-						<span>🔱 3181</span>
+						<span>⭐ 1588</span>
+						<span>🔱 213</span>
 					</div>
-				<div class="stars-today">⭐ 6447 stars this month</div>
+				<div class="stars-today">⭐ 1111 stars this month</div>
 				</div>
 			</div>
 	
