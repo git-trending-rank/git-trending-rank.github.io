@@ -6,7 +6,223 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 13 Jan 2026 23:58:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Jan 2026 03:27:10 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2026-01-14</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2026-01-14/</link>
+        <pubDate>Wed, 14 Jan 2026 03:27:10 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2026-01-14/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        obra /
+
+      superpowers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code superpowers: core skills library
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 20684&lt;/span&gt;
+						&lt;span&gt;🔱 1570&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1576 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/icloud-photos-downloader/icloud_photos_downloader&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        icloud-photos-downloader /
+
+      icloud_photos_downloader&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A command-line tool to download photos from iCloud
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 11053&lt;/span&gt;
+						&lt;span&gt;🔱 732&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 413 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/blakeblackshear/frigate&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        blakeblackshear /
+
+      frigate&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      NVR with realtime local object detection for IP cameras
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 29011&lt;/span&gt;
+						&lt;span&gt;🔱 2707&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 51 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/twitter/the-algorithm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        twitter /
+
+      the-algorithm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Source code for the X Recommendation Algorithm
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Scala&lt;/span&gt;
+						&lt;span&gt;⭐ 69589&lt;/span&gt;
+						&lt;span&gt;🔱 12860&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 73 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/home-assistant/home-assistant.io&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        home-assistant /
+
+      home-assistant.io&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📘 Home Assistant User documentation
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 HTML&lt;/span&gt;
+						&lt;span&gt;⭐ 8338&lt;/span&gt;
+						&lt;span&gt;🔱 8117&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 185 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/chidiwilliams/buzz&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        chidiwilliams /
+
+      buzz&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 16832&lt;/span&gt;
+						&lt;span&gt;🔱 1250&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 280 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/adam-maj/tiny-gpu&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        adam-maj /
+
+      tiny-gpu&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A minimal GPU design in Verilog to learn how GPUs work from the ground up
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 SystemVerilog&lt;/span&gt;
+						&lt;span&gt;⭐ 9891&lt;/span&gt;
+						&lt;span&gt;🔱 774&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 107 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Free-TV/IPTV&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Free-TV /
+
+      IPTV&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      M3U Playlist for free TV channels
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 10639&lt;/span&gt;
+						&lt;span&gt;🔱 1729&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 319 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/onlook-dev/onlook&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        onlook-dev /
+
+      onlook&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 24155&lt;/span&gt;
+						&lt;span&gt;🔱 1779&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 54 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2026-01-13</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-01-13/</link>
         <pubDate>Tue, 13 Jan 2026 23:58:52 +0000</pubDate>
