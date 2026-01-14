@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-14
-date: 2026-01-14T14:13:04Z
+date: 2026-01-14T16:01:02Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21589</span>
-						<span>🔱 1629</span>
+						<span>⭐ 21742</span>
+						<span>🔱 1640</span>
 					</div>
 				<div class="stars-today">⭐ 1871 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/icloud-photos-downloader/icloud_photos_downloader" target="_blank">
-    
-
-
-      
-        icloud-photos-downloader /
-
-      icloud_photos_downloader</a></p>
-				<p>
-      A command-line tool to download photos from iCloud
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11186</span>
-						<span>🔱 739</span>
-					</div>
-				<div class="stars-today">⭐ 351 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/blakeblackshear/frigate" target="_blank">
-    
-
-
-      
-        blakeblackshear /
-
-      frigate</a></p>
-				<p>
-      NVR with realtime local object detection for IP cameras
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29162</span>
-						<span>🔱 2721</span>
-					</div>
-				<div class="stars-today">⭐ 337 stars today</div>
 				</div>
 			</div>
 	
@@ -96,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 69761</span>
+						<span>⭐ 69778</span>
 						<span>🔱 12887</span>
 					</div>
 				<div class="stars-today">⭐ 365 stars today</div>
@@ -104,112 +60,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
+				<p><a href="https://github.com/dev-sec/ansible-collection-hardening" target="_blank">
     
 
 
       
-        home-assistant /
+        dev-sec /
 
-      home-assistant.io</a></p>
+      ansible-collection-hardening</a></p>
 				<p>
-      📘 Home Assistant User documentation
+      This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 8437</span>
-						<span>🔱 8121</span>
+						<span>🔠 Jinja</span>
+						<span>⭐ 4947</span>
+						<span>🔱 796</span>
 					</div>
-				<div class="stars-today">⭐ 204 stars today</div>
+				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chidiwilliams/buzz" target="_blank">
+				<p><a href="https://github.com/mudler/LocalAI" target="_blank">
     
 
 
       
-        chidiwilliams /
+        mudler /
 
-      buzz</a></p>
+      LocalAI</a></p>
 				<p>
-      Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
+      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17013</span>
-						<span>🔱 1263</span>
+						<span>🔠 Go</span>
+						<span>⭐ 41405</span>
+						<span>🔱 3397</span>
 					</div>
-				<div class="stars-today">⭐ 488 stars today</div>
+				<div class="stars-today">⭐ 64 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/adam-maj/tiny-gpu" target="_blank">
+				<p><a href="https://github.com/grab/cursor-talk-to-figma-mcp" target="_blank">
     
 
 
       
-        adam-maj /
+        grab /
 
-      tiny-gpu</a></p>
+      cursor-talk-to-figma-mcp</a></p>
 				<p>
-      A minimal GPU design in Verilog to learn how GPUs work from the ground up
+      TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 SystemVerilog</span>
-						<span>⭐ 10079</span>
-						<span>🔱 781</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5914</span>
+						<span>🔱 634</span>
 					</div>
-				<div class="stars-today">⭐ 441 stars today</div>
+				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Free-TV/IPTV" target="_blank">
+				<p><a href="https://github.com/zoicware/RemoveWindowsAI" target="_blank">
     
 
 
       
-        Free-TV /
+        zoicware /
 
-      IPTV</a></p>
+      RemoveWindowsAI</a></p>
 				<p>
-      M3U Playlist for free TV channels
+      Force Remove Copilot, Recall and More in Windows 11
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10832</span>
-						<span>🔱 1745</span>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 8269</span>
+						<span>🔱 257</span>
 					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
+				<div class="stars-today">⭐ 337 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onlook-dev/onlook" target="_blank">
+				<p><a href="https://github.com/rancher/rancher" target="_blank">
     
 
 
       
-        onlook-dev /
+        rancher /
 
-      onlook</a></p>
+      rancher</a></p>
 				<p>
-      The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+      Complete container management platform
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24312</span>
-						<span>🔱 1790</span>
+						<span>🔠 Go</span>
+						<span>⭐ 25067</span>
+						<span>🔱 3141</span>
 					</div>
-				<div class="stars-today">⭐ 362 stars today</div>
+				<div class="stars-today">⭐ 6 stars today</div>
 				</div>
 			</div>
 	

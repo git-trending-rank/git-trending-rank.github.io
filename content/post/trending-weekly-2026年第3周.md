@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第3周
-date: 2026-01-14T14:13:04Z
+date: 2026-01-14T16:01:02Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68604</span>
-						<span>🔱 5942</span>
+						<span>⭐ 68768</span>
+						<span>🔱 5959</span>
 					</div>
 				<div class="stars-today">⭐ 15403 stars this week</div>
 				</div>
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2771</span>
-						<span>🔱 182</span>
+						<span>⭐ 2793</span>
+						<span>🔱 187</span>
 					</div>
 				<div class="stars-today">⭐ 1980 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
     
 
 
       
-        Lissy93 /
+        MiroMindAI /
 
-      web-check</a></p>
+      MiroThinker</a></p>
 				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+      MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29773</span>
-						<span>🔱 2368</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4844</span>
+						<span>🔱 327</span>
 					</div>
-				<div class="stars-today">⭐ 2208 stars this week</div>
+				<div class="stars-today">⭐ 2826 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23590</span>
-						<span>🔱 2288</span>
+						<span>⭐ 23597</span>
+						<span>🔱 2289</span>
 					</div>
 				<div class="stars-today">⭐ 3012 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 56403</span>
-						<span>🔱 4118</span>
-					</div>
-				<div class="stars-today">⭐ 4096 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21589</span>
-						<span>🔱 1629</span>
+						<span>⭐ 21742</span>
+						<span>🔱 1640</span>
 					</div>
 				<div class="stars-today">⭐ 5547 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        ChromeDevTools /
+        anthropics /
 
-      chrome-devtools-mcp</a></p>
+      claude-code</a></p>
 				<p>
-      Chrome DevTools for coding agents
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20905</span>
-						<span>🔱 1256</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 56437</span>
+						<span>🔱 4120</span>
 					</div>
-				<div class="stars-today">⭐ 1979 stars this week</div>
+				<div class="stars-today">⭐ 4096 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28611</span>
+						<span>⭐ 28620</span>
 						<span>🔱 3609</span>
 					</div>
 				<div class="stars-today">⭐ 501 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+    
+
+
+      
+        Lissy93 /
+
+      web-check</a></p>
+				<p>
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29784</span>
+						<span>🔱 2368</span>
+					</div>
+				<div class="stars-today">⭐ 2208 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20915</span>
+						<span>🔱 1256</span>
+					</div>
+				<div class="stars-today">⭐ 1979 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 77767</span>
+						<span>🔱 11343</span>
+					</div>
+				<div class="stars-today">⭐ 973 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory infrastructure for LLMs and AI agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4525</span>
+						<span>🔱 306</span>
+					</div>
+				<div class="stars-today">⭐ 1127 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/memvid/memvid" target="_blank">
+    
+
+
+      
+        memvid /
+
+      memvid</a></p>
+				<p>
+      Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 12271</span>
+						<span>🔱 1033</span>
+					</div>
+				<div class="stars-today">⭐ 1304 stars this week</div>
 				</div>
 			</div>
 	
