@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 14 Jan 2026 14:13:04 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Jan 2026 16:01:02 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-01-14</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-01-14/</link>
-        <pubDate>Wed, 14 Jan 2026 14:13:04 +0000</pubDate>
+        <pubDate>Wed, 14 Jan 2026 16:01:02 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-01-14/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,54 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 21589&lt;/span&gt;
-						&lt;span&gt;🔱 1629&lt;/span&gt;
+						&lt;span&gt;⭐ 21742&lt;/span&gt;
+						&lt;span&gt;🔱 1640&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1871 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/icloud-photos-downloader/icloud_photos_downloader&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        icloud-photos-downloader /
-
-      icloud_photos_downloader&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A command-line tool to download photos from iCloud
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11186&lt;/span&gt;
-						&lt;span&gt;🔱 739&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 351 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/blakeblackshear/frigate&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        blakeblackshear /
-
-      frigate&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      NVR with realtime local object detection for IP cameras
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 29162&lt;/span&gt;
-						&lt;span&gt;🔱 2721&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 337 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,7 +55,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Scala&lt;/span&gt;
-						&lt;span&gt;⭐ 69761&lt;/span&gt;
+						&lt;span&gt;⭐ 69778&lt;/span&gt;
 						&lt;span&gt;🔱 12887&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 365 stars today&lt;/div&gt;
@@ -107,112 +63,112 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/home-assistant/home-assistant.io&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dev-sec/ansible-collection-hardening&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        home-assistant /
+        dev-sec /
 
-      home-assistant.io&lt;/a&gt;&lt;/p&gt;
+      ansible-collection-hardening&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      📘 Home Assistant User documentation
+      This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 8437&lt;/span&gt;
-						&lt;span&gt;🔱 8121&lt;/span&gt;
+						&lt;span&gt;🔠 Jinja&lt;/span&gt;
+						&lt;span&gt;⭐ 4947&lt;/span&gt;
+						&lt;span&gt;🔱 796&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 204 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 23 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/chidiwilliams/buzz&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mudler/LocalAI&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        chidiwilliams /
+        mudler /
 
-      buzz&lt;/a&gt;&lt;/p&gt;
+      LocalAI&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper.
+      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 17013&lt;/span&gt;
-						&lt;span&gt;🔱 1263&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 41405&lt;/span&gt;
+						&lt;span&gt;🔱 3397&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 488 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/adam-maj/tiny-gpu&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/grab/cursor-talk-to-figma-mcp&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        adam-maj /
+        grab /
 
-      tiny-gpu&lt;/a&gt;&lt;/p&gt;
+      cursor-talk-to-figma-mcp&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A minimal GPU design in Verilog to learn how GPUs work from the ground up
+      TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 SystemVerilog&lt;/span&gt;
-						&lt;span&gt;⭐ 10079&lt;/span&gt;
-						&lt;span&gt;🔱 781&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5914&lt;/span&gt;
+						&lt;span&gt;🔱 634&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 441 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Free-TV/IPTV&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zoicware/RemoveWindowsAI&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Free-TV /
+        zoicware /
 
-      IPTV&lt;/a&gt;&lt;/p&gt;
+      RemoveWindowsAI&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      M3U Playlist for free TV channels
+      Force Remove Copilot, Recall and More in Windows 11
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10832&lt;/span&gt;
-						&lt;span&gt;🔱 1745&lt;/span&gt;
+						&lt;span&gt;🔠 PowerShell&lt;/span&gt;
+						&lt;span&gt;⭐ 8269&lt;/span&gt;
+						&lt;span&gt;🔱 257&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 433 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 337 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/onlook-dev/onlook&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rancher/rancher&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        onlook-dev /
+        rancher /
 
-      onlook&lt;/a&gt;&lt;/p&gt;
+      rancher&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
+      Complete container management platform
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 24312&lt;/span&gt;
-						&lt;span&gt;🔱 1790&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 25067&lt;/span&gt;
+						&lt;span&gt;🔱 3141&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 362 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

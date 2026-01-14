@@ -6,10 +6,378 @@
         <description>Recent content in Posts on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 14 Jan 2026 14:13:04 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 14 Jan 2026 16:01:03 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2026年1月</title>
+        <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B41%E6%9C%88/</link>
+        <pubDate>Wed, 14 Jan 2026 16:01:03 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B41%E6%9C%88/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/A2UI&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google /
+
+      A2UI&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9823&lt;/span&gt;
+						&lt;span&gt;🔱 724&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9877 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anomalyco /
+
+      opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open source coding agent.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 68768&lt;/span&gt;
+						&lt;span&gt;🔱 5959&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 27955 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Public repository for Agent Skills
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 40408&lt;/span&gt;
+						&lt;span&gt;🔱 3701&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18677 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/BloopAI/vibe-kanban&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Get 10X more out of Claude Code, Codex or any coding agent
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 15949&lt;/span&gt;
+						&lt;span&gt;🔱 1474&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9093 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 56437&lt;/span&gt;
+						&lt;span&gt;🔱 4120&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10499 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/exo-explore/exo&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        exo-explore /
+
+      exo&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 39953&lt;/span&gt;
+						&lt;span&gt;🔱 2698&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7248 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/danielmiessler/Personal_AI_Infrastructure&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Personal AI Infrastructure for upgrading humans.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4582&lt;/span&gt;
+						&lt;span&gt;🔱 745&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3161 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/resemble-ai/chatterbox&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      SoTA open-source TTS
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 21439&lt;/span&gt;
+						&lt;span&gt;🔱 2800&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6466 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        obra /
+
+      superpowers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code superpowers: core skills library
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 21742&lt;/span&gt;
+						&lt;span&gt;🔱 1640&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10031 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/usememos/memos&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        usememos /
+
+      memos&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 54073&lt;/span&gt;
+						&lt;span&gt;🔱 3885&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6839 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/steveyegge/beads&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        steveyegge /
+
+      beads&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Beads - A memory upgrade for your coding agent
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 10156&lt;/span&gt;
+						&lt;span&gt;🔱 636&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5216 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/UI-TARS-desktop&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 23597&lt;/span&gt;
+						&lt;span&gt;🔱 2289&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3589 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/shareAI-lab/learn-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      How can we build a true AI agent? Like Claude Code.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 14197&lt;/span&gt;
+						&lt;span&gt;🔱 3321&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2511 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        thedotmack /
+
+      claude-mem&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 13709&lt;/span&gt;
+						&lt;span&gt;🔱 889&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8602 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Lissy93/web-check&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Lissy93 /
+
+      web-check&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 29784&lt;/span&gt;
+						&lt;span&gt;🔱 2368&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2616 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/KeygraphHQ/shannon&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3702&lt;/span&gt;
+						&lt;span&gt;🔱 538&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3343 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2026-01-14</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-01-14/</link>
-        <pubDate>Wed, 14 Jan 2026 14:13:04 +0000</pubDate>
+        <pubDate>Wed, 14 Jan 2026 16:01:02 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-01-14/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,54 +401,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 21589&lt;/span&gt;
-						&lt;span&gt;🔱 1629&lt;/span&gt;
+						&lt;span&gt;⭐ 21742&lt;/span&gt;
+						&lt;span&gt;🔱 1640&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1871 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/icloud-photos-downloader/icloud_photos_downloader&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        icloud-photos-downloader /
-
-      icloud_photos_downloader&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A command-line tool to download photos from iCloud
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11186&lt;/span&gt;
-						&lt;span&gt;🔱 739&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 351 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/blakeblackshear/frigate&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        blakeblackshear /
-
-      frigate&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      NVR with realtime local object detection for IP cameras
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 29162&lt;/span&gt;
-						&lt;span&gt;🔱 2721&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 337 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,7 +423,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Scala&lt;/span&gt;
-						&lt;span&gt;⭐ 69761&lt;/span&gt;
+						&lt;span&gt;⭐ 69778&lt;/span&gt;
 						&lt;span&gt;🔱 12887&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 365 stars today&lt;/div&gt;
@@ -107,504 +431,112 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/home-assistant/home-assistant.io&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dev-sec/ansible-collection-hardening&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        home-assistant /
+        dev-sec /
 
-      home-assistant.io&lt;/a&gt;&lt;/p&gt;
+      ansible-collection-hardening&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      📘 Home Assistant User documentation
+      This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 8437&lt;/span&gt;
-						&lt;span&gt;🔱 8121&lt;/span&gt;
+						&lt;span&gt;🔠 Jinja&lt;/span&gt;
+						&lt;span&gt;⭐ 4947&lt;/span&gt;
+						&lt;span&gt;🔱 796&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 204 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 23 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/chidiwilliams/buzz&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mudler/LocalAI&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        chidiwilliams /
+        mudler /
 
-      buzz&lt;/a&gt;&lt;/p&gt;
+      LocalAI&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI&#39;s Whisper.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 17013&lt;/span&gt;
-						&lt;span&gt;🔱 1263&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 488 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/adam-maj/tiny-gpu&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        adam-maj /
-
-      tiny-gpu&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A minimal GPU design in Verilog to learn how GPUs work from the ground up
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 SystemVerilog&lt;/span&gt;
-						&lt;span&gt;⭐ 10079&lt;/span&gt;
-						&lt;span&gt;🔱 781&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 441 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Free-TV/IPTV&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Free-TV /
-
-      IPTV&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      M3U Playlist for free TV channels
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10832&lt;/span&gt;
-						&lt;span&gt;🔱 1745&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 433 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/onlook-dev/onlook&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        onlook-dev /
-
-      onlook&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 24312&lt;/span&gt;
-						&lt;span&gt;🔱 1790&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 362 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
-        <title>GitHub 趋势 2026年1月</title>
-        <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B41%E6%9C%88/</link>
-        <pubDate>Wed, 14 Jan 2026 14:13:04 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B41%E6%9C%88/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anomalyco /
-
-      opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The open source coding agent.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 68604&lt;/span&gt;
-						&lt;span&gt;🔱 5942&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 27955 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Public repository for Agent Skills
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 40306&lt;/span&gt;
-						&lt;span&gt;🔱 3687&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18677 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/BloopAI/vibe-kanban&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Get 10X more out of Claude Code, Codex or any coding agent
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 15918&lt;/span&gt;
-						&lt;span&gt;🔱 1472&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9093 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 56403&lt;/span&gt;
-						&lt;span&gt;🔱 4118&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10499 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/exo-explore/exo&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        exo-explore /
-
-      exo&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 39950&lt;/span&gt;
-						&lt;span&gt;🔱 2698&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7248 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/resemble-ai/chatterbox&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      SoTA open-source TTS
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 21433&lt;/span&gt;
-						&lt;span&gt;🔱 2799&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6466 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/danielmiessler/Personal_AI_Infrastructure&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Personal AI Infrastructure for upgrading humans.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4576&lt;/span&gt;
-						&lt;span&gt;🔱 744&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3161 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/steveyegge/beads&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        steveyegge /
-
-      beads&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Beads - A memory upgrade for your coding agent
+      🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more. Features: Generate Text, MCP, Audio, Video, Images, Voice Cloning, Distributed, P2P and decentralized inference
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 10137&lt;/span&gt;
+						&lt;span&gt;⭐ 41405&lt;/span&gt;
+						&lt;span&gt;🔱 3397&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/grab/cursor-talk-to-figma-mcp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        grab /
+
+      cursor-talk-to-figma-mcp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5914&lt;/span&gt;
 						&lt;span&gt;🔱 634&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5216 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zoicware/RemoveWindowsAI&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        thedotmack /
+        zoicware /
 
-      claude-mem&lt;/a&gt;&lt;/p&gt;
+      RemoveWindowsAI&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
+      Force Remove Copilot, Recall and More in Windows 11
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13685&lt;/span&gt;
-						&lt;span&gt;🔱 888&lt;/span&gt;
+						&lt;span&gt;🔠 PowerShell&lt;/span&gt;
+						&lt;span&gt;⭐ 8269&lt;/span&gt;
+						&lt;span&gt;🔱 257&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8602 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 337 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rancher/rancher&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        obra /
+        rancher /
 
-      superpowers&lt;/a&gt;&lt;/p&gt;
+      rancher&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Claude Code superpowers: core skills library
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 21589&lt;/span&gt;
-						&lt;span&gt;🔱 1629&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10031 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/usememos/memos&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        usememos /
-
-      memos&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+      Complete container management platform
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 54049&lt;/span&gt;
-						&lt;span&gt;🔱 3883&lt;/span&gt;
+						&lt;span&gt;⭐ 25067&lt;/span&gt;
+						&lt;span&gt;🔱 3141&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6839 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/shareAI-lab/learn-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      How can we build a true AI agent? Like Claude Code.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 14189&lt;/span&gt;
-						&lt;span&gt;🔱 3320&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2511 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/UI-TARS-desktop&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23590&lt;/span&gt;
-						&lt;span&gt;🔱 2288&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3589 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Lissy93/web-check&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Lissy93 /
-
-      web-check&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 29773&lt;/span&gt;
-						&lt;span&gt;🔱 2368&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2616 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An AI Hedge Fund Team
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 45272&lt;/span&gt;
-						&lt;span&gt;🔱 7934&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2714 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/yichuan-w/LEANN&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        yichuan-w /
-
-      LEANN&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8592&lt;/span&gt;
-						&lt;span&gt;🔱 760&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3576 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/badlogic/pi-mono&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        badlogic /
-
-      pi-mono&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1700&lt;/span&gt;
-						&lt;span&gt;🔱 221&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1139 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -617,7 +549,7 @@
         <item>
         <title>GitHub 趋势 2026年第3周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC3%E5%91%A8/</link>
-        <pubDate>Wed, 14 Jan 2026 14:13:04 +0000</pubDate>
+        <pubDate>Wed, 14 Jan 2026 16:01:02 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC3%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -641,8 +573,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 68604&lt;/span&gt;
-						&lt;span&gt;🔱 5942&lt;/span&gt;
+						&lt;span&gt;⭐ 68768&lt;/span&gt;
+						&lt;span&gt;🔱 5959&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15403 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -663,32 +595,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 2771&lt;/span&gt;
-						&lt;span&gt;🔱 182&lt;/span&gt;
+						&lt;span&gt;⭐ 2793&lt;/span&gt;
+						&lt;span&gt;🔱 187&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1980 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Lissy93/web-check&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/MiroMindAI/MiroThinker&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Lissy93 /
+        MiroMindAI /
 
-      web-check&lt;/a&gt;&lt;/p&gt;
+      MiroThinker&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+      MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 29773&lt;/span&gt;
-						&lt;span&gt;🔱 2368&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 4844&lt;/span&gt;
+						&lt;span&gt;🔱 327&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2208 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2826 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -707,32 +639,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23590&lt;/span&gt;
-						&lt;span&gt;🔱 2288&lt;/span&gt;
+						&lt;span&gt;⭐ 23597&lt;/span&gt;
+						&lt;span&gt;🔱 2289&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3012 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 56403&lt;/span&gt;
-						&lt;span&gt;🔱 4118&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4096 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -751,32 +661,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 21589&lt;/span&gt;
-						&lt;span&gt;🔱 1629&lt;/span&gt;
+						&lt;span&gt;⭐ 21742&lt;/span&gt;
+						&lt;span&gt;🔱 1640&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5547 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ChromeDevTools/chrome-devtools-mcp&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ChromeDevTools /
+        anthropics /
 
-      chrome-devtools-mcp&lt;/a&gt;&lt;/p&gt;
+      claude-code&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Chrome DevTools for coding agents
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 20905&lt;/span&gt;
-						&lt;span&gt;🔱 1256&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 56437&lt;/span&gt;
+						&lt;span&gt;🔱 4120&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1979 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4096 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -795,10 +705,120 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 28611&lt;/span&gt;
+						&lt;span&gt;⭐ 28620&lt;/span&gt;
 						&lt;span&gt;🔱 3609&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 501 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Lissy93/web-check&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Lissy93 /
+
+      web-check&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 29784&lt;/span&gt;
+						&lt;span&gt;🔱 2368&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2208 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ChromeDevTools/chrome-devtools-mcp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Chrome DevTools for coding agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 20915&lt;/span&gt;
+						&lt;span&gt;🔱 1256&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1979 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hacksider/Deep-Live-Cam&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      real time face swap and one-click video deepfake with only a single image
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 77767&lt;/span&gt;
+						&lt;span&gt;🔱 11343&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 973 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NevaMind-AI/memU&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NevaMind-AI /
+
+      memU&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Memory infrastructure for LLMs and AI agents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 4525&lt;/span&gt;
+						&lt;span&gt;🔱 306&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1127 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/memvid/memvid&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        memvid /
+
+      memvid&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 12271&lt;/span&gt;
+						&lt;span&gt;🔱 1033&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1304 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
