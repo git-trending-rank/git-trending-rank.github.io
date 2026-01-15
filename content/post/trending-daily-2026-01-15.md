@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-15
-date: 2026-01-15T03:22:02Z
+date: 2026-01-15T04:30:31Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 22549</span>
-						<span>🔱 1698</span>
+						<span>⭐ 22658</span>
+						<span>🔱 1706</span>
 					</div>
 				<div class="stars-today">⭐ 1863 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 69939</span>
-						<span>🔱 12903</span>
+						<span>⭐ 69953</span>
+						<span>🔱 12905</span>
 					</div>
 				<div class="stars-today">⭐ 366 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jinja</span>
-						<span>⭐ 5031</span>
+						<span>⭐ 5041</span>
 						<span>🔱 799</span>
 					</div>
 				<div class="stars-today">⭐ 23 stars today</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 41616</span>
+						<span>⭐ 41629</span>
 						<span>🔱 3406</span>
 					</div>
 				<div class="stars-today">⭐ 64 stars today</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6031</span>
-						<span>🔱 635</span>
+						<span>⭐ 6042</span>
+						<span>🔱 637</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 8480</span>
+						<span>⭐ 8491</span>
 						<span>🔱 265</span>
 					</div>
 				<div class="stars-today">⭐ 339 stars today</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 25174</span>
+						<span>⭐ 25182</span>
 						<span>🔱 3142</span>
 					</div>
 				<div class="stars-today">⭐ 6 stars today</div>
