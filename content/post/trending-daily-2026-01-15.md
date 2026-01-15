@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-15
-date: 2026-01-15T04:30:31Z
+date: 2026-01-15T05:58:57Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 22658</span>
-						<span>🔱 1706</span>
+						<span>⭐ 22773</span>
+						<span>🔱 1713</span>
 					</div>
 				<div class="stars-today">⭐ 1863 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 69953</span>
-						<span>🔱 12905</span>
+						<span>⭐ 69978</span>
+						<span>🔱 12909</span>
 					</div>
 				<div class="stars-today">⭐ 366 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jinja</span>
-						<span>⭐ 5041</span>
-						<span>🔱 799</span>
+						<span>⭐ 5052</span>
+						<span>🔱 800</span>
 					</div>
 				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 41629</span>
+						<span>⭐ 41653</span>
 						<span>🔱 3406</span>
 					</div>
 				<div class="stars-today">⭐ 64 stars today</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6042</span>
-						<span>🔱 637</span>
+						<span>⭐ 6057</span>
+						<span>🔱 638</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 8491</span>
-						<span>🔱 265</span>
+						<span>⭐ 8511</span>
+						<span>🔱 266</span>
 					</div>
 				<div class="stars-today">⭐ 339 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 25182</span>
-						<span>🔱 3142</span>
+						<span>⭐ 25193</span>
+						<span>🔱 3143</span>
 					</div>
 				<div class="stars-today">⭐ 6 stars today</div>
 				</div>
