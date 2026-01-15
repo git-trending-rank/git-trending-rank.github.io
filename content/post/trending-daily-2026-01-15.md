@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-15
-date: 2026-01-15T09:59:24Z
+date: 2026-01-15T11:58:41Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
+    
+
+
+      
+        eigent-ai /
+
+      eigent</a></p>
+				<p>
+      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5091</span>
+						<span>🔱 621</span>
+					</div>
+				<div class="stars-today">⭐ 674 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/blakeblackshear/frigate" target="_blank">
+    
+
+
+      
+        blakeblackshear /
+
+      frigate</a></p>
+				<p>
+      NVR with realtime local object detection for IP cameras
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29229</span>
+						<span>🔱 2726</span>
+					</div>
+				<div class="stars-today">⭐ 340 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/obra/superpowers" target="_blank">
@@ -30,54 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 23255</span>
-						<span>🔱 1740</span>
+						<span>⭐ 23446</span>
+						<span>🔱 1749</span>
 					</div>
 				<div class="stars-today">⭐ 1863 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+				<p><a href="https://github.com/cilium/cilium" target="_blank">
     
 
 
       
-        twitter /
+        cilium /
 
-      the-algorithm</a></p>
+      cilium</a></p>
 				<p>
-      Source code for the X Recommendation Algorithm
+      eBPF-based Networking, Security, and Observability
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Scala</span>
-						<span>⭐ 70057</span>
-						<span>🔱 12916</span>
+						<span>🔠 Go</span>
+						<span>⭐ 23282</span>
+						<span>🔱 3529</span>
 					</div>
-				<div class="stars-today">⭐ 366 stars today</div>
+				<div class="stars-today">⭐ 9 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/dev-sec/ansible-collection-hardening" target="_blank">
+				<p><a href="https://github.com/wavetermdev/waveterm" target="_blank">
     
 
 
       
-        dev-sec /
+        wavetermdev /
 
-      ansible-collection-hardening</a></p>
+      waveterm</a></p>
 				<p>
-      This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
+      An open-source, cross-platform terminal for seamless workflows
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jinja</span>
-						<span>⭐ 5085</span>
-						<span>🔱 802</span>
+						<span>🔠 Go</span>
+						<span>⭐ 16294</span>
+						<span>🔱 703</span>
 					</div>
-				<div class="stars-today">⭐ 23 stars today</div>
+				<div class="stars-today">⭐ 111 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ultralytics/ultralytics" target="_blank">
+    
+
+
+      
+        ultralytics /
+
+      ultralytics</a></p>
+				<p>
+      Ultralytics YOLO 🚀
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51259</span>
+						<span>🔱 9889</span>
+					</div>
+				<div class="stars-today">⭐ 141 stars today</div>
 				</div>
 			</div>
 	
@@ -96,76 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 41740</span>
-						<span>🔱 3417</span>
+						<span>⭐ 41772</span>
+						<span>🔱 3420</span>
 					</div>
 				<div class="stars-today">⭐ 64 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/grab/cursor-talk-to-figma-mcp" target="_blank">
+				<p><a href="https://github.com/google-ai-edge/mediapipe" target="_blank">
     
 
 
       
-        grab /
+        google-ai-edge /
 
-      cursor-talk-to-figma-mcp</a></p>
+      mediapipe</a></p>
 				<p>
-      TalkToFigma: MCP integration between Cursor and Figma, allowing Cursor Agentic AI to communicate with Figma for reading designs and modifying them programmatically.
+      Cross-platform, customizable ML solutions for live and streaming media.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6100</span>
-						<span>🔱 640</span>
+						<span>🔠 C++</span>
+						<span>⭐ 33103</span>
+						<span>🔱 5722</span>
 					</div>
-				<div class="stars-today">⭐ 14 stars today</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zoicware/RemoveWindowsAI" target="_blank">
+				<p><a href="https://github.com/puckeditor/puck" target="_blank">
     
 
 
       
-        zoicware /
+        puckeditor /
 
-      RemoveWindowsAI</a></p>
+      puck</a></p>
 				<p>
-      Force Remove Copilot, Recall and More in Windows 11
+      The visual editor for React
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 8584</span>
-						<span>🔱 269</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10378</span>
+						<span>🔱 735</span>
 					</div>
-				<div class="stars-today">⭐ 339 stars today</div>
+				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rancher/rancher" target="_blank">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
     
 
 
       
-        rancher /
+        twitter /
 
-      rancher</a></p>
+      the-algorithm</a></p>
 				<p>
-      Complete container management platform
+      Source code for the X Recommendation Algorithm
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 25234</span>
-						<span>🔱 3146</span>
+						<span>🔠 Scala</span>
+						<span>⭐ 70082</span>
+						<span>🔱 12917</span>
 					</div>
-				<div class="stars-today">⭐ 6 stars today</div>
+				<div class="stars-today">⭐ 366 stars today</div>
 				</div>
 			</div>
 	

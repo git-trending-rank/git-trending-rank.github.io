@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第3周
-date: 2026-01-15T09:59:24Z
+date: 2026-01-15T11:58:41Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70332</span>
-						<span>🔱 6116</span>
+						<span>⭐ 70510</span>
+						<span>🔱 6135</span>
 					</div>
 				<div class="stars-today">⭐ 15978 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2992</span>
-						<span>🔱 197</span>
+						<span>⭐ 3011</span>
+						<span>🔱 198</span>
 					</div>
 				<div class="stars-today">⭐ 2199 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
-    
-
-
-      
-        MiroMindAI /
-
-      MiroThinker</a></p>
-				<p>
-      MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4938</span>
-						<span>🔱 338</span>
-					</div>
-				<div class="stars-today">⭐ 2394 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23718</span>
-						<span>🔱 2300</span>
+						<span>⭐ 23733</span>
+						<span>🔱 2301</span>
 					</div>
 				<div class="stars-today">⭐ 3207 stars this week</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 23255</span>
-						<span>🔱 1740</span>
+						<span>⭐ 23446</span>
+						<span>🔱 1749</span>
 					</div>
 				<div class="stars-today">⭐ 7358 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
+    
+
+
+      
+        MiroMindAI /
+
+      MiroThinker</a></p>
+				<p>
+      MiroThinker is an open-source search agent model, built for tool-augmented reasoning and real-world information seeking, aiming to match the deep research experience of OpenAI Deep Research and Gemini Deep Research.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4950</span>
+						<span>🔱 339</span>
+					</div>
+				<div class="stars-today">⭐ 2394 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,76 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 56721</span>
-						<span>🔱 4141</span>
+						<span>⭐ 56743</span>
+						<span>🔱 4145</span>
 					</div>
 				<div class="stars-today">⭐ 4087 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      ChatDev</a></p>
-				<p>
-      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28673</span>
-						<span>🔱 3616</span>
-					</div>
-				<div class="stars-today">⭐ 615 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
-    
-
-
-      
-        Lissy93 /
-
-      web-check</a></p>
-				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29891</span>
-						<span>🔱 2375</span>
-					</div>
-				<div class="stars-today">⭐ 1554 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21048</span>
-						<span>🔱 1265</span>
-					</div>
-				<div class="stars-today">⭐ 2037 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77852</span>
+						<span>⭐ 77860</span>
 						<span>🔱 11354</span>
 					</div>
 				<div class="stars-today">⭐ 1017 stars this week</div>
@@ -250,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4626</span>
+						<span>⭐ 4636</span>
 						<span>🔱 317</span>
 					</div>
 				<div class="stars-today">⭐ 1077 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      home-assistant.io</a></p>
+				<p>
+      📘 Home Assistant User documentation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 8454</span>
+						<span>🔱 8123</span>
+					</div>
+				<div class="stars-today">⭐ 711 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12338</span>
+						<span>⭐ 12345</span>
 						<span>🔱 1039</span>
 					</div>
 				<div class="stars-today">⭐ 1052 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21066</span>
+						<span>🔱 1265</span>
+					</div>
+				<div class="stars-today">⭐ 2037 stars this week</div>
 				</div>
 			</div>
 	

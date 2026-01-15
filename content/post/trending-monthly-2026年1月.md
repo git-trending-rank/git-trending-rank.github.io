@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-15T09:59:25Z
+date: 2026-01-15T11:58:41Z
 categories:
 - monthly
 keywords:
@@ -14,26 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/A2UI" target="_blank">
-    
-
-
-      
-        google /
-
-      A2UI</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9936</span>
-						<span>🔱 727</span>
-					</div>
-				<div class="stars-today">⭐ 9877 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
@@ -50,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70332</span>
-						<span>🔱 6116</span>
+						<span>⭐ 70510</span>
+						<span>🔱 6135</span>
 					</div>
 				<div class="stars-today">⭐ 30313 stars this month</div>
 				</div>
@@ -72,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41380</span>
-						<span>🔱 3796</span>
+						<span>⭐ 41455</span>
+						<span>🔱 3801</span>
 					</div>
 				<div class="stars-today">⭐ 19658 stars this month</div>
 				</div>
@@ -94,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16159</span>
-						<span>🔱 1492</span>
+						<span>⭐ 16189</span>
+						<span>🔱 1497</span>
 					</div>
 				<div class="stars-today">⭐ 9484 stars this month</div>
 				</div>
@@ -116,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 56721</span>
-						<span>🔱 4141</span>
+						<span>⭐ 56743</span>
+						<span>🔱 4145</span>
 					</div>
 				<div class="stars-today">⭐ 10838 stars this month</div>
 				</div>
@@ -138,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39994</span>
+						<span>⭐ 39999</span>
 						<span>🔱 2700</span>
 					</div>
 				<div class="stars-today">⭐ 7308 stars this month</div>
@@ -146,46 +126,22 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+				<p><a href="https://github.com/google/A2UI" target="_blank">
     
 
 
       
-        danielmiessler /
+        google /
 
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Personal AI Infrastructure for upgrading humans.
-    </p>
+      A2UI</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4648</span>
-						<span>🔱 756</span>
+						<span>⭐ 9951</span>
+						<span>🔱 727</span>
 					</div>
-				<div class="stars-today">⭐ 3241 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21491</span>
-						<span>🔱 2805</span>
-					</div>
-				<div class="stars-today">⭐ 6531 stars this month</div>
+				<div class="stars-today">⭐ 9877 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,54 +160,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 23255</span>
-						<span>🔱 1740</span>
+						<span>⭐ 23446</span>
+						<span>🔱 1749</span>
 					</div>
 				<div class="stars-today">⭐ 11958 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
+				<p><a href="https://github.com/facebookresearch/sam-audio" target="_blank">
     
 
 
       
-        usememos /
+        facebookresearch /
 
-      memos</a></p>
+      sam-audio</a></p>
 				<p>
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+      The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 54227</span>
-						<span>🔱 3896</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3035</span>
+						<span>🔱 251</span>
 					</div>
-				<div class="stars-today">⭐ 7100 stars this month</div>
+				<div class="stars-today">⭐ 3045 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steveyegge/beads" target="_blank">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
     
 
 
       
-        steveyegge /
+        danielmiessler /
 
-      beads</a></p>
+      Personal_AI_Infrastructure</a></p>
 				<p>
-      Beads - A memory upgrade for your coding agent
+      Personal AI Infrastructure for upgrading humans.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10310</span>
-						<span>🔱 645</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4657</span>
+						<span>🔱 755</span>
 					</div>
-				<div class="stars-today">⭐ 5159 stars this month</div>
+				<div class="stars-today">⭐ 3241 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,10 +226,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23718</span>
-						<span>🔱 2300</span>
+						<span>⭐ 23733</span>
+						<span>🔱 2301</span>
 					</div>
 				<div class="stars-today">⭐ 3792 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
+    
+
+
+      
+        usememos /
+
+      memos</a></p>
+				<p>
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 54241</span>
+						<span>🔱 3898</span>
+					</div>
+				<div class="stars-today">⭐ 7100 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21496</span>
+						<span>🔱 2806</span>
+					</div>
+				<div class="stars-today">⭐ 6531 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14259</span>
+						<span>⭐ 14265</span>
 						<span>🔱 3326</span>
 					</div>
 				<div class="stars-today">⭐ 2633 stars this month</div>
@@ -300,24 +300,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/steveyegge/beads" target="_blank">
     
 
 
       
-        thedotmack /
+        steveyegge /
 
-      claude-mem</a></p>
+      beads</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      Beads - A memory upgrade for your coding agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13885</span>
-						<span>🔱 906</span>
+						<span>🔠 Go</span>
+						<span>⭐ 10331</span>
+						<span>🔱 645</span>
 					</div>
-				<div class="stars-today">⭐ 8386 stars this month</div>
+				<div class="stars-today">⭐ 5159 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +336,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29891</span>
+						<span>⭐ 29897</span>
 						<span>🔱 2375</span>
 					</div>
 				<div class="stars-today">⭐ 2822 stars this month</div>
@@ -344,24 +344,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
     
 
 
       
-        KeygraphHQ /
+        twitter /
 
-      shannon</a></p>
+      the-algorithm</a></p>
 				<p>
-      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+      Source code for the X Recommendation Algorithm
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3825</span>
-						<span>🔱 543</span>
+						<span>🔠 Scala</span>
+						<span>⭐ 70082</span>
+						<span>🔱 12917</span>
 					</div>
-				<div class="stars-today">⭐ 3343 stars this month</div>
+				<div class="stars-today">⭐ 2022 stars this month</div>
 				</div>
 			</div>
 	
