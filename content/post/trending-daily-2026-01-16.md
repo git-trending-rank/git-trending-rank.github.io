@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-16
-date: 2026-01-16T11:58:38Z
+date: 2026-01-16T14:01:41Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 25359</span>
-						<span>🔱 1884</span>
+						<span>⭐ 25479</span>
+						<span>🔱 1891</span>
 					</div>
-				<div class="stars-today">⭐ 2053 stars today</div>
+				<div class="stars-today">⭐ 1919 stars today</div>
 				</div>
 			</div>
 	
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 1080</span>
-						<span>🔱 178</span>
+						<span>⭐ 1090</span>
+						<span>🔱 180</span>
 					</div>
 				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20952</span>
-						<span>🔱 1462</span>
+						<span>⭐ 20998</span>
+						<span>🔱 1463</span>
 					</div>
 				<div class="stars-today">⭐ 329 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11564</span>
-						<span>🔱 775</span>
+						<span>⭐ 11614</span>
+						<span>🔱 776</span>
 					</div>
 				<div class="stars-today">⭐ 413 stars today</div>
 				</div>
@@ -118,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10856</span>
-						<span>🔱 763</span>
+						<span>⭐ 10895</span>
+						<span>🔱 764</span>
 					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
+				<div class="stars-today">⭐ 478 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51633</span>
-						<span>🔱 9918</span>
+						<span>⭐ 51659</span>
+						<span>🔱 9917</span>
 					</div>
-				<div class="stars-today">⭐ 149 stars today</div>
+				<div class="stars-today">⭐ 373 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7216</span>
-						<span>🔱 785</span>
+						<span>⭐ 7275</span>
+						<span>🔱 786</span>
 					</div>
-				<div class="stars-today">⭐ 751 stars today</div>
+				<div class="stars-today">⭐ 2108 stars today</div>
 				</div>
 			</div>
 	
@@ -179,15 +179,15 @@ keywords:
 
       AionUi</a></p>
 				<p>
-      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
+      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3959</span>
-						<span>🔱 331</span>
+						<span>⭐ 4022</span>
+						<span>🔱 333</span>
 					</div>
-				<div class="stars-today">⭐ 237 stars today</div>
+				<div class="stars-today">⭐ 198 stars today</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15208</span>
-						<span>🔱 1063</span>
+						<span>⭐ 15239</span>
+						<span>🔱 1064</span>
 					</div>
 				<div class="stars-today">⭐ 101 stars today</div>
 				</div>
