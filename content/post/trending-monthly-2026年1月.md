@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-16T09:59:06Z
+date: 2026-01-16T11:58:38Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 72543</span>
-						<span>🔱 6339</span>
+						<span>⭐ 72683</span>
+						<span>🔱 6352</span>
 					</div>
 				<div class="stars-today">⭐ 32156 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42601</span>
-						<span>🔱 3926</span>
+						<span>⭐ 42683</span>
+						<span>🔱 3937</span>
 					</div>
 				<div class="stars-today">⭐ 20628 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16469</span>
-						<span>🔱 1523</span>
+						<span>⭐ 16495</span>
+						<span>🔱 1525</span>
 					</div>
 				<div class="stars-today">⭐ 9755 stars this month</div>
 				</div>
@@ -96,52 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 57097</span>
-						<span>🔱 4183</span>
+						<span>⭐ 57136</span>
+						<span>🔱 4185</span>
 					</div>
 				<div class="stars-today">⭐ 11074 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40056</span>
-						<span>🔱 2704</span>
-					</div>
-				<div class="stars-today">⭐ 7351 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/A2UI" target="_blank">
-    
-
-
-      
-        google /
-
-      A2UI</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10065</span>
-						<span>🔱 736</span>
-					</div>
-				<div class="stars-today">⭐ 10011 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,54 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 25222</span>
-						<span>🔱 1874</span>
+						<span>⭐ 25359</span>
+						<span>🔱 1884</span>
 					</div>
 				<div class="stars-today">⭐ 13815 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/facebookresearch/sam-audio" target="_blank">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
     
 
 
       
-        facebookresearch /
+        exo-explore /
 
-      sam-audio</a></p>
+      exo</a></p>
 				<p>
-      The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3084</span>
-						<span>🔱 254</span>
+						<span>⭐ 40061</span>
+						<span>🔱 2704</span>
 					</div>
-				<div class="stars-today">⭐ 3051 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Personal AI Infrastructure for upgrading humans.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4728</span>
-						<span>🔱 768</span>
-					</div>
-				<div class="stars-today">⭐ 3311 stars this month</div>
+				<div class="stars-today">⭐ 7351 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23874</span>
+						<span>⭐ 23889</span>
 						<span>🔱 2316</span>
 					</div>
 				<div class="stars-today">⭐ 3926 stars this month</div>
@@ -248,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 54398</span>
+						<span>⭐ 54407</span>
 						<span>🔱 3904</span>
 					</div>
 				<div class="stars-today">⭐ 7290 stars this month</div>
@@ -256,24 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
     
 
 
       
-        resemble-ai /
+        danielmiessler /
 
-      chatterbox</a></p>
+      Personal_AI_Infrastructure</a></p>
 				<p>
-      SoTA open-source TTS
+      Personal AI Infrastructure for upgrading humans.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21550</span>
-						<span>🔱 2809</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4732</span>
+						<span>🔱 769</span>
 					</div>
-				<div class="stars-today">⭐ 6579 stars this month</div>
+				<div class="stars-today">⭐ 3311 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +228,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14370</span>
-						<span>🔱 3333</span>
+						<span>⭐ 14372</span>
+						<span>🔱 3334</span>
 					</div>
 				<div class="stars-today">⭐ 2713 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/A2UI" target="_blank">
+    
+
+
+      
+        google /
+
+      A2UI</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10072</span>
+						<span>🔱 736</span>
+					</div>
+				<div class="stars-today">⭐ 10011 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +270,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10538</span>
+						<span>⭐ 10559</span>
 						<span>🔱 656</span>
 					</div>
 				<div class="stars-today">⭐ 5189 stars this month</div>
@@ -336,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29979</span>
+						<span>⭐ 29986</span>
 						<span>🔱 2381</span>
 					</div>
 				<div class="stars-today">⭐ 2955 stars this month</div>
@@ -358,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 70340</span>
+						<span>⭐ 70353</span>
 						<span>🔱 12943</span>
 					</div>
 				<div class="stars-today">⭐ 2270 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
+    
+
+
+      
+        resemble-ai /
+
+      chatterbox</a></p>
+				<p>
+      SoTA open-source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21553</span>
+						<span>🔱 2810</span>
+					</div>
+				<div class="stars-today">⭐ 6579 stars this month</div>
 				</div>
 			</div>
 	
