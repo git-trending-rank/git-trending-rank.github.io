@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-17
-date: 2026-01-17T17:58:34Z
+date: 2026-01-17T19:58:41Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8331</span>
-						<span>🔱 886</span>
+						<span>⭐ 8431</span>
+						<span>🔱 895</span>
 					</div>
 				<div class="stars-today">⭐ 703 stars today</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 27110</span>
-						<span>🔱 2007</span>
+						<span>⭐ 27194</span>
+						<span>🔱 2012</span>
 					</div>
 				<div class="stars-today">⭐ 1406 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
-    
-
-
-      
-        afkarxyz /
-
-      SpotiFLAC</a></p>
-				<p>
-      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3464</span>
-						<span>🔱 183</span>
-					</div>
-				<div class="stars-today">⭐ 247 stars today</div>
 				</div>
 			</div>
 	
@@ -96,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11287</span>
+						<span>⭐ 11319</span>
 						<span>🔱 781</span>
 					</div>
 				<div class="stars-today">⭐ 333 stars today</div>
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21487</span>
+						<span>⭐ 21512</span>
 						<span>🔱 1496</span>
 					</div>
 				<div class="stars-today">⭐ 445 stars today</div>
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4746</span>
-						<span>🔱 378</span>
+						<span>⭐ 4800</span>
+						<span>🔱 382</span>
 					</div>
 				<div class="stars-today">⭐ 592 stars today</div>
 				</div>
