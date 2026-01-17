@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-17
-date: 2026-01-17T09:58:32Z
+date: 2026-01-17T11:58:51Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
+    
+
+
+      
+        eigent-ai /
+
+      eigent</a></p>
+				<p>
+      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7923</span>
+						<span>🔱 859</span>
+					</div>
+				<div class="stars-today">⭐ 703 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/obra/superpowers" target="_blank">
@@ -30,32 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 26634</span>
-						<span>🔱 1982</span>
+						<span>⭐ 26757</span>
+						<span>🔱 1986</span>
 					</div>
-				<div class="stars-today">⭐ 1961 stars today</div>
+				<div class="stars-today">⭐ 1406 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Gentleman-Programming/Gentleman.Dots" target="_blank">
+				<p><a href="https://github.com/afkarxyz/SpotiFLAC" target="_blank">
     
 
 
       
-        Gentleman-Programming /
+        afkarxyz /
 
-      Gentleman.Dots</a></p>
+      SpotiFLAC</a></p>
 				<p>
-      My personal configuration for LazyVim !
+      Get Spotify tracks in true FLAC from Tidal, Qobuz & Amazon Music — no account required.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 1210</span>
-						<span>🔱 187</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3329</span>
+						<span>🔱 175</span>
 					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
+				<div class="stars-today">⭐ 255 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/puckeditor/puck" target="_blank">
+    
+
+
+      
+        puckeditor /
+
+      puck</a></p>
+				<p>
+      The visual editor for React with AI superpowers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11187</span>
+						<span>🔱 775</span>
+					</div>
+				<div class="stars-today">⭐ 333 stars today</div>
 				</div>
 			</div>
 	
@@ -74,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21342</span>
-						<span>🔱 1484</span>
+						<span>⭐ 21383</span>
+						<span>🔱 1486</span>
 					</div>
-				<div class="stars-today">⭐ 336 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cjpais/Handy" target="_blank">
-    
-
-
-      
-        cjpais /
-
-      Handy</a></p>
-				<p>
-      A free, open source, and extensible speech-to-text application that works completely offline.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11980</span>
-						<span>🔱 791</span>
-					</div>
-				<div class="stars-today">⭐ 405 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/puckeditor/puck" target="_blank">
-    
-
-
-      
-        puckeditor /
-
-      puck</a></p>
-				<p>
-      The visual editor for React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11156</span>
-						<span>🔱 775</span>
-					</div>
-				<div class="stars-today">⭐ 504 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ultralytics/ultralytics" target="_blank">
-    
-
-
-      
-        ultralytics /
-
-      ultralytics</a></p>
-				<p>
-      Ultralytics YOLO 🚀
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51848</span>
-						<span>🔱 9924</span>
-					</div>
-				<div class="stars-today">⭐ 379 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
-    
-
-
-      
-        eigent-ai /
-
-      eigent</a></p>
-				<p>
-      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7839</span>
-						<span>🔱 855</span>
-					</div>
-				<div class="stars-today">⭐ 2179 stars today</div>
+				<div class="stars-today">⭐ 445 stars today</div>
 				</div>
 			</div>
 	
@@ -184,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4501</span>
-						<span>🔱 365</span>
+						<span>⭐ 4551</span>
+						<span>🔱 369</span>
 					</div>
-				<div class="stars-today">⭐ 174 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentsmd/agents.md" target="_blank">
-    
-
-
-      
-        agentsmd /
-
-      agents.md</a></p>
-				<p>
-      AGENTS.md — a simple, open format for guiding coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15457</span>
-						<span>🔱 1074</span>
-					</div>
-				<div class="stars-today">⭐ 97 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenDCAI/Paper2Any" target="_blank">
-    
-
-
-      
-        OpenDCAI /
-
-      Paper2Any</a></p>
-				<p>
-      Turn paper/text/topic into editable research figures, technical route diagrams, and presentation slides.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 955</span>
-						<span>🔱 53</span>
-					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
+				<div class="stars-today">⭐ 592 stars today</div>
 				</div>
 			</div>
 	

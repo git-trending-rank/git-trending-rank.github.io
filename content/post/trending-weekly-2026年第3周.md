@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第3周
-date: 2026-01-17T09:58:32Z
+date: 2026-01-17T11:58:51Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 74077</span>
-						<span>🔱 6507</span>
-					</div>
-				<div class="stars-today">⭐ 16462 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/obra/superpowers" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 26634</span>
-						<span>🔱 1982</span>
+						<span>⭐ 26757</span>
+						<span>🔱 1986</span>
 					</div>
 				<div class="stars-today">⭐ 10492 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 74200</span>
+						<span>🔱 6514</span>
+					</div>
+				<div class="stars-today">⭐ 16462 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 3384</span>
+						<span>⭐ 3398</span>
 						<span>🔱 221</span>
 					</div>
 				<div class="stars-today">⭐ 2409 stars this week</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24006</span>
-						<span>🔱 2330</span>
+						<span>⭐ 24019</span>
+						<span>🔱 2331</span>
 					</div>
 				<div class="stars-today">⭐ 2609 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 57402</span>
-						<span>🔱 4217</span>
-					</div>
-				<div class="stars-today">⭐ 3425 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 78096</span>
-						<span>🔱 11387</span>
+						<span>⭐ 78105</span>
+						<span>🔱 11390</span>
 					</div>
 				<div class="stars-today">⭐ 1146 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
-    
-
-
-      
-        MiroMindAI /
-
-      MiroThinker</a></p>
-				<p>
-      MiroThinker is an open source deep research agent optimized for research and prediction. It achieves a 60.2% Avg@8 score on the challenging GAIA benchmark.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5142</span>
-						<span>🔱 353</span>
-					</div>
-				<div class="stars-today">⭐ 1273 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory infrastructure for LLMs and AI agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4798</span>
-						<span>🔱 325</span>
-					</div>
-				<div class="stars-today">⭐ 689 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 8520</span>
+						<span>⭐ 8522</span>
 						<span>🔱 8134</span>
 					</div>
 				<div class="stars-today">⭐ 747 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 57429</span>
+						<span>🔱 4221</span>
+					</div>
+				<div class="stars-today">⭐ 3425 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7138</span>
+						<span>🔱 895</span>
+					</div>
+				<div class="stars-today">⭐ 997 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      ChatDev</a></p>
+				<p>
+      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28720</span>
+						<span>🔱 3617</span>
+					</div>
+				<div class="stars-today">⭐ 597 stars this week</div>
 				</div>
 			</div>
 	
