@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第3周
-date: 2026-01-18T19:58:43Z
+date: 2026-01-18T21:58:43Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 28286</span>
-						<span>🔱 2131</span>
+						<span>⭐ 28339</span>
+						<span>🔱 2136</span>
 					</div>
 				<div class="stars-today">⭐ 11114 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76499</span>
-						<span>🔱 6736</span>
+						<span>⭐ 76565</span>
+						<span>🔱 6742</span>
 					</div>
 				<div class="stars-today">⭐ 15786 stars this week</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 3711</span>
+						<span>⭐ 3725</span>
 						<span>🔱 238</span>
 					</div>
 				<div class="stars-today">⭐ 2408 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
+    
+
+
+      
+        DataTalksClub /
+
+      data-engineering-zoomcamp</a></p>
+				<p>
+      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 36493</span>
+						<span>🔱 7425</span>
+					</div>
+				<div class="stars-today">⭐ 1883 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 78254</span>
+						<span>⭐ 78260</span>
 						<span>🔱 11413</span>
 					</div>
 				<div class="stars-today">⭐ 1154 stars this week</div>
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24215</span>
+						<span>⭐ 24221</span>
 						<span>🔱 2347</span>
 					</div>
 				<div class="stars-today">⭐ 1926 stars this week</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 57859</span>
-						<span>🔱 4259</span>
+						<span>⭐ 57876</span>
+						<span>🔱 4260</span>
 					</div>
 				<div class="stars-today">⭐ 3079 stars this week</div>
 				</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 8589</span>
+						<span>⭐ 8592</span>
 						<span>🔱 8138</span>
 					</div>
 				<div class="stars-today">⭐ 774 stars this week</div>
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28809</span>
+						<span>⭐ 28810</span>
 						<span>🔱 3625</span>
 					</div>
 				<div class="stars-today">⭐ 599 stars this week</div>
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 70482</span>
+						<span>⭐ 70490</span>
 						<span>🔱 12956</span>
 					</div>
 				<div class="stars-today">⭐ 1226 stars this week</div>
