@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-18
-date: 2026-01-18T09:58:42Z
+date: 2026-01-18T11:58:45Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,68 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
     
 
 
       
-        eigent-ai /
+        iOfficeAI /
 
-      eigent</a></p>
+      AionUi</a></p>
 				<p>
-      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9064</span>
-						<span>🔱 951</span>
+						<span>⭐ 5199</span>
+						<span>🔱 404</span>
 					</div>
-				<div class="stars-today">⭐ 760 stars today</div>
+				<div class="stars-today">⭐ 605 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
     
 
 
       
-        obra /
+        yt-dlp /
 
-      superpowers</a></p>
+      yt-dlp</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      A feature-rich command-line audio/video downloader
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 27864</span>
+						<span>🔠 Python</span>
+						<span>⭐ 142249</span>
+						<span>🔱 11490</span>
+					</div>
+				<div class="stars-today">⭐ 145 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17345</span>
 						<span>🔱 2079</span>
 					</div>
-				<div class="stars-today">⭐ 1422 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/puckeditor/puck" target="_blank">
-    
-
-
-      
-        puckeditor /
-
-      puck</a></p>
-				<p>
-      The visual editor for React with AI superpowers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11515</span>
-						<span>🔱 793</span>
-					</div>
-				<div class="stars-today">⭐ 336 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	
@@ -96,32 +96,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21741</span>
-						<span>🔱 1510</span>
+						<span>⭐ 21766</span>
+						<span>🔱 1511</span>
 					</div>
 				<div class="stars-today">⭐ 425 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
     
 
 
       
-        iOfficeAI /
+        OpenBMB /
 
-      AionUi</a></p>
+      VoxCPM</a></p>
 				<p>
-      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
+      VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5138</span>
-						<span>🔱 403</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3917</span>
+						<span>🔱 465</span>
 					</div>
-				<div class="stars-today">⭐ 605 stars today</div>
+				<div class="stars-today">⭐ 310 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yichuan-w/LEANN" target="_blank">
+    
+
+
+      
+        yichuan-w /
+
+      LEANN</a></p>
+				<p>
+      RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8792</span>
+						<span>🔱 772</span>
+					</div>
+				<div class="stars-today">⭐ 144 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 21182</span>
+						<span>🔱 1772</span>
+					</div>
+				<div class="stars-today">⭐ 56 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tobi/try" target="_blank">
+    
+
+
+      
+        tobi /
+
+      try</a></p>
+				<p>
+      fresh directories for every vibe
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 2611</span>
+						<span>🔱 98</span>
+					</div>
+				<div class="stars-today">⭐ 29 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Mebus/cupp" target="_blank">
+    
+
+
+      
+        Mebus /
+
+      cupp</a></p>
+				<p>
+      Common User Passwords Profiler (CUPP)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5483</span>
+						<span>🔱 1744</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第3周
-date: 2026-01-18T09:58:43Z
+date: 2026-01-18T11:58:45Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 27864</span>
-						<span>🔱 2079</span>
+						<span>⭐ 27952</span>
+						<span>🔱 2092</span>
 					</div>
 				<div class="stars-today">⭐ 11114 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 75771</span>
-						<span>🔱 6673</span>
+						<span>⭐ 75918</span>
+						<span>🔱 6685</span>
 					</div>
 				<div class="stars-today">⭐ 15786 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 3612</span>
-						<span>🔱 234</span>
+						<span>⭐ 3632</span>
+						<span>🔱 236</span>
 					</div>
 				<div class="stars-today">⭐ 2408 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24153</span>
-						<span>🔱 2346</span>
-					</div>
-				<div class="stars-today">⭐ 1926 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 78199</span>
-						<span>🔱 11404</span>
+						<span>⭐ 78209</span>
+						<span>🔱 11406</span>
 					</div>
 				<div class="stars-today">⭐ 1154 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
     
 
 
       
-        home-assistant /
+        bytedance /
 
-      home-assistant.io</a></p>
+      UI-TARS-desktop</a></p>
 				<p>
-      📘 Home Assistant User documentation
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 8573</span>
-						<span>🔱 8138</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24168</span>
+						<span>🔱 2346</span>
 					</div>
-				<div class="stars-today">⭐ 774 stars this week</div>
+				<div class="stars-today">⭐ 1926 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 57716</span>
-						<span>🔱 4246</span>
+						<span>⭐ 57739</span>
+						<span>🔱 4248</span>
 					</div>
 				<div class="stars-today">⭐ 3079 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
+				<p><a href="https://github.com/home-assistant/home-assistant.io" target="_blank">
     
 
 
       
-        virattt /
+        home-assistant /
 
-      dexter</a></p>
+      home-assistant.io</a></p>
 				<p>
-      An autonomous agent for deep financial research
+      📘 Home Assistant User documentation
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7281</span>
-						<span>🔱 916</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 8575</span>
+						<span>🔱 8138</span>
 					</div>
-				<div class="stars-today">⭐ 836 stars this week</div>
+				<div class="stars-today">⭐ 774 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28779</span>
-						<span>🔱 3623</span>
+						<span>⭐ 28783</span>
+						<span>🔱 3624</span>
 					</div>
 				<div class="stars-today">⭐ 599 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+    
+
+
+      
+        twitter /
+
+      the-algorithm</a></p>
+				<p>
+      Source code for the X Recommendation Algorithm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Scala</span>
+						<span>⭐ 70453</span>
+						<span>🔱 12954</span>
+					</div>
+				<div class="stars-today">⭐ 1226 stars this week</div>
 				</div>
 			</div>
 	

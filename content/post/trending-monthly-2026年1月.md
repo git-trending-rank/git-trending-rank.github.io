@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-18T09:58:43Z
+date: 2026-01-18T11:58:46Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 75771</span>
-						<span>🔱 6673</span>
+						<span>⭐ 75918</span>
+						<span>🔱 6685</span>
 					</div>
 				<div class="stars-today">⭐ 35141 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44157</span>
-						<span>🔱 4103</span>
+						<span>⭐ 44217</span>
+						<span>🔱 4113</span>
 					</div>
 				<div class="stars-today">⭐ 22192 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16904</span>
-						<span>🔱 1569</span>
+						<span>⭐ 16923</span>
+						<span>🔱 1570</span>
 					</div>
 				<div class="stars-today">⭐ 10270 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 27864</span>
-						<span>🔱 2079</span>
+						<span>⭐ 27952</span>
+						<span>🔱 2092</span>
 					</div>
 				<div class="stars-today">⭐ 16947 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 57716</span>
-						<span>🔱 4246</span>
+						<span>⭐ 57739</span>
+						<span>🔱 4248</span>
 					</div>
 				<div class="stars-today">⭐ 11414 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20957</span>
-						<span>🔱 2122</span>
+						<span>⭐ 20997</span>
+						<span>🔱 2129</span>
 					</div>
 				<div class="stars-today">⭐ 13091 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40164</span>
-						<span>🔱 2707</span>
-					</div>
-				<div class="stars-today">⭐ 7453 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24153</span>
+						<span>⭐ 24168</span>
 						<span>🔱 2346</span>
 					</div>
 				<div class="stars-today">⭐ 4167 stars this month</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 54636</span>
+						<span>⭐ 54647</span>
 						<span>🔱 3923</span>
 					</div>
 				<div class="stars-today">⭐ 7509 stars this month</div>
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5047</span>
-						<span>🔱 808</span>
+						<span>⭐ 5053</span>
+						<span>🔱 810</span>
 					</div>
 				<div class="stars-today">⭐ 3463 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/exo-explore/exo" target="_blank">
+    
+
+
+      
+        exo-explore /
+
+      exo</a></p>
+				<p>
+      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40171</span>
+						<span>🔱 2709</span>
+					</div>
+				<div class="stars-today">⭐ 7453 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14497</span>
-						<span>🔱 3345</span>
+						<span>⭐ 14503</span>
+						<span>🔱 3346</span>
 					</div>
 				<div class="stars-today">⭐ 2845 stars this month</div>
 				</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30149</span>
+						<span>⭐ 30159</span>
 						<span>🔱 2388</span>
 					</div>
 				<div class="stars-today">⭐ 3123 stars this month</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10893</span>
+						<span>⭐ 10907</span>
 						<span>🔱 676</span>
 					</div>
 				<div class="stars-today">⭐ 5273 stars this month</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 70446</span>
+						<span>⭐ 70453</span>
 						<span>🔱 12954</span>
 					</div>
 				<div class="stars-today">⭐ 2568 stars this month</div>
@@ -338,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21649</span>
-						<span>🔱 2817</span>
+						<span>⭐ 21654</span>
+						<span>🔱 2819</span>
 					</div>
 				<div class="stars-today">⭐ 6099 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7296</span>
+						<span>🔱 916</span>
+					</div>
+				<div class="stars-today">⭐ 3081 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1905</span>
-						<span>🔱 245</span>
+						<span>⭐ 1914</span>
+						<span>🔱 246</span>
 					</div>
 				<div class="stars-today">⭐ 1355 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
     
 
 
       
-        thedotmack /
+        davila7 /
 
-      claude-mem</a></p>
+      claude-code-templates</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      CLI tool for configuring and monitoring Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14388</span>
-						<span>🔱 959</span>
+						<span>🔠 Python</span>
+						<span>⭐ 16987</span>
+						<span>🔱 1495</span>
 					</div>
-				<div class="stars-today">⭐ 6727 stars this month</div>
+				<div class="stars-today">⭐ 4127 stars this month</div>
 				</div>
 			</div>
 	
