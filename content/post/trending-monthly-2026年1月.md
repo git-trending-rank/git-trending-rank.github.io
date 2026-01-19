@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-19T10:14:16Z
+date: 2026-01-19T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 77747</span>
-						<span>🔱 6856</span>
+						<span>⭐ 77872</span>
+						<span>🔱 6870</span>
 					</div>
 				<div class="stars-today">⭐ 36319 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
     
 
 
       
-        anthropics /
+        rendercv /
 
-      skills</a></p>
+      rendercv</a></p>
 				<p>
-      Public repository for Agent Skills
+      CV/resume generator for academics and engineers, YAML to PDF
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45219</span>
-						<span>🔱 4228</span>
+						<span>⭐ 14839</span>
+						<span>🔱 1013</span>
 					</div>
-				<div class="stars-today">⭐ 22624 stars this month</div>
+				<div class="stars-today">⭐ 10989 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17147</span>
+						<span>⭐ 17172</span>
 						<span>🔱 1588</span>
 					</div>
 				<div class="stars-today">⭐ 10422 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45283</span>
+						<span>🔱 4240</span>
+					</div>
+				<div class="stars-today">⭐ 22624 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 29189</span>
-						<span>🔱 2193</span>
+						<span>⭐ 29287</span>
+						<span>🔱 2198</span>
 					</div>
 				<div class="stars-today">⭐ 17860 stars this month</div>
 				</div>
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 58092</span>
+						<span>⭐ 58116</span>
 						<span>🔱 4281</span>
 					</div>
 				<div class="stars-today">⭐ 11541 stars this month</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21629</span>
-						<span>🔱 2184</span>
+						<span>⭐ 21680</span>
+						<span>🔱 2187</span>
 					</div>
 				<div class="stars-today">⭐ 13459 stars this month</div>
 				</div>
@@ -162,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24307</span>
+						<span>⭐ 24320</span>
 						<span>🔱 2353</span>
 					</div>
 				<div class="stars-today">⭐ 4286 stars this month</div>
@@ -184,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 54778</span>
-						<span>🔱 3928</span>
+						<span>⭐ 54784</span>
+						<span>🔱 3929</span>
 					</div>
 				<div class="stars-today">⭐ 7603 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Personal AI Infrastructure for upgrading humans.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5197</span>
-						<span>🔱 826</span>
-					</div>
-				<div class="stars-today">⭐ 3626 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/exo-explore/exo" target="_blank">
-    
-
-
-      
-        exo-explore /
-
-      exo</a></p>
-				<p>
-      Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40226</span>
-						<span>🔱 2710</span>
-					</div>
-				<div class="stars-today">⭐ 7507 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14629</span>
-						<span>🔱 3362</span>
+						<span>⭐ 14634</span>
+						<span>🔱 3363</span>
 					</div>
 				<div class="stars-today">⭐ 2900 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Personal AI Infrastructure for upgrading humans.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5205</span>
+						<span>🔱 827</span>
+					</div>
+				<div class="stars-today">⭐ 3626 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30318</span>
+						<span>⭐ 30327</span>
 						<span>🔱 2398</span>
 					</div>
 				<div class="stars-today">⭐ 3197 stars this month</div>
@@ -294,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11186</span>
+						<span>⭐ 11210</span>
 						<span>🔱 688</span>
 					</div>
 				<div class="stars-today">⭐ 5288 stars this month</div>
@@ -316,76 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 70541</span>
-						<span>🔱 12961</span>
+						<span>⭐ 70550</span>
+						<span>🔱 12962</span>
 					</div>
 				<div class="stars-today">⭐ 2610 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/resemble-ai/chatterbox" target="_blank">
-    
-
-
-      
-        resemble-ai /
-
-      chatterbox</a></p>
-				<p>
-      SoTA open-source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21714</span>
-						<span>🔱 2823</span>
-					</div>
-				<div class="stars-today">⭐ 5747 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
-    
-
-
-      
-        virattt /
-
-      dexter</a></p>
-				<p>
-      An autonomous agent for deep financial research
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7420</span>
-						<span>🔱 928</span>
-					</div>
-				<div class="stars-today">⭐ 3217 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1974</span>
-						<span>🔱 253</span>
-					</div>
-				<div class="stars-today">⭐ 1377 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17359</span>
-						<span>🔱 1550</span>
+						<span>⭐ 17381</span>
+						<span>🔱 1554</span>
 					</div>
 				<div class="stars-today">⭐ 4391 stars this month</div>
 				</div>

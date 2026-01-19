@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-19
-date: 2026-01-19T10:14:15Z
+date: 2026-01-19T11:58:39Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
     
 
 
       
-        iOfficeAI /
+        OpenBMB /
 
-      AionUi</a></p>
+      VoxCPM</a></p>
 				<p>
-      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6308</span>
-						<span>🔱 494</span>
-					</div>
-				<div class="stars-today">⭐ 651 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yt-dlp/yt-dlp" target="_blank">
-    
-
-
-      
-        yt-dlp /
-
-      yt-dlp</a></p>
-				<p>
-      A feature-rich command-line audio/video downloader
+      VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 142708</span>
-						<span>🔱 11530</span>
+						<span>⭐ 4577</span>
+						<span>🔱 541</span>
 					</div>
-				<div class="stars-today">⭐ 149 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
-    
-
-
-      
-        nautechsystems /
-
-      nautilus_trader</a></p>
-				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 17832</span>
-						<span>🔱 2109</span>
-					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
+				<div class="stars-today">⭐ 650 stars today</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22356</span>
-						<span>🔱 1543</span>
+						<span>⭐ 22403</span>
+						<span>🔱 1546</span>
 					</div>
-				<div class="stars-today">⭐ 395 stars today</div>
+				<div class="stars-today">⭐ 621 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
     
 
 
       
-        OpenBMB /
+        iOfficeAI /
 
-      VoxCPM</a></p>
+      AionUi</a></p>
 				<p>
-      VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
+      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4530</span>
-						<span>🔱 539</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6372</span>
+						<span>🔱 500</span>
 					</div>
-				<div class="stars-today">⭐ 238 stars today</div>
+				<div class="stars-today">⭐ 1179 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/czlonkowski/n8n-mcp" target="_blank">
+    
+
+
+      
+        czlonkowski /
+
+      n8n-mcp</a></p>
+				<p>
+      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11989</span>
+						<span>🔱 2211</span>
+					</div>
+				<div class="stars-today">⭐ 87 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+    
+
+
+      
+        nautechsystems /
+
+      nautilus_trader</a></p>
+				<p>
+      A high-performance algorithmic trading platform and event-driven backtester
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 17862</span>
+						<span>🔱 2113</span>
+					</div>
+				<div class="stars-today">⭐ 525 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahujasid/blender-mcp" target="_blank">
+    
+
+
+      
+        ahujasid /
+
+      blender-mcp</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15694</span>
+						<span>🔱 1502</span>
+					</div>
+				<div class="stars-today">⭐ 174 stars today</div>
 				</div>
 			</div>
 	
@@ -140,74 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9143</span>
-						<span>🔱 797</span>
+						<span>⭐ 9158</span>
+						<span>🔱 798</span>
 					</div>
-				<div class="stars-today">⭐ 144 stars today</div>
+				<div class="stars-today">⭐ 372 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+				<p><a href="https://github.com/DavidXanatos/TaskExplorer" target="_blank">
     
 
 
       
-        Flowseal /
+        DavidXanatos /
 
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 21258</span>
-						<span>🔱 1778</span>
-					</div>
-				<div class="stars-today">⭐ 55 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/try" target="_blank">
-    
-
-
-      
-        tobi /
-
-      try</a></p>
+      TaskExplorer</a></p>
 				<p>
-      fresh directories for every vibe
+      Power full Task Manager
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 2797</span>
-						<span>🔱 103</span>
+						<span>🔠 C</span>
+						<span>⭐ 2315</span>
+						<span>🔱 208</span>
 					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Mebus/cupp" target="_blank">
-    
-
-
-      
-        Mebus /
-
-      cupp</a></p>
-				<p>
-      Common User Passwords Profiler (CUPP)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5639</span>
-						<span>🔱 1765</span>
-					</div>
-				<div class="stars-today">⭐ 31 stars today</div>
+				<div class="stars-today">⭐ 238 stars today</div>
 				</div>
 			</div>
 	
