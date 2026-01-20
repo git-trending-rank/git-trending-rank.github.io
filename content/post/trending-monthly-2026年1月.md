@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-20T10:13:53Z
+date: 2026-01-20T11:59:08Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 79582</span>
-						<span>🔱 7052</span>
+						<span>⭐ 79710</span>
+						<span>🔱 7066</span>
 					</div>
 				<div class="stars-today">⭐ 38107 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
-    
-
-
-      
-        rendercv /
-
-      rendercv</a></p>
-				<p>
-      CV/resume generator for academics and engineers, YAML to PDF
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14978</span>
-						<span>🔱 1017</span>
-					</div>
-				<div class="stars-today">⭐ 10996 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 17632</span>
-						<span>🔱 1626</span>
+						<span>⭐ 17672</span>
+						<span>🔱 1631</span>
 					</div>
 				<div class="stars-today">⭐ 10661 stars this month</div>
 				</div>
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46301</span>
-						<span>🔱 4367</span>
+						<span>⭐ 46386</span>
+						<span>🔱 4374</span>
 					</div>
 				<div class="stars-today">⭐ 23268 stars this month</div>
 				</div>
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 30426</span>
+						<span>⭐ 30505</span>
 						<span>🔱 2276</span>
 					</div>
 				<div class="stars-today">⭐ 19023 stars this month</div>
@@ -126,24 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
     
 
 
       
-        anthropics /
+        rendercv /
 
-      claude-code</a></p>
+      rendercv</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      CV/resume generator for academics and engineers, YAML to PDF
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 58475</span>
-						<span>🔱 4312</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14990</span>
+						<span>🔱 1016</span>
 					</div>
-				<div class="stars-today">⭐ 11417 stars this month</div>
+				<div class="stars-today">⭐ 10996 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22367</span>
-						<span>🔱 2234</span>
+						<span>⭐ 22414</span>
+						<span>🔱 2237</span>
 					</div>
 				<div class="stars-today">⭐ 14089 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 58498</span>
+						<span>🔱 4316</span>
+					</div>
+				<div class="stars-today">⭐ 11417 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24401</span>
-						<span>🔱 2361</span>
+						<span>⭐ 24403</span>
+						<span>🔱 2362</span>
 					</div>
 				<div class="stars-today">⭐ 4408 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 54956</span>
+						<span>⭐ 54969</span>
 						<span>🔱 3937</span>
 					</div>
 				<div class="stars-today">⭐ 7715 stars this month</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14734</span>
+						<span>⭐ 14740</span>
 						<span>🔱 3371</span>
 					</div>
 				<div class="stars-today">⭐ 3021 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5326</span>
-						<span>🔱 839</span>
-					</div>
-				<div class="stars-today">⭐ 3731 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30466</span>
-						<span>🔱 2405</span>
+						<span>⭐ 30488</span>
+						<span>🔱 2407</span>
 					</div>
 				<div class="stars-today">⭐ 3374 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Agentic AI Infrastructure for magnifying HUMAN capabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5333</span>
+						<span>🔱 840</span>
+					</div>
+				<div class="stars-today">⭐ 3731 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11487</span>
-						<span>🔱 694</span>
+						<span>⭐ 11507</span>
+						<span>🔱 696</span>
 					</div>
 				<div class="stars-today">⭐ 5487 stars this month</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 70699</span>
-						<span>🔱 12979</span>
+						<span>⭐ 70751</span>
+						<span>🔱 12987</span>
 					</div>
 				<div class="stars-today">⭐ 2710 stars this month</div>
 				</div>
@@ -338,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17627</span>
-						<span>🔱 1582</span>
+						<span>⭐ 17640</span>
+						<span>🔱 1585</span>
 					</div>
 				<div class="stars-today">⭐ 4783 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7445</span>
+						<span>🔱 934</span>
+					</div>
+				<div class="stars-today">⭐ 3332 stars this month</div>
 				</div>
 			</div>
 	
