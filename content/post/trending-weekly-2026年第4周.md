@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第4周
-date: 2026-01-21T10:13:10Z
+date: 2026-01-21T11:59:05Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
+    
+
+
+      
+        eigent-ai /
+
+      eigent</a></p>
+				<p>
+      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10198</span>
+						<span>🔱 1110</span>
+					</div>
+				<div class="stars-today">⭐ 6402 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/obra/superpowers" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 31687</span>
-						<span>🔱 2392</span>
+						<span>⭐ 31782</span>
+						<span>🔱 2396</span>
 					</div>
 				<div class="stars-today">⭐ 10993 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 81411</span>
-						<span>🔱 7234</span>
-					</div>
-				<div class="stars-today">⭐ 13900 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8305</span>
-						<span>🔱 632</span>
+						<span>⭐ 8393</span>
+						<span>🔱 643</span>
 					</div>
 				<div class="stars-today">⭐ 3946 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/liyupi/ai-guide" target="_blank">
+    
+
+
+      
+        liyupi /
+
+      ai-guide</a></p>
+				<p>
+      程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 4152</span>
+						<span>🔱 513</span>
+					</div>
+				<div class="stars-today">⭐ 2581 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 81549</span>
+						<span>🔱 7244</span>
+					</div>
+				<div class="stars-today">⭐ 13900 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 24523</span>
+						<span>⭐ 24530</span>
 						<span>🔱 2290</span>
 					</div>
 				<div class="stars-today">⭐ 545 stars this week</div>
@@ -104,24 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
+				<p><a href="https://github.com/prowler-cloud/prowler" target="_blank">
     
 
 
       
-        frankbria /
+        prowler-cloud /
 
-      ralph-claude-code</a></p>
+      prowler</a></p>
 				<p>
-      Autonomous AI development loop for Claude Code with intelligent exit detection
+      Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 4638</span>
-						<span>🔱 293</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12706</span>
+						<span>🔱 1935</span>
 					</div>
-				<div class="stars-today">⭐ 1698 stars this week</div>
+				<div class="stars-today">⭐ 164 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,74 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1063</span>
-						<span>🔱 147</span>
+						<span>⭐ 1073</span>
+						<span>🔱 148</span>
 					</div>
 				<div class="stars-today">⭐ 379 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ahujasid/blender-mcp" target="_blank">
+				<p><a href="https://github.com/neuphonic/neutts" target="_blank">
     
 
 
       
-        ahujasid /
+        neuphonic /
 
-      blender-mcp</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16204</span>
-						<span>🔱 1538</span>
-					</div>
-				<div class="stars-today">⭐ 932 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
+      neutts</a></p>
 				<p>
-      real time face swap and one-click video deepfake with only a single image
+      On-device TTS model by Neuphonic
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 78757</span>
-						<span>🔱 11485</span>
+						<span>⭐ 4619</span>
+						<span>🔱 490</span>
 					</div>
-				<div class="stars-today">⭐ 952 stars this week</div>
+				<div class="stars-today">⭐ 260 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
     
 
 
       
-        ComposioHQ /
+        frankbria /
 
-      awesome-claude-skills</a></p>
+      ralph-claude-code</a></p>
 				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+      Autonomous AI development loop for Claude Code with intelligent exit detection
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 4665</span>
+						<span>🔱 301</span>
+					</div>
+				<div class="stars-today">⭐ 1698 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cjpais/Handy" target="_blank">
+    
+
+
+      
+        cjpais /
+
+      Handy</a></p>
+				<p>
+      A free, open source, and extensible speech-to-text application that works completely offline.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12593</span>
+						<span>🔱 838</span>
+					</div>
+				<div class="stars-today">⭐ 1776 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ultralytics/ultralytics" target="_blank">
+    
+
+
+      
+        ultralytics /
+
+      ultralytics</a></p>
+				<p>
+      Ultralytics YOLO 🚀
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23149</span>
-						<span>🔱 2297</span>
+						<span>⭐ 52156</span>
+						<span>🔱 9981</span>
 					</div>
-				<div class="stars-today">⭐ 3907 stars this week</div>
+				<div class="stars-today">⭐ 1068 stars this week</div>
 				</div>
 			</div>
 	
