@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-22T10:13:27Z
+date: 2026-01-22T11:58:49Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 83082</span>
-						<span>🔱 7420</span>
+						<span>⭐ 83199</span>
+						<span>🔱 7434</span>
 					</div>
 				<div class="stars-today">⭐ 41168 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18348</span>
+						<span>⭐ 18362</span>
 						<span>🔱 1696</span>
 					</div>
 				<div class="stars-today">⭐ 11522 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 32936</span>
-						<span>🔱 2485</span>
+						<span>⭐ 33012</span>
+						<span>🔱 2486</span>
 					</div>
 				<div class="stars-today">⭐ 21166 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48855</span>
-						<span>🔱 4635</span>
+						<span>⭐ 48962</span>
+						<span>🔱 4645</span>
 					</div>
 				<div class="stars-today">⭐ 24110 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills</a></p>
-				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23878</span>
-						<span>🔱 2350</span>
-					</div>
-				<div class="stars-today">⭐ 15415 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 59270</span>
-						<span>🔱 4389</span>
+						<span>⭐ 59299</span>
+						<span>🔱 4394</span>
 					</div>
 				<div class="stars-today">⭐ 11609 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rendercv/rendercv" target="_blank">
+				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
     
 
 
       
-        rendercv /
+        ComposioHQ /
 
-      rendercv</a></p>
+      awesome-claude-skills</a></p>
 				<p>
-      CV/resume generator for academics and engineers, YAML to PDF
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15187</span>
-						<span>🔱 1026</span>
+						<span>⭐ 23929</span>
+						<span>🔱 2352</span>
 					</div>
-				<div class="stars-today">⭐ 11213 stars this month</div>
+				<div class="stars-today">⭐ 15415 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24585</span>
+						<span>⭐ 24589</span>
 						<span>🔱 2374</span>
 					</div>
 				<div class="stars-today">⭐ 4560 stars this month</div>
@@ -206,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 55226</span>
-						<span>🔱 3959</span>
+						<span>⭐ 55237</span>
+						<span>🔱 3958</span>
 					</div>
 				<div class="stars-today">⭐ 7996 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
-    
-
-
-      
-        Lissy93 /
-
-      web-check</a></p>
-				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30672</span>
-						<span>🔱 2413</span>
-					</div>
-				<div class="stars-today">⭐ 3609 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14926</span>
-						<span>🔱 3388</span>
+						<span>⭐ 14933</span>
+						<span>🔱 3389</span>
 					</div>
 				<div class="stars-today">⭐ 3210 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
     
 
 
       
-        danielmiessler /
+        Lissy93 /
 
-      Personal_AI_Infrastructure</a></p>
+      web-check</a></p>
 				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5524</span>
-						<span>🔱 862</span>
+						<span>⭐ 30678</span>
+						<span>🔱 2413</span>
 					</div>
-				<div class="stars-today">⭐ 3841 stars this month</div>
+				<div class="stars-today">⭐ 3609 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 11961</span>
+						<span>⭐ 11983</span>
 						<span>🔱 723</span>
 					</div>
 				<div class="stars-today">⭐ 5828 stars this month</div>
@@ -302,24 +258,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
     
 
 
       
-        twitter /
+        danielmiessler /
 
-      the-algorithm</a></p>
+      Personal_AI_Infrastructure</a></p>
 				<p>
-      Source code for the X Recommendation Algorithm
+      Agentic AI Infrastructure for magnifying HUMAN capabilities.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Scala</span>
-						<span>⭐ 71586</span>
-						<span>🔱 13111</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5529</span>
+						<span>🔱 864</span>
 					</div>
-				<div class="stars-today">⭐ 3286 stars this month</div>
+				<div class="stars-today">⭐ 3841 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8113</span>
+						<span>⭐ 8129</span>
 						<span>🔱 1021</span>
 					</div>
 				<div class="stars-today">⭐ 3754 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+    
+
+
+      
+        twitter /
+
+      the-algorithm</a></p>
+				<p>
+      Source code for the X Recommendation Algorithm
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Scala</span>
+						<span>⭐ 71611</span>
+						<span>🔱 13115</span>
+					</div>
+				<div class="stars-today">⭐ 3286 stars this month</div>
 				</div>
 			</div>
 	
