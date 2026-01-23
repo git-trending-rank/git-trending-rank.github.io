@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第4周
-date: 2026-01-23T11:58:59Z
+date: 2026-01-23T14:13:18Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
-    
-
-
-      
-        eigent-ai /
-
-      eigent</a></p>
-				<p>
-      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10928</span>
-						<span>🔱 1224</span>
-					</div>
-				<div class="stars-today">⭐ 5513 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9613</span>
-						<span>🔱 740</span>
+						<span>⭐ 9648</span>
+						<span>🔱 742</span>
 					</div>
 				<div class="stars-today">⭐ 5193 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
+    
+
+
+      
+        eigent-ai /
+
+      eigent</a></p>
+				<p>
+      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10955</span>
+						<span>🔱 1228</span>
+					</div>
+				<div class="stars-today">⭐ 5513 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 34132</span>
-						<span>🔱 2587</span>
+						<span>⭐ 34225</span>
+						<span>🔱 2591</span>
 					</div>
 				<div class="stars-today">⭐ 9614 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
     
 
 
       
-        anomalyco /
+        remotion-dev /
 
-      opencode</a></p>
+      remotion</a></p>
 				<p>
-      The open source coding agent.
+      🎥 Make videos programmatically with React
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84936</span>
-						<span>🔱 7615</span>
+						<span>⭐ 27906</span>
+						<span>🔱 1644</span>
 					</div>
-				<div class="stars-today">⭐ 12859 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/liyupi/ai-guide" target="_blank">
-    
-
-
-      
-        liyupi /
-
-      ai-guide</a></p>
-				<p>
-      程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 4568</span>
-						<span>🔱 543</span>
-					</div>
-				<div class="stars-today">⭐ 1301 stars this week</div>
+				<div class="stars-today">⭐ 2491 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 5315</span>
+						<span>⭐ 5334</span>
 						<span>🔱 359</span>
 					</div>
 				<div class="stars-today">⭐ 2070 stars this week</div>
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 24694</span>
+						<span>⭐ 24702</span>
 						<span>🔱 2301</span>
 					</div>
 				<div class="stars-today">⭐ 675 stars this week</div>
@@ -170,46 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
     
 
 
       
-        alirezarezvani /
+        tambo-ai /
 
-      claude-skills</a></p>
+      tambo</a></p>
 				<p>
-      A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
+      Generative UI SDK for React
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1281</span>
-						<span>🔱 152</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4448</span>
+						<span>🔱 226</span>
 					</div>
-				<div class="stars-today">⭐ 536 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
-    
-
-
-      
-        google /
-
-      langextract</a></p>
-				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23598</span>
-						<span>🔱 1619</span>
-					</div>
-				<div class="stars-today">⭐ 2902 stars this week</div>
+				<div class="stars-today">⭐ 1704 stars this week</div>
 				</div>
 			</div>
 	

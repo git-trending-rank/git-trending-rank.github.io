@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-23
-date: 2026-01-23T11:58:59Z
+date: 2026-01-23T14:13:18Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27791</span>
-						<span>🔱 1638</span>
+						<span>⭐ 27906</span>
+						<span>🔱 1644</span>
 					</div>
 				<div class="stars-today">⭐ 1618 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21046</span>
+						<span>🔱 2320</span>
+					</div>
+				<div class="stars-today">⭐ 257 stars today</div>
 				</div>
 			</div>
 	
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27389</span>
+						<span>⭐ 27428</span>
 						<span>🔱 2482</span>
 					</div>
 				<div class="stars-today">⭐ 492 stars today</div>
@@ -60,46 +82,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
+				<p><a href="https://github.com/ai-dynamo/dynamo" target="_blank">
     
 
 
       
-        twitter /
+        ai-dynamo /
 
-      the-algorithm</a></p>
+      dynamo</a></p>
 				<p>
-      Source code for the X Recommendation Algorithm
+      A Datacenter Scale Distributed Inference Serving Framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Scala</span>
-						<span>⭐ 71941</span>
-						<span>🔱 13160</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 5849</span>
+						<span>🔱 801</span>
 					</div>
-				<div class="stars-today">⭐ 343 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xai-org/grok-1" target="_blank">
+				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
     
 
 
       
-        xai-org /
+        browser-use /
 
-      grok-1</a></p>
+      browser-use</a></p>
 				<p>
-      Grok open release
+      🌐 Make websites accessible for AI agents. Automate tasks online with ease.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51356</span>
-						<span>🔱 8473</span>
+						<span>⭐ 76218</span>
+						<span>🔱 9091</span>
 					</div>
-				<div class="stars-today">⭐ 241 stars today</div>
+				<div class="stars-today">⭐ 210 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/copilot-cli" target="_blank">
+    
+
+
+      
+        github /
+
+      copilot-cli</a></p>
+				<p>
+      GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 7042</span>
+						<span>🔱 946</span>
+					</div>
+				<div class="stars-today">⭐ 114 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Asabeneh/30-Days-Of-Python" target="_blank">
+    
+
+
+      
+        Asabeneh /
+
+      30-Days-Of-Python</a></p>
+				<p>
+      The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56215</span>
+						<span>🔱 10778</span>
+					</div>
+				<div class="stars-today">⭐ 87 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 59723</span>
+						<span>🔱 4445</span>
+					</div>
+				<div class="stars-today">⭐ 398 stars today</div>
 				</div>
 			</div>
 	
@@ -118,76 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 12247</span>
-						<span>🔱 956</span>
+						<span>⭐ 12256</span>
+						<span>🔱 957</span>
 					</div>
 				<div class="stars-today">⭐ 184 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11595</span>
-						<span>🔱 935</span>
-					</div>
-				<div class="stars-today">⭐ 233 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      AionUi</a></p>
-				<p>
-      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9613</span>
-						<span>🔱 740</span>
-					</div>
-				<div class="stars-today">⭐ 707 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mastra-ai/mastra" target="_blank">
-    
-
-
-      
-        mastra-ai /
-
-      mastra</a></p>
-				<p>
-      From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20305</span>
-						<span>🔱 1458</span>
-					</div>
-				<div class="stars-today">⭐ 309 stars today</div>
 				</div>
 			</div>
 	
@@ -206,54 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33132</span>
-						<span>🔱 6863</span>
+						<span>⭐ 33169</span>
+						<span>🔱 6867</span>
 					</div>
 				<div class="stars-today">⭐ 556 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nexmoe/VidBee" target="_blank">
+				<p><a href="https://github.com/OpenBMB/UltraRAG" target="_blank">
     
 
 
       
-        nexmoe /
+        OpenBMB /
 
-      VidBee</a></p>
+      UltraRAG</a></p>
 				<p>
-      Download videos from almost any website worldwide
+      UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5094</span>
-						<span>🔱 353</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2702</span>
+						<span>🔱 231</span>
 					</div>
-				<div class="stars-today">⭐ 267 stars today</div>
+				<div class="stars-today">⭐ 116 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
+				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
     
 
 
       
-        virattt /
+        lyogavin /
 
-      dexter</a></p>
+      airllm</a></p>
 				<p>
-      An autonomous agent for deep financial research
+      AirLLM 70B inference with single 4GB GPU
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8687</span>
-						<span>🔱 1063</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 8424</span>
+						<span>🔱 772</span>
 					</div>
-				<div class="stars-today">⭐ 554 stars today</div>
+				<div class="stars-today">⭐ 542 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KellerJordan/modded-nanogpt" target="_blank">
+    
+
+
+      
+        KellerJordan /
+
+      modded-nanogpt</a></p>
+				<p>
+      NanoGPT (124M) in 2 minutes
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4324</span>
+						<span>🔱 580</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	

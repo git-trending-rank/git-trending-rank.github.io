@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-23T11:58:59Z
+date: 2026-01-23T14:13:18Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 84936</span>
-						<span>🔱 7615</span>
+						<span>⭐ 85063</span>
+						<span>🔱 7628</span>
 					</div>
 				<div class="stars-today">⭐ 42687 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18572</span>
+						<span>⭐ 18601</span>
 						<span>🔱 1723</span>
 					</div>
 				<div class="stars-today">⭐ 11803 stars this month</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 34132</span>
-						<span>🔱 2587</span>
+						<span>⭐ 34225</span>
+						<span>🔱 2591</span>
 					</div>
 				<div class="stars-today">⭐ 22374 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50543</span>
-						<span>🔱 4849</span>
+						<span>⭐ 50667</span>
+						<span>🔱 4865</span>
 					</div>
 				<div class="stars-today">⭐ 24614 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 59684</span>
-						<span>🔱 4439</span>
+						<span>⭐ 59723</span>
+						<span>🔱 4445</span>
 					</div>
 				<div class="stars-today">⭐ 11714 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills</a></p>
-				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24614</span>
-						<span>🔱 2415</span>
-					</div>
-				<div class="stars-today">⭐ 16127 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24654</span>
+						<span>⭐ 24658</span>
 						<span>🔱 2381</span>
 					</div>
 				<div class="stars-today">⭐ 4625 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-claude-skills</a></p>
+				<p>
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24663</span>
+						<span>🔱 2421</span>
+					</div>
+				<div class="stars-today">⭐ 16127 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 55343</span>
-						<span>🔱 3972</span>
+						<span>⭐ 55356</span>
+						<span>🔱 3973</span>
 					</div>
 				<div class="stars-today">⭐ 8092 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15035</span>
+						<span>⭐ 15041</span>
 						<span>🔱 3400</span>
 					</div>
 				<div class="stars-today">⭐ 3296 stars this month</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30759</span>
+						<span>⭐ 30762</span>
 						<span>🔱 2421</span>
 					</div>
 				<div class="stars-today">⭐ 3706 stars this month</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 12221</span>
-						<span>🔱 736</span>
+						<span>⭐ 12244</span>
+						<span>🔱 737</span>
 					</div>
 				<div class="stars-today">⭐ 5997 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5609</span>
-						<span>🔱 874</span>
-					</div>
-				<div class="stars-today">⭐ 3843 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8687</span>
-						<span>🔱 1063</span>
+						<span>⭐ 8702</span>
+						<span>🔱 1068</span>
 					</div>
 				<div class="stars-today">⭐ 4015 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Agentic AI Infrastructure for magnifying HUMAN capabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5617</span>
+						<span>🔱 874</span>
+					</div>
+				<div class="stars-today">⭐ 3843 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 71941</span>
-						<span>🔱 13160</span>
+						<span>⭐ 71952</span>
+						<span>🔱 13161</span>
 					</div>
 				<div class="stars-today">⭐ 3777 stars this month</div>
 				</div>
