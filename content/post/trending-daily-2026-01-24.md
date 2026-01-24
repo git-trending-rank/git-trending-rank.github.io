@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-24
-date: 2026-01-24T09:58:39Z
+date: 2026-01-24T11:58:51Z
 categories:
 - daily
 keywords:
@@ -30,208 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28845</span>
-						<span>🔱 1712</span>
+						<span>⭐ 28960</span>
+						<span>🔱 1719</span>
 					</div>
-				<div class="stars-today">⭐ 1618 stars today</div>
+				<div class="stars-today">⭐ 1168 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        microsoft /
+        VectifyAI /
 
-      VibeVoice</a></p>
+      PageIndex</a></p>
 				<p>
-      Open-Source Frontier Voice AI
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21428</span>
-						<span>🔱 2349</span>
+						<span>⭐ 7757</span>
+						<span>🔱 585</span>
 					</div>
-				<div class="stars-today">⭐ 261 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 27744</span>
-						<span>🔱 2503</span>
-					</div>
-				<div class="stars-today">⭐ 491 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ai-dynamo/dynamo" target="_blank">
-    
-
-
-      
-        ai-dynamo /
-
-      dynamo</a></p>
-				<p>
-      A Datacenter Scale Distributed Inference Serving Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5948</span>
-						<span>🔱 811</span>
-					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      browser-use</a></p>
-				<p>
-      🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 76521</span>
-						<span>🔱 9111</span>
-					</div>
-				<div class="stars-today">⭐ 205 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/copilot-cli" target="_blank">
-    
-
-
-      
-        github /
-
-      copilot-cli</a></p>
-				<p>
-      GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 7357</span>
-						<span>🔱 963</span>
-					</div>
-				<div class="stars-today">⭐ 125 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Asabeneh/30-Days-Of-Python" target="_blank">
-    
-
-
-      
-        Asabeneh /
-
-      30-Days-Of-Python</a></p>
-				<p>
-      The 30 Days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than 100 days. Follow your own pace. These videos may help too: https://www.youtube.com/channel/UC7PNRuno1rzYPb1xLa4yktw
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56451</span>
-						<span>🔱 10800</span>
-					</div>
-				<div class="stars-today">⭐ 91 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 60116</span>
-						<span>🔱 4475</span>
-					</div>
-				<div class="stars-today">⭐ 393 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepseek-ai/FlashMLA" target="_blank">
-    
-
-
-      
-        deepseek-ai /
-
-      FlashMLA</a></p>
-				<p>
-      FlashMLA: Efficient Multi-head Latent Attention Kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 12358</span>
-						<span>🔱 965</span>
-					</div>
-				<div class="stars-today">⭐ 184 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/Data-Science-For-Beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      Data-Science-For-Beginners</a></p>
-				<p>
-      10 Weeks, 20 Lessons, Data Science for All!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33504</span>
-						<span>🔱 6883</span>
-					</div>
-				<div class="stars-today">⭐ 555 stars today</div>
+				<div class="stars-today">⭐ 1350 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +74,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3207</span>
-						<span>🔱 244</span>
+						<span>⭐ 3253</span>
+						<span>🔱 246</span>
 					</div>
 				<div class="stars-today">⭐ 130 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lyogavin/airllm" target="_blank">
+				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
     
 
 
       
-        lyogavin /
+        browser-use /
 
-      airllm</a></p>
+      browser-use</a></p>
 				<p>
-      AirLLM 70B inference with single 4GB GPU
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 8765</span>
-						<span>🔱 799</span>
-					</div>
-				<div class="stars-today">⭐ 493 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KellerJordan/modded-nanogpt" target="_blank">
-    
-
-
-      
-        KellerJordan /
-
-      modded-nanogpt</a></p>
-				<p>
-      NanoGPT (124M) in 2 minutes
+      🌐 Make websites accessible for AI agents. Automate tasks online with ease.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4426</span>
-						<span>🔱 585</span>
+						<span>⭐ 76559</span>
+						<span>🔱 9114</span>
 					</div>
-				<div class="stars-today">⭐ 54 stars today</div>
+				<div class="stars-today">⭐ 205 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/block/goose" target="_blank">
+    
+
+
+      
+        block /
+
+      goose</a></p>
+				<p>
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 27783</span>
+						<span>🔱 2506</span>
+					</div>
+				<div class="stars-today">⭐ 411 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
+    
+
+
+      
+        Blaizzy /
+
+      mlx-audio</a></p>
+				<p>
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3390</span>
+						<span>🔱 285</span>
+					</div>
+				<div class="stars-today">⭐ 63 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/simstudioai/sim" target="_blank">
+    
+
+
+      
+        simstudioai /
+
+      sim</a></p>
+				<p>
+      Open-source platform to build and deploy AI agent workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26073</span>
+						<span>🔱 3258</span>
+					</div>
+				<div class="stars-today">⭐ 191 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21451</span>
+						<span>🔱 2352</span>
+					</div>
+				<div class="stars-today">⭐ 261 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/putyy/res-downloader" target="_blank">
+    
+
+
+      
+        putyy /
+
+      res-downloader</a></p>
+				<p>
+      视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 14238</span>
+						<span>🔱 1777</span>
+					</div>
+				<div class="stars-today">⭐ 394 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AI4Finance-Foundation/FinRobot" target="_blank">
+    
+
+
+      
+        AI4Finance-Foundation /
+
+      FinRobot</a></p>
+				<p>
+      FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 5034</span>
+						<span>🔱 926</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
