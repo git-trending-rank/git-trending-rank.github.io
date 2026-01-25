@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第4周
-date: 2026-01-25T13:58:56Z
+date: 2026-01-25T15:58:48Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30154</span>
-						<span>🔱 1822</span>
+						<span>⭐ 30309</span>
+						<span>🔱 1832</span>
 					</div>
 				<div class="stars-today">⭐ 3712 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10494</span>
-						<span>🔱 803</span>
+						<span>⭐ 10550</span>
+						<span>🔱 808</span>
 					</div>
 				<div class="stars-today">⭐ 5447 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8805</span>
-						<span>🔱 652</span>
+						<span>⭐ 8876</span>
+						<span>🔱 654</span>
 					</div>
 				<div class="stars-today">⭐ 2362 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 35673</span>
-						<span>🔱 2717</span>
+						<span>⭐ 35763</span>
+						<span>🔱 2726</span>
 					</div>
 				<div class="stars-today">⭐ 8266 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3736</span>
-						<span>🔱 272</span>
+						<span>⭐ 3816</span>
+						<span>🔱 276</span>
 					</div>
 				<div class="stars-today">⭐ 912 stars this week</div>
 				</div>
