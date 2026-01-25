@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-25
-date: 2026-01-25T09:58:43Z
+date: 2026-01-25T11:58:39Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
     
 
 
       
-        remotion-dev /
+        Blaizzy /
 
-      remotion</a></p>
+      mlx-audio</a></p>
 				<p>
-      🎥 Make videos programmatically with React
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29964</span>
-						<span>🔱 1802</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3670</span>
+						<span>🔱 304</span>
 					</div>
-				<div class="stars-today">⭐ 1171 stars today</div>
+				<div class="stars-today">⭐ 263 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8666</span>
-						<span>🔱 640</span>
+						<span>⭐ 8743</span>
+						<span>🔱 646</span>
 					</div>
-				<div class="stars-today">⭐ 1374 stars today</div>
+				<div class="stars-today">⭐ 1007 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30054</span>
+						<span>🔱 1810</span>
+					</div>
+				<div class="stars-today">⭐ 1118 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/qarmin/czkawka" target="_blank">
+    
+
+
+      
+        qarmin /
+
+      czkawka</a></p>
+				<p>
+      Multi functional app to find duplicates, empty folders, similar images etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 28335</span>
+						<span>🔱 925</span>
+					</div>
+				<div class="stars-today">⭐ 60 stars today</div>
 				</div>
 			</div>
 	
@@ -74,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3639</span>
+						<span>⭐ 3685</span>
 						<span>🔱 271</span>
 					</div>
-				<div class="stars-today">⭐ 585 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      browser-use</a></p>
-				<p>
-      🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 76961</span>
-						<span>🔱 9142</span>
-					</div>
-				<div class="stars-today">⭐ 380 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 28611</span>
-						<span>🔱 2569</span>
-					</div>
-				<div class="stars-today">⭐ 407 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
-    
-
-
-      
-        Blaizzy /
-
-      mlx-audio</a></p>
-				<p>
-      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3599</span>
-						<span>🔱 300</span>
-					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/simstudioai/sim" target="_blank">
-    
-
-
-      
-        simstudioai /
-
-      sim</a></p>
-				<p>
-      Open-source platform to build and deploy AI agent workflows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26198</span>
-						<span>🔱 3267</span>
-					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
+				<div class="stars-today">⭐ 437 stars today</div>
 				</div>
 			</div>
 	
@@ -184,54 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21774</span>
-						<span>🔱 2371</span>
+						<span>⭐ 21806</span>
+						<span>🔱 2374</span>
 					</div>
-				<div class="stars-today">⭐ 454 stars today</div>
+				<div class="stars-today">⭐ 362 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/putyy/res-downloader" target="_blank">
+				<p><a href="https://github.com/openai/codex" target="_blank">
     
 
 
       
-        putyy /
+        openai /
 
-      res-downloader</a></p>
+      codex</a></p>
 				<p>
-      视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!
+      Lightweight coding agent that runs in your terminal
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 14477</span>
-						<span>🔱 1797</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 57244</span>
+						<span>🔱 7424</span>
 					</div>
-				<div class="stars-today">⭐ 211 stars today</div>
+				<div class="stars-today">⭐ 193 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AI4Finance-Foundation/FinRobot" target="_blank">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
     
 
 
       
-        AI4Finance-Foundation /
+        supermemoryai /
 
-      FinRobot</a></p>
+      supermemory</a></p>
 				<p>
-      FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 5363</span>
-						<span>🔱 945</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14489</span>
+						<span>🔱 1539</span>
 					</div>
-				<div class="stars-today">⭐ 34 stars today</div>
+				<div class="stars-today">⭐ 159 stars today</div>
 				</div>
 			</div>
 	

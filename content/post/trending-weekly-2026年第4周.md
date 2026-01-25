@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第4周
-date: 2026-01-25T09:58:43Z
+date: 2026-01-25T11:58:39Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      AionUi</a></p>
-				<p>
-      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10419</span>
-						<span>🔱 799</span>
-					</div>
-				<div class="stars-today">⭐ 5447 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
@@ -52,54 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29964</span>
-						<span>🔱 1802</span>
+						<span>⭐ 30054</span>
+						<span>🔱 1810</span>
 					</div>
 				<div class="stars-today">⭐ 3712 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
     
 
 
       
-        obra /
+        iOfficeAI /
 
-      superpowers</a></p>
+      AionUi</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 35533</span>
-						<span>🔱 2703</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10452</span>
+						<span>🔱 802</span>
 					</div>
-				<div class="stars-today">⭐ 8266 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11694</span>
-						<span>🔱 945</span>
-					</div>
-				<div class="stars-today">⭐ 1325 stars this week</div>
+				<div class="stars-today">⭐ 5447 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8666</span>
-						<span>🔱 640</span>
+						<span>⭐ 8743</span>
+						<span>🔱 646</span>
 					</div>
 				<div class="stars-today">⭐ 2362 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tobi/try" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        tobi /
+        obra /
 
-      try</a></p>
+      superpowers</a></p>
 				<p>
-      fresh directories for every vibe
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 3303</span>
-						<span>🔱 125</span>
+						<span>⭐ 35596</span>
+						<span>🔱 2710</span>
 					</div>
-				<div class="stars-today">⭐ 683 stars this week</div>
+				<div class="stars-today">⭐ 8266 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
+				<p><a href="https://github.com/OpenBMB/UltraRAG" target="_blank">
     
 
 
       
-        eigent-ai /
+        OpenBMB /
 
-      eigent</a></p>
+      UltraRAG</a></p>
 				<p>
-      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+      UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11323</span>
-						<span>🔱 1270</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3685</span>
+						<span>🔱 271</span>
 					</div>
-				<div class="stars-today">⭐ 3187 stars this week</div>
+				<div class="stars-today">⭐ 912 stars this week</div>
 				</div>
 			</div>
 	

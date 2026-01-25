@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-25T09:58:43Z
+date: 2026-01-25T11:58:39Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 86845</span>
-						<span>🔱 7880</span>
+						<span>⭐ 86931</span>
+						<span>🔱 7894</span>
 					</div>
 				<div class="stars-today">⭐ 44741 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18881</span>
-						<span>🔱 1755</span>
-					</div>
-				<div class="stars-today">⭐ 12116 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 35533</span>
-						<span>🔱 2703</span>
+						<span>⭐ 35596</span>
+						<span>🔱 2710</span>
 					</div>
 				<div class="stars-today">⭐ 23983 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18899</span>
+						<span>🔱 1757</span>
+					</div>
+				<div class="stars-today">⭐ 12116 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 52348</span>
-						<span>🔱 5085</span>
+						<span>⭐ 52442</span>
+						<span>🔱 5096</span>
 					</div>
 				<div class="stars-today">⭐ 25497 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 60409</span>
-						<span>🔱 4507</span>
+						<span>⭐ 60439</span>
+						<span>🔱 4508</span>
 					</div>
 				<div class="stars-today">⭐ 12132 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24755</span>
+						<span>⭐ 24759</span>
 						<span>🔱 2393</span>
 					</div>
 				<div class="stars-today">⭐ 4706 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 55559</span>
-						<span>🔱 3989</span>
+						<span>⭐ 55571</span>
+						<span>🔱 3990</span>
 					</div>
 				<div class="stars-today">⭐ 8245 stars this month</div>
 				</div>
@@ -184,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15207</span>
-						<span>🔱 3420</span>
+						<span>⭐ 15210</span>
+						<span>🔱 3423</span>
 					</div>
 				<div class="stars-today">⭐ 3458 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills</a></p>
-				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25470</span>
-						<span>🔱 2492</span>
-					</div>
-				<div class="stars-today">⭐ 15999 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
-    
-
-
-      
-        Lissy93 /
-
-      web-check</a></p>
-				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30927</span>
-						<span>🔱 2427</span>
-					</div>
-				<div class="stars-today">⭐ 3844 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 12662</span>
-						<span>🔱 760</span>
+						<span>⭐ 12674</span>
+						<span>🔱 761</span>
 					</div>
 				<div class="stars-today">⭐ 6359 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+    
+
+
+      
+        Lissy93 /
+
+      web-check</a></p>
+				<p>
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30937</span>
+						<span>🔱 2428</span>
+					</div>
+				<div class="stars-today">⭐ 3844 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-claude-skills</a></p>
+				<p>
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25510</span>
+						<span>🔱 2494</span>
+					</div>
+				<div class="stars-today">⭐ 15999 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8861</span>
-						<span>🔱 1090</span>
+						<span>⭐ 8864</span>
+						<span>🔱 1091</span>
 					</div>
 				<div class="stars-today">⭐ 4635 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30054</span>
+						<span>🔱 1810</span>
+					</div>
+				<div class="stars-today">⭐ 4163 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5770</span>
-						<span>🔱 892</span>
+						<span>⭐ 5784</span>
+						<span>🔱 894</span>
 					</div>
 				<div class="stars-today">⭐ 3789 stars this month</div>
 				</div>
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Scala</span>
-						<span>⭐ 72101</span>
-						<span>🔱 13183</span>
+						<span>⭐ 72108</span>
+						<span>🔱 13182</span>
 					</div>
 				<div class="stars-today">⭐ 3796 stars this month</div>
 				</div>
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18311</span>
-						<span>🔱 1666</span>
+						<span>⭐ 18322</span>
+						<span>🔱 1667</span>
 					</div>
 				<div class="stars-today">⭐ 4759 stars this month</div>
 				</div>
