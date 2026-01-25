@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-25
-date: 2026-01-25T21:58:38Z
+date: 2026-01-25T23:58:46Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4124</span>
-						<span>🔱 332</span>
+						<span>⭐ 4194</span>
+						<span>🔱 335</span>
 					</div>
 				<div class="stars-today">⭐ 263 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8999</span>
-						<span>🔱 662</span>
+						<span>⭐ 9029</span>
+						<span>🔱 663</span>
 					</div>
 				<div class="stars-today">⭐ 1007 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30520</span>
-						<span>🔱 1848</span>
+						<span>⭐ 30576</span>
+						<span>🔱 1850</span>
 					</div>
 				<div class="stars-today">⭐ 1118 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28509</span>
-						<span>🔱 931</span>
+						<span>⭐ 28534</span>
+						<span>🔱 932</span>
 					</div>
 				<div class="stars-today">⭐ 60 stars today</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3959</span>
+						<span>⭐ 4009</span>
 						<span>🔱 283</span>
 					</div>
 				<div class="stars-today">⭐ 437 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21988</span>
-						<span>🔱 2391</span>
+						<span>⭐ 22009</span>
+						<span>🔱 2393</span>
 					</div>
 				<div class="stars-today">⭐ 362 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 57402</span>
-						<span>🔱 7442</span>
+						<span>⭐ 57422</span>
+						<span>🔱 7443</span>
 					</div>
 				<div class="stars-today">⭐ 208 stars today</div>
 				</div>
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14637</span>
-						<span>🔱 1544</span>
+						<span>⭐ 14663</span>
+						<span>🔱 1543</span>
 					</div>
 				<div class="stars-today">⭐ 159 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Psiphon-Inc/conduit" target="_blank">
+    
+
+
+      
+        Psiphon-Inc /
+
+      conduit</a></p>
+				<p>
+      Conduit React Native app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 83</span>
+						<span>🔱 39</span>
+					</div>
+				<div class="stars-today">⭐ 17 stars today</div>
 				</div>
 			</div>
 	
