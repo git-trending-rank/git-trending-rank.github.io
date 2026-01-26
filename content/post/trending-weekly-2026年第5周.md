@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-26T06:01:39Z
+date: 2026-01-26T07:58:47Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30999</span>
-						<span>🔱 1871</span>
+						<span>⭐ 31151</span>
+						<span>🔱 1877</span>
 					</div>
 				<div class="stars-today">⭐ 4795 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10761</span>
-						<span>🔱 821</span>
+						<span>⭐ 10819</span>
+						<span>🔱 825</span>
 					</div>
 				<div class="stars-today">⭐ 5288 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9262</span>
-						<span>🔱 679</span>
+						<span>⭐ 9338</span>
+						<span>🔱 685</span>
 					</div>
 				<div class="stars-today">⭐ 3307 stars this week</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 36224</span>
-						<span>🔱 2766</span>
+						<span>⭐ 36367</span>
+						<span>🔱 2776</span>
 					</div>
 				<div class="stars-today">⭐ 7732 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/UltraRAG" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      UltraRAG</a></p>
+				<p>
+      UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4323</span>
+						<span>🔱 301</span>
+					</div>
+				<div class="stars-today">⭐ 1300 stars this week</div>
 				</div>
 			</div>
 	
