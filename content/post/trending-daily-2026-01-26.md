@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-26
-date: 2026-01-26T10:13:39Z
+date: 2026-01-26T11:58:56Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4807</span>
-						<span>🔱 360</span>
+						<span>⭐ 4882</span>
+						<span>🔱 363</span>
 					</div>
-				<div class="stars-today">⭐ 272 stars today</div>
+				<div class="stars-today">⭐ 1234 stars today</div>
 				</div>
 			</div>
 	
@@ -52,98 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9421</span>
-						<span>🔱 690</span>
+						<span>⭐ 9465</span>
+						<span>🔱 692</span>
 					</div>
-				<div class="stars-today">⭐ 1004 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
-    
-
-
-      
-        remotion-dev /
-
-      remotion</a></p>
-				<p>
-      🎥 Make videos programmatically with React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31314</span>
-						<span>🔱 1882</span>
-					</div>
-				<div class="stars-today">⭐ 1114 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/qarmin/czkawka" target="_blank">
-    
-
-
-      
-        qarmin /
-
-      czkawka</a></p>
-				<p>
-      Multi functional app to find duplicates, empty folders, similar images etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 28748</span>
-						<span>🔱 944</span>
-					</div>
-				<div class="stars-today">⭐ 65 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22254</span>
-						<span>🔱 2408</span>
-					</div>
-				<div class="stars-today">⭐ 362 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/codex" target="_blank">
-    
-
-
-      
-        openai /
-
-      codex</a></p>
-				<p>
-      Lightweight coding agent that runs in your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 57646</span>
-						<span>🔱 7461</span>
-					</div>
-				<div class="stars-today">⭐ 170 stars today</div>
+				<div class="stars-today">⭐ 731 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +74,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14873</span>
-						<span>🔱 1551</span>
+						<span>⭐ 14910</span>
+						<span>🔱 1552</span>
 					</div>
-				<div class="stars-today">⭐ 157 stars today</div>
+				<div class="stars-today">⭐ 418 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Psiphon-Inc/conduit" target="_blank">
+				<p><a href="https://github.com/block/goose" target="_blank">
     
 
 
       
-        Psiphon-Inc /
+        block /
 
-      conduit</a></p>
+      goose</a></p>
 				<p>
-      Conduit Client
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 28968</span>
+						<span>🔱 2607</span>
+					</div>
+				<div class="stars-today">⭐ 788 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 120</span>
-						<span>🔱 42</span>
+						<span>⭐ 31406</span>
+						<span>🔱 1886</span>
 					</div>
-				<div class="stars-today">⭐ 17 stars today</div>
+				<div class="stars-today">⭐ 1372 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AI4Finance-Foundation/FinRobot" target="_blank">
+    
+
+
+      
+        AI4Finance-Foundation /
+
+      FinRobot</a></p>
+				<p>
+      FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 5444</span>
+						<span>🔱 957</span>
+					</div>
+				<div class="stars-today">⭐ 173 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/k4yt3x/video2x" target="_blank">
+    
+
+
+      
+        k4yt3x /
+
+      video2x</a></p>
+				<p>
+      A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 17872</span>
+						<span>🔱 1593</span>
+					</div>
+				<div class="stars-today">⭐ 473 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/business-science/ai-data-science-team" target="_blank">
+    
+
+
+      
+        business-science /
+
+      ai-data-science-team</a></p>
+				<p>
+      An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3885</span>
+						<span>🔱 743</span>
+					</div>
+				<div class="stars-today">⭐ 125 stars today</div>
 				</div>
 			</div>
 	

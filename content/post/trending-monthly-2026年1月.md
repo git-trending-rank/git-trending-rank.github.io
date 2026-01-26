@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-26T10:13:39Z
+date: 2026-01-26T11:59:00Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 88204</span>
-						<span>🔱 8047</span>
+						<span>⭐ 88305</span>
+						<span>🔱 8056</span>
 					</div>
 				<div class="stars-today">⭐ 45294 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 36500</span>
-						<span>🔱 2785</span>
+						<span>⭐ 36580</span>
+						<span>🔱 2789</span>
 					</div>
 				<div class="stars-today">⭐ 24448 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19100</span>
-						<span>🔱 1775</span>
+						<span>⭐ 19116</span>
+						<span>🔱 1779</span>
 					</div>
 				<div class="stars-today">⭐ 12275 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53676</span>
-						<span>🔱 5228</span>
+						<span>⭐ 53764</span>
+						<span>🔱 5238</span>
 					</div>
 				<div class="stars-today">⭐ 25723 stars this month</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 60788</span>
-						<span>🔱 4544</span>
+						<span>⭐ 60814</span>
+						<span>🔱 4546</span>
 					</div>
 				<div class="stars-today">⭐ 12252 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need！write a claude code with only 16 line code 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15339</span>
+						<span>🔱 3427</span>
+					</div>
+				<div class="stars-today">⭐ 3552 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24823</span>
+						<span>⭐ 24828</span>
 						<span>🔱 2395</span>
 					</div>
 				<div class="stars-today">⭐ 4747 stars this month</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 55720</span>
-						<span>🔱 4000</span>
+						<span>⭐ 55732</span>
+						<span>🔱 4002</span>
 					</div>
 				<div class="stars-today">⭐ 8344 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need！write a claude code with only 16 line code 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15336</span>
-						<span>🔱 3427</span>
-					</div>
-				<div class="stars-today">⭐ 3552 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 12841</span>
-						<span>🔱 774</span>
+						<span>⭐ 12851</span>
+						<span>🔱 776</span>
 					</div>
 				<div class="stars-today">⭐ 6490 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31045</span>
-						<span>🔱 2435</span>
+						<span>⭐ 31056</span>
+						<span>🔱 2436</span>
 					</div>
 				<div class="stars-today">⭐ 3947 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26068</span>
-						<span>🔱 2544</span>
+						<span>⭐ 26099</span>
+						<span>🔱 2546</span>
 					</div>
 				<div class="stars-today">⭐ 15275 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
-    
-
-
-      
-        virattt /
-
-      dexter</a></p>
-				<p>
-      An autonomous agent for deep financial research
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8967</span>
-						<span>🔱 1097</span>
-					</div>
-				<div class="stars-today">⭐ 4696 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,76 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31314</span>
-						<span>🔱 1882</span>
+						<span>⭐ 31406</span>
+						<span>🔱 1886</span>
 					</div>
 				<div class="stars-today">⭐ 5140 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
     
 
 
       
-        danielmiessler /
+        virattt /
 
-      Personal_AI_Infrastructure</a></p>
+      dexter</a></p>
 				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
+      An autonomous agent for deep financial research
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5885</span>
-						<span>🔱 902</span>
+						<span>⭐ 8979</span>
+						<span>🔱 1097</span>
 					</div>
-				<div class="stars-today">⭐ 3784 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twitter/the-algorithm" target="_blank">
-    
-
-
-      
-        twitter /
-
-      the-algorithm</a></p>
-				<p>
-      Source code for the X Recommendation Algorithm
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Scala</span>
-						<span>⭐ 72204</span>
-						<span>🔱 13190</span>
-					</div>
-				<div class="stars-today">⭐ 3589 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
-    
-
-
-      
-        davila7 /
-
-      claude-code-templates</a></p>
-				<p>
-      CLI tool for configuring and monitoring Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18437</span>
-						<span>🔱 1679</span>
-					</div>
-				<div class="stars-today">⭐ 4682 stars this month</div>
+				<div class="stars-today">⭐ 4696 stars this month</div>
 				</div>
 			</div>
 	
