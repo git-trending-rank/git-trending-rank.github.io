@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-26
-date: 2026-01-26T04:44:53Z
+date: 2026-01-26T06:01:39Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4450</span>
-						<span>🔱 346</span>
+						<span>⭐ 4529</span>
+						<span>🔱 348</span>
 					</div>
 				<div class="stars-today">⭐ 272 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9201</span>
-						<span>🔱 671</span>
+						<span>⭐ 9262</span>
+						<span>🔱 679</span>
 					</div>
 				<div class="stars-today">⭐ 1004 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30921</span>
-						<span>🔱 1867</span>
+						<span>⭐ 30999</span>
+						<span>🔱 1871</span>
 					</div>
 				<div class="stars-today">⭐ 1114 stars today</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28652</span>
-						<span>🔱 939</span>
+						<span>⭐ 28667</span>
+						<span>🔱 941</span>
 					</div>
 				<div class="stars-today">⭐ 65 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/UltraRAG" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      UltraRAG</a></p>
-				<p>
-      UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4197</span>
-						<span>🔱 293</span>
-					</div>
-				<div class="stars-today">⭐ 437 stars today</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22117</span>
-						<span>🔱 2399</span>
+						<span>⭐ 22147</span>
+						<span>🔱 2401</span>
 					</div>
 				<div class="stars-today">⭐ 362 stars today</div>
 				</div>
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 57509</span>
-						<span>🔱 7448</span>
+						<span>⭐ 57535</span>
+						<span>🔱 7449</span>
 					</div>
 				<div class="stars-today">⭐ 170 stars today</div>
 				</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14781</span>
-						<span>🔱 1547</span>
+						<span>⭐ 14803</span>
+						<span>🔱 1549</span>
 					</div>
 				<div class="stars-today">⭐ 157 stars today</div>
 				</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 103</span>
+						<span>⭐ 106</span>
 						<span>🔱 40</span>
 					</div>
 				<div class="stars-today">⭐ 17 stars today</div>
