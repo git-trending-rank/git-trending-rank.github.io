@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-27T10:13:32Z
+date: 2026-01-27T11:59:18Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32517</span>
-						<span>🔱 1955</span>
+						<span>⭐ 32591</span>
+						<span>🔱 1957</span>
 					</div>
 				<div class="stars-today">⭐ 6069 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      AionUi</a></p>
-				<p>
-      Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11194</span>
-						<span>🔱 851</span>
-					</div>
-				<div class="stars-today">⭐ 4571 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9981</span>
-						<span>🔱 731</span>
+						<span>⭐ 10011</span>
+						<span>🔱 734</span>
 					</div>
 				<div class="stars-today">⭐ 3973 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
     
 
 
       
-        obra /
+        iOfficeAI /
 
-      superpowers</a></p>
+      AionUi</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 37550</span>
-						<span>🔱 2875</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11215</span>
+						<span>🔱 852</span>
 					</div>
-				<div class="stars-today">⭐ 7391 stars this week</div>
+				<div class="stars-today">⭐ 4571 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29308</span>
-						<span>🔱 2635</span>
+						<span>⭐ 29325</span>
+						<span>🔱 2636</span>
 					</div>
 				<div class="stars-today">⭐ 2902 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 37611</span>
+						<span>🔱 2877</span>
+					</div>
+				<div class="stars-today">⭐ 7391 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55118</span>
-						<span>🔱 5376</span>
+						<span>⭐ 55220</span>
+						<span>🔱 5383</span>
 					</div>
 				<div class="stars-today">⭐ 8586 stars this week</div>
 				</div>

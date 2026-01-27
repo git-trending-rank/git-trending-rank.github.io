@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-27T10:13:33Z
+date: 2026-01-27T11:59:19Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 89499</span>
-						<span>🔱 8204</span>
+						<span>⭐ 89571</span>
+						<span>🔱 8219</span>
 					</div>
 				<div class="stars-today">⭐ 46388 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 37550</span>
-						<span>🔱 2875</span>
+						<span>⭐ 37611</span>
+						<span>🔱 2877</span>
 					</div>
 				<div class="stars-today">⭐ 24933 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19320</span>
-						<span>🔱 1801</span>
-					</div>
-				<div class="stars-today">⭐ 12487 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55118</span>
-						<span>🔱 5376</span>
+						<span>⭐ 55220</span>
+						<span>🔱 5383</span>
 					</div>
 				<div class="stars-today">⭐ 26634 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19328</span>
+						<span>🔱 1803</span>
+					</div>
+				<div class="stars-today">⭐ 12487 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 61214</span>
-						<span>🔱 4567</span>
+						<span>⭐ 61253</span>
+						<span>🔱 4570</span>
 					</div>
 				<div class="stars-today">⭐ 12407 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15439</span>
+						<span>⭐ 15450</span>
 						<span>🔱 3442</span>
 					</div>
 				<div class="stars-today">⭐ 3655 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24888</span>
-						<span>🔱 2405</span>
-					</div>
-				<div class="stars-today">⭐ 4802 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 55868</span>
-						<span>🔱 4007</span>
+						<span>⭐ 55886</span>
+						<span>🔱 4009</span>
 					</div>
 				<div class="stars-today">⭐ 8480 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32591</span>
+						<span>🔱 1957</span>
+					</div>
+				<div class="stars-today">⭐ 6485 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop</a></p>
+				<p>
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24891</span>
+						<span>🔱 2406</span>
+					</div>
+				<div class="stars-today">⭐ 4802 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 13071</span>
+						<span>⭐ 13095</span>
 						<span>🔱 783</span>
 					</div>
 				<div class="stars-today">⭐ 6567 stars this month</div>
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31170</span>
+						<span>⭐ 31175</span>
 						<span>🔱 2439</span>
 					</div>
 				<div class="stars-today">⭐ 4068 stars this month</div>
@@ -250,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26656</span>
-						<span>🔱 2591</span>
+						<span>⭐ 26700</span>
+						<span>🔱 2595</span>
 					</div>
 				<div class="stars-today">⭐ 15013 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        remotion-dev /
+        VectifyAI /
 
-      remotion</a></p>
+      PageIndex</a></p>
 				<p>
-      🎥 Make videos programmatically with React
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32517</span>
-						<span>🔱 1955</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10011</span>
+						<span>🔱 734</span>
 					</div>
-				<div class="stars-today">⭐ 6485 stars this month</div>
+				<div class="stars-today">⭐ 5253 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9086</span>
+						<span>⭐ 9095</span>
 						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 4721 stars this month</div>
