@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 27 Jan 2026 10:13:32 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 27 Jan 2026 11:59:18 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-01-27</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-01-27/</link>
-        <pubDate>Tue, 27 Jan 2026 10:13:32 +0000</pubDate>
+        <pubDate>Tue, 27 Jan 2026 11:59:18 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-01-27/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,46 +19,24 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Blaizzy/mlx-audio&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/badlogic/pi-mono&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Blaizzy /
+        badlogic /
 
-      mlx-audio&lt;/a&gt;&lt;/p&gt;
+      pi-mono&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple&#39;s MLX framework, providing efficient speech analysis on Apple Silicon.
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5296&lt;/span&gt;
-						&lt;span&gt;🔱 390&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2480&lt;/span&gt;
+						&lt;span&gt;🔱 316&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1233 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/VectifyAI/PageIndex&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9981&lt;/span&gt;
-						&lt;span&gt;🔱 731&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 726 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 118 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,120 +55,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 15306&lt;/span&gt;
-						&lt;span&gt;🔱 1580&lt;/span&gt;
+						&lt;span&gt;⭐ 15330&lt;/span&gt;
+						&lt;span&gt;🔱 1582&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 420 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 433 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/block/goose&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Blaizzy/mlx-audio&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        block /
+        Blaizzy /
 
-      goose&lt;/a&gt;&lt;/p&gt;
+      mlx-audio&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 29308&lt;/span&gt;
-						&lt;span&gt;🔱 2635&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 332 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/remotion-dev/remotion&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        remotion-dev /
-
-      remotion&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🎥 Make videos programmatically with React
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32517&lt;/span&gt;
-						&lt;span&gt;🔱 1955&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1374 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/AI4Finance-Foundation/FinRobot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        AI4Finance-Foundation /
-
-      FinRobot&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      FinRobot: An Open-Source AI Agent Platform for Financial Analysis using LLMs 🚀 🚀 🚀 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 5929&lt;/span&gt;
-						&lt;span&gt;🔱 984&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 68 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/k4yt3x/video2x&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        k4yt3x /
-
-      video2x&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A machine learning-based video super resolution and frame interpolation framework. Est. Hack the Valley II, 2018.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 18250&lt;/span&gt;
-						&lt;span&gt;🔱 1615&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 468 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/business-science/ai-data-science-team&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        business-science /
-
-      ai-data-science-team&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An AI-powered data science team of agents to help you perform common data science tasks 10X faster.
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple&#39;s MLX framework, providing efficient speech analysis on Apple Silicon.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4429&lt;/span&gt;
-						&lt;span&gt;🔱 780&lt;/span&gt;
+						&lt;span&gt;⭐ 5320&lt;/span&gt;
+						&lt;span&gt;🔱 391&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 80 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 457 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Free-TV/IPTV&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Free-TV /
+
+      IPTV&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      M3U Playlist for free TV channels
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 12255&lt;/span&gt;
+						&lt;span&gt;🔱 1856&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 295 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hashicorp/vault&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hashicorp /
+
+      vault&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A tool for secrets management, encryption as a service, and privileged access management
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 33911&lt;/span&gt;
+						&lt;span&gt;🔱 4514&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 89845&lt;/span&gt;
+						&lt;span&gt;🔱 12976&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 290 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
