@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-27T06:00:13Z
+date: 2026-01-27T07:59:15Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32278</span>
-						<span>🔱 1939</span>
+						<span>⭐ 32393</span>
+						<span>🔱 1948</span>
 					</div>
 				<div class="stars-today">⭐ 6069 stars this week</div>
 				</div>
@@ -47,13 +47,13 @@ keywords:
 
       AionUi</a></p>
 				<p>
-      Cowork + Clawebot for Gemini CLI, Claude Code, Codex, OpenCode, and more | 🌟 Star if you like it!
+      Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11117</span>
-						<span>🔱 846</span>
+						<span>⭐ 11148</span>
+						<span>🔱 849</span>
 					</div>
 				<div class="stars-today">⭐ 4571 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9900</span>
-						<span>🔱 720</span>
+						<span>⭐ 9937</span>
+						<span>🔱 728</span>
 					</div>
 				<div class="stars-today">⭐ 3973 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 37293</span>
-						<span>🔱 2859</span>
+						<span>⭐ 37419</span>
+						<span>🔱 2866</span>
 					</div>
 				<div class="stars-today">⭐ 7391 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29240</span>
-						<span>🔱 2630</span>
+						<span>⭐ 29268</span>
+						<span>🔱 2632</span>
 					</div>
 				<div class="stars-today">⭐ 2902 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54662</span>
-						<span>🔱 5336</span>
+						<span>⭐ 54870</span>
+						<span>🔱 5356</span>
 					</div>
 				<div class="stars-today">⭐ 8586 stars this week</div>
 				</div>
