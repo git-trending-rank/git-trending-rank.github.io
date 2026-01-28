@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-28T20:01:38Z
+date: 2026-01-28T22:13:11Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33264</span>
-						<span>🔱 1995</span>
+						<span>⭐ 33286</span>
+						<span>🔱 1997</span>
 					</div>
 				<div class="stars-today">⭐ 7200 stars this week</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10364</span>
+						<span>⭐ 10376</span>
 						<span>🔱 756</span>
 					</div>
 				<div class="stars-today">⭐ 4241 stars this week</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4555</span>
+						<span>⭐ 4559</span>
 						<span>🔱 322</span>
 					</div>
 				<div class="stars-today">⭐ 2030 stars this week</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11581</span>
-						<span>🔱 876</span>
+						<span>⭐ 11592</span>
+						<span>🔱 878</span>
 					</div>
 				<div class="stars-today">⭐ 3979 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38912</span>
-						<span>🔱 2967</span>
+						<span>⭐ 38951</span>
+						<span>🔱 2969</span>
 					</div>
 				<div class="stars-today">⭐ 7222 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29452</span>
-						<span>🔱 2655</span>
+						<span>⭐ 29465</span>
+						<span>🔱 2658</span>
 					</div>
 				<div class="stars-today">⭐ 3228 stars this week</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 12405</span>
+						<span>⭐ 12406</span>
 						<span>🔱 972</span>
 					</div>
 				<div class="stars-today">⭐ 408 stars this week</div>
