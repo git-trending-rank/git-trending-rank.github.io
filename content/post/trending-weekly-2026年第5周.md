@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-28T11:58:51Z
+date: 2026-01-28T14:18:33Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33139</span>
-						<span>🔱 1982</span>
+						<span>⭐ 33180</span>
+						<span>🔱 1985</span>
 					</div>
 				<div class="stars-today">⭐ 7200 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10268</span>
-						<span>🔱 749</span>
+						<span>⭐ 10303</span>
+						<span>🔱 750</span>
 					</div>
 				<div class="stars-today">⭐ 4241 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4527</span>
+						<span>⭐ 4534</span>
 						<span>🔱 316</span>
 					</div>
 				<div class="stars-today">⭐ 2030 stars this week</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11500</span>
-						<span>🔱 868</span>
+						<span>⭐ 11528</span>
+						<span>🔱 872</span>
 					</div>
 				<div class="stars-today">⭐ 3979 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38608</span>
-						<span>🔱 2944</span>
+						<span>⭐ 38693</span>
+						<span>🔱 2950</span>
 					</div>
 				<div class="stars-today">⭐ 7222 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29416</span>
-						<span>🔱 2652</span>
+						<span>⭐ 29425</span>
+						<span>🔱 2655</span>
 					</div>
 				<div class="stars-today">⭐ 3228 stars this week</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 12398</span>
+						<span>⭐ 12403</span>
 						<span>🔱 972</span>
 					</div>
 				<div class="stars-today">⭐ 408 stars this week</div>
