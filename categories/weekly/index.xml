@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 28 Jan 2026 10:14:39 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 28 Jan 2026 11:58:51 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第5周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC5%E5%91%A8/</link>
-        <pubDate>Wed, 28 Jan 2026 10:14:39 +0000</pubDate>
+        <pubDate>Wed, 28 Jan 2026 11:58:51 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC5%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 33101&lt;/span&gt;
-						&lt;span&gt;🔱 1981&lt;/span&gt;
+						&lt;span&gt;⭐ 33139&lt;/span&gt;
+						&lt;span&gt;🔱 1982&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7200 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,10 +55,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10249&lt;/span&gt;
-						&lt;span&gt;🔱 748&lt;/span&gt;
+						&lt;span&gt;⭐ 10268&lt;/span&gt;
+						&lt;span&gt;🔱 749&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4241 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenBMB/UltraRAG&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        OpenBMB /
+
+      UltraRAG&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 4527&lt;/span&gt;
+						&lt;span&gt;🔱 316&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2030 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,32 +99,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11487&lt;/span&gt;
+						&lt;span&gt;⭐ 11500&lt;/span&gt;
 						&lt;span&gt;🔱 868&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3979 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/block/goose&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        block /
-
-      goose&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 29411&lt;/span&gt;
-						&lt;span&gt;🔱 2651&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3228 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,32 +121,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 38542&lt;/span&gt;
-						&lt;span&gt;🔱 2937&lt;/span&gt;
+						&lt;span&gt;⭐ 38608&lt;/span&gt;
+						&lt;span&gt;🔱 2944&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7222 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/skills&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/block/goose&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        anthropics /
+        block /
 
-      skills&lt;/a&gt;&lt;/p&gt;
+      goose&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Public repository for Agent Skills
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56514&lt;/span&gt;
-						&lt;span&gt;🔱 5521&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 29416&lt;/span&gt;
+						&lt;span&gt;🔱 2652&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8921 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3228 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/deepseek-ai/FlashMLA&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        deepseek-ai /
+
+      FlashMLA&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FlashMLA: Efficient Multi-head Latent Attention Kernels
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 12398&lt;/span&gt;
+						&lt;span&gt;🔱 972&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 408 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
