@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-28T10:14:39Z
+date: 2026-01-28T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 90787</span>
-						<span>🔱 8332</span>
+						<span>⭐ 90879</span>
+						<span>🔱 8337</span>
 					</div>
 				<div class="stars-today">⭐ 47271 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38542</span>
-						<span>🔱 2937</span>
+						<span>⭐ 38608</span>
+						<span>🔱 2944</span>
 					</div>
 				<div class="stars-today">⭐ 25689 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56514</span>
-						<span>🔱 5521</span>
+						<span>⭐ 56597</span>
+						<span>🔱 5529</span>
 					</div>
 				<div class="stars-today">⭐ 27690 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19491</span>
-						<span>🔱 1811</span>
-					</div>
-				<div class="stars-today">⭐ 12664 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 61631</span>
-						<span>🔱 4606</span>
+						<span>⭐ 61656</span>
+						<span>🔱 4608</span>
 					</div>
 				<div class="stars-today">⭐ 12602 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19501</span>
+						<span>🔱 1812</span>
+					</div>
+				<div class="stars-today">⭐ 12664 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15611</span>
-						<span>🔱 3458</span>
+						<span>⭐ 15616</span>
+						<span>🔱 3459</span>
 					</div>
 				<div class="stars-today">⭐ 3748 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
-    
-
-
-      
-        usememos /
-
-      memos</a></p>
-				<p>
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 55997</span>
-						<span>🔱 4016</span>
-					</div>
-				<div class="stars-today">⭐ 8600 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33101</span>
-						<span>🔱 1981</span>
+						<span>⭐ 33139</span>
+						<span>🔱 1982</span>
 					</div>
 				<div class="stars-today">⭐ 7579 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
+    
+
+
+      
+        usememos /
+
+      memos</a></p>
+				<p>
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 56004</span>
+						<span>🔱 4016</span>
+					</div>
+				<div class="stars-today">⭐ 8600 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10268</span>
+						<span>🔱 749</span>
+					</div>
+				<div class="stars-today">⭐ 5627 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+    
+
+
+      
+        Lissy93 /
+
+      web-check</a></p>
+				<p>
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31284</span>
+						<span>🔱 2446</span>
+					</div>
+				<div class="stars-today">⭐ 4176 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24948</span>
+						<span>⭐ 24951</span>
 						<span>🔱 2408</span>
 					</div>
 				<div class="stars-today">⭐ 4848 stars this month</div>
@@ -228,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 13286</span>
+						<span>⭐ 13297</span>
 						<span>🔱 795</span>
 					</div>
 				<div class="stars-today">⭐ 6718 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
-    
-
-
-      
-        Lissy93 /
-
-      web-check</a></p>
-				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31277</span>
-						<span>🔱 2445</span>
-					</div>
-				<div class="stars-today">⭐ 4176 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27175</span>
-						<span>🔱 2630</span>
+						<span>⭐ 27212</span>
+						<span>🔱 2632</span>
 					</div>
 				<div class="stars-today">⭐ 15040 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10249</span>
-						<span>🔱 748</span>
-					</div>
-				<div class="stars-today">⭐ 5627 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9219</span>
-						<span>🔱 1123</span>
+						<span>⭐ 9231</span>
+						<span>🔱 1125</span>
 					</div>
 				<div class="stars-today">⭐ 4779 stars this month</div>
 				</div>

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-28T10:14:39Z
+date: 2026-01-28T11:58:51Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33101</span>
-						<span>🔱 1981</span>
+						<span>⭐ 33139</span>
+						<span>🔱 1982</span>
 					</div>
 				<div class="stars-today">⭐ 7200 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10249</span>
-						<span>🔱 748</span>
+						<span>⭐ 10268</span>
+						<span>🔱 749</span>
 					</div>
 				<div class="stars-today">⭐ 4241 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/UltraRAG" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      UltraRAG</a></p>
+				<p>
+      UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4527</span>
+						<span>🔱 316</span>
+					</div>
+				<div class="stars-today">⭐ 2030 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11487</span>
+						<span>⭐ 11500</span>
 						<span>🔱 868</span>
 					</div>
 				<div class="stars-today">⭐ 3979 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
-    
-
-
-      
-        block /
-
-      goose</a></p>
-				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29411</span>
-						<span>🔱 2651</span>
-					</div>
-				<div class="stars-today">⭐ 3228 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38542</span>
-						<span>🔱 2937</span>
+						<span>⭐ 38608</span>
+						<span>🔱 2944</span>
 					</div>
 				<div class="stars-today">⭐ 7222 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/block/goose" target="_blank">
     
 
 
       
-        anthropics /
+        block /
 
-      skills</a></p>
+      goose</a></p>
 				<p>
-      Public repository for Agent Skills
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56514</span>
-						<span>🔱 5521</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 29416</span>
+						<span>🔱 2652</span>
 					</div>
-				<div class="stars-today">⭐ 8921 stars this week</div>
+				<div class="stars-today">⭐ 3228 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepseek-ai/FlashMLA" target="_blank">
+    
+
+
+      
+        deepseek-ai /
+
+      FlashMLA</a></p>
+				<p>
+      FlashMLA: Efficient Multi-head Latent Attention Kernels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 12398</span>
+						<span>🔱 972</span>
+					</div>
+				<div class="stars-today">⭐ 408 stars this week</div>
 				</div>
 			</div>
 	
