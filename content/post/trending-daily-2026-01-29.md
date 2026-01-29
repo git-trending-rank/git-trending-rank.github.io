@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-29
-date: 2026-01-29T16:25:45Z
+date: 2026-01-29T18:25:38Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100674</span>
-						<span>🔱 14019</span>
+						<span>⭐ 101567</span>
+						<span>🔱 14182</span>
 					</div>
 				<div class="stars-today">⭐ 17830 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3403</span>
-						<span>🔱 401</span>
-					</div>
-				<div class="stars-today">⭐ 396 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hashicorp/vault" target="_blank">
-    
-
-
-      
-        hashicorp /
-
-      vault</a></p>
-				<p>
-      A tool for secrets management, encryption as a service, and privileged access management
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34550</span>
-						<span>🔱 4549</span>
-					</div>
-				<div class="stars-today">⭐ 254 stars today</div>
 				</div>
 			</div>
 	
@@ -96,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 27299</span>
-						<span>🔱 4394</span>
+						<span>⭐ 27382</span>
+						<span>🔱 4422</span>
 					</div>
 				<div class="stars-today">⭐ 1391 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like moltbot (clawdbot).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5931</span>
-						<span>🔱 416</span>
-					</div>
-				<div class="stars-today">⭐ 608 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      ext-apps</a></p>
-				<p>
-      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 781</span>
-						<span>🔱 101</span>
-					</div>
-				<div class="stars-today">⭐ 73 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +74,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4860</span>
-						<span>🔱 462</span>
+						<span>⭐ 4879</span>
+						<span>🔱 468</span>
 					</div>
 				<div class="stars-today">⭐ 494 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kubernetes/ingress-nginx" target="_blank">
+				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
     
 
 
       
-        kubernetes /
+        modelcontextprotocol /
 
-      ingress-nginx</a></p>
+      ext-apps</a></p>
 				<p>
-      Ingress NGINX Controller for Kubernetes
+      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 793</span>
+						<span>🔱 104</span>
+					</div>
+				<div class="stars-today">⭐ 73 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like moltbot (clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5968</span>
+						<span>🔱 420</span>
+					</div>
+				<div class="stars-today">⭐ 608 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hashicorp/vault" target="_blank">
+    
+
+
+      
+        hashicorp /
+
+      vault</a></p>
+				<p>
+      A tool for secrets management, encryption as a service, and privileged access management
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 19398</span>
-						<span>🔱 8518</span>
+						<span>⭐ 34567</span>
+						<span>🔱 4551</span>
 					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
+				<div class="stars-today">⭐ 254 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3417</span>
+						<span>🔱 403</span>
+					</div>
+				<div class="stars-today">⭐ 396 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode-anthropic-auth" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode-anthropic-auth</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 226</span>
+						<span>🔱 49</span>
+					</div>
+				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +204,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 70496</span>
-						<span>🔱 16022</span>
+						<span>⭐ 70501</span>
+						<span>🔱 16023</span>
 					</div>
 				<div class="stars-today">⭐ 89 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
+    
+
+
+      
+        pedroslopez /
+
+      whatsapp-web.js</a></p>
+				<p>
+      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 20681</span>
+						<span>🔱 4803</span>
+					</div>
+				<div class="stars-today">⭐ 16 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TeamNewPipe/NewPipe" target="_blank">
+    
+
+
+      
+        TeamNewPipe /
+
+      NewPipe</a></p>
+				<p>
+      A libre lightweight streaming front-end for Android.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 36703</span>
+						<span>🔱 3413</span>
+					</div>
+				<div class="stars-today">⭐ 65 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 90822</span>
+						<span>🔱 13112</span>
+					</div>
+				<div class="stars-today">⭐ 212 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      playwright-cli</a></p>
+				<p>
+      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 1630</span>
+						<span>🔱 62</span>
+					</div>
+				<div class="stars-today">⭐ 64 stars today</div>
 				</div>
 			</div>
 	
@@ -228,76 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71083</span>
-						<span>🔱 14525</span>
+						<span>⭐ 71106</span>
+						<span>🔱 14526</span>
 					</div>
 				<div class="stars-today">⭐ 362 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ran-j/PS2Recomp" target="_blank">
-    
-
-
-      
-        ran-j /
-
-      PS2Recomp</a></p>
-				<p>
-      Playstation 2 Static Recompiler & Runtime Tool to make native PC ports
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1624</span>
-						<span>🔱 37</span>
-					</div>
-				<div class="stars-today">⭐ 354 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bambulab/BambuStudio" target="_blank">
-    
-
-
-      
-        bambulab /
-
-      BambuStudio</a></p>
-				<p>
-      PC Software for BambuLab and other 3D printers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3920</span>
-						<span>🔱 591</span>
-					</div>
-				<div class="stars-today">⭐ 162 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GetStream/Vision-Agents" target="_blank">
-    
-
-
-      
-        GetStream /
-
-      Vision-Agents</a></p>
-				<p>
-      Open Vision Agents by Stream. Build Vision Agents quickly with any model or video provider. Uses Stream's edge network for ultra-low latency.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4497</span>
-						<span>🔱 385</span>
-					</div>
-				<div class="stars-today">⭐ 529 stars today</div>
 				</div>
 			</div>
 	

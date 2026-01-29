@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-29T16:25:45Z
+date: 2026-01-29T18:25:39Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100674</span>
-						<span>🔱 14019</span>
+						<span>⭐ 101567</span>
+						<span>🔱 14182</span>
 					</div>
 				<div class="stars-today">⭐ 88133 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 92068</span>
-						<span>🔱 8496</span>
+						<span>⭐ 92116</span>
+						<span>🔱 8501</span>
 					</div>
 				<div class="stars-today">⭐ 48330 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39687</span>
-						<span>🔱 3018</span>
+						<span>⭐ 39728</span>
+						<span>🔱 3023</span>
 					</div>
 				<div class="stars-today">⭐ 26589 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57907</span>
-						<span>🔱 5669</span>
+						<span>⭐ 57962</span>
+						<span>🔱 5670</span>
 					</div>
 				<div class="stars-today">⭐ 28815 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 5322</span>
-						<span>🔱 555</span>
+						<span>⭐ 5334</span>
+						<span>🔱 558</span>
 					</div>
 				<div class="stars-today">⭐ 4272 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19328</span>
-						<span>🔱 2206</span>
+						<span>⭐ 19337</span>
+						<span>🔱 2214</span>
 					</div>
 				<div class="stars-today">⭐ 14702 stars this month</div>
 				</div>
@@ -162,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 62123</span>
-						<span>🔱 4650</span>
+						<span>⭐ 62143</span>
+						<span>🔱 4651</span>
 					</div>
 				<div class="stars-today">⭐ 12834 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19669</span>
-						<span>🔱 1831</span>
-					</div>
-				<div class="stars-today">⭐ 12631 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need！write a claude code with only 16 line code 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15790</span>
-						<span>🔱 3480</span>
-					</div>
-				<div class="stars-today">⭐ 3935 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33564</span>
-						<span>🔱 2013</span>
+						<span>⭐ 33585</span>
+						<span>🔱 2015</span>
 					</div>
 				<div class="stars-today">⭐ 8173 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usememos/memos" target="_blank">
-    
-
-
-      
-        usememos /
-
-      memos</a></p>
-				<p>
-      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 56141</span>
-						<span>🔱 4018</span>
-					</div>
-				<div class="stars-today">⭐ 8696 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10582</span>
+						<span>⭐ 10602</span>
 						<span>🔱 765</span>
 					</div>
 				<div class="stars-today">⭐ 5916 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
+    
+
+
+      
+        BloopAI /
+
+      vibe-kanban</a></p>
+				<p>
+      Get 10X more out of Claude Code, Codex or any coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19680</span>
+						<span>🔱 1831</span>
+					</div>
+				<div class="stars-today">⭐ 12631 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31376</span>
-						<span>🔱 2454</span>
+						<span>⭐ 31382</span>
+						<span>🔱 2455</span>
 					</div>
 				<div class="stars-today">⭐ 4287 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/usememos/memos" target="_blank">
+    
+
+
+      
+        usememos /
+
+      memos</a></p>
+				<p>
+      An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 56152</span>
+						<span>🔱 4026</span>
+					</div>
+				<div class="stars-today">⭐ 8696 stars this month</div>
 				</div>
 			</div>
 	
@@ -317,9 +295,31 @@ keywords:
 					<div>
 						<span>🔠 TypeScript</span>
 						<span>⭐ 25001</span>
-						<span>🔱 2412</span>
+						<span>🔱 2411</span>
 					</div>
 				<div class="stars-today">⭐ 4904 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need！write a claude code with only 16 line code 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15793</span>
+						<span>🔱 3480</span>
+					</div>
+				<div class="stars-today">⭐ 3935 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 13549</span>
-						<span>🔱 813</span>
+						<span>⭐ 13558</span>
+						<span>🔱 814</span>
 					</div>
 				<div class="stars-today">⭐ 6839 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills</a></p>
-				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27804</span>
-						<span>🔱 2692</span>
-					</div>
-				<div class="stars-today">⭐ 15190 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9338</span>
+						<span>⭐ 9341</span>
 						<span>🔱 1148</span>
 					</div>
 				<div class="stars-today">⭐ 4911 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-claude-skills</a></p>
+				<p>
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27822</span>
+						<span>🔱 2694</span>
+					</div>
+				<div class="stars-today">⭐ 15190 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
+    
+
+
+      
+        DataTalksClub /
+
+      data-engineering-zoomcamp</a></p>
+				<p>
+      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 37566</span>
+						<span>🔱 7615</span>
+					</div>
+				<div class="stars-today">⭐ 3564 stars this month</div>
 				</div>
 			</div>
 	

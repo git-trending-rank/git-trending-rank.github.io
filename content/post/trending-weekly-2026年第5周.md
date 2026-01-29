@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-29T16:25:45Z
+date: 2026-01-29T18:25:38Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100674</span>
-						<span>🔱 14019</span>
+						<span>⭐ 101567</span>
+						<span>🔱 14182</span>
 					</div>
 				<div class="stars-today">⭐ 83158 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33564</span>
-						<span>🔱 2013</span>
+						<span>⭐ 33585</span>
+						<span>🔱 2015</span>
 					</div>
 				<div class="stars-today">⭐ 7553 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10582</span>
+						<span>⭐ 10602</span>
 						<span>🔱 765</span>
 					</div>
 				<div class="stars-today">⭐ 4408 stars this week</div>
@@ -96,54 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4732</span>
-						<span>🔱 334</span>
+						<span>⭐ 4739</span>
+						<span>🔱 335</span>
 					</div>
 				<div class="stars-today">⭐ 2060 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        iOfficeAI /
+        asgeirtj /
 
-      AionUi</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11782</span>
-						<span>🔱 885</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 27382</span>
+						<span>🔱 4422</span>
 					</div>
-				<div class="stars-today">⭐ 3144 stars this week</div>
+				<div class="stars-today">⭐ 928 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hellodigua/ChatLab" target="_blank">
+				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
     
 
 
       
-        hellodigua /
+        modelcontextprotocol /
 
-      ChatLab</a></p>
+      ext-apps</a></p>
 				<p>
-      本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents.
+      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3865</span>
-						<span>🔱 1030</span>
+						<span>⭐ 793</span>
+						<span>🔱 104</span>
 					</div>
-				<div class="stars-today">⭐ 1094 stars this week</div>
+				<div class="stars-today">⭐ 274 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57962</span>
+						<span>🔱 5670</span>
+					</div>
+				<div class="stars-today">⭐ 9121 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 39687</span>
-						<span>🔱 3018</span>
+						<span>⭐ 39728</span>
+						<span>🔱 3023</span>
 					</div>
 				<div class="stars-today">⭐ 6908 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/block/goose" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
     
 
 
       
-        block /
+        iOfficeAI /
 
-      goose</a></p>
+      AionUi</a></p>
 				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+      Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 29532</span>
-						<span>🔱 2662</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11790</span>
+						<span>🔱 886</span>
 					</div>
-				<div class="stars-today">⭐ 2875 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepseek-ai/FlashMLA" target="_blank">
-    
-
-
-      
-        deepseek-ai /
-
-      FlashMLA</a></p>
-				<p>
-      FlashMLA: Efficient Multi-head Latent Attention Kernels
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 12424</span>
-						<span>🔱 973</span>
-					</div>
-				<div class="stars-today">⭐ 375 stars this week</div>
+				<div class="stars-today">⭐ 3144 stars this week</div>
 				</div>
 			</div>
 	
