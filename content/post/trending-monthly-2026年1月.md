@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年1月
-date: 2026-01-29T00:00:45Z
+date: 2026-01-29T03:57:07Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moltbot/moltbot" target="_blank">
+    
+
+
+      
+        moltbot /
+
+      moltbot</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 91630</span>
+						<span>🔱 12538</span>
+					</div>
+				<div class="stars-today">⭐ 88133 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 91264</span>
-						<span>🔱 8380</span>
+						<span>⭐ 91454</span>
+						<span>🔱 8399</span>
 					</div>
 				<div class="stars-today">⭐ 48330 stars this month</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38987</span>
-						<span>🔱 2970</span>
+						<span>⭐ 39165</span>
+						<span>🔱 2978</span>
 					</div>
 				<div class="stars-today">⭐ 26589 stars this month</div>
 				</div>
@@ -74,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56945</span>
-						<span>🔱 5565</span>
+						<span>⭐ 57251</span>
+						<span>🔱 5595</span>
 					</div>
 				<div class="stars-today">⭐ 28815 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 5190</span>
+						<span>🔱 550</span>
+					</div>
+				<div class="stars-today">⭐ 4272 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
+    
+
+
+      
+        lbjlaq /
+
+      Antigravity-Manager</a></p>
+				<p>
+      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19070</span>
+						<span>🔱 2182</span>
+					</div>
+				<div class="stars-today">⭐ 14702 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 61821</span>
+						<span>⭐ 61896</span>
 						<span>🔱 4624</span>
 					</div>
 				<div class="stars-today">⭐ 12834 stars this month</div>
@@ -118,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19554</span>
-						<span>🔱 1820</span>
+						<span>⭐ 19581</span>
+						<span>🔱 1822</span>
 					</div>
 				<div class="stars-today">⭐ 12631 stars this month</div>
 				</div>
@@ -140,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15676</span>
-						<span>🔱 3469</span>
+						<span>⭐ 15709</span>
+						<span>🔱 3472</span>
 					</div>
 				<div class="stars-today">⭐ 3935 stars this month</div>
 				</div>
@@ -162,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33311</span>
-						<span>🔱 2000</span>
+						<span>⭐ 33371</span>
+						<span>🔱 2003</span>
 					</div>
 				<div class="stars-today">⭐ 8173 stars this month</div>
 				</div>
@@ -184,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 56057</span>
-						<span>🔱 4016</span>
+						<span>⭐ 56075</span>
+						<span>🔱 4017</span>
 					</div>
 				<div class="stars-today">⭐ 8696 stars this month</div>
 				</div>
@@ -206,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10392</span>
-						<span>🔱 757</span>
+						<span>⭐ 10452</span>
+						<span>🔱 758</span>
 					</div>
 				<div class="stars-today">⭐ 5916 stars this month</div>
 				</div>
@@ -228,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31320</span>
-						<span>🔱 2451</span>
+						<span>⭐ 31332</span>
+						<span>🔱 2452</span>
 					</div>
 				<div class="stars-today">⭐ 4287 stars this month</div>
 				</div>
@@ -250,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24975</span>
+						<span>⭐ 24981</span>
 						<span>🔱 2410</span>
 					</div>
 				<div class="stars-today">⭐ 4904 stars this month</div>
@@ -272,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 13422</span>
-						<span>🔱 805</span>
+						<span>⭐ 13446</span>
+						<span>🔱 808</span>
 					</div>
 				<div class="stars-today">⭐ 6839 stars this month</div>
 				</div>
@@ -294,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27395</span>
-						<span>🔱 2644</span>
+						<span>⭐ 27508</span>
+						<span>🔱 2656</span>
 					</div>
 				<div class="stars-today">⭐ 15190 stars this month</div>
 				</div>
@@ -316,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9289</span>
-						<span>🔱 1138</span>
+						<span>⭐ 9304</span>
+						<span>🔱 1139</span>
 					</div>
 				<div class="stars-today">⭐ 4911 stars this month</div>
 				</div>

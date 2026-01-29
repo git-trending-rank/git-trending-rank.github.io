@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-29T00:00:45Z
+date: 2026-01-29T03:57:06Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moltbot/moltbot" target="_blank">
+    
+
+
+      
+        moltbot /
+
+      moltbot</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 91630</span>
+						<span>🔱 12538</span>
+					</div>
+				<div class="stars-today">⭐ 83158 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33311</span>
-						<span>🔱 2000</span>
+						<span>⭐ 33371</span>
+						<span>🔱 2003</span>
 					</div>
 				<div class="stars-today">⭐ 7553 stars this week</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10392</span>
-						<span>🔱 757</span>
+						<span>⭐ 10452</span>
+						<span>🔱 758</span>
 					</div>
 				<div class="stars-today">⭐ 4408 stars this week</div>
 				</div>
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4564</span>
+						<span>⭐ 4587</span>
 						<span>🔱 322</span>
 					</div>
 				<div class="stars-today">⭐ 2060 stars this week</div>
@@ -96,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11606</span>
-						<span>🔱 878</span>
+						<span>⭐ 11657</span>
+						<span>🔱 879</span>
 					</div>
 				<div class="stars-today">⭐ 3144 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hellodigua/ChatLab" target="_blank">
+    
+
+
+      
+        hellodigua /
+
+      ChatLab</a></p>
+				<p>
+      本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。A Local-first chat analysis tool: Relive your social memories powered by SQL and AI Agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3806</span>
+						<span>🔱 1021</span>
+					</div>
+				<div class="stars-today">⭐ 1094 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 38987</span>
-						<span>🔱 2970</span>
+						<span>⭐ 39165</span>
+						<span>🔱 2978</span>
 					</div>
 				<div class="stars-today">⭐ 6908 stars this week</div>
 				</div>
@@ -140,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29468</span>
-						<span>🔱 2658</span>
+						<span>⭐ 29485</span>
+						<span>🔱 2659</span>
 					</div>
 				<div class="stars-today">⭐ 2875 stars this week</div>
 				</div>
@@ -162,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 12408</span>
+						<span>⭐ 12410</span>
 						<span>🔱 972</span>
 					</div>
 				<div class="stars-today">⭐ 375 stars this week</div>
