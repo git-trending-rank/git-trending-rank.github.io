@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-01-31T14:11:39Z
+date: 2026-01-31T16:00:44Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 127886</span>
-						<span>🔱 18266</span>
+						<span>⭐ 129071</span>
+						<span>🔱 18503</span>
 					</div>
 				<div class="stars-today">⭐ 105542 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 28941</span>
+						<span>🔱 4665</span>
+					</div>
+				<div class="stars-today">⭐ 2950 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34023</span>
+						<span>⭐ 34049</span>
 						<span>🔱 2051</span>
 					</div>
 				<div class="stars-today">⭐ 6036 stars this week</div>
@@ -74,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11033</span>
-						<span>🔱 783</span>
+						<span>⭐ 11065</span>
+						<span>🔱 787</span>
 					</div>
 				<div class="stars-today">⭐ 4394 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/UltraRAG" target="_blank">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
     
 
 
       
-        OpenBMB /
+        MoonshotAI /
 
-      UltraRAG</a></p>
+      kimi-cli</a></p>
 				<p>
-      UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+      Kimi Code CLI is your next CLI agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4917</span>
-						<span>🔱 344</span>
+						<span>⭐ 5478</span>
+						<span>🔱 507</span>
 					</div>
-				<div class="stars-today">⭐ 2181 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 28905</span>
-						<span>🔱 4658</span>
-					</div>
-				<div class="stars-today">⭐ 2950 stars this week</div>
+				<div class="stars-today">⭐ 1282 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,76 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1112</span>
-						<span>🔱 135</span>
+						<span>⭐ 1121</span>
+						<span>🔱 137</span>
 					</div>
 				<div class="stars-today">⭐ 544 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
     
 
 
       
-        anthropics /
+        badlogic /
 
-      skills</a></p>
+      pi-mono</a></p>
 				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 59414</span>
-						<span>🔱 5807</span>
-					</div>
-				<div class="stars-today">⭐ 8253 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 40899</span>
-						<span>🔱 3112</span>
-					</div>
-				<div class="stars-today">⭐ 6255 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      AionUi</a></p>
-				<p>
-      Free, local, open-source 24/7 Cowork and Clawdbot for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11991</span>
-						<span>🔱 898</span>
+						<span>⭐ 3923</span>
+						<span>🔱 452</span>
 					</div>
-				<div class="stars-today">⭐ 2336 stars this week</div>
+				<div class="stars-today">⭐ 1526 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/UltraRAG" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      UltraRAG</a></p>
+				<p>
+      UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4924</span>
+						<span>🔱 344</span>
+					</div>
+				<div class="stars-today">⭐ 2181 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15961</span>
+						<span>🔱 1618</span>
+					</div>
+				<div class="stars-today">⭐ 1707 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Draculabo/AntigravityManager" target="_blank">
+    
+
+
+      
+        Draculabo /
+
+      AntigravityManager</a></p>
+				<p>
+      Antigravity Manager is a powerful Electron-based application designed to manage accounts and processes for the Antigravity application. It provides a seamless interface for switching accounts, backing up progress, and controlling the application lifecycle.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 449</span>
+						<span>🔱 65</span>
+					</div>
+				<div class="stars-today">⭐ 263 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Free-TV/IPTV" target="_blank">
+    
+
+
+      
+        Free-TV /
+
+      IPTV</a></p>
+				<p>
+      M3U Playlist for free TV channels
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12905</span>
+						<span>🔱 1925</span>
+					</div>
+				<div class="stars-today">⭐ 1457 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-01-31
-date: 2026-01-31T14:11:39Z
+date: 2026-01-31T16:00:44Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,160 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
+    
+
+
+      
+        ThePrimeagen /
+
+      99</a></p>
+				<p>
+      Neovim AI agent done right
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 1931</span>
+						<span>🔱 93</span>
+					</div>
+				<div class="stars-today">⭐ 499 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27026</span>
+						<span>🔱 2199</span>
+					</div>
+				<div class="stars-today">⭐ 136 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-lightning</a></p>
+				<p>
+      The absolute trainer to light up AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12457</span>
+						<span>🔱 1026</span>
+					</div>
+				<div class="stars-today">⭐ 515 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 69474</span>
+						<span>🔱 9748</span>
+					</div>
+				<div class="stars-today">⭐ 177 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 5721</span>
+						<span>🔱 571</span>
+					</div>
+				<div class="stars-today">⭐ 153 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      PowerToys</a></p>
+				<p>
+      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C#</span>
+						<span>⭐ 128642</span>
+						<span>🔱 7651</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/termux/termux-app" target="_blank">
+    
+
+
+      
+        termux /
+
+      termux-app</a></p>
+				<p>
+      Termux - a terminal emulator application for Android OS extendible by variety of packages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 49462</span>
+						<span>🔱 5911</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
@@ -30,184 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 127886</span>
-						<span>🔱 18266</span>
+						<span>⭐ 129071</span>
+						<span>🔱 18503</span>
 					</div>
 				<div class="stars-today">⭐ 14767 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 28905</span>
-						<span>🔱 4658</span>
-					</div>
-				<div class="stars-today">⭐ 693 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5462</span>
-						<span>🔱 506</span>
-					</div>
-				<div class="stars-today">⭐ 277 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      ext-apps</a></p>
-				<p>
-      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1112</span>
-						<span>🔱 135</span>
-					</div>
-				<div class="stars-today">⭐ 165 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6655</span>
-						<span>🔱 454</span>
-					</div>
-				<div class="stars-today">⭐ 344 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hashicorp/vault" target="_blank">
-    
-
-
-      
-        hashicorp /
-
-      vault</a></p>
-				<p>
-      A tool for secrets management, encryption as a service, and privileged access management
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 34900</span>
-						<span>🔱 4576</span>
-					</div>
-				<div class="stars-today">⭐ 165 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3887</span>
-						<span>🔱 451</span>
-					</div>
-				<div class="stars-today">⭐ 260 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode-anthropic-auth" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode-anthropic-auth</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 396</span>
-						<span>🔱 58</span>
-					</div>
-				<div class="stars-today">⭐ 87 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
-    
-
-
-      
-        protocolbuffers /
-
-      protobuf</a></p>
-				<p>
-      Protocol Buffers - Google's data interchange format
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 70604</span>
-						<span>🔱 16027</span>
-					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
 			</div>
 	
@@ -226,98 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20925</span>
-						<span>🔱 4825</span>
+						<span>⭐ 20943</span>
+						<span>🔱 4826</span>
 					</div>
 				<div class="stars-today">⭐ 138 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TeamNewPipe/NewPipe" target="_blank">
+				<p><a href="https://github.com/AlexanderGrooff/mermaid-ascii" target="_blank">
     
 
 
       
-        TeamNewPipe /
+        AlexanderGrooff /
 
-      NewPipe</a></p>
+      mermaid-ascii</a></p>
 				<p>
-      A libre lightweight streaming front-end for Android.
+      Render Mermaid graphs inside your terminal
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 36926</span>
-						<span>🔱 3432</span>
+						<span>🔠 Go</span>
+						<span>⭐ 759</span>
+						<span>🔱 36</span>
 					</div>
-				<div class="stars-today">⭐ 111 stars today</div>
+				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/reconurge/flowsint" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        reconurge /
 
-      awesome-llm-apps</a></p>
+      flowsint</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 91395</span>
-						<span>🔱 13189</span>
-					</div>
-				<div class="stars-today">⭐ 280 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      playwright-cli</a></p>
-				<p>
-      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 2028</span>
-						<span>🔱 77</span>
-					</div>
-				<div class="stars-today">⭐ 194 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lobehub/lobehub" target="_blank">
-    
-
-
-      
-        lobehub /
-
-      lobehub</a></p>
-				<p>
-      The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effortless agent team design, and introducing agents as the unit of work interaction.
+      A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71719</span>
-						<span>🔱 14570</span>
+						<span>⭐ 2003</span>
+						<span>🔱 257</span>
 					</div>
-				<div class="stars-today">⭐ 309 stars today</div>
+				<div class="stars-today">⭐ 120 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cline/cline" target="_blank">
+    
+
+
+      
+        cline /
+
+      cline</a></p>
+				<p>
+      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 57323</span>
+						<span>🔱 5688</span>
+					</div>
+				<div class="stars-today">⭐ 47 stars today</div>
 				</div>
 			</div>
 	
