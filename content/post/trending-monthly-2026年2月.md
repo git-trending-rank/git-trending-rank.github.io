@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-01T10:01:07Z
+date: 2026-02-01T11:58:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 136267</span>
-						<span>🔱 19988</span>
+						<span>⭐ 137142</span>
+						<span>🔱 20134</span>
 					</div>
 				<div class="stars-today">⭐ 126449 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 94274</span>
-						<span>🔱 8784</span>
+						<span>⭐ 94337</span>
+						<span>🔱 8799</span>
 					</div>
 				<div class="stars-today">⭐ 49390 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41345</span>
-						<span>🔱 3150</span>
+						<span>⭐ 41405</span>
+						<span>🔱 3151</span>
 					</div>
 				<div class="stars-today">⭐ 28058 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59907</span>
-						<span>🔱 5862</span>
+						<span>⭐ 59976</span>
+						<span>🔱 5867</span>
 					</div>
 				<div class="stars-today">⭐ 28928 stars this month</div>
 				</div>
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6001</span>
+						<span>⭐ 6031</span>
 						<span>🔱 586</span>
 					</div>
 				<div class="stars-today">⭐ 4530 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11435</span>
+						<span>🔱 811</span>
+					</div>
+				<div class="stars-today">⭐ 6614 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20095</span>
-						<span>🔱 2297</span>
+						<span>⭐ 20117</span>
+						<span>🔱 2301</span>
 					</div>
 				<div class="stars-today">⭐ 14037 stars this month</div>
 				</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 62871</span>
-						<span>🔱 4726</span>
+						<span>⭐ 62900</span>
+						<span>🔱 4728</span>
 					</div>
 				<div class="stars-today">⭐ 12968 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11380</span>
-						<span>🔱 808</span>
-					</div>
-				<div class="stars-today">⭐ 6614 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34193</span>
+						<span>⭐ 34220</span>
 						<span>🔱 2060</span>
 					</div>
 				<div class="stars-today">⭐ 8975 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31556</span>
-						<span>🔱 2481</span>
+						<span>⭐ 31561</span>
+						<span>🔱 2482</span>
 					</div>
 				<div class="stars-today">⭐ 4473 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29151</span>
-						<span>🔱 4706</span>
+						<span>⭐ 29164</span>
+						<span>🔱 4707</span>
 					</div>
 				<div class="stars-today">⭐ 4442 stars this month</div>
 				</div>
@@ -272,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25102</span>
-						<span>🔱 2418</span>
+						<span>⭐ 25105</span>
+						<span>🔱 2419</span>
 					</div>
 				<div class="stars-today">⭐ 4849 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4440</span>
+						<span>🔱 492</span>
+					</div>
+				<div class="stars-today">⭐ 3051 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9492</span>
+						<span>⭐ 9497</span>
 						<span>🔱 1159</span>
 					</div>
 				<div class="stars-today">⭐ 5043 stars this month</div>
@@ -316,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 13964</span>
+						<span>⭐ 13972</span>
 						<span>🔱 837</span>
 					</div>
 				<div class="stars-today">⭐ 6768 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BloopAI/vibe-kanban" target="_blank">
-    
-
-
-      
-        BloopAI /
-
-      vibe-kanban</a></p>
-				<p>
-      Get 10X more out of Claude Code, Codex or any coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19994</span>
-						<span>🔱 1867</span>
-					</div>
-				<div class="stars-today">⭐ 10140 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28752</span>
-						<span>🔱 2766</span>
+						<span>⭐ 28776</span>
+						<span>🔱 2767</span>
 					</div>
 				<div class="stars-today">⭐ 15340 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4366</span>
-						<span>🔱 490</span>
-					</div>
-				<div class="stars-today">⭐ 3051 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 37746</span>
-						<span>🔱 7633</span>
+						<span>⭐ 37750</span>
+						<span>🔱 7634</span>
 					</div>
 				<div class="stars-today">⭐ 3678 stars this month</div>
 				</div>

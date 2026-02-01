@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第5周
-date: 2026-02-01T10:01:07Z
+date: 2026-02-01T11:58:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 136267</span>
-						<span>🔱 19988</span>
+						<span>⭐ 137142</span>
+						<span>🔱 20134</span>
 					</div>
 				<div class="stars-today">⭐ 120780 stars this week</div>
 				</div>
@@ -52,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29151</span>
-						<span>🔱 4706</span>
+						<span>⭐ 29164</span>
+						<span>🔱 4707</span>
 					</div>
 				<div class="stars-today">⭐ 3684 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
-    
-
-
-      
-        remotion-dev /
-
-      remotion</a></p>
-				<p>
-      🎥 Make videos programmatically with React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34193</span>
-						<span>🔱 2060</span>
-					</div>
-				<div class="stars-today">⭐ 4980 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11380</span>
-						<span>🔱 808</span>
-					</div>
-				<div class="stars-today">⭐ 3165 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5556</span>
-						<span>🔱 516</span>
-					</div>
-				<div class="stars-today">⭐ 1550 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1162</span>
+						<span>⭐ 1164</span>
 						<span>🔱 139</span>
 					</div>
 				<div class="stars-today">⭐ 718 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
+    
+
+
+      
+        MoonshotAI /
+
+      kimi-cli</a></p>
+				<p>
+      Kimi Code CLI is your next CLI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5574</span>
+						<span>🔱 516</span>
+					</div>
+				<div class="stars-today">⭐ 1550 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4366</span>
-						<span>🔱 490</span>
+						<span>⭐ 4440</span>
+						<span>🔱 492</span>
 					</div>
 				<div class="stars-today">⭐ 1739 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11435</span>
+						<span>🔱 811</span>
+					</div>
+				<div class="stars-today">⭐ 3165 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
+    
+
+
+      
+        Blaizzy /
+
+      mlx-audio</a></p>
+				<p>
+      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5681</span>
+						<span>🔱 410</span>
+					</div>
+				<div class="stars-today">⭐ 2260 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34220</span>
+						<span>🔱 2060</span>
+					</div>
+				<div class="stars-today">⭐ 4980 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6761</span>
+						<span>🔱 469</span>
+					</div>
+				<div class="stars-today">⭐ 1788 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16028</span>
+						<span>⭐ 16033</span>
 						<span>🔱 1623</span>
 					</div>
 				<div class="stars-today">⭐ 1611 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
+    
+
+
+      
+        ThePrimeagen /
+
+      99</a></p>
+				<p>
+      Neovim AI agent done right
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 2589</span>
+						<span>🔱 116</span>
+					</div>
+				<div class="stars-today">⭐ 1162 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27498</span>
+						<span>🔱 2225</span>
+					</div>
+				<div class="stars-today">⭐ 1215 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 487</span>
-						<span>🔱 70</span>
+						<span>⭐ 492</span>
+						<span>🔱 69</span>
 					</div>
 				<div class="stars-today">⭐ 263 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Free-TV/IPTV" target="_blank">
+				<p><a href="https://github.com/steipete/Peekaboo" target="_blank">
     
 
 
       
-        Free-TV /
+        steipete /
 
-      IPTV</a></p>
+      Peekaboo</a></p>
 				<p>
-      M3U Playlist for free TV channels
+      Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12978</span>
-						<span>🔱 1935</span>
+						<span>🔠 Swift</span>
+						<span>⭐ 1645</span>
+						<span>🔱 92</span>
 					</div>
-				<div class="stars-today">⭐ 1430 stars this week</div>
+				<div class="stars-today">⭐ 428 stars this week</div>
 				</div>
 			</div>
 	

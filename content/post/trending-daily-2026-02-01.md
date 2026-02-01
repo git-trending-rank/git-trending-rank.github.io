@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-01
-date: 2026-02-01T10:01:07Z
+date: 2026-02-01T11:58:36Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      openclaw</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 137142</span>
+						<span>🔱 20134</span>
+					</div>
+				<div class="stars-today">⭐ 11134 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
@@ -30,32 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 2533</span>
-						<span>🔱 115</span>
+						<span>⭐ 2589</span>
+						<span>🔱 116</span>
 					</div>
 				<div class="stars-today">⭐ 542 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/pedramamini/Maestro" target="_blank">
     
 
 
       
-        microsoft /
+        pedramamini /
 
-      BitNet</a></p>
+      Maestro</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      Agent Orchestration Command Center
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 802</span>
+						<span>🔱 108</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kovidgoyal/calibre" target="_blank">
+    
+
+
+      
+        kovidgoyal /
+
+      calibre</a></p>
+				<p>
+      The official source code repository for the calibre ebook manager
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27463</span>
-						<span>🔱 2221</span>
+						<span>⭐ 23546</span>
+						<span>🔱 2533</span>
 					</div>
-				<div class="stars-today">⭐ 137 stars today</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4440</span>
+						<span>🔱 492</span>
+					</div>
+				<div class="stars-today">⭐ 565 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15825</span>
+						<span>🔱 1111</span>
+					</div>
+				<div class="stars-today">⭐ 171 stars today</div>
 				</div>
 			</div>
 	
@@ -74,208 +162,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12744</span>
-						<span>🔱 1052</span>
+						<span>⭐ 12782</span>
+						<span>🔱 1053</span>
 					</div>
 				<div class="stars-today">⭐ 516 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+				<p><a href="https://github.com/amantus-ai/vibetunnel" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        amantus-ai /
 
-      PaddleOCR</a></p>
+      vibetunnel</a></p>
 				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      Turn any browser into your terminal & command your agents on the go.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3362</span>
+						<span>🔱 223</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steipete/CodexBar" target="_blank">
+    
+
+
+      
+        steipete /
+
+      CodexBar</a></p>
+				<p>
+      Show usage stats for OpenAI Codex and Claude Code, without having to login.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 3640</span>
+						<span>🔱 250</span>
+					</div>
+				<div class="stars-today">⭐ 130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/j178/prek" target="_blank">
+    
+
+
+      
+        j178 /
+
+      prek</a></p>
+				<p>
+      ⚡ Better `pre-commit`, re-engineered in Rust
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4090</span>
+						<span>🔱 126</span>
+					</div>
+				<div class="stars-today">⭐ 42 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vita-epfl/Stable-Video-Infinity" target="_blank">
+    
+
+
+      
+        vita-epfl /
+
+      Stable-Video-Infinity</a></p>
+				<p>
+      [ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69723</span>
-						<span>🔱 9762</span>
+						<span>⭐ 1580</span>
+						<span>🔱 128</span>
 					</div>
-				<div class="stars-today">⭐ 171 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6001</span>
-						<span>🔱 586</span>
-					</div>
-				<div class="stars-today">⭐ 237 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      PowerToys</a></p>
-				<p>
-      Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 128833</span>
-						<span>🔱 7659</span>
-					</div>
-				<div class="stars-today">⭐ 46 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/termux/termux-app" target="_blank">
-    
-
-
-      
-        termux /
-
-      termux-app</a></p>
-				<p>
-      Termux - a terminal emulator application for Android OS extendible by variety of packages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 49593</span>
-						<span>🔱 5924</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 136267</span>
-						<span>🔱 19988</span>
-					</div>
-				<div class="stars-today">⭐ 14780 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pedroslopez/whatsapp-web.js" target="_blank">
-    
-
-
-      
-        pedroslopez /
-
-      whatsapp-web.js</a></p>
-				<p>
-      A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21042</span>
-						<span>🔱 4833</span>
-					</div>
-				<div class="stars-today">⭐ 137 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AlexanderGrooff/mermaid-ascii" target="_blank">
-    
-
-
-      
-        AlexanderGrooff /
-
-      mermaid-ascii</a></p>
-				<p>
-      Render Mermaid graphs inside your terminal
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 910</span>
-						<span>🔱 41</span>
-					</div>
-				<div class="stars-today">⭐ 74 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/reconurge/flowsint" target="_blank">
-    
-
-
-      
-        reconurge /
-
-      flowsint</a></p>
-				<p>
-      A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2252</span>
-						<span>🔱 269</span>
-					</div>
-				<div class="stars-today">⭐ 120 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
-    
-
-
-      
-        cline /
-
-      cline</a></p>
-				<p>
-      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 57439</span>
-						<span>🔱 5693</span>
-					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
+				<div class="stars-today">⭐ 25 stars today</div>
 				</div>
 			</div>
 	
