@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 02 Feb 2026 10:31:10 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 02 Feb 2026 12:25:48 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-02-02</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-02-02/</link>
-        <pubDate>Mon, 02 Feb 2026 10:31:10 +0000</pubDate>
+        <pubDate>Mon, 02 Feb 2026 12:25:48 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-02-02/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,24 +19,24 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openclaw/openclaw&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        openclaw /
+        thedotmack /
 
-      openclaw&lt;/a&gt;&lt;/p&gt;
+      claude-mem&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 147411&lt;/span&gt;
-						&lt;span&gt;🔱 22131&lt;/span&gt;
+						&lt;span&gt;⭐ 17238&lt;/span&gt;
+						&lt;span&gt;🔱 1200&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10794 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 196 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,10 +55,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Lua&lt;/span&gt;
-						&lt;span&gt;⭐ 2860&lt;/span&gt;
+						&lt;span&gt;⭐ 2887&lt;/span&gt;
 						&lt;span&gt;🔱 125&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 781 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/termux/termux-app&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        termux /
+
+      termux-app&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Termux - a terminal emulator application for Android OS extendible by variety of packages.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 49652&lt;/span&gt;
+						&lt;span&gt;🔱 5934&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 166 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,32 +99,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1118&lt;/span&gt;
-						&lt;span&gt;🔱 130&lt;/span&gt;
+						&lt;span&gt;⭐ 1138&lt;/span&gt;
+						&lt;span&gt;🔱 131&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 49 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/kovidgoyal/calibre&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/netbirdio/netbird&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        kovidgoyal /
+        netbirdio /
 
-      calibre&lt;/a&gt;&lt;/p&gt;
+      netbird&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The official source code repository for the calibre ebook manager
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 21817&lt;/span&gt;
+						&lt;span&gt;🔱 1067&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 368 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenBMB/ChatDev&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        OpenBMB /
+
+      ChatDev&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 23715&lt;/span&gt;
-						&lt;span&gt;🔱 2539&lt;/span&gt;
+						&lt;span&gt;⭐ 29196&lt;/span&gt;
+						&lt;span&gt;🔱 3652&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 37 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 75 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/autobrr/qui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        autobrr /
+
+      qui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 2603&lt;/span&gt;
+						&lt;span&gt;🔱 74&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 41 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,142 +187,96 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5287&lt;/span&gt;
-						&lt;span&gt;🔱 562&lt;/span&gt;
+						&lt;span&gt;⭐ 5342&lt;/span&gt;
+						&lt;span&gt;🔱 564&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 613 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/VectifyAI/PageIndex&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        thedotmack /
+        VectifyAI /
 
-      claude-mem&lt;/a&gt;&lt;/p&gt;
+      PageIndex&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17088&lt;/span&gt;
-						&lt;span&gt;🔱 1191&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 196 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/agent-lightning&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      agent-lightning&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The absolute trainer to light up AI agents.
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13146&lt;/span&gt;
-						&lt;span&gt;🔱 1080&lt;/span&gt;
+						&lt;span&gt;⭐ 12231&lt;/span&gt;
+						&lt;span&gt;🔱 862&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 406 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 818 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/amantus-ai/vibetunnel&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/karpathy/nanochat&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        amantus-ai /
+        karpathy /
 
-      vibetunnel&lt;/a&gt;&lt;/p&gt;
+      nanochat&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Turn any browser into your terminal &amp; command your agents on the go.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3685&lt;/span&gt;
-						&lt;span&gt;🔱 239&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 43 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/steipete/CodexBar&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        steipete /
-
-      CodexBar&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Show usage stats for OpenAI Codex and Claude Code, without having to login.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Swift&lt;/span&gt;
-						&lt;span&gt;⭐ 4134&lt;/span&gt;
-						&lt;span&gt;🔱 265&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 99 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/j178/prek&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        j178 /
-
-      prek&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      ⚡ Better `pre-commit`, re-engineered in Rust
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 4362&lt;/span&gt;
-						&lt;span&gt;🔱 129&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 61 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vita-epfl/Stable-Video-Infinity&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        vita-epfl /
-
-      Stable-Video-Infinity&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      [ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling
+      The best ChatGPT that $100 can buy.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1881&lt;/span&gt;
-						&lt;span&gt;🔱 139&lt;/span&gt;
+						&lt;span&gt;⭐ 41423&lt;/span&gt;
+						&lt;span&gt;🔱 5369&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 45 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 137 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/kovidgoyal/calibre&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        kovidgoyal /
+
+      calibre&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The official source code repository for the calibre ebook manager
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 23732&lt;/span&gt;
+						&lt;span&gt;🔱 2539&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 37 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/rag-from-scratch&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langchain-ai /
+
+      rag-from-scratch&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 6841&lt;/span&gt;
+						&lt;span&gt;🔱 1772&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 94 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
