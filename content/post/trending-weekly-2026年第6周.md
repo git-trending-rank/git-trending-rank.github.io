@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第6周
-date: 2026-02-02T10:31:10Z
+date: 2026-02-02T12:25:48Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 147411</span>
-						<span>🔱 22131</span>
+						<span>⭐ 148132</span>
+						<span>🔱 22258</span>
 					</div>
 				<div class="stars-today">⭐ 124847 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29517</span>
-						<span>🔱 4755</span>
+						<span>⭐ 29540</span>
+						<span>🔱 4759</span>
 					</div>
 				<div class="stars-today">⭐ 3941 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      ext-apps</a></p>
-				<p>
-      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1224</span>
-						<span>🔱 142</span>
-					</div>
-				<div class="stars-today">⭐ 770 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5694</span>
-						<span>🔱 526</span>
+						<span>⭐ 5702</span>
+						<span>🔱 528</span>
 					</div>
 				<div class="stars-today">⭐ 1661 stars this week</div>
 				</div>
@@ -118,120 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5287</span>
-						<span>🔱 562</span>
+						<span>⭐ 5342</span>
+						<span>🔱 564</span>
 					</div>
 				<div class="stars-today">⭐ 2276 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
     
 
 
       
-        VectifyAI /
+        modelcontextprotocol /
 
-      PageIndex</a></p>
+      ext-apps</a></p>
 				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12192</span>
-						<span>🔱 859</span>
-					</div>
-				<div class="stars-today">⭐ 2725 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Blaizzy/mlx-audio" target="_blank">
-    
-
-
-      
-        Blaizzy /
-
-      mlx-audio</a></p>
-				<p>
-      A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5759</span>
-						<span>🔱 413</span>
-					</div>
-				<div class="stars-today">⭐ 1964 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
-    
-
-
-      
-        remotion-dev /
-
-      remotion</a></p>
-				<p>
-      🎥 Make videos programmatically with React
+      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34437</span>
-						<span>🔱 2079</span>
+						<span>⭐ 1228</span>
+						<span>🔱 142</span>
 					</div>
-				<div class="stars-today">⭐ 4164 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6977</span>
-						<span>🔱 487</span>
-					</div>
-				<div class="stars-today">⭐ 1888 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
-    
-
-
-      
-        supermemoryai /
-
-      supermemory</a></p>
-				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16129</span>
-						<span>🔱 1625</span>
-					</div>
-				<div class="stars-today">⭐ 1547 stars this week</div>
+				<div class="stars-today">⭐ 770 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 2860</span>
+						<span>⭐ 2887</span>
 						<span>🔱 125</span>
 					</div>
 				<div class="stars-today">⭐ 1532 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6988</span>
+						<span>🔱 488</span>
+					</div>
+				<div class="stars-today">⭐ 1888 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27587</span>
-						<span>🔱 2235</span>
+						<span>⭐ 27598</span>
+						<span>🔱 2237</span>
 					</div>
 				<div class="stars-today">⭐ 1711 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Draculabo/AntigravityManager" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        Draculabo /
+        VectifyAI /
 
-      AntigravityManager</a></p>
+      PageIndex</a></p>
 				<p>
-      Antigravity Manager is a powerful Electron-based application designed to manage accounts and processes for the Antigravity application. It provides a seamless interface for switching accounts, backing up progress, and controlling the application lifecycle.
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 551</span>
-						<span>🔱 74</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12231</span>
+						<span>🔱 862</span>
 					</div>
-				<div class="stars-today">⭐ 260 stars this week</div>
+				<div class="stars-today">⭐ 2725 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 1714</span>
+						<span>⭐ 1719</span>
 						<span>🔱 96</span>
 					</div>
 				<div class="stars-today">⭐ 431 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16135</span>
+						<span>🔱 1625</span>
+					</div>
+				<div class="stars-today">⭐ 1547 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34450</span>
+						<span>🔱 2082</span>
+					</div>
+				<div class="stars-today">⭐ 4164 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Draculabo/AntigravityManager" target="_blank">
+    
+
+
+      
+        Draculabo /
+
+      AntigravityManager</a></p>
+				<p>
+      Antigravity Manager is a powerful Electron-based application designed to manage accounts and processes for the Antigravity application. It provides a seamless interface for switching accounts, backing up progress, and controlling the application lifecycle.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 557</span>
+						<span>🔱 74</span>
+					</div>
+				<div class="stars-today">⭐ 260 stars this week</div>
 				</div>
 			</div>
 	

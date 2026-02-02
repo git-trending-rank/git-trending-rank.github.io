@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-02T10:31:10Z
+date: 2026-02-02T12:25:49Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 147411</span>
-						<span>🔱 22131</span>
+						<span>⭐ 148132</span>
+						<span>🔱 22258</span>
 					</div>
 				<div class="stars-today">⭐ 137138 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 95255</span>
-						<span>🔱 8910</span>
+						<span>⭐ 95343</span>
+						<span>🔱 8915</span>
 					</div>
 				<div class="stars-today">⭐ 49851 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 42245</span>
-						<span>🔱 3222</span>
+						<span>⭐ 42306</span>
+						<span>🔱 3226</span>
 					</div>
 				<div class="stars-today">⭐ 28517 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60760</span>
-						<span>🔱 5950</span>
+						<span>⭐ 60835</span>
+						<span>🔱 5953</span>
 					</div>
 				<div class="stars-today">⭐ 29077 stars this month</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6175</span>
+						<span>⭐ 6181</span>
 						<span>🔱 595</span>
 					</div>
 				<div class="stars-today">⭐ 4852 stars this month</div>
@@ -140,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12192</span>
-						<span>🔱 859</span>
+						<span>⭐ 12231</span>
+						<span>🔱 862</span>
 					</div>
 				<div class="stars-today">⭐ 7091 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
-    
-
-
-      
-        lbjlaq /
-
-      Antigravity-Manager</a></p>
-				<p>
-      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20432</span>
-						<span>🔱 2334</span>
-					</div>
-				<div class="stars-today">⭐ 14026 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 63190</span>
-						<span>🔱 4756</span>
-					</div>
-				<div class="stars-today">⭐ 13023 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34437</span>
-						<span>🔱 2079</span>
+						<span>⭐ 34450</span>
+						<span>🔱 2082</span>
 					</div>
 				<div class="stars-today">⭐ 9210 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        Lissy93 /
+        anthropics /
 
-      web-check</a></p>
+      claude-code</a></p>
 				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31667</span>
-						<span>🔱 2495</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 63215</span>
+						<span>🔱 4756</span>
 					</div>
-				<div class="stars-today">⭐ 4536 stars this month</div>
+				<div class="stars-today">⭐ 13023 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
+    
+
+
+      
+        lbjlaq /
+
+      Antigravity-Manager</a></p>
+				<p>
+      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20451</span>
+						<span>🔱 2337</span>
+					</div>
+				<div class="stars-today">⭐ 14026 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29517</span>
-						<span>🔱 4755</span>
+						<span>⭐ 29540</span>
+						<span>🔱 4759</span>
 					</div>
 				<div class="stars-today">⭐ 4649 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
     
 
 
       
-        bytedance /
+        Lissy93 /
 
-      UI-TARS-desktop</a></p>
+      web-check</a></p>
 				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25161</span>
-						<span>🔱 2428</span>
+						<span>⭐ 31676</span>
+						<span>🔱 2495</span>
 					</div>
-				<div class="stars-today">⭐ 4868 stars this month</div>
+				<div class="stars-today">⭐ 4536 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5287</span>
-						<span>🔱 562</span>
+						<span>⭐ 5342</span>
+						<span>🔱 564</span>
 					</div>
 				<div class="stars-today">⭐ 3634 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
     
 
 
       
-        virattt /
+        bytedance /
 
-      dexter</a></p>
+      UI-TARS-desktop</a></p>
 				<p>
-      An autonomous agent for deep financial research
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9680</span>
-						<span>🔱 1179</span>
+						<span>⭐ 25163</span>
+						<span>🔱 2428</span>
 					</div>
-				<div class="stars-today">⭐ 5108 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steveyegge/beads" target="_blank">
-    
-
-
-      
-        steveyegge /
-
-      beads</a></p>
-				<p>
-      Beads - A memory upgrade for your coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 14177</span>
-						<span>🔱 853</span>
-					</div>
-				<div class="stars-today">⭐ 6789 stars this month</div>
+				<div class="stars-today">⭐ 4868 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29147</span>
-						<span>🔱 2801</span>
+						<span>⭐ 29173</span>
+						<span>🔱 2802</span>
 					</div>
 				<div class="stars-today">⭐ 15360 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steveyegge/beads" target="_blank">
+    
+
+
+      
+        steveyegge /
+
+      beads</a></p>
+				<p>
+      Beads - A memory upgrade for your coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 14200</span>
+						<span>🔱 854</span>
+					</div>
+				<div class="stars-today">⭐ 6789 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 37827</span>
-						<span>🔱 7647</span>
+						<span>⭐ 37836</span>
+						<span>🔱 7649</span>
 					</div>
 				<div class="stars-today">⭐ 3742 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9695</span>
+						<span>🔱 1184</span>
+					</div>
+				<div class="stars-today">⭐ 5108 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27598</span>
+						<span>🔱 2237</span>
+					</div>
+				<div class="stars-today">⭐ 3111 stars this month</div>
 				</div>
 			</div>
 	

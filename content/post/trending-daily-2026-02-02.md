@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-02
-date: 2026-02-02T10:31:10Z
+date: 2026-02-02T12:25:48Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        openclaw /
+        thedotmack /
 
-      openclaw</a></p>
+      claude-mem</a></p>
 				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 147411</span>
-						<span>🔱 22131</span>
+						<span>⭐ 17238</span>
+						<span>🔱 1200</span>
 					</div>
-				<div class="stars-today">⭐ 10794 stars today</div>
+				<div class="stars-today">⭐ 196 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 2860</span>
+						<span>⭐ 2887</span>
 						<span>🔱 125</span>
 					</div>
 				<div class="stars-today">⭐ 781 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/termux/termux-app" target="_blank">
+    
+
+
+      
+        termux /
+
+      termux-app</a></p>
+				<p>
+      Termux - a terminal emulator application for Android OS extendible by variety of packages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 49652</span>
+						<span>🔱 5934</span>
+					</div>
+				<div class="stars-today">⭐ 166 stars today</div>
 				</div>
 			</div>
 	
@@ -74,32 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1118</span>
-						<span>🔱 130</span>
+						<span>⭐ 1138</span>
+						<span>🔱 131</span>
 					</div>
 				<div class="stars-today">⭐ 49 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/kovidgoyal/calibre" target="_blank">
+				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
     
 
 
       
-        kovidgoyal /
+        netbirdio /
 
-      calibre</a></p>
+      netbird</a></p>
 				<p>
-      The official source code repository for the calibre ebook manager
+      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21817</span>
+						<span>🔱 1067</span>
+					</div>
+				<div class="stars-today">⭐ 368 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      ChatDev</a></p>
+				<p>
+      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23715</span>
-						<span>🔱 2539</span>
+						<span>⭐ 29196</span>
+						<span>🔱 3652</span>
 					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
+				<div class="stars-today">⭐ 75 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/autobrr/qui" target="_blank">
+    
+
+
+      
+        autobrr /
+
+      qui</a></p>
+				<p>
+      A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2603</span>
+						<span>🔱 74</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
@@ -118,142 +184,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5287</span>
-						<span>🔱 562</span>
+						<span>⭐ 5342</span>
+						<span>🔱 564</span>
 					</div>
 				<div class="stars-today">⭐ 613 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        thedotmack /
+        VectifyAI /
 
-      claude-mem</a></p>
+      PageIndex</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17088</span>
-						<span>🔱 1191</span>
-					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13146</span>
-						<span>🔱 1080</span>
+						<span>⭐ 12231</span>
+						<span>🔱 862</span>
 					</div>
-				<div class="stars-today">⭐ 406 stars today</div>
+				<div class="stars-today">⭐ 818 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/amantus-ai/vibetunnel" target="_blank">
+				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
     
 
 
       
-        amantus-ai /
+        karpathy /
 
-      vibetunnel</a></p>
+      nanochat</a></p>
 				<p>
-      Turn any browser into your terminal & command your agents on the go.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3685</span>
-						<span>🔱 239</span>
-					</div>
-				<div class="stars-today">⭐ 43 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/CodexBar" target="_blank">
-    
-
-
-      
-        steipete /
-
-      CodexBar</a></p>
-				<p>
-      Show usage stats for OpenAI Codex and Claude Code, without having to login.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 4134</span>
-						<span>🔱 265</span>
-					</div>
-				<div class="stars-today">⭐ 99 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/j178/prek" target="_blank">
-    
-
-
-      
-        j178 /
-
-      prek</a></p>
-				<p>
-      ⚡ Better `pre-commit`, re-engineered in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4362</span>
-						<span>🔱 129</span>
-					</div>
-				<div class="stars-today">⭐ 61 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vita-epfl/Stable-Video-Infinity" target="_blank">
-    
-
-
-      
-        vita-epfl /
-
-      Stable-Video-Infinity</a></p>
-				<p>
-      [ICLR 26] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling
+      The best ChatGPT that $100 can buy.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1881</span>
-						<span>🔱 139</span>
+						<span>⭐ 41423</span>
+						<span>🔱 5369</span>
 					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
+				<div class="stars-today">⭐ 137 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/kovidgoyal/calibre" target="_blank">
+    
+
+
+      
+        kovidgoyal /
+
+      calibre</a></p>
+				<p>
+      The official source code repository for the calibre ebook manager
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23732</span>
+						<span>🔱 2539</span>
+					</div>
+				<div class="stars-today">⭐ 37 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/rag-from-scratch" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      rag-from-scratch</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 6841</span>
+						<span>🔱 1772</span>
+					</div>
+				<div class="stars-today">⭐ 94 stars today</div>
 				</div>
 			</div>
 	
