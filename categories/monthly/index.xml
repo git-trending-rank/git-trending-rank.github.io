@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 03 Feb 2026 10:26:14 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 03 Feb 2026 12:26:12 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年2月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B42%E6%9C%88/</link>
-        <pubDate>Tue, 03 Feb 2026 10:26:14 +0000</pubDate>
+        <pubDate>Tue, 03 Feb 2026 12:26:12 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B42%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,32 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 154850&lt;/span&gt;
-						&lt;span&gt;🔱 23784&lt;/span&gt;
+						&lt;span&gt;⭐ 155324&lt;/span&gt;
+						&lt;span&gt;🔱 23894&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 147373 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/frankbria/ralph-claude-code&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        anomalyco /
+        frankbria /
 
-      opencode&lt;/a&gt;&lt;/p&gt;
+      ralph-claude-code&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The open source coding agent.
+      Autonomous AI development loop for Claude Code with intelligent exit detection
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 96234&lt;/span&gt;
-						&lt;span&gt;🔱 9014&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 6188&lt;/span&gt;
+						&lt;span&gt;🔱 429&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50436 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5951 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,32 +77,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 43034&lt;/span&gt;
-						&lt;span&gt;🔱 3270&lt;/span&gt;
+						&lt;span&gt;⭐ 43108&lt;/span&gt;
+						&lt;span&gt;🔱 3277&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 29204 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/code-yeongyu/oh-my-opencode&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        code-yeongyu /
+        anomalyco /
 
-      oh-my-opencode&lt;/a&gt;&lt;/p&gt;
+      opencode&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+      The open source coding agent.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 27565&lt;/span&gt;
-						&lt;span&gt;🔱 2018&lt;/span&gt;
+						&lt;span&gt;⭐ 96317&lt;/span&gt;
+						&lt;span&gt;🔱 9026&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22586 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50436 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,10 +121,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 61677&lt;/span&gt;
-						&lt;span&gt;🔱 6048&lt;/span&gt;
+						&lt;span&gt;⭐ 61753&lt;/span&gt;
+						&lt;span&gt;🔱 6057&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 29479 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/code-yeongyu/oh-my-opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        code-yeongyu /
+
+      oh-my-opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 27600&lt;/span&gt;
+						&lt;span&gt;🔱 2022&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22586 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 6297&lt;/span&gt;
-						&lt;span&gt;🔱 605&lt;/span&gt;
+						&lt;span&gt;⭐ 6308&lt;/span&gt;
+						&lt;span&gt;🔱 607&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4955 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -165,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12772&lt;/span&gt;
-						&lt;span&gt;🔱 913&lt;/span&gt;
+						&lt;span&gt;⭐ 12803&lt;/span&gt;
+						&lt;span&gt;🔱 918&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7847 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -187,8 +209,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 34670&lt;/span&gt;
-						&lt;span&gt;🔱 2097&lt;/span&gt;
+						&lt;span&gt;⭐ 34682&lt;/span&gt;
+						&lt;span&gt;🔱 2098&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9420 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -209,32 +231,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 63528&lt;/span&gt;
-						&lt;span&gt;🔱 4792&lt;/span&gt;
+						&lt;span&gt;⭐ 63550&lt;/span&gt;
+						&lt;span&gt;🔱 4797&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13119 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lbjlaq/Antigravity-Manager&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lbjlaq /
-
-      Antigravity-Manager&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 20737&lt;/span&gt;
-						&lt;span&gt;🔱 2358&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14139 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,32 +253,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 29787&lt;/span&gt;
-						&lt;span&gt;🔱 4798&lt;/span&gt;
+						&lt;span&gt;⭐ 29795&lt;/span&gt;
+						&lt;span&gt;🔱 4799&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4961 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Lissy93/web-check&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lbjlaq/Antigravity-Manager&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Lissy93 /
+        lbjlaq /
 
-      web-check&lt;/a&gt;&lt;/p&gt;
+      Antigravity-Manager&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+      Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 31756&lt;/span&gt;
-						&lt;span&gt;🔱 2499&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 20760&lt;/span&gt;
+						&lt;span&gt;🔱 2362&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4652 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14139 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,10 +297,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5876&lt;/span&gt;
-						&lt;span&gt;🔱 614&lt;/span&gt;
+						&lt;span&gt;⭐ 5931&lt;/span&gt;
+						&lt;span&gt;🔱 620&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4415 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Lissy93/web-check&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Lissy93 /
+
+      web-check&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 31764&lt;/span&gt;
+						&lt;span&gt;🔱 2499&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4652 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,10 +341,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 25217&lt;/span&gt;
+						&lt;span&gt;⭐ 25221&lt;/span&gt;
 						&lt;span&gt;🔱 2430&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4912 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/DataTalksClub/data-engineering-zoomcamp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        DataTalksClub /
+
+      data-engineering-zoomcamp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 37917&lt;/span&gt;
+						&lt;span&gt;🔱 7658&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3813 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -341,8 +385,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 29582&lt;/span&gt;
-						&lt;span&gt;🔱 2835&lt;/span&gt;
+						&lt;span&gt;⭐ 29614&lt;/span&gt;
+						&lt;span&gt;🔱 2838&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15496 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -363,76 +407,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 14494&lt;/span&gt;
+						&lt;span&gt;⭐ 14516&lt;/span&gt;
 						&lt;span&gt;🔱 859&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6796 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/DataTalksClub/data-engineering-zoomcamp&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        DataTalksClub /
-
-      data-engineering-zoomcamp&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 37910&lt;/span&gt;
-						&lt;span&gt;🔱 7657&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3813 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/dexter&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        virattt /
-
-      dexter&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An autonomous agent for deep financial research
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9899&lt;/span&gt;
-						&lt;span&gt;🔱 1211&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5302 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/BitNet&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      BitNet&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Official inference framework for 1-bit LLMs
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 27683&lt;/span&gt;
-						&lt;span&gt;🔱 2250&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3188 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
