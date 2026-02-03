@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-03T10:26:14Z
+date: 2026-02-03T12:26:12Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 154850</span>
-						<span>🔱 23784</span>
+						<span>⭐ 155324</span>
+						<span>🔱 23894</span>
 					</div>
 				<div class="stars-today">⭐ 147373 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
     
 
 
       
-        anomalyco /
+        frankbria /
 
-      opencode</a></p>
+      ralph-claude-code</a></p>
 				<p>
-      The open source coding agent.
+      Autonomous AI development loop for Claude Code with intelligent exit detection
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 96234</span>
-						<span>🔱 9014</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 6188</span>
+						<span>🔱 429</span>
 					</div>
-				<div class="stars-today">⭐ 50436 stars this month</div>
+				<div class="stars-today">⭐ 5951 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 43034</span>
-						<span>🔱 3270</span>
+						<span>⭐ 43108</span>
+						<span>🔱 3277</span>
 					</div>
 				<div class="stars-today">⭐ 29204 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
     
 
 
       
-        code-yeongyu /
+        anomalyco /
 
-      oh-my-opencode</a></p>
+      opencode</a></p>
 				<p>
-      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+      The open source coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27565</span>
-						<span>🔱 2018</span>
+						<span>⭐ 96317</span>
+						<span>🔱 9026</span>
 					</div>
-				<div class="stars-today">⭐ 22586 stars this month</div>
+				<div class="stars-today">⭐ 50436 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61677</span>
-						<span>🔱 6048</span>
+						<span>⭐ 61753</span>
+						<span>🔱 6057</span>
 					</div>
 				<div class="stars-today">⭐ 29479 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
+    
+
+
+      
+        code-yeongyu /
+
+      oh-my-opencode</a></p>
+				<p>
+      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27600</span>
+						<span>🔱 2022</span>
+					</div>
+				<div class="stars-today">⭐ 22586 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6297</span>
-						<span>🔱 605</span>
+						<span>⭐ 6308</span>
+						<span>🔱 607</span>
 					</div>
 				<div class="stars-today">⭐ 4955 stars this month</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12772</span>
-						<span>🔱 913</span>
+						<span>⭐ 12803</span>
+						<span>🔱 918</span>
 					</div>
 				<div class="stars-today">⭐ 7847 stars this month</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34670</span>
-						<span>🔱 2097</span>
+						<span>⭐ 34682</span>
+						<span>🔱 2098</span>
 					</div>
 				<div class="stars-today">⭐ 9420 stars this month</div>
 				</div>
@@ -206,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 63528</span>
-						<span>🔱 4792</span>
+						<span>⭐ 63550</span>
+						<span>🔱 4797</span>
 					</div>
 				<div class="stars-today">⭐ 13119 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
-    
-
-
-      
-        lbjlaq /
-
-      Antigravity-Manager</a></p>
-				<p>
-      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20737</span>
-						<span>🔱 2358</span>
-					</div>
-				<div class="stars-today">⭐ 14139 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29787</span>
-						<span>🔱 4798</span>
+						<span>⭐ 29795</span>
+						<span>🔱 4799</span>
 					</div>
 				<div class="stars-today">⭐ 4961 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
     
 
 
       
-        Lissy93 /
+        lbjlaq /
 
-      web-check</a></p>
+      Antigravity-Manager</a></p>
 				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31756</span>
-						<span>🔱 2499</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 20760</span>
+						<span>🔱 2362</span>
 					</div>
-				<div class="stars-today">⭐ 4652 stars this month</div>
+				<div class="stars-today">⭐ 14139 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5876</span>
-						<span>🔱 614</span>
+						<span>⭐ 5931</span>
+						<span>🔱 620</span>
 					</div>
 				<div class="stars-today">⭐ 4415 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+    
+
+
+      
+        Lissy93 /
+
+      web-check</a></p>
+				<p>
+      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31764</span>
+						<span>🔱 2499</span>
+					</div>
+				<div class="stars-today">⭐ 4652 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25217</span>
+						<span>⭐ 25221</span>
 						<span>🔱 2430</span>
 					</div>
 				<div class="stars-today">⭐ 4912 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
+    
+
+
+      
+        DataTalksClub /
+
+      data-engineering-zoomcamp</a></p>
+				<p>
+      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 37917</span>
+						<span>🔱 7658</span>
+					</div>
+				<div class="stars-today">⭐ 3813 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29582</span>
-						<span>🔱 2835</span>
+						<span>⭐ 29614</span>
+						<span>🔱 2838</span>
 					</div>
 				<div class="stars-today">⭐ 15496 stars this month</div>
 				</div>
@@ -360,76 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 14494</span>
+						<span>⭐ 14516</span>
 						<span>🔱 859</span>
 					</div>
 				<div class="stars-today">⭐ 6796 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
-    
-
-
-      
-        DataTalksClub /
-
-      data-engineering-zoomcamp</a></p>
-				<p>
-      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 37910</span>
-						<span>🔱 7657</span>
-					</div>
-				<div class="stars-today">⭐ 3813 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
-    
-
-
-      
-        virattt /
-
-      dexter</a></p>
-				<p>
-      An autonomous agent for deep financial research
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9899</span>
-						<span>🔱 1211</span>
-					</div>
-				<div class="stars-today">⭐ 5302 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27683</span>
-						<span>🔱 2250</span>
-					</div>
-				<div class="stars-today">⭐ 3188 stars this month</div>
 				</div>
 			</div>
 	

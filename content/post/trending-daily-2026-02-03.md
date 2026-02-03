@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-03
-date: 2026-02-03T10:26:14Z
+date: 2026-02-03T12:26:11Z
 categories:
 - daily
 keywords:
@@ -30,186 +30,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18726</span>
-						<span>🔱 1294</span>
+						<span>⭐ 18941</span>
+						<span>🔱 1299</span>
 					</div>
 				<div class="stars-today">⭐ 1474 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
+				<p><a href="https://github.com/masoncl/review-prompts" target="_blank">
     
 
 
       
-        ThePrimeagen /
+        masoncl /
 
-      99</a></p>
+      review-prompts</a></p>
 				<p>
-      Neovim AI agent done right
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 3105</span>
-						<span>🔱 133</span>
-					</div>
-				<div class="stars-today">⭐ 300 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/termux/termux-app" target="_blank">
-    
-
-
-      
-        termux /
-
-      termux-app</a></p>
-				<p>
-      Termux - a terminal emulator application for Android OS extendible by variety of packages.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 50064</span>
-						<span>🔱 5949</span>
-					</div>
-				<div class="stars-today">⭐ 80 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pedramamini/Maestro" target="_blank">
-    
-
-
-      
-        pedramamini /
-
-      Maestro</a></p>
-				<p>
-      Agent Orchestration Command Center
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1389</span>
-						<span>🔱 150</span>
-					</div>
-				<div class="stars-today">⭐ 336 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/netbirdio/netbird" target="_blank">
-    
-
-
-      
-        netbirdio /
-
-      netbird</a></p>
-				<p>
-      Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 22093</span>
-						<span>🔱 1079</span>
-					</div>
-				<div class="stars-today">⭐ 347 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      ChatDev</a></p>
-				<p>
-      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+      AI review prompts
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29631</span>
-						<span>🔱 3676</span>
+						<span>⭐ 210</span>
+						<span>🔱 29</span>
 					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
+				<div class="stars-today">⭐ 42 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/autobrr/qui" target="_blank">
+				<p><a href="https://github.com/openai/skills" target="_blank">
     
 
 
       
-        autobrr /
+        openai /
 
-      qui</a></p>
+      skills</a></p>
 				<p>
-      A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3012</span>
-						<span>🔱 83</span>
-					</div>
-				<div class="stars-today">⭐ 77 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5876</span>
-						<span>🔱 614</span>
-					</div>
-				<div class="stars-today">⭐ 878 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+      Skills Catalog for Codex
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12772</span>
-						<span>🔱 913</span>
+						<span>⭐ 2669</span>
+						<span>🔱 168</span>
 					</div>
-				<div class="stars-today">⭐ 793 stars today</div>
+				<div class="stars-today">⭐ 307 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/automazeio/ccpm" target="_blank">
+    
+
+
+      
+        automazeio /
+
+      ccpm</a></p>
+				<p>
+      Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 6501</span>
+						<span>🔱 686</span>
+					</div>
+				<div class="stars-today">⭐ 145 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 43108</span>
+						<span>🔱 3277</span>
+					</div>
+				<div class="stars-today">⭐ 873 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9921</span>
+						<span>🔱 1212</span>
+					</div>
+				<div class="stars-today">⭐ 219 stars today</div>
 				</div>
 			</div>
 	
@@ -228,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41840</span>
-						<span>🔱 5407</span>
+						<span>⭐ 41868</span>
+						<span>🔱 5408</span>
 					</div>
 				<div class="stars-today">⭐ 254 stars today</div>
 				</div>
@@ -250,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23853</span>
+						<span>⭐ 23868</span>
 						<span>🔱 2546</span>
 					</div>
 				<div class="stars-today">⭐ 183 stars today</div>
@@ -258,22 +192,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/rag-from-scratch" target="_blank">
+				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
     
 
 
       
-        langchain-ai /
+        OpenBMB /
 
-      rag-from-scratch</a></p>
-				<p></p>
+      ChatDev</a></p>
+				<p>
+      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 7117</span>
-						<span>🔱 1796</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29666</span>
+						<span>🔱 3679</span>
 					</div>
-				<div class="stars-today">⭐ 105 stars today</div>
+				<div class="stars-today">⭐ 93 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pedramamini/Maestro" target="_blank">
+    
+
+
+      
+        pedramamini /
+
+      Maestro</a></p>
+				<p>
+      Agent Orchestration Command Center
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1403</span>
+						<span>🔱 150</span>
+					</div>
+				<div class="stars-today">⭐ 336 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vm0-ai/vm0" target="_blank">
+    
+
+
+      
+        vm0-ai /
+
+      vm0</a></p>
+				<p>
+      the easiest way to run natural language-described workflows automatically
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 539</span>
+						<span>🔱 20</span>
+					</div>
+				<div class="stars-today">⭐ 56 stars today</div>
 				</div>
 			</div>
 	

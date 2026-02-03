@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第6周
-date: 2026-02-03T10:26:14Z
+date: 2026-02-03T12:26:12Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 154850</span>
-						<span>🔱 23784</span>
+						<span>⭐ 155324</span>
+						<span>🔱 23894</span>
 					</div>
 				<div class="stars-today">⭐ 113224 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 29787</span>
-						<span>🔱 4798</span>
+						<span>⭐ 29795</span>
+						<span>🔱 4799</span>
 					</div>
 				<div class="stars-today">⭐ 4296 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5819</span>
+						<span>⭐ 5825</span>
 						<span>🔱 537</span>
 					</div>
 				<div class="stars-today">⭐ 1776 stars this week</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5876</span>
-						<span>🔱 614</span>
+						<span>⭐ 5931</span>
+						<span>🔱 620</span>
 					</div>
 				<div class="stars-today">⭐ 3032 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1283</span>
-						<span>🔱 143</span>
+						<span>⭐ 1287</span>
+						<span>🔱 144</span>
 					</div>
 				<div class="stars-today">⭐ 835 stars this week</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3105</span>
+						<span>⭐ 3108</span>
 						<span>🔱 133</span>
 					</div>
 				<div class="stars-today">⭐ 1819 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7183</span>
-						<span>🔱 517</span>
-					</div>
-				<div class="stars-today">⭐ 2084 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27683</span>
-						<span>🔱 2250</span>
+						<span>⭐ 27688</span>
+						<span>🔱 2251</span>
 					</div>
 				<div class="stars-today">⭐ 1801 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7207</span>
+						<span>🔱 521</span>
+					</div>
+				<div class="stars-today">⭐ 2084 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12772</span>
-						<span>🔱 913</span>
+						<span>⭐ 12803</span>
+						<span>🔱 918</span>
 					</div>
 				<div class="stars-today">⭐ 2794 stars this week</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Swift</span>
-						<span>⭐ 1777</span>
+						<span>⭐ 1784</span>
 						<span>🔱 102</span>
 					</div>
 				<div class="stars-today">⭐ 461 stars this week</div>
@@ -236,68 +236,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
     
 
 
       
-        supermemoryai /
+        microsoft /
 
-      supermemory</a></p>
+      agent-lightning</a></p>
 				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+      The absolute trainer to light up AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16208</span>
-						<span>🔱 1628</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13505</span>
+						<span>🔱 1125</span>
 					</div>
-				<div class="stars-today">⭐ 1225 stars this week</div>
+				<div class="stars-today">⭐ 1498 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        remotion-dev /
+        thedotmack /
 
-      remotion</a></p>
+      claude-mem</a></p>
 				<p>
-      🎥 Make videos programmatically with React
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34670</span>
-						<span>🔱 2097</span>
+						<span>⭐ 18941</span>
+						<span>🔱 1299</span>
 					</div>
-				<div class="stars-today">⭐ 3050 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Draculabo/AntigravityManager" target="_blank">
-    
-
-
-      
-        Draculabo /
-
-      AntigravityManager</a></p>
-				<p>
-      Antigravity Manager is a powerful Electron-based application designed to manage accounts and processes for the Antigravity application. It provides a seamless interface for switching accounts, backing up progress, and controlling the application lifecycle.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 611</span>
-						<span>🔱 82</span>
-					</div>
-				<div class="stars-today">⭐ 252 stars this week</div>
+				<div class="stars-today">⭐ 3586 stars this week</div>
 				</div>
 			</div>
 	
