@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-04T16:30:00Z
+date: 2026-02-04T18:30:13Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 162107</span>
-						<span>🔱 25395</span>
+						<span>⭐ 162431</span>
+						<span>🔱 25480</span>
 					</div>
 				<div class="stars-today">⭐ 154681 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 44323</span>
+						<span>🔱 3365</span>
+					</div>
+				<div class="stars-today">⭐ 29873 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 97402</span>
+						<span>🔱 9181</span>
+					</div>
+				<div class="stars-today">⭐ 50859 stars this month</div>
 				</div>
 			</div>
 	
@@ -60,50 +104,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44260</span>
-						<span>🔱 3358</span>
-					</div>
-				<div class="stars-today">⭐ 29873 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 97343</span>
-						<span>🔱 9171</span>
-					</div>
-				<div class="stars-today">⭐ 50859 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62935</span>
-						<span>🔱 6176</span>
+						<span>⭐ 62976</span>
+						<span>🔱 6186</span>
 					</div>
 				<div class="stars-today">⭐ 29994 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13174</span>
+						<span>🔱 955</span>
+					</div>
+				<div class="stars-today">⭐ 8412 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28079</span>
-						<span>🔱 2058</span>
+						<span>⭐ 28102</span>
+						<span>🔱 2059</span>
 					</div>
 				<div class="stars-today">⭐ 22582 stars this month</div>
 				</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6461</span>
+						<span>⭐ 6467</span>
 						<span>🔱 624</span>
 					</div>
 				<div class="stars-today">⭐ 4923 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13136</span>
-						<span>🔱 953</span>
-					</div>
-				<div class="stars-today">⭐ 8412 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,76 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34930</span>
-						<span>🔱 2116</span>
+						<span>⭐ 34943</span>
+						<span>🔱 2117</span>
 					</div>
 				<div class="stars-today">⭐ 9643 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 63992</span>
-						<span>🔱 4839</span>
-					</div>
-				<div class="stars-today">⭐ 13269 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30048</span>
-						<span>🔱 4825</span>
-					</div>
-				<div class="stars-today">⭐ 5174 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
-    
-
-
-      
-        lbjlaq /
-
-      Antigravity-Manager</a></p>
-				<p>
-      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21079</span>
-						<span>🔱 2390</span>
-					</div>
-				<div class="stars-today">⭐ 13972 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +228,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6549</span>
-						<span>🔱 673</span>
+						<span>⭐ 6578</span>
+						<span>🔱 677</span>
 					</div>
 				<div class="stars-today">⭐ 4961 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lissy93/web-check" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        Lissy93 /
+        asgeirtj /
 
-      web-check</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      🕵️‍♂️ All-in-one OSINT tool for analysing any website
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31857</span>
-						<span>🔱 2503</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30062</span>
+						<span>🔱 4826</span>
 					</div>
-				<div class="stars-today">⭐ 4735 stars this month</div>
+				<div class="stars-today">⭐ 5174 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 64011</span>
+						<span>🔱 4842</span>
+					</div>
+				<div class="stars-today">⭐ 13269 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
+    
+
+
+      
+        lbjlaq /
+
+      Antigravity-Manager</a></p>
+				<p>
+      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21090</span>
+						<span>🔱 2392</span>
+					</div>
+				<div class="stars-today">⭐ 13972 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
+    
+
+
+      
+        MiroMindAI /
+
+      MiroThinker</a></p>
+				<p>
+      MiroThinker is an open source deep research agent optimized for research and prediction. It achieves a 80.8% Avg@8 score on the challenging GAIA benchmark.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6047</span>
+						<span>🔱 449</span>
+					</div>
+				<div class="stars-today">⭐ 4660 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26015</span>
-						<span>🔱 2523</span>
+						<span>⭐ 26062</span>
+						<span>🔱 2529</span>
 					</div>
 				<div class="stars-today">⭐ 4955 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
-    
-
-
-      
-        DataTalksClub /
-
-      data-engineering-zoomcamp</a></p>
-				<p>
-      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 37979</span>
-						<span>🔱 7663</span>
-					</div>
-				<div class="stars-today">⭐ 3867 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30133</span>
-						<span>🔱 2880</span>
+						<span>⭐ 30157</span>
+						<span>🔱 2881</span>
 					</div>
 				<div class="stars-today">⭐ 15701 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steveyegge/beads" target="_blank">
+				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
     
 
 
       
-        steveyegge /
+        DataTalksClub /
 
-      beads</a></p>
+      data-engineering-zoomcamp</a></p>
 				<p>
-      Beads - A memory upgrade for your coding agent
+      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 14797</span>
-						<span>🔱 870</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 37980</span>
+						<span>🔱 7663</span>
 					</div>
-				<div class="stars-today">⭐ 6910 stars this month</div>
+				<div class="stars-today">⭐ 3867 stars this month</div>
 				</div>
 			</div>
 	

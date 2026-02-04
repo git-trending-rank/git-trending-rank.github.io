@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第6周
-date: 2026-02-04T16:30:00Z
+date: 2026-02-04T18:30:13Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 162107</span>
-						<span>🔱 25395</span>
+						<span>⭐ 162431</span>
+						<span>🔱 25480</span>
 					</div>
 				<div class="stars-today">⭐ 91936 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30048</span>
-						<span>🔱 4825</span>
+						<span>⭐ 30062</span>
+						<span>🔱 4826</span>
 					</div>
 				<div class="stars-today">⭐ 4323 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5943</span>
-						<span>🔱 546</span>
-					</div>
-				<div class="stars-today">⭐ 1813 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6549</span>
-						<span>🔱 673</span>
+						<span>⭐ 6578</span>
+						<span>🔱 677</span>
 					</div>
 				<div class="stars-today">⭐ 3486 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        MoonshotAI /
 
-      ext-apps</a></p>
+      kimi-cli</a></p>
 				<p>
-      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+      Kimi Code CLI is your next CLI agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1329</span>
-						<span>🔱 149</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5947</span>
+						<span>🔱 546</span>
 					</div>
-				<div class="stars-today">⭐ 763 stars this week</div>
+				<div class="stars-today">⭐ 1813 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3234</span>
-						<span>🔱 143</span>
+						<span>⭐ 3249</span>
+						<span>🔱 145</span>
 					</div>
 				<div class="stars-today">⭐ 2027 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      ext-apps</a></p>
+				<p>
+      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1331</span>
+						<span>🔱 149</span>
+					</div>
+				<div class="stars-today">⭐ 763 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22155</span>
+						<span>🔱 1471</span>
+					</div>
+				<div class="stars-today">⭐ 4167 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27836</span>
-						<span>🔱 2263</span>
+						<span>⭐ 27845</span>
+						<span>🔱 2264</span>
 					</div>
 				<div class="stars-today">⭐ 1876 stars this week</div>
 				</div>
@@ -184,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7583</span>
-						<span>🔱 566</span>
+						<span>⭐ 7599</span>
+						<span>🔱 568</span>
 					</div>
 				<div class="stars-today">⭐ 2233 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13136</span>
-						<span>🔱 953</span>
-					</div>
-				<div class="stars-today">⭐ 2818 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/Peekaboo" target="_blank">
-    
-
-
-      
-        steipete /
-
-      Peekaboo</a></p>
-				<p>
-      Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 1850</span>
-						<span>🔱 106</span>
-					</div>
-				<div class="stars-today">⭐ 467 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13913</span>
-						<span>🔱 1167</span>
+						<span>⭐ 13932</span>
+						<span>🔱 1170</span>
 					</div>
 				<div class="stars-today">⭐ 1783 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/pedramamini/Maestro" target="_blank">
     
 
 
       
-        thedotmack /
+        pedramamini /
 
-      claude-mem</a></p>
+      Maestro</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      Agent Orchestration Command Center
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21970</span>
-						<span>🔱 1459</span>
+						<span>⭐ 1617</span>
+						<span>🔱 163</span>
 					</div>
-				<div class="stars-today">⭐ 4167 stars this week</div>
+				<div class="stars-today">⭐ 745 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3548</span>
+						<span>🔱 204</span>
+					</div>
+				<div class="stars-today">⭐ 616 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13174</span>
+						<span>🔱 955</span>
+					</div>
+				<div class="stars-today">⭐ 2818 stars this week</div>
 				</div>
 			</div>
 	

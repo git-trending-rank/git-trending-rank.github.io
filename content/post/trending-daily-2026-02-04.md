@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-04
-date: 2026-02-04T16:29:59Z
+date: 2026-02-04T18:30:13Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21970</span>
-						<span>🔱 1459</span>
+						<span>⭐ 22155</span>
+						<span>🔱 1471</span>
 					</div>
 				<div class="stars-today">⭐ 2618 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/masoncl/review-prompts" target="_blank">
-    
-
-
-      
-        masoncl /
-
-      review-prompts</a></p>
-				<p>
-      AI review prompts
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 536</span>
-						<span>🔱 43</span>
-					</div>
-				<div class="stars-today">⭐ 288 stars today</div>
 				</div>
 			</div>
 	
@@ -74,120 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3497</span>
-						<span>🔱 202</span>
+						<span>⭐ 3548</span>
+						<span>🔱 204</span>
 					</div>
 				<div class="stars-today">⭐ 730 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/automazeio/ccpm" target="_blank">
+				<p><a href="https://github.com/disler/claude-code-hooks-mastery" target="_blank">
     
 
 
       
-        automazeio /
+        disler /
 
-      ccpm</a></p>
+      claude-code-hooks-mastery</a></p>
 				<p>
-      Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6941</span>
-						<span>🔱 712</span>
-					</div>
-				<div class="stars-today">⭐ 384 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44260</span>
-						<span>🔱 3358</span>
-					</div>
-				<div class="stars-today">⭐ 998 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
-    
-
-
-      
-        virattt /
-
-      dexter</a></p>
-				<p>
-      An autonomous agent for deep financial research
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10400</span>
-						<span>🔱 1254</span>
-					</div>
-				<div class="stars-today">⭐ 406 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanochat</a></p>
-				<p>
-      The best ChatGPT that $100 can buy.
+      Master Claude Code Hooks
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42216</span>
-						<span>🔱 5444</span>
+						<span>⭐ 2297</span>
+						<span>🔱 498</span>
 					</div>
-				<div class="stars-today">⭐ 307 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kovidgoyal/calibre" target="_blank">
-    
-
-
-      
-        kovidgoyal /
-
-      calibre</a></p>
-				<p>
-      The official source code repository for the calibre ebook manager
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23994</span>
-						<span>🔱 2551</span>
-					</div>
-				<div class="stars-today">⭐ 114 stars today</div>
+				<div class="stars-today">⭐ 47 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29911</span>
-						<span>🔱 3699</span>
+						<span>⭐ 29930</span>
+						<span>🔱 3700</span>
 					</div>
 				<div class="stars-today">⭐ 226 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ankitects/anki" target="_blank">
+    
+
+
+      
+        ankitects /
+
+      anki</a></p>
+				<p>
+      Anki is a smart spaced repetition flashcard program
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 26109</span>
+						<span>🔱 2785</span>
+					</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/open-telemetry/opentelemetry-collector-contrib" target="_blank">
+    
+
+
+      
+        open-telemetry /
+
+      opentelemetry-collector-contrib</a></p>
+				<p>
+      Contrib repository for the OpenTelemetry Collector
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4336</span>
+						<span>🔱 3297</span>
+					</div>
+				<div class="stars-today">⭐ 3 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
+    
+
+
+      
+        Canner /
+
+      WrenAI</a></p>
+				<p>
+      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13863</span>
+						<span>🔱 1502</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars today</div>
 				</div>
 			</div>
 	
@@ -228,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1610</span>
+						<span>⭐ 1617</span>
 						<span>🔱 163</span>
 					</div>
 				<div class="stars-today">⭐ 186 stars today</div>
@@ -236,24 +192,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vm0-ai/vm0" target="_blank">
+				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
     
 
 
       
-        vm0-ai /
+        nvm-sh /
 
-      vm0</a></p>
+      nvm</a></p>
 				<p>
-      the easiest way to run natural language-described workflows automatically
+      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 91219</span>
+						<span>🔱 9817</span>
+					</div>
+				<div class="stars-today">⭐ 34 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      qlib</a></p>
+				<p>
+      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36482</span>
+						<span>🔱 5684</span>
+					</div>
+				<div class="stars-today">⭐ 82 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
+    
+
+
+      
+        LadybirdBrowser /
+
+      ladybird</a></p>
+				<p>
+      Truly independent web browser
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 58208</span>
+						<span>🔱 2640</span>
+					</div>
+				<div class="stars-today">⭐ 74 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/likec4/likec4" target="_blank">
+    
+
+
+      
+        likec4 /
+
+      likec4</a></p>
+				<p>
+      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 891</span>
-						<span>🔱 34</span>
+						<span>⭐ 1348</span>
+						<span>🔱 117</span>
 					</div>
-				<div class="stars-today">⭐ 316 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	
