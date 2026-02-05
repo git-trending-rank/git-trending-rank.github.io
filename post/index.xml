@@ -6,706 +6,10 @@
         <description>Recent content in Posts on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 05 Feb 2026 00:56:01 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>GitHub 趋势 2026年2月</title>
-        <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B42%E6%9C%88/</link>
-        <pubDate>Thu, 05 Feb 2026 00:56:01 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B42%E6%9C%88/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openclaw/openclaw&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openclaw /
-
-      openclaw&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 163211&lt;/span&gt;
-						&lt;span&gt;🔱 25681&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 160374 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        obra /
-
-      superpowers&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An agentic skills framework &amp; software development methodology that works.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 44450&lt;/span&gt;
-						&lt;span&gt;🔱 3378&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 30680 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anomalyco /
-
-      opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The open source coding agent.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 97556&lt;/span&gt;
-						&lt;span&gt;🔱 9207&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50686 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/frankbria/ralph-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        frankbria /
-
-      ralph-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Autonomous AI development loop for Claude Code with intelligent exit detection
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 6288&lt;/span&gt;
-						&lt;span&gt;🔱 436&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5947 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Public repository for Agent Skills
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 63071&lt;/span&gt;
-						&lt;span&gt;🔱 6198&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 30308 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/VectifyAI/PageIndex&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13245&lt;/span&gt;
-						&lt;span&gt;🔱 967&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8687 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/code-yeongyu/oh-my-opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        code-yeongyu /
-
-      oh-my-opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 28146&lt;/span&gt;
-						&lt;span&gt;🔱 2061&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 21888 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-plugins-official&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 6499&lt;/span&gt;
-						&lt;span&gt;🔱 626&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4893 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/remotion-dev/remotion&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        remotion-dev /
-
-      remotion&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🎥 Make videos programmatically with React
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 34979&lt;/span&gt;
-						&lt;span&gt;🔱 2120&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9839 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/badlogic/pi-mono&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        badlogic /
-
-      pi-mono&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6681&lt;/span&gt;
-						&lt;span&gt;🔱 688&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5452 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/asgeirtj/system_prompts_leaks&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 30107&lt;/span&gt;
-						&lt;span&gt;🔱 4837&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5373 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 64059&lt;/span&gt;
-						&lt;span&gt;🔱 4848&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13326 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lbjlaq/Antigravity-Manager&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lbjlaq /
-
-      Antigravity-Manager&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 21110&lt;/span&gt;
-						&lt;span&gt;🔱 2394&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13544 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/MiroMindAI/MiroThinker&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        MiroMindAI /
-
-      MiroThinker&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      MiroThinker is an open source deep research agent optimized for research and prediction. It achieves a 80.8% Avg@8 score on the challenging GAIA benchmark.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6060&lt;/span&gt;
-						&lt;span&gt;🔱 450&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4660 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/UI-TARS-desktop&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 26175&lt;/span&gt;
-						&lt;span&gt;🔱 2541&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5636 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ComposioHQ/awesome-claude-skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-claude-skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 30208&lt;/span&gt;
-						&lt;span&gt;🔱 2885&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15763 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/DataTalksClub/data-engineering-zoomcamp&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        DataTalksClub /
-
-      data-engineering-zoomcamp&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 37994&lt;/span&gt;
-						&lt;span&gt;🔱 7663&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3910 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
-        <title>GitHub 趋势 2026年第6周</title>
-        <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC6%E5%91%A8/</link>
-        <pubDate>Thu, 05 Feb 2026 00:56:01 +0000</pubDate>
-        
-        <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC6%E5%91%A8/</guid>
-        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
-
-	&lt;main class=&#34;container&#34;&gt;
-        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
-
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openclaw/openclaw&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openclaw /
-
-      openclaw&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 163211&lt;/span&gt;
-						&lt;span&gt;🔱 25681&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 79566 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/asgeirtj/system_prompts_leaks&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 30107&lt;/span&gt;
-						&lt;span&gt;🔱 4837&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4301 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/badlogic/pi-mono&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        badlogic /
-
-      pi-mono&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6681&lt;/span&gt;
-						&lt;span&gt;🔱 688&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3554 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/MoonshotAI/kimi-cli&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Kimi Code CLI is your next CLI agent.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5959&lt;/span&gt;
-						&lt;span&gt;🔱 549&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1597 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ThePrimeagen/99&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ThePrimeagen /
-
-      99&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Neovim AI agent done right
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Lua&lt;/span&gt;
-						&lt;span&gt;⭐ 3275&lt;/span&gt;
-						&lt;span&gt;🔱 147&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2100 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/ext-apps&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        modelcontextprotocol /
-
-      ext-apps&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1335&lt;/span&gt;
-						&lt;span&gt;🔱 149&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 698 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        thedotmack /
-
-      claude-mem&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 22502&lt;/span&gt;
-						&lt;span&gt;🔱 1491&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6422 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/BitNet&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      BitNet&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Official inference framework for 1-bit LLMs
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 27853&lt;/span&gt;
-						&lt;span&gt;🔱 2265&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1984 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NevaMind-AI/memU&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NevaMind-AI /
-
-      memU&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7635&lt;/span&gt;
-						&lt;span&gt;🔱 573&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2289 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/agent-lightning&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      agent-lightning&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The absolute trainer to light up AI agents.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13966&lt;/span&gt;
-						&lt;span&gt;🔱 1171&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2080 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/pedramamini/Maestro&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        pedramamini /
-
-      Maestro&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Agent Orchestration Command Center
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1656&lt;/span&gt;
-						&lt;span&gt;🔱 165&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 909 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openai /
-
-      skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Skills Catalog for Codex
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3670&lt;/span&gt;
-						&lt;span&gt;🔱 211&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1403 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/VectifyAI/PageIndex&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 13245&lt;/span&gt;
-						&lt;span&gt;🔱 967&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2845 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-
-		&lt;/div&gt;
-    &lt;/main&gt;
-
-</description>
-        </item>
-        <item>
+        <lastBuildDate>Thu, 05 Feb 2026 04:01:45 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/post/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-02-05</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-02-05/</link>
-        <pubDate>Thu, 05 Feb 2026 00:56:00 +0000</pubDate>
+        <pubDate>Thu, 05 Feb 2026 04:01:45 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-02-05/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -729,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 22502&lt;/span&gt;
-						&lt;span&gt;🔱 1491&lt;/span&gt;
+						&lt;span&gt;⭐ 22742&lt;/span&gt;
+						&lt;span&gt;🔱 1504&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2638 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -751,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3670&lt;/span&gt;
-						&lt;span&gt;🔱 211&lt;/span&gt;
+						&lt;span&gt;⭐ 3789&lt;/span&gt;
+						&lt;span&gt;🔱 217&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 746 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -773,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2360&lt;/span&gt;
-						&lt;span&gt;🔱 504&lt;/span&gt;
+						&lt;span&gt;⭐ 2412&lt;/span&gt;
+						&lt;span&gt;🔱 505&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 47 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -795,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 29967&lt;/span&gt;
-						&lt;span&gt;🔱 3705&lt;/span&gt;
+						&lt;span&gt;⭐ 30017&lt;/span&gt;
+						&lt;span&gt;🔱 3709&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 227 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -817,8 +121,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 26158&lt;/span&gt;
-						&lt;span&gt;🔱 2785&lt;/span&gt;
+						&lt;span&gt;⭐ 26190&lt;/span&gt;
+						&lt;span&gt;🔱 2786&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -839,7 +143,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 4346&lt;/span&gt;
+						&lt;span&gt;⭐ 4362&lt;/span&gt;
 						&lt;span&gt;🔱 3299&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3 stars today&lt;/div&gt;
@@ -861,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13911&lt;/span&gt;
-						&lt;span&gt;🔱 1507&lt;/span&gt;
+						&lt;span&gt;⭐ 13992&lt;/span&gt;
+						&lt;span&gt;🔱 1510&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 89 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -883,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1656&lt;/span&gt;
-						&lt;span&gt;🔱 165&lt;/span&gt;
+						&lt;span&gt;⭐ 1683&lt;/span&gt;
+						&lt;span&gt;🔱 166&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 187 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -905,7 +209,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 91248&lt;/span&gt;
+						&lt;span&gt;⭐ 91265&lt;/span&gt;
 						&lt;span&gt;🔱 9820&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
@@ -927,8 +231,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 36529&lt;/span&gt;
-						&lt;span&gt;🔱 5686&lt;/span&gt;
+						&lt;span&gt;⭐ 36581&lt;/span&gt;
+						&lt;span&gt;🔱 5692&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 83 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -949,7 +253,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 58268&lt;/span&gt;
+						&lt;span&gt;⭐ 58301&lt;/span&gt;
 						&lt;span&gt;🔱 2644&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 68 stars today&lt;/div&gt;
@@ -971,10 +275,706 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1430&lt;/span&gt;
-						&lt;span&gt;🔱 119&lt;/span&gt;
+						&lt;span&gt;⭐ 1504&lt;/span&gt;
+						&lt;span&gt;🔱 120&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 29 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
+        <title>GitHub 趋势 2026年2月</title>
+        <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B42%E6%9C%88/</link>
+        <pubDate>Thu, 05 Feb 2026 04:01:45 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B42%E6%9C%88/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openclaw/openclaw&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openclaw /
+
+      openclaw&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 164050&lt;/span&gt;
+						&lt;span&gt;🔱 25865&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 160374 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        obra /
+
+      superpowers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An agentic skills framework &amp; software development methodology that works.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 44600&lt;/span&gt;
+						&lt;span&gt;🔱 3386&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 30680 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anomalyco /
+
+      opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open source coding agent.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 97723&lt;/span&gt;
+						&lt;span&gt;🔱 9232&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 50686 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/frankbria/ralph-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        frankbria /
+
+      ralph-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Autonomous AI development loop for Claude Code with intelligent exit detection
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 6300&lt;/span&gt;
+						&lt;span&gt;🔱 437&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5947 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Public repository for Agent Skills
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 63260&lt;/span&gt;
+						&lt;span&gt;🔱 6228&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 30308 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/VectifyAI/PageIndex&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13309&lt;/span&gt;
+						&lt;span&gt;🔱 970&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8687 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/code-yeongyu/oh-my-opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        code-yeongyu /
+
+      oh-my-opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 28219&lt;/span&gt;
+						&lt;span&gt;🔱 2069&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 21888 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-plugins-official&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 6519&lt;/span&gt;
+						&lt;span&gt;🔱 627&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4893 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/remotion-dev/remotion&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        remotion-dev /
+
+      remotion&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🎥 Make videos programmatically with React
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 35013&lt;/span&gt;
+						&lt;span&gt;🔱 2121&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9839 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/badlogic/pi-mono&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        badlogic /
+
+      pi-mono&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 6745&lt;/span&gt;
+						&lt;span&gt;🔱 700&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5452 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/asgeirtj/system_prompts_leaks&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 30136&lt;/span&gt;
+						&lt;span&gt;🔱 4839&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5373 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 64119&lt;/span&gt;
+						&lt;span&gt;🔱 4859&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13326 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lbjlaq/Antigravity-Manager&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lbjlaq /
+
+      Antigravity-Manager&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Professional Antigravity Account Manager &amp; Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 21185&lt;/span&gt;
+						&lt;span&gt;🔱 2401&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13544 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/MiroMindAI/MiroThinker&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        MiroMindAI /
+
+      MiroThinker&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      MiroThinker is an open source deep research agent optimized for research and prediction. It achieves a 80.8% Avg@8 score on the challenging GAIA benchmark.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6071&lt;/span&gt;
+						&lt;span&gt;🔱 449&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4660 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/UI-TARS-desktop&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        bytedance /
+
+      UI-TARS-desktop&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 26205&lt;/span&gt;
+						&lt;span&gt;🔱 2549&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5636 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ComposioHQ/awesome-claude-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-claude-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 30273&lt;/span&gt;
+						&lt;span&gt;🔱 2893&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15763 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/DataTalksClub/data-engineering-zoomcamp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        DataTalksClub /
+
+      data-engineering-zoomcamp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 38001&lt;/span&gt;
+						&lt;span&gt;🔱 7664&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3910 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
+        <title>GitHub 趋势 2026年第6周</title>
+        <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC6%E5%91%A8/</link>
+        <pubDate>Thu, 05 Feb 2026 04:01:45 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC6%E5%91%A8/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openclaw/openclaw&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openclaw /
+
+      openclaw&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 164050&lt;/span&gt;
+						&lt;span&gt;🔱 25865&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 79566 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/asgeirtj/system_prompts_leaks&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude &amp; Gemini
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 30136&lt;/span&gt;
+						&lt;span&gt;🔱 4839&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4301 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/badlogic/pi-mono&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        badlogic /
+
+      pi-mono&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 6745&lt;/span&gt;
+						&lt;span&gt;🔱 700&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3554 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/MoonshotAI/kimi-cli&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        MoonshotAI /
+
+      kimi-cli&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Kimi Code CLI is your next CLI agent.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 5973&lt;/span&gt;
+						&lt;span&gt;🔱 551&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1597 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ThePrimeagen/99&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ThePrimeagen /
+
+      99&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Neovim AI agent done right
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Lua&lt;/span&gt;
+						&lt;span&gt;⭐ 3282&lt;/span&gt;
+						&lt;span&gt;🔱 148&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2100 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/modelcontextprotocol/ext-apps&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        modelcontextprotocol /
+
+      ext-apps&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Official repo for spec &amp; SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1342&lt;/span&gt;
+						&lt;span&gt;🔱 149&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 698 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        thedotmack /
+
+      claude-mem&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 22742&lt;/span&gt;
+						&lt;span&gt;🔱 1504&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6422 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/BitNet&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      BitNet&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Official inference framework for 1-bit LLMs
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 27870&lt;/span&gt;
+						&lt;span&gt;🔱 2267&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1984 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NevaMind-AI/memU&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NevaMind-AI /
+
+      memU&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7676&lt;/span&gt;
+						&lt;span&gt;🔱 576&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2289 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/agent-lightning&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      agent-lightning&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The absolute trainer to light up AI agents.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13991&lt;/span&gt;
+						&lt;span&gt;🔱 1173&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2080 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pedramamini/Maestro&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pedramamini /
+
+      Maestro&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Agent Orchestration Command Center
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1683&lt;/span&gt;
+						&lt;span&gt;🔱 166&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 909 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Skills Catalog for Codex
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3789&lt;/span&gt;
+						&lt;span&gt;🔱 217&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1403 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/VectifyAI/PageIndex&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13309&lt;/span&gt;
+						&lt;span&gt;🔱 970&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2845 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
