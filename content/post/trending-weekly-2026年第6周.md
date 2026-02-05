@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第6周
-date: 2026-02-05T10:27:53Z
+date: 2026-02-05T12:27:59Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 165660</span>
-						<span>🔱 26188</span>
+						<span>⭐ 166038</span>
+						<span>🔱 26257</span>
 					</div>
 				<div class="stars-today">⭐ 79566 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23336</span>
+						<span>🔱 1535</span>
+					</div>
+				<div class="stars-today">⭐ 6422 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30183</span>
-						<span>🔱 4851</span>
+						<span>⭐ 30206</span>
+						<span>🔱 4854</span>
 					</div>
 				<div class="stars-today">⭐ 4301 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6852</span>
-						<span>🔱 708</span>
+						<span>⭐ 6886</span>
+						<span>🔱 713</span>
 					</div>
 				<div class="stars-today">⭐ 3554 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6007</span>
-						<span>🔱 554</span>
-					</div>
-				<div class="stars-today">⭐ 1597 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3307</span>
-						<span>🔱 150</span>
+						<span>⭐ 3314</span>
+						<span>🔱 151</span>
 					</div>
 				<div class="stars-today">⭐ 2100 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      ext-apps</a></p>
-				<p>
-      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1356</span>
-						<span>🔱 150</span>
-					</div>
-				<div class="stars-today">⭐ 698 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23217</span>
-						<span>🔱 1525</span>
-					</div>
-				<div class="stars-today">⭐ 6422 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27891</span>
+						<span>⭐ 27898</span>
 						<span>🔱 2267</span>
 					</div>
 				<div class="stars-today">⭐ 1984 stars this week</div>
@@ -192,68 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
     
 
 
       
-        NevaMind-AI /
+        MoonshotAI /
 
-      memU</a></p>
+      kimi-cli</a></p>
 				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+      Kimi Code CLI is your next CLI agent.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7745</span>
-						<span>🔱 591</span>
+						<span>⭐ 6016</span>
+						<span>🔱 554</span>
 					</div>
-				<div class="stars-today">⭐ 2289 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14029</span>
-						<span>🔱 1180</span>
-					</div>
-				<div class="stars-today">⭐ 2080 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pedramamini/Maestro" target="_blank">
-    
-
-
-      
-        pedramamini /
-
-      Maestro</a></p>
-				<p>
-      Agent Orchestration Command Center
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1741</span>
-						<span>🔱 169</span>
-					</div>
-				<div class="stars-today">⭐ 909 stars this week</div>
+				<div class="stars-today">⭐ 1597 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3982</span>
-						<span>🔱 232</span>
+						<span>⭐ 4019</span>
+						<span>🔱 233</span>
 					</div>
 				<div class="stars-today">⭐ 1403 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      playwright-cli</a></p>
+				<p>
+      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2225</span>
+						<span>🔱 92</span>
+					</div>
+				<div class="stars-today">⭐ 642 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pedramamini/Maestro" target="_blank">
+    
+
+
+      
+        pedramamini /
+
+      Maestro</a></p>
+				<p>
+      Agent Orchestration Command Center
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1759</span>
+						<span>🔱 170</span>
+					</div>
+				<div class="stars-today">⭐ 909 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-lightning</a></p>
+				<p>
+      The absolute trainer to light up AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14046</span>
+						<span>🔱 1183</span>
+					</div>
+				<div class="stars-today">⭐ 2080 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7771</span>
+						<span>🔱 594</span>
+					</div>
+				<div class="stars-today">⭐ 2289 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/disler/claude-code-hooks-mastery" target="_blank">
+    
+
+
+      
+        disler /
+
+      claude-code-hooks-mastery</a></p>
+				<p>
+      Master Claude Code Hooks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2514</span>
+						<span>🔱 508</span>
+					</div>
+				<div class="stars-today">⭐ 174 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13428</span>
-						<span>🔱 975</span>
+						<span>⭐ 13455</span>
+						<span>🔱 976</span>
 					</div>
 				<div class="stars-today">⭐ 2845 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      ext-apps</a></p>
+				<p>
+      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1361</span>
+						<span>🔱 150</span>
+					</div>
+				<div class="stars-today">⭐ 698 stars this week</div>
 				</div>
 			</div>
 	

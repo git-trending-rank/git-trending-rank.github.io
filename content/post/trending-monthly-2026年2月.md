@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-05T10:27:53Z
+date: 2026-02-05T12:28:00Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 165660</span>
-						<span>🔱 26188</span>
+						<span>⭐ 166038</span>
+						<span>🔱 26257</span>
 					</div>
 				<div class="stars-today">⭐ 160374 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44901</span>
-						<span>🔱 3404</span>
+						<span>⭐ 44964</span>
+						<span>🔱 3409</span>
 					</div>
 				<div class="stars-today">⭐ 30680 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 98008</span>
-						<span>🔱 9278</span>
+						<span>⭐ 98083</span>
+						<span>🔱 9280</span>
 					</div>
 				<div class="stars-today">⭐ 50686 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6316</span>
-						<span>🔱 438</span>
+						<span>⭐ 6324</span>
+						<span>🔱 439</span>
 					</div>
 				<div class="stars-today">⭐ 5947 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63599</span>
-						<span>🔱 6271</span>
+						<span>⭐ 63673</span>
+						<span>🔱 6283</span>
 					</div>
 				<div class="stars-today">⭐ 30308 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13428</span>
-						<span>🔱 975</span>
+						<span>⭐ 13455</span>
+						<span>🔱 976</span>
 					</div>
 				<div class="stars-today">⭐ 8687 stars this month</div>
 				</div>
@@ -162,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28342</span>
-						<span>🔱 2082</span>
+						<span>⭐ 28376</span>
+						<span>🔱 2085</span>
 					</div>
 				<div class="stars-today">⭐ 21888 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6566</span>
-						<span>🔱 636</span>
-					</div>
-				<div class="stars-today">⭐ 4893 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
-    
-
-
-      
-        remotion-dev /
-
-      remotion</a></p>
-				<p>
-      🎥 Make videos programmatically with React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35065</span>
-						<span>🔱 2124</span>
-					</div>
-				<div class="stars-today">⭐ 9839 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6852</span>
-						<span>🔱 708</span>
+						<span>⭐ 6886</span>
+						<span>🔱 713</span>
 					</div>
 				<div class="stars-today">⭐ 5452 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35080</span>
+						<span>🔱 2125</span>
+					</div>
+				<div class="stars-today">⭐ 9839 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 6575</span>
+						<span>🔱 637</span>
+					</div>
+				<div class="stars-today">⭐ 4893 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30183</span>
-						<span>🔱 4851</span>
+						<span>⭐ 30206</span>
+						<span>🔱 4854</span>
 					</div>
 				<div class="stars-today">⭐ 5373 stars this month</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 64241</span>
-						<span>🔱 4874</span>
+						<span>⭐ 64273</span>
+						<span>🔱 4884</span>
 					</div>
 				<div class="stars-today">⭐ 13326 stars this month</div>
 				</div>
@@ -294,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21311</span>
+						<span>⭐ 21338</span>
 						<span>🔱 2417</span>
 					</div>
 				<div class="stars-today">⭐ 13544 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MiroMindAI/MiroThinker" target="_blank">
-    
-
-
-      
-        MiroMindAI /
-
-      MiroThinker</a></p>
-				<p>
-      MiroThinker is an open source deep research agent optimized for research and prediction. It achieves a 80.8% Avg@8 score on the challenging GAIA benchmark.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6088</span>
-						<span>🔱 449</span>
-					</div>
-				<div class="stars-today">⭐ 4660 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26385</span>
-						<span>🔱 2578</span>
+						<span>⭐ 26448</span>
+						<span>🔱 2584</span>
 					</div>
 				<div class="stars-today">⭐ 5636 stars this month</div>
 				</div>
@@ -360,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30423</span>
-						<span>🔱 2903</span>
+						<span>⭐ 30472</span>
+						<span>🔱 2905</span>
 					</div>
 				<div class="stars-today">⭐ 15763 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23336</span>
+						<span>🔱 1535</span>
+					</div>
+				<div class="stars-today">⭐ 11993 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38020</span>
+						<span>⭐ 38025</span>
 						<span>🔱 7665</span>
 					</div>
 				<div class="stars-today">⭐ 3910 stars this month</div>

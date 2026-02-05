@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-05
-date: 2026-02-05T10:27:53Z
+date: 2026-02-05T12:27:59Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
     
 
 
       
-        thedotmack /
+        bytedance /
 
-      claude-mem</a></p>
+      UI-TARS-desktop</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23217</span>
-						<span>🔱 1525</span>
+						<span>⭐ 26448</span>
+						<span>🔱 2584</span>
 					</div>
-				<div class="stars-today">⭐ 2638 stars today</div>
+				<div class="stars-today">⭐ 862 stars today</div>
 				</div>
 			</div>
 	
@@ -52,142 +52,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3982</span>
-						<span>🔱 232</span>
+						<span>⭐ 4019</span>
+						<span>🔱 233</span>
 					</div>
-				<div class="stars-today">⭐ 746 stars today</div>
+				<div class="stars-today">⭐ 621 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/disler/claude-code-hooks-mastery" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        disler /
+        thedotmack /
 
-      claude-code-hooks-mastery</a></p>
+      claude-mem</a></p>
 				<p>
-      Master Claude Code Hooks
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2501</span>
-						<span>🔱 508</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23336</span>
+						<span>🔱 1535</span>
 					</div>
-				<div class="stars-today">⭐ 47 stars today</div>
+				<div class="stars-today">⭐ 1899 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
+				<p><a href="https://github.com/j178/prek" target="_blank">
     
 
 
       
-        OpenBMB /
+        j178 /
 
-      ChatDev</a></p>
+      prek</a></p>
 				<p>
-      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30120</span>
-						<span>🔱 3718</span>
-					</div>
-				<div class="stars-today">⭐ 227 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ankitects/anki" target="_blank">
-    
-
-
-      
-        ankitects /
-
-      anki</a></p>
-				<p>
-      Anki is a smart spaced repetition flashcard program
+      ⚡ Better `pre-commit`, re-engineered in Rust
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26249</span>
-						<span>🔱 2788</span>
+						<span>⭐ 5339</span>
+						<span>🔱 141</span>
 					</div>
-				<div class="stars-today">⭐ 28 stars today</div>
+				<div class="stars-today">⭐ 739 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/open-telemetry/opentelemetry-collector-contrib" target="_blank">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
     
 
 
       
-        open-telemetry /
+        topoteretes /
 
-      opentelemetry-collector-contrib</a></p>
+      cognee</a></p>
 				<p>
-      Contrib repository for the OpenTelemetry Collector
+      Memory for AI Agents in 6 lines of code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11719</span>
+						<span>🔱 1150</span>
+					</div>
+				<div class="stars-today">⭐ 69 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 44964</span>
+						<span>🔱 3409</span>
+					</div>
+				<div class="stars-today">⭐ 893 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4377</span>
-						<span>🔱 3302</span>
+						<span>⭐ 31283</span>
+						<span>🔱 2907</span>
 					</div>
-				<div class="stars-today">⭐ 3 stars today</div>
+				<div class="stars-today">⭐ 23 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
+				<p><a href="https://github.com/fish-shell/fish-shell" target="_blank">
     
 
 
       
-        Canner /
+        fish-shell /
 
-      WrenAI</a></p>
+      fish-shell</a></p>
 				<p>
-      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
+      The user-friendly command line shell.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14087</span>
-						<span>🔱 1519</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 32282</span>
+						<span>🔱 2211</span>
 					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pedramamini/Maestro" target="_blank">
-    
-
-
-      
-        pedramamini /
-
-      Maestro</a></p>
-				<p>
-      Agent Orchestration Command Center
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1741</span>
-						<span>🔱 169</span>
-					</div>
-				<div class="stars-today">⭐ 187 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 91303</span>
+						<span>⭐ 91312</span>
 						<span>🔱 9824</span>
 					</div>
 				<div class="stars-today">⭐ 35 stars today</div>
@@ -214,68 +214,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/qlib" target="_blank">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
     
 
 
       
-        microsoft /
+        linshenkx /
 
-      qlib</a></p>
+      prompt-optimizer</a></p>
 				<p>
-      Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, including supervised learning, market dynamics modeling, and RL, and is now equipped with https://github.com/microsoft/RD-Agent to automate R&D process.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 36716</span>
-						<span>🔱 5709</span>
-					</div>
-				<div class="stars-today">⭐ 83 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 58355</span>
-						<span>🔱 2651</span>
-					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/likec4/likec4" target="_blank">
-    
-
-
-      
-        likec4 /
-
-      likec4</a></p>
-				<p>
-      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+      一款提示词优化器，助力于编写高质量的提示词
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1611</span>
-						<span>🔱 128</span>
+						<span>⭐ 19238</span>
+						<span>🔱 2391</span>
 					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ZeroTworu/anet" target="_blank">
+    
+
+
+      
+        ZeroTworu /
+
+      anet</a></p>
+				<p>
+      Simple Rust VPN Client / Server
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 271</span>
+						<span>🔱 20</span>
+					</div>
+				<div class="stars-today">⭐ 79 stars today</div>
 				</div>
 			</div>
 	
