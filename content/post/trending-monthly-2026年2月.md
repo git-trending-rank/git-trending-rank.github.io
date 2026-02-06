@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-06T14:31:17Z
+date: 2026-02-06T16:27:22Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 170293</span>
-						<span>🔱 27324</span>
+						<span>⭐ 170592</span>
+						<span>🔱 27386</span>
 					</div>
 				<div class="stars-today">⭐ 164864 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45961</span>
-						<span>🔱 3477</span>
+						<span>⭐ 46026</span>
+						<span>🔱 3484</span>
 					</div>
 				<div class="stars-today">⭐ 31332 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 98995</span>
-						<span>🔱 9384</span>
+						<span>⭐ 99068</span>
+						<span>🔱 9390</span>
 					</div>
 				<div class="stars-today">⭐ 49728 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6395</span>
-						<span>🔱 444</span>
+						<span>⭐ 6404</span>
+						<span>🔱 445</span>
 					</div>
 				<div class="stars-today">⭐ 5951 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64546</span>
-						<span>🔱 6377</span>
+						<span>⭐ 64616</span>
+						<span>🔱 6390</span>
 					</div>
 				<div class="stars-today">⭐ 30463 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13770</span>
+						<span>⭐ 13794</span>
 						<span>🔱 994</span>
 					</div>
 				<div class="stars-today">⭐ 8994 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
-    
-
-
-      
-        code-yeongyu /
-
-      oh-my-opencode</a></p>
-				<p>
-      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28823</span>
-						<span>🔱 2119</span>
-					</div>
-				<div class="stars-today">⭐ 20198 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7504</span>
-						<span>🔱 756</span>
+						<span>⭐ 7544</span>
+						<span>🔱 759</span>
 					</div>
 				<div class="stars-today">⭐ 5773 stars this month</div>
 				</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35292</span>
+						<span>⭐ 35300</span>
 						<span>🔱 2141</span>
 					</div>
 				<div class="stars-today">⭐ 10016 stars this month</div>
@@ -214,24 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
     
 
 
       
-        anthropics /
+        code-yeongyu /
 
-      claude-plugins-official</a></p>
+      oh-my-opencode</a></p>
 				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6707</span>
-						<span>🔱 646</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28862</span>
+						<span>🔱 2118</span>
 					</div>
-				<div class="stars-today">⭐ 4927 stars this month</div>
+				<div class="stars-today">⭐ 20198 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30382</span>
-						<span>🔱 4874</span>
+						<span>⭐ 30395</span>
+						<span>🔱 4876</span>
 					</div>
 				<div class="stars-today">⭐ 5531 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 6728</span>
+						<span>🔱 647</span>
+					</div>
+				<div class="stars-today">⭐ 4927 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8042</span>
+						<span>🔱 613</span>
+					</div>
+				<div class="stars-today">⭐ 4705 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 64758</span>
-						<span>🔱 4926</span>
+						<span>⭐ 64794</span>
+						<span>🔱 4927</span>
 					</div>
 				<div class="stars-today">⭐ 13261 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
-    
-
-
-      
-        lbjlaq /
-
-      Antigravity-Manager</a></p>
-				<p>
-      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21643</span>
-						<span>🔱 2451</span>
-					</div>
-				<div class="stars-today">⭐ 13180 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26999</span>
-						<span>🔱 2638</span>
+						<span>⭐ 27027</span>
+						<span>🔱 2639</span>
 					</div>
 				<div class="stars-today">⭐ 6174 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
     
 
 
       
-        ComposioHQ /
+        lbjlaq /
 
-      awesome-claude-skills</a></p>
+      Antigravity-Manager</a></p>
 				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31141</span>
-						<span>🔱 2993</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 21661</span>
+						<span>🔱 2453</span>
 					</div>
-				<div class="stars-today">⭐ 15839 stars this month</div>
+				<div class="stars-today">⭐ 13180 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24141</span>
-						<span>🔱 1588</span>
+						<span>⭐ 24178</span>
+						<span>🔱 1592</span>
 					</div>
 				<div class="stars-today">⭐ 13297 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DataTalksClub/data-engineering-zoomcamp" target="_blank">
+				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
     
 
 
       
-        DataTalksClub /
+        ComposioHQ /
 
-      data-engineering-zoomcamp</a></p>
+      awesome-claude-skills</a></p>
 				<p>
-      Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 38098</span>
-						<span>🔱 7674</span>
+						<span>🔠 Python</span>
+						<span>⭐ 31192</span>
+						<span>🔱 2996</span>
 					</div>
-				<div class="stars-today">⭐ 3953 stars this month</div>
+				<div class="stars-today">⭐ 15839 stars this month</div>
 				</div>
 			</div>
 	

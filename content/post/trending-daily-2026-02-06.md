@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-06
-date: 2026-02-06T14:31:17Z
+date: 2026-02-06T16:27:22Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26999</span>
-						<span>🔱 2638</span>
-					</div>
-				<div class="stars-today">⭐ 541 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/openai/skills" target="_blank">
@@ -52,142 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4638</span>
-						<span>🔱 257</span>
+						<span>⭐ 4692</span>
+						<span>🔱 262</span>
 					</div>
 				<div class="stars-today">⭐ 583 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
     
 
 
       
-        thedotmack /
+        bytedance /
 
-      claude-mem</a></p>
+      UI-TARS-desktop</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24141</span>
-						<span>🔱 1588</span>
+						<span>⭐ 27027</span>
+						<span>🔱 2639</span>
 					</div>
-				<div class="stars-today">⭐ 801 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/j178/prek" target="_blank">
-    
-
-
-      
-        j178 /
-
-      prek</a></p>
-				<p>
-      ⚡ Better `pre-commit`, re-engineered in Rust
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5664</span>
-						<span>🔱 149</span>
-					</div>
-				<div class="stars-today">⭐ 317 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Memory for AI Agents in 6 lines of code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11985</span>
-						<span>🔱 1172</span>
-					</div>
-				<div class="stars-today">⭐ 256 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 45961</span>
-						<span>🔱 3477</span>
-					</div>
-				<div class="stars-today">⭐ 952 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 31449</span>
-						<span>🔱 2915</span>
-					</div>
-				<div class="stars-today">⭐ 165 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fish-shell/fish-shell" target="_blank">
-    
-
-
-      
-        fish-shell /
-
-      fish-shell</a></p>
-				<p>
-      The user-friendly command line shell.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 32486</span>
-						<span>🔱 2223</span>
-					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
+				<div class="stars-today">⭐ 541 stars today</div>
 				</div>
 			</div>
 	
@@ -206,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 91450</span>
-						<span>🔱 9828</span>
+						<span>⭐ 91463</span>
+						<span>🔱 9830</span>
 					</div>
 				<div class="stars-today">⭐ 132 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+				<p><a href="https://github.com/likec4/likec4" target="_blank">
     
 
 
       
-        linshenkx /
+        likec4 /
 
-      prompt-optimizer</a></p>
+      likec4</a></p>
 				<p>
-      一款提示词优化器，助力于编写高质量的提示词
+      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19594</span>
-						<span>🔱 2417</span>
+						<span>⭐ 1696</span>
+						<span>🔱 133</span>
 					</div>
-				<div class="stars-today">⭐ 329 stars today</div>
+				<div class="stars-today">⭐ 42 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 31471</span>
+						<span>🔱 2916</span>
+					</div>
+				<div class="stars-today">⭐ 165 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +140,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 468</span>
-						<span>🔱 43</span>
+						<span>⭐ 484</span>
+						<span>🔱 44</span>
 					</div>
 				<div class="stars-today">⭐ 189 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 21937</span>
+						<span>🔱 1827</span>
+					</div>
+				<div class="stars-today">⭐ 69 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
+    
+
+
+      
+        DataExpert-io /
+
+      data-engineer-handbook</a></p>
+				<p>
+      This is a repo with links to everything you'd ever want to learn about data engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 39739</span>
+						<span>🔱 7612</span>
+					</div>
+				<div class="stars-today">⭐ 72 stars today</div>
 				</div>
 			</div>
 	
