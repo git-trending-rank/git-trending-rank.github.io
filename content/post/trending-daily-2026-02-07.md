@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-07
-date: 2026-02-07T10:01:03Z
+date: 2026-02-07T11:59:21Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon</a></p>
+				<p>
+      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7888</span>
+						<span>🔱 1084</span>
+					</div>
+				<div class="stars-today">⭐ 3133 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/openai/skills" target="_blank">
@@ -30,76 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5094</span>
-						<span>🔱 289</span>
+						<span>⭐ 5187</span>
+						<span>🔱 290</span>
 					</div>
-				<div class="stars-today">⭐ 583 stars today</div>
+				<div class="stars-today">⭐ 576 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
+				<p><a href="https://github.com/microsoft/litebox" target="_blank">
     
 
 
       
-        bytedance /
+        microsoft /
 
-      UI-TARS-desktop</a></p>
+      litebox</a></p>
 				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+      A security-focused library OS supporting kernel- and user-mode execution
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27219</span>
-						<span>🔱 2651</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 913</span>
+						<span>🔱 40</span>
 					</div>
-				<div class="stars-today">⭐ 573 stars today</div>
+				<div class="stars-today">⭐ 208 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nvm-sh/nvm" target="_blank">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
     
 
 
       
-        nvm-sh /
+        p-e-w /
 
-      nvm</a></p>
+      heretic</a></p>
 				<p>
-      Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4540</span>
+						<span>🔱 441</span>
+					</div>
+				<div class="stars-today">⭐ 61 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 91552</span>
-						<span>🔱 9843</span>
+						<span>⭐ 46554</span>
+						<span>🔱 3531</span>
 					</div>
-				<div class="stars-today">⭐ 131 stars today</div>
+				<div class="stars-today">⭐ 689 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/likec4/likec4" target="_blank">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-o" target="_blank">
     
 
 
       
-        likec4 /
+        OpenBMB /
 
-      likec4</a></p>
+      MiniCPM-o</a></p>
 				<p>
-      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+      A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1908</span>
-						<span>🔱 139</span>
+						<span>🔠 Python</span>
+						<span>⭐ 23068</span>
+						<span>🔱 1755</span>
 					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
+				<div class="stars-today">⭐ 42 stars today</div>
 				</div>
 			</div>
 	
@@ -118,74 +162,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 31590</span>
+						<span>⭐ 31602</span>
 						<span>🔱 2924</span>
 					</div>
-				<div class="stars-today">⭐ 165 stars today</div>
+				<div class="stars-today">⭐ 170 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ZeroTworu/anet" target="_blank">
+				<p><a href="https://github.com/wavetermdev/waveterm" target="_blank">
     
 
 
       
-        ZeroTworu /
+        wavetermdev /
 
-      anet</a></p>
+      waveterm</a></p>
 				<p>
-      Simple Rust VPN Client / Server
+      An open-source, cross-platform terminal for seamless workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 17061</span>
+						<span>🔱 759</span>
+					</div>
+				<div class="stars-today">⭐ 25 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/viarotel-org/escrcpy" target="_blank">
+    
+
+
+      
+        viarotel-org /
+
+      escrcpy</a></p>
+				<p>
+      📱 Display and control your Android device graphically with scrcpy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7694</span>
+						<span>🔱 563</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-claude-skills</a></p>
+				<p>
+      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31539</span>
+						<span>🔱 3029</span>
+					</div>
+				<div class="stars-today">⭐ 594 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/likec4/likec4" target="_blank">
+    
+
+
+      
+        likec4 /
+
+      likec4</a></p>
+				<p>
+      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1934</span>
+						<span>🔱 141</span>
+					</div>
+				<div class="stars-today">⭐ 40 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">
+    
+
+
+      
+        gitbutlerapp /
+
+      gitbutler</a></p>
+				<p>
+      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 587</span>
-						<span>🔱 51</span>
+						<span>⭐ 17744</span>
+						<span>🔱 768</span>
 					</div>
-				<div class="stars-today">⭐ 193 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 22002</span>
-						<span>🔱 1835</span>
-					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DataExpert-io/data-engineer-handbook" target="_blank">
-    
-
-
-      
-        DataExpert-io /
-
-      data-engineer-handbook</a></p>
-				<p>
-      This is a repo with links to everything you'd ever want to learn about data engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 39987</span>
-						<span>🔱 7626</span>
-					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
+				<div class="stars-today">⭐ 66 stars today</div>
 				</div>
 			</div>
 	

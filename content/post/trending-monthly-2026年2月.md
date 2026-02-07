@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-07T10:01:04Z
+date: 2026-02-07T11:59:21Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 172328</span>
-						<span>🔱 27906</span>
+						<span>⭐ 172574</span>
+						<span>🔱 27974</span>
 					</div>
 				<div class="stars-today">⭐ 168498 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 46487</span>
-						<span>🔱 3528</span>
+						<span>⭐ 46554</span>
+						<span>🔱 3531</span>
 					</div>
 				<div class="stars-today">⭐ 32059 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 99442</span>
-						<span>🔱 9456</span>
+						<span>⭐ 99495</span>
+						<span>🔱 9466</span>
 					</div>
 				<div class="stars-today">⭐ 48566 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
-    
-
-
-      
-        frankbria /
-
-      ralph-claude-code</a></p>
-				<p>
-      Autonomous AI development loop for Claude Code with intelligent exit detection
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6434</span>
-						<span>🔱 450</span>
-					</div>
-				<div class="stars-today">⭐ 5936 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 65000</span>
-						<span>🔱 6444</span>
+						<span>⭐ 65052</span>
+						<span>🔱 6449</span>
 					</div>
 				<div class="stars-today">⭐ 30541 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
+    
+
+
+      
+        frankbria /
+
+      ralph-claude-code</a></p>
+				<p>
+      Autonomous AI development loop for Claude Code with intelligent exit detection
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 6437</span>
+						<span>🔱 450</span>
+					</div>
+				<div class="stars-today">⭐ 5936 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13921</span>
+						<span>⭐ 13933</span>
 						<span>🔱 1001</span>
 					</div>
 				<div class="stars-today">⭐ 9233 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7779</span>
-						<span>🔱 790</span>
-					</div>
-				<div class="stars-today">⭐ 6290 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35422</span>
-						<span>🔱 2145</span>
+						<span>⭐ 35435</span>
+						<span>🔱 2146</span>
 					</div>
 				<div class="stars-today">⭐ 10200 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
     
 
 
       
-        code-yeongyu /
+        badlogic /
 
-      oh-my-opencode</a></p>
+      pi-mono</a></p>
 				<p>
-      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29078</span>
-						<span>🔱 2134</span>
+						<span>⭐ 7798</span>
+						<span>🔱 793</span>
 					</div>
-				<div class="stars-today">⭐ 19658 stars this month</div>
+				<div class="stars-today">⭐ 6290 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30474</span>
-						<span>🔱 4886</span>
+						<span>⭐ 30483</span>
+						<span>🔱 4885</span>
 					</div>
 				<div class="stars-today">⭐ 5664 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
+    
+
+
+      
+        code-yeongyu /
+
+      oh-my-opencode</a></p>
+				<p>
+      The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29104</span>
+						<span>🔱 2139</span>
+					</div>
+				<div class="stars-today">⭐ 19658 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 6819</span>
-						<span>🔱 653</span>
+						<span>⭐ 6823</span>
+						<span>🔱 652</span>
 					</div>
 				<div class="stars-today">⭐ 4953 stars this month</div>
 				</div>
@@ -272,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8205</span>
-						<span>🔱 625</span>
+						<span>⭐ 8221</span>
+						<span>🔱 627</span>
 					</div>
 				<div class="stars-today">⭐ 4704 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5187</span>
+						<span>🔱 290</span>
+					</div>
+				<div class="stars-today">⭐ 3459 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 64984</span>
+						<span>⭐ 65003</span>
 						<span>🔱 4953</span>
 					</div>
 				<div class="stars-today">⭐ 13094 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      UI-TARS-desktop</a></p>
-				<p>
-      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27219</span>
-						<span>🔱 2651</span>
-					</div>
-				<div class="stars-today">⭐ 6675 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
-    
-
-
-      
-        lbjlaq /
-
-      Antigravity-Manager</a></p>
-				<p>
-      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21802</span>
-						<span>🔱 2469</span>
-					</div>
-				<div class="stars-today">⭐ 12861 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24433</span>
-						<span>🔱 1611</span>
+						<span>⭐ 24460</span>
+						<span>🔱 1612</span>
 					</div>
 				<div class="stars-today">⭐ 13497 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
+    
+
+
+      
+        lbjlaq /
+
+      Antigravity-Manager</a></p>
+				<p>
+      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21816</span>
+						<span>🔱 2475</span>
+					</div>
+				<div class="stars-today">⭐ 12861 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31485</span>
-						<span>🔱 3025</span>
+						<span>⭐ 31539</span>
+						<span>🔱 3029</span>
 					</div>
 				<div class="stars-today">⭐ 16059 stars this month</div>
 				</div>

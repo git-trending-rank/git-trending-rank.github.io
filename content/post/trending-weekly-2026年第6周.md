@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第6周
-date: 2026-02-07T10:01:03Z
+date: 2026-02-07T11:59:21Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 172328</span>
-						<span>🔱 27906</span>
+						<span>⭐ 172574</span>
+						<span>🔱 27974</span>
 					</div>
 				<div class="stars-today">⭐ 58305 stars this week</div>
 				</div>
@@ -52,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24433</span>
-						<span>🔱 1611</span>
+						<span>⭐ 24460</span>
+						<span>🔱 1612</span>
 					</div>
 				<div class="stars-today">⭐ 8838 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon</a></p>
+				<p>
+      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7888</span>
+						<span>🔱 1084</span>
+					</div>
+				<div class="stars-today">⭐ 3560 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5187</span>
+						<span>🔱 290</span>
+					</div>
+				<div class="stars-today">⭐ 2429 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7779</span>
-						<span>🔱 790</span>
+						<span>⭐ 7798</span>
+						<span>🔱 793</span>
 					</div>
 				<div class="stars-today">⭐ 3892 stars this week</div>
 				</div>
@@ -96,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3441</span>
+						<span>⭐ 3444</span>
 						<span>🔱 156</span>
 					</div>
 				<div class="stars-today">⭐ 2158 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5094</span>
-						<span>🔱 289</span>
-					</div>
-				<div class="stars-today">⭐ 2429 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2635</span>
+						<span>⭐ 2637</span>
 						<span>🔱 522</span>
 					</div>
 				<div class="stars-today">⭐ 460 stars this week</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1917</span>
+						<span>⭐ 1920</span>
 						<span>🔱 174</span>
 					</div>
 				<div class="stars-today">⭐ 1123 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6149</span>
-						<span>🔱 564</span>
-					</div>
-				<div class="stars-today">⭐ 932 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13921</span>
+						<span>⭐ 13933</span>
 						<span>🔱 1001</span>
 					</div>
 				<div class="stars-today">⭐ 3051 stars this week</div>
@@ -214,46 +214,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
     
 
 
       
-        microsoft /
+        OpenBMB /
 
-      BitNet</a></p>
+      ChatDev</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27980</span>
-						<span>🔱 2274</span>
+						<span>⭐ 30448</span>
+						<span>🔱 3757</span>
 					</div>
-				<div class="stars-today">⭐ 1159 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14210</span>
-						<span>🔱 1196</span>
-					</div>
-				<div class="stars-today">⭐ 2270 stars this week</div>
+				<div class="stars-today">⭐ 1392 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42449</span>
-						<span>🔱 5482</span>
+						<span>⭐ 42454</span>
+						<span>🔱 5483</span>
 					</div>
 				<div class="stars-today">⭐ 1380 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+				<p><a href="https://github.com/j178/prek" target="_blank">
     
 
 
       
-        NevaMind-AI /
+        j178 /
 
-      memU</a></p>
+      prek</a></p>
 				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+      ⚡ Better `pre-commit`, re-engineered in Rust
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8205</span>
-						<span>🔱 625</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 5758</span>
+						<span>🔱 153</span>
 					</div>
-				<div class="stars-today">⭐ 1737 stars this week</div>
+				<div class="stars-today">⭐ 1656 stars this week</div>
 				</div>
 			</div>
 	
