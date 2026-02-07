@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第6周
-date: 2026-02-06T22:00:18Z
+date: 2026-02-07T00:01:52Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 171113</span>
-						<span>🔱 27552</span>
+						<span>⭐ 171235</span>
+						<span>🔱 27590</span>
 					</div>
-				<div class="stars-today">⭐ 68757 stars this week</div>
+				<div class="stars-today">⭐ 58305 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24267</span>
-						<span>🔱 1596</span>
+						<span>⭐ 24297</span>
+						<span>🔱 1601</span>
 					</div>
-				<div class="stars-today">⭐ 8130 stars this week</div>
+				<div class="stars-today">⭐ 8838 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7641</span>
-						<span>🔱 767</span>
+						<span>⭐ 7670</span>
+						<span>🔱 771</span>
 					</div>
-				<div class="stars-today">⭐ 3578 stars this week</div>
+				<div class="stars-today">⭐ 3892 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3422</span>
+						<span>⭐ 3424</span>
 						<span>🔱 155</span>
 					</div>
-				<div class="stars-today">⭐ 2190 stars this week</div>
+				<div class="stars-today">⭐ 2158 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4801</span>
-						<span>🔱 272</span>
+						<span>⭐ 4842</span>
+						<span>🔱 277</span>
 					</div>
-				<div class="stars-today">⭐ 1887 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      playwright-cli</a></p>
-				<p>
-      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2354</span>
-						<span>🔱 94</span>
-					</div>
-				<div class="stars-today">⭐ 620 stars this week</div>
+				<div class="stars-today">⭐ 2429 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2607</span>
-						<span>🔱 518</span>
+						<span>⭐ 2612</span>
+						<span>🔱 519</span>
 					</div>
-				<div class="stars-today">⭐ 397 stars this week</div>
+				<div class="stars-today">⭐ 460 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1891</span>
+						<span>⭐ 1897</span>
 						<span>🔱 172</span>
 					</div>
-				<div class="stars-today">⭐ 1054 stars this week</div>
+				<div class="stars-today">⭐ 1123 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6115</span>
+						<span>⭐ 6118</span>
 						<span>🔱 564</span>
 					</div>
-				<div class="stars-today">⭐ 1226 stars this week</div>
+				<div class="stars-today">⭐ 932 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13834</span>
+						<span>⭐ 13843</span>
 						<span>🔱 998</span>
 					</div>
-				<div class="stars-today">⭐ 2960 stars this week</div>
+				<div class="stars-today">⭐ 3051 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27962</span>
-						<span>🔱 2273</span>
+						<span>⭐ 27965</span>
+						<span>🔱 2274</span>
 					</div>
-				<div class="stars-today">⭐ 2054 stars this week</div>
+				<div class="stars-today">⭐ 1159 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14178</span>
-						<span>🔱 1193</span>
+						<span>⭐ 14180</span>
+						<span>🔱 1194</span>
 					</div>
-				<div class="stars-today">⭐ 2206 stars this week</div>
+				<div class="stars-today">⭐ 2270 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42407</span>
-						<span>🔱 5472</span>
+						<span>⭐ 42413</span>
+						<span>🔱 5474</span>
 					</div>
-				<div class="stars-today">⭐ 1328 stars this week</div>
+				<div class="stars-today">⭐ 1380 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8099</span>
-						<span>🔱 616</span>
+						<span>⭐ 8112</span>
+						<span>🔱 619</span>
 					</div>
-				<div class="stars-today">⭐ 1952 stars this week</div>
+				<div class="stars-today">⭐ 1737 stars this week</div>
 				</div>
 			</div>
 	
