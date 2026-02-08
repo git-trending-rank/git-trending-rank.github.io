@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-08T11:59:14Z
+date: 2026-02-08T14:15:34Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 175199</span>
-						<span>🔱 28699</span>
+						<span>⭐ 175512</span>
+						<span>🔱 28768</span>
 					</div>
 				<div class="stars-today">⭐ 170809 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47345</span>
-						<span>🔱 3598</span>
+						<span>⭐ 47421</span>
+						<span>🔱 3604</span>
 					</div>
 				<div class="stars-today">⭐ 32513 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100057</span>
-						<span>🔱 9551</span>
+						<span>⭐ 100133</span>
+						<span>🔱 9563</span>
 					</div>
 				<div class="stars-today">⭐ 47348 stars this month</div>
 				</div>
@@ -96,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 65587</span>
-						<span>🔱 6514</span>
+						<span>⭐ 65659</span>
+						<span>🔱 6526</span>
 					</div>
 				<div class="stars-today">⭐ 30433 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
     
 
 
       
-        frankbria /
+        iOfficeAI /
 
-      ralph-claude-code</a></p>
+      AionUi</a></p>
 				<p>
-      Autonomous AI development loop for Claude Code with intelligent exit detection
+      Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6482</span>
-						<span>🔱 455</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12924</span>
+						<span>🔱 993</span>
 					</div>
-				<div class="stars-today">⭐ 5885 stars this month</div>
+				<div class="stars-today">⭐ 9603 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14140</span>
-						<span>🔱 1015</span>
+						<span>⭐ 14166</span>
+						<span>🔱 1018</span>
 					</div>
 				<div class="stars-today">⭐ 9161 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
-    
-
-
-      
-        remotion-dev /
-
-      remotion</a></p>
-				<p>
-      🎥 Make videos programmatically with React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35560</span>
-						<span>🔱 2155</span>
-					</div>
-				<div class="stars-today">⭐ 10348 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8020</span>
-						<span>🔱 828</span>
+						<span>⭐ 8042</span>
+						<span>🔱 835</span>
 					</div>
 				<div class="stars-today">⭐ 6569 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35587</span>
+						<span>🔱 2157</span>
+					</div>
+				<div class="stars-today">⭐ 10348 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
+    
+
+
+      
+        frankbria /
+
+      ralph-claude-code</a></p>
+				<p>
+      Autonomous AI development loop for Claude Code with intelligent exit detection
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 6488</span>
+						<span>🔱 456</span>
+					</div>
+				<div class="stars-today">⭐ 5885 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,76 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30645</span>
-						<span>🔱 4908</span>
+						<span>⭐ 30656</span>
+						<span>🔱 4907</span>
 					</div>
 				<div class="stars-today">⭐ 5755 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
-    
-
-
-      
-        code-yeongyu /
-
-      oh-my-opencode</a></p>
-				<p>
-      the best agent harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29411</span>
-						<span>🔱 2165</span>
-					</div>
-				<div class="stars-today">⭐ 18688 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6927</span>
-						<span>🔱 662</span>
-					</div>
-				<div class="stars-today">⭐ 4975 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8367</span>
-						<span>🔱 640</span>
-					</div>
-				<div class="stars-today">⭐ 4830 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6580</span>
-						<span>🔱 372</span>
+						<span>⭐ 6730</span>
+						<span>🔱 379</span>
 					</div>
 				<div class="stars-today">⭐ 4010 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
+    
+
+
+      
+        code-yeongyu /
+
+      oh-my-opencode</a></p>
+				<p>
+      the best agent harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29447</span>
+						<span>🔱 2168</span>
+					</div>
+				<div class="stars-today">⭐ 18688 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8385</span>
+						<span>🔱 642</span>
+					</div>
+				<div class="stars-today">⭐ 4830 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
     
 
 
       
         anthropics /
 
-      claude-code</a></p>
+      claude-plugins-official</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 65239</span>
-						<span>🔱 4984</span>
+						<span>⭐ 6938</span>
+						<span>🔱 666</span>
 					</div>
-				<div class="stars-today">⭐ 12971 stars this month</div>
+				<div class="stars-today">⭐ 4975 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25075</span>
-						<span>🔱 1652</span>
+						<span>⭐ 25182</span>
+						<span>🔱 1661</span>
 					</div>
 				<div class="stars-today">⭐ 13218 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
-    
-
-
-      
-        lbjlaq /
-
-      Antigravity-Manager</a></p>
-				<p>
-      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22022</span>
-						<span>🔱 2498</span>
-					</div>
-				<div class="stars-today">⭐ 12437 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32379</span>
-						<span>🔱 3098</span>
+						<span>⭐ 32467</span>
+						<span>🔱 3109</span>
 					</div>
 				<div class="stars-today">⭐ 16140 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
+    
+
+
+      
+        ThePrimeagen /
+
+      99</a></p>
+				<p>
+      Neovim AI agent done right
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 3493</span>
+						<span>🔱 158</span>
+					</div>
+				<div class="stars-today">⭐ 2503 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
+    
+
+
+      
+        lbjlaq /
+
+      Antigravity-Manager</a></p>
+				<p>
+      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 22049</span>
+						<span>🔱 2503</span>
+					</div>
+				<div class="stars-today">⭐ 12437 stars this month</div>
 				</div>
 			</div>
 	
