@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-09
-date: 2026-02-09T08:33:53Z
+date: 2026-02-09T10:47:35Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14649</span>
-						<span>🔱 1638</span>
+						<span>⭐ 15186</span>
+						<span>🔱 1685</span>
 					</div>
 				<div class="stars-today">⭐ 3479 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pydantic/monty" target="_blank">
-    
-
-
-      
-        pydantic /
-
-      monty</a></p>
-				<p>
-      A minimal, secure Python interpreter written in Rust for use by AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3271</span>
-						<span>🔱 103</span>
-					</div>
-				<div class="stars-today">⭐ 456 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7239</span>
-						<span>🔱 412</span>
-					</div>
-				<div class="stars-today">⭐ 1425 stars today</div>
 				</div>
 			</div>
 	
@@ -96,120 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13024</span>
-						<span>🔱 1572</span>
+						<span>⭐ 13110</span>
+						<span>🔱 1581</span>
 					</div>
 				<div class="stars-today">⭐ 1039 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/litebox" target="_blank">
+				<p><a href="https://github.com/pydantic/monty" target="_blank">
     
 
 
       
-        microsoft /
+        pydantic /
 
-      litebox</a></p>
+      monty</a></p>
 				<p>
-      A security-focused library OS supporting kernel- and user-mode execution
+      A minimal, secure Python interpreter written in Rust for use by AI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1563</span>
-						<span>🔱 68</span>
+						<span>⭐ 3407</span>
+						<span>🔱 110</span>
 					</div>
-				<div class="stars-today">⭐ 359 stars today</div>
+				<div class="stars-today">⭐ 456 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
     
 
 
       
-        google /
+        hsliuping /
 
-      langextract</a></p>
+      TradingAgents-CN</a></p>
 				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24977</span>
-						<span>🔱 1722</span>
+						<span>⭐ 16043</span>
+						<span>🔱 3550</span>
 					</div>
-				<div class="stars-today">⭐ 438 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 48126</span>
-						<span>🔱 3653</span>
-					</div>
-				<div class="stars-today">⭐ 813 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-o" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      MiniCPM-o</a></p>
-				<p>
-      A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23521</span>
-						<span>🔱 1797</span>
-					</div>
-				<div class="stars-today">⭐ 212 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/likec4/likec4" target="_blank">
-    
-
-
-      
-        likec4 /
-
-      likec4</a></p>
-				<p>
-      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2480</span>
-						<span>🔱 163</span>
-					</div>
-				<div class="stars-today">⭐ 271 stars today</div>
+				<div class="stars-today">⭐ 278 stars today</div>
 				</div>
 			</div>
 	
@@ -228,32 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13438</span>
-						<span>🔱 1028</span>
+						<span>⭐ 13513</span>
+						<span>🔱 1035</span>
 					</div>
 				<div class="stars-today">⭐ 335 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/home-assistant/addons" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        home-assistant /
+        public-apis /
 
-      addons</a></p>
+      public-apis</a></p>
 				<p>
-      ➕ Docker add-ons for Home Assistant
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 2062</span>
-						<span>🔱 1764</span>
+						<span>🔠 Python</span>
+						<span>⭐ 396713</span>
+						<span>🔱 42457</span>
 					</div>
-				<div class="stars-today">⭐ 11 stars today</div>
+				<div class="stars-today">⭐ 663 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 609</span>
+						<span>🔱 65</span>
+					</div>
+				<div class="stars-today">⭐ 15 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 92956</span>
+						<span>🔱 13488</span>
+					</div>
+				<div class="stars-today">⭐ 230 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18473</span>
-						<span>🔱 799</span>
+						<span>⭐ 18510</span>
+						<span>🔱 798</span>
 					</div>
 				<div class="stars-today">⭐ 414 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/litebox" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      litebox</a></p>
+				<p>
+      A security-focused library OS supporting kernel- and user-mode execution
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1598</span>
+						<span>🔱 69</span>
+					</div>
+				<div class="stars-today">⭐ 359 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7307</span>
+						<span>🔱 415</span>
+					</div>
+				<div class="stars-today">⭐ 1425 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
+    
+
+
+      
+        EveryInc /
+
+      compound-engineering-plugin</a></p>
+				<p>
+      Official Claude Code compound engineering plugin
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7616</span>
+						<span>🔱 607</span>
+					</div>
+				<div class="stars-today">⭐ 161 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
+    
+
+
+      
+        DrewThomasson /
+
+      ebook2audiobook</a></p>
+				<p>
+      Generate audiobooks from e-books, voice cloning & 1158+ languages!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17639</span>
+						<span>🔱 1430</span>
+					</div>
+				<div class="stars-today">⭐ 140 stars today</div>
 				</div>
 			</div>
 	

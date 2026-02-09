@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-09T08:33:53Z
+date: 2026-02-09T10:47:35Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 177843</span>
-						<span>🔱 29342</span>
+						<span>⭐ 178191</span>
+						<span>🔱 29419</span>
 					</div>
 				<div class="stars-today">⭐ 173310 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 48126</span>
-						<span>🔱 3653</span>
+						<span>⭐ 48218</span>
+						<span>🔱 3660</span>
 					</div>
 				<div class="stars-today">⭐ 32946 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 100700</span>
-						<span>🔱 9654</span>
+						<span>⭐ 100807</span>
+						<span>🔱 9674</span>
 					</div>
 				<div class="stars-today">⭐ 45981 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66182</span>
-						<span>🔱 6597</span>
+						<span>⭐ 66289</span>
+						<span>🔱 6604</span>
 					</div>
 				<div class="stars-today">⭐ 30302 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13438</span>
-						<span>🔱 1028</span>
+						<span>⭐ 13513</span>
+						<span>🔱 1035</span>
 					</div>
 				<div class="stars-today">⭐ 9617 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14367</span>
-						<span>🔱 1038</span>
+						<span>⭐ 14398</span>
+						<span>🔱 1041</span>
 					</div>
 				<div class="stars-today">⭐ 9236 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8271</span>
-						<span>🔱 860</span>
+						<span>⭐ 8313</span>
+						<span>🔱 863</span>
 					</div>
 				<div class="stars-today">⭐ 6737 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
-    
-
-
-      
-        tobi /
-
-      qmd</a></p>
-				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7420</span>
-						<span>🔱 370</span>
-					</div>
-				<div class="stars-today">⭐ 6581 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35730</span>
-						<span>🔱 2166</span>
+						<span>⭐ 35749</span>
+						<span>🔱 2168</span>
 					</div>
 				<div class="stars-today">⭐ 10479 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
-    
-
-
-      
-        frankbria /
-
-      ralph-claude-code</a></p>
-				<p>
-      Autonomous AI development loop for Claude Code with intelligent exit detection
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6527</span>
-						<span>🔱 459</span>
-					</div>
-				<div class="stars-today">⭐ 5822 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 30734</span>
-						<span>🔱 4923</span>
-					</div>
-				<div class="stars-today">⭐ 5865 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7239</span>
-						<span>🔱 412</span>
+						<span>⭐ 7307</span>
+						<span>🔱 415</span>
 					</div>
 				<div class="stars-today">⭐ 5362 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tobi/qmd" target="_blank">
+    
+
+
+      
+        tobi /
+
+      qmd</a></p>
+				<p>
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7449</span>
+						<span>🔱 372</span>
+					</div>
+				<div class="stars-today">⭐ 6581 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 30745</span>
+						<span>🔱 4923</span>
+					</div>
+				<div class="stars-today">⭐ 5865 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
+    
+
+
+      
+        frankbria /
+
+      ralph-claude-code</a></p>
+				<p>
+      Autonomous AI development loop for Claude Code with intelligent exit detection
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 6534</span>
+						<span>🔱 459</span>
+					</div>
+				<div class="stars-today">⭐ 5822 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon</a></p>
+				<p>
+      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15186</span>
+						<span>🔱 1685</span>
+					</div>
+				<div class="stars-today">⭐ 8495 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29704</span>
-						<span>🔱 2197</span>
+						<span>⭐ 29760</span>
+						<span>🔱 2201</span>
 					</div>
 				<div class="stars-today">⭐ 17955 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8509</span>
-						<span>🔱 652</span>
-					</div>
-				<div class="stars-today">⭐ 4846 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 7030</span>
-						<span>🔱 675</span>
-					</div>
-				<div class="stars-today">⭐ 4971 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25894</span>
-						<span>🔱 1713</span>
+						<span>⭐ 25969</span>
+						<span>🔱 1721</span>
 					</div>
 				<div class="stars-today">⭐ 13110 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8527</span>
+						<span>🔱 654</span>
+					</div>
+				<div class="stars-today">⭐ 4846 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32920</span>
-						<span>🔱 3156</span>
+						<span>⭐ 32975</span>
+						<span>🔱 3159</span>
 					</div>
 				<div class="stars-today">⭐ 16387 stars this month</div>
 				</div>
@@ -404,32 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3550</span>
-						<span>🔱 164</span>
+						<span>⭐ 3562</span>
+						<span>🔱 165</span>
 					</div>
 				<div class="stars-today">⭐ 2533 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lbjlaq/Antigravity-Manager" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
     
 
 
       
-        lbjlaq /
+        anthropics /
 
-      Antigravity-Manager</a></p>
+      claude-plugins-official</a></p>
 				<p>
-      Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22234</span>
-						<span>🔱 2524</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 7041</span>
+						<span>🔱 676</span>
 					</div>
-				<div class="stars-today">⭐ 12160 stars this month</div>
+				<div class="stars-today">⭐ 4971 stars this month</div>
 				</div>
 			</div>
 	
