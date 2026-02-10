@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 10 Feb 2026 10:40:04 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 10 Feb 2026 12:39:43 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-02-10</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-02-10/</link>
-        <pubDate>Tue, 10 Feb 2026 10:40:04 +0000</pubDate>
+        <pubDate>Tue, 10 Feb 2026 12:39:43 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-02-10/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,90 +19,24 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/KeygraphHQ/shannon&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/langextract&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        KeygraphHQ /
+        google /
 
-      shannon&lt;/a&gt;&lt;/p&gt;
+      langextract&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 18751&lt;/span&gt;
-						&lt;span&gt;🔱 1935&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4144 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/dexter&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        virattt /
-
-      dexter&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An autonomous agent for deep financial research
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 13872&lt;/span&gt;
-						&lt;span&gt;🔱 1654&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1115 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/pydantic/monty&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        pydantic /
-
-      monty&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A minimal, secure Python interpreter written in Rust for use by AI
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 4267&lt;/span&gt;
-						&lt;span&gt;🔱 155&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1291 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/hsliuping/TradingAgents-CN&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16539&lt;/span&gt;
-						&lt;span&gt;🔱 3601&lt;/span&gt;
+						&lt;span&gt;⭐ 26704&lt;/span&gt;
+						&lt;span&gt;🔱 1832&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 149 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 531 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,32 +55,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14137&lt;/span&gt;
-						&lt;span&gt;🔱 1083&lt;/span&gt;
+						&lt;span&gt;⭐ 14172&lt;/span&gt;
+						&lt;span&gt;🔱 1084&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 673 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/public-apis/public-apis&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/KeygraphHQ/shannon&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        public-apis /
+        KeygraphHQ /
 
-      public-apis&lt;/a&gt;&lt;/p&gt;
+      shannon&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A collective list of free APIs
+      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 397531&lt;/span&gt;
-						&lt;span&gt;🔱 42513&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 19054&lt;/span&gt;
+						&lt;span&gt;🔱 1957&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 410 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4144 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,98 +99,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 1103&lt;/span&gt;
-						&lt;span&gt;🔱 93&lt;/span&gt;
+						&lt;span&gt;⭐ 1140&lt;/span&gt;
+						&lt;span&gt;🔱 95&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 260 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 93378&lt;/span&gt;
-						&lt;span&gt;🔱 13548&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 227 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/gitbutlerapp/gitbutler&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        gitbutlerapp /
-
-      gitbutler&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 18754&lt;/span&gt;
-						&lt;span&gt;🔱 810&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 376 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/litebox&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      litebox&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A security-focused library OS supporting kernel- and user-mode execution
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 1803&lt;/span&gt;
-						&lt;span&gt;🔱 77&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 354 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openai /
-
-      skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Skills Catalog for Codex
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7729&lt;/span&gt;
-						&lt;span&gt;🔱 439&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 707 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,7 +121,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8018&lt;/span&gt;
+						&lt;span&gt;⭐ 8038&lt;/span&gt;
 						&lt;span&gt;🔱 637&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 185 stars today&lt;/div&gt;
@@ -283,24 +129,200 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/DrewThomasson/ebook2audiobook&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hsliuping/TradingAgents-CN&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        DrewThomasson /
+        hsliuping /
 
-      ebook2audiobook&lt;/a&gt;&lt;/p&gt;
+      TradingAgents-CN&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Generate audiobooks from e-books, voice cloning &amp; 1158+ languages!
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 18020&lt;/span&gt;
-						&lt;span&gt;🔱 1460&lt;/span&gt;
+						&lt;span&gt;⭐ 16567&lt;/span&gt;
+						&lt;span&gt;🔱 3607&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 147 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 149 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/gitbutlerapp/gitbutler&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        gitbutlerapp /
+
+      gitbutler&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 18781&lt;/span&gt;
+						&lt;span&gt;🔱 810&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 376 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/carlvellotti/claude-code-pm-course&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        carlvellotti /
+
+      claude-code-pm-course&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Interactive course teaching Product Managers how to use Claude Code effectively
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 MDX&lt;/span&gt;
+						&lt;span&gt;⭐ 666&lt;/span&gt;
+						&lt;span&gt;🔱 139&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 46 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Shubhamsaboo/awesome-llm-apps&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 93402&lt;/span&gt;
+						&lt;span&gt;🔱 13554&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 227 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/drawdb-io/drawdb&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        drawdb-io /
+
+      drawdb&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 36058&lt;/span&gt;
+						&lt;span&gt;🔱 2831&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 113 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pydantic/monty&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pydantic /
+
+      monty&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A minimal, secure Python interpreter written in Rust for use by AI
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 4316&lt;/span&gt;
+						&lt;span&gt;🔱 157&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1291 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cheahjs/free-llm-api-resources&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cheahjs /
+
+      free-llm-api-resources&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A list of free LLM inference resources accessible via API.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 8461&lt;/span&gt;
+						&lt;span&gt;🔱 840&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 108 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Jeffallan/claude-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 490&lt;/span&gt;
+						&lt;span&gt;🔱 56&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 33 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/dexter&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        virattt /
+
+      dexter&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An autonomous agent for deep financial research
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 13906&lt;/span&gt;
+						&lt;span&gt;🔱 1660&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1115 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

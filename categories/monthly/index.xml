@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 10 Feb 2026 10:40:05 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 10 Feb 2026 12:39:44 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年2月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B42%E6%9C%88/</link>
-        <pubDate>Tue, 10 Feb 2026 10:40:05 +0000</pubDate>
+        <pubDate>Tue, 10 Feb 2026 12:39:44 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B42%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 181298&lt;/span&gt;
-						&lt;span&gt;🔱 30170&lt;/span&gt;
+						&lt;span&gt;⭐ 181557&lt;/span&gt;
+						&lt;span&gt;🔱 30228&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 176362 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,54 +55,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 48915&lt;/span&gt;
-						&lt;span&gt;🔱 3701&lt;/span&gt;
+						&lt;span&gt;⭐ 48974&lt;/span&gt;
+						&lt;span&gt;🔱 3703&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 33497 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anomalyco /
-
-      opencode&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The open source coding agent.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 101519&lt;/span&gt;
-						&lt;span&gt;🔱 9759&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 44902 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Public repository for Agent Skills
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 67037&lt;/span&gt;
-						&lt;span&gt;🔱 6684&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 30374 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14137&lt;/span&gt;
-						&lt;span&gt;🔱 1083&lt;/span&gt;
+						&lt;span&gt;⭐ 14172&lt;/span&gt;
+						&lt;span&gt;🔱 1084&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10248 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -143,10 +99,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 14578&lt;/span&gt;
-						&lt;span&gt;🔱 1058&lt;/span&gt;
+						&lt;span&gt;⭐ 14595&lt;/span&gt;
+						&lt;span&gt;🔱 1060&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9458 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Public repository for Agent Skills
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 67089&lt;/span&gt;
+						&lt;span&gt;🔱 6693&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 30374 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,10 +143,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9661&lt;/span&gt;
-						&lt;span&gt;🔱 956&lt;/span&gt;
+						&lt;span&gt;⭐ 9738&lt;/span&gt;
+						&lt;span&gt;🔱 964&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6990 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anomalyco/opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anomalyco /
+
+      opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open source coding agent.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 101572&lt;/span&gt;
+						&lt;span&gt;🔱 9771&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 44902 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 35928&lt;/span&gt;
-						&lt;span&gt;🔱 2179&lt;/span&gt;
+						&lt;span&gt;⭐ 35948&lt;/span&gt;
+						&lt;span&gt;🔱 2180&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10663 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -209,8 +209,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7729&lt;/span&gt;
-						&lt;span&gt;🔱 439&lt;/span&gt;
+						&lt;span&gt;⭐ 7758&lt;/span&gt;
+						&lt;span&gt;🔱 441&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6027 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -231,7 +231,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 7694&lt;/span&gt;
+						&lt;span&gt;⭐ 7705&lt;/span&gt;
 						&lt;span&gt;🔱 396&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6704 stars this month&lt;/div&gt;
@@ -253,54 +253,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 30852&lt;/span&gt;
-						&lt;span&gt;🔱 4931&lt;/span&gt;
+						&lt;span&gt;⭐ 30863&lt;/span&gt;
+						&lt;span&gt;🔱 4930&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5928 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NoeFabris/opencode-antigravity-auth&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NoeFabris /
-
-      opencode-antigravity-auth&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8023&lt;/span&gt;
-						&lt;span&gt;🔱 544&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6470 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/frankbria/ralph-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        frankbria /
-
-      ralph-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Autonomous AI development loop for Claude Code with intelligent exit detection
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 6594&lt;/span&gt;
-						&lt;span&gt;🔱 461&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5731 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,32 +275,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 18751&lt;/span&gt;
-						&lt;span&gt;🔱 1935&lt;/span&gt;
+						&lt;span&gt;⭐ 19054&lt;/span&gt;
+						&lt;span&gt;🔱 1957&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12202 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/code-yeongyu/oh-my-opencode&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NoeFabris/opencode-antigravity-auth&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        code-yeongyu /
+        NoeFabris /
 
-      oh-my-opencode&lt;/a&gt;&lt;/p&gt;
+      opencode-antigravity-auth&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      the best agent harness
+      Enable Opencode to authenticate against Antigravity (Google&#39;s IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 30094&lt;/span&gt;
-						&lt;span&gt;🔱 2231&lt;/span&gt;
+						&lt;span&gt;⭐ 8035&lt;/span&gt;
+						&lt;span&gt;🔱 544&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17541 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6470 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -363,10 +319,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 26569&lt;/span&gt;
-						&lt;span&gt;🔱 1771&lt;/span&gt;
+						&lt;span&gt;⭐ 26611&lt;/span&gt;
+						&lt;span&gt;🔱 1773&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13547 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/code-yeongyu/oh-my-opencode&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        code-yeongyu /
+
+      oh-my-opencode&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      the best agent harness
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 30135&lt;/span&gt;
+						&lt;span&gt;🔱 2231&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17541 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -385,7 +363,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8724&lt;/span&gt;
+						&lt;span&gt;⭐ 8740&lt;/span&gt;
 						&lt;span&gt;🔱 664&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4547 stars this month&lt;/div&gt;
@@ -393,24 +371,24 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ComposioHQ/awesome-claude-skills&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/frankbria/ralph-claude-code&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ComposioHQ /
+        frankbria /
 
-      awesome-claude-skills&lt;/a&gt;&lt;/p&gt;
+      ralph-claude-code&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+      Autonomous AI development loop for Claude Code with intelligent exit detection
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 33441&lt;/span&gt;
-						&lt;span&gt;🔱 3200&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 6597&lt;/span&gt;
+						&lt;span&gt;🔱 461&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16455 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5731 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -429,32 +407,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Lua&lt;/span&gt;
-						&lt;span&gt;⭐ 3615&lt;/span&gt;
+						&lt;span&gt;⭐ 3617&lt;/span&gt;
 						&lt;span&gt;🔱 169&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2602 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-plugins-official&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 7143&lt;/span&gt;
-						&lt;span&gt;🔱 678&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4897 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
