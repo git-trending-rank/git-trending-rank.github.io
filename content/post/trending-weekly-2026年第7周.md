@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第7周
-date: 2026-02-10T10:40:04Z
+date: 2026-02-10T12:39:43Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18751</span>
-						<span>🔱 1935</span>
+						<span>⭐ 19054</span>
+						<span>🔱 1957</span>
 					</div>
 				<div class="stars-today">⭐ 11444 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7729</span>
-						<span>🔱 439</span>
+						<span>⭐ 7758</span>
+						<span>🔱 441</span>
 					</div>
 				<div class="stars-today">⭐ 5086 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26569</span>
-						<span>🔱 1771</span>
+						<span>⭐ 26611</span>
+						<span>🔱 1773</span>
 					</div>
 				<div class="stars-today">⭐ 8856 stars this week</div>
 				</div>
@@ -96,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9661</span>
-						<span>🔱 956</span>
+						<span>⭐ 9738</span>
+						<span>🔱 964</span>
 					</div>
 				<div class="stars-today">⭐ 3013 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 181298</span>
-						<span>🔱 30170</span>
-					</div>
-				<div class="stars-today">⭐ 30956 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/disler/claude-code-hooks-mastery" target="_blank">
-    
-
-
-      
-        disler /
-
-      claude-code-hooks-mastery</a></p>
-				<p>
-      Master Claude Code Hooks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2825</span>
-						<span>🔱 540</span>
-					</div>
-				<div class="stars-today">⭐ 623 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13872</span>
-						<span>🔱 1654</span>
+						<span>⭐ 13906</span>
+						<span>🔱 1660</span>
 					</div>
 				<div class="stars-today">⭐ 3510 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/disler/claude-code-hooks-mastery" target="_blank">
+    
+
+
+      
+        disler /
+
+      claude-code-hooks-mastery</a></p>
+				<p>
+      Master Claude Code Hooks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2829</span>
+						<span>🔱 540</span>
+					</div>
+				<div class="stars-today">⭐ 623 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1140</span>
+						<span>🔱 95</span>
+					</div>
+				<div class="stars-today">⭐ 322 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7694</span>
+						<span>⭐ 7705</span>
 						<span>🔱 396</span>
 					</div>
 				<div class="stars-today">⭐ 1911 stars this week</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30715</span>
+						<span>⭐ 30722</span>
 						<span>🔱 3794</span>
 					</div>
 				<div class="stars-today">⭐ 1462 stars this week</div>
@@ -214,134 +214,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS-desktop" target="_blank">
     
 
 
       
-        karpathy /
+        bytedance /
 
-      nanochat</a></p>
+      UI-TARS-desktop</a></p>
 				<p>
-      The best ChatGPT that $100 can buy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42790</span>
-						<span>🔱 5534</span>
-					</div>
-				<div class="stars-today">⭐ 1287 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1103</span>
-						<span>🔱 93</span>
-					</div>
-				<div class="stars-today">⭐ 322 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
-    
-
-
-      
-        ThePrimeagen /
-
-      99</a></p>
-				<p>
-      Neovim AI agent done right
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 3615</span>
-						<span>🔱 169</span>
-					</div>
-				<div class="stars-today">⭐ 679 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">
-    
-
-
-      
-        gitbutlerapp /
-
-      gitbutler</a></p>
-				<p>
-      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18754</span>
-						<span>🔱 810</span>
-					</div>
-				<div class="stars-today">⭐ 992 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pedramamini/Maestro" target="_blank">
-    
-
-
-      
-        pedramamini /
-
-      Maestro</a></p>
-				<p>
-      Agent Orchestration Command Center
+      The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2100</span>
-						<span>🔱 195</span>
+						<span>⭐ 27633</span>
+						<span>🔱 2705</span>
 					</div>
-				<div class="stars-today">⭐ 918 stars this week</div>
+				<div class="stars-today">⭐ 2435 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
+				<p><a href="https://github.com/bytedance/UI-TARS" target="_blank">
     
 
 
       
-        microsoft /
+        bytedance /
 
-      playwright-cli</a></p>
+      UI-TARS</a></p>
 				<p>
-      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+      Pioneering Automated GUI Interaction with Native Agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2967</span>
-						<span>🔱 119</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9466</span>
+						<span>🔱 685</span>
 					</div>
-				<div class="stars-today">⭐ 655 stars this week</div>
+				<div class="stars-today">⭐ 305 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14304</span>
+						<span>⭐ 14306</span>
 						<span>🔱 1530</span>
 					</div>
 				<div class="stars-today">⭐ 581 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10950</span>
+						<span>🔱 1260</span>
+					</div>
+				<div class="stars-today">⭐ 393 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
+    
+
+
+      
+        ThePrimeagen /
+
+      99</a></p>
+				<p>
+      Neovim AI agent done right
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 3617</span>
+						<span>🔱 169</span>
+					</div>
+				<div class="stars-today">⭐ 679 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8724</span>
+						<span>⭐ 8740</span>
 						<span>🔱 664</span>
 					</div>
 				<div class="stars-today">⭐ 1582 stars this week</div>

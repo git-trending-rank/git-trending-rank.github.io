@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-10T10:40:05Z
+date: 2026-02-10T12:39:44Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 181298</span>
-						<span>🔱 30170</span>
+						<span>⭐ 181557</span>
+						<span>🔱 30228</span>
 					</div>
 				<div class="stars-today">⭐ 176362 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 48915</span>
-						<span>🔱 3701</span>
+						<span>⭐ 48974</span>
+						<span>🔱 3703</span>
 					</div>
 				<div class="stars-today">⭐ 33497 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 101519</span>
-						<span>🔱 9759</span>
-					</div>
-				<div class="stars-today">⭐ 44902 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 67037</span>
-						<span>🔱 6684</span>
-					</div>
-				<div class="stars-today">⭐ 30374 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14137</span>
-						<span>🔱 1083</span>
+						<span>⭐ 14172</span>
+						<span>🔱 1084</span>
 					</div>
 				<div class="stars-today">⭐ 10248 stars this month</div>
 				</div>
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14578</span>
-						<span>🔱 1058</span>
+						<span>⭐ 14595</span>
+						<span>🔱 1060</span>
 					</div>
 				<div class="stars-today">⭐ 9458 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 67089</span>
+						<span>🔱 6693</span>
+					</div>
+				<div class="stars-today">⭐ 30374 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9661</span>
-						<span>🔱 956</span>
+						<span>⭐ 9738</span>
+						<span>🔱 964</span>
 					</div>
 				<div class="stars-today">⭐ 6990 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 101572</span>
+						<span>🔱 9771</span>
+					</div>
+				<div class="stars-today">⭐ 44902 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35928</span>
-						<span>🔱 2179</span>
+						<span>⭐ 35948</span>
+						<span>🔱 2180</span>
 					</div>
 				<div class="stars-today">⭐ 10663 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7729</span>
-						<span>🔱 439</span>
+						<span>⭐ 7758</span>
+						<span>🔱 441</span>
 					</div>
 				<div class="stars-today">⭐ 6027 stars this month</div>
 				</div>
@@ -228,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7694</span>
+						<span>⭐ 7705</span>
 						<span>🔱 396</span>
 					</div>
 				<div class="stars-today">⭐ 6704 stars this month</div>
@@ -250,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 30852</span>
-						<span>🔱 4931</span>
+						<span>⭐ 30863</span>
+						<span>🔱 4930</span>
 					</div>
 				<div class="stars-today">⭐ 5928 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NoeFabris/opencode-antigravity-auth" target="_blank">
-    
-
-
-      
-        NoeFabris /
-
-      opencode-antigravity-auth</a></p>
-				<p>
-      Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8023</span>
-						<span>🔱 544</span>
-					</div>
-				<div class="stars-today">⭐ 6470 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
-    
-
-
-      
-        frankbria /
-
-      ralph-claude-code</a></p>
-				<p>
-      Autonomous AI development loop for Claude Code with intelligent exit detection
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 6594</span>
-						<span>🔱 461</span>
-					</div>
-				<div class="stars-today">⭐ 5731 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18751</span>
-						<span>🔱 1935</span>
+						<span>⭐ 19054</span>
+						<span>🔱 1957</span>
 					</div>
 				<div class="stars-today">⭐ 12202 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
+				<p><a href="https://github.com/NoeFabris/opencode-antigravity-auth" target="_blank">
     
 
 
       
-        code-yeongyu /
+        NoeFabris /
 
-      oh-my-opencode</a></p>
+      opencode-antigravity-auth</a></p>
 				<p>
-      the best agent harness
+      Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30094</span>
-						<span>🔱 2231</span>
+						<span>⭐ 8035</span>
+						<span>🔱 544</span>
 					</div>
-				<div class="stars-today">⭐ 17541 stars this month</div>
+				<div class="stars-today">⭐ 6470 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26569</span>
-						<span>🔱 1771</span>
+						<span>⭐ 26611</span>
+						<span>🔱 1773</span>
 					</div>
 				<div class="stars-today">⭐ 13547 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
+    
+
+
+      
+        code-yeongyu /
+
+      oh-my-opencode</a></p>
+				<p>
+      the best agent harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30135</span>
+						<span>🔱 2231</span>
+					</div>
+				<div class="stars-today">⭐ 17541 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8724</span>
+						<span>⭐ 8740</span>
 						<span>🔱 664</span>
 					</div>
 				<div class="stars-today">⭐ 4547 stars this month</div>
@@ -390,24 +368,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-claude-skills" target="_blank">
+				<p><a href="https://github.com/frankbria/ralph-claude-code" target="_blank">
     
 
 
       
-        ComposioHQ /
+        frankbria /
 
-      awesome-claude-skills</a></p>
+      ralph-claude-code</a></p>
 				<p>
-      A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+      Autonomous AI development loop for Claude Code with intelligent exit detection
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33441</span>
-						<span>🔱 3200</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 6597</span>
+						<span>🔱 461</span>
 					</div>
-				<div class="stars-today">⭐ 16455 stars this month</div>
+				<div class="stars-today">⭐ 5731 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3615</span>
+						<span>⭐ 3617</span>
 						<span>🔱 169</span>
 					</div>
 				<div class="stars-today">⭐ 2602 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 7143</span>
-						<span>🔱 678</span>
-					</div>
-				<div class="stars-today">⭐ 4897 stars this month</div>
 				</div>
 			</div>
 	

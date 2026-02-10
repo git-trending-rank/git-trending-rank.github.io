@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-10
-date: 2026-02-10T10:40:04Z
+date: 2026-02-10T12:39:43Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+				<p><a href="https://github.com/google/langextract" target="_blank">
     
 
 
       
-        KeygraphHQ /
+        google /
 
-      shannon</a></p>
+      langextract</a></p>
 				<p>
-      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18751</span>
-						<span>🔱 1935</span>
-					</div>
-				<div class="stars-today">⭐ 4144 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
-    
-
-
-      
-        virattt /
-
-      dexter</a></p>
-				<p>
-      An autonomous agent for deep financial research
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13872</span>
-						<span>🔱 1654</span>
-					</div>
-				<div class="stars-today">⭐ 1115 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pydantic/monty" target="_blank">
-    
-
-
-      
-        pydantic /
-
-      monty</a></p>
-				<p>
-      A minimal, secure Python interpreter written in Rust for use by AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4267</span>
-						<span>🔱 155</span>
-					</div>
-				<div class="stars-today">⭐ 1291 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16539</span>
-						<span>🔱 3601</span>
+						<span>⭐ 26704</span>
+						<span>🔱 1832</span>
 					</div>
-				<div class="stars-today">⭐ 149 stars today</div>
+				<div class="stars-today">⭐ 531 stars today</div>
 				</div>
 			</div>
 	
@@ -118,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14137</span>
-						<span>🔱 1083</span>
+						<span>⭐ 14172</span>
+						<span>🔱 1084</span>
 					</div>
 				<div class="stars-today">⭐ 673 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
     
 
 
       
-        public-apis /
+        KeygraphHQ /
 
-      public-apis</a></p>
+      shannon</a></p>
 				<p>
-      A collective list of free APIs
+      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 397531</span>
-						<span>🔱 42513</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19054</span>
+						<span>🔱 1957</span>
 					</div>
-				<div class="stars-today">⭐ 410 stars today</div>
+				<div class="stars-today">⭐ 4144 stars today</div>
 				</div>
 			</div>
 	
@@ -162,98 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1103</span>
-						<span>🔱 93</span>
+						<span>⭐ 1140</span>
+						<span>🔱 95</span>
 					</div>
 				<div class="stars-today">⭐ 260 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 93378</span>
-						<span>🔱 13548</span>
-					</div>
-				<div class="stars-today">⭐ 227 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">
-    
-
-
-      
-        gitbutlerapp /
-
-      gitbutler</a></p>
-				<p>
-      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 18754</span>
-						<span>🔱 810</span>
-					</div>
-				<div class="stars-today">⭐ 376 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/litebox" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      litebox</a></p>
-				<p>
-      A security-focused library OS supporting kernel- and user-mode execution
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 1803</span>
-						<span>🔱 77</span>
-					</div>
-				<div class="stars-today">⭐ 354 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7729</span>
-						<span>🔱 439</span>
-					</div>
-				<div class="stars-today">⭐ 707 stars today</div>
 				</div>
 			</div>
 	
@@ -272,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8018</span>
+						<span>⭐ 8038</span>
 						<span>🔱 637</span>
 					</div>
 				<div class="stars-today">⭐ 185 stars today</div>
@@ -280,24 +126,200 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/DrewThomasson/ebook2audiobook" target="_blank">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
     
 
 
       
-        DrewThomasson /
+        hsliuping /
 
-      ebook2audiobook</a></p>
+      TradingAgents-CN</a></p>
 				<p>
-      Generate audiobooks from e-books, voice cloning & 1158+ languages!
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18020</span>
-						<span>🔱 1460</span>
+						<span>⭐ 16567</span>
+						<span>🔱 3607</span>
 					</div>
-				<div class="stars-today">⭐ 147 stars today</div>
+				<div class="stars-today">⭐ 149 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">
+    
+
+
+      
+        gitbutlerapp /
+
+      gitbutler</a></p>
+				<p>
+      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 18781</span>
+						<span>🔱 810</span>
+					</div>
+				<div class="stars-today">⭐ 376 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/carlvellotti/claude-code-pm-course" target="_blank">
+    
+
+
+      
+        carlvellotti /
+
+      claude-code-pm-course</a></p>
+				<p>
+      Interactive course teaching Product Managers how to use Claude Code effectively
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 666</span>
+						<span>🔱 139</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 93402</span>
+						<span>🔱 13554</span>
+					</div>
+				<div class="stars-today">⭐ 227 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/drawdb-io/drawdb" target="_blank">
+    
+
+
+      
+        drawdb-io /
+
+      drawdb</a></p>
+				<p>
+      Free, simple, and intuitive online database diagram editor and SQL generator.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 36058</span>
+						<span>🔱 2831</span>
+					</div>
+				<div class="stars-today">⭐ 113 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pydantic/monty" target="_blank">
+    
+
+
+      
+        pydantic /
+
+      monty</a></p>
+				<p>
+      A minimal, secure Python interpreter written in Rust for use by AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 4316</span>
+						<span>🔱 157</span>
+					</div>
+				<div class="stars-today">⭐ 1291 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cheahjs/free-llm-api-resources" target="_blank">
+    
+
+
+      
+        cheahjs /
+
+      free-llm-api-resources</a></p>
+				<p>
+      A list of free LLM inference resources accessible via API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8461</span>
+						<span>🔱 840</span>
+					</div>
+				<div class="stars-today">⭐ 108 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills</a></p>
+				<p>
+      65 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 490</span>
+						<span>🔱 56</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13906</span>
+						<span>🔱 1660</span>
+					</div>
+				<div class="stars-today">⭐ 1115 stars today</div>
 				</div>
 			</div>
 	
