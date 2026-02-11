@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第7周
-date: 2026-02-11T10:35:16Z
+date: 2026-02-11T12:34:30Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20265</span>
-						<span>🔱 2059</span>
+						<span>⭐ 20332</span>
+						<span>🔱 2064</span>
 					</div>
 				<div class="stars-today">⭐ 14952 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7927</span>
-						<span>🔱 449</span>
+						<span>⭐ 7945</span>
+						<span>🔱 450</span>
 					</div>
 				<div class="stars-today">⭐ 5111 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27067</span>
-						<span>🔱 1805</span>
+						<span>⭐ 27100</span>
+						<span>🔱 1809</span>
 					</div>
 				<div class="stars-today">⭐ 7739 stars this week</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10532</span>
-						<span>🔱 1042</span>
+						<span>⭐ 10587</span>
+						<span>🔱 1045</span>
 					</div>
 				<div class="stars-today">⭐ 3847 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1517</span>
+						<span>🔱 113</span>
+					</div>
+				<div class="stars-today">⭐ 811 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14390</span>
-						<span>🔱 1725</span>
+						<span>⭐ 14444</span>
+						<span>🔱 1728</span>
 					</div>
 				<div class="stars-today">⭐ 4024 stars this week</div>
 				</div>
@@ -140,32 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2908</span>
-						<span>🔱 541</span>
+						<span>⭐ 2911</span>
+						<span>🔱 542</span>
 					</div>
 				<div class="stars-today">⭐ 611 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
     
 
 
       
-        github /
+        Jeffallan /
 
-      gh-aw</a></p>
+      claude-skills</a></p>
 				<p>
-      GitHub Agentic Workflows
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1490</span>
-						<span>🔱 112</span>
+						<span>🔠 Python</span>
+						<span>⭐ 1113</span>
+						<span>🔱 90</span>
 					</div>
-				<div class="stars-today">⭐ 811 stars this week</div>
+				<div class="stars-today">⭐ 350 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/langextract" target="_blank">
+    
+
+
+      
+        google /
+
+      langextract</a></p>
+				<p>
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29834</span>
+						<span>🔱 1991</span>
+					</div>
+				<div class="stars-today">⭐ 3377 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7888</span>
+						<span>⭐ 7902</span>
 						<span>🔱 407</span>
 					</div>
 				<div class="stars-today">⭐ 1836 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      ChatDev</a></p>
-				<p>
-      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30844</span>
-						<span>🔱 3802</span>
-					</div>
-				<div class="stars-today">⭐ 1078 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27749</span>
-						<span>🔱 2711</span>
+						<span>⭐ 27757</span>
+						<span>🔱 2712</span>
 					</div>
 				<div class="stars-today">⭐ 2470 stars this week</div>
 				</div>
@@ -250,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9507</span>
-						<span>🔱 688</span>
+						<span>⭐ 9512</span>
+						<span>🔱 689</span>
 					</div>
 				<div class="stars-today">⭐ 320 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Canner/WrenAI" target="_blank">
-    
-
-
-      
-        Canner /
-
-      WrenAI</a></p>
-				<p>
-      ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14368</span>
-						<span>🔱 1536</span>
-					</div>
-				<div class="stars-today">⭐ 559 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11008</span>
-						<span>🔱 1267</span>
+						<span>⭐ 11010</span>
+						<span>🔱 1268</span>
 					</div>
 				<div class="stars-today">⭐ 397 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
     
 
 
       
-        ThePrimeagen /
+        hsliuping /
 
-      99</a></p>
+      TradingAgents-CN</a></p>
 				<p>
-      Neovim AI agent done right
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 3665</span>
-						<span>🔱 174</span>
-					</div>
-				<div class="stars-today">⭐ 523 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8916</span>
-						<span>🔱 676</span>
+						<span>⭐ 16912</span>
+						<span>🔱 3658</span>
 					</div>
-				<div class="stars-today">⭐ 1555 stars this week</div>
+				<div class="stars-today">⭐ 1356 stars this week</div>
 				</div>
 			</div>
 	
