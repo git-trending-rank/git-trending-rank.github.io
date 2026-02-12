@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-12T10:31:06Z
+date: 2026-02-12T12:31:21Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 187328</span>
-						<span>🔱 31613</span>
+						<span>⭐ 187572</span>
+						<span>🔱 31657</span>
 					</div>
 				<div class="stars-today">⭐ 181994 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/agent-skills" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      agent-skills</a></p>
+				<p>
+      Vercel's official collection of agent skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 19983</span>
+						<span>🔱 1829</span>
+					</div>
+				<div class="stars-today">⭐ 20010 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 50228</span>
-						<span>🔱 3802</span>
+						<span>⭐ 50267</span>
+						<span>🔱 3805</span>
 					</div>
 				<div class="stars-today">⭐ 33335 stars this month</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15110</span>
-						<span>🔱 1147</span>
+						<span>⭐ 15144</span>
+						<span>🔱 1150</span>
 					</div>
 				<div class="stars-today">⭐ 11550 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
-    
-
-
-      
-        eigent-ai /
-
-      eigent</a></p>
-				<p>
-      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12328</span>
-						<span>🔱 1421</span>
-					</div>
-				<div class="stars-today">⭐ 9597 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11037</span>
-						<span>🔱 1097</span>
+						<span>⭐ 11069</span>
+						<span>🔱 1104</span>
 					</div>
 				<div class="stars-today">⭐ 9151 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14901</span>
+						<span>⭐ 14908</span>
 						<span>🔱 1082</span>
 					</div>
 				<div class="stars-today">⭐ 9723 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20931</span>
-						<span>🔱 2128</span>
+						<span>⭐ 20972</span>
+						<span>🔱 2130</span>
 					</div>
 				<div class="stars-today">⭐ 16863 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68549</span>
-						<span>🔱 6884</span>
+						<span>⭐ 68597</span>
+						<span>🔱 6888</span>
 					</div>
 				<div class="stars-today">⭐ 30785 stars this month</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36289</span>
+						<span>⭐ 36299</span>
 						<span>🔱 2210</span>
 					</div>
 				<div class="stars-today">⭐ 11028 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 103045</span>
-						<span>🔱 9960</span>
-					</div>
-				<div class="stars-today">⭐ 42183 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8107</span>
+						<span>⭐ 8119</span>
 						<span>🔱 455</span>
 					</div>
 				<div class="stars-today">⭐ 6576 stars this month</div>
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 31195</span>
-						<span>🔱 4990</span>
+						<span>⭐ 31205</span>
+						<span>🔱 4994</span>
 					</div>
 				<div class="stars-today">⭐ 6180 stars this month</div>
 				</div>
@@ -294,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8072</span>
-						<span>🔱 419</span>
+						<span>⭐ 8080</span>
+						<span>🔱 422</span>
 					</div>
 				<div class="stars-today">⭐ 7076 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
+    
+
+
+      
+        eigent-ai /
+
+      eigent</a></p>
+				<p>
+      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12329</span>
+						<span>🔱 1423</span>
+					</div>
+				<div class="stars-today">⭐ 9597 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 103116</span>
+						<span>🔱 9964</span>
+					</div>
+				<div class="stars-today">⭐ 42183 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27427</span>
-						<span>🔱 1833</span>
+						<span>⭐ 27452</span>
+						<span>🔱 1836</span>
 					</div>
 				<div class="stars-today">⭐ 14236 stars this month</div>
 				</div>
@@ -346,28 +368,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NoeFabris/opencode-antigravity-auth" target="_blank">
-    
-
-
-      
-        NoeFabris /
-
-      opencode-antigravity-auth</a></p>
-				<p>
-      Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8217</span>
-						<span>🔱 551</span>
-					</div>
-				<div class="stars-today">⭐ 6338 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
     
 
@@ -382,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9034</span>
-						<span>🔱 689</span>
+						<span>⭐ 9044</span>
+						<span>🔱 690</span>
 					</div>
 				<div class="stars-today">⭐ 4599 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/code-yeongyu/oh-my-opencode" target="_blank">
-    
-
-
-      
-        code-yeongyu /
-
-      oh-my-opencode</a></p>
-				<p>
-      the best agent harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30832</span>
-						<span>🔱 2291</span>
-					</div>
-				<div class="stars-today">⭐ 16871 stars this month</div>
 				</div>
 			</div>
 	
