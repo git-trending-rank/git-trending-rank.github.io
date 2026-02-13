@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第7周
-date: 2026-02-13T10:26:29Z
+date: 2026-02-13T12:26:28Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21401</span>
-						<span>🔱 2164</span>
+						<span>⭐ 21407</span>
+						<span>🔱 2167</span>
 					</div>
 				<div class="stars-today">⭐ 16805 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/langextract" target="_blank">
+    
+
+
+      
+        google /
+
+      langextract</a></p>
+				<p>
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31774</span>
+						<span>🔱 2115</span>
+					</div>
+				<div class="stars-today">⭐ 6996 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2106</span>
+						<span>🔱 148</span>
+					</div>
+				<div class="stars-today">⭐ 1594 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8275</span>
+						<span>⭐ 8285</span>
 						<span>🔱 461</span>
 					</div>
 				<div class="stars-today">⭐ 4141 stars this week</div>
@@ -74,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1970</span>
-						<span>🔱 132</span>
+						<span>⭐ 2001</span>
+						<span>🔱 133</span>
 					</div>
 				<div class="stars-today">⭐ 1124 stars this week</div>
 				</div>
@@ -96,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14956</span>
-						<span>🔱 1810</span>
+						<span>⭐ 14952</span>
+						<span>🔱 1812</span>
 					</div>
 				<div class="stars-today">⭐ 4197 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
-    
-
-
-      
-        google /
-
-      langextract</a></p>
-				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31740</span>
-						<span>🔱 2118</span>
-					</div>
-				<div class="stars-today">⭐ 6996 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,98 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11442</span>
-						<span>🔱 1147</span>
+						<span>⭐ 11475</span>
+						<span>🔱 1143</span>
 					</div>
 				<div class="stars-today">⭐ 4215 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27728</span>
-						<span>🔱 1860</span>
-					</div>
-				<div class="stars-today">⭐ 4200 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20855</span>
-						<span>🔱 2531</span>
-					</div>
-				<div class="stars-today">⭐ 1536 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/disler/claude-code-hooks-mastery" target="_blank">
-    
-
-
-      
-        disler /
-
-      claude-code-hooks-mastery</a></p>
-				<p>
-      Master Claude Code Hooks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3019</span>
-						<span>🔱 546</span>
-					</div>
-				<div class="stars-today">⭐ 469 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
-    
-
-
-      
-        tobi /
-
-      qmd</a></p>
-				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8230</span>
-						<span>🔱 438</span>
-					</div>
-				<div class="stars-today">⭐ 1632 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17181</span>
-						<span>🔱 3703</span>
+						<span>⭐ 17173</span>
+						<span>🔱 3698</span>
 					</div>
 				<div class="stars-today">⭐ 1488 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27722</span>
+						<span>🔱 1863</span>
+					</div>
+				<div class="stars-today">⭐ 4200 stars this week</div>
 				</div>
 			</div>
 	
@@ -280,28 +236,6 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 398214</span>
-						<span>🔱 42603</span>
-					</div>
-				<div class="stars-today">⭐ 2887 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/chenyme/grok2api" target="_blank">
     
 
@@ -316,10 +250,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1397</span>
+						<span>⭐ 1396</span>
 						<span>🔱 438</span>
 					</div>
 				<div class="stars-today">⭐ 342 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
+    
+
+
+      
+        linshenkx /
+
+      prompt-optimizer</a></p>
+				<p>
+      一款提示词优化器，助力于编写高质量的提示词
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20852</span>
+						<span>🔱 2528</span>
+					</div>
+				<div class="stars-today">⭐ 1536 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tobi/qmd" target="_blank">
+    
+
+
+      
+        tobi /
+
+      qmd</a></p>
+				<p>
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8232</span>
+						<span>🔱 439</span>
+					</div>
+				<div class="stars-today">⭐ 1632 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 94531</span>
+						<span>🔱 13688</span>
+					</div>
+				<div class="stars-today">⭐ 2074 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/likec4/likec4" target="_blank">
+    
+
+
+      
+        likec4 /
+
+      likec4</a></p>
+				<p>
+      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2589</span>
+						<span>🔱 174</span>
+					</div>
+				<div class="stars-today">⭐ 962 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      RD-Agent</a></p>
+				<p>
+      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11090</span>
+						<span>🔱 1282</span>
+					</div>
+				<div class="stars-today">⭐ 294 stars this week</div>
 				</div>
 			</div>
 	

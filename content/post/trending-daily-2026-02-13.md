@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-13
-date: 2026-02-13T10:26:29Z
+date: 2026-02-13T12:26:28Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
+				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
     
 
 
       
-        tambo-ai /
+        SynkraAI /
 
-      tambo</a></p>
+      aios-core</a></p>
 				<p>
-      Generative UI SDK for React
+      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9291</span>
-						<span>🔱 450</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 298</span>
+						<span>🔱 175</span>
 					</div>
-				<div class="stars-today">⭐ 300 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7764</span>
-						<span>🔱 1108</span>
-					</div>
-				<div class="stars-today">⭐ 351 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
-    
-
-
-      
-        google /
-
-      langextract</a></p>
-				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31740</span>
-						<span>🔱 2118</span>
-					</div>
-				<div class="stars-today">⭐ 1122 stars today</div>
+				<div class="stars-today">⭐ 105 stars today</div>
 				</div>
 			</div>
 	
@@ -96,186 +52,116 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24551</span>
-						<span>🔱 1460</span>
+						<span>⭐ 24556</span>
+						<span>🔱 1461</span>
 					</div>
 				<div class="stars-today">⭐ 436 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/PowerToys" target="_blank">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
     
 
 
       
-        microsoft /
+        danielmiessler /
 
-      PowerToys</a></p>
+      Personal_AI_Infrastructure</a></p>
 				<p>
-      Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 129736</span>
-						<span>🔱 7711</span>
-					</div>
-				<div class="stars-today">⭐ 316 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      AionUi</a></p>
-				<p>
-      Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+      Agentic AI Infrastructure for magnifying HUMAN capabilities.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15615</span>
-						<span>🔱 1183</span>
+						<span>⭐ 7796</span>
+						<span>🔱 1109</span>
 					</div>
-				<div class="stars-today">⭐ 271 stars today</div>
+				<div class="stars-today">⭐ 351 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        patchy631 /
 
-      awesome-llm-apps</a></p>
+      ai-engineering-hub</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 94542</span>
-						<span>🔱 13702</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 29006</span>
+						<span>🔱 4732</span>
 					</div>
-				<div class="stars-today">⭐ 287 stars today</div>
+				<div class="stars-today">⭐ 386 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+				<p><a href="https://github.com/TelegramMessenger/MTProxy" target="_blank">
     
 
 
       
-        rowboatlabs /
+        TelegramMessenger /
 
-      rowboat</a></p>
-				<p>
-      Open-source AI coworker, with memory
-    </p>
+      MTProxy</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5372</span>
-						<span>🔱 430</span>
+						<span>🔠 C</span>
+						<span>⭐ 5805</span>
+						<span>🔱 994</span>
 					</div>
-				<div class="stars-today">⭐ 191 stars today</div>
+				<div class="stars-today">⭐ 48 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
+				<p><a href="https://github.com/google-deepmind/superhuman" target="_blank">
     
 
 
       
-        github /
+        google-deepmind /
 
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
+      superhuman</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2098</span>
-						<span>🔱 148</span>
-					</div>
-				<div class="stars-today">⭐ 405 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52145</span>
-						<span>🔱 4315</span>
+						<span>🔠 TeX</span>
+						<span>⭐ 274</span>
+						<span>🔱 21</span>
 					</div>
 				<div class="stars-today">⭐ 81 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cinnyapp/cinny" target="_blank">
+				<p><a href="https://github.com/cheahjs/free-llm-api-resources" target="_blank">
     
 
 
       
-        cinnyapp /
+        cheahjs /
 
-      cinny</a></p>
+      free-llm-api-resources</a></p>
 				<p>
-      Yet another matrix client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2936</span>
-						<span>🔱 396</span>
-					</div>
-				<div class="stars-today">⭐ 38 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+      A list of free LLM inference resources accessible via API.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1970</span>
-						<span>🔱 132</span>
+						<span>⭐ 10318</span>
+						<span>🔱 1001</span>
 					</div>
-				<div class="stars-today">⭐ 278 stars today</div>
+				<div class="stars-today">⭐ 1012 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +180,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 21040</span>
+						<span>⭐ 21056</span>
 						<span>🔱 4983</span>
 					</div>
 				<div class="stars-today">⭐ 361 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/THUDM/slime" target="_blank">
+    
+
+
+      
+        THUDM /
+
+      slime</a></p>
+				<p>
+      slime is an LLM post-training framework for RL Scaling.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3993</span>
+						<span>🔱 523</span>
+					</div>
+				<div class="stars-today">⭐ 85 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/DebugSwift/DebugSwift" target="_blank">
+    
+
+
+      
+        DebugSwift /
+
+      DebugSwift</a></p>
+				<p>
+      A toolkit to make debugging iOS applications easier 🚀
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 1275</span>
+						<span>🔱 119</span>
+					</div>
+				<div class="stars-today">⭐ 50 stars today</div>
 				</div>
 			</div>
 	

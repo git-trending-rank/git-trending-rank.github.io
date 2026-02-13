@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-13T10:26:30Z
+date: 2026-02-13T12:26:28Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 190443</span>
-						<span>🔱 32372</span>
+						<span>⭐ 190554</span>
+						<span>🔱 32394</span>
 					</div>
 				<div class="stars-today">⭐ 184746 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20133</span>
-						<span>🔱 1833</span>
+						<span>⭐ 20132</span>
+						<span>🔱 1829</span>
 					</div>
 				<div class="stars-today">⭐ 20027 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 50810</span>
-						<span>🔱 3839</span>
-					</div>
-				<div class="stars-today">⭐ 32435 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15615</span>
-						<span>🔱 1183</span>
+						<span>⭐ 15623</span>
+						<span>🔱 1184</span>
 					</div>
 				<div class="stars-today">⭐ 11808 stars this month</div>
 				</div>
@@ -118,32 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11442</span>
-						<span>🔱 1147</span>
+						<span>⭐ 11475</span>
+						<span>🔱 1143</span>
 					</div>
 				<div class="stars-today">⭐ 9580 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        VectifyAI /
+        obra /
 
-      PageIndex</a></p>
+      superpowers</a></p>
 				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15006</span>
-						<span>🔱 1090</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 50829</span>
+						<span>🔱 3836</span>
 					</div>
-				<div class="stars-today">⭐ 9721 stars this month</div>
+				<div class="stars-today">⭐ 32435 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21401</span>
-						<span>🔱 2164</span>
+						<span>⭐ 21407</span>
+						<span>🔱 2167</span>
 					</div>
 				<div class="stars-today">⭐ 17455 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        anthropics /
+        VectifyAI /
 
-      skills</a></p>
+      PageIndex</a></p>
 				<p>
-      Public repository for Agent Skills
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69151</span>
-						<span>🔱 6958</span>
+						<span>⭐ 15007</span>
+						<span>🔱 1090</span>
 					</div>
-				<div class="stars-today">⭐ 30672 stars this month</div>
+				<div class="stars-today">⭐ 9721 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36409</span>
+						<span>⭐ 36403</span>
 						<span>🔱 2219</span>
 					</div>
 				<div class="stars-today">⭐ 11178 stars this month</div>
@@ -214,24 +192,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        openai /
+        anthropics /
 
       skills</a></p>
 				<p>
-      Skills Catalog for Codex
+      Public repository for Agent Skills
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8275</span>
-						<span>🔱 461</span>
+						<span>⭐ 69161</span>
+						<span>🔱 6957</span>
 					</div>
-				<div class="stars-today">⭐ 6707 stars this month</div>
+				<div class="stars-today">⭐ 30672 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 31337</span>
-						<span>🔱 5014</span>
+						<span>⭐ 31330</span>
+						<span>🔱 5008</span>
 					</div>
 				<div class="stars-today">⭐ 6318 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8285</span>
+						<span>🔱 461</span>
+					</div>
+				<div class="stars-today">⭐ 6707 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8230</span>
-						<span>🔱 438</span>
+						<span>⭐ 8232</span>
+						<span>🔱 439</span>
 					</div>
 				<div class="stars-today">⭐ 6653 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
-    
-
-
-      
-        eigent-ai /
-
-      eigent</a></p>
-				<p>
-      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12379</span>
-						<span>🔱 1429</span>
-					</div>
-				<div class="stars-today">⭐ 9641 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 103749</span>
-						<span>🔱 10038</span>
+						<span>⭐ 103751</span>
+						<span>🔱 10032</span>
 					</div>
 				<div class="stars-today">⭐ 39755 stars this month</div>
 				</div>
@@ -338,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27728</span>
-						<span>🔱 1860</span>
+						<span>⭐ 27722</span>
+						<span>🔱 1863</span>
 					</div>
 				<div class="stars-today">⭐ 14358 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
+    
+
+
+      
+        eigent-ai /
+
+      eigent</a></p>
+				<p>
+      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12374</span>
+						<span>🔱 1429</span>
+					</div>
+				<div class="stars-today">⭐ 9641 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3753</span>
+						<span>⭐ 3752</span>
 						<span>🔱 178</span>
 					</div>
 				<div class="stars-today">⭐ 2730 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9137</span>
-						<span>🔱 699</span>
-					</div>
-				<div class="stars-today">⭐ 4655 stars this month</div>
 				</div>
 			</div>
 	
