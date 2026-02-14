@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第7周
-date: 2026-02-14T10:01:38Z
+date: 2026-02-14T11:59:27Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21786</span>
-						<span>🔱 2192</span>
+						<span>⭐ 21815</span>
+						<span>🔱 2194</span>
 					</div>
 				<div class="stars-today">⭐ 16589 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pydantic/monty" target="_blank">
+    
+
+
+      
+        pydantic /
+
+      monty</a></p>
+				<p>
+      A minimal, secure Python interpreter written in Rust for use by AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5201</span>
+						<span>🔱 185</span>
+					</div>
+				<div class="stars-today">⭐ 3539 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32121</span>
-						<span>🔱 2143</span>
+						<span>⭐ 32135</span>
+						<span>🔱 2144</span>
 					</div>
 				<div class="stars-today">⭐ 7832 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2253</span>
-						<span>🔱 165</span>
+						<span>⭐ 2275</span>
+						<span>🔱 167</span>
 					</div>
 				<div class="stars-today">⭐ 1750 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8428</span>
-						<span>🔱 471</span>
-					</div>
-				<div class="stars-today">⭐ 3747 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2319</span>
+						<span>⭐ 2340</span>
 						<span>🔱 154</span>
 					</div>
 				<div class="stars-today">⭐ 1711 stars this week</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15063</span>
+						<span>⭐ 15072</span>
 						<span>🔱 1806</span>
 					</div>
 				<div class="stars-today">⭐ 4352 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8443</span>
+						<span>🔱 472</span>
+					</div>
+				<div class="stars-today">⭐ 3747 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11800</span>
-						<span>🔱 1178</span>
+						<span>⭐ 11839</span>
+						<span>🔱 1183</span>
 					</div>
 				<div class="stars-today">⭐ 4044 stars this week</div>
 				</div>
@@ -184,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17234</span>
-						<span>🔱 3709</span>
+						<span>⭐ 17240</span>
+						<span>🔱 3710</span>
 					</div>
 				<div class="stars-today">⭐ 1568 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/MiniCPM-o" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      MiniCPM-o</a></p>
+				<p>
+      A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23763</span>
+						<span>🔱 1825</span>
+					</div>
+				<div class="stars-today">⭐ 731 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 94895</span>
+						<span>🔱 13746</span>
+					</div>
+				<div class="stars-today">⭐ 2326 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28042</span>
-						<span>🔱 1875</span>
+						<span>⭐ 28074</span>
+						<span>🔱 1877</span>
 					</div>
 				<div class="stars-today">⭐ 3745 stars this week</div>
 				</div>
@@ -228,54 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8820</span>
-						<span>🔱 683</span>
+						<span>⭐ 8823</span>
+						<span>🔱 684</span>
 					</div>
 				<div class="stars-today">⭐ 1457 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chenyme/grok2api" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        chenyme /
+        ChromeDevTools /
 
-      grok2api</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1412</span>
-						<span>🔱 454</span>
-					</div>
-				<div class="stars-today">⭐ 323 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/linshenkx/prompt-optimizer" target="_blank">
-    
-
-
-      
-        linshenkx /
-
-      prompt-optimizer</a></p>
-				<p>
-      一款提示词优化器，助力于编写高质量的提示词
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21063</span>
-						<span>🔱 2558</span>
+						<span>⭐ 24876</span>
+						<span>🔱 1473</span>
 					</div>
-				<div class="stars-today">⭐ 1329 stars this week</div>
+				<div class="stars-today">⭐ 1240 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,76 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8371</span>
+						<span>⭐ 8378</span>
 						<span>🔱 444</span>
 					</div>
 				<div class="stars-today">⭐ 1539 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 94876</span>
-						<span>🔱 13742</span>
-					</div>
-				<div class="stars-today">⭐ 2326 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/likec4/likec4" target="_blank">
-    
-
-
-      
-        likec4 /
-
-      likec4</a></p>
-				<p>
-      Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2640</span>
-						<span>🔱 173</span>
-					</div>
-				<div class="stars-today">⭐ 941 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/RD-Agent" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      RD-Agent</a></p>
-				<p>
-      Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automating these high-value generic R&D processes through R&D-Agent, which lets AI drive data-driven AI. 🔗https://aka.ms/RD-Agent-Tech-Report
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11134</span>
-						<span>🔱 1283</span>
-					</div>
-				<div class="stars-today">⭐ 293 stars this week</div>
 				</div>
 			</div>
 	

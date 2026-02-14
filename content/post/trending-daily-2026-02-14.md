@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-14
-date: 2026-02-14T10:01:38Z
+date: 2026-02-14T11:59:27Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
+    
+
+
+      
+        tambo-ai /
+
+      tambo</a></p>
+				<p>
+      Generative UI SDK for React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9416</span>
+						<span>🔱 457</span>
+					</div>
+				<div class="stars-today">⭐ 544 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
@@ -30,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 494</span>
-						<span>🔱 224</span>
+						<span>⭐ 507</span>
+						<span>🔱 225</span>
 					</div>
-				<div class="stars-today">⭐ 106 stars today</div>
+				<div class="stars-today">⭐ 223 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      Open-source AI coworker, with memory
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5586</span>
+						<span>🔱 445</span>
+					</div>
+				<div class="stars-today">⭐ 467 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/minio/minio" target="_blank">
+    
+
+
+      
+        minio /
+
+      minio</a></p>
+				<p>
+      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 60220</span>
+						<span>🔱 7002</span>
+					</div>
+				<div class="stars-today">⭐ 44 stars today</div>
 				</div>
 			</div>
 	
@@ -52,182 +118,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24846</span>
-						<span>🔱 1469</span>
+						<span>⭐ 24876</span>
+						<span>🔱 1473</span>
 					</div>
-				<div class="stars-today">⭐ 363 stars today</div>
+				<div class="stars-today">⭐ 326 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
     
 
 
       
-        danielmiessler /
+        alibaba /
 
-      Personal_AI_Infrastructure</a></p>
+      zvec</a></p>
 				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 967</span>
+						<span>🔱 56</span>
+					</div>
+				<div class="stars-today">⭐ 198 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      wifi-densepose</a></p>
+				<p>
+      Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5954</span>
+						<span>🔱 544</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Zipstack/unstract" target="_blank">
+    
+
+
+      
+        Zipstack /
+
+      unstract</a></p>
+				<p>
+      No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6161</span>
+						<span>🔱 588</span>
+					</div>
+				<div class="stars-today">⭐ 24 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/letta-ai/letta-code" target="_blank">
+    
+
+
+      
+        letta-ai /
+
+      letta-code</a></p>
+				<p>
+      The memory-first coding agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8255</span>
-						<span>🔱 1146</span>
-					</div>
-				<div class="stars-today">⭐ 595 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/patchy631/ai-engineering-hub" target="_blank">
-    
-
-
-      
-        patchy631 /
-
-      ai-engineering-hub</a></p>
-				<p>
-      In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 29471</span>
-						<span>🔱 4767</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TelegramMessenger/MTProxy" target="_blank">
-    
-
-
-      
-        TelegramMessenger /
-
-      MTProxy</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 5932</span>
-						<span>🔱 1001</span>
-					</div>
-				<div class="stars-today">⭐ 35 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-deepmind/superhuman" target="_blank">
-    
-
-
-      
-        google-deepmind /
-
-      superhuman</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TeX</span>
-						<span>⭐ 438</span>
-						<span>🔱 31</span>
-					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cheahjs/free-llm-api-resources" target="_blank">
-    
-
-
-      
-        cheahjs /
-
-      free-llm-api-resources</a></p>
-				<p>
-      A list of free LLM inference resources accessible via API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10848</span>
-						<span>🔱 1054</span>
-					</div>
-				<div class="stars-today">⭐ 392 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HandsOnLLM/Hands-On-Large-Language-Models" target="_blank">
-    
-
-
-      
-        HandsOnLLM /
-
-      Hands-On-Large-Language-Models</a></p>
-				<p>
-      Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 21236</span>
-						<span>🔱 5005</span>
-					</div>
-				<div class="stars-today">⭐ 329 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/THUDM/slime" target="_blank">
-    
-
-
-      
-        THUDM /
-
-      slime</a></p>
-				<p>
-      slime is an LLM post-training framework for RL Scaling.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4133</span>
-						<span>🔱 531</span>
-					</div>
-				<div class="stars-today">⭐ 85 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/DebugSwift/DebugSwift" target="_blank">
-    
-
-
-      
-        DebugSwift /
-
-      DebugSwift</a></p>
-				<p>
-      A toolkit to make debugging iOS applications easier 🚀
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 1545</span>
+						<span>⭐ 1078</span>
 						<span>🔱 133</span>
 					</div>
-				<div class="stars-today">⭐ 52 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruby/ruby" target="_blank">
+    
+
+
+      
+        ruby /
+
+      ruby</a></p>
+				<p>
+      The Ruby Programming Language
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 23313</span>
+						<span>🔱 5562</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cinnyapp/cinny" target="_blank">
+    
+
+
+      
+        cinnyapp /
+
+      cinny</a></p>
+				<p>
+      Yet another matrix client
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2978</span>
+						<span>🔱 406</span>
+					</div>
+				<div class="stars-today">⭐ 153 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-14T10:01:38Z
+date: 2026-02-14T11:59:27Z
 categories:
 - monthly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 193049</span>
-						<span>🔱 33138</span>
+						<span>⭐ 193245</span>
+						<span>🔱 33188</span>
 					</div>
 				<div class="stars-today">⭐ 187490 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/agent-skills" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      agent-skills</a></p>
-				<p>
-      Vercel's official collection of agent skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 20268</span>
-						<span>🔱 1842</span>
-					</div>
-				<div class="stars-today">⭐ 20183 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      AionUi</a></p>
-				<p>
-      Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15758</span>
-						<span>🔱 1181</span>
-					</div>
-				<div class="stars-today">⭐ 12270 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11800</span>
-						<span>🔱 1178</span>
+						<span>⭐ 11839</span>
+						<span>🔱 1183</span>
 					</div>
 				<div class="stars-today">⭐ 9936 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
     
 
 
       
-        obra /
+        iOfficeAI /
 
-      superpowers</a></p>
+      AionUi</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 51248</span>
-						<span>🔱 3867</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15770</span>
+						<span>🔱 1182</span>
 					</div>
-				<div class="stars-today">⭐ 31445 stars this month</div>
+				<div class="stars-today">⭐ 12270 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21786</span>
-						<span>🔱 2192</span>
+						<span>⭐ 21815</span>
+						<span>🔱 2194</span>
 					</div>
 				<div class="stars-today">⭐ 17889 stars this month</div>
 				</div>
@@ -162,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15054</span>
+						<span>⭐ 15058</span>
 						<span>🔱 1091</span>
 					</div>
 				<div class="stars-today">⭐ 9753 stars this month</div>
@@ -184,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36510</span>
+						<span>⭐ 36523</span>
 						<span>🔱 2222</span>
 					</div>
 				<div class="stars-today">⭐ 11282 stars this month</div>
@@ -192,24 +148,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        anthropics /
+        obra /
 
-      skills</a></p>
+      superpowers</a></p>
 				<p>
-      Public repository for Agent Skills
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69600</span>
-						<span>🔱 7026</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 51288</span>
+						<span>🔱 3870</span>
 					</div>
-				<div class="stars-today">⭐ 30297 stars this month</div>
+				<div class="stars-today">⭐ 31445 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 31422</span>
-						<span>🔱 5024</span>
+						<span>⭐ 31434</span>
+						<span>🔱 5027</span>
 					</div>
 				<div class="stars-today">⭐ 6420 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8428</span>
-						<span>🔱 471</span>
-					</div>
-				<div class="stars-today">⭐ 6847 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8371</span>
+						<span>⭐ 8378</span>
 						<span>🔱 444</span>
 					</div>
 				<div class="stars-today">⭐ 6722 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 69640</span>
+						<span>🔱 7029</span>
+					</div>
+				<div class="stars-today">⭐ 30297 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8443</span>
+						<span>🔱 472</span>
+					</div>
+				<div class="stars-today">⭐ 6847 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/agent-skills" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      agent-skills</a></p>
+				<p>
+      Vercel's official collection of agent skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 20282</span>
+						<span>🔱 1842</span>
+					</div>
+				<div class="stars-today">⭐ 20183 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 104290</span>
-						<span>🔱 10118</span>
+						<span>⭐ 104334</span>
+						<span>🔱 10123</span>
 					</div>
 				<div class="stars-today">⭐ 38300 stars this month</div>
 				</div>
@@ -316,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28042</span>
-						<span>🔱 1875</span>
+						<span>⭐ 28074</span>
+						<span>🔱 1877</span>
 					</div>
 				<div class="stars-today">⭐ 14497 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/eigent-ai/eigent" target="_blank">
-    
-
-
-      
-        eigent-ai /
-
-      eigent</a></p>
-				<p>
-      Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12429</span>
-						<span>🔱 1421</span>
-					</div>
-				<div class="stars-today">⭐ 8983 stars this month</div>
 				</div>
 			</div>
 	
@@ -364,6 +342,28 @@ keywords:
 						<span>🔱 180</span>
 					</div>
 				<div class="stars-today">⭐ 2776 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15072</span>
+						<span>🔱 1806</span>
+					</div>
+				<div class="stars-today">⭐ 8119 stars this month</div>
 				</div>
 			</div>
 	
