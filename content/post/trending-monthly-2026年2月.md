@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-15T10:12:14Z
+date: 2026-02-15T11:59:11Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 195348</span>
-						<span>🔱 33792</span>
+						<span>⭐ 195540</span>
+						<span>🔱 33839</span>
 					</div>
 				<div class="stars-today">⭐ 189974 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12190</span>
+						<span>⭐ 12211</span>
 						<span>🔱 1222</span>
 					</div>
 				<div class="stars-today">⭐ 10225 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      AionUi</a></p>
-				<p>
-      Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15899</span>
-						<span>🔱 1200</span>
-					</div>
-				<div class="stars-today">⭐ 12330 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22181</span>
-						<span>🔱 2230</span>
+						<span>⭐ 22208</span>
+						<span>🔱 2232</span>
 					</div>
 				<div class="stars-today">⭐ 18284 stars this month</div>
 				</div>
@@ -118,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15146</span>
+						<span>⭐ 15152</span>
 						<span>🔱 1094</span>
 					</div>
 				<div class="stars-today">⭐ 9775 stars this month</div>
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36634</span>
-						<span>🔱 2229</span>
+						<span>⭐ 36642</span>
+						<span>🔱 2230</span>
 					</div>
 				<div class="stars-today">⭐ 11382 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
+    
+
+
+      
+        iOfficeAI /
+
+      AionUi</a></p>
+				<p>
+      Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15907</span>
+						<span>🔱 1200</span>
+					</div>
+				<div class="stars-today">⭐ 12330 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 51796</span>
-						<span>🔱 3915</span>
+						<span>⭐ 51832</span>
+						<span>🔱 3920</span>
 					</div>
 				<div class="stars-today">⭐ 30073 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
-    
-
-
-      
-        gsd-build /
-
-      get-shit-done</a></p>
-				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14174</span>
-						<span>🔱 1343</span>
-					</div>
-				<div class="stars-today">⭐ 11444 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 31524</span>
-						<span>🔱 5039</span>
+						<span>⭐ 31534</span>
+						<span>🔱 5040</span>
 					</div>
 				<div class="stars-today">⭐ 6487 stars this month</div>
 				</div>
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8513</span>
-						<span>🔱 452</span>
+						<span>⭐ 8520</span>
+						<span>🔱 453</span>
 					</div>
 				<div class="stars-today">⭐ 6822 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 70013</span>
-						<span>🔱 7095</span>
-					</div>
-				<div class="stars-today">⭐ 29735 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8544</span>
-						<span>🔱 476</span>
+						<span>⭐ 8547</span>
+						<span>🔱 477</span>
 					</div>
 				<div class="stars-today">⭐ 6965 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/agent-skills" target="_blank">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
     
 
 
       
-        vercel-labs /
+        anthropics /
 
-      agent-skills</a></p>
+      skills</a></p>
 				<p>
-      Vercel's official collection of agent skills
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 70043</span>
+						<span>🔱 7098</span>
+					</div>
+				<div class="stars-today">⭐ 29735 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+    
+
+
+      
+        gsd-build /
+
+      get-shit-done</a></p>
+				<p>
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20409</span>
-						<span>🔱 1848</span>
+						<span>⭐ 14199</span>
+						<span>🔱 1349</span>
 					</div>
-				<div class="stars-today">⭐ 20179 stars this month</div>
+				<div class="stars-today">⭐ 11444 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 104806</span>
-						<span>🔱 10191</span>
+						<span>⭐ 104848</span>
+						<span>🔱 10192</span>
 					</div>
 				<div class="stars-today">⭐ 36517 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
+    
+
+
+      
+        tambo-ai /
+
+      tambo</a></p>
+				<p>
+      Generative UI SDK for React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9947</span>
+						<span>🔱 482</span>
+					</div>
+				<div class="stars-today">⭐ 8032 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28286</span>
-						<span>🔱 1896</span>
+						<span>⭐ 28300</span>
+						<span>🔱 1898</span>
 					</div>
 				<div class="stars-today">⭐ 14718 stars this month</div>
 				</div>
@@ -360,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3787</span>
+						<span>⭐ 3788</span>
 						<span>🔱 181</span>
 					</div>
 				<div class="stars-today">⭐ 2785 stars this month</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15233</span>
-						<span>🔱 1822</span>
+						<span>⭐ 15252</span>
+						<span>🔱 1824</span>
 					</div>
 				<div class="stars-today">⭐ 8192 stars this month</div>
 				</div>

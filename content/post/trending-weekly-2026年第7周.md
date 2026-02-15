@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第7周
-date: 2026-02-15T10:12:14Z
+date: 2026-02-15T11:59:10Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22181</span>
-						<span>🔱 2230</span>
+						<span>⭐ 22208</span>
+						<span>🔱 2232</span>
 					</div>
 				<div class="stars-today">⭐ 13576 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pydantic/monty" target="_blank">
-    
-
-
-      
-        pydantic /
-
-      monty</a></p>
-				<p>
-      A minimal, secure Python interpreter written in Rust for use by AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5274</span>
-						<span>🔱 191</span>
-					</div>
-				<div class="stars-today">⭐ 3428 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
-    
-
-
-      
-        google /
-
-      langextract</a></p>
-				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32363</span>
-						<span>🔱 2161</span>
-					</div>
-				<div class="stars-today">⭐ 8146 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2465</span>
-						<span>🔱 181</span>
+						<span>⭐ 2481</span>
+						<span>🔱 182</span>
 					</div>
 				<div class="stars-today">⭐ 1927 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/langextract" target="_blank">
+    
+
+
+      
+        google /
+
+      langextract</a></p>
+				<p>
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32390</span>
+						<span>🔱 2165</span>
+					</div>
+				<div class="stars-today">⭐ 8146 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2586</span>
+						<span>⭐ 2602</span>
 						<span>🔱 166</span>
 					</div>
 				<div class="stars-today">⭐ 2065 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pydantic/monty" target="_blank">
+    
+
+
+      
+        pydantic /
+
+      monty</a></p>
+				<p>
+      A minimal, secure Python interpreter written in Rust for use by AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5282</span>
+						<span>🔱 191</span>
+					</div>
+				<div class="stars-today">⭐ 3428 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15233</span>
-						<span>🔱 1822</span>
+						<span>⭐ 15252</span>
+						<span>🔱 1824</span>
 					</div>
 				<div class="stars-today">⭐ 4002 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
+				<p><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">
     
 
 
       
-        openai /
+        gitbutlerapp /
 
-      skills</a></p>
+      gitbutler</a></p>
 				<p>
-      Skills Catalog for Codex
+      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8544</span>
-						<span>🔱 476</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 19306</span>
+						<span>🔱 840</span>
 					</div>
-				<div class="stars-today">⭐ 3126 stars this week</div>
+				<div class="stars-today">⭐ 1495 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12190</span>
+						<span>⭐ 12211</span>
 						<span>🔱 1222</span>
 					</div>
 				<div class="stars-today">⭐ 4131 stars this week</div>
@@ -206,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17294</span>
-						<span>🔱 3715</span>
+						<span>⭐ 17298</span>
+						<span>🔱 3716</span>
 					</div>
 				<div class="stars-today">⭐ 1615 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/MiniCPM-o" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        OpenBMB /
+        ChromeDevTools /
 
-      MiniCPM-o</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23801</span>
-						<span>🔱 1831</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25228</span>
+						<span>🔱 1485</span>
 					</div>
-				<div class="stars-today">⭐ 703 stars this week</div>
+				<div class="stars-today">⭐ 1513 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 95077</span>
-						<span>🔱 13776</span>
+						<span>⭐ 95101</span>
+						<span>🔱 13779</span>
 					</div>
 				<div class="stars-today">⭐ 2539 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/litebox" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      litebox</a></p>
+				<p>
+      A security-focused library OS supporting kernel- and user-mode execution
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2125</span>
+						<span>🔱 88</span>
+					</div>
+				<div class="stars-today">⭐ 1103 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28286</span>
-						<span>🔱 1896</span>
+						<span>⭐ 28300</span>
+						<span>🔱 1898</span>
 					</div>
 				<div class="stars-today">⭐ 3712 stars this week</div>
 				</div>
@@ -294,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8886</span>
+						<span>⭐ 8889</span>
 						<span>🔱 691</span>
 					</div>
 				<div class="stars-today">⭐ 1472 stars this week</div>
@@ -302,46 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
     
 
 
       
-        ChromeDevTools /
+        danielmiessler /
 
-      chrome-devtools-mcp</a></p>
+      Personal_AI_Infrastructure</a></p>
 				<p>
-      Chrome DevTools for coding agents
+      Agentic AI Infrastructure for magnifying HUMAN capabilities.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25201</span>
-						<span>🔱 1485</span>
+						<span>⭐ 8367</span>
+						<span>🔱 1158</span>
 					</div>
-				<div class="stars-today">⭐ 1513 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
-    
-
-
-      
-        tobi /
-
-      qmd</a></p>
-				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8513</span>
-						<span>🔱 452</span>
-					</div>
-				<div class="stars-today">⭐ 1421 stars this week</div>
+				<div class="stars-today">⭐ 2061 stars this week</div>
 				</div>
 			</div>
 	

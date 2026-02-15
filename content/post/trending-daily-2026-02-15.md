@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-15
-date: 2026-02-15T10:12:13Z
+date: 2026-02-15T11:59:10Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
+				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
     
 
 
       
-        tambo-ai /
+        nautechsystems /
 
-      tambo</a></p>
+      nautilus_trader</a></p>
 				<p>
-      Generative UI SDK for React
+      A high-performance algorithmic trading platform and event-driven backtester
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9915</span>
-						<span>🔱 481</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 19033</span>
+						<span>🔱 2274</span>
 					</div>
-				<div class="stars-today">⭐ 127 stars today</div>
+				<div class="stars-today">⭐ 30 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
     
 
 
       
-        SynkraAI /
+        steipete /
 
-      aios-core</a></p>
+      gogcli</a></p>
 				<p>
-      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 660</span>
-						<span>🔱 253</span>
+						<span>🔠 Go</span>
+						<span>⭐ 2600</span>
+						<span>🔱 236</span>
 					</div>
-				<div class="stars-today">⭐ 209 stars today</div>
+				<div class="stars-today">⭐ 639 stars today</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6338</span>
-						<span>🔱 530</span>
+						<span>⭐ 6394</span>
+						<span>🔱 537</span>
 					</div>
 				<div class="stars-today">⭐ 217 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/minio/minio" target="_blank">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
     
 
 
       
-        minio /
+        github /
 
-      minio</a></p>
+      gh-aw</a></p>
 				<p>
-      MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
+      GitHub Agentic Workflows
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 60306</span>
-						<span>🔱 7022</span>
+						<span>⭐ 2481</span>
+						<span>🔱 182</span>
 					</div>
-				<div class="stars-today">⭐ 29 stars today</div>
+				<div class="stars-today">⭐ 213 stars today</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25201</span>
+						<span>⭐ 25228</span>
 						<span>🔱 1485</span>
 					</div>
 				<div class="stars-today">⭐ 331 stars today</div>
@@ -140,10 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 1588</span>
-						<span>🔱 80</span>
+						<span>⭐ 1656</span>
+						<span>🔱 84</span>
 					</div>
 				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      openclaw</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 195540</span>
+						<span>🔱 33839</span>
+					</div>
+				<div class="stars-today">⭐ 2758 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
+    
+
+
+      
+        moonshine-ai /
+
+      moonshine</a></p>
+				<p>
+      Fast and accurate automatic speech recognition (ASR) for edge devices
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 3564</span>
+						<span>🔱 174</span>
+					</div>
+				<div class="stars-today">⭐ 160 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/brave/brave-browser" target="_blank">
+    
+
+
+      
+        brave /
+
+      brave-browser</a></p>
+				<p>
+      Brave browser for Android, iOS, Linux, macOS, Windows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 21424</span>
+						<span>🔱 2967</span>
+					</div>
+				<div class="stars-today">⭐ 23 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
+    
+
+
+      
+        SynkraAI /
+
+      aios-core</a></p>
+				<p>
+      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 668</span>
+						<span>🔱 255</span>
+					</div>
+				<div class="stars-today">⭐ 209 stars today</div>
 				</div>
 			</div>
 	
@@ -162,98 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6285</span>
-						<span>🔱 561</span>
+						<span>⭐ 6305</span>
+						<span>🔱 563</span>
 					</div>
 				<div class="stars-today">⭐ 98 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Zipstack/unstract" target="_blank">
-    
-
-
-      
-        Zipstack /
-
-      unstract</a></p>
-				<p>
-      No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6384</span>
-						<span>🔱 605</span>
-					</div>
-				<div class="stars-today">⭐ 40 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/letta-ai/letta-code" target="_blank">
-    
-
-
-      
-        letta-ai /
-
-      letta-code</a></p>
-				<p>
-      The memory-first coding agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1300</span>
-						<span>🔱 144</span>
-					</div>
-				<div class="stars-today">⭐ 55 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruby/ruby" target="_blank">
-    
-
-
-      
-        ruby /
-
-      ruby</a></p>
-				<p>
-      The Ruby Programming Language
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 23400</span>
-						<span>🔱 5566</span>
-					</div>
-				<div class="stars-today">⭐ 15 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cinnyapp/cinny" target="_blank">
-    
-
-
-      
-        cinnyapp /
-
-      cinny</a></p>
-				<p>
-      Yet another matrix client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3079</span>
-						<span>🔱 413</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
