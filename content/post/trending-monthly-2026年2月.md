@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-16T10:35:23Z
+date: 2026-02-16T12:29:18Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 199068</span>
-						<span>🔱 35085</span>
+						<span>⭐ 199436</span>
+						<span>🔱 35248</span>
 					</div>
 				<div class="stars-today">⭐ 191849 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12662</span>
-						<span>🔱 1266</span>
+						<span>⭐ 12695</span>
+						<span>🔱 1270</span>
 					</div>
 				<div class="stars-today">⭐ 10495 stars this month</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22599</span>
+						<span>⭐ 22629</span>
 						<span>🔱 2262</span>
 					</div>
 				<div class="stars-today">⭐ 18511 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15231</span>
+						<span>⭐ 15243</span>
 						<span>🔱 1103</span>
 					</div>
 				<div class="stars-today">⭐ 9831 stars this month</div>
@@ -118,10 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36764</span>
+						<span>⭐ 36777</span>
 						<span>🔱 2243</span>
 					</div>
 				<div class="stars-today">⭐ 11463 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tobi/qmd" target="_blank">
+    
+
+
+      
+        tobi /
+
+      qmd</a></p>
+				<p>
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8681</span>
+						<span>🔱 469</span>
+					</div>
+				<div class="stars-today">⭐ 6900 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 31648</span>
+						<span>🔱 5054</span>
+					</div>
+				<div class="stars-today">⭐ 6559 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8661</span>
+						<span>🔱 481</span>
+					</div>
+				<div class="stars-today">⭐ 7035 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16042</span>
+						<span>⭐ 16048</span>
 						<span>🔱 1210</span>
 					</div>
 				<div class="stars-today">⭐ 12236 stars this month</div>
@@ -162,76 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 52529</span>
-						<span>🔱 3971</span>
+						<span>⭐ 52571</span>
+						<span>🔱 3977</span>
 					</div>
 				<div class="stars-today">⭐ 28721 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 31638</span>
-						<span>🔱 5053</span>
-					</div>
-				<div class="stars-today">⭐ 6559 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
-    
-
-
-      
-        tobi /
-
-      qmd</a></p>
-				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8669</span>
-						<span>🔱 468</span>
-					</div>
-				<div class="stars-today">⭐ 6900 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8650</span>
-						<span>🔱 480</span>
-					</div>
-				<div class="stars-today">⭐ 7035 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70442</span>
-						<span>🔱 7155</span>
+						<span>⭐ 70465</span>
+						<span>🔱 7159</span>
 					</div>
 				<div class="stars-today">⭐ 28927 stars this month</div>
 				</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14591</span>
-						<span>🔱 1373</span>
+						<span>⭐ 14631</span>
+						<span>🔱 1374</span>
 					</div>
 				<div class="stars-today">⭐ 11499 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
-    
-
-
-      
-        anomalyco /
-
-      opencode</a></p>
-				<p>
-      The open source coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 105303</span>
-						<span>🔱 10261</span>
-					</div>
-				<div class="stars-today">⭐ 35045 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10213</span>
-						<span>🔱 497</span>
+						<span>⭐ 10226</span>
+						<span>🔱 499</span>
 					</div>
 				<div class="stars-today">⭐ 8046 stars this month</div>
 				</div>
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28501</span>
+						<span>⭐ 28516</span>
 						<span>🔱 1912</span>
 					</div>
 				<div class="stars-today">⭐ 14703 stars this month</div>
@@ -360,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3810</span>
+						<span>⭐ 3812</span>
 						<span>🔱 183</span>
 					</div>
 				<div class="stars-today">⭐ 2796 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anomalyco/opencode" target="_blank">
+    
+
+
+      
+        anomalyco /
+
+      opencode</a></p>
+				<p>
+      The open source coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 105346</span>
+						<span>🔱 10269</span>
+					</div>
+				<div class="stars-today">⭐ 35045 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15439</span>
+						<span>⭐ 15444</span>
 						<span>🔱 1839</span>
 					</div>
 				<div class="stars-today">⭐ 8341 stars this month</div>

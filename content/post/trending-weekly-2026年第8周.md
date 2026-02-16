@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第8周
-date: 2026-02-16T10:35:23Z
+date: 2026-02-16T12:29:18Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
-    
-
-
-      
-        KeygraphHQ /
-
-      shannon</a></p>
-				<p>
-      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22599</span>
-						<span>🔱 2262</span>
-					</div>
-				<div class="stars-today">⭐ 10987 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/github/gh-aw" target="_blank">
@@ -52,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2830</span>
-						<span>🔱 205</span>
+						<span>⭐ 2851</span>
+						<span>🔱 206</span>
 					</div>
 				<div class="stars-today">⭐ 2106 stars this week</div>
 				</div>
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32609</span>
+						<span>⭐ 32625</span>
 						<span>🔱 2185</span>
 					</div>
 				<div class="stars-today">⭐ 7964 stars this week</div>
@@ -96,76 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2759</span>
-						<span>🔱 177</span>
+						<span>⭐ 2770</span>
+						<span>🔱 178</span>
 					</div>
 				<div class="stars-today">⭐ 2265 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pydantic/monty" target="_blank">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
     
 
 
       
-        pydantic /
+        KeygraphHQ /
 
-      monty</a></p>
+      shannon</a></p>
 				<p>
-      A minimal, secure Python interpreter written in Rust for use by AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5348</span>
-						<span>🔱 195</span>
-					</div>
-				<div class="stars-today">⭐ 3113 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
-    
-
-
-      
-        virattt /
-
-      dexter</a></p>
-				<p>
-      An autonomous agent for deep financial research
+      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15439</span>
-						<span>🔱 1839</span>
+						<span>⭐ 22629</span>
+						<span>🔱 2262</span>
 					</div>
-				<div class="stars-today">⭐ 3258 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">
-    
-
-
-      
-        gitbutlerapp /
-
-      gitbutler</a></p>
-				<p>
-      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19355</span>
-						<span>🔱 842</span>
-					</div>
-				<div class="stars-today">⭐ 1192 stars this week</div>
+				<div class="stars-today">⭐ 10987 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12662</span>
-						<span>🔱 1266</span>
+						<span>⭐ 12695</span>
+						<span>🔱 1270</span>
 					</div>
 				<div class="stars-today">⭐ 4244 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17345</span>
-						<span>🔱 3728</span>
-					</div>
-				<div class="stars-today">⭐ 1412 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,98 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25549</span>
-						<span>🔱 1506</span>
+						<span>⭐ 25569</span>
+						<span>🔱 1508</span>
 					</div>
 				<div class="stars-today">⭐ 1767 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        hsliuping /
 
-      awesome-llm-apps</a></p>
+      TradingAgents-CN</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 95406</span>
-						<span>🔱 13809</span>
+						<span>⭐ 17351</span>
+						<span>🔱 3731</span>
 					</div>
-				<div class="stars-today">⭐ 2481 stars this week</div>
+				<div class="stars-today">⭐ 1412 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/litebox" target="_blank">
+				<p><a href="https://github.com/pydantic/monty" target="_blank">
     
 
 
       
-        microsoft /
+        pydantic /
 
-      litebox</a></p>
+      monty</a></p>
 				<p>
-      A security-focused library OS supporting kernel- and user-mode execution
+      A minimal, secure Python interpreter written in Rust for use by AI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2177</span>
-						<span>🔱 90</span>
+						<span>⭐ 5357</span>
+						<span>🔱 196</span>
 					</div>
-				<div class="stars-today">⭐ 872 stars this week</div>
+				<div class="stars-today">⭐ 3113 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
     
 
 
       
-        thedotmack /
+        tambo-ai /
 
-      claude-mem</a></p>
+      tambo</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      Generative UI SDK for React
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28501</span>
-						<span>🔱 1912</span>
+						<span>⭐ 10226</span>
+						<span>🔱 499</span>
 					</div>
-				<div class="stars-today">⭐ 3326 stars this week</div>
+				<div class="stars-today">⭐ 2070 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
+				<p><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">
     
 
 
       
-        EveryInc /
+        gitbutlerapp /
 
-      compound-engineering-plugin</a></p>
+      gitbutler</a></p>
 				<p>
-      Official Claude Code compound engineering plugin
+      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8956</span>
-						<span>🔱 698</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 19361</span>
+						<span>🔱 842</span>
 					</div>
-				<div class="stars-today">⭐ 1462 stars this week</div>
+				<div class="stars-today">⭐ 1192 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8483</span>
-						<span>🔱 1174</span>
+						<span>⭐ 8495</span>
+						<span>🔱 1175</span>
 					</div>
 				<div class="stars-today">⭐ 2102 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/carlvellotti/claude-code-pm-course" target="_blank">
+    
+
+
+      
+        carlvellotti /
+
+      claude-code-pm-course</a></p>
+				<p>
+      Interactive course teaching Product Managers how to use Claude Code effectively
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 MDX</span>
+						<span>⭐ 1328</span>
+						<span>🔱 204</span>
+					</div>
+				<div class="stars-today">⭐ 716 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
+    
+
+
+      
+        EveryInc /
+
+      compound-engineering-plugin</a></p>
+				<p>
+      Official Claude Code compound engineering plugin
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8965</span>
+						<span>🔱 698</span>
+					</div>
+				<div class="stars-today">⭐ 1462 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15444</span>
+						<span>🔱 1839</span>
+					</div>
+				<div class="stars-today">⭐ 3258 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
+    
+
+
+      
+        steipete /
+
+      gogcli</a></p>
+				<p>
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3248</span>
+						<span>🔱 280</span>
+					</div>
+				<div class="stars-today">⭐ 1235 stars this week</div>
 				</div>
 			</div>
 	

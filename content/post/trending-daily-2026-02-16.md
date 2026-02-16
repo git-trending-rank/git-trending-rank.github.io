@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-16
-date: 2026-02-16T10:35:23Z
+date: 2026-02-16T12:29:18Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      zvec</a></p>
+				<p>
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 2798</span>
+						<span>🔱 139</span>
+					</div>
+				<div class="stars-today">⭐ 1094 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19535</span>
-						<span>🔱 2309</span>
+						<span>⭐ 19577</span>
+						<span>🔱 2311</span>
 					</div>
-				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/gogcli" target="_blank">
-    
-
-
-      
-        steipete /
-
-      gogcli</a></p>
-				<p>
-      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3200</span>
-						<span>🔱 278</span>
-					</div>
-				<div class="stars-today">⭐ 630 stars today</div>
+				<div class="stars-today">⭐ 545 stars today</div>
 				</div>
 			</div>
 	
@@ -74,76 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7044</span>
-						<span>🔱 602</span>
+						<span>⭐ 7081</span>
+						<span>🔱 607</span>
 					</div>
-				<div class="stars-today">⭐ 803 stars today</div>
+				<div class="stars-today">⭐ 701 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
     
 
 
       
-        github /
+        steipete /
 
-      gh-aw</a></p>
+      gogcli</a></p>
 				<p>
-      GitHub Agentic Workflows
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2830</span>
-						<span>🔱 205</span>
+						<span>⭐ 3248</span>
+						<span>🔱 280</span>
 					</div>
-				<div class="stars-today">⭐ 213 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25549</span>
-						<span>🔱 1506</span>
-					</div>
-				<div class="stars-today">⭐ 357 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      zvec</a></p>
-				<p>
-      A lightweight, lightning-fast, in-process vector database
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 2705</span>
-						<span>🔱 136</span>
-					</div>
-				<div class="stars-today">⭐ 673 stars today</div>
+				<div class="stars-today">⭐ 636 stars today</div>
 				</div>
 			</div>
 	
@@ -162,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 199068</span>
-						<span>🔱 35085</span>
+						<span>⭐ 199436</span>
+						<span>🔱 35248</span>
 					</div>
-				<div class="stars-today">⭐ 2380 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
-    
-
-
-      
-        moonshine-ai /
-
-      moonshine</a></p>
-				<p>
-      Fast and accurate automatic speech recognition (ASR) for edge devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 4018</span>
-						<span>🔱 191</span>
-					</div>
-				<div class="stars-today">⭐ 157 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/brave/brave-browser" target="_blank">
-    
-
-
-      
-        brave /
-
-      brave-browser</a></p>
-				<p>
-      Brave browser for Android, iOS, Linux, macOS, Windows.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 21641</span>
-						<span>🔱 2978</span>
-					</div>
-				<div class="stars-today">⭐ 27 stars today</div>
+				<div class="stars-today">⭐ 3873 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 860</span>
+						<span>⭐ 873</span>
 						<span>🔱 303</span>
 					</div>
-				<div class="stars-today">⭐ 163 stars today</div>
+				<div class="stars-today">⭐ 205 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/letta-ai/letta-code" target="_blank">
+    
+
+
+      
+        letta-ai /
+
+      letta-code</a></p>
+				<p>
+      The memory-first coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1330</span>
+						<span>🔱 149</span>
+					</div>
+				<div class="stars-today">⭐ 192 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6623</span>
+						<span>⭐ 6647</span>
 						<span>🔱 579</span>
 					</div>
-				<div class="stars-today">⭐ 352 stars today</div>
+				<div class="stars-today">⭐ 344 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/maxritter/claude-pilot" target="_blank">
+    
+
+
+      
+        maxritter /
+
+      claude-pilot</a></p>
+				<p>
+      Claude Code is powerful. Pilot makes it reliable. Start a task, grab a coffee, come back to production-grade code. Tests enforced. Context preserved. Quality automated.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1086</span>
+						<span>🔱 85</span>
+					</div>
+				<div class="stars-today">⭐ 131 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/seerr-team/seerr" target="_blank">
+    
+
+
+      
+        seerr-team /
+
+      seerr</a></p>
+				<p>
+      Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8896</span>
+						<span>🔱 592</span>
+					</div>
+				<div class="stars-today">⭐ 185 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hummingbot/hummingbot" target="_blank">
+    
+
+
+      
+        hummingbot /
+
+      hummingbot</a></p>
+				<p>
+      Open source software that helps you create and deploy high-frequency crypto trading bots
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16228</span>
+						<span>🔱 4366</span>
+					</div>
+				<div class="stars-today">⭐ 315 stars today</div>
 				</div>
 			</div>
 	
