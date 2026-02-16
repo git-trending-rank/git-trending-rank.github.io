@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-16
-date: 2026-02-16T12:29:18Z
+date: 2026-02-16T14:33:36Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 2798</span>
-						<span>🔱 139</span>
+						<span>⭐ 2955</span>
+						<span>🔱 148</span>
 					</div>
 				<div class="stars-today">⭐ 1094 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19577</span>
-						<span>🔱 2311</span>
+						<span>⭐ 19621</span>
+						<span>🔱 2313</span>
 					</div>
 				<div class="stars-today">⭐ 545 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7081</span>
+						<span>⭐ 7132</span>
 						<span>🔱 607</span>
 					</div>
 				<div class="stars-today">⭐ 701 stars today</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3248</span>
-						<span>🔱 280</span>
+						<span>⭐ 3308</span>
+						<span>🔱 283</span>
 					</div>
 				<div class="stars-today">⭐ 636 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 199436</span>
-						<span>🔱 35248</span>
+						<span>⭐ 199873</span>
+						<span>🔱 35397</span>
 					</div>
 				<div class="stars-today">⭐ 3873 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 873</span>
-						<span>🔱 303</span>
+						<span>⭐ 893</span>
+						<span>🔱 307</span>
 					</div>
 				<div class="stars-today">⭐ 205 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1330</span>
-						<span>🔱 149</span>
+						<span>⭐ 1352</span>
+						<span>🔱 150</span>
 					</div>
 				<div class="stars-today">⭐ 192 stars today</div>
 				</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6647</span>
-						<span>🔱 579</span>
+						<span>⭐ 6674</span>
+						<span>🔱 580</span>
 					</div>
 				<div class="stars-today">⭐ 344 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/maxritter/claude-pilot" target="_blank">
-    
-
-
-      
-        maxritter /
-
-      claude-pilot</a></p>
-				<p>
-      Claude Code is powerful. Pilot makes it reliable. Start a task, grab a coffee, come back to production-grade code. Tests enforced. Context preserved. Quality automated.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1086</span>
-						<span>🔱 85</span>
-					</div>
-				<div class="stars-today">⭐ 131 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8896</span>
+						<span>⭐ 8934</span>
 						<span>🔱 592</span>
 					</div>
-				<div class="stars-today">⭐ 185 stars today</div>
+				<div class="stars-today">⭐ 200 stars today</div>
 				</div>
 			</div>
 	
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16228</span>
-						<span>🔱 4366</span>
+						<span>⭐ 16285</span>
+						<span>🔱 4369</span>
 					</div>
 				<div class="stars-today">⭐ 315 stars today</div>
 				</div>
