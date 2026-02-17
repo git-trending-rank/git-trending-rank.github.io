@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第8周
-date: 2026-02-17T10:31:59Z
+date: 2026-02-17T12:29:13Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2982</span>
+						<span>⭐ 2989</span>
 						<span>🔱 215</span>
 					</div>
 				<div class="stars-today">⭐ 2199 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
-    
-
-
-      
-        google /
-
-      langextract</a></p>
-				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32769</span>
-						<span>🔱 2189</span>
-					</div>
-				<div class="stars-today">⭐ 7658 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2926</span>
-						<span>🔱 181</span>
+						<span>⭐ 2942</span>
+						<span>🔱 183</span>
 					</div>
 				<div class="stars-today">⭐ 2342 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+				<p><a href="https://github.com/google/langextract" target="_blank">
     
 
 
       
-        KeygraphHQ /
+        google /
 
-      shannon</a></p>
+      langextract</a></p>
 				<p>
-      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23012</span>
-						<span>🔱 2301</span>
+						<span>🔠 Python</span>
+						<span>⭐ 32782</span>
+						<span>🔱 2191</span>
 					</div>
-				<div class="stars-today">⭐ 6966 stars this week</div>
+				<div class="stars-today">⭐ 7658 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
     
 
 
       
-        badlogic /
+        p-e-w /
 
-      pi-mono</a></p>
+      heretic</a></p>
 				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+      Fully automatic censorship removal for language models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12987</span>
-						<span>🔱 1308</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6701</span>
+						<span>🔱 668</span>
 					</div>
-				<div class="stars-today">⭐ 4425 stars this week</div>
+				<div class="stars-today">⭐ 1697 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25683</span>
+						<span>⭐ 25692</span>
 						<span>🔱 1514</span>
 					</div>
 				<div class="stars-today">⭐ 2041 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17383</span>
-						<span>🔱 3735</span>
-					</div>
-				<div class="stars-today">⭐ 1299 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pydantic/monty" target="_blank">
-    
-
-
-      
-        pydantic /
-
-      monty</a></p>
-				<p>
-      A minimal, secure Python interpreter written in Rust for use by AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5431</span>
-						<span>🔱 198</span>
-					</div>
-				<div class="stars-today">⭐ 1854 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
-    
-
-
-      
-        tambo-ai /
-
-      tambo</a></p>
-				<p>
-      Generative UI SDK for React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10482</span>
-						<span>🔱 510</span>
-					</div>
-				<div class="stars-today">⭐ 2273 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gitbutlerapp/gitbutler" target="_blank">
-    
-
-
-      
-        gitbutlerapp /
-
-      gitbutler</a></p>
-				<p>
-      The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19413</span>
-						<span>🔱 842</span>
-					</div>
-				<div class="stars-today">⭐ 840 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8604</span>
+						<span>⭐ 8611</span>
 						<span>🔱 1190</span>
 					</div>
 				<div class="stars-today">⭐ 2207 stars this week</div>
@@ -258,68 +148,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/carlvellotti/claude-code-pm-course" target="_blank">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
     
 
 
       
-        carlvellotti /
+        badlogic /
 
-      claude-code-pm-course</a></p>
+      pi-mono</a></p>
 				<p>
-      Interactive course teaching Product Managers how to use Claude Code effectively
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 MDX</span>
-						<span>⭐ 1387</span>
-						<span>🔱 206</span>
-					</div>
-				<div class="stars-today">⭐ 698 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EveryInc/compound-engineering-plugin" target="_blank">
-    
-
-
-      
-        EveryInc /
-
-      compound-engineering-plugin</a></p>
-				<p>
-      Official Claude Code compound engineering plugin
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9074</span>
-						<span>🔱 709</span>
+						<span>⭐ 13016</span>
+						<span>🔱 1310</span>
 					</div>
-				<div class="stars-today">⭐ 1346 stars this week</div>
+				<div class="stars-today">⭐ 4425 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
+				<p><a href="https://github.com/steipete/summarize" target="_blank">
     
 
 
       
-        virattt /
+        steipete /
 
-      dexter</a></p>
+      summarize</a></p>
 				<p>
-      An autonomous agent for deep financial research
+      Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15568</span>
-						<span>🔱 1857</span>
+						<span>⭐ 3239</span>
+						<span>🔱 213</span>
 					</div>
-				<div class="stars-today">⭐ 2276 stars this week</div>
+				<div class="stars-today">⭐ 1624 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
+    
+
+
+      
+        tambo-ai /
+
+      tambo</a></p>
+				<p>
+      Generative UI SDK for React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10502</span>
+						<span>🔱 511</span>
+					</div>
+				<div class="stars-today">⭐ 2273 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3678</span>
-						<span>🔱 313</span>
+						<span>⭐ 3704</span>
+						<span>🔱 315</span>
 					</div>
 				<div class="stars-today">⭐ 1769 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon</a></p>
+				<p>
+      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23052</span>
+						<span>🔱 2304</span>
+					</div>
+				<div class="stars-today">⭐ 6966 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN</a></p>
+				<p>
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17387</span>
+						<span>🔱 3735</span>
+					</div>
+				<div class="stars-today">⭐ 1299 stars this week</div>
 				</div>
 			</div>
 	
