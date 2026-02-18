@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-18
-date: 2026-02-18T18:33:27Z
+date: 2026-02-18T20:23:34Z
 categories:
 - daily
 keywords:
@@ -30,7 +30,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4825</span>
+						<span>⭐ 4855</span>
 						<span>🔱 265</span>
 					</div>
 				<div class="stars-today">⭐ 501 stars today</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7850</span>
-						<span>🔱 798</span>
+						<span>⭐ 7900</span>
+						<span>🔱 799</span>
 					</div>
 				<div class="stars-today">⭐ 947 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8627</span>
-						<span>🔱 1237</span>
+						<span>⭐ 8644</span>
+						<span>🔱 1238</span>
 					</div>
 				<div class="stars-today">⭐ 282 stars today</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18744</span>
+						<span>⭐ 18762</span>
 						<span>🔱 1635</span>
 					</div>
 				<div class="stars-today">⭐ 82 stars today</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 25141</span>
+						<span>⭐ 25171</span>
 						<span>🔱 2964</span>
 					</div>
 				<div class="stars-today">⭐ 280 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19510</span>
-						<span>🔱 2293</span>
+						<span>⭐ 19558</span>
+						<span>🔱 2294</span>
 					</div>
 				<div class="stars-today">⭐ 737 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 54250</span>
-						<span>🔱 4119</span>
+						<span>⭐ 54317</span>
+						<span>🔱 4126</span>
 					</div>
 				<div class="stars-today">⭐ 868 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 1114</span>
-						<span>🔱 37</span>
+						<span>⭐ 1169</span>
+						<span>🔱 39</span>
 					</div>
 				<div class="stars-today">⭐ 407 stars today</div>
 				</div>
@@ -201,13 +201,13 @@ keywords:
 
       composio</a></p>
 				<p>
-      Composio equips your AI agents & LLMs with 100+ high-quality integrations via function calling
+      Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26701</span>
-						<span>🔱 4417</span>
+						<span>⭐ 26714</span>
+						<span>🔱 4418</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1291</span>
-						<span>🔱 126</span>
+						<span>⭐ 1333</span>
+						<span>🔱 128</span>
 					</div>
 				<div class="stars-today">⭐ 397 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 208065</span>
-						<span>🔱 38235</span>
+						<span>⭐ 208293</span>
+						<span>🔱 38300</span>
 					</div>
 				<div class="stars-today">⭐ 3796 stars today</div>
 				</div>
