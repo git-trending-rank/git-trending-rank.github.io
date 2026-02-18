@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-18T10:29:51Z
+date: 2026-02-18T12:29:16Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 206787</span>
-						<span>🔱 37855</span>
+						<span>⭐ 207113</span>
+						<span>🔱 37936</span>
 					</div>
 				<div class="stars-today">⭐ 199307 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13294</span>
+						<span>⭐ 13324</span>
 						<span>🔱 1346</span>
 					</div>
 				<div class="stars-today">⭐ 11199 stars this month</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23314</span>
+						<span>⭐ 23342</span>
 						<span>🔱 2323</span>
 					</div>
 				<div class="stars-today">⭐ 19269 stars this month</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37017</span>
+						<span>⭐ 37027</span>
 						<span>🔱 2261</span>
 					</div>
 				<div class="stars-today">⭐ 11672 stars this month</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15462</span>
+						<span>⭐ 15465</span>
 						<span>🔱 1122</span>
 					</div>
 				<div class="stars-today">⭐ 9963 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8872</span>
-						<span>🔱 496</span>
-					</div>
-				<div class="stars-today">⭐ 7150 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9185</span>
-						<span>🔱 493</span>
+						<span>⭐ 9202</span>
+						<span>🔱 494</span>
 					</div>
 				<div class="stars-today">⭐ 7113 stars this month</div>
 				</div>
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 31920</span>
-						<span>🔱 5087</span>
+						<span>⭐ 31931</span>
+						<span>🔱 5088</span>
 					</div>
 				<div class="stars-today">⭐ 6796 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8878</span>
+						<span>🔱 496</span>
+					</div>
+				<div class="stars-today">⭐ 7150 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3989</span>
+						<span>⭐ 4008</span>
 						<span>🔱 324</span>
 					</div>
 				<div class="stars-today">⭐ 3238 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 53921</span>
-						<span>🔱 4091</span>
+						<span>⭐ 53992</span>
+						<span>🔱 4093</span>
 					</div>
 				<div class="stars-today">⭐ 26690 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71235</span>
-						<span>🔱 7267</span>
+						<span>⭐ 71263</span>
+						<span>🔱 7271</span>
 					</div>
 				<div class="stars-today">⭐ 27730 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
-    
-
-
-      
-        iOfficeAI /
-
-      AionUi</a></p>
-				<p>
-      Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16360</span>
-						<span>🔱 1229</span>
-					</div>
-				<div class="stars-today">⭐ 11734 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15509</span>
-						<span>🔱 1425</span>
+						<span>⭐ 15554</span>
+						<span>🔱 1426</span>
 					</div>
 				<div class="stars-today">⭐ 11671 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/iOfficeAI/AionUi" target="_blank">
+    
+
+
+      
+        iOfficeAI /
+
+      AionUi</a></p>
+				<p>
+      Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16381</span>
+						<span>🔱 1230</span>
+					</div>
+				<div class="stars-today">⭐ 11734 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28860</span>
+						<span>🔱 1940</span>
+					</div>
+				<div class="stars-today">⭐ 14765 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10632</span>
+						<span>⭐ 10640</span>
 						<span>🔱 518</span>
 					</div>
 				<div class="stars-today">⭐ 8580 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
+    
+
+
+      
+        ThePrimeagen /
+
+      99</a></p>
+				<p>
+      Neovim AI agent done right
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 3855</span>
+						<span>🔱 184</span>
+					</div>
+				<div class="stars-today">⭐ 2829 stars this month</div>
 				</div>
 			</div>
 	
