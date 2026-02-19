@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-19
-date: 2026-02-19T16:35:52Z
+date: 2026-02-19T18:34:58Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 55098</span>
-						<span>🔱 4169</span>
+						<span>⭐ 55176</span>
+						<span>🔱 4176</span>
 					</div>
 				<div class="stars-today">⭐ 886 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RichardAtCT/claude-code-telegram" target="_blank">
+    
+
+
+      
+        RichardAtCT /
+
+      claude-code-telegram</a></p>
+				<p>
+      A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 829</span>
+						<span>🔱 120</span>
+					</div>
+				<div class="stars-today">⭐ 174 stars today</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 608</span>
-						<span>🔱 105</span>
+						<span>⭐ 632</span>
+						<span>🔱 108</span>
 					</div>
 				<div class="stars-today">⭐ 56 stars today</div>
 				</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20050</span>
-						<span>🔱 2321</span>
+						<span>⭐ 20097</span>
+						<span>🔱 2324</span>
 					</div>
 				<div class="stars-today">⭐ 660 stars today</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 1597</span>
-						<span>🔱 55</span>
+						<span>⭐ 1636</span>
+						<span>🔱 57</span>
 					</div>
 				<div class="stars-today">⭐ 605 stars today</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 210986</span>
-						<span>🔱 39027</span>
+						<span>⭐ 211245</span>
+						<span>🔱 39097</span>
 					</div>
 				<div class="stars-today">⭐ 3384 stars today</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5061</span>
-						<span>🔱 414</span>
+						<span>⭐ 5100</span>
+						<span>🔱 415</span>
 					</div>
 				<div class="stars-today">⭐ 141 stars today</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8364</span>
-						<span>🔱 836</span>
+						<span>⭐ 8387</span>
+						<span>🔱 837</span>
 					</div>
 				<div class="stars-today">⭐ 657 stars today</div>
 				</div>
