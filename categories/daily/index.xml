@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 19 Feb 2026 16:35:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 19 Feb 2026 18:34:58 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-02-19</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-02-19/</link>
-        <pubDate>Thu, 19 Feb 2026 16:35:52 +0000</pubDate>
+        <pubDate>Thu, 19 Feb 2026 18:34:58 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-02-19/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 55098&lt;/span&gt;
-						&lt;span&gt;🔱 4169&lt;/span&gt;
+						&lt;span&gt;⭐ 55176&lt;/span&gt;
+						&lt;span&gt;🔱 4176&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 886 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/RichardAtCT/claude-code-telegram&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        RichardAtCT /
+
+      claude-code-telegram&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 829&lt;/span&gt;
+						&lt;span&gt;🔱 120&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 174 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 608&lt;/span&gt;
-						&lt;span&gt;🔱 105&lt;/span&gt;
+						&lt;span&gt;⭐ 632&lt;/span&gt;
+						&lt;span&gt;🔱 108&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 56 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -77,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 20050&lt;/span&gt;
-						&lt;span&gt;🔱 2321&lt;/span&gt;
+						&lt;span&gt;⭐ 20097&lt;/span&gt;
+						&lt;span&gt;🔱 2324&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 660 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,8 +121,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 1597&lt;/span&gt;
-						&lt;span&gt;🔱 55&lt;/span&gt;
+						&lt;span&gt;⭐ 1636&lt;/span&gt;
+						&lt;span&gt;🔱 57&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 605 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -121,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 210986&lt;/span&gt;
-						&lt;span&gt;🔱 39027&lt;/span&gt;
+						&lt;span&gt;⭐ 211245&lt;/span&gt;
+						&lt;span&gt;🔱 39097&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3384 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -143,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5061&lt;/span&gt;
-						&lt;span&gt;🔱 414&lt;/span&gt;
+						&lt;span&gt;⭐ 5100&lt;/span&gt;
+						&lt;span&gt;🔱 415&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 141 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -165,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8364&lt;/span&gt;
-						&lt;span&gt;🔱 836&lt;/span&gt;
+						&lt;span&gt;⭐ 8387&lt;/span&gt;
+						&lt;span&gt;🔱 837&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 657 stars today&lt;/div&gt;
 				&lt;/div&gt;
