@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第8周
-date: 2026-02-19T10:29:22Z
+date: 2026-02-19T12:30:27Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      zvec</a></p>
+				<p>
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 5106</span>
+						<span>🔱 296</span>
+					</div>
+				<div class="stars-today">⭐ 4260 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      Open-source AI coworker, with memory
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7739</span>
+						<span>🔱 671</span>
+					</div>
+				<div class="stars-today">⭐ 2845 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
@@ -30,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8224</span>
-						<span>🔱 829</span>
+						<span>⭐ 8274</span>
+						<span>🔱 833</span>
 					</div>
 				<div class="stars-today">⭐ 2628 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3210</span>
-						<span>🔱 197</span>
-					</div>
-				<div class="stars-today">⭐ 1983 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3197</span>
-						<span>🔱 229</span>
-					</div>
-				<div class="stars-today">⭐ 1629 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3716</span>
+						<span>⭐ 3725</span>
 						<span>🔱 234</span>
 					</div>
 				<div class="stars-today">⭐ 1971 stars this week</div>
@@ -104,46 +104,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
     
 
 
       
-        danielmiessler /
+        github /
 
-      Personal_AI_Infrastructure</a></p>
+      gh-aw</a></p>
 				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
+      GitHub Agentic Workflows
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8845</span>
-						<span>🔱 1209</span>
+						<span>🔠 Go</span>
+						<span>⭐ 3209</span>
+						<span>🔱 230</span>
 					</div>
-				<div class="stars-today">⭐ 1900 stars this week</div>
+				<div class="stars-today">⭐ 1629 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
     
 
 
       
-        ChromeDevTools /
+        Jeffallan /
 
-      chrome-devtools-mcp</a></p>
+      claude-skills</a></p>
 				<p>
-      Chrome DevTools for coding agents
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25965</span>
-						<span>🔱 1526</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3221</span>
+						<span>🔱 197</span>
 					</div>
-				<div class="stars-today">⭐ 2113 stars this week</div>
+				<div class="stars-today">⭐ 1983 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4153</span>
-						<span>🔱 332</span>
+						<span>⭐ 4166</span>
+						<span>🔱 333</span>
 					</div>
 				<div class="stars-today">⭐ 2404 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
     
 
 
       
-        google /
+        ChromeDevTools /
 
-      langextract</a></p>
+      chrome-devtools-mcp</a></p>
 				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33163</span>
-						<span>🔱 2212</span>
-					</div>
-				<div class="stars-today">⭐ 3254 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
-    
-
-
-      
-        tambo-ai /
-
-      tambo</a></p>
-				<p>
-      Generative UI SDK for React
+      Chrome DevTools for coding agents
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10737</span>
-						<span>🔱 519</span>
+						<span>⭐ 25980</span>
+						<span>🔱 1527</span>
 					</div>
-				<div class="stars-today">⭐ 2257 stars this week</div>
+				<div class="stars-today">⭐ 2113 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
+    
+
+
+      
+        danielmiessler /
+
+      Personal_AI_Infrastructure</a></p>
+				<p>
+      Agentic AI Infrastructure for magnifying HUMAN capabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8851</span>
+						<span>🔱 1210</span>
+					</div>
+				<div class="stars-today">⭐ 1900 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13657</span>
-						<span>🔱 1379</span>
+						<span>⭐ 13686</span>
+						<span>🔱 1382</span>
 					</div>
 				<div class="stars-today">⭐ 2812 stars this week</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7060</span>
+						<span>⭐ 7070</span>
 						<span>🔱 608</span>
 					</div>
 				<div class="stars-today">⭐ 1131 stars this week</div>
