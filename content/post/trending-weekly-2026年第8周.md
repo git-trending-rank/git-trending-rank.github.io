@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第8周
-date: 2026-02-20T10:22:47Z
+date: 2026-02-20T12:26:14Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 5235</span>
-						<span>🔱 297</span>
+						<span>⭐ 5245</span>
+						<span>🔱 299</span>
 					</div>
 				<div class="stars-today">⭐ 4506 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7875</span>
+						<span>⭐ 7894</span>
 						<span>🔱 681</span>
 					</div>
 				<div class="stars-today">⭐ 2842 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
+    
+
+
+      
+        SynkraAI /
+
+      aios-core</a></p>
+				<p>
+      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1451</span>
+						<span>🔱 522</span>
+					</div>
+				<div class="stars-today">⭐ 1183 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8652</span>
-						<span>🔱 862</span>
+						<span>⭐ 8668</span>
+						<span>🔱 863</span>
 					</div>
 				<div class="stars-today">⭐ 3302 stars this week</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3815</span>
-						<span>🔱 238</span>
+						<span>⭐ 3825</span>
+						<span>🔱 239</span>
 					</div>
 				<div class="stars-today">⭐ 2095 stars this week</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3303</span>
+						<span>⭐ 3307</span>
 						<span>🔱 231</span>
 					</div>
 				<div class="stars-today">⭐ 1317 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3331</span>
-						<span>🔱 200</span>
-					</div>
-				<div class="stars-today">⭐ 1857 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,76 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4276</span>
-						<span>🔱 338</span>
+						<span>⭐ 4284</span>
+						<span>🔱 339</span>
 					</div>
 				<div class="stars-today">⭐ 2532 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
     
 
 
       
-        ChromeDevTools /
+        Jeffallan /
 
-      chrome-devtools-mcp</a></p>
+      claude-skills</a></p>
 				<p>
-      Chrome DevTools for coding agents
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26091</span>
-						<span>🔱 1535</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3339</span>
+						<span>🔱 200</span>
 					</div>
-				<div class="stars-today">⭐ 1803 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/danielmiessler/Personal_AI_Infrastructure" target="_blank">
-    
-
-
-      
-        danielmiessler /
-
-      Personal_AI_Infrastructure</a></p>
-				<p>
-      Agentic AI Infrastructure for magnifying HUMAN capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8926</span>
-						<span>🔱 1217</span>
-					</div>
-				<div class="stars-today">⭐ 1657 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14046</span>
-						<span>🔱 1430</span>
-					</div>
-				<div class="stars-today">⭐ 2669 stars this week</div>
+				<div class="stars-today">⭐ 1857 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7139</span>
+						<span>⭐ 7148</span>
 						<span>🔱 610</span>
 					</div>
 				<div class="stars-today">⭐ 1222 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26103</span>
+						<span>🔱 1537</span>
+					</div>
+				<div class="stars-today">⭐ 1803 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/yctimlin/mcp_excalidraw" target="_blank">
+    
+
+
+      
+        yctimlin /
+
+      mcp_excalidraw</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1026</span>
+						<span>🔱 96</span>
+					</div>
+				<div class="stars-today">⭐ 184 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14076</span>
+						<span>🔱 1438</span>
+					</div>
+				<div class="stars-today">⭐ 2669 stars this week</div>
 				</div>
 			</div>
 	

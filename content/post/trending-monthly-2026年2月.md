@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-20T10:22:47Z
+date: 2026-02-20T12:26:14Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 212942</span>
-						<span>🔱 39581</span>
+						<span>⭐ 213157</span>
+						<span>🔱 39635</span>
 					</div>
 				<div class="stars-today">⭐ 205829 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14046</span>
-						<span>🔱 1430</span>
+						<span>⭐ 14076</span>
+						<span>🔱 1438</span>
 					</div>
 				<div class="stars-today">⭐ 11770 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23874</span>
-						<span>🔱 2370</span>
+						<span>⭐ 23892</span>
+						<span>🔱 2377</span>
 					</div>
 				<div class="stars-today">⭐ 19782 stars this month</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9551</span>
-						<span>🔱 520</span>
+						<span>⭐ 9562</span>
+						<span>🔱 522</span>
 					</div>
 				<div class="stars-today">⭐ 7495 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 32205</span>
+						<span>🔱 5123</span>
+					</div>
+				<div class="stars-today">⭐ 6997 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9076</span>
+						<span>⭐ 9081</span>
 						<span>🔱 509</span>
 					</div>
 				<div class="stars-today">⭐ 7281 stars this month</div>
@@ -140,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15635</span>
-						<span>🔱 1128</span>
+						<span>⭐ 15641</span>
+						<span>🔱 1129</span>
 					</div>
 				<div class="stars-today">⭐ 10104 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 32190</span>
-						<span>🔱 5120</span>
-					</div>
-				<div class="stars-today">⭐ 6997 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
-    
-
-
-      
-        remotion-dev /
-
-      remotion</a></p>
-				<p>
-      🎥 Make videos programmatically with React
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37298</span>
-						<span>🔱 2279</span>
-					</div>
-				<div class="stars-today">⭐ 11904 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4276</span>
-						<span>🔱 338</span>
+						<span>⭐ 4284</span>
+						<span>🔱 339</span>
 					</div>
 				<div class="stars-today">⭐ 3685 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37312</span>
+						<span>🔱 2279</span>
+					</div>
+				<div class="stars-today">⭐ 11904 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 55742</span>
-						<span>🔱 4228</span>
+						<span>⭐ 55815</span>
+						<span>🔱 4232</span>
 					</div>
 				<div class="stars-today">⭐ 25898 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72182</span>
-						<span>🔱 7377</span>
+						<span>⭐ 72219</span>
+						<span>🔱 7391</span>
 					</div>
 				<div class="stars-today">⭐ 26759 stars this month</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16388</span>
-						<span>🔱 1502</span>
+						<span>⭐ 16418</span>
+						<span>🔱 1506</span>
 					</div>
 				<div class="stars-today">⭐ 11323 stars this month</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29437</span>
-						<span>🔱 1979</span>
+						<span>⭐ 29463</span>
+						<span>🔱 1982</span>
 					</div>
 				<div class="stars-today">⭐ 14947 stars this month</div>
 				</div>
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3935</span>
+						<span>⭐ 3937</span>
 						<span>🔱 187</span>
 					</div>
 				<div class="stars-today">⭐ 2876 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8668</span>
+						<span>🔱 863</span>
+					</div>
+				<div class="stars-today">⭐ 4166 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9507</span>
+						<span>⭐ 9512</span>
 						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 4647 stars this month</div>
@@ -346,24 +368,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tambo-ai/tambo" target="_blank">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
     
 
 
       
-        tambo-ai /
+        MoonshotAI /
 
-      tambo</a></p>
+      kimi-cli</a></p>
 				<p>
-      Generative UI SDK for React
+      Kimi Code CLI is your next CLI agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10802</span>
-						<span>🔱 521</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6511</span>
+						<span>🔱 624</span>
 					</div>
-				<div class="stars-today">⭐ 8344 stars this month</div>
+				<div class="stars-today">⭐ 2644 stars this month</div>
 				</div>
 			</div>
 	

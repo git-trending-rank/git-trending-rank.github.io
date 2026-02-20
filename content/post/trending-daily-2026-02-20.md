@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-20
-date: 2026-02-20T10:22:47Z
+date: 2026-02-20T12:26:14Z
 categories:
 - daily
 keywords:
@@ -16,90 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
     
 
 
       
-        obra /
+        vxcontrol /
 
-      superpowers</a></p>
+      pentagi</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 55742</span>
-						<span>🔱 4228</span>
+						<span>🔠 Go</span>
+						<span>⭐ 2636</span>
+						<span>🔱 453</span>
 					</div>
-				<div class="stars-today">⭐ 889 stars today</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/RichardAtCT/claude-code-telegram" target="_blank">
+				<p><a href="https://github.com/blackboardsh/electrobun" target="_blank">
     
 
 
       
-        RichardAtCT /
+        blackboardsh /
 
-      claude-code-telegram</a></p>
+      electrobun</a></p>
 				<p>
-      A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+      Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1135</span>
-						<span>🔱 143</span>
+						<span>🔠 C++</span>
+						<span>⭐ 5682</span>
+						<span>🔱 94</span>
 					</div>
-				<div class="stars-today">⭐ 174 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/open-mercato/open-mercato" target="_blank">
-    
-
-
-      
-        open-mercato /
-
-      open-mercato</a></p>
-				<p>
-       AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 853</span>
-						<span>🔱 124</span>
-					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harvard-edge/cs249r_book" target="_blank">
-    
-
-
-      
-        harvard-edge /
-
-      cs249r_book</a></p>
-				<p>
-      Introduction to Machine Learning Systems
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 20376</span>
-						<span>🔱 2339</span>
-					</div>
-				<div class="stars-today">⭐ 663 stars today</div>
+				<div class="stars-today">⭐ 951 stars today</div>
 				</div>
 			</div>
 	
@@ -118,32 +74,228 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 1905</span>
+						<span>⭐ 1934</span>
 						<span>🔱 72</span>
 					</div>
-				<div class="stars-today">⭐ 608 stars today</div>
+				<div class="stars-today">⭐ 440 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        openclaw /
+        obra /
 
-      openclaw</a></p>
+      superpowers</a></p>
 				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 55815</span>
+						<span>🔱 4232</span>
+					</div>
+				<div class="stars-today">⭐ 980 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 32037</span>
+						<span>🔱 2956</span>
+					</div>
+				<div class="stars-today">⭐ 43 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PostHog/posthog" target="_blank">
+    
+
+
+      
+        PostHog /
+
+      posthog</a></p>
+				<p>
+      🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31362</span>
+						<span>🔱 2298</span>
+					</div>
+				<div class="stars-today">⭐ 21 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/eslint/eslint" target="_blank">
+    
+
+
+      
+        eslint /
+
+      eslint</a></p>
+				<p>
+      Find and fix problems in your JavaScript code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 27013</span>
+						<span>🔱 4917</span>
+					</div>
+				<div class="stars-today">⭐ 30 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7709</span>
+						<span>🔱 761</span>
+					</div>
+				<div class="stars-today">⭐ 64 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Effect-TS/effect-smol" target="_blank">
+    
+
+
+      
+        Effect-TS /
+
+      effect-smol</a></p>
+				<p>
+      Core libraries and experimental work for Effect v4
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 212942</span>
-						<span>🔱 39581</span>
+						<span>⭐ 336</span>
+						<span>🔱 40</span>
 					</div>
-				<div class="stars-today">⭐ 3390 stars today</div>
+				<div class="stars-today">⭐ 11 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8688</span>
+						<span>🔱 727</span>
+					</div>
+				<div class="stars-today">⭐ 438 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/roboflow/trackers" target="_blank">
+    
+
+
+      
+        roboflow /
+
+      trackers</a></p>
+				<p>
+      Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2623</span>
+						<span>🔱 261</span>
+					</div>
+				<div class="stars-today">⭐ 127 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1293</span>
+						<span>🔱 125</span>
+					</div>
+				<div class="stars-today">⭐ 22 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/databricks-solutions/ai-dev-kit" target="_blank">
+    
+
+
+      
+        databricks-solutions /
+
+      ai-dev-kit</a></p>
+				<p>
+      Databricks Toolkit for Coding Agents provided by Field Engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 457</span>
+						<span>🔱 90</span>
+					</div>
+				<div class="stars-today">⭐ 35 stars today</div>
 				</div>
 			</div>
 	
@@ -162,32 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5393</span>
-						<span>🔱 435</span>
+						<span>⭐ 5421</span>
+						<span>🔱 436</span>
 					</div>
-				<div class="stars-today">⭐ 141 stars today</div>
+				<div class="stars-today">⭐ 503 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+				<p><a href="https://github.com/ComposioHQ/composio" target="_blank">
     
 
 
       
-        p-e-w /
+        ComposioHQ /
 
-      heretic</a></p>
+      composio</a></p>
 				<p>
-      Fully automatic censorship removal for language models
+      Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8652</span>
-						<span>🔱 862</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26912</span>
+						<span>🔱 4431</span>
 					</div>
-				<div class="stars-today">⭐ 652 stars today</div>
+				<div class="stars-today">⭐ 218 stars today</div>
 				</div>
 			</div>
 	
