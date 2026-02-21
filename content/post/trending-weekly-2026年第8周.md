@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第8周
-date: 2026-02-21T10:01:21Z
+date: 2026-02-21T11:59:07Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 5375</span>
-						<span>🔱 303</span>
+						<span>⭐ 5402</span>
+						<span>🔱 306</span>
 					</div>
 				<div class="stars-today">⭐ 4451 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      Open-source AI coworker, with memory
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8025</span>
-						<span>🔱 687</span>
-					</div>
-				<div class="stars-today">⭐ 2530 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
-    
-
-
-      
-        SynkraAI /
-
-      aios-core</a></p>
-				<p>
-      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1546</span>
-						<span>🔱 555</span>
-					</div>
-				<div class="stars-today">⭐ 1159 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8802</span>
-						<span>🔱 877</span>
+						<span>⭐ 8817</span>
+						<span>🔱 878</span>
 					</div>
 				<div class="stars-today">⭐ 3691 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
+    
+
+
+      
+        SynkraAI /
+
+      aios-core</a></p>
+				<p>
+      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1551</span>
+						<span>🔱 557</span>
+					</div>
+				<div class="stars-today">⭐ 1159 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      Open-source AI coworker, with memory
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8034</span>
+						<span>🔱 689</span>
+					</div>
+				<div class="stars-today">⭐ 2530 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3901</span>
+						<span>⭐ 3907</span>
 						<span>🔱 240</span>
 					</div>
 				<div class="stars-today">⭐ 2171 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3365</span>
-						<span>🔱 235</span>
-					</div>
-				<div class="stars-today">⭐ 1238 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4421</span>
+						<span>⭐ 4439</span>
 						<span>🔱 344</span>
 					</div>
 				<div class="stars-today">⭐ 2616 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8958</span>
+						<span>🔱 740</span>
+					</div>
+				<div class="stars-today">⭐ 1023 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3371</span>
+						<span>🔱 236</span>
+					</div>
+				<div class="stars-today">⭐ 1238 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3459</span>
-						<span>🔱 203</span>
+						<span>⭐ 3466</span>
+						<span>🔱 207</span>
 					</div>
 				<div class="stars-today">⭐ 1336 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      wifi-densepose</a></p>
-				<p>
-      Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7207</span>
-						<span>🔱 610</span>
-					</div>
-				<div class="stars-today">⭐ 1276 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,52 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26227</span>
+						<span>⭐ 26239</span>
 						<span>🔱 1539</span>
 					</div>
 				<div class="stars-today">⭐ 1556 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/yctimlin/mcp_excalidraw" target="_blank">
-    
-
-
-      
-        yctimlin /
-
-      mcp_excalidraw</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1084</span>
-						<span>🔱 96</span>
-					</div>
-				<div class="stars-today">⭐ 182 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14325</span>
-						<span>🔱 1470</span>
-					</div>
-				<div class="stars-today">⭐ 2656 stars this week</div>
 				</div>
 			</div>
 	

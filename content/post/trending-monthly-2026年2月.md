@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-21T10:01:21Z
+date: 2026-02-21T11:59:07Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 215051</span>
-						<span>🔱 40327</span>
+						<span>⭐ 215200</span>
+						<span>🔱 40362</span>
 					</div>
 				<div class="stars-today">⭐ 208777 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14325</span>
-						<span>🔱 1470</span>
+						<span>⭐ 14347</span>
+						<span>🔱 1475</span>
 					</div>
 				<div class="stars-today">⭐ 12163 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24075</span>
-						<span>🔱 2399</span>
+						<span>⭐ 24095</span>
+						<span>🔱 2401</span>
 					</div>
 				<div class="stars-today">⭐ 20111 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
-    
-
-
-      
-        tobi /
-
-      qmd</a></p>
-				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9722</span>
-						<span>🔱 531</span>
-					</div>
-				<div class="stars-today">⭐ 7352 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 32313</span>
-						<span>🔱 5141</span>
+						<span>⭐ 32327</span>
+						<span>🔱 5143</span>
 					</div>
 				<div class="stars-today">⭐ 7136 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tobi/qmd" target="_blank">
+    
+
+
+      
+        tobi /
+
+      qmd</a></p>
+				<p>
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9742</span>
+						<span>🔱 531</span>
+					</div>
+				<div class="stars-today">⭐ 7352 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9178</span>
-						<span>🔱 512</span>
+						<span>⭐ 9185</span>
+						<span>🔱 513</span>
 					</div>
 				<div class="stars-today">⭐ 7345 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15708</span>
-						<span>🔱 1133</span>
-					</div>
-				<div class="stars-today">⭐ 9905 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4421</span>
+						<span>⭐ 4439</span>
 						<span>🔱 344</span>
 					</div>
 				<div class="stars-today">⭐ 3800 stars this month</div>
@@ -192,24 +170,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        remotion-dev /
+        VectifyAI /
 
-      remotion</a></p>
+      PageIndex</a></p>
 				<p>
-      🎥 Make videos programmatically with React
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37428</span>
-						<span>🔱 2291</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15711</span>
+						<span>🔱 1133</span>
 					</div>
-				<div class="stars-today">⭐ 12036 stars this month</div>
+				<div class="stars-today">⭐ 9905 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 56510</span>
-						<span>🔱 4284</span>
+						<span>⭐ 56559</span>
+						<span>🔱 4287</span>
 					</div>
 				<div class="stars-today">⭐ 25620 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      skills</a></p>
-				<p>
-      Public repository for Agent Skills
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 72596</span>
-						<span>🔱 7428</span>
-					</div>
-				<div class="stars-today">⭐ 26079 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
-    
-
-
-      
-        gsd-build /
-
-      get-shit-done</a></p>
-				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16805</span>
-						<span>🔱 1530</span>
-					</div>
-				<div class="stars-today">⭐ 11307 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29648</span>
-						<span>🔱 1995</span>
+						<span>⭐ 29667</span>
+						<span>🔱 1999</span>
 					</div>
 				<div class="stars-today">⭐ 15162 stars this month</div>
 				</div>
@@ -316,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 3961</span>
+						<span>⭐ 3964</span>
 						<span>🔱 188</span>
 					</div>
 				<div class="stars-today">⭐ 2911 stars this month</div>
@@ -338,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8802</span>
-						<span>🔱 877</span>
+						<span>⭐ 8817</span>
+						<span>🔱 878</span>
 					</div>
 				<div class="stars-today">⭐ 4475 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+    
+
+
+      
+        gsd-build /
+
+      get-shit-done</a></p>
+				<p>
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16836</span>
+						<span>🔱 1532</span>
+					</div>
+				<div class="stars-today">⭐ 11307 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+    
+
+
+      
+        remotion-dev /
+
+      remotion</a></p>
+				<p>
+      🎥 Make videos programmatically with React
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37444</span>
+						<span>🔱 2291</span>
+					</div>
+				<div class="stars-today">⭐ 12036 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9607</span>
-						<span>🔱 731</span>
+						<span>⭐ 9619</span>
+						<span>🔱 732</span>
 					</div>
 				<div class="stars-today">⭐ 4736 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 72638</span>
+						<span>🔱 7435</span>
+					</div>
+				<div class="stars-today">⭐ 26079 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6558</span>
+						<span>⭐ 6560</span>
 						<span>🔱 626</span>
 					</div>
 				<div class="stars-today">⭐ 2660 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steipete/summarize" target="_blank">
+    
+
+
+      
+        steipete /
+
+      summarize</a></p>
+				<p>
+      Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3907</span>
+						<span>🔱 240</span>
+					</div>
+				<div class="stars-today">⭐ 3024 stars this month</div>
 				</div>
 			</div>
 	
