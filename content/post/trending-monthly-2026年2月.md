@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-22T10:01:21Z
+date: 2026-02-22T11:58:57Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 217182</span>
-						<span>🔱 41011</span>
+						<span>⭐ 217384</span>
+						<span>🔱 41062</span>
 					</div>
 				<div class="stars-today">⭐ 210607 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14604</span>
-						<span>🔱 1502</span>
+						<span>⭐ 14618</span>
+						<span>🔱 1506</span>
 					</div>
 				<div class="stars-today">⭐ 12413 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24288</span>
+						<span>⭐ 24296</span>
 						<span>🔱 2413</span>
 					</div>
 				<div class="stars-today">⭐ 20309 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 32473</span>
-						<span>🔱 5172</span>
-					</div>
-				<div class="stars-today">⭐ 7255 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9906</span>
-						<span>🔱 546</span>
+						<span>⭐ 9913</span>
+						<span>🔱 548</span>
 					</div>
 				<div class="stars-today">⭐ 7499 stars this month</div>
 				</div>
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9284</span>
-						<span>🔱 518</span>
+						<span>⭐ 9296</span>
+						<span>🔱 521</span>
 					</div>
 				<div class="stars-today">⭐ 7418 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 32484</span>
+						<span>🔱 5174</span>
+					</div>
+				<div class="stars-today">⭐ 7255 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4561</span>
+						<span>⭐ 4571</span>
 						<span>🔱 359</span>
 					</div>
 				<div class="stars-today">⭐ 3944 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15787</span>
-						<span>🔱 1135</span>
-					</div>
-				<div class="stars-today">⭐ 9853 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 57324</span>
-						<span>🔱 4348</span>
-					</div>
-				<div class="stars-today">⭐ 25053 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30051</span>
-						<span>🔱 2027</span>
+						<span>⭐ 30071</span>
+						<span>🔱 2028</span>
 					</div>
 				<div class="stars-today">⭐ 15266 stars this month</div>
 				</div>
@@ -250,54 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9035</span>
-						<span>🔱 902</span>
+						<span>⭐ 9059</span>
+						<span>🔱 904</span>
 					</div>
 				<div class="stars-today">⭐ 4612 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        gsd-build /
+        obra /
 
-      get-shit-done</a></p>
+      superpowers</a></p>
 				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 17269</span>
-						<span>🔱 1568</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 57368</span>
+						<span>🔱 4353</span>
 					</div>
-				<div class="stars-today">⭐ 11379 stars this month</div>
+				<div class="stars-today">⭐ 25053 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/remotion-dev/remotion" target="_blank">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
     
 
 
       
-        remotion-dev /
+        VectifyAI /
 
-      remotion</a></p>
+      PageIndex</a></p>
 				<p>
-      🎥 Make videos programmatically with React
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37551</span>
-						<span>🔱 2298</span>
+						<span>🔠 Python</span>
+						<span>⭐ 15792</span>
+						<span>🔱 1135</span>
 					</div>
-				<div class="stars-today">⭐ 11904 stars this month</div>
+				<div class="stars-today">⭐ 9853 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9721</span>
+						<span>⭐ 9727</span>
 						<span>🔱 743</span>
 					</div>
 				<div class="stars-today">⭐ 4833 stars this month</div>
@@ -324,24 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
     
 
 
       
-        anthropics /
+        gsd-build /
 
-      skills</a></p>
+      get-shit-done</a></p>
 				<p>
-      Public repository for Agent Skills
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73087</span>
-						<span>🔱 7482</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 17310</span>
+						<span>🔱 1573</span>
 					</div>
-				<div class="stars-today">⭐ 25347 stars this month</div>
+				<div class="stars-today">⭐ 11379 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6597</span>
-						<span>🔱 628</span>
+						<span>⭐ 6603</span>
+						<span>🔱 630</span>
 					</div>
 				<div class="stars-today">⭐ 2703 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      ext-apps</a></p>
+				<p>
+      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1575</span>
+						<span>🔱 184</span>
+					</div>
+				<div class="stars-today">⭐ 1188 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4035</span>
+						<span>⭐ 4043</span>
 						<span>🔱 248</span>
 					</div>
 				<div class="stars-today">⭐ 3078 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/skills" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      skills</a></p>
+				<p>
+      Public repository for Agent Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73136</span>
+						<span>🔱 7486</span>
+					</div>
+				<div class="stars-today">⭐ 25347 stars this month</div>
 				</div>
 			</div>
 	

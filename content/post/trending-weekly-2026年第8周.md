@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第8周
-date: 2026-02-22T10:01:21Z
+date: 2026-02-22T11:58:57Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 6530</span>
-						<span>🔱 366</span>
+						<span>⭐ 6589</span>
+						<span>🔱 367</span>
 					</div>
 				<div class="stars-today">⭐ 4587 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9035</span>
-						<span>🔱 902</span>
+						<span>⭐ 9059</span>
+						<span>🔱 904</span>
 					</div>
 				<div class="stars-today">⭐ 3768 stars this week</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 1614</span>
-						<span>🔱 579</span>
+						<span>⭐ 1619</span>
+						<span>🔱 580</span>
 					</div>
 				<div class="stars-today">⭐ 1046 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/seerr-team/seerr" target="_blank">
+    
+
+
+      
+        seerr-team /
+
+      seerr</a></p>
+				<p>
+      Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9583</span>
+						<span>🔱 627</span>
+					</div>
+				<div class="stars-today">⭐ 1018 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8234</span>
-						<span>🔱 708</span>
+						<span>⭐ 8254</span>
+						<span>🔱 710</span>
 					</div>
 				<div class="stars-today">⭐ 2449 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9281</span>
+						<span>🔱 773</span>
+					</div>
+				<div class="stars-today">⭐ 1259 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4035</span>
+						<span>⭐ 4043</span>
 						<span>🔱 248</span>
 					</div>
 				<div class="stars-today">⭐ 1995 stars this week</div>
@@ -140,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4561</span>
+						<span>⭐ 4571</span>
 						<span>🔱 359</span>
 					</div>
 				<div class="stars-today">⭐ 2360 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9249</span>
-						<span>🔱 772</span>
-					</div>
-				<div class="stars-today">⭐ 1259 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3433</span>
-						<span>🔱 238</span>
+						<span>⭐ 3440</span>
+						<span>🔱 240</span>
 					</div>
 				<div class="stars-today">⭐ 1120 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3587</span>
-						<span>🔱 212</span>
-					</div>
-				<div class="stars-today">⭐ 1114 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
-				<p>
-      Chrome DevTools for coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26353</span>
-						<span>🔱 1546</span>
-					</div>
-				<div class="stars-today">⭐ 1358 stars this week</div>
 				</div>
 			</div>
 	
