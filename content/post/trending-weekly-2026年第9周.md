@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第9周
-date: 2026-02-23T10:36:04Z
+date: 2026-02-23T12:30:55Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      zvec</a></p>
-				<p>
-      A lightweight, lightning-fast, in-process vector database
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 7266</span>
-						<span>🔱 391</span>
-					</div>
-				<div class="stars-today">⭐ 4957 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
@@ -52,10 +30,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9247</span>
-						<span>🔱 918</span>
+						<span>⭐ 9263</span>
+						<span>🔱 919</span>
 					</div>
 				<div class="stars-today">⭐ 3948 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      zvec</a></p>
+				<p>
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 7302</span>
+						<span>🔱 392</span>
+					</div>
+				<div class="stars-today">⭐ 4957 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3361</span>
+						<span>🔱 226</span>
+					</div>
+				<div class="stars-today">⭐ 866 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 1685</span>
+						<span>⭐ 1691</span>
 						<span>🔱 594</span>
 					</div>
 				<div class="stars-today">⭐ 953 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/seerr-team/seerr" target="_blank">
-    
-
-
-      
-        seerr-team /
-
-      seerr</a></p>
-				<p>
-      Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9672</span>
-						<span>🔱 633</span>
-					</div>
-				<div class="stars-today">⭐ 875 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      Open-source AI coworker, with memory
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8452</span>
-						<span>🔱 725</span>
-					</div>
-				<div class="stars-today">⭐ 1866 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +116,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9497</span>
-						<span>🔱 789</span>
+						<span>⭐ 9512</span>
+						<span>🔱 791</span>
 					</div>
 				<div class="stars-today">⭐ 1593 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steipete/summarize" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        steipete /
+        x1xhlol /
 
-      summarize</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 118829</span>
+						<span>🔱 30870</span>
+					</div>
+				<div class="stars-today">⭐ 4018 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/seerr-team/seerr" target="_blank">
+    
+
+
+      
+        seerr-team /
+
+      seerr</a></p>
+				<p>
+      Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4192</span>
-						<span>🔱 255</span>
+						<span>⭐ 9678</span>
+						<span>🔱 633</span>
 					</div>
-				<div class="stars-today">⭐ 1831 stars this week</div>
+				<div class="stars-today">⭐ 875 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/agents" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      agents</a></p>
+				<p>
+      Build and deploy AI Agents on Cloudflare 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3874</span>
+						<span>🔱 413</span>
+					</div>
+				<div class="stars-today">⭐ 441 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      Open-source AI coworker, with memory
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8467</span>
+						<span>🔱 726</span>
+					</div>
+				<div class="stars-today">⭐ 1866 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+    
+
+
+      
+        Stremio /
+
+      stremio-web</a></p>
+				<p>
+      Stremio - Freedom to Stream
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9829</span>
+						<span>🔱 1074</span>
+					</div>
+				<div class="stars-today">⭐ 632 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4707</span>
+						<span>⭐ 4718</span>
 						<span>🔱 366</span>
 					</div>
 				<div class="stars-today">⭐ 1951 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3521</span>
-						<span>🔱 246</span>
-					</div>
-				<div class="stars-today">⭐ 980 stars this week</div>
 				</div>
 			</div>
 	

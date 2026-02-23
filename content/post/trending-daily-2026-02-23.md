@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-23
-date: 2026-02-23T10:36:04Z
+date: 2026-02-23T12:30:55Z
 categories:
 - daily
 keywords:
@@ -14,70 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3295</span>
-						<span>🔱 221</span>
-					</div>
-				<div class="stars-today">⭐ 364 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
-    
-
-
-      
-        vxcontrol /
-
-      pentagi</a></p>
-				<p>
-      ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 7663</span>
-						<span>🔱 865</span>
-					</div>
-				<div class="stars-today">⭐ 1579 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 69214</span>
-						<span>🔱 5434</span>
-					</div>
-				<div class="stars-today">⭐ 503 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
@@ -94,32 +30,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 118565</span>
-						<span>🔱 30808</span>
+						<span>⭐ 118829</span>
+						<span>🔱 30870</span>
 					</div>
 				<div class="stars-today">⭐ 1134 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
     
 
 
       
-        Stremio /
+        huggingface /
 
-      stremio-web</a></p>
-				<p>
-      Stremio - Freedom to Stream
-    </p>
+      skills</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9810</span>
-						<span>🔱 1073</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3361</span>
+						<span>🔱 226</span>
 					</div>
-				<div class="stars-today">⭐ 247 stars today</div>
+				<div class="stars-today">⭐ 364 stars today</div>
 				</div>
 			</div>
 	
@@ -138,32 +72,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61191</span>
-						<span>🔱 5968</span>
+						<span>⭐ 61213</span>
+						<span>🔱 5970</span>
 					</div>
 				<div class="stars-today">⭐ 188 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/agents" target="_blank">
+				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
     
 
 
       
-        cloudflare /
+        muratcankoylan /
 
-      agents</a></p>
+      Agent-Skills-for-Context-Engineering</a></p>
 				<p>
-      Build and deploy AI Agents on Cloudflare 
+      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3862</span>
-						<span>🔱 413</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8636</span>
+						<span>🔱 687</span>
 					</div>
-				<div class="stars-today">⭐ 257 stars today</div>
+				<div class="stars-today">⭐ 147 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/f/prompts.chat" target="_blank">
+    
+
+
+      
+        f /
+
+      prompts.chat</a></p>
+				<p>
+      a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 146778</span>
+						<span>🔱 19379</span>
+					</div>
+				<div class="stars-today">⭐ 450 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CompVis/stable-diffusion" target="_blank">
+    
+
+
+      
+        CompVis /
+
+      stable-diffusion</a></p>
+				<p>
+      A latent text-to-image diffusion model
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 72433</span>
+						<span>🔱 10595</span>
+					</div>
+				<div class="stars-today">⭐ 31 stars today</div>
 				</div>
 			</div>
 	
@@ -182,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1687</span>
-						<span>🔱 130</span>
+						<span>⭐ 1714</span>
+						<span>🔱 131</span>
 					</div>
 				<div class="stars-today">⭐ 424 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+    
+
+
+      
+        Stremio /
+
+      stremio-web</a></p>
+				<p>
+      Stremio - Freedom to Stream
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9829</span>
+						<span>🔱 1074</span>
+					</div>
+				<div class="stars-today">⭐ 247 stars today</div>
 				</div>
 			</div>
 	
@@ -204,10 +204,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18343</span>
-						<span>🔱 1185</span>
+						<span>⭐ 18361</span>
+						<span>🔱 1186</span>
 					</div>
 				<div class="stars-today">⭐ 340 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16391</span>
+						<span>🔱 1173</span>
+					</div>
+				<div class="stars-today">⭐ 552 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/agents" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      agents</a></p>
+				<p>
+      Build and deploy AI Agents on Cloudflare 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3874</span>
+						<span>🔱 413</span>
+					</div>
+				<div class="stars-today">⭐ 257 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siteboon/claudecodeui" target="_blank">
+    
+
+
+      
+        siteboon /
+
+      claudecodeui</a></p>
+				<p>
+      Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6466</span>
+						<span>🔱 847</span>
+					</div>
+				<div class="stars-today">⭐ 46 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9886</span>
+						<span>🔱 751</span>
+					</div>
+				<div class="stars-today">⭐ 121 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
+    
+
+
+      
+        clash-verge-rev /
+
+      clash-verge-rev</a></p>
+				<p>
+      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 98124</span>
+						<span>🔱 7165</span>
+					</div>
+				<div class="stars-today">⭐ 121 stars today</div>
 				</div>
 			</div>
 	

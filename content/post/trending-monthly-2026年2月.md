@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-23T10:36:04Z
+date: 2026-02-23T12:30:55Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 219854</span>
-						<span>🔱 41825</span>
+						<span>⭐ 220085</span>
+						<span>🔱 41887</span>
 					</div>
 				<div class="stars-today">⭐ 212331 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14881</span>
-						<span>🔱 1542</span>
+						<span>⭐ 14897</span>
+						<span>🔱 1545</span>
 					</div>
 				<div class="stars-today">⭐ 12595 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24501</span>
-						<span>🔱 2433</span>
+						<span>⭐ 24522</span>
+						<span>🔱 2435</span>
 					</div>
 				<div class="stars-today">⭐ 20478 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10104</span>
-						<span>🔱 564</span>
+						<span>⭐ 10118</span>
+						<span>🔱 565</span>
 					</div>
 				<div class="stars-today">⭐ 7588 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9398</span>
-						<span>🔱 529</span>
+						<span>⭐ 9412</span>
+						<span>🔱 530</span>
 					</div>
 				<div class="stars-today">⭐ 7482 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 32676</span>
+						<span>⭐ 32687</span>
 						<span>🔱 5196</span>
 					</div>
 				<div class="stars-today">⭐ 7375 stars this month</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4707</span>
+						<span>⭐ 4718</span>
 						<span>🔱 366</span>
 					</div>
 				<div class="stars-today">⭐ 4053 stars this month</div>
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30330</span>
-						<span>🔱 2047</span>
+						<span>⭐ 30353</span>
+						<span>🔱 2048</span>
 					</div>
 				<div class="stars-today">⭐ 15583 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
-    
-
-
-      
-        ThePrimeagen /
-
-      99</a></p>
-				<p>
-      Neovim AI agent done right
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 4013</span>
-						<span>🔱 192</span>
-					</div>
-				<div class="stars-today">⭐ 2951 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9247</span>
-						<span>🔱 918</span>
+						<span>⭐ 9263</span>
+						<span>🔱 919</span>
 					</div>
 				<div class="stars-today">⭐ 4846 stars this month</div>
 				</div>
@@ -250,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 58674</span>
-						<span>🔱 4461</span>
+						<span>⭐ 58780</span>
+						<span>🔱 4467</span>
 					</div>
 				<div class="stars-today">⭐ 24685 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
     
 
 
       
-        VectifyAI /
+        ThePrimeagen /
 
-      PageIndex</a></p>
+      99</a></p>
 				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+      Neovim AI agent done right
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16327</span>
-						<span>🔱 1169</span>
+						<span>🔠 Lua</span>
+						<span>⭐ 4017</span>
+						<span>🔱 192</span>
 					</div>
-				<div class="stars-today">⭐ 9582 stars this month</div>
+				<div class="stars-today">⭐ 2951 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9849</span>
+						<span>⭐ 9886</span>
 						<span>🔱 751</span>
 					</div>
 				<div class="stars-today">⭐ 4918 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
-    
-
-
-      
-        gsd-build /
-
-      get-shit-done</a></p>
-				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 18099</span>
-						<span>🔱 1633</span>
-					</div>
-				<div class="stars-today">⭐ 11422 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6645</span>
-						<span>🔱 637</span>
-					</div>
-				<div class="stars-today">⭐ 2725 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1620</span>
+						<span>⭐ 1624</span>
 						<span>🔱 186</span>
 					</div>
 				<div class="stars-today">⭐ 1200 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
+    
+
+
+      
+        MoonshotAI /
+
+      kimi-cli</a></p>
+				<p>
+      Kimi Code CLI is your next CLI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6647</span>
+						<span>🔱 637</span>
+					</div>
+				<div class="stars-today">⭐ 2725 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+    
+
+
+      
+        gsd-build /
+
+      get-shit-done</a></p>
+				<p>
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 18155</span>
+						<span>🔱 1636</span>
+					</div>
+				<div class="stars-today">⭐ 11422 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16391</span>
+						<span>🔱 1173</span>
+					</div>
+				<div class="stars-today">⭐ 9582 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4192</span>
-						<span>🔱 255</span>
+						<span>⭐ 4200</span>
+						<span>🔱 256</span>
 					</div>
 				<div class="stars-today">⭐ 3200 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/skills" target="_blank">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
     
 
 
       
-        anthropics /
+        virattt /
 
-      skills</a></p>
+      dexter</a></p>
 				<p>
-      Public repository for Agent Skills
+      An autonomous agent for deep financial research
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 73660</span>
-						<span>🔱 7552</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16035</span>
+						<span>🔱 1940</span>
 					</div>
-				<div class="stars-today">⭐ 24420 stars this month</div>
+				<div class="stars-today">⭐ 7737 stars this month</div>
 				</div>
 			</div>
 	
