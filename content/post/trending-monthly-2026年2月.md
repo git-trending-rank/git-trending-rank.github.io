@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-24T10:33:50Z
+date: 2026-02-24T12:31:18Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 223632</span>
-						<span>🔱 42683</span>
+						<span>⭐ 223918</span>
+						<span>🔱 42764</span>
 					</div>
 				<div class="stars-today">⭐ 214532 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15541</span>
-						<span>🔱 1629</span>
+						<span>⭐ 15582</span>
+						<span>🔱 1635</span>
 					</div>
 				<div class="stars-today">⭐ 12823 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24727</span>
-						<span>🔱 2453</span>
+						<span>⭐ 24745</span>
+						<span>🔱 2457</span>
 					</div>
 				<div class="stars-today">⭐ 20678 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 32816</span>
+						<span>🔱 5218</span>
+					</div>
+				<div class="stars-today">⭐ 7558 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10303</span>
-						<span>🔱 579</span>
+						<span>⭐ 10315</span>
+						<span>🔱 580</span>
 					</div>
 				<div class="stars-today">⭐ 7627 stars this month</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9547</span>
-						<span>🔱 537</span>
+						<span>⭐ 9560</span>
+						<span>🔱 538</span>
 					</div>
 				<div class="stars-today">⭐ 7560 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 32799</span>
-						<span>🔱 5216</span>
-					</div>
-				<div class="stars-today">⭐ 7558 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4839</span>
+						<span>⭐ 4844</span>
 						<span>🔱 370</span>
 					</div>
 				<div class="stars-today">⭐ 4187 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30578</span>
-						<span>🔱 2073</span>
-					</div>
-				<div class="stars-today">⭐ 15777 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9454</span>
-						<span>🔱 934</span>
+						<span>⭐ 9465</span>
+						<span>🔱 935</span>
 					</div>
 				<div class="stars-today">⭐ 5040 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        obra /
+        thedotmack /
 
-      superpowers</a></p>
+      claude-mem</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 59866</span>
-						<span>🔱 4561</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30606</span>
+						<span>🔱 2077</span>
 					</div>
-				<div class="stars-today">⭐ 25002 stars this month</div>
+				<div class="stars-today">⭐ 15777 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 4042</span>
+						<span>⭐ 4043</span>
 						<span>🔱 193</span>
 					</div>
 				<div class="stars-today">⭐ 2976 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 59936</span>
+						<span>🔱 4567</span>
+					</div>
+				<div class="stars-today">⭐ 25002 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10377</span>
-						<span>🔱 775</span>
+						<span>⭐ 10389</span>
+						<span>🔱 777</span>
 					</div>
 				<div class="stars-today">⭐ 5078 stars this month</div>
 				</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6700</span>
+						<span>⭐ 6703</span>
 						<span>🔱 641</span>
 					</div>
 				<div class="stars-today">⭐ 2763 stars this month</div>
@@ -338,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18839</span>
-						<span>🔱 1676</span>
+						<span>⭐ 18899</span>
+						<span>🔱 1680</span>
 					</div>
 				<div class="stars-today">⭐ 11691 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17046</span>
-						<span>🔱 1219</span>
-					</div>
-				<div class="stars-today">⭐ 10025 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4291</span>
+						<span>⭐ 4295</span>
 						<span>🔱 262</span>
 					</div>
 				<div class="stars-today">⭐ 3321 stars this month</div>
@@ -404,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16184</span>
+						<span>⭐ 16193</span>
 						<span>🔱 1954</span>
 					</div>
 				<div class="stars-today">⭐ 7445 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17075</span>
+						<span>🔱 1219</span>
+					</div>
+				<div class="stars-today">⭐ 10025 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-24
-date: 2026-02-24T10:33:50Z
+date: 2026-02-24T12:31:18Z
 categories:
 - daily
 keywords:
@@ -16,28 +16,6 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 122298</span>
-						<span>🔱 31537</span>
-					</div>
-				<div class="stars-today">⭐ 2454 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
 				<p><a href="https://github.com/huggingface/skills" target="_blank">
     
 
@@ -50,32 +28,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4482</span>
-						<span>🔱 309</span>
+						<span>⭐ 4598</span>
+						<span>🔱 315</span>
 					</div>
 				<div class="stars-today">⭐ 1451 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61685</span>
-						<span>🔱 6015</span>
-					</div>
-				<div class="stars-today">⭐ 470 stars today</div>
 				</div>
 			</div>
 	
@@ -94,120 +50,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9322</span>
-						<span>🔱 735</span>
+						<span>⭐ 9386</span>
+						<span>🔱 739</span>
 					</div>
 				<div class="stars-today">⭐ 178 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/f/prompts.chat" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        f /
+        OpenBB-finance /
 
-      prompts.chat</a></p>
+      OpenBB</a></p>
 				<p>
-      f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+      Financial data platform for analysts, quants and AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 147339</span>
-						<span>🔱 19418</span>
+						<span>🔠 Python</span>
+						<span>⭐ 61715</span>
+						<span>🔱 6017</span>
 					</div>
-				<div class="stars-today">⭐ 295 stars today</div>
+				<div class="stars-today">⭐ 470 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CompVis/stable-diffusion" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        CompVis /
+        LadybirdBrowser /
 
-      stable-diffusion</a></p>
+      ladybird</a></p>
 				<p>
-      A latent text-to-image diffusion model
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 72542</span>
-						<span>🔱 10600</span>
+						<span>🔠 C++</span>
+						<span>⭐ 58913</span>
+						<span>🔱 2693</span>
 					</div>
-				<div class="stars-today">⭐ 36 stars today</div>
+				<div class="stars-today">⭐ 231 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        abhigyanpatwari /
+        x1xhlol /
 
-      GitNexus</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2247</span>
-						<span>🔱 148</span>
+						<span>🔠 </span>
+						<span>⭐ 122428</span>
+						<span>🔱 31568</span>
 					</div>
-				<div class="stars-today">⭐ 467 stars today</div>
+				<div class="stars-today">⭐ 2454 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        Stremio /
+        obra /
 
-      stremio-web</a></p>
+      superpowers</a></p>
 				<p>
-      Stremio - Freedom to Stream
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10052</span>
-						<span>🔱 1084</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 59936</span>
+						<span>🔱 4567</span>
 					</div>
-				<div class="stars-today">⭐ 272 stars today</div>
+				<div class="stars-today">⭐ 1500 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/stan-smith/FossFLOW" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
     
 
 
       
-        stan-smith /
+        ruvnet /
 
-      FossFLOW</a></p>
+      ruvector</a></p>
 				<p>
-      Make beautiful isometric infrastructure diagrams
+      RuVector is a high performance vector and graph database built in Rust for AI, agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18670</span>
-						<span>🔱 1205</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 535</span>
+						<span>🔱 116</span>
 					</div>
-				<div class="stars-today">⭐ 430 stars today</div>
+				<div class="stars-today">⭐ 28 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GVCLab/PersonaLive" target="_blank">
+    
+
+
+      
+        GVCLab /
+
+      PersonaLive</a></p>
+				<p>
+      [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1802</span>
+						<span>🔱 279</span>
+					</div>
+				<div class="stars-today">⭐ 75 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
+    
+
+
+      
+        HunxByts /
+
+      GhostTrack</a></p>
+				<p>
+      Useful tool to track location or mobile number
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7258</span>
+						<span>🔱 963</span>
+					</div>
+				<div class="stars-today">⭐ 142 stars today</div>
 				</div>
 			</div>
 	
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17046</span>
+						<span>⭐ 17075</span>
 						<span>🔱 1219</span>
 					</div>
 				<div class="stars-today">⭐ 624 stars today</div>
@@ -234,90 +234,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/agents" target="_blank">
+				<p><a href="https://github.com/openemr/openemr" target="_blank">
     
 
 
       
-        cloudflare /
+        openemr /
 
-      agents</a></p>
+      openemr</a></p>
 				<p>
-      Build and deploy AI Agents on Cloudflare 
+      The most popular open source electronic health records and medical practice management solution.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4127</span>
-						<span>🔱 422</span>
+						<span>🔠 PHP</span>
+						<span>⭐ 4720</span>
+						<span>🔱 2747</span>
 					</div>
-				<div class="stars-today">⭐ 318 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siteboon/claudecodeui" target="_blank">
-    
-
-
-      
-        siteboon /
-
-      claudecodeui</a></p>
-				<p>
-      Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6775</span>
-						<span>🔱 869</span>
-					</div>
-				<div class="stars-today">⭐ 62 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
-    
-
-
-      
-        NevaMind-AI /
-
-      memU</a></p>
-				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10377</span>
-						<span>🔱 775</span>
-					</div>
-				<div class="stars-today">⭐ 163 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clash-verge-rev/clash-verge-rev" target="_blank">
-    
-
-
-      
-        clash-verge-rev /
-
-      clash-verge-rev</a></p>
-				<p>
-      A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 98475</span>
-						<span>🔱 7190</span>
-					</div>
-				<div class="stars-today">⭐ 142 stars today</div>
+				<div class="stars-today">⭐ 7 stars today</div>
 				</div>
 			</div>
 	
