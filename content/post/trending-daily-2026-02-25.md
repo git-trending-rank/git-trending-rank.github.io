@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-25
-date: 2026-02-25T04:06:26Z
+date: 2026-02-25T06:45:20Z
 categories:
 - daily
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5561</span>
-						<span>🔱 345</span>
+						<span>⭐ 5715</span>
+						<span>🔱 352</span>
 					</div>
 				<div class="stars-today">⭐ 1206 stars today</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10080</span>
-						<span>🔱 788</span>
+						<span>⭐ 10178</span>
+						<span>🔱 796</span>
 					</div>
 				<div class="stars-today">⭐ 722 stars today</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61944</span>
-						<span>🔱 6034</span>
+						<span>⭐ 61993</span>
+						<span>🔱 6041</span>
 					</div>
 				<div class="stars-today">⭐ 504 stars today</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 59153</span>
-						<span>🔱 2699</span>
+						<span>⭐ 59193</span>
+						<span>🔱 2704</span>
 					</div>
 				<div class="stars-today">⭐ 236 stars today</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 123233</span>
-						<span>🔱 31752</span>
+						<span>⭐ 123326</span>
+						<span>🔱 31784</span>
 					</div>
 				<div class="stars-today">⭐ 3804 stars today</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 60661</span>
-						<span>🔱 4627</span>
+						<span>⭐ 60817</span>
+						<span>🔱 4644</span>
 					</div>
 				<div class="stars-today">⭐ 1195 stars today</div>
 				</div>
@@ -155,13 +155,13 @@ keywords:
 
       ruvector</a></p>
 				<p>
-      RuVector is a high performance Vector Graph & Ai System built in Rust, focsused on agentic systems, and real time analytics. It combines HNSW search, dynamic minimum cut coherence, graph intelligence, and self learning memory into one unified engine for scalable, low latency reasoning and structured retrieval.
+      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 787</span>
-						<span>🔱 127</span>
+						<span>⭐ 846</span>
+						<span>🔱 130</span>
 					</div>
 				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12892</span>
-						<span>🔱 869</span>
+						<span>⭐ 13058</span>
+						<span>🔱 884</span>
 					</div>
 				<div class="stars-today">⭐ 1970 stars today</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2069</span>
-						<span>🔱 295</span>
+						<span>⭐ 2118</span>
+						<span>🔱 297</span>
 					</div>
 				<div class="stars-today">⭐ 73 stars today</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7520</span>
-						<span>🔱 991</span>
+						<span>⭐ 7566</span>
+						<span>🔱 993</span>
 					</div>
 				<div class="stars-today">⭐ 145 stars today</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17316</span>
-						<span>🔱 1232</span>
+						<span>⭐ 17357</span>
+						<span>🔱 1234</span>
 					</div>
 				<div class="stars-today">⭐ 714 stars today</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PHP</span>
-						<span>⭐ 4885</span>
-						<span>🔱 2755</span>
+						<span>⭐ 4917</span>
+						<span>🔱 2759</span>
 					</div>
 				<div class="stars-today">⭐ 13 stars today</div>
 				</div>
