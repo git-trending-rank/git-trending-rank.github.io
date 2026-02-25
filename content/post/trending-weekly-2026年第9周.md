@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第9周
-date: 2026-02-25T10:36:03Z
+date: 2026-02-25T12:30:52Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,26 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6069</span>
+						<span>🔱 364</span>
+					</div>
+				<div class="stars-today">⭐ 3381 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
@@ -30,30 +50,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 123518</span>
-						<span>🔱 31825</span>
+						<span>⭐ 123629</span>
+						<span>🔱 31850</span>
 					</div>
 				<div class="stars-today">⭐ 7784 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5997</span>
-						<span>🔱 364</span>
-					</div>
-				<div class="stars-today">⭐ 3381 stars this week</div>
 				</div>
 			</div>
 	
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9718</span>
+						<span>⭐ 9722</span>
 						<span>🔱 805</span>
 					</div>
 				<div class="stars-today">⭐ 1903 stars this week</div>
@@ -94,54 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 7818</span>
-						<span>🔱 431</span>
+						<span>⭐ 7835</span>
+						<span>🔱 432</span>
 					</div>
 				<div class="stars-today">⭐ 3460 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9606</span>
-						<span>🔱 947</span>
-					</div>
-				<div class="stars-today">⭐ 2789 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
-    
-
-
-      
-        SynkraAI /
-
-      aios-core</a></p>
-				<p>
-      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1802</span>
-						<span>🔱 623</span>
-					</div>
-				<div class="stars-today">⭐ 707 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,7 +116,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4208</span>
+						<span>⭐ 4212</span>
 						<span>🔱 426</span>
 					</div>
 				<div class="stars-today">⭐ 940 stars this week</div>
@@ -168,24 +124,112 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/seerr-team/seerr" target="_blank">
+				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
     
 
 
       
-        seerr-team /
+        Stremio /
 
-      seerr</a></p>
+      stremio-web</a></p>
 				<p>
-      Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
+      Stremio - Freedom to Stream
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9809</span>
-						<span>🔱 644</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10102</span>
+						<span>🔱 1088</span>
 					</div>
-				<div class="stars-today">⭐ 586 stars this week</div>
+				<div class="stars-today">⭐ 1087 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 61152</span>
+						<span>🔱 4670</span>
+					</div>
+				<div class="stars-today">⭐ 6964 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
+    
+
+
+      
+        SynkraAI /
+
+      aios-core</a></p>
+				<p>
+      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1803</span>
+						<span>🔱 623</span>
+					</div>
+				<div class="stars-today">⭐ 707 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
+    
+
+
+      
+        muratcankoylan /
+
+      Agent-Skills-for-Context-Engineering</a></p>
+				<p>
+      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10389</span>
+						<span>🔱 809</span>
+					</div>
+				<div class="stars-today">⭐ 1072 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruvector</a></p>
+				<p>
+      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 959</span>
+						<span>🔱 141</span>
+					</div>
+				<div class="stars-today">⭐ 233 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2306</span>
+						<span>⭐ 2312</span>
 						<span>🔱 526</span>
 					</div>
 				<div class="stars-today">⭐ 315 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 69979</span>
+						<span>🔱 5521</span>
+					</div>
+				<div class="stars-today">⭐ 2414 stars this week</div>
 				</div>
 			</div>
 	

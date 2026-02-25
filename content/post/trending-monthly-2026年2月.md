@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-25T10:36:03Z
+date: 2026-02-25T12:30:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 227429</span>
-						<span>🔱 43532</span>
+						<span>⭐ 227722</span>
+						<span>🔱 43600</span>
 					</div>
 				<div class="stars-today">⭐ 217363 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16264</span>
-						<span>🔱 1710</span>
+						<span>⭐ 16322</span>
+						<span>🔱 1715</span>
 					</div>
 				<div class="stars-today">⭐ 13479 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24953</span>
-						<span>🔱 2480</span>
+						<span>⭐ 24965</span>
+						<span>🔱 2478</span>
 					</div>
 				<div class="stars-today">⭐ 20878 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9717</span>
+						<span>🔱 546</span>
+					</div>
+				<div class="stars-today">⭐ 7668 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 32959</span>
-						<span>🔱 5231</span>
+						<span>⭐ 32967</span>
+						<span>🔱 5233</span>
 					</div>
 				<div class="stars-today">⭐ 7677 stars this month</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10477</span>
+						<span>⭐ 10486</span>
 						<span>🔱 591</span>
 					</div>
 				<div class="stars-today">⭐ 7758 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9705</span>
-						<span>🔱 545</span>
-					</div>
-				<div class="stars-today">⭐ 7668 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 4940</span>
+						<span>⭐ 4943</span>
 						<span>🔱 374</span>
 					</div>
 				<div class="stars-today">⭐ 4301 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9606</span>
-						<span>🔱 947</span>
+						<span>⭐ 9612</span>
+						<span>🔱 948</span>
 					</div>
 				<div class="stars-today">⭐ 5232 stars this month</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30853</span>
+						<span>⭐ 30879</span>
 						<span>🔱 2095</span>
 					</div>
 				<div class="stars-today">⭐ 15930 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
-    
-
-
-      
-        ThePrimeagen /
-
-      99</a></p>
-				<p>
-      Neovim AI agent done right
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 4078</span>
-						<span>🔱 196</span>
-					</div>
-				<div class="stars-today">⭐ 2985 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 61074</span>
-						<span>🔱 4667</span>
+						<span>⭐ 61152</span>
+						<span>🔱 4670</span>
 					</div>
 				<div class="stars-today">⭐ 25322 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
+    
+
+
+      
+        ThePrimeagen /
+
+      99</a></p>
+				<p>
+      Neovim AI agent done right
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Lua</span>
+						<span>⭐ 4079</span>
+						<span>🔱 196</span>
+					</div>
+				<div class="stars-today">⭐ 2985 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,54 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10553</span>
-						<span>🔱 784</span>
+						<span>⭐ 10590</span>
+						<span>🔱 785</span>
 					</div>
 				<div class="stars-today">⭐ 5560 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
-    
-
-
-      
-        modelcontextprotocol /
-
-      ext-apps</a></p>
-				<p>
-      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1677</span>
-						<span>🔱 188</span>
-					</div>
-				<div class="stars-today">⭐ 1251 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
-    
-
-
-      
-        MoonshotAI /
-
-      kimi-cli</a></p>
-				<p>
-      Kimi Code CLI is your next CLI agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6759</span>
-						<span>🔱 647</span>
-					</div>
-				<div class="stars-today">⭐ 2812 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19832</span>
-						<span>🔱 1742</span>
+						<span>⭐ 19894</span>
+						<span>🔱 1746</span>
 					</div>
 				<div class="stars-today">⭐ 12063 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steipete/summarize" target="_blank">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
     
 
 
       
-        steipete /
+        MoonshotAI /
 
-      summarize</a></p>
+      kimi-cli</a></p>
 				<p>
-      Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+      Kimi Code CLI is your next CLI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6763</span>
+						<span>🔱 648</span>
+					</div>
+				<div class="stars-today">⭐ 2812 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
+    
+
+
+      
+        modelcontextprotocol /
+
+      ext-apps</a></p>
+				<p>
+      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4429</span>
-						<span>🔱 269</span>
+						<span>⭐ 1681</span>
+						<span>🔱 188</span>
 					</div>
-				<div class="stars-today">⭐ 3400 stars this month</div>
+				<div class="stars-today">⭐ 1251 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16399</span>
-						<span>🔱 1989</span>
+						<span>⭐ 16417</span>
+						<span>🔱 1992</span>
 					</div>
 				<div class="stars-today">⭐ 7492 stars this month</div>
 				</div>
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17420</span>
-						<span>🔱 1240</span>
+						<span>⭐ 17433</span>
+						<span>🔱 1243</span>
 					</div>
 				<div class="stars-today">⭐ 9360 stars this month</div>
 				</div>
