@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-26
-date: 2026-02-26T20:21:14Z
+date: 2026-02-26T22:18:41Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20775</span>
-						<span>🔱 745</span>
+						<span>⭐ 20814</span>
+						<span>🔱 748</span>
 					</div>
 				<div class="stars-today">⭐ 469 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 63170</span>
-						<span>🔱 4820</span>
+						<span>⭐ 63243</span>
+						<span>🔱 4827</span>
 					</div>
 				<div class="stars-today">⭐ 1528 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11615</span>
-						<span>🔱 903</span>
+						<span>⭐ 11657</span>
+						<span>🔱 905</span>
 					</div>
 				<div class="stars-today">⭐ 923 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21025</span>
-						<span>🔱 2597</span>
+						<span>⭐ 21051</span>
+						<span>🔱 2600</span>
 					</div>
 				<div class="stars-today">⭐ 622 stars today</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6916</span>
-						<span>🔱 405</span>
+						<span>⭐ 6932</span>
+						<span>🔱 406</span>
 					</div>
 				<div class="stars-today">⭐ 711 stars today</div>
 				</div>
@@ -138,32 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20595</span>
+						<span>⭐ 20610</span>
 						<span>🔱 1279</span>
 					</div>
 				<div class="stars-today">⭐ 456 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
-    
-
-
-      
-        D4Vinci /
-
-      Scrapling</a></p>
-				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16702</span>
-						<span>🔱 1096</span>
-					</div>
-				<div class="stars-today">⭐ 2893 stars today</div>
 				</div>
 			</div>
 	
@@ -182,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14885</span>
+						<span>⭐ 14922</span>
 						<span>🔱 1737</span>
 					</div>
 				<div class="stars-today">⭐ 210 stars today</div>
@@ -204,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1526</span>
+						<span>⭐ 1551</span>
 						<span>🔱 170</span>
 					</div>
 				<div class="stars-today">⭐ 438 stars today</div>
@@ -226,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 5173</span>
-						<span>🔱 244</span>
+						<span>⭐ 5197</span>
+						<span>🔱 245</span>
 					</div>
 				<div class="stars-today">⭐ 273 stars today</div>
 				</div>
