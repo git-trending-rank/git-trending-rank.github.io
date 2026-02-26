@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-26
-date: 2026-02-26T10:31:55Z
+date: 2026-02-26T12:31:10Z
 categories:
 - daily
 keywords:
@@ -16,66 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
 
       
-        D4Vinci /
+        clockworklabs /
 
-      Scrapling</a></p>
+      SpacetimeDB</a></p>
 				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+      Development at the speed of light
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16237</span>
-						<span>🔱 1058</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 20568</span>
+						<span>🔱 731</span>
 					</div>
-				<div class="stars-today">⭐ 1656 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6714</span>
-						<span>🔱 396</span>
-					</div>
-				<div class="stars-today">⭐ 1538 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4337</span>
-						<span>🔱 369</span>
-					</div>
-				<div class="stars-today">⭐ 894 stars today</div>
+				<div class="stars-today">⭐ 974 stars today</div>
 				</div>
 			</div>
 	
@@ -94,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 62563</span>
-						<span>🔱 4776</span>
+						<span>⭐ 62682</span>
+						<span>🔱 4782</span>
 					</div>
-				<div class="stars-today">⭐ 1250 stars today</div>
+				<div class="stars-today">⭐ 1528 stars today</div>
 				</div>
 			</div>
 	
@@ -116,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11259</span>
-						<span>🔱 882</span>
+						<span>⭐ 11344</span>
+						<span>🔱 892</span>
 					</div>
-				<div class="stars-today">⭐ 1042 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22514</span>
-						<span>🔱 2573</span>
-					</div>
-				<div class="stars-today">⭐ 222 stars today</div>
+				<div class="stars-today">⭐ 923 stars today</div>
 				</div>
 			</div>
 	
@@ -160,54 +96,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20779</span>
-						<span>🔱 2580</span>
+						<span>⭐ 20858</span>
+						<span>🔱 2586</span>
 					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
+				<div class="stars-today">⭐ 622 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
     
 
 
       
-        VectifyAI /
+        huggingface /
 
-      PageIndex</a></p>
-				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
+      skills</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17996</span>
-						<span>🔱 1289</span>
+						<span>⭐ 6756</span>
+						<span>🔱 396</span>
 					</div>
-				<div class="stars-today">⭐ 378 stars today</div>
+				<div class="stars-today">⭐ 711 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+				<p><a href="https://github.com/farion1231/cc-switch" target="_blank">
     
 
 
       
-        NevaMind-AI /
+        farion1231 /
 
-      memU</a></p>
+      cc-switch</a></p>
 				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+      A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20435</span>
+						<span>🔱 1271</span>
+					</div>
+				<div class="stars-today">⭐ 341 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11034</span>
-						<span>🔱 807</span>
+						<span>⭐ 16358</span>
+						<span>🔱 1065</span>
 					</div>
-				<div class="stars-today">⭐ 187 stars today</div>
+				<div class="stars-today">⭐ 2893 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/claude-flow" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      claude-flow</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14716</span>
+						<span>🔱 1723</span>
+					</div>
+				<div class="stars-today">⭐ 210 stars today</div>
 				</div>
 			</div>
 	
@@ -226,142 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1356</span>
-						<span>🔱 164</span>
+						<span>⭐ 1385</span>
+						<span>🔱 165</span>
 					</div>
-				<div class="stars-today">⭐ 437 stars today</div>
+				<div class="stars-today">⭐ 438 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/Megatron-LM" target="_blank">
+				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
     
 
 
       
-        NVIDIA /
+        moonshine-ai /
 
-      Megatron-LM</a></p>
+      moonshine</a></p>
 				<p>
-      Ongoing research training transformer models at scale
+      Fast and accurate automatic speech recognition (ASR) for edge devices
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15421</span>
-						<span>🔱 3632</span>
+						<span>🔠 C</span>
+						<span>⭐ 5008</span>
+						<span>🔱 240</span>
 					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18506</span>
-						<span>🔱 3824</span>
-					</div>
-				<div class="stars-today">⭐ 175 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 124708</span>
-						<span>🔱 32035</span>
-					</div>
-				<div class="stars-today">⭐ 1241 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/katanemo/plano" target="_blank">
-    
-
-
-      
-        katanemo /
-
-      plano</a></p>
-				<p>
-      Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 5707</span>
-						<span>🔱 337</span>
-					</div>
-				<div class="stars-today">⭐ 205 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/liyupi/ai-guide" target="_blank">
-    
-
-
-      
-        liyupi /
-
-      ai-guide</a></p>
-				<p>
-      程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / OpenClaw / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7982</span>
-						<span>🔱 848</span>
-					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siteboon/claudecodeui" target="_blank">
-    
-
-
-      
-        siteboon /
-
-      claudecodeui</a></p>
-				<p>
-      Use Claude Code, Cursor CLI or Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7184</span>
-						<span>🔱 902</span>
-					</div>
-				<div class="stars-today">⭐ 73 stars today</div>
+				<div class="stars-today">⭐ 515 stars today</div>
 				</div>
 			</div>
 	

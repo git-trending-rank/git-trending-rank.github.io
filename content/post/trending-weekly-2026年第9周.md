@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第9周
-date: 2026-02-26T10:31:55Z
+date: 2026-02-26T12:31:10Z
 categories:
 - weekly
 keywords:
@@ -28,7 +28,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6714</span>
+						<span>⭐ 6756</span>
 						<span>🔱 396</span>
 					</div>
 				<div class="stars-today">⭐ 4879 stars this week</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 124708</span>
-						<span>🔱 32035</span>
+						<span>⭐ 124776</span>
+						<span>🔱 32046</span>
 					</div>
 				<div class="stars-today">⭐ 8909 stars this week</div>
 				</div>
@@ -72,7 +72,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9799</span>
+						<span>⭐ 9803</span>
 						<span>🔱 806</span>
 					</div>
 				<div class="stars-today">⭐ 1988 stars this week</div>
@@ -80,24 +80,134 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
     
 
 
       
-        alibaba /
+        muratcankoylan /
 
-      zvec</a></p>
+      Agent-Skills-for-Context-Engineering</a></p>
 				<p>
-      A lightweight, lightning-fast, in-process vector database
+      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11344</span>
+						<span>🔱 892</span>
+					</div>
+				<div class="stars-today">⭐ 2061 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/blackboardsh/electrobun" target="_blank">
+    
+
+
+      
+        blackboardsh /
+
+      electrobun</a></p>
+				<p>
+      Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 7979</span>
-						<span>🔱 441</span>
+						<span>⭐ 7093</span>
+						<span>🔱 148</span>
 					</div>
-				<div class="stars-today">⭐ 3141 stars this week</div>
+				<div class="stars-today">⭐ 2742 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Development at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 20568</span>
+						<span>🔱 731</span>
+					</div>
+				<div class="stars-today">⭐ 991 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruvector</a></p>
+				<p>
+      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1385</span>
+						<span>🔱 165</span>
+					</div>
+				<div class="stars-today">⭐ 582 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/RichardAtCT/claude-code-telegram" target="_blank">
+    
+
+
+      
+        RichardAtCT /
+
+      claude-code-telegram</a></p>
+				<p>
+      A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1659</span>
+						<span>🔱 201</span>
+					</div>
+				<div class="stars-today">⭐ 1065 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 62682</span>
+						<span>🔱 4782</span>
+					</div>
+				<div class="stars-today">⭐ 7286 stars this week</div>
 				</div>
 			</div>
 	
@@ -116,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4261</span>
+						<span>⭐ 4267</span>
 						<span>🔱 431</span>
 					</div>
 				<div class="stars-today">⭐ 1004 stars this week</div>
@@ -138,142 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10162</span>
+						<span>⭐ 10163</span>
 						<span>🔱 1092</span>
 					</div>
 				<div class="stars-today">⭐ 1123 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 62563</span>
-						<span>🔱 4776</span>
-					</div>
-				<div class="stars-today">⭐ 7286 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SynkraAI/aios-core" target="_blank">
-    
-
-
-      
-        SynkraAI /
-
-      aios-core</a></p>
-				<p>
-      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1854</span>
-						<span>🔱 634</span>
-					</div>
-				<div class="stars-today">⭐ 538 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
-    
-
-
-      
-        muratcankoylan /
-
-      Agent-Skills-for-Context-Engineering</a></p>
-				<p>
-      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11259</span>
-						<span>🔱 882</span>
-					</div>
-				<div class="stars-today">⭐ 2061 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruvector</a></p>
-				<p>
-      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 1356</span>
-						<span>🔱 164</span>
-					</div>
-				<div class="stars-today">⭐ 582 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mihail911/modern-software-dev-assignments" target="_blank">
-    
-
-
-      
-        mihail911 /
-
-      modern-software-dev-assignments</a></p>
-				<p>
-      Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2428</span>
-						<span>🔱 548</span>
-					</div>
-				<div class="stars-today">⭐ 470 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 70385</span>
-						<span>🔱 5562</span>
-					</div>
-				<div class="stars-today">⭐ 2573 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-26T10:31:55Z
+date: 2026-02-26T12:31:11Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 231360</span>
-						<span>🔱 44369</span>
+						<span>⭐ 231681</span>
+						<span>🔱 44427</span>
 					</div>
 				<div class="stars-today">⭐ 215543 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16892</span>
-						<span>🔱 1766</span>
+						<span>⭐ 16942</span>
+						<span>🔱 1768</span>
 					</div>
 				<div class="stars-today">⭐ 14164 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25222</span>
-						<span>🔱 2499</span>
+						<span>⭐ 25241</span>
+						<span>🔱 2502</span>
 					</div>
 				<div class="stars-today">⭐ 21093 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9861</span>
+						<span>⭐ 9869</span>
 						<span>🔱 555</span>
 					</div>
 				<div class="stars-today">⭐ 7791 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
-    
-
-
-      
-        asgeirtj /
-
-      system_prompts_leaks</a></p>
-				<p>
-      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 33068</span>
-						<span>🔱 5248</span>
-					</div>
-				<div class="stars-today">⭐ 7814 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10641</span>
-						<span>🔱 597</span>
+						<span>⭐ 10653</span>
+						<span>🔱 598</span>
 					</div>
 				<div class="stars-today">⭐ 7897 stars this month</div>
 				</div>
@@ -162,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5016</span>
-						<span>🔱 381</span>
+						<span>⭐ 5018</span>
+						<span>🔱 382</span>
 					</div>
 				<div class="stars-today">⭐ 4370 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9699</span>
-						<span>🔱 958</span>
-					</div>
-				<div class="stars-today">⭐ 5371 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31117</span>
-						<span>🔱 2116</span>
+						<span>⭐ 31136</span>
+						<span>🔱 2123</span>
 					</div>
 				<div class="stars-today">⭐ 16125 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
     
 
 
       
-        obra /
+        asgeirtj /
 
-      superpowers</a></p>
+      system_prompts_leaks</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 62563</span>
-						<span>🔱 4776</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 33073</span>
+						<span>🔱 5248</span>
 					</div>
-				<div class="stars-today">⭐ 25920 stars this month</div>
+				<div class="stars-today">⭐ 7814 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Lua</span>
-						<span>⭐ 4108</span>
+						<span>⭐ 4110</span>
 						<span>🔱 197</span>
 					</div>
 				<div class="stars-today">⭐ 3019 stars this month</div>
@@ -258,24 +214,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        NevaMind-AI /
+        obra /
 
-      memU</a></p>
+      superpowers</a></p>
 				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11034</span>
-						<span>🔱 807</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 62682</span>
+						<span>🔱 4782</span>
 					</div>
-				<div class="stars-today">⭐ 5759 stars this month</div>
+				<div class="stars-today">⭐ 25920 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +250,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 20551</span>
-						<span>🔱 1793</span>
+						<span>⭐ 20605</span>
+						<span>🔱 1800</span>
 					</div>
 				<div class="stars-today">⭐ 12721 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
     
 
 
       
-        MoonshotAI /
+        NevaMind-AI /
 
-      kimi-cli</a></p>
+      memU</a></p>
 				<p>
-      Kimi Code CLI is your next CLI agent.
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6813</span>
-						<span>🔱 652</span>
+						<span>⭐ 11012</span>
+						<span>🔱 807</span>
 					</div>
-				<div class="stars-today">⭐ 2870 stars this month</div>
+				<div class="stars-today">⭐ 5759 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/modelcontextprotocol/ext-apps" target="_blank">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
     
 
 
       
-        modelcontextprotocol /
+        huggingface /
 
-      ext-apps</a></p>
-				<p>
-      Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers
-    </p>
+      skills</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1711</span>
-						<span>🔱 190</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6756</span>
+						<span>🔱 396</span>
 					</div>
-				<div class="stars-today">⭐ 1291 stars this month</div>
+				<div class="stars-today">⭐ 5193 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16531</span>
-						<span>🔱 2011</span>
+						<span>⭐ 16539</span>
+						<span>🔱 2015</span>
 					</div>
 				<div class="stars-today">⭐ 7648 stars this month</div>
 				</div>
@@ -382,10 +336,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17996</span>
-						<span>🔱 1289</span>
+						<span>⭐ 18053</span>
+						<span>🔱 1298</span>
 					</div>
 				<div class="stars-today">⭐ 8745 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/langextract" target="_blank">
+    
+
+
+      
+        google /
+
+      langextract</a></p>
+				<p>
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33774</span>
+						<span>🔱 2259</span>
+					</div>
+				<div class="stars-today">⭐ 10226 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steipete/summarize" target="_blank">
+    
+
+
+      
+        steipete /
+
+      summarize</a></p>
+				<p>
+      Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4462</span>
+						<span>🔱 269</span>
+					</div>
+				<div class="stars-today">⭐ 3520 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/MoonshotAI/kimi-cli" target="_blank">
+    
+
+
+      
+        MoonshotAI /
+
+      kimi-cli</a></p>
+				<p>
+      Kimi Code CLI is your next CLI agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6814</span>
+						<span>🔱 652</span>
+					</div>
+				<div class="stars-today">⭐ 2870 stars this month</div>
 				</div>
 			</div>
 	
