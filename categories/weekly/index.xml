@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 27 Feb 2026 10:23:18 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 27 Feb 2026 12:26:08 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第9周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC9%E5%91%A8/</link>
-        <pubDate>Fri, 27 Feb 2026 10:23:18 +0000</pubDate>
+        <pubDate>Fri, 27 Feb 2026 12:26:08 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC9%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -31,8 +31,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7171&lt;/span&gt;
-						&lt;span&gt;🔱 418&lt;/span&gt;
+						&lt;span&gt;⭐ 7195&lt;/span&gt;
+						&lt;span&gt;🔱 421&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5568 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -53,32 +53,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 125478&lt;/span&gt;
-						&lt;span&gt;🔱 32196&lt;/span&gt;
+						&lt;span&gt;⭐ 125534&lt;/span&gt;
+						&lt;span&gt;🔱 32213&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9938 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google-research/timesfm&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vxcontrol/pentagi&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        google-research /
+        vxcontrol /
 
-      timesfm&lt;/a&gt;&lt;/p&gt;
+      pentagi&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9874&lt;/span&gt;
-						&lt;span&gt;🔱 809&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 8361&lt;/span&gt;
+						&lt;span&gt;🔱 947&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1485 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6618 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -97,54 +97,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12090&lt;/span&gt;
-						&lt;span&gt;🔱 940&lt;/span&gt;
+						&lt;span&gt;⭐ 12146&lt;/span&gt;
+						&lt;span&gt;🔱 944&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3035 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/blackboardsh/electrobun&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        blackboardsh /
-
-      electrobun&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 7273&lt;/span&gt;
-						&lt;span&gt;🔱 155&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1803 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/clockworklabs/SpacetimeDB&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Development at the speed of light
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 21164&lt;/span&gt;
-						&lt;span&gt;🔱 764&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1436 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -163,32 +119,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 1759&lt;/span&gt;
-						&lt;span&gt;🔱 185&lt;/span&gt;
+						&lt;span&gt;⭐ 1787&lt;/span&gt;
+						&lt;span&gt;🔱 189&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1006 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/RichardAtCT/claude-code-telegram&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/clockworklabs/SpacetimeDB&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        RichardAtCT /
+        clockworklabs /
 
-      claude-code-telegram&lt;/a&gt;&lt;/p&gt;
+      SpacetimeDB&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+      Development at the speed of light
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 21188&lt;/span&gt;
+						&lt;span&gt;🔱 765&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1436 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/deer-flow&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        bytedance /
+
+      deer-flow&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 21533&lt;/span&gt;
+						&lt;span&gt;🔱 2642&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 982 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mihail911/modern-software-dev-assignments&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mihail911 /
+
+      modern-software-dev-assignments&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1740&lt;/span&gt;
-						&lt;span&gt;🔱 205&lt;/span&gt;
+						&lt;span&gt;⭐ 2510&lt;/span&gt;
+						&lt;span&gt;🔱 565&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 944 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 598 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -207,32 +207,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 64080&lt;/span&gt;
-						&lt;span&gt;🔱 4887&lt;/span&gt;
+						&lt;span&gt;⭐ 64201&lt;/span&gt;
+						&lt;span&gt;🔱 4896&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7985 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/cloudflare/agents&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/LadybirdBrowser/ladybird&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        cloudflare /
+        LadybirdBrowser /
 
-      agents&lt;/a&gt;&lt;/p&gt;
+      ladybird&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Build and deploy AI Agents on Cloudflare 
+      Truly independent web browser
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4316&lt;/span&gt;
-						&lt;span&gt;🔱 435&lt;/span&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 60447&lt;/span&gt;
+						&lt;span&gt;🔱 2790&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1054 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1559 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -251,10 +251,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 10205&lt;/span&gt;
-						&lt;span&gt;🔱 1095&lt;/span&gt;
+						&lt;span&gt;⭐ 10209&lt;/span&gt;
+						&lt;span&gt;🔱 1096&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1178 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cloudflare/agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cloudflare /
+
+      agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Build and deploy AI Agents on Cloudflare 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4319&lt;/span&gt;
+						&lt;span&gt;🔱 435&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1054 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
