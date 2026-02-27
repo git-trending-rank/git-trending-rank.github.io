@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第9周
-date: 2026-02-27T10:23:18Z
+date: 2026-02-27T12:26:08Z
 categories:
 - weekly
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7171</span>
-						<span>🔱 418</span>
+						<span>⭐ 7195</span>
+						<span>🔱 421</span>
 					</div>
 				<div class="stars-today">⭐ 5568 stars this week</div>
 				</div>
@@ -50,32 +50,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 125478</span>
-						<span>🔱 32196</span>
+						<span>⭐ 125534</span>
+						<span>🔱 32213</span>
 					</div>
 				<div class="stars-today">⭐ 9938 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
     
 
 
       
-        google-research /
+        vxcontrol /
 
-      timesfm</a></p>
+      pentagi</a></p>
 				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+      ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9874</span>
-						<span>🔱 809</span>
+						<span>🔠 Go</span>
+						<span>⭐ 8361</span>
+						<span>🔱 947</span>
 					</div>
-				<div class="stars-today">⭐ 1485 stars this week</div>
+				<div class="stars-today">⭐ 6618 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,54 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12090</span>
-						<span>🔱 940</span>
+						<span>⭐ 12146</span>
+						<span>🔱 944</span>
 					</div>
 				<div class="stars-today">⭐ 3035 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/blackboardsh/electrobun" target="_blank">
-    
-
-
-      
-        blackboardsh /
-
-      electrobun</a></p>
-				<p>
-      Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 7273</span>
-						<span>🔱 155</span>
-					</div>
-				<div class="stars-today">⭐ 1803 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21164</span>
-						<span>🔱 764</span>
-					</div>
-				<div class="stars-today">⭐ 1436 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +116,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1759</span>
-						<span>🔱 185</span>
+						<span>⭐ 1787</span>
+						<span>🔱 189</span>
 					</div>
 				<div class="stars-today">⭐ 1006 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/RichardAtCT/claude-code-telegram" target="_blank">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
 
       
-        RichardAtCT /
+        clockworklabs /
 
-      claude-code-telegram</a></p>
+      SpacetimeDB</a></p>
 				<p>
-      A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+      Development at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21188</span>
+						<span>🔱 765</span>
+					</div>
+				<div class="stars-today">⭐ 1436 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21533</span>
+						<span>🔱 2642</span>
+					</div>
+				<div class="stars-today">⭐ 982 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mihail911/modern-software-dev-assignments" target="_blank">
+    
+
+
+      
+        mihail911 /
+
+      modern-software-dev-assignments</a></p>
+				<p>
+      Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1740</span>
-						<span>🔱 205</span>
+						<span>⭐ 2510</span>
+						<span>🔱 565</span>
 					</div>
-				<div class="stars-today">⭐ 944 stars this week</div>
+				<div class="stars-today">⭐ 598 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,32 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 64080</span>
-						<span>🔱 4887</span>
+						<span>⭐ 64201</span>
+						<span>🔱 4896</span>
 					</div>
 				<div class="stars-today">⭐ 7985 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/agents" target="_blank">
+				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
     
 
 
       
-        cloudflare /
+        LadybirdBrowser /
 
-      agents</a></p>
+      ladybird</a></p>
 				<p>
-      Build and deploy AI Agents on Cloudflare 
+      Truly independent web browser
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4316</span>
-						<span>🔱 435</span>
+						<span>🔠 C++</span>
+						<span>⭐ 60447</span>
+						<span>🔱 2790</span>
 					</div>
-				<div class="stars-today">⭐ 1054 stars this week</div>
+				<div class="stars-today">⭐ 1559 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10205</span>
-						<span>🔱 1095</span>
+						<span>⭐ 10209</span>
+						<span>🔱 1096</span>
 					</div>
 				<div class="stars-today">⭐ 1178 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cloudflare/agents" target="_blank">
+    
+
+
+      
+        cloudflare /
+
+      agents</a></p>
+				<p>
+      Build and deploy AI Agents on Cloudflare 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4319</span>
+						<span>🔱 435</span>
+					</div>
+				<div class="stars-today">⭐ 1054 stars this week</div>
 				</div>
 			</div>
 	
