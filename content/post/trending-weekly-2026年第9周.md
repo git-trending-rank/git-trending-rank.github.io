@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第9周
-date: 2026-02-28T09:58:34Z
+date: 2026-02-28T11:58:52Z
 categories:
 - weekly
 keywords:
@@ -16,6 +16,28 @@ keywords:
 
 	
 			<div class="repo-card">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus</a></p>
+				<p>
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6548</span>
+						<span>🔱 590</span>
+					</div>
+				<div class="stars-today">⭐ 5349 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
 				<p><a href="https://github.com/huggingface/skills" target="_blank">
     
 
@@ -28,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7427</span>
-						<span>🔱 436</span>
+						<span>⭐ 7438</span>
+						<span>🔱 438</span>
 					</div>
 				<div class="stars-today">⭐ 5938 stars this week</div>
 				</div>
@@ -50,32 +72,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 126149</span>
-						<span>🔱 32325</span>
+						<span>⭐ 126184</span>
+						<span>🔱 32331</span>
 					</div>
 				<div class="stars-today">⭐ 10578 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
-    
-
-
-      
-        vxcontrol /
-
-      pentagi</a></p>
-				<p>
-      ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 8612</span>
-						<span>🔱 961</span>
-					</div>
-				<div class="stars-today">⭐ 5598 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,54 +94,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12647</span>
-						<span>🔱 979</span>
+						<span>⭐ 12675</span>
+						<span>🔱 980</span>
 					</div>
 				<div class="stars-today">⭐ 3832 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruvector</a></p>
-				<p>
-      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2037</span>
-						<span>🔱 205</span>
-					</div>
-				<div class="stars-today">⭐ 1407 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 21483</span>
-						<span>🔱 781</span>
-					</div>
-				<div class="stars-today">⭐ 2036 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,32 +116,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22360</span>
-						<span>🔱 2702</span>
+						<span>⭐ 22415</span>
+						<span>🔱 2706</span>
 					</div>
 				<div class="stars-today">⭐ 1607 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mihail911/modern-software-dev-assignments" target="_blank">
+				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
     
 
 
       
-        mihail911 /
+        vxcontrol /
 
-      modern-software-dev-assignments</a></p>
+      pentagi</a></p>
 				<p>
-      Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
+      ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2572</span>
-						<span>🔱 582</span>
+						<span>🔠 Go</span>
+						<span>⭐ 8625</span>
+						<span>🔱 962</span>
 					</div>
-				<div class="stars-today">⭐ 651 stars this week</div>
+				<div class="stars-today">⭐ 5598 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Development at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21501</span>
+						<span>🔱 781</span>
+					</div>
+				<div class="stars-today">⭐ 2036 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 65398</span>
-						<span>🔱 4985</span>
+						<span>⭐ 65484</span>
+						<span>🔱 4989</span>
 					</div>
 				<div class="stars-today">⭐ 8563 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mihail911/modern-software-dev-assignments" target="_blank">
+    
+
+
+      
+        mihail911 /
+
+      modern-software-dev-assignments</a></p>
+				<p>
+      Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2576</span>
+						<span>🔱 584</span>
+					</div>
+				<div class="stars-today">⭐ 651 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,54 +226,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 60630</span>
-						<span>🔱 2804</span>
+						<span>⭐ 60640</span>
+						<span>🔱 2805</span>
 					</div>
 				<div class="stars-today">⭐ 1922 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
+				<p><a href="https://github.com/NVlabs/GR00T-WholeBodyControl" target="_blank">
     
 
 
       
-        Stremio /
+        NVlabs /
 
-      stremio-web</a></p>
+      GR00T-WholeBodyControl</a></p>
 				<p>
-      Stremio - Freedom to Stream
+      Welcome to GR00T Whole-Body Control (WBC)! This is a unified platform for developing and deploying advanced humanoid controllers. This includes: Decoupled WBC models used in NVIDIA Isaac-Gr00t, Gr00t N1.5 and N1.6 and GEAR-SONIC 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10276</span>
-						<span>🔱 1097</span>
+						<span>🔠 C++</span>
+						<span>⭐ 922</span>
+						<span>🔱 94</span>
 					</div>
-				<div class="stars-today">⭐ 1227 stars this week</div>
+				<div class="stars-today">⭐ 364 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/cloudflare/agents" target="_blank">
+				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
     
 
 
       
-        cloudflare /
+        moonshine-ai /
 
-      agents</a></p>
+      moonshine</a></p>
 				<p>
-      Build and deploy AI Agents on Cloudflare 
+      Fast and accurate automatic speech recognition (ASR) for edge devices
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4368</span>
-						<span>🔱 438</span>
+						<span>🔠 C</span>
+						<span>⭐ 6086</span>
+						<span>🔱 283</span>
 					</div>
-				<div class="stars-today">⭐ 1104 stars this week</div>
+				<div class="stars-today">⭐ 1448 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 71563</span>
+						<span>🔱 5658</span>
+					</div>
+				<div class="stars-today">⭐ 3222 stars this week</div>
 				</div>
 			</div>
 	

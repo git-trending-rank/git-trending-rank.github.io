@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-02-28
-date: 2026-02-28T09:58:34Z
+date: 2026-02-28T11:58:52Z
 categories:
 - daily
 keywords:
@@ -14,160 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22360</span>
-						<span>🔱 2702</span>
-					</div>
-				<div class="stars-today">⭐ 696 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
-    
-
-
-      
-        moonshine-ai /
-
-      moonshine</a></p>
-				<p>
-      Fast and accurate automatic speech recognition (ASR) for edge devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6055</span>
-						<span>🔱 283</span>
-					</div>
-				<div class="stars-today">⭐ 593 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
-    
-
-
-      
-        muratcankoylan /
-
-      Agent-Skills-for-Context-Engineering</a></p>
-				<p>
-      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12647</span>
-						<span>🔱 979</span>
-					</div>
-				<div class="stars-today">⭐ 803 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 65398</span>
-						<span>🔱 4985</span>
-					</div>
-				<div class="stars-today">⭐ 1546 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16051</span>
-						<span>🔱 1835</span>
-					</div>
-				<div class="stars-today">⭐ 531 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23466</span>
-						<span>🔱 2655</span>
-					</div>
-				<div class="stars-today">⭐ 324 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6511</span>
-						<span>🔱 584</span>
-					</div>
-				<div class="stars-today">⭐ 1385 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
@@ -184,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18807</span>
-						<span>🔱 1797</span>
+						<span>⭐ 18928</span>
+						<span>🔱 1811</span>
 					</div>
 				<div class="stars-today">⭐ 199 stars today</div>
 				</div>
@@ -206,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 71506</span>
-						<span>🔱 5654</span>
+						<span>⭐ 71563</span>
+						<span>🔱 5658</span>
 					</div>
 				<div class="stars-today">⭐ 494 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruvector</a></p>
-				<p>
-      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2037</span>
-						<span>🔱 205</span>
-					</div>
-				<div class="stars-today">⭐ 410 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Wei-Shaw/claude-relay-service" target="_blank">
-    
-
-
-      
-        Wei-Shaw /
-
-      claude-relay-service</a></p>
-				<p>
-      CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8628</span>
-						<span>🔱 1379</span>
-					</div>
-				<div class="stars-today">⭐ 53 stars today</div>
 				</div>
 			</div>
 	
@@ -272,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 1178</span>
+						<span>⭐ 1188</span>
 						<span>🔱 208</span>
 					</div>
 				<div class="stars-today">⭐ 85 stars today</div>
@@ -280,46 +82,242 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        D4Vinci /
+        Shubhamsaboo /
 
-      Scrapling</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18507</span>
-						<span>🔱 1232</span>
+						<span>⭐ 97993</span>
+						<span>🔱 14264</span>
 					</div>
-				<div class="stars-today">⭐ 1135 stars today</div>
+				<div class="stars-today">⭐ 605 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steipete/CodexBar" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        steipete /
+        ruvnet /
 
-      CodexBar</a></p>
+      ruflo</a></p>
 				<p>
-      Show usage stats for OpenAI Codex and Claude Code, without having to login.
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 7127</span>
-						<span>🔱 498</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16136</span>
+						<span>🔱 1846</span>
 					</div>
-				<div class="stars-today">⭐ 243 stars today</div>
+				<div class="stars-today">⭐ 531 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22415</span>
+						<span>🔱 2706</span>
+					</div>
+				<div class="stars-today">⭐ 696 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Wei-Shaw/claude-relay-service" target="_blank">
+    
+
+
+      
+        Wei-Shaw /
+
+      claude-relay-service</a></p>
+				<p>
+      CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8639</span>
+						<span>🔱 1380</span>
+					</div>
+				<div class="stars-today">⭐ 53 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 991</span>
+						<span>🔱 156</span>
+					</div>
+				<div class="stars-today">⭐ 183 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superset-sh/superset" target="_blank">
+    
+
+
+      
+        superset-sh /
+
+      superset</a></p>
+				<p>
+      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2232</span>
+						<span>🔱 176</span>
+					</div>
+				<div class="stars-today">⭐ 156 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
+    
+
+
+      
+        moonshine-ai /
+
+      moonshine</a></p>
+				<p>
+      Fast and accurate automatic speech recognition (ASR) for edge devices
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 6086</span>
+						<span>🔱 283</span>
+					</div>
+				<div class="stars-today">⭐ 593 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/Paddle" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      Paddle</a></p>
+				<p>
+      PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 23653</span>
+						<span>🔱 5954</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datagouv/datagouv-mcp" target="_blank">
+    
+
+
+      
+        datagouv /
+
+      datagouv-mcp</a></p>
+				<p>
+      Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 569</span>
+						<span>🔱 46</span>
+					</div>
+				<div class="stars-today">⭐ 122 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Wei-Shaw/sub2api" target="_blank">
+    
+
+
+      
+        Wei-Shaw /
+
+      sub2api</a></p>
+				<p>
+      Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2319</span>
+						<span>🔱 453</span>
+					</div>
+				<div class="stars-today">⭐ 97 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
+    
+
+
+      
+        X-PLUG /
+
+      MobileAgent</a></p>
+				<p>
+       Mobile-Agent: The Powerful GUI Agent Family
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7420</span>
+						<span>🔱 762</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1653</span>
-						<span>🔱 123</span>
+						<span>⭐ 1677</span>
+						<span>🔱 124</span>
 					</div>
 				<div class="stars-today">⭐ 105 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 65484</span>
+						<span>🔱 4989</span>
+					</div>
+				<div class="stars-today">⭐ 1546 stars today</div>
 				</div>
 			</div>
 	

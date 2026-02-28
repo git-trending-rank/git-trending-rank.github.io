@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年2月
-date: 2026-02-28T09:58:34Z
+date: 2026-02-28T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 238954</span>
-						<span>🔱 46084</span>
+						<span>⭐ 239224</span>
+						<span>🔱 46136</span>
 					</div>
 				<div class="stars-today">⭐ 174758 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17978</span>
-						<span>🔱 1869</span>
+						<span>⭐ 18005</span>
+						<span>🔱 1867</span>
 					</div>
 				<div class="stars-today">⭐ 15070 stars this month</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25696</span>
+						<span>⭐ 25705</span>
 						<span>🔱 2538</span>
 					</div>
 				<div class="stars-today">⭐ 21598 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills</a></p>
+				<p>
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3821</span>
+						<span>🔱 232</span>
+					</div>
+				<div class="stars-today">⭐ 3701 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10131</span>
-						<span>🔱 568</span>
+						<span>⭐ 10144</span>
+						<span>🔱 569</span>
 					</div>
 				<div class="stars-today">⭐ 7982 stars this month</div>
 				</div>
@@ -118,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11033</span>
+						<span>⭐ 11052</span>
 						<span>🔱 612</span>
 					</div>
 				<div class="stars-today">⭐ 7429 stars this month</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31660</span>
-						<span>🔱 2162</span>
+						<span>⭐ 31686</span>
+						<span>🔱 2165</span>
 					</div>
 				<div class="stars-today">⭐ 16442 stars this month</div>
 				</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5145</span>
+						<span>⭐ 5147</span>
 						<span>🔱 391</span>
 					</div>
 				<div class="stars-today">⭐ 4392 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      playwright-cli</a></p>
-				<p>
-      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4377</span>
-						<span>🔱 165</span>
-					</div>
-				<div class="stars-today">⭐ 2828 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 65398</span>
-						<span>🔱 4985</span>
+						<span>⭐ 65484</span>
+						<span>🔱 4989</span>
 					</div>
 				<div class="stars-today">⭐ 26969 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ThePrimeagen/99" target="_blank">
-    
-
-
-      
-        ThePrimeagen /
-
-      99</a></p>
-				<p>
-      Neovim AI agent done right
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Lua</span>
-						<span>⭐ 4166</span>
-						<span>🔱 200</span>
-					</div>
-				<div class="stars-today">⭐ 3064 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7427</span>
-						<span>🔱 436</span>
+						<span>⭐ 7438</span>
+						<span>🔱 438</span>
 					</div>
 				<div class="stars-today">⭐ 6185 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
     
 
 
       
-        gsd-build /
+        microsoft /
 
-      get-shit-done</a></p>
+      playwright-cli</a></p>
 				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 21982</span>
-						<span>🔱 1904</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4394</span>
+						<span>🔱 165</span>
 					</div>
-				<div class="stars-today">⭐ 13055 stars this month</div>
+				<div class="stars-today">⭐ 2828 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,32 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19145</span>
-						<span>🔱 1418</span>
+						<span>⭐ 19178</span>
+						<span>🔱 1420</span>
 					</div>
 				<div class="stars-today">⭐ 8810 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
     
 
 
       
-        virattt /
+        gsd-build /
 
-      dexter</a></p>
+      get-shit-done</a></p>
 				<p>
-      An autonomous agent for deep financial research
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16687</span>
-						<span>🔱 2031</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 22020</span>
+						<span>🔱 1903</span>
 					</div>
-				<div class="stars-today">⭐ 7625 stars this month</div>
+				<div class="stars-today">⭐ 13055 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,32 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 126149</span>
-						<span>🔱 32325</span>
+						<span>⭐ 126184</span>
+						<span>🔱 32331</span>
 					</div>
 				<div class="stars-today">⭐ 14743 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
     
 
 
       
-        NevaMind-AI /
+        virattt /
 
-      memU</a></p>
+      dexter</a></p>
 				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+      An autonomous agent for deep financial research
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11393</span>
-						<span>🔱 837</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16691</span>
+						<span>🔱 2031</span>
 					</div>
-				<div class="stars-today">⭐ 6258 stars this month</div>
+				<div class="stars-today">⭐ 7625 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,54 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33970</span>
+						<span>⭐ 33975</span>
 						<span>🔱 2266</span>
 					</div>
 				<div class="stars-today">⭐ 10341 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Stremio/stremio-web" target="_blank">
-    
-
-
-      
-        Stremio /
-
-      stremio-web</a></p>
-				<p>
-      Stremio - Freedom to Stream
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10276</span>
-						<span>🔱 1097</span>
-					</div>
-				<div class="stars-today">⭐ 1351 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/summarize" target="_blank">
-    
-
-
-      
-        steipete /
-
-      summarize</a></p>
-				<p>
-      Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4594</span>
-						<span>🔱 275</span>
-					</div>
-				<div class="stars-today">⭐ 3515 stars this month</div>
 				</div>
 			</div>
 	
