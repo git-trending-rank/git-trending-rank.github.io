@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 28 Feb 2026 04:44:36 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Feb 2026 06:19:22 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-02-28</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-02-28/</link>
-        <pubDate>Sat, 28 Feb 2026 04:44:36 +0000</pubDate>
+        <pubDate>Sat, 28 Feb 2026 06:19:22 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-02-28/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,28 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/wifi-densepose&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        ruvnet /
-
-      wifi-densepose&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9695&lt;/span&gt;
-						&lt;span&gt;🔱 904&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 478 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/deer-flow&#34; target=&#34;_blank&#34;&gt;
@@ -55,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 22014&lt;/span&gt;
-						&lt;span&gt;🔱 2677&lt;/span&gt;
+						&lt;span&gt;⭐ 22097&lt;/span&gt;
+						&lt;span&gt;🔱 2684&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 696 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -77,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C&lt;/span&gt;
-						&lt;span&gt;⭐ 5923&lt;/span&gt;
-						&lt;span&gt;🔱 277&lt;/span&gt;
+						&lt;span&gt;⭐ 5954&lt;/span&gt;
+						&lt;span&gt;🔱 278&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 593 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12519&lt;/span&gt;
-						&lt;span&gt;🔱 971&lt;/span&gt;
+						&lt;span&gt;⭐ 12549&lt;/span&gt;
+						&lt;span&gt;🔱 976&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 803 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -121,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 65011&lt;/span&gt;
-						&lt;span&gt;🔱 4958&lt;/span&gt;
+						&lt;span&gt;⭐ 65102&lt;/span&gt;
+						&lt;span&gt;🔱 4963&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1546 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -143,8 +121,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 15798&lt;/span&gt;
-						&lt;span&gt;🔱 1814&lt;/span&gt;
+						&lt;span&gt;⭐ 15874&lt;/span&gt;
+						&lt;span&gt;🔱 1823&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 531 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -165,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 23185&lt;/span&gt;
-						&lt;span&gt;🔱 2631&lt;/span&gt;
+						&lt;span&gt;⭐ 23256&lt;/span&gt;
+						&lt;span&gt;🔱 2637&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 324 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -187,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6341&lt;/span&gt;
-						&lt;span&gt;🔱 571&lt;/span&gt;
+						&lt;span&gt;⭐ 6387&lt;/span&gt;
+						&lt;span&gt;🔱 575&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1385 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -209,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 18541&lt;/span&gt;
-						&lt;span&gt;🔱 1774&lt;/span&gt;
+						&lt;span&gt;⭐ 18617&lt;/span&gt;
+						&lt;span&gt;🔱 1781&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 199 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -231,8 +209,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 71295&lt;/span&gt;
-						&lt;span&gt;🔱 5642&lt;/span&gt;
+						&lt;span&gt;⭐ 71351&lt;/span&gt;
+						&lt;span&gt;🔱 5646&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 494 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -253,7 +231,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 1970&lt;/span&gt;
+						&lt;span&gt;⭐ 1989&lt;/span&gt;
 						&lt;span&gt;🔱 201&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 410 stars today&lt;/div&gt;
@@ -275,7 +253,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8585&lt;/span&gt;
+						&lt;span&gt;⭐ 8596&lt;/span&gt;
 						&lt;span&gt;🔱 1375&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 53 stars today&lt;/div&gt;
@@ -297,7 +275,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C&lt;/span&gt;
-						&lt;span&gt;⭐ 1160&lt;/span&gt;
+						&lt;span&gt;⭐ 1164&lt;/span&gt;
 						&lt;span&gt;🔱 206&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 85 stars today&lt;/div&gt;
@@ -319,8 +297,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 18249&lt;/span&gt;
-						&lt;span&gt;🔱 1216&lt;/span&gt;
+						&lt;span&gt;⭐ 18323&lt;/span&gt;
+						&lt;span&gt;🔱 1217&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1135 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -341,8 +319,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Swift&lt;/span&gt;
-						&lt;span&gt;⭐ 7085&lt;/span&gt;
-						&lt;span&gt;🔱 493&lt;/span&gt;
+						&lt;span&gt;⭐ 7097&lt;/span&gt;
+						&lt;span&gt;🔱 494&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 243 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -363,8 +341,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1565&lt;/span&gt;
-						&lt;span&gt;🔱 116&lt;/span&gt;
+						&lt;span&gt;⭐ 1586&lt;/span&gt;
+						&lt;span&gt;🔱 117&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 105 stars today&lt;/div&gt;
 				&lt;/div&gt;
