@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第9周
-date: 2026-03-01T06:30:02Z
+date: 2026-03-01T08:00:54Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6880</span>
-						<span>🔱 631</span>
+						<span>⭐ 6912</span>
+						<span>🔱 637</span>
 					</div>
 				<div class="stars-today">⭐ 5747 stars this week</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7582</span>
-						<span>🔱 450</span>
+						<span>⭐ 7594</span>
+						<span>🔱 451</span>
 					</div>
 				<div class="stars-today">⭐ 5940 stars this week</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 126558</span>
-						<span>🔱 32423</span>
+						<span>⭐ 126587</span>
+						<span>🔱 32428</span>
 					</div>
 				<div class="stars-today">⭐ 11081 stars this week</div>
 				</div>
@@ -94,7 +94,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12778</span>
+						<span>⭐ 12790</span>
 						<span>🔱 985</span>
 					</div>
 				<div class="stars-today">⭐ 4318 stars this week</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22698</span>
-						<span>🔱 2726</span>
+						<span>⭐ 22720</span>
+						<span>🔱 2730</span>
 					</div>
 				<div class="stars-today">⭐ 2445 stars this week</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 8742</span>
-						<span>🔱 976</span>
+						<span>⭐ 8750</span>
+						<span>🔱 977</span>
 					</div>
 				<div class="stars-today">⭐ 3947 stars this week</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21637</span>
-						<span>🔱 789</span>
+						<span>⭐ 21652</span>
+						<span>🔱 790</span>
 					</div>
 				<div class="stars-today">⭐ 2338 stars this week</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 66182</span>
-						<span>🔱 5054</span>
+						<span>⭐ 66250</span>
+						<span>🔱 5061</span>
 					</div>
 				<div class="stars-today">⭐ 9087 stars this week</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2629</span>
-						<span>🔱 595</span>
+						<span>⭐ 2643</span>
+						<span>🔱 596</span>
 					</div>
 				<div class="stars-today">⭐ 676 stars this week</div>
 				</div>
@@ -226,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 60720</span>
+						<span>⭐ 60728</span>
 						<span>🔱 2813</span>
 					</div>
 				<div class="stars-today">⭐ 2083 stars this week</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 960</span>
-						<span>🔱 98</span>
+						<span>⭐ 962</span>
+						<span>🔱 99</span>
 					</div>
 				<div class="stars-today">⭐ 361 stars this week</div>
 				</div>
@@ -265,13 +265,13 @@ keywords:
 
       wifi-densepose</a></p>
 				<p>
-      Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers 
+      WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12987</span>
-						<span>🔱 1304</span>
+						<span>⭐ 13705</span>
+						<span>🔱 1392</span>
 					</div>
 				<div class="stars-today">⭐ 3680 stars this week</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 6326</span>
-						<span>🔱 290</span>
+						<span>⭐ 6343</span>
+						<span>🔱 292</span>
 					</div>
 				<div class="stars-today">⭐ 1859 stars this week</div>
 				</div>
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 71971</span>
-						<span>🔱 5697</span>
+						<span>⭐ 72016</span>
+						<span>🔱 5699</span>
 					</div>
 				<div class="stars-today">⭐ 3523 stars this week</div>
 				</div>

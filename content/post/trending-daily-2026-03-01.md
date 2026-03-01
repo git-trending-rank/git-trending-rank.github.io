@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-01
-date: 2026-03-01T06:30:02Z
+date: 2026-03-01T08:00:54Z
 categories:
 - daily
 keywords:
@@ -25,13 +25,13 @@ keywords:
 
       wifi-densepose</a></p>
 				<p>
-      Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers 
+      WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12987</span>
-						<span>🔱 1304</span>
+						<span>⭐ 13705</span>
+						<span>🔱 1392</span>
 					</div>
 				<div class="stars-today">⭐ 2152 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19504</span>
-						<span>🔱 1856</span>
+						<span>⭐ 19549</span>
+						<span>🔱 1861</span>
 					</div>
 				<div class="stars-today">⭐ 1065 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 71971</span>
-						<span>🔱 5697</span>
+						<span>⭐ 72016</span>
+						<span>🔱 5699</span>
 					</div>
 				<div class="stars-today">⭐ 699 stars today</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 1246</span>
-						<span>🔱 211</span>
+						<span>⭐ 1253</span>
+						<span>🔱 212</span>
 					</div>
 				<div class="stars-today">⭐ 107 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+    
+
+
+      
+        Shubhamsaboo /
+
+      awesome-llm-apps</a></p>
+				<p>
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 98369</span>
+						<span>🔱 14319</span>
+					</div>
+				<div class="stars-today">⭐ 635 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16707</span>
-						<span>🔱 1890</span>
+						<span>⭐ 16763</span>
+						<span>🔱 1895</span>
 					</div>
 				<div class="stars-today">⭐ 928 stars today</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22698</span>
-						<span>🔱 2726</span>
+						<span>⭐ 22720</span>
+						<span>🔱 2730</span>
 					</div>
 				<div class="stars-today">⭐ 899 stars today</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 8714</span>
-						<span>🔱 1387</span>
+						<span>⭐ 8725</span>
+						<span>🔱 1391</span>
 					</div>
 				<div class="stars-today">⭐ 171 stars today</div>
 				</div>
@@ -182,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1192</span>
-						<span>🔱 175</span>
+						<span>⭐ 1208</span>
+						<span>🔱 179</span>
 					</div>
 				<div class="stars-today">⭐ 182 stars today</div>
 				</div>
@@ -204,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2525</span>
-						<span>🔱 185</span>
+						<span>⭐ 2556</span>
+						<span>🔱 186</span>
 					</div>
 				<div class="stars-today">⭐ 181 stars today</div>
 				</div>
@@ -226,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 6326</span>
-						<span>🔱 290</span>
+						<span>⭐ 6343</span>
+						<span>🔱 292</span>
 					</div>
 				<div class="stars-today">⭐ 496 stars today</div>
 				</div>
@@ -248,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 23715</span>
-						<span>🔱 5957</span>
+						<span>⭐ 23719</span>
+						<span>🔱 5958</span>
 					</div>
 				<div class="stars-today">⭐ 10 stars today</div>
 				</div>
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 687</span>
-						<span>🔱 52</span>
+						<span>⭐ 698</span>
+						<span>🔱 54</span>
 					</div>
 				<div class="stars-today">⭐ 115 stars today</div>
 				</div>
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2437</span>
-						<span>🔱 466</span>
+						<span>⭐ 2446</span>
+						<span>🔱 467</span>
 					</div>
 				<div class="stars-today">⭐ 98 stars today</div>
 				</div>
@@ -314,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7568</span>
-						<span>🔱 769</span>
+						<span>⭐ 7584</span>
+						<span>🔱 772</span>
 					</div>
 				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
@@ -336,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2519</span>
-						<span>🔱 181</span>
+						<span>⭐ 2623</span>
+						<span>🔱 189</span>
 					</div>
 				<div class="stars-today">⭐ 349 stars today</div>
 				</div>
@@ -358,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 66182</span>
-						<span>🔱 5054</span>
+						<span>⭐ 66250</span>
+						<span>🔱 5061</span>
 					</div>
 				<div class="stars-today">⭐ 1323 stars today</div>
 				</div>
