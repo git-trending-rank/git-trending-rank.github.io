@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-01
-date: 2026-03-01T10:00:50Z
+date: 2026-03-01T11:58:53Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      wifi-densepose</a></p>
-				<p>
-      WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 14417</span>
-						<span>🔱 1475</span>
-					</div>
-				<div class="stars-today">⭐ 2152 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
@@ -52,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19600</span>
-						<span>🔱 1865</span>
+						<span>⭐ 19656</span>
+						<span>🔱 1869</span>
 					</div>
 				<div class="stars-today">⭐ 1065 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
     
 
 
       
-        anthropics /
+        ruvnet /
 
-      claude-code</a></p>
+      wifi-densepose</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 72074</span>
-						<span>🔱 5706</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 14820</span>
+						<span>🔱 1532</span>
 					</div>
-				<div class="stars-today">⭐ 699 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tukaani-project/xz" target="_blank">
-    
-
-
-      
-        tukaani-project /
-
-      xz</a></p>
-				<p>
-      XZ Utils
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 1258</span>
-						<span>🔱 211</span>
-					</div>
-				<div class="stars-today">⭐ 107 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
-    
-
-
-      
-        Shubhamsaboo /
-
-      awesome-llm-apps</a></p>
-				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 98408</span>
-						<span>🔱 14326</span>
-					</div>
-				<div class="stars-today">⭐ 635 stars today</div>
+				<div class="stars-today">⭐ 2152 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16832</span>
-						<span>🔱 1901</span>
+						<span>⭐ 16891</span>
+						<span>🔱 1905</span>
 					</div>
 				<div class="stars-today">⭐ 928 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 88676</span>
+						<span>🔱 5199</span>
+					</div>
+				<div class="stars-today">⭐ 798 stars today</div>
 				</div>
 			</div>
 	
@@ -162,184 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22746</span>
-						<span>🔱 2732</span>
+						<span>⭐ 22766</span>
+						<span>🔱 2733</span>
 					</div>
 				<div class="stars-today">⭐ 899 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Wei-Shaw/claude-relay-service" target="_blank">
-    
-
-
-      
-        Wei-Shaw /
-
-      claude-relay-service</a></p>
-				<p>
-      CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 8733</span>
-						<span>🔱 1392</span>
-					</div>
-				<div class="stars-today">⭐ 171 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1228</span>
-						<span>🔱 180</span>
-					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superset-sh/superset" target="_blank">
-    
-
-
-      
-        superset-sh /
-
-      superset</a></p>
-				<p>
-      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2583</span>
-						<span>🔱 189</span>
-					</div>
-				<div class="stars-today">⭐ 181 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
-    
-
-
-      
-        moonshine-ai /
-
-      moonshine</a></p>
-				<p>
-      Fast and accurate automatic speech recognition (ASR) for edge devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6366</span>
-						<span>🔱 292</span>
-					</div>
-				<div class="stars-today">⭐ 496 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/Paddle" target="_blank">
-    
-
-
-      
-        PaddlePaddle /
-
-      Paddle</a></p>
-				<p>
-      PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 23722</span>
-						<span>🔱 5960</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datagouv/datagouv-mcp" target="_blank">
-    
-
-
-      
-        datagouv /
-
-      datagouv-mcp</a></p>
-				<p>
-      Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 702</span>
-						<span>🔱 54</span>
-					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Wei-Shaw/sub2api" target="_blank">
-    
-
-
-      
-        Wei-Shaw /
-
-      sub2api</a></p>
-				<p>
-      Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2460</span>
-						<span>🔱 470</span>
-					</div>
-				<div class="stars-today">⭐ 98 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
-    
-
-
-      
-        X-PLUG /
-
-      MobileAgent</a></p>
-				<p>
-       Mobile-Agent: The Powerful GUI Agent Family
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7597</span>
-						<span>🔱 772</span>
-					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
 				</div>
 			</div>
 	
@@ -358,32 +140,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2749</span>
-						<span>🔱 196</span>
+						<span>⭐ 2837</span>
+						<span>🔱 204</span>
 					</div>
 				<div class="stars-today">⭐ 349 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
     
 
 
       
-        obra /
+        Shubhamsaboo /
 
-      superpowers</a></p>
+      awesome-llm-apps</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 98447</span>
+						<span>🔱 14332</span>
+					</div>
+				<div class="stars-today">⭐ 635 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/K-Dense-AI/claude-scientific-skills" target="_blank">
+    
+
+
+      
+        K-Dense-AI /
+
+      claude-scientific-skills</a></p>
+				<p>
+      A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9875</span>
+						<span>🔱 1173</span>
+					</div>
+				<div class="stars-today">⭐ 184 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
+    
+
+
+      
+        basecamp /
+
+      omarchy</a></p>
+				<p>
+      Beautiful, Modern & Opinionated Linux
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 66355</span>
-						<span>🔱 5071</span>
+						<span>⭐ 20640</span>
+						<span>🔱 2048</span>
 					</div>
-				<div class="stars-today">⭐ 1323 stars today</div>
+				<div class="stars-today">⭐ 62 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
+    
+
+
+      
+        X-PLUG /
+
+      MobileAgent</a></p>
+				<p>
+       Mobile-Agent: The Powerful GUI Agent Family
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7611</span>
+						<span>🔱 772</span>
+					</div>
+				<div class="stars-today">⭐ 45 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
+    
+
+
+      
+        datawhalechina /
+
+      hello-agents</a></p>
+				<p>
+      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23634</span>
+						<span>🔱 2672</span>
+					</div>
+				<div class="stars-today">⭐ 603 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superset-sh/superset" target="_blank">
+    
+
+
+      
+        superset-sh /
+
+      superset</a></p>
+				<p>
+      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2617</span>
+						<span>🔱 190</span>
+					</div>
+				<div class="stars-today">⭐ 181 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+    
+
+
+      
+        NevaMind-AI /
+
+      memU</a></p>
+				<p>
+      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11778</span>
+						<span>🔱 868</span>
+					</div>
+				<div class="stars-today">⭐ 338 stars today</div>
 				</div>
 			</div>
 	

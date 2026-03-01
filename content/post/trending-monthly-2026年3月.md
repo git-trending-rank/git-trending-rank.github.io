@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-01T10:00:50Z
+date: 2026-03-01T11:58:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 241575</span>
-						<span>🔱 46665</span>
+						<span>⭐ 241816</span>
+						<span>🔱 46724</span>
 					</div>
 				<div class="stars-today">⭐ 114742 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18300</span>
-						<span>🔱 1897</span>
+						<span>⭐ 18324</span>
+						<span>🔱 1900</span>
 					</div>
 				<div class="stars-today">⭐ 14245 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25824</span>
-						<span>🔱 2546</span>
+						<span>⭐ 25835</span>
+						<span>🔱 2548</span>
 					</div>
 				<div class="stars-today">⭐ 21665 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3951</span>
+						<span>⭐ 3968</span>
 						<span>🔱 239</span>
 					</div>
 				<div class="stars-today">⭐ 3668 stars this month</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10242</span>
+						<span>⭐ 10252</span>
 						<span>🔱 572</span>
 					</div>
 				<div class="stars-today">⭐ 7974 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
-    
-
-
-      
-        tobi /
-
-      qmd</a></p>
-				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11184</span>
-						<span>🔱 618</span>
-					</div>
-				<div class="stars-today">⭐ 6510 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31903</span>
-						<span>🔱 2177</span>
+						<span>⭐ 31923</span>
+						<span>🔱 2178</span>
 					</div>
 				<div class="stars-today">⭐ 16339 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/gogcli" target="_blank">
-    
-
-
-      
-        steipete /
-
-      gogcli</a></p>
-				<p>
-      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5200</span>
-						<span>🔱 396</span>
-					</div>
-				<div class="stars-today">⭐ 3997 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 66355</span>
-						<span>🔱 5071</span>
+						<span>⭐ 66445</span>
+						<span>🔱 5076</span>
 					</div>
 				<div class="stars-today">⭐ 25041 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tobi/qmd" target="_blank">
+    
+
+
+      
+        tobi /
+
+      qmd</a></p>
+				<p>
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11196</span>
+						<span>🔱 618</span>
+					</div>
+				<div class="stars-today">⭐ 6510 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
+    
+
+
+      
+        steipete /
+
+      gogcli</a></p>
+				<p>
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5207</span>
+						<span>🔱 396</span>
+					</div>
+				<div class="stars-today">⭐ 3997 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7609</span>
-						<span>🔱 454</span>
+						<span>⭐ 7623</span>
+						<span>🔱 455</span>
 					</div>
 				<div class="stars-today">⭐ 6379 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      playwright-cli</a></p>
-				<p>
-      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4474</span>
-						<span>🔱 167</span>
-					</div>
-				<div class="stars-today">⭐ 2386 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19476</span>
-						<span>🔱 1452</span>
+						<span>⭐ 19508</span>
+						<span>🔱 1456</span>
 					</div>
 				<div class="stars-today">⭐ 8276 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
     
 
 
       
-        gsd-build /
+        microsoft /
 
-      get-shit-done</a></p>
+      playwright-cli</a></p>
 				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 22479</span>
-						<span>🔱 1949</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4484</span>
+						<span>🔱 167</span>
 					</div>
-				<div class="stars-today">⭐ 12264 stars this month</div>
+				<div class="stars-today">⭐ 2386 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 126632</span>
-						<span>🔱 32430</span>
+						<span>⭐ 126669</span>
+						<span>🔱 32436</span>
 					</div>
 				<div class="stars-today">⭐ 14493 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
     
 
 
       
-        virattt /
+        gsd-build /
 
-      dexter</a></p>
+      get-shit-done</a></p>
 				<p>
-      An autonomous agent for deep financial research
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16741</span>
-						<span>🔱 2043</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 22538</span>
+						<span>🔱 1948</span>
 					</div>
-				<div class="stars-today">⭐ 7365 stars this month</div>
+				<div class="stars-today">⭐ 12264 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +336,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34054</span>
-						<span>🔱 2275</span>
+						<span>⭐ 34061</span>
+						<span>🔱 2276</span>
 					</div>
 				<div class="stars-today">⭐ 10316 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22766</span>
+						<span>🔱 2733</span>
+					</div>
+				<div class="stars-today">⭐ 3055 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16743</span>
+						<span>🔱 2044</span>
+					</div>
+				<div class="stars-today">⭐ 7365 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Development at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 21686</span>
+						<span>🔱 791</span>
+					</div>
+				<div class="stars-today">⭐ 2608 stars this month</div>
 				</div>
 			</div>
 	
