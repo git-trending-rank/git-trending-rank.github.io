@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-02T10:31:39Z
+date: 2026-03-02T12:26:46Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 245676</span>
-						<span>🔱 47456</span>
+						<span>⭐ 246053</span>
+						<span>🔱 47529</span>
 					</div>
 				<div class="stars-today">⭐ 106934 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18759</span>
-						<span>🔱 1943</span>
-					</div>
-				<div class="stars-today">⭐ 13950 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26029</span>
-						<span>🔱 2561</span>
+						<span>⭐ 26051</span>
+						<span>🔱 2562</span>
 					</div>
 				<div class="stars-today">⭐ 21789 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18792</span>
+						<span>🔱 1945</span>
+					</div>
+				<div class="stars-today">⭐ 13950 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4115</span>
-						<span>🔱 249</span>
+						<span>⭐ 4125</span>
+						<span>🔱 250</span>
 					</div>
 				<div class="stars-today">⭐ 3802 stars this month</div>
 				</div>
@@ -118,10 +118,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10370</span>
-						<span>🔱 581</span>
+						<span>⭐ 10379</span>
+						<span>🔱 580</span>
 					</div>
 				<div class="stars-today">⭐ 8053 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      wifi-densepose</a></p>
+				<p>
+      WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19909</span>
+						<span>🔱 2379</span>
+					</div>
+				<div class="stars-today">⭐ 10489 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7819</span>
+						<span>🔱 463</span>
+					</div>
+				<div class="stars-today">⭐ 6555 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32164</span>
-						<span>🔱 2191</span>
+						<span>⭐ 32195</span>
+						<span>🔱 2192</span>
 					</div>
 				<div class="stars-today">⭐ 16380 stars this month</div>
 				</div>
@@ -162,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 67588</span>
-						<span>🔱 5178</span>
+						<span>⭐ 67690</span>
+						<span>🔱 5187</span>
 					</div>
 				<div class="stars-today">⭐ 25432 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
-    
-
-
-      
-        tobi /
-
-      qmd</a></p>
-				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11365</span>
-						<span>🔱 630</span>
-					</div>
-				<div class="stars-today">⭐ 6130 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,7 +226,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5270</span>
+						<span>⭐ 5276</span>
 						<span>🔱 402</span>
 					</div>
 				<div class="stars-today">⭐ 4007 stars this month</div>
@@ -214,66 +234,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
+				<p><a href="https://github.com/tobi/qmd" target="_blank">
     
 
 
       
-        huggingface /
+        tobi /
 
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7810</span>
-						<span>🔱 463</span>
-					</div>
-				<div class="stars-today">⭐ 6555 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
-    
-
-
-      
-        VectifyAI /
-
-      PageIndex</a></p>
+      qmd</a></p>
 				<p>
-      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19822</span>
-						<span>🔱 1487</span>
-					</div>
-				<div class="stars-today">⭐ 8144 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/playwright-cli" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      playwright-cli</a></p>
-				<p>
-      CLI for common Playwright actions. Record and generate Playwright code, inspect selectors and take screenshots.
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4576</span>
-						<span>🔱 171</span>
+						<span>⭐ 11391</span>
+						<span>🔱 632</span>
 					</div>
-				<div class="stars-today">⭐ 2435 stars this month</div>
+				<div class="stars-today">⭐ 6130 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,54 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 127077</span>
-						<span>🔱 32506</span>
+						<span>⭐ 127106</span>
+						<span>🔱 32520</span>
 					</div>
 				<div class="stars-today">⭐ 14714 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
-    
-
-
-      
-        gsd-build /
-
-      get-shit-done</a></p>
-				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 23101</span>
-						<span>🔱 1992</span>
-					</div>
-				<div class="stars-today">⭐ 12405 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
-    
-
-
-      
-        google /
-
-      langextract</a></p>
-				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34148</span>
-						<span>🔱 2280</span>
-					</div>
-				<div class="stars-today">⭐ 10338 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23318</span>
-						<span>🔱 2768</span>
+						<span>⭐ 23354</span>
+						<span>🔱 2773</span>
 					</div>
 				<div class="stars-today">⭐ 3328 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
     
 
 
       
-        virattt /
+        gsd-build /
 
-      dexter</a></p>
+      get-shit-done</a></p>
 				<p>
-      An autonomous agent for deep financial research
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16828</span>
-						<span>🔱 2047</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 23143</span>
+						<span>🔱 1995</span>
 					</div>
-				<div class="stars-today">⭐ 7344 stars this month</div>
+				<div class="stars-today">⭐ 12405 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21875</span>
-						<span>🔱 800</span>
+						<span>⭐ 21886</span>
+						<span>🔱 801</span>
 					</div>
 				<div class="stars-today">⭐ 2790 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/langextract" target="_blank">
+    
+
+
+      
+        google /
+
+      langextract</a></p>
+				<p>
+      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 34155</span>
+						<span>🔱 2282</span>
+					</div>
+				<div class="stars-today">⭐ 10338 stars this month</div>
 				</div>
 			</div>
 	

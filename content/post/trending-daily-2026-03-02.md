@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-02
-date: 2026-03-02T10:31:40Z
+date: 2026-03-02T12:26:46Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20993</span>
-						<span>🔱 1968</span>
-					</div>
-				<div class="stars-today">⭐ 736 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
@@ -52,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19607</span>
-						<span>🔱 2342</span>
+						<span>⭐ 19909</span>
+						<span>🔱 2379</span>
 					</div>
-				<div class="stars-today">⭐ 4539 stars today</div>
+				<div class="stars-today">⭐ 5080 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21068</span>
+						<span>🔱 1973</span>
+					</div>
+				<div class="stars-today">⭐ 1425 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      prompt-eng-interactive-tutorial</a></p>
+				<p>
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 31168</span>
+						<span>🔱 3172</span>
+					</div>
+				<div class="stars-today">⭐ 60 stars today</div>
 				</div>
 			</div>
 	
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17651</span>
-						<span>🔱 1968</span>
+						<span>⭐ 17709</span>
+						<span>🔱 1969</span>
 					</div>
-				<div class="stars-today">⭐ 766 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 89285</span>
-						<span>🔱 5237</span>
-					</div>
-				<div class="stars-today">⭐ 805 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23318</span>
-						<span>🔱 2768</span>
-					</div>
-				<div class="stars-today">⭐ 355 stars today</div>
+				<div class="stars-today">⭐ 821 stars today</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3791</span>
-						<span>🔱 261</span>
+						<span>⭐ 3830</span>
+						<span>🔱 263</span>
 					</div>
-				<div class="stars-today">⭐ 1179 stars today</div>
+				<div class="stars-today">⭐ 982 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Shubhamsaboo/awesome-llm-apps" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        Shubhamsaboo /
+        microsoft /
 
-      awesome-llm-apps</a></p>
+      markitdown</a></p>
 				<p>
-      Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 98985</span>
-						<span>🔱 14382</span>
+						<span>⭐ 89316</span>
+						<span>🔱 5237</span>
 					</div>
-				<div class="stars-today">⭐ 471 stars today</div>
+				<div class="stars-today">⭐ 646 stars today</div>
 				</div>
 			</div>
 	
@@ -184,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10660</span>
-						<span>🔱 1234</span>
+						<span>⭐ 10727</span>
+						<span>🔱 1239</span>
 					</div>
-				<div class="stars-today">⭐ 189 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/basecamp/omarchy" target="_blank">
-    
-
-
-      
-        basecamp /
-
-      omarchy</a></p>
-				<p>
-      Beautiful, Modern & Opinionated Linux
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 20816</span>
-						<span>🔱 2065</span>
-					</div>
-				<div class="stars-today">⭐ 59 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/X-PLUG/MobileAgent" target="_blank">
-    
-
-
-      
-        X-PLUG /
-
-      MobileAgent</a></p>
-				<p>
-       Mobile-Agent: The Powerful GUI Agent Family
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7851</span>
-						<span>🔱 791</span>
-					</div>
-				<div class="stars-today">⭐ 190 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/datawhalechina/hello-agents" target="_blank">
-    
-
-
-      
-        datawhalechina /
-
-      hello-agents</a></p>
-				<p>
-      📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24357</span>
-						<span>🔱 2725</span>
-					</div>
-				<div class="stars-today">⭐ 147 stars today</div>
+				<div class="stars-today">⭐ 848 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3168</span>
-						<span>🔱 221</span>
+						<span>⭐ 3214</span>
+						<span>🔱 227</span>
 					</div>
-				<div class="stars-today">⭐ 389 stars today</div>
+				<div class="stars-today">⭐ 592 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NevaMind-AI/memU" target="_blank">
+				<p><a href="https://github.com/servo/servo" target="_blank">
     
 
 
       
-        NevaMind-AI /
+        servo /
 
-      memU</a></p>
+      servo</a></p>
 				<p>
-      Memory for 24/7 proactive agents like openclaw (moltbot, clawdbot).
+      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12294</span>
-						<span>🔱 894</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 35657</span>
+						<span>🔱 3493</span>
 					</div>
-				<div class="stars-today">⭐ 323 stars today</div>
+				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
 			</div>
 	

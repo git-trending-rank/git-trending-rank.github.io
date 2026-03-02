@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第10周
-date: 2026-03-02T10:31:40Z
+date: 2026-03-02T12:26:46Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      wifi-densepose</a></p>
+				<p>
+      WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 19909</span>
+						<span>🔱 2379</span>
+					</div>
+				<div class="stars-today">⭐ 7915 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
@@ -30,52 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7868</span>
-						<span>🔱 932</span>
+						<span>⭐ 7919</span>
+						<span>🔱 942</span>
 					</div>
 				<div class="stars-today">⭐ 5791 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 127077</span>
-						<span>🔱 32506</span>
-					</div>
-				<div class="stars-today">⭐ 10412 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7810</span>
-						<span>🔱 463</span>
-					</div>
-				<div class="stars-today">⭐ 5739 stars this week</div>
 				</div>
 			</div>
 	
@@ -94,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12974</span>
-						<span>🔱 996</span>
+						<span>⭐ 12988</span>
+						<span>🔱 998</span>
 					</div>
 				<div class="stars-today">⭐ 4368 stars this week</div>
 				</div>
@@ -116,32 +96,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23318</span>
-						<span>🔱 2768</span>
+						<span>⭐ 23354</span>
+						<span>🔱 2773</span>
 					</div>
 				<div class="stars-today">⭐ 2776 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
     
 
 
       
-        ruvnet /
+        huggingface /
 
-      wifi-densepose</a></p>
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7819</span>
+						<span>🔱 463</span>
+					</div>
+				<div class="stars-today">⭐ 5739 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 19607</span>
-						<span>🔱 2342</span>
+						<span>🔠 </span>
+						<span>⭐ 127106</span>
+						<span>🔱 32520</span>
 					</div>
-				<div class="stars-today">⭐ 7915 stars this week</div>
+				<div class="stars-today">⭐ 10412 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21875</span>
-						<span>🔱 800</span>
+						<span>⭐ 21886</span>
+						<span>🔱 801</span>
 					</div>
 				<div class="stars-today">⭐ 2540 stars this week</div>
 				</div>
@@ -182,10 +182,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2403</span>
+						<span>⭐ 2416</span>
 						<span>🔱 241</span>
 					</div>
 				<div class="stars-today">⭐ 1776 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3830</span>
+						<span>🔱 263</span>
+					</div>
+				<div class="stars-today">⭐ 2012 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,10 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 67588</span>
-						<span>🔱 5178</span>
+						<span>⭐ 67690</span>
+						<span>🔱 5187</span>
 					</div>
 				<div class="stars-today">⭐ 9249 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21068</span>
+						<span>🔱 1973</span>
+					</div>
+				<div class="stars-today">⭐ 2408 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20231</span>
-						<span>🔱 4039</span>
+						<span>⭐ 20268</span>
+						<span>🔱 4046</span>
 					</div>
 				<div class="stars-today">⭐ 2616 stars this week</div>
 				</div>
@@ -248,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 6616</span>
-						<span>🔱 306</span>
+						<span>⭐ 6626</span>
+						<span>🔱 307</span>
 					</div>
 				<div class="stars-today">⭐ 2149 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 60838</span>
-						<span>🔱 2823</span>
-					</div>
-				<div class="stars-today">⭐ 2178 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2762</span>
-						<span>🔱 612</span>
+						<span>⭐ 2766</span>
+						<span>🔱 614</span>
 					</div>
 				<div class="stars-today">⭐ 698 stars this week</div>
 				</div>
@@ -314,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 72550</span>
-						<span>🔱 5753</span>
+						<span>⭐ 72588</span>
+						<span>🔱 5757</span>
 					</div>
 				<div class="stars-today">⭐ 3594 stars this week</div>
 				</div>
