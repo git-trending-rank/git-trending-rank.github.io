@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第10周
-date: 2026-03-03T00:57:06Z
+date: 2026-03-03T04:01:13Z
 categories:
 - weekly
 keywords:
@@ -16,22 +16,22 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/wifi-densepose" target="_blank">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
     
 
 
       
         ruvnet /
 
-      wifi-densepose</a></p>
+      RuView</a></p>
 				<p>
-      WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21939</span>
-						<span>🔱 2579</span>
+						<span>⭐ 22606</span>
+						<span>🔱 2691</span>
 					</div>
 				<div class="stars-today">⭐ 13054 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8310</span>
-						<span>🔱 1007</span>
+						<span>⭐ 8457</span>
+						<span>🔱 1023</span>
 					</div>
 				<div class="stars-today">⭐ 6228 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13072</span>
-						<span>🔱 1007</span>
+						<span>⭐ 13093</span>
+						<span>🔱 1009</span>
 					</div>
 				<div class="stars-today">⭐ 4359 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23470</span>
-						<span>🔱 2787</span>
+						<span>⭐ 23564</span>
+						<span>🔱 2796</span>
 					</div>
 				<div class="stars-today">⭐ 3347 stars this week</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7909</span>
-						<span>🔱 468</span>
+						<span>⭐ 7929</span>
+						<span>🔱 469</span>
 					</div>
 				<div class="stars-today">⭐ 4478 stars this week</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 127265</span>
-						<span>🔱 32537</span>
+						<span>⭐ 127324</span>
+						<span>🔱 32553</span>
 					</div>
 				<div class="stars-today">⭐ 8362 stars this week</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21984</span>
-						<span>🔱 810</span>
+						<span>⭐ 21998</span>
+						<span>🔱 811</span>
 					</div>
 				<div class="stars-today">⭐ 2727 stars this week</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 2509</span>
-						<span>🔱 250</span>
+						<span>⭐ 2532</span>
+						<span>🔱 252</span>
 					</div>
 				<div class="stars-today">⭐ 1972 stars this week</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4312</span>
-						<span>🔱 304</span>
+						<span>⭐ 4493</span>
+						<span>🔱 315</span>
 					</div>
 				<div class="stars-today">⭐ 2745 stars this week</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 68110</span>
-						<span>🔱 5225</span>
+						<span>⭐ 68339</span>
+						<span>🔱 5241</span>
 					</div>
 				<div class="stars-today">⭐ 9076 stars this week</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21402</span>
-						<span>🔱 2005</span>
+						<span>⭐ 21552</span>
+						<span>🔱 2021</span>
 					</div>
 				<div class="stars-today">⭐ 3611 stars this week</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20396</span>
-						<span>🔱 4063</span>
+						<span>⭐ 20489</span>
+						<span>🔱 4073</span>
 					</div>
 				<div class="stars-today">⭐ 2877 stars this week</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 6720</span>
-						<span>🔱 312</span>
+						<span>⭐ 6744</span>
+						<span>🔱 316</span>
 					</div>
 				<div class="stars-today">⭐ 2373 stars this week</div>
 				</div>
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2798</span>
-						<span>🔱 619</span>
+						<span>⭐ 2810</span>
+						<span>🔱 621</span>
 					</div>
 				<div class="stars-today">⭐ 744 stars this week</div>
 				</div>
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 72785</span>
-						<span>🔱 5770</span>
+						<span>⭐ 72865</span>
+						<span>🔱 5775</span>
 					</div>
 				<div class="stars-today">⭐ 3470 stars this week</div>
 				</div>
