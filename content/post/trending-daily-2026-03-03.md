@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-03
-date: 2026-03-03T10:25:13Z
+date: 2026-03-03T12:26:32Z
 categories:
 - daily
 keywords:
@@ -30,120 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24008</span>
-						<span>🔱 2894</span>
+						<span>⭐ 24295</span>
+						<span>🔱 2952</span>
 					</div>
-				<div class="stars-today">⭐ 5096 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21818</span>
-						<span>🔱 2042</span>
-					</div>
-				<div class="stars-today">⭐ 1412 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      prompt-eng-interactive-tutorial</a></p>
-				<p>
-      Anthropic's Interactive Prompt Engineering Tutorial
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 31932</span>
-						<span>🔱 3234</span>
-					</div>
-				<div class="stars-today">⭐ 526 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18376</span>
-						<span>🔱 2034</span>
-					</div>
-				<div class="stars-today">⭐ 830 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4869</span>
-						<span>🔱 348</span>
-					</div>
-				<div class="stars-today">⭐ 1026 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 89882</span>
-						<span>🔱 5271</span>
-					</div>
-				<div class="stars-today">⭐ 648 stars today</div>
+				<div class="stars-today">⭐ 4557 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +52,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11441</span>
-						<span>🔱 1279</span>
+						<span>⭐ 11513</span>
+						<span>🔱 1284</span>
 					</div>
-				<div class="stars-today">⭐ 820 stars today</div>
+				<div class="stars-today">⭐ 790 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21888</span>
+						<span>🔱 2047</span>
+					</div>
+				<div class="stars-today">⭐ 842 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
+    
+
+
+      
+        CodebuffAI /
+
+      codebuff</a></p>
+				<p>
+      Generate code from the terminal!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3116</span>
+						<span>🔱 406</span>
+					</div>
+				<div class="stars-today">⭐ 118 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentscope-ai/agentscope" target="_blank">
+    
+
+
+      
+        agentscope-ai /
+
+      agentscope</a></p>
+				<p>
+      Build and run agents you can see, understand and trust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16849</span>
+						<span>🔱 1515</span>
+					</div>
+				<div class="stars-today">⭐ 83 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentscope-ai/ReMe" target="_blank">
+    
+
+
+      
+        agentscope-ai /
+
+      ReMe</a></p>
+				<p>
+      ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1144</span>
+						<span>🔱 110</span>
+					</div>
+				<div class="stars-today">⭐ 27 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LMCache/LMCache" target="_blank">
+    
+
+
+      
+        LMCache /
+
+      LMCache</a></p>
+				<p>
+      Supercharge Your LLM with the Fastest KV Cache Layer
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7285</span>
+						<span>🔱 954</span>
+					</div>
+				<div class="stars-today">⭐ 140 stars today</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3785</span>
-						<span>🔱 256</span>
+						<span>⭐ 3840</span>
+						<span>🔱 257</span>
 					</div>
-				<div class="stars-today">⭐ 585 stars today</div>
+				<div class="stars-today">⭐ 637 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/servo/servo" target="_blank">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
     
 
 
       
-        servo /
+        aquasecurity /
 
-      servo</a></p>
+      trivy</a></p>
 				<p>
-      Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 35841</span>
-						<span>🔱 3504</span>
+						<span>🔠 Go</span>
+						<span>⭐ 335</span>
+						<span>🔱 28</span>
 					</div>
-				<div class="stars-today">⭐ 45 stars today</div>
+				<div class="stars-today">⭐ 145 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4952</span>
+						<span>🔱 354</span>
+					</div>
+				<div class="stars-today">⭐ 1097 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第10周
-date: 2026-03-03T10:25:13Z
+date: 2026-03-03T12:26:32Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24008</span>
-						<span>🔱 2894</span>
+						<span>⭐ 24295</span>
+						<span>🔱 2952</span>
 					</div>
 				<div class="stars-today">⭐ 13054 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8733</span>
-						<span>🔱 1071</span>
+						<span>⭐ 8801</span>
+						<span>🔱 1080</span>
 					</div>
 				<div class="stars-today">⭐ 6228 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
-    
-
-
-      
-        muratcankoylan /
-
-      Agent-Skills-for-Context-Engineering</a></p>
-				<p>
-      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13139</span>
-						<span>🔱 1012</span>
-					</div>
-				<div class="stars-today">⭐ 4359 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,52 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23743</span>
-						<span>🔱 2817</span>
+						<span>⭐ 23782</span>
+						<span>🔱 2820</span>
 					</div>
 				<div class="stars-today">⭐ 3347 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
+				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
     
 
 
       
-        huggingface /
+        muratcankoylan /
 
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7973</span>
-						<span>🔱 473</span>
-					</div>
-				<div class="stars-today">⭐ 4478 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
+      Agent-Skills-for-Context-Engineering</a></p>
 				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 127452</span>
-						<span>🔱 32564</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13149</span>
+						<span>🔱 1013</span>
 					</div>
-				<div class="stars-today">⭐ 8362 stars this week</div>
+				<div class="stars-today">⭐ 4359 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,76 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22042</span>
+						<span>⭐ 22054</span>
 						<span>🔱 812</span>
 					</div>
 				<div class="stars-today">⭐ 2727 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruvector</a></p>
-				<p>
-      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2576</span>
-						<span>🔱 260</span>
-					</div>
-				<div class="stars-today">⭐ 1972 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4869</span>
-						<span>🔱 348</span>
-					</div>
-				<div class="stars-today">⭐ 2745 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 68710</span>
-						<span>🔱 5271</span>
-					</div>
-				<div class="stars-today">⭐ 9076 stars this week</div>
 				</div>
 			</div>
 	
@@ -248,10 +140,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21818</span>
-						<span>🔱 2042</span>
+						<span>⭐ 21888</span>
+						<span>🔱 2047</span>
 					</div>
 				<div class="stars-today">⭐ 3611 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4952</span>
+						<span>🔱 354</span>
+					</div>
+				<div class="stars-today">⭐ 2745 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7984</span>
+						<span>🔱 475</span>
+					</div>
+				<div class="stars-today">⭐ 4478 stars this week</div>
 				</div>
 			</div>
 	
@@ -270,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20664</span>
-						<span>🔱 4088</span>
+						<span>⭐ 20693</span>
+						<span>🔱 4097</span>
 					</div>
 				<div class="stars-today">⭐ 2877 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruvector</a></p>
+				<p>
+      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2587</span>
+						<span>🔱 260</span>
+					</div>
+				<div class="stars-today">⭐ 1972 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 6794</span>
+						<span>⭐ 6800</span>
 						<span>🔱 318</span>
 					</div>
 				<div class="stars-today">⭐ 2373 stars this week</div>
@@ -300,46 +256,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mihail911/modern-software-dev-assignments" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        mihail911 /
+        obra /
 
-      modern-software-dev-assignments</a></p>
+      superpowers</a></p>
 				<p>
-      Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2837</span>
-						<span>🔱 622</span>
-					</div>
-				<div class="stars-today">⭐ 744 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-code</a></p>
-				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 73027</span>
-						<span>🔱 5782</span>
+						<span>⭐ 68797</span>
+						<span>🔱 5275</span>
 					</div>
-				<div class="stars-today">⭐ 3470 stars this week</div>
+				<div class="stars-today">⭐ 9076 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xpzouying/xiaohongshu-mcp" target="_blank">
+    
+
+
+      
+        xpzouying /
+
+      xiaohongshu-mcp</a></p>
+				<p>
+      MCP for xiaohongshu.com
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 9886</span>
+						<span>🔱 1537</span>
+					</div>
+				<div class="stars-today">⭐ 734 stars this week</div>
 				</div>
 			</div>
 	

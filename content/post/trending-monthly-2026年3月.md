@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-03T10:25:13Z
+date: 2026-03-03T12:26:33Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 251687</span>
-						<span>🔱 48386</span>
+						<span>⭐ 252302</span>
+						<span>🔱 48456</span>
 					</div>
 				<div class="stars-today">⭐ 100507 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26542</span>
-						<span>🔱 2647</span>
+						<span>⭐ 26775</span>
+						<span>🔱 2677</span>
 					</div>
 				<div class="stars-today">⭐ 21987 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19224</span>
-						<span>🔱 1996</span>
+						<span>⭐ 19256</span>
+						<span>🔱 2002</span>
 					</div>
 				<div class="stars-today">⭐ 13545 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4291</span>
-						<span>🔱 259</span>
-					</div>
-				<div class="stars-today">⭐ 3934 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10520</span>
-						<span>🔱 589</span>
-					</div>
-				<div class="stars-today">⭐ 8148 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24008</span>
-						<span>🔱 2894</span>
+						<span>⭐ 24295</span>
+						<span>🔱 2952</span>
 					</div>
 				<div class="stars-today">⭐ 14683 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills</a></p>
+				<p>
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4304</span>
+						<span>🔱 261</span>
+					</div>
+				<div class="stars-today">⭐ 3934 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3711</span>
+						<span>🔱 269</span>
+					</div>
+				<div class="stars-today">⭐ 3391 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10532</span>
+						<span>🔱 589</span>
+					</div>
+				<div class="stars-today">⭐ 8148 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7973</span>
-						<span>🔱 473</span>
+						<span>⭐ 7984</span>
+						<span>🔱 475</span>
 					</div>
 				<div class="stars-today">⭐ 6741 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32460</span>
-						<span>🔱 2204</span>
-					</div>
-				<div class="stars-today">⭐ 15208 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 68710</span>
-						<span>🔱 5271</span>
+						<span>⭐ 68797</span>
+						<span>🔱 5275</span>
 					</div>
 				<div class="stars-today">⭐ 25785 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23782</span>
+						<span>🔱 2820</span>
+					</div>
+				<div class="stars-today">⭐ 3897 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5342</span>
+						<span>⭐ 5346</span>
 						<span>🔱 411</span>
 					</div>
 				<div class="stars-today">⭐ 4014 stars this month</div>
@@ -248,76 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11806</span>
-						<span>🔱 652</span>
+						<span>⭐ 11849</span>
+						<span>🔱 653</span>
 					</div>
 				<div class="stars-today">⭐ 5871 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        x1xhlol /
+        thedotmack /
 
-      system-prompts-and-models-of-ai-tools</a></p>
+      claude-mem</a></p>
 				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 127452</span>
-						<span>🔱 32564</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32504</span>
+						<span>🔱 2207</span>
 					</div>
-				<div class="stars-today">⭐ 14891 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23743</span>
-						<span>🔱 2817</span>
-					</div>
-				<div class="stars-today">⭐ 3897 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
-    
-
-
-      
-        gsd-build /
-
-      get-shit-done</a></p>
-				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 23632</span>
-						<span>🔱 2031</span>
-					</div>
-				<div class="stars-today">⭐ 12593 stars this month</div>
+				<div class="stars-today">⭐ 15208 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22042</span>
+						<span>⭐ 22054</span>
 						<span>🔱 812</span>
 					</div>
 				<div class="stars-today">⭐ 2975 stars this month</div>
@@ -344,24 +322,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/langextract" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        google /
+        x1xhlol /
 
-      langextract</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34239</span>
-						<span>🔱 2287</span>
+						<span>🔠 </span>
+						<span>⭐ 127489</span>
+						<span>🔱 32565</span>
 					</div>
-				<div class="stars-today">⭐ 10364 stars this month</div>
+				<div class="stars-today">⭐ 14891 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+    
+
+
+      
+        gsd-build /
+
+      get-shit-done</a></p>
+				<p>
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 23688</span>
+						<span>🔱 2035</span>
+					</div>
+				<div class="stars-today">⭐ 12593 stars this month</div>
 				</div>
 			</div>
 	
