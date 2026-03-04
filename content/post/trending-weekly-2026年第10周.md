@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第10周
-date: 2026-03-04T10:22:11Z
+date: 2026-03-04T12:24:44Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26283</span>
-						<span>🔱 3297</span>
+						<span>⭐ 26449</span>
+						<span>🔱 3324</span>
 					</div>
 				<div class="stars-today">⭐ 17166 stars this week</div>
 				</div>
@@ -52,98 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9444</span>
-						<span>🔱 1156</span>
+						<span>⭐ 9475</span>
+						<span>🔱 1162</span>
 					</div>
 				<div class="stars-today">⭐ 6522 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
-    
-
-
-      
-        D4Vinci /
-
-      Scrapling</a></p>
-				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21380</span>
-						<span>🔱 1489</span>
-					</div>
-				<div class="stars-today">⭐ 8175 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24306</span>
-						<span>🔱 2877</span>
-					</div>
-				<div class="stars-today">⭐ 3694 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
-    
-
-
-      
-        muratcankoylan /
-
-      Agent-Skills-for-Context-Engineering</a></p>
-				<p>
-      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13261</span>
-						<span>🔱 1021</span>
-					</div>
-				<div class="stars-today">⭐ 3826 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22164</span>
-						<span>🔱 820</span>
-					</div>
-				<div class="stars-today">⭐ 2873 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22941</span>
-						<span>🔱 2157</span>
+						<span>⭐ 23539</span>
+						<span>🔱 2208</span>
 					</div>
 				<div class="stars-today">⭐ 4365 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24330</span>
+						<span>🔱 2879</span>
+					</div>
+				<div class="stars-today">⭐ 3694 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,30 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5668</span>
-						<span>🔱 409</span>
+						<span>⭐ 5708</span>
+						<span>🔱 413</span>
 					</div>
 				<div class="stars-today">⭐ 3800 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
     
 
 
       
-        huggingface /
+        D4Vinci /
 
-      skills</a></p>
-				<p></p>
+      Scrapling</a></p>
+				<p>
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8089</span>
-						<span>🔱 479</span>
+						<span>⭐ 21457</span>
+						<span>🔱 1495</span>
 					</div>
-				<div class="stars-today">⭐ 3460 stars this week</div>
+				<div class="stars-today">⭐ 8175 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Development at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 22168</span>
+						<span>🔱 820</span>
+					</div>
+				<div class="stars-today">⭐ 2873 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
+    
+
+
+      
+        muratcankoylan /
+
+      Agent-Skills-for-Context-Engineering</a></p>
+				<p>
+      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13272</span>
+						<span>🔱 1021</span>
+					</div>
+				<div class="stars-today">⭐ 3826 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21120</span>
-						<span>🔱 4146</span>
+						<span>⭐ 21158</span>
+						<span>🔱 4151</span>
 					</div>
 				<div class="stars-today">⭐ 3122 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruvector" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruvector</a></p>
-				<p>
-      RuVector is a High Performance, Real-Time, Self-Learning, Vector Graph Neural Network, and Database built in Rust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2753</span>
-						<span>🔱 282</span>
-					</div>
-				<div class="stars-today">⭐ 2081 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
-    
-
-
-      
-        moonshine-ai /
-
-      moonshine</a></p>
-				<p>
-      Fast and accurate automatic speech recognition (ASR) for edge devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 6902</span>
-						<span>🔱 324</span>
-					</div>
-				<div class="stars-today">⭐ 2509 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,32 +228,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 70093</span>
-						<span>🔱 5387</span>
+						<span>⭐ 70192</span>
+						<span>🔱 5402</span>
 					</div>
 				<div class="stars-today">⭐ 9010 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/xpzouying/xiaohongshu-mcp" target="_blank">
+				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
     
 
 
       
-        xpzouying /
+        moonshine-ai /
 
-      xiaohongshu-mcp</a></p>
+      moonshine</a></p>
 				<p>
-      MCP for xiaohongshu.com
+      Fast and accurate automatic speech recognition (ASR) for edge devices
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10114</span>
-						<span>🔱 1560</span>
+						<span>🔠 C</span>
+						<span>⭐ 6910</span>
+						<span>🔱 325</span>
 					</div>
-				<div class="stars-today">⭐ 796 stars this week</div>
+				<div class="stars-today">⭐ 2509 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18648</span>
+						<span>🔱 2080</span>
+					</div>
+				<div class="stars-today">⭐ 4104 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8094</span>
+						<span>🔱 479</span>
+					</div>
+				<div class="stars-today">⭐ 3460 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-code</a></p>
+				<p>
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 73527</span>
+						<span>🔱 5845</span>
+					</div>
+				<div class="stars-today">⭐ 3633 stars this week</div>
 				</div>
 			</div>
 	

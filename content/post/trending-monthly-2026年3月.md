@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-04T10:22:10Z
+date: 2026-03-04T12:24:44Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 258111</span>
-						<span>🔱 49461</span>
-					</div>
-				<div class="stars-today">⭐ 99675 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
@@ -52,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28403</span>
-						<span>🔱 2918</span>
+						<span>⭐ 28627</span>
+						<span>🔱 2938</span>
 					</div>
 				<div class="stars-today">⭐ 22627 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19649</span>
-						<span>🔱 2045</span>
-					</div>
-				<div class="stars-today">⭐ 13431 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 26283</span>
-						<span>🔱 3297</span>
+						<span>⭐ 26449</span>
+						<span>🔱 3324</span>
 					</div>
 				<div class="stars-today">⭐ 18864 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      openclaw</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 258647</span>
+						<span>🔱 49568</span>
+					</div>
+				<div class="stars-today">⭐ 99675 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19688</span>
+						<span>🔱 2047</span>
+					</div>
+				<div class="stars-today">⭐ 13431 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4509</span>
-						<span>🔱 266</span>
+						<span>⭐ 4537</span>
+						<span>🔱 267</span>
 					</div>
 				<div class="stars-today">⭐ 4092 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3759</span>
-						<span>🔱 274</span>
+						<span>⭐ 3769</span>
+						<span>🔱 275</span>
 					</div>
 				<div class="stars-today">⭐ 3394 stars this month</div>
 				</div>
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10652</span>
+						<span>⭐ 10660</span>
 						<span>🔱 595</span>
 					</div>
 				<div class="stars-today">⭐ 7950 stars this month</div>
@@ -182,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8089</span>
+						<span>⭐ 8094</span>
 						<span>🔱 479</span>
 					</div>
 				<div class="stars-today">⭐ 6885 stars this month</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 70093</span>
-						<span>🔱 5387</span>
+						<span>⭐ 70192</span>
+						<span>🔱 5402</span>
 					</div>
 				<div class="stars-today">⭐ 26060 stars this month</div>
 				</div>
@@ -226,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24306</span>
-						<span>🔱 2877</span>
+						<span>⭐ 24330</span>
+						<span>🔱 2879</span>
 					</div>
 				<div class="stars-today">⭐ 4299 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/gogcli" target="_blank">
-    
-
-
-      
-        steipete /
-
-      gogcli</a></p>
-				<p>
-      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5451</span>
-						<span>🔱 423</span>
-					</div>
-				<div class="stars-today">⭐ 4044 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12326</span>
-						<span>🔱 678</span>
+						<span>⭐ 12350</span>
+						<span>🔱 680</span>
 					</div>
 				<div class="stars-today">⭐ 6019 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
     
 
 
       
-        thedotmack /
+        steipete /
 
-      claude-mem</a></p>
+      gogcli</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32821</span>
-						<span>🔱 2227</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5462</span>
+						<span>🔱 425</span>
 					</div>
-				<div class="stars-today">⭐ 13931 stars this month</div>
+				<div class="stars-today">⭐ 4044 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22164</span>
+						<span>⭐ 22168</span>
 						<span>🔱 820</span>
 					</div>
 				<div class="stars-today">⭐ 3129 stars this month</div>
@@ -322,24 +300,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/clawhub" target="_blank">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
     
 
 
       
-        openclaw /
+        alibaba /
 
-      clawhub</a></p>
+      OpenSandbox</a></p>
 				<p>
-      Skill Directory for OpenClaw
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3926</span>
-						<span>🔱 710</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5708</span>
+						<span>🔱 413</span>
 					</div>
-				<div class="stars-today">⭐ 2621 stars this month</div>
+				<div class="stars-today">⭐ 4240 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 127749</span>
-						<span>🔱 32614</span>
+						<span>⭐ 127763</span>
+						<span>🔱 32616</span>
 					</div>
 				<div class="stars-today">⭐ 15072 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/clawhub" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      clawhub</a></p>
+				<p>
+      Skill Directory for OpenClaw
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3944</span>
+						<span>🔱 710</span>
+					</div>
+				<div class="stars-today">⭐ 2621 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 24180</span>
-						<span>🔱 2075</span>
+						<span>⭐ 24217</span>
+						<span>🔱 2076</span>
 					</div>
 				<div class="stars-today">⭐ 12833 stars this month</div>
 				</div>
