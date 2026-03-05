@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-05
-date: 2026-03-05T00:56:01Z
+date: 2026-03-05T03:59:07Z
 categories:
 - daily
 keywords:
@@ -25,13 +25,13 @@ keywords:
 
       shannon</a></p>
 				<p>
-      Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30352</span>
-						<span>🔱 3070</span>
+						<span>⭐ 30680</span>
+						<span>🔱 3091</span>
 					</div>
 				<div class="stars-today">⭐ 1854 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 5458</span>
-						<span>🔱 914</span>
+						<span>⭐ 5671</span>
+						<span>🔱 941</span>
 					</div>
 				<div class="stars-today">⭐ 2209 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 854</span>
-						<span>🔱 53</span>
+						<span>⭐ 898</span>
+						<span>🔱 57</span>
 					</div>
 				<div class="stars-today">⭐ 380 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12721</span>
-						<span>🔱 1374</span>
+						<span>⭐ 12839</span>
+						<span>🔱 1386</span>
 					</div>
 				<div class="stars-today">⭐ 940 stars today</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3568</span>
-						<span>🔱 438</span>
+						<span>⭐ 3605</span>
+						<span>🔱 440</span>
 					</div>
 				<div class="stars-today">⭐ 337 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentscope-ai/ReMe" target="_blank">
-    
-
-
-      
-        agentscope-ai /
-
-      ReMe</a></p>
-				<p>
-      ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1622</span>
-						<span>🔱 134</span>
-					</div>
-				<div class="stars-today">⭐ 345 stars today</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5974</span>
-						<span>🔱 430</span>
+						<span>⭐ 6071</span>
+						<span>🔱 435</span>
 					</div>
 				<div class="stars-today">⭐ 788 stars today</div>
 				</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14195</span>
-						<span>🔱 1433</span>
+						<span>⭐ 14289</span>
+						<span>🔱 1438</span>
 					</div>
 				<div class="stars-today">⭐ 143 stars today</div>
 				</div>
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30853</span>
-						<span>🔱 3261</span>
+						<span>⭐ 30949</span>
+						<span>🔱 3271</span>
 					</div>
 				<div class="stars-today">⭐ 1090 stars today</div>
 				</div>
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17379</span>
-						<span>🔱 1549</span>
+						<span>⭐ 17454</span>
+						<span>🔱 1551</span>
 					</div>
 				<div class="stars-today">⭐ 427 stars today</div>
 				</div>
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24718</span>
-						<span>🔱 2307</span>
+						<span>⭐ 25257</span>
+						<span>🔱 2362</span>
 					</div>
 				<div class="stars-today">⭐ 1454 stars today</div>
 				</div>
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 20731</span>
-						<span>🔱 2451</span>
+						<span>⭐ 20786</span>
+						<span>🔱 2457</span>
 					</div>
 				<div class="stars-today">⭐ 89 stars today</div>
 				</div>
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50078</span>
-						<span>🔱 23847</span>
+						<span>⭐ 50165</span>
+						<span>🔱 23852</span>
 					</div>
 				<div class="stars-today">⭐ 145 stars today</div>
 				</div>
