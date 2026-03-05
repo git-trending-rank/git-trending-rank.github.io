@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第10周
-date: 2026-03-05T10:25:16Z
+date: 2026-03-05T12:28:16Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27731</span>
-						<span>🔱 3534</span>
+						<span>⭐ 27831</span>
+						<span>🔱 3548</span>
 					</div>
 				<div class="stars-today">⭐ 19457 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9757</span>
-						<span>🔱 1186</span>
-					</div>
-				<div class="stars-today">⭐ 6262 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26118</span>
-						<span>🔱 2441</span>
+						<span>⭐ 26363</span>
+						<span>🔱 2464</span>
 					</div>
 				<div class="stars-today">⭐ 6228 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24586</span>
-						<span>🔱 2906</span>
-					</div>
-				<div class="stars-today">⭐ 4136 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6254</span>
-						<span>🔱 445</span>
+						<span>⭐ 6289</span>
+						<span>🔱 449</span>
 					</div>
 				<div class="stars-today">⭐ 4592 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
     
 
 
       
-        clockworklabs /
+        abhigyanpatwari /
 
-      SpacetimeDB</a></p>
+      GitNexus</a></p>
 				<p>
-      Development at the speed of light
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22267</span>
-						<span>🔱 825</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9801</span>
+						<span>🔱 1190</span>
 					</div>
-				<div class="stars-today">⭐ 2069 stars this week</div>
+				<div class="stars-today">⭐ 6262 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        muratcankoylan /
+        bytedance /
 
-      Agent-Skills-for-Context-Engineering</a></p>
+      deer-flow</a></p>
 				<p>
-      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13377</span>
-						<span>🔱 1026</span>
+						<span>⭐ 24602</span>
+						<span>🔱 2906</span>
 					</div>
-				<div class="stars-today">⭐ 2888 stars this week</div>
+				<div class="stars-today">⭐ 4136 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21517</span>
-						<span>🔱 4183</span>
+						<span>⭐ 21565</span>
+						<span>🔱 4186</span>
 					</div>
 				<div class="stars-today">⭐ 3402 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 71231</span>
-						<span>🔱 5487</span>
-					</div>
-				<div class="stars-today">⭐ 9215 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
-    
-
-
-      
-        moonshine-ai /
-
-      moonshine</a></p>
-				<p>
-      Fast and accurate automatic speech recognition (ASR) for edge devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 7001</span>
-						<span>🔱 327</span>
-					</div>
-				<div class="stars-today">⭐ 2162 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,52 +162,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18961</span>
-						<span>🔱 2108</span>
+						<span>⭐ 18986</span>
+						<span>🔱 2112</span>
 					</div>
 				<div class="stars-today">⭐ 4245 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
+				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
     
 
 
       
-        huggingface /
+        moonshine-ai /
 
-      skills</a></p>
-				<p></p>
+      moonshine</a></p>
+				<p>
+      Fast and accurate automatic speech recognition (ASR) for edge devices
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8219</span>
-						<span>🔱 485</span>
+						<span>🔠 C</span>
+						<span>⭐ 7012</span>
+						<span>🔱 327</span>
 					</div>
-				<div class="stars-today">⭐ 2020 stars this week</div>
+				<div class="stars-today">⭐ 2162 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
+    
+
+
+      
+        muratcankoylan /
+
+      Agent-Skills-for-Context-Engineering</a></p>
+				<p>
+      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13390</span>
+						<span>🔱 1026</span>
+					</div>
+				<div class="stars-today">⭐ 2888 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superset-sh/superset" target="_blank">
+    
+
+
+      
+        superset-sh /
+
+      superset</a></p>
+				<p>
+      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4912</span>
+						<span>🔱 304</span>
+					</div>
+				<div class="stars-today">⭐ 2805 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/prompt-eng-interactive-tutorial" target="_blank">
     
 
 
       
         anthropics /
 
-      claude-code</a></p>
+      prompt-eng-interactive-tutorial</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      Anthropic's Interactive Prompt Engineering Tutorial
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 32485</span>
+						<span>🔱 3312</span>
+					</div>
+				<div class="stars-today">⭐ 1952 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 74035</span>
-						<span>🔱 5897</span>
+						<span>⭐ 71328</span>
+						<span>🔱 5495</span>
 					</div>
-				<div class="stars-today">⭐ 3652 stars this week</div>
+				<div class="stars-today">⭐ 9215 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/xpzouying/xiaohongshu-mcp" target="_blank">
+    
+
+
+      
+        xpzouying /
+
+      xiaohongshu-mcp</a></p>
+				<p>
+      MCP for xiaohongshu.com
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 10303</span>
+						<span>🔱 1580</span>
+					</div>
+				<div class="stars-today">⭐ 982 stars this week</div>
 				</div>
 			</div>
 	

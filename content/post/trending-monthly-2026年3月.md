@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-05T10:25:16Z
+date: 2026-03-05T12:28:15Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31320</span>
-						<span>🔱 3134</span>
+						<span>⭐ 31427</span>
+						<span>🔱 3138</span>
 					</div>
 				<div class="stars-today">⭐ 24416 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 27731</span>
-						<span>🔱 3534</span>
+						<span>⭐ 27831</span>
+						<span>🔱 3548</span>
 					</div>
 				<div class="stars-today">⭐ 20986 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills</a></p>
+				<p>
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4914</span>
+						<span>🔱 309</span>
+					</div>
+				<div class="stars-today">⭐ 4296 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 263457</span>
-						<span>🔱 50411</span>
+						<span>⭐ 263937</span>
+						<span>🔱 50494</span>
 					</div>
 				<div class="stars-today">⭐ 100283 stars this month</div>
 				</div>
@@ -96,76 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20057</span>
-						<span>🔱 2081</span>
+						<span>⭐ 20104</span>
+						<span>🔱 2084</span>
 					</div>
 				<div class="stars-today">⭐ 13314 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4884</span>
-						<span>🔱 307</span>
-					</div>
-				<div class="stars-today">⭐ 4296 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3807</span>
-						<span>🔱 277</span>
-					</div>
-				<div class="stars-today">⭐ 3441 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10815</span>
-						<span>🔱 604</span>
-					</div>
-				<div class="stars-today">⭐ 7347 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,32 +138,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8219</span>
-						<span>🔱 485</span>
+						<span>⭐ 8231</span>
+						<span>🔱 487</span>
 					</div>
 				<div class="stars-today">⭐ 6989 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
     
 
 
       
-        obra /
+        p-e-w /
 
-      superpowers</a></p>
+      heretic</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Fully automatic censorship removal for language models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 71231</span>
-						<span>🔱 5487</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10215</span>
+						<span>🔱 1024</span>
 					</div>
-				<div class="stars-today">⭐ 26478 stars this month</div>
+				<div class="stars-today">⭐ 5840 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4680</span>
+						<span>🔱 358</span>
+					</div>
+				<div class="stars-today">⭐ 3751 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24586</span>
+						<span>⭐ 24602</span>
 						<span>🔱 2906</span>
 					</div>
 				<div class="stars-today">⭐ 4839 stars this month</div>
@@ -234,68 +212,68 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
+				<p><a href="https://github.com/openai/skills" target="_blank">
     
 
 
       
-        tobi /
+        openai /
 
-      qmd</a></p>
+      skills</a></p>
 				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10833</span>
+						<span>🔱 606</span>
+					</div>
+				<div class="stars-today">⭐ 7347 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 71328</span>
+						<span>🔱 5495</span>
+					</div>
+				<div class="stars-today">⭐ 26478 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12622</span>
-						<span>🔱 696</span>
+						<span>⭐ 26363</span>
+						<span>🔱 2464</span>
 					</div>
-				<div class="stars-today">⭐ 6253 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/gogcli" target="_blank">
-    
-
-
-      
-        steipete /
-
-      gogcli</a></p>
-				<p>
-      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5598</span>
-						<span>🔱 433</span>
-					</div>
-				<div class="stars-today">⭐ 4124 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22267</span>
-						<span>🔱 825</span>
-					</div>
-				<div class="stars-today">⭐ 3245 stars this month</div>
+				<div class="stars-today">⭐ 7102 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,76 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6254</span>
-						<span>🔱 445</span>
+						<span>⭐ 6289</span>
+						<span>🔱 449</span>
 					</div>
 				<div class="stars-today">⭐ 4741 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
     
 
 
       
-        x1xhlol /
+        steipete /
 
-      system-prompts-and-models-of-ai-tools</a></p>
+      gogcli</a></p>
 				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 128023</span>
-						<span>🔱 32676</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5610</span>
+						<span>🔱 433</span>
 					</div>
-				<div class="stars-today">⭐ 15134 stars this month</div>
+				<div class="stars-today">⭐ 4124 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/clawhub" target="_blank">
+				<p><a href="https://github.com/tobi/qmd" target="_blank">
     
 
 
       
-        openclaw /
+        tobi /
 
-      clawhub</a></p>
+      qmd</a></p>
 				<p>
-      Skill Directory for OpenClaw
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4197</span>
-						<span>🔱 724</span>
+						<span>⭐ 12650</span>
+						<span>🔱 700</span>
 					</div>
-				<div class="stars-today">⭐ 2758 stars this month</div>
+				<div class="stars-today">⭐ 6253 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
 
       
-        gsd-build /
+        clockworklabs /
 
-      get-shit-done</a></p>
+      SpacetimeDB</a></p>
 				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+      Development at the speed of light
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 24659</span>
-						<span>🔱 2110</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 22275</span>
+						<span>🔱 825</span>
 					</div>
-				<div class="stars-today">⭐ 13089 stars this month</div>
+				<div class="stars-today">⭐ 3245 stars this month</div>
 				</div>
 			</div>
 	

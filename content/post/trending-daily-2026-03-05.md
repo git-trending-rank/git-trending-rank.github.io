@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-05
-date: 2026-03-05T10:25:16Z
+date: 2026-03-05T12:28:15Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
-    
-
-
-      
-        KeygraphHQ /
-
-      shannon</a></p>
-				<p>
-      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31320</span>
-						<span>🔱 3134</span>
-					</div>
-				<div class="stars-today">⭐ 1854 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
@@ -52,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 6016</span>
-						<span>🔱 980</span>
+						<span>⭐ 6129</span>
+						<span>🔱 997</span>
 					</div>
-				<div class="stars-today">⭐ 2209 stars today</div>
+				<div class="stars-today">⭐ 1469 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
+    
+
+
+      
+        TheCraigHewitt /
+
+      seomachine</a></p>
+				<p>
+      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1289</span>
+						<span>🔱 285</span>
+					</div>
+				<div class="stars-today">⭐ 379 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon</a></p>
+				<p>
+      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31427</span>
+						<span>🔱 3138</span>
+					</div>
+				<div class="stars-today">⭐ 2926 stars today</div>
 				</div>
 			</div>
 	
@@ -74,142 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 31804</span>
-						<span>🔱 60</span>
+						<span>⭐ 32783</span>
+						<span>🔱 61</span>
 					</div>
-				<div class="stars-today">⭐ 380 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/K-Dense-AI/claude-scientific-skills" target="_blank">
-    
-
-
-      
-        K-Dense-AI /
-
-      claude-scientific-skills</a></p>
-				<p>
-      A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13078</span>
-						<span>🔱 1401</span>
-					</div>
-				<div class="stars-today">⭐ 940 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
-    
-
-
-      
-        CodebuffAI /
-
-      codebuff</a></p>
-				<p>
-      Generate code from the terminal!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3696</span>
-						<span>🔱 444</span>
-					</div>
-				<div class="stars-today">⭐ 337 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6254</span>
-						<span>🔱 445</span>
-					</div>
-				<div class="stars-today">⭐ 788 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
-    
-
-
-      
-        FujiwaraChoki /
-
-      MoneyPrinterV2</a></p>
-				<p>
-      Automate the process of making money online.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14444</span>
-						<span>🔱 1454</span>
-					</div>
-				<div class="stars-today">⭐ 143 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ItzCrazyKns/Perplexica" target="_blank">
-    
-
-
-      
-        ItzCrazyKns /
-
-      Perplexica</a></p>
-				<p>
-      Perplexica is an AI-powered answering engine.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 31121</span>
-						<span>🔱 3294</span>
-					</div>
-				<div class="stars-today">⭐ 1090 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentscope-ai/agentscope" target="_blank">
-    
-
-
-      
-        agentscope-ai /
-
-      agentscope</a></p>
-				<p>
-      Build and run agents you can see, understand and trust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17552</span>
-						<span>🔱 1556</span>
-					</div>
-				<div class="stars-today">⭐ 427 stars today</div>
+				<div class="stars-today">⭐ 297 stars today</div>
 				</div>
 			</div>
 	
@@ -228,54 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26118</span>
-						<span>🔱 2441</span>
+						<span>⭐ 26363</span>
+						<span>🔱 2464</span>
 					</div>
-				<div class="stars-today">⭐ 1454 stars today</div>
+				<div class="stars-today">⭐ 3003 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/nautechsystems/nautilus_trader" target="_blank">
+				<p><a href="https://github.com/inclusionAI/AReaL" target="_blank">
     
 
 
       
-        nautechsystems /
+        inclusionAI /
 
-      nautilus_trader</a></p>
+      AReaL</a></p>
 				<p>
-      A high-performance algorithmic trading platform and event-driven backtester
+      Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 20905</span>
-						<span>🔱 2464</span>
+						<span>🔠 Python</span>
+						<span>⭐ 3942</span>
+						<span>🔱 335</span>
 					</div>
-				<div class="stars-today">⭐ 89 stars today</div>
+				<div class="stars-today">⭐ 161 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FlowiseAI/Flowise" target="_blank">
+				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
     
 
 
       
-        FlowiseAI /
+        microsoft /
 
-      Flowise</a></p>
+      mcp-for-beginners</a></p>
 				<p>
-      Build AI Agents, Visually
+      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 14701</span>
+						<span>🔱 4834</span>
+					</div>
+				<div class="stars-today">⭐ 122 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
+    
+
+
+      
+        CodebuffAI /
+
+      codebuff</a></p>
+				<p>
+      Generate code from the terminal!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50354</span>
-						<span>🔱 23867</span>
+						<span>⭐ 3726</span>
+						<span>🔱 447</span>
 					</div>
-				<div class="stars-today">⭐ 145 stars today</div>
+				<div class="stars-today">⭐ 275 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
+    
+
+
+      
+        FujiwaraChoki /
+
+      MoneyPrinterV2</a></p>
+				<p>
+      Automate the process of making money online.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14482</span>
+						<span>🔱 1455</span>
+					</div>
+				<div class="stars-today">⭐ 511 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/hve-core" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      hve-core</a></p>
+				<p>
+      A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 173</span>
+						<span>🔱 65</span>
+					</div>
+				<div class="stars-today">⭐ 6 stars today</div>
 				</div>
 			</div>
 	
