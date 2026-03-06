@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-06
-date: 2026-03-06T08:21:02Z
+date: 2026-03-06T10:20:33Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 8525</span>
-						<span>🔱 1306</span>
+						<span>⭐ 8789</span>
+						<span>🔱 1344</span>
 					</div>
 				<div class="stars-today">⭐ 1468 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1841</span>
-						<span>🔱 335</span>
+						<span>⭐ 1909</span>
+						<span>🔱 340</span>
 					</div>
 				<div class="stars-today">⭐ 310 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32036</span>
-						<span>🔱 3189</span>
+						<span>⭐ 32108</span>
+						<span>🔱 3193</span>
 					</div>
 				<div class="stars-today">⭐ 2930 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 32946</span>
-						<span>🔱 71</span>
+						<span>⭐ 32966</span>
+						<span>🔱 70</span>
 					</div>
 				<div class="stars-today">⭐ 298 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28433</span>
-						<span>🔱 2679</span>
+						<span>⭐ 28641</span>
+						<span>🔱 2707</span>
 					</div>
 				<div class="stars-today">⭐ 3006 stars today</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4211</span>
-						<span>🔱 345</span>
+						<span>⭐ 4244</span>
+						<span>🔱 347</span>
 					</div>
 				<div class="stars-today">⭐ 173 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/mcp-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      mcp-for-beginners</a></p>
-				<p>
-      This open-source curriculum introduces the fundamentals of Model Context Protocol (MCP) through real-world, cross-language examples in .NET, Java, TypeScript, JavaScript, Rust and Python. Designed for developers, it focuses on practical techniques for building modular, scalable, and secure AI workflows from session setup to service orchestration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15065</span>
-						<span>🔱 4877</span>
-					</div>
-				<div class="stars-today">⭐ 137 stars today</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3948</span>
+						<span>⭐ 3980</span>
 						<span>🔱 461</span>
 					</div>
 				<div class="stars-today">⭐ 275 stars today</div>
@@ -206,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14822</span>
-						<span>🔱 1483</span>
+						<span>⭐ 14865</span>
+						<span>🔱 1491</span>
 					</div>
 				<div class="stars-today">⭐ 511 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentscope-ai/ReMe" target="_blank">
-    
-
-
-      
-        agentscope-ai /
-
-      ReMe</a></p>
-				<p>
-      ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1922</span>
-						<span>🔱 149</span>
-					</div>
-				<div class="stars-today">⭐ 194 stars today</div>
 				</div>
 			</div>
 	
@@ -250,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 389</span>
-						<span>🔱 82</span>
+						<span>⭐ 418</span>
+						<span>🔱 85</span>
 					</div>
 				<div class="stars-today">⭐ 11 stars today</div>
 				</div>
