@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第10周
-date: 2026-03-06T10:20:34Z
+date: 2026-03-06T12:23:38Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28563</span>
-						<span>🔱 3675</span>
+						<span>⭐ 28634</span>
+						<span>🔱 3688</span>
 					</div>
 				<div class="stars-today">⭐ 20761 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28641</span>
-						<span>🔱 2707</span>
+						<span>⭐ 28847</span>
+						<span>🔱 2729</span>
 					</div>
 				<div class="stars-today">⭐ 8822 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6471</span>
-						<span>🔱 467</span>
+						<span>⭐ 6481</span>
+						<span>🔱 468</span>
 					</div>
 				<div class="stars-today">⭐ 5082 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10325</span>
-						<span>🔱 1265</span>
-					</div>
-				<div class="stars-today">⭐ 5308 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,120 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24936</span>
-						<span>🔱 2955</span>
+						<span>⭐ 24969</span>
+						<span>🔱 2959</span>
 					</div>
 				<div class="stars-today">⭐ 3812 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
     
 
 
       
-        D4Vinci /
+        abhigyanpatwari /
 
-      Scrapling</a></p>
+      GitNexus</a></p>
 				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24522</span>
-						<span>🔱 1760</span>
-					</div>
-				<div class="stars-today">⭐ 7006 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22053</span>
-						<span>🔱 4236</span>
+						<span>⭐ 10333</span>
+						<span>🔱 1268</span>
 					</div>
-				<div class="stars-today">⭐ 3049 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19339</span>
-						<span>🔱 2155</span>
-					</div>
-				<div class="stars-today">⭐ 4330 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moonshine-ai/moonshine" target="_blank">
-    
-
-
-      
-        moonshine-ai /
-
-      moonshine</a></p>
-				<p>
-      Fast and accurate automatic speech recognition (ASR) for edge devices
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 7080</span>
-						<span>🔱 329</span>
-					</div>
-				<div class="stars-today">⭐ 2018 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering" target="_blank">
-    
-
-
-      
-        muratcankoylan /
-
-      Agent-Skills-for-Context-Engineering</a></p>
-				<p>
-      A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13480</span>
-						<span>🔱 1034</span>
-					</div>
-				<div class="stars-today">⭐ 2054 stars this week</div>
+				<div class="stars-today">⭐ 5308 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5155</span>
-						<span>🔱 316</span>
+						<span>⭐ 5173</span>
+						<span>🔱 317</span>
 					</div>
 				<div class="stars-today">⭐ 2930 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24590</span>
+						<span>🔱 1768</span>
+					</div>
+				<div class="stars-today">⭐ 7006 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19363</span>
+						<span>🔱 2156</span>
+					</div>
+				<div class="stars-today">⭐ 4330 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22076</span>
+						<span>🔱 4240</span>
+					</div>
+				<div class="stars-today">⭐ 3049 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1767</span>
+						<span>🔱 284</span>
+					</div>
+				<div class="stars-today">⭐ 974 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32659</span>
+						<span>⭐ 32672</span>
 						<span>🔱 3330</span>
 					</div>
 				<div class="stars-today">⭐ 2077 stars this week</div>
@@ -280,24 +258,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
     
 
 
       
-        obra /
+        CodebuffAI /
 
-      superpowers</a></p>
+      codebuff</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      Generate code from the terminal!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 72314</span>
-						<span>🔱 5565</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3993</span>
+						<span>🔱 462</span>
 					</div>
-				<div class="stars-today">⭐ 8787 stars this week</div>
+				<div class="stars-today">⭐ 864 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10506</span>
-						<span>🔱 1608</span>
+						<span>⭐ 10523</span>
+						<span>🔱 1609</span>
 					</div>
 				<div class="stars-today">⭐ 1018 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentscope-ai/agentscope" target="_blank">
+    
+
+
+      
+        agentscope-ai /
+
+      agentscope</a></p>
+				<p>
+      Build and run agents you can see, understand and trust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17646</span>
+						<span>🔱 1568</span>
+					</div>
+				<div class="stars-today">⭐ 1088 stars this week</div>
 				</div>
 			</div>
 	

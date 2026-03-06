@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-06
-date: 2026-03-06T10:20:33Z
+date: 2026-03-06T12:23:38Z
 categories:
 - daily
 keywords:
@@ -14,94 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 8789</span>
-						<span>🔱 1344</span>
-					</div>
-				<div class="stars-today">⭐ 1468 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
-    
-
-
-      
-        TheCraigHewitt /
-
-      seomachine</a></p>
-				<p>
-      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1909</span>
-						<span>🔱 340</span>
-					</div>
-				<div class="stars-today">⭐ 310 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
-    
-
-
-      
-        KeygraphHQ /
-
-      shannon</a></p>
-				<p>
-      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32108</span>
-						<span>🔱 3193</span>
-					</div>
-				<div class="stars-today">⭐ 2930 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
-    
-
-
-      
-        aquasecurity /
-
-      trivy</a></p>
-				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 32966</span>
-						<span>🔱 70</span>
-					</div>
-				<div class="stars-today">⭐ 298 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
@@ -118,76 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28641</span>
-						<span>🔱 2707</span>
+						<span>⭐ 28847</span>
+						<span>🔱 2729</span>
 					</div>
-				<div class="stars-today">⭐ 3006 stars today</div>
+				<div class="stars-today">⭐ 2544 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/inclusionAI/AReaL" target="_blank">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
     
 
 
       
-        inclusionAI /
+        QwenLM /
 
-      AReaL</a></p>
+      Qwen-Agent</a></p>
 				<p>
-      Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4244</span>
-						<span>🔱 347</span>
+						<span>⭐ 14297</span>
+						<span>🔱 1359</span>
 					</div>
-				<div class="stars-today">⭐ 173 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CodebuffAI/codebuff" target="_blank">
-    
-
-
-      
-        CodebuffAI /
-
-      codebuff</a></p>
-				<p>
-      Generate code from the terminal!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3980</span>
-						<span>🔱 461</span>
-					</div>
-				<div class="stars-today">⭐ 275 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
-    
-
-
-      
-        FujiwaraChoki /
-
-      MoneyPrinterV2</a></p>
-				<p>
-      Automate the process of making money online.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14865</span>
-						<span>🔱 1491</span>
-					</div>
-				<div class="stars-today">⭐ 511 stars today</div>
+				<div class="stars-today">⭐ 684 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +74,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 418</span>
-						<span>🔱 85</span>
+						<span>⭐ 443</span>
+						<span>🔱 86</span>
 					</div>
-				<div class="stars-today">⭐ 11 stars today</div>
+				<div class="stars-today">⭐ 275 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Ed1s0nZ/CyberStrikeAI" target="_blank">
+    
+
+
+      
+        Ed1s0nZ /
+
+      CyberStrikeAI</a></p>
+				<p>
+      CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1400</span>
+						<span>🔱 296</span>
+					</div>
+				<div class="stars-today">⭐ 138 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/inclusionAI/AReaL" target="_blank">
+    
+
+
+      
+        inclusionAI /
+
+      AReaL</a></p>
+				<p>
+      Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4273</span>
+						<span>🔱 348</span>
+					</div>
+				<div class="stars-today">⭐ 348 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lingfengQAQ/webnovel-writer" target="_blank">
+    
+
+
+      
+        lingfengQAQ /
+
+      webnovel-writer</a></p>
+				<p>
+      基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 654</span>
+						<span>🔱 176</span>
+					</div>
+				<div class="stars-today">⭐ 84 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11456</span>
+						<span>🔱 633</span>
+					</div>
+				<div class="stars-today">⭐ 582 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
+    
+
+
+      
+        TheCraigHewitt /
+
+      seomachine</a></p>
+				<p>
+      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1951</span>
+						<span>🔱 342</span>
+					</div>
+				<div class="stars-today">⭐ 675 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46213</span>
+						<span>🔱 8073</span>
+					</div>
+				<div class="stars-today">⭐ 82 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aidenybai/react-grab" target="_blank">
+    
+
+
+      
+        aidenybai /
+
+      react-grab</a></p>
+				<p>
+      Select context for coding agents directly from your website
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5758</span>
+						<span>🔱 263</span>
+					</div>
+				<div class="stars-today">⭐ 442 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 8997</span>
+						<span>🔱 1366</span>
+					</div>
+				<div class="stars-today">⭐ 2857 stars today</div>
 				</div>
 			</div>
 	

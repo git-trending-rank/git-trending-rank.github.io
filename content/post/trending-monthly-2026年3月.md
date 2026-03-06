@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-06T10:20:34Z
+date: 2026-03-06T12:23:38Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32108</span>
-						<span>🔱 3193</span>
+						<span>⭐ 32138</span>
+						<span>🔱 3195</span>
 					</div>
 				<div class="stars-today">⭐ 27330 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 28563</span>
-						<span>🔱 3675</span>
+						<span>⭐ 28634</span>
+						<span>🔱 3688</span>
 					</div>
 				<div class="stars-today">⭐ 22443 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5141</span>
-						<span>🔱 329</span>
+						<span>⭐ 5156</span>
+						<span>🔱 330</span>
 					</div>
 				<div class="stars-today">⭐ 4664 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 268709</span>
-						<span>🔱 51337</span>
+						<span>⭐ 269200</span>
+						<span>🔱 51428</span>
 					</div>
 				<div class="stars-today">⭐ 100739 stars this month</div>
 				</div>
@@ -118,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20543</span>
-						<span>🔱 2140</span>
+						<span>⭐ 20584</span>
+						<span>🔱 2146</span>
 					</div>
 				<div class="stars-today">⭐ 13318 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3829</span>
+						<span>🔱 277</span>
+					</div>
+				<div class="stars-today">⭐ 3481 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 28847</span>
+						<span>🔱 2729</span>
+					</div>
+				<div class="stars-today">⭐ 9213 stars this month</div>
 				</div>
 			</div>
 	
@@ -138,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8308</span>
+						<span>⭐ 8311</span>
 						<span>🔱 490</span>
 					</div>
 				<div class="stars-today">⭐ 7112 stars this month</div>
@@ -160,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10469</span>
-						<span>🔱 1065</span>
+						<span>⭐ 10485</span>
+						<span>🔱 1066</span>
 					</div>
 				<div class="stars-today">⭐ 5869 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4808</span>
-						<span>🔱 368</span>
-					</div>
-				<div class="stars-today">⭐ 3762 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24936</span>
-						<span>🔱 2955</span>
+						<span>⭐ 24969</span>
+						<span>🔱 2959</span>
 					</div>
 				<div class="stars-today">⭐ 5103 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
     
 
 
       
-        openai /
+        volcengine /
 
-      skills</a></p>
+      OpenViking</a></p>
 				<p>
-      Skills Catalog for Codex
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11387</span>
-						<span>🔱 628</span>
+						<span>⭐ 4818</span>
+						<span>🔱 368</span>
 					</div>
-				<div class="stars-today">⭐ 6886 stars this month</div>
+				<div class="stars-today">⭐ 3762 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 72314</span>
-						<span>🔱 5565</span>
+						<span>⭐ 72383</span>
+						<span>🔱 5569</span>
 					</div>
 				<div class="stars-today">⭐ 26774 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28641</span>
-						<span>🔱 2707</span>
-					</div>
-				<div class="stars-today">⭐ 9213 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6471</span>
-						<span>🔱 467</span>
+						<span>⭐ 6481</span>
+						<span>🔱 468</span>
 					</div>
 				<div class="stars-today">⭐ 5322 stars this month</div>
 				</div>
@@ -314,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 5725</span>
-						<span>🔱 438</span>
+						<span>⭐ 5732</span>
+						<span>🔱 439</span>
 					</div>
 				<div class="stars-today">⭐ 4243 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
-    
-
-
-      
-        tobi /
-
-      qmd</a></p>
-				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12901</span>
-						<span>🔱 721</span>
-					</div>
-				<div class="stars-today">⭐ 6258 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 22347</span>
+						<span>⭐ 22354</span>
 						<span>🔱 827</span>
 					</div>
 				<div class="stars-today">⭐ 3346 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/skills" target="_blank">
+    
+
+
+      
+        openai /
+
+      skills</a></p>
+				<p>
+      Skills Catalog for Codex
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11456</span>
+						<span>🔱 633</span>
+					</div>
+				<div class="stars-today">⭐ 6886 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tobi/qmd" target="_blank">
+    
+
+
+      
+        tobi /
+
+      qmd</a></p>
+				<p>
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12924</span>
+						<span>🔱 723</span>
+					</div>
+				<div class="stars-today">⭐ 6258 stars this month</div>
 				</div>
 			</div>
 	
