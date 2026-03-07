@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-07
-date: 2026-03-07T10:00:33Z
+date: 2026-03-07T11:58:51Z
 categories:
 - daily
 keywords:
@@ -16,134 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        moeru-ai /
+        666ghj /
 
-      airi</a></p>
+      MiroFish</a></p>
 				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30016</span>
-						<span>🔱 2887</span>
-					</div>
-				<div class="stars-today">⭐ 2562 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14826</span>
-						<span>🔱 1412</span>
+						<span>⭐ 5185</span>
+						<span>🔱 594</span>
 					</div>
-				<div class="stars-today">⭐ 696 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/hve-core" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      hve-core</a></p>
-				<p>
-      A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 631</span>
-						<span>🔱 92</span>
-					</div>
-				<div class="stars-today">⭐ 273 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Ed1s0nZ/CyberStrikeAI" target="_blank">
-    
-
-
-      
-        Ed1s0nZ /
-
-      CyberStrikeAI</a></p>
-				<p>
-      CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1779</span>
-						<span>🔱 323</span>
-					</div>
-				<div class="stars-today">⭐ 106 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/inclusionAI/AReaL" target="_blank">
-    
-
-
-      
-        inclusionAI /
-
-      AReaL</a></p>
-				<p>
-      Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4479</span>
-						<span>🔱 371</span>
-					</div>
-				<div class="stars-today">⭐ 347 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lingfengQAQ/webnovel-writer" target="_blank">
-    
-
-
-      
-        lingfengQAQ /
-
-      webnovel-writer</a></p>
-				<p>
-      基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 909</span>
-						<span>🔱 206</span>
-					</div>
-				<div class="stars-today">⭐ 90 stars today</div>
+				<div class="stars-today">⭐ 345 stars today</div>
 				</div>
 			</div>
 	
@@ -162,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12309</span>
-						<span>🔱 684</span>
+						<span>⭐ 12378</span>
+						<span>🔱 685</span>
 					</div>
-				<div class="stars-today">⭐ 595 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
-    
-
-
-      
-        TheCraigHewitt /
-
-      seomachine</a></p>
-				<p>
-      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2283</span>
-						<span>🔱 379</span>
-					</div>
-				<div class="stars-today">⭐ 690 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46425</span>
-						<span>🔱 8104</span>
-					</div>
-				<div class="stars-today">⭐ 81 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/aidenybai/react-grab" target="_blank">
-    
-
-
-      
-        aidenybai /
-
-      react-grab</a></p>
-				<p>
-      Select context for coding agents directly from your website
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6135</span>
-						<span>🔱 281</span>
-					</div>
-				<div class="stars-today">⭐ 450 stars today</div>
+				<div class="stars-today">⭐ 947 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +74,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 10290</span>
-						<span>🔱 1536</span>
+						<span>⭐ 10374</span>
+						<span>🔱 1543</span>
 					</div>
-				<div class="stars-today">⭐ 2846 stars today</div>
+				<div class="stars-today">⭐ 1468 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      generative-ai</a></p>
+				<p>
+      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13221</span>
+						<span>🔱 3802</span>
+					</div>
+				<div class="stars-today">⭐ 348 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentjido/jido" target="_blank">
+    
+
+
+      
+        agentjido /
+
+      jido</a></p>
+				<p>
+      🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Elixir</span>
+						<span>⭐ 1321</span>
+						<span>🔱 72</span>
+					</div>
+				<div class="stars-today">⭐ 143 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
+    
+
+
+      
+        QwenLM /
+
+      Qwen-Agent</a></p>
+				<p>
+      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14852</span>
+						<span>🔱 1414</span>
+					</div>
+				<div class="stars-today">⭐ 586 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 46441</span>
+						<span>🔱 8104</span>
+					</div>
+				<div class="stars-today">⭐ 248 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/hve-core" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      hve-core</a></p>
+				<p>
+      A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 648</span>
+						<span>🔱 92</span>
+					</div>
+				<div class="stars-today">⭐ 217 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+    
+
+
+      
+        toeverything /
+
+      AFFiNE</a></p>
+				<p>
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 64377</span>
+						<span>🔱 4511</span>
+					</div>
+				<div class="stars-today">⭐ 264 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shadcn-ui/ui" target="_blank">
+    
+
+
+      
+        shadcn-ui /
+
+      ui</a></p>
+				<p>
+      A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 107913</span>
+						<span>🔱 8029</span>
+					</div>
+				<div class="stars-today">⭐ 102 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 936</span>
+						<span>🔱 90</span>
+					</div>
+				<div class="stars-today">⭐ 104 stars today</div>
 				</div>
 			</div>
 	

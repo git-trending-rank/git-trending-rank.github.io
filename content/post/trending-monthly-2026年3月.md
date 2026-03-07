@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-07T10:00:34Z
+date: 2026-03-07T11:58:51Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
-    
-
-
-      
-        KeygraphHQ /
-
-      shannon</a></p>
-				<p>
-      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32441</span>
-						<span>🔱 3225</span>
-					</div>
-				<div class="stars-today">⭐ 27672 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29177</span>
-						<span>🔱 3783</span>
+						<span>⭐ 29232</span>
+						<span>🔱 3789</span>
 					</div>
 				<div class="stars-today">⭐ 23071 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon</a></p>
+				<p>
+      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32459</span>
+						<span>🔱 3227</span>
+					</div>
+				<div class="stars-today">⭐ 27672 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5353</span>
-						<span>🔱 343</span>
+						<span>⭐ 5378</span>
+						<span>🔱 345</span>
 					</div>
 				<div class="stars-today">⭐ 4861 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 30127</span>
+						<span>🔱 2899</span>
+					</div>
+				<div class="stars-today">⭐ 11577 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 273319</span>
-						<span>🔱 52187</span>
+						<span>⭐ 273762</span>
+						<span>🔱 52264</span>
 					</div>
 				<div class="stars-today">⭐ 101936 stars this month</div>
 				</div>
@@ -118,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20848</span>
-						<span>🔱 2190</span>
+						<span>⭐ 20868</span>
+						<span>🔱 2193</span>
 					</div>
 				<div class="stars-today">⭐ 13231 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3892</span>
-						<span>🔱 278</span>
-					</div>
-				<div class="stars-today">⭐ 3487 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 30016</span>
-						<span>🔱 2887</span>
-					</div>
-				<div class="stars-today">⭐ 11577 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,32 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8406</span>
+						<span>⭐ 8411</span>
 						<span>🔱 497</span>
 					</div>
 				<div class="stars-today">⭐ 7180 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10658</span>
-						<span>🔱 1082</span>
-					</div>
-				<div class="stars-today">⭐ 6078 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +182,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25324</span>
-						<span>🔱 3003</span>
+						<span>⭐ 25357</span>
+						<span>🔱 3006</span>
 					</div>
 				<div class="stars-today">⭐ 5416 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10669</span>
+						<span>🔱 1084</span>
+					</div>
+				<div class="stars-today">⭐ 6078 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pydantic/monty" target="_blank">
+    
+
+
+      
+        pydantic /
+
+      monty</a></p>
+				<p>
+      A minimal, secure Python interpreter written in Rust for use by AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 5991</span>
+						<span>🔱 236</span>
+					</div>
+				<div class="stars-today">⭐ 4333 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,7 +248,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4904</span>
+						<span>⭐ 4910</span>
 						<span>🔱 373</span>
 					</div>
 				<div class="stars-today">⭐ 3844 stars this month</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 72969</span>
-						<span>🔱 5608</span>
+						<span>⭐ 73004</span>
+						<span>🔱 5614</span>
 					</div>
 				<div class="stars-today">⭐ 26903 stars this month</div>
 				</div>
@@ -292,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6619</span>
+						<span>⭐ 6630</span>
 						<span>🔱 478</span>
 					</div>
 				<div class="stars-today">⭐ 5498 stars this month</div>
@@ -300,68 +300,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steipete/gogcli" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        steipete /
+        x1xhlol /
 
-      gogcli</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5810</span>
-						<span>🔱 441</span>
+						<span>🔠 </span>
+						<span>⭐ 129164</span>
+						<span>🔱 32946</span>
 					</div>
-				<div class="stars-today">⭐ 4335 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 22423</span>
-						<span>🔱 828</span>
-					</div>
-				<div class="stars-today">⭐ 3406 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12309</span>
-						<span>🔱 684</span>
-					</div>
-				<div class="stars-today">⭐ 6925 stars this month</div>
+				<div class="stars-today">⭐ 15939 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13113</span>
-						<span>🔱 739</span>
+						<span>⭐ 13129</span>
+						<span>🔱 741</span>
 					</div>
 				<div class="stars-today">⭐ 6281 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
+    
+
+
+      
+        steipete /
+
+      gogcli</a></p>
+				<p>
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 5814</span>
+						<span>🔱 442</span>
+					</div>
+				<div class="stars-today">⭐ 4335 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superset-sh/superset" target="_blank">
+    
+
+
+      
+        superset-sh /
+
+      superset</a></p>
+				<p>
+      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5405</span>
+						<span>🔱 333</span>
+					</div>
+				<div class="stars-today">⭐ 3897 stars this month</div>
 				</div>
 			</div>
 	
