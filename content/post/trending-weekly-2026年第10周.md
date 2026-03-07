@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第10周
-date: 2026-03-07T03:48:08Z
+date: 2026-03-07T04:52:01Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29025</span>
-						<span>🔱 3762</span>
+						<span>⭐ 29046</span>
+						<span>🔱 3767</span>
 					</div>
 				<div class="stars-today">⭐ 21037 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29681</span>
-						<span>🔱 2836</span>
+						<span>⭐ 29740</span>
+						<span>🔱 2843</span>
 					</div>
 				<div class="stars-today">⭐ 11189 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6579</span>
-						<span>🔱 477</span>
+						<span>⭐ 6588</span>
+						<span>🔱 478</span>
 					</div>
 				<div class="stars-today">⭐ 5156 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25222</span>
-						<span>🔱 2992</span>
+						<span>⭐ 25232</span>
+						<span>🔱 2995</span>
 					</div>
 				<div class="stars-today">⭐ 3480 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10465</span>
-						<span>🔱 1289</span>
+						<span>⭐ 10476</span>
+						<span>🔱 1291</span>
 					</div>
 				<div class="stars-today">⭐ 4419 stars this week</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5327</span>
+						<span>⭐ 5337</span>
 						<span>🔱 326</span>
 					</div>
 				<div class="stars-today">⭐ 3139 stars this week</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25016</span>
-						<span>🔱 1811</span>
+						<span>⭐ 25048</span>
+						<span>🔱 1812</span>
 					</div>
 				<div class="stars-today">⭐ 7173 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19549</span>
-						<span>🔱 2169</span>
+						<span>⭐ 19559</span>
+						<span>🔱 2173</span>
 					</div>
 				<div class="stars-today">⭐ 4170 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22621</span>
-						<span>🔱 4292</span>
+						<span>⭐ 22665</span>
+						<span>🔱 4299</span>
 					</div>
 				<div class="stars-today">⭐ 3167 stars this week</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1898</span>
-						<span>🔱 296</span>
+						<span>⭐ 1904</span>
+						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 964 stars this week</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32751</span>
+						<span>⭐ 32758</span>
 						<span>🔱 3338</span>
 					</div>
 				<div class="stars-today">⭐ 2205 stars this week</div>
@@ -272,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4033</span>
+						<span>⭐ 4036</span>
 						<span>🔱 464</span>
 					</div>
 				<div class="stars-today">⭐ 1076 stars this week</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 10580</span>
-						<span>🔱 1616</span>
+						<span>⭐ 10581</span>
+						<span>🔱 1618</span>
 					</div>
 				<div class="stars-today">⭐ 1114 stars this week</div>
 				</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17690</span>
+						<span>⭐ 17696</span>
 						<span>🔱 1570</span>
 					</div>
 				<div class="stars-today">⭐ 1120 stars this week</div>
