@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第10周
-date: 2026-03-08T10:01:18Z
+date: 2026-03-08T11:58:58Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 29709</span>
-						<span>🔱 3853</span>
+						<span>⭐ 29760</span>
+						<span>🔱 3861</span>
 					</div>
 				<div class="stars-today">⭐ 19036 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30895</span>
-						<span>🔱 2982</span>
+						<span>⭐ 30969</span>
+						<span>🔱 2997</span>
 					</div>
 				<div class="stars-today">⭐ 11353 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6801</span>
-						<span>🔱 495</span>
+						<span>⭐ 6810</span>
+						<span>🔱 496</span>
 					</div>
 				<div class="stars-today">⭐ 4972 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25805</span>
-						<span>🔱 3049</span>
-					</div>
-				<div class="stars-today">⭐ 3013 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10913</span>
-						<span>🔱 1327</span>
+						<span>⭐ 10938</span>
+						<span>🔱 1328</span>
 					</div>
 				<div class="stars-today">⭐ 4096 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23447</span>
-						<span>🔱 4377</span>
-					</div>
-				<div class="stars-today">⭐ 3569 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superset-sh/superset" target="_blank">
-    
-
-
-      
-        superset-sh /
-
-      superset</a></p>
-				<p>
-      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5705</span>
-						<span>🔱 354</span>
-					</div>
-				<div class="stars-today">⭐ 3193 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
-    
-
-
-      
-        D4Vinci /
-
-      Scrapling</a></p>
-				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25708</span>
-						<span>🔱 1878</span>
-					</div>
-				<div class="stars-today">⭐ 6757 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,10 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4084</span>
+						<span>⭐ 4090</span>
 						<span>🔱 469</span>
 					</div>
 				<div class="stars-today">⭐ 1127 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23507</span>
+						<span>🔱 4384</span>
+					</div>
+				<div class="stars-today">⭐ 3569 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25840</span>
+						<span>🔱 3049</span>
+					</div>
+				<div class="stars-today">⭐ 3013 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25771</span>
+						<span>🔱 1882</span>
+					</div>
+				<div class="stars-today">⭐ 6757 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
+    
+
+
+      
+        teng-lin /
+
+      notebooklm-py</a></p>
+				<p>
+      Unofficial Python API for Google NotebookLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3514</span>
+						<span>🔱 456</span>
+					</div>
+				<div class="stars-today">⭐ 1062 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2681</span>
+						<span>🔱 353</span>
+					</div>
+				<div class="stars-today">⭐ 598 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,120 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32910</span>
-						<span>🔱 3355</span>
+						<span>⭐ 32928</span>
+						<span>🔱 3356</span>
 					</div>
 				<div class="stars-today">⭐ 2196 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+				<p><a href="https://github.com/superset-sh/superset" target="_blank">
     
 
 
       
-        ruvnet /
+        superset-sh /
 
-      ruflo</a></p>
+      superset</a></p>
 				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19873</span>
-						<span>🔱 2205</span>
+						<span>⭐ 5727</span>
+						<span>🔱 355</span>
 					</div>
-				<div class="stars-today">⭐ 3529 stars this week</div>
+				<div class="stars-today">⭐ 3193 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
     
 
 
       
-        NousResearch /
+        GoogleCloudPlatform /
 
-      hermes-agent</a></p>
+      generative-ai</a></p>
 				<p>
-      The agent that grows with you
+      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2150</span>
-						<span>🔱 338</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 13752</span>
+						<span>🔱 3846</span>
 					</div>
-				<div class="stars-today">⭐ 979 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/xpzouying/xiaohongshu-mcp" target="_blank">
-    
-
-
-      
-        xpzouying /
-
-      xiaohongshu-mcp</a></p>
-				<p>
-      MCP for xiaohongshu.com
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10771</span>
-						<span>🔱 1634</span>
-					</div>
-				<div class="stars-today">⭐ 1121 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 90341</span>
-						<span>🔱 5316</span>
-					</div>
-				<div class="stars-today">⭐ 2426 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentscope-ai/agentscope" target="_blank">
-    
-
-
-      
-        agentscope-ai /
-
-      agentscope</a></p>
-				<p>
-      Build and run agents you can see, understand and trust.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17796</span>
-						<span>🔱 1578</span>
-					</div>
-				<div class="stars-today">⭐ 1135 stars this week</div>
+				<div class="stars-today">⭐ 765 stars this week</div>
 				</div>
 			</div>
 	
