@@ -6,7 +6,289 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 08 Mar 2026 21:59:33 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 09 Mar 2026 00:00:23 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2026-03-09</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2026-03-09/</link>
+        <pubDate>Mon, 09 Mar 2026 00:00:23 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2026-03-09/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/GoogleCloudPlatform/generative-ai&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      generative-ai&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 14340&lt;/span&gt;
+						&lt;span&gt;🔱 3896&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 522 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/666ghj/MiroFish&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        666ghj /
+
+      MiroFish&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6913&lt;/span&gt;
+						&lt;span&gt;🔱 760&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1104 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/shadcn-ui/ui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        shadcn-ui /
+
+      ui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 108668&lt;/span&gt;
+						&lt;span&gt;🔱 8074&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 488 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openclaw/openclaw&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openclaw /
+
+      openclaw&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 280331&lt;/span&gt;
+						&lt;span&gt;🔱 53517&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4603 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/toeverything/AFFiNE&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        toeverything /
+
+      AFFiNE&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 65207&lt;/span&gt;
+						&lt;span&gt;🔱 4552&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 533 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Ed1s0nZ/CyberStrikeAI&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Ed1s0nZ /
+
+      CyberStrikeAI&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 2242&lt;/span&gt;
+						&lt;span&gt;🔱 389&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 244 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/shareAI-lab/learn-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 23845&lt;/span&gt;
+						&lt;span&gt;🔱 4406&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 566 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Skills Catalog for Codex
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13207&lt;/span&gt;
+						&lt;span&gt;🔱 739&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 612 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An AI Hedge Fund Team
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 46821&lt;/span&gt;
+						&lt;span&gt;🔱 8146&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 275 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/is-a-dev/register&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        is-a-dev /
+
+      register&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9778&lt;/span&gt;
+						&lt;span&gt;🔱 18768&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/teng-lin/notebooklm-py&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        teng-lin /
+
+      notebooklm-py&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Unofficial Python API for Google NotebookLM
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3716&lt;/span&gt;
+						&lt;span&gt;🔱 472&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 196 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pbakaus/impeccable&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pbakaus /
+
+      impeccable&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The design language that makes your AI harness better at design.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1727&lt;/span&gt;
+						&lt;span&gt;🔱 74&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 443 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2026-03-08</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-03-08/</link>
         <pubDate>Sun, 08 Mar 2026 21:59:33 +0000</pubDate>
