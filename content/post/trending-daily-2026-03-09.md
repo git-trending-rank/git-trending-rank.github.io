@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-09
-date: 2026-03-09T18:33:17Z
+date: 2026-03-09T20:17:17Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15174</span>
-						<span>🔱 3953</span>
+						<span>⭐ 15204</span>
+						<span>🔱 3955</span>
 					</div>
 				<div class="stars-today">⭐ 1291 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 289338</span>
-						<span>🔱 54877</span>
+						<span>⭐ 289490</span>
+						<span>🔱 54903</span>
 					</div>
 				<div class="stars-today">⭐ 9123 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10293</span>
-						<span>🔱 1075</span>
+						<span>⭐ 10440</span>
+						<span>🔱 1088</span>
 					</div>
 				<div class="stars-today">⭐ 2222 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45361</span>
-						<span>🔱 6007</span>
+						<span>⭐ 45392</span>
+						<span>🔱 6009</span>
 					</div>
 				<div class="stars-today">⭐ 332 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37264</span>
-						<span>🔱 7025</span>
+						<span>⭐ 37285</span>
+						<span>🔱 7027</span>
 					</div>
 				<div class="stars-today">⭐ 509 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2768</span>
-						<span>🔱 387</span>
+						<span>⭐ 2825</span>
+						<span>🔱 391</span>
 					</div>
 				<div class="stars-today">⭐ 358 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2787</span>
-						<span>🔱 105</span>
+						<span>⭐ 2827</span>
+						<span>🔱 106</span>
 					</div>
 				<div class="stars-today">⭐ 1291 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 17254</span>
-						<span>🔱 2648</span>
+						<span>⭐ 17814</span>
+						<span>🔱 2741</span>
 					</div>
 				<div class="stars-today">⭐ 4297 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2413</span>
-						<span>🔱 195</span>
+						<span>⭐ 2452</span>
+						<span>🔱 197</span>
 					</div>
 				<div class="stars-today">⭐ 532 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3180</span>
-						<span>🔱 394</span>
+						<span>⭐ 3232</span>
+						<span>🔱 396</span>
 					</div>
 				<div class="stars-today">⭐ 228 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 41086</span>
-						<span>🔱 1596</span>
+						<span>⭐ 41125</span>
+						<span>🔱 1597</span>
 					</div>
 				<div class="stars-today">⭐ 104 stars today</div>
 				</div>
@@ -267,13 +267,13 @@ keywords:
 
       notebooklm-py</a></p>
 				<p>
-      Unofficial Python API for Google NotebookLM
+      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4098</span>
-						<span>🔱 506</span>
+						<span>⭐ 4132</span>
+						<span>🔱 511</span>
 					</div>
 				<div class="stars-today">⭐ 457 stars today</div>
 				</div>
