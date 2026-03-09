@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第11周
-date: 2026-03-09T00:00:23Z
+date: 2026-03-09T04:03:11Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 30979</span>
-						<span>🔱 4052</span>
+						<span>⭐ 31391</span>
+						<span>🔱 4118</span>
 					</div>
 				<div class="stars-today">⭐ 15043 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31219</span>
-						<span>🔱 3036</span>
+						<span>⭐ 31376</span>
+						<span>🔱 3057</span>
 					</div>
 				<div class="stars-today">⭐ 11456 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6923</span>
-						<span>🔱 511</span>
+						<span>⭐ 6974</span>
+						<span>🔱 516</span>
 					</div>
 				<div class="stars-today">⭐ 3959 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33890</span>
-						<span>🔱 5701</span>
+						<span>⭐ 34096</span>
+						<span>🔱 5738</span>
 					</div>
 				<div class="stars-today">⭐ 14741 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11079</span>
-						<span>🔱 1338</span>
+						<span>⭐ 11178</span>
+						<span>🔱 1344</span>
 					</div>
 				<div class="stars-today">⭐ 3952 stars this week</div>
 				</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4114</span>
-						<span>🔱 471</span>
+						<span>⭐ 4119</span>
+						<span>🔱 472</span>
 					</div>
 				<div class="stars-today">⭐ 1169 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentscope-ai/ReMe" target="_blank">
+    
+
+
+      
+        agentscope-ai /
+
+      ReMe</a></p>
+				<p>
+      ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2042</span>
+						<span>🔱 155</span>
+					</div>
+				<div class="stars-today">⭐ 982 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23845</span>
-						<span>🔱 4406</span>
+						<span>⭐ 24065</span>
+						<span>🔱 4420</span>
 					</div>
 				<div class="stars-today">⭐ 3901 stars this week</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26007</span>
-						<span>🔱 3067</span>
+						<span>⭐ 26139</span>
+						<span>🔱 3079</span>
 					</div>
 				<div class="stars-today">⭐ 3150 stars this week</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3716</span>
-						<span>🔱 472</span>
+						<span>⭐ 3806</span>
+						<span>🔱 482</span>
 					</div>
 				<div class="stars-today">⭐ 1225 stars this week</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2795</span>
-						<span>🔱 365</span>
+						<span>⭐ 2830</span>
+						<span>🔱 370</span>
 					</div>
 				<div class="stars-today">⭐ 639 stars this week</div>
 				</div>
@@ -250,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33028</span>
+						<span>⭐ 33058</span>
 						<span>🔱 3369</span>
 					</div>
 				<div class="stars-today">⭐ 2303 stars this week</div>
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5912</span>
-						<span>🔱 369</span>
+						<span>⭐ 6052</span>
+						<span>🔱 375</span>
 					</div>
 				<div class="stars-today">⭐ 3132 stars this week</div>
 				</div>
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14340</span>
-						<span>🔱 3896</span>
+						<span>⭐ 14584</span>
+						<span>🔱 3911</span>
 					</div>
 				<div class="stars-today">⭐ 1062 stars this week</div>
 				</div>
