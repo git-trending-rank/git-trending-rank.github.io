@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-09T10:31:37Z
+date: 2026-03-09T12:28:18Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 32262</span>
-						<span>🔱 4314</span>
+						<span>⭐ 32467</span>
+						<span>🔱 4361</span>
 					</div>
 				<div class="stars-today">⭐ 24234 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5840</span>
-						<span>🔱 373</span>
-					</div>
-				<div class="stars-today">⭐ 5302 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31576</span>
-						<span>🔱 3085</span>
+						<span>⭐ 31632</span>
+						<span>🔱 3094</span>
 					</div>
 				<div class="stars-today">⭐ 13833 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills</a></p>
+				<p>
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5856</span>
+						<span>🔱 372</span>
+					</div>
+				<div class="stars-today">⭐ 5302 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 286643</span>
-						<span>🔱 54424</span>
+						<span>⭐ 287434</span>
+						<span>🔱 54538</span>
 					</div>
 				<div class="stars-today">⭐ 106172 stars this month</div>
 				</div>
@@ -118,74 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21529</span>
-						<span>🔱 2271</span>
+						<span>⭐ 21567</span>
+						<span>🔱 2274</span>
 					</div>
 				<div class="stars-today">⭐ 13206 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
-    
-
-
-      
-        KeygraphHQ /
-
-      shannon</a></p>
-				<p>
-      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32804</span>
-						<span>🔱 3267</span>
-					</div>
-				<div class="stars-today">⭐ 21399 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3943</span>
-						<span>🔱 278</span>
-					</div>
-				<div class="stars-today">⭐ 3547 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8590</span>
-						<span>🔱 508</span>
-					</div>
-				<div class="stars-today">⭐ 7359 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +140,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26434</span>
-						<span>🔱 3128</span>
+						<span>⭐ 26634</span>
+						<span>🔱 3153</span>
 					</div>
 				<div class="stars-today">⭐ 6282 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8600</span>
+						<span>🔱 511</span>
+					</div>
+				<div class="stars-today">⭐ 7359 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3948</span>
+						<span>🔱 278</span>
+					</div>
+				<div class="stars-today">⭐ 3547 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon</a></p>
+				<p>
+      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32823</span>
+						<span>🔱 3270</span>
+					</div>
+				<div class="stars-today">⭐ 21399 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7062</span>
-						<span>🔱 520</span>
+						<span>⭐ 7087</span>
+						<span>🔱 521</span>
 					</div>
 				<div class="stars-today">⭐ 5821 stars this month</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5205</span>
-						<span>🔱 391</span>
+						<span>⭐ 5249</span>
+						<span>🔱 394</span>
 					</div>
 				<div class="stars-today">⭐ 3991 stars this month</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23010</span>
-						<span>🔱 870</span>
+						<span>⭐ 23017</span>
+						<span>🔱 871</span>
 					</div>
 				<div class="stars-today">⭐ 3860 stars this month</div>
 				</div>
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 74475</span>
-						<span>🔱 5744</span>
+						<span>⭐ 74599</span>
+						<span>🔱 5753</span>
 					</div>
 				<div class="stars-today">⭐ 26688 stars this month</div>
 				</div>
@@ -314,32 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 129685</span>
-						<span>🔱 33045</span>
+						<span>⭐ 129700</span>
+						<span>🔱 33050</span>
 					</div>
 				<div class="stars-today">⭐ 16268 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/gogcli" target="_blank">
-    
-
-
-      
-        steipete /
-
-      gogcli</a></p>
-				<p>
-      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 5958</span>
-						<span>🔱 452</span>
-					</div>
-				<div class="stars-today">⭐ 4413 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,54 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6199</span>
-						<span>🔱 390</span>
+						<span>⭐ 6235</span>
+						<span>🔱 392</span>
 					</div>
 				<div class="stars-today">⭐ 4374 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tobi/qmd" target="_blank">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
     
 
 
       
-        tobi /
+        steipete /
 
-      qmd</a></p>
+      gogcli</a></p>
 				<p>
-      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13545</span>
-						<span>🔱 781</span>
+						<span>🔠 Go</span>
+						<span>⭐ 5973</span>
+						<span>🔱 453</span>
 					</div>
-				<div class="stars-today">⭐ 6210 stars this month</div>
+				<div class="stars-today">⭐ 4413 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pydantic/monty" target="_blank">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
     
 
 
       
-        pydantic /
+        shareAI-lab /
 
-      monty</a></p>
+      learn-claude-code</a></p>
 				<p>
-      A minimal, secure Python interpreter written in Rust for use by AI
+      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 6089</span>
-						<span>🔱 240</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24376</span>
+						<span>🔱 4451</span>
 					</div>
-				<div class="stars-today">⭐ 3860 stars this month</div>
+				<div class="stars-today">⭐ 7115 stars this month</div>
 				</div>
 			</div>
 	

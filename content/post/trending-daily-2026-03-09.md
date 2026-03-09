@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-09
-date: 2026-03-09T10:31:37Z
+date: 2026-03-09T12:28:18Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 14972</span>
-						<span>🔱 3936</span>
+						<span>⭐ 15022</span>
+						<span>🔱 3938</span>
 					</div>
-				<div class="stars-today">⭐ 522 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8372</span>
-						<span>🔱 881</span>
-					</div>
-				<div class="stars-today">⭐ 1104 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shadcn-ui/ui" target="_blank">
-    
-
-
-      
-        shadcn-ui /
-
-      ui</a></p>
-				<p>
-      A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 108975</span>
-						<span>🔱 8094</span>
-					</div>
-				<div class="stars-today">⭐ 488 stars today</div>
+				<div class="stars-today">⭐ 1291 stars today</div>
 				</div>
 			</div>
 	
@@ -96,164 +52,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 286643</span>
-						<span>🔱 54424</span>
+						<span>⭐ 287434</span>
+						<span>🔱 54538</span>
 					</div>
-				<div class="stars-today">⭐ 4603 stars today</div>
+				<div class="stars-today">⭐ 9123 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/toeverything/AFFiNE" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        toeverything /
+        666ghj /
 
-      AFFiNE</a></p>
+      MiroFish</a></p>
 				<p>
-      There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 65482</span>
-						<span>🔱 4566</span>
-					</div>
-				<div class="stars-today">⭐ 533 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Ed1s0nZ/CyberStrikeAI" target="_blank">
-    
-
-
-      
-        Ed1s0nZ /
-
-      CyberStrikeAI</a></p>
-				<p>
-      CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2521</span>
-						<span>🔱 413</span>
-					</div>
-				<div class="stars-today">⭐ 244 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24329</span>
-						<span>🔱 4442</span>
-					</div>
-				<div class="stars-today">⭐ 566 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/skills" target="_blank">
-    
-
-
-      
-        openai /
-
-      skills</a></p>
-				<p>
-      Skills Catalog for Codex
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13519</span>
-						<span>🔱 760</span>
+						<span>⭐ 8849</span>
+						<span>🔱 932</span>
 					</div>
-				<div class="stars-today">⭐ 612 stars today</div>
+				<div class="stars-today">⭐ 2222 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
     
 
 
       
-        virattt /
+        karpathy /
 
-      ai-hedge-fund</a></p>
+      nanochat</a></p>
 				<p>
-      An AI Hedge Fund Team
+      The best ChatGPT that $100 can buy.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46978</span>
-						<span>🔱 8159</span>
+						<span>⭐ 45209</span>
+						<span>🔱 5991</span>
 					</div>
-				<div class="stars-today">⭐ 275 stars today</div>
+				<div class="stars-today">⭐ 332 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/is-a-dev/register" target="_blank">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
     
 
 
       
-        is-a-dev /
+        666ghj /
 
-      register</a></p>
+      BettaFish</a></p>
 				<p>
-      Grab your own sweet-looking '.is-a.dev' subdomain.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9914</span>
-						<span>🔱 18815</span>
-					</div>
-				<div class="stars-today">⭐ 10 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
-    
-
-
-      
-        teng-lin /
-
-      notebooklm-py</a></p>
-				<p>
-      Unofficial Python API for Google NotebookLM
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3941</span>
-						<span>🔱 497</span>
+						<span>⭐ 37096</span>
+						<span>🔱 7012</span>
 					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
+				<div class="stars-today">⭐ 509 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2568</span>
+						<span>🔱 374</span>
+					</div>
+				<div class="stars-today">⭐ 358 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +162,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 2420</span>
-						<span>🔱 93</span>
+						<span>⭐ 2527</span>
+						<span>🔱 95</span>
 					</div>
-				<div class="stars-today">⭐ 443 stars today</div>
+				<div class="stars-today">⭐ 1291 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 15664</span>
+						<span>🔱 2391</span>
+					</div>
+				<div class="stars-today">⭐ 4297 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2183</span>
+						<span>🔱 178</span>
+					</div>
+				<div class="stars-today">⭐ 715 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      169 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2971</span>
+						<span>🔱 382</span>
+					</div>
+				<div class="stars-today">⭐ 228 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
+    
+
+
+      
+        Raphire /
+
+      Win11Debloat</a></p>
+				<p>
+      A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 40938</span>
+						<span>🔱 1592</span>
+					</div>
+				<div class="stars-today">⭐ 104 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
+    
+
+
+      
+        teng-lin /
+
+      notebooklm-py</a></p>
+				<p>
+      Unofficial Python API for Google NotebookLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3978</span>
+						<span>🔱 499</span>
+					</div>
+				<div class="stars-today">⭐ 457 stars today</div>
 				</div>
 			</div>
 	
