@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-10
-date: 2026-03-10T10:25:10Z
+date: 2026-03-10T12:27:45Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
     
 
 
       
-        GoogleCloudPlatform /
+        msitarzewski /
 
-      generative-ai</a></p>
+      agency-agents</a></p>
 				<p>
-      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15506</span>
-						<span>🔱 3981</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 21953</span>
+						<span>🔱 3433</span>
 					</div>
-				<div class="stars-today">⭐ 1282 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 295431</span>
-						<span>🔱 55855</span>
-					</div>
-				<div class="stars-today">⭐ 9164 stars today</div>
+				<div class="stars-today">⭐ 6235 stars today</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12849</span>
-						<span>🔱 1333</span>
+						<span>⭐ 13123</span>
+						<span>🔱 1364</span>
 					</div>
-				<div class="stars-today">⭐ 2294 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanochat</a></p>
-				<p>
-      The best ChatGPT that $100 can buy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45856</span>
-						<span>🔱 6054</span>
-					</div>
-				<div class="stars-today">⭐ 355 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      BettaFish</a></p>
-				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37770</span>
-						<span>🔱 7087</span>
-					</div>
-				<div class="stars-today">⭐ 514 stars today</div>
+				<div class="stars-today">⭐ 4469 stars today</div>
 				</div>
 			</div>
 	
@@ -140,54 +74,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3279</span>
-						<span>🔱 433</span>
+						<span>⭐ 3334</span>
+						<span>🔱 438</span>
 					</div>
-				<div class="stars-today">⭐ 377 stars today</div>
+				<div class="stars-today">⭐ 776 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
     
 
 
       
-        pbakaus /
+        promptfoo /
 
-      impeccable</a></p>
+      promptfoo</a></p>
 				<p>
-      The design language that makes your AI harness better at design.
+      Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3352</span>
-						<span>🔱 124</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11585</span>
+						<span>🔱 1065</span>
 					</div>
-				<div class="stars-today">⭐ 1288 stars today</div>
+				<div class="stars-today">⭐ 632 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
     
 
 
       
-        msitarzewski /
+        GoogleCloudPlatform /
 
-      agency-agents</a></p>
+      generative-ai</a></p>
 				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 15534</span>
+						<span>🔱 3983</span>
+					</div>
+				<div class="stars-today">⭐ 534 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47282</span>
+						<span>🔱 8234</span>
+					</div>
+				<div class="stars-today">⭐ 316 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      nanochat</a></p>
+				<p>
+      The best ChatGPT that $100 can buy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45913</span>
+						<span>🔱 6063</span>
+					</div>
+				<div class="stars-today">⭐ 709 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21426</span>
-						<span>🔱 3351</span>
+						<span>⭐ 75954</span>
+						<span>🔱 5878</span>
 					</div>
-				<div class="stars-today">⭐ 4415 stars today</div>
+				<div class="stars-today">⭐ 1387 stars today</div>
 				</div>
 			</div>
 	
@@ -206,76 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2981</span>
-						<span>🔱 231</span>
+						<span>⭐ 3073</span>
+						<span>🔱 240</span>
 					</div>
-				<div class="stars-today">⭐ 465 stars today</div>
+				<div class="stars-today">⭐ 895 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+				<p><a href="https://github.com/sepinf-inc/IPED" target="_blank">
     
 
 
       
-        alirezarezvani /
+        sepinf-inc /
 
-      claude-skills</a></p>
+      IPED</a></p>
 				<p>
-      +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+      IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2011</span>
+						<span>🔱 379</span>
+					</div>
+				<div class="stars-today">⭐ 237 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      openclaw</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 296176</span>
+						<span>🔱 55974</span>
+					</div>
+				<div class="stars-today">⭐ 9074 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3416</span>
+						<span>🔱 124</span>
+					</div>
+				<div class="stars-today">⭐ 932 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3757</span>
-						<span>🔱 430</span>
+						<span>⭐ 28006</span>
+						<span>🔱 3342</span>
 					</div>
-				<div class="stars-today">⭐ 259 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Raphire/Win11Debloat" target="_blank">
-    
-
-
-      
-        Raphire /
-
-      Win11Debloat</a></p>
-				<p>
-      A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 41454</span>
-						<span>🔱 1610</span>
-					</div>
-				<div class="stars-today">⭐ 104 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
-    
-
-
-      
-        teng-lin /
-
-      notebooklm-py</a></p>
-				<p>
-      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4498</span>
-						<span>🔱 547</span>
-					</div>
-				<div class="stars-today">⭐ 457 stars today</div>
+				<div class="stars-today">⭐ 1443 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-10T10:25:10Z
+date: 2026-03-10T12:27:45Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 33796</span>
-						<span>🔱 4573</span>
+						<span>⭐ 33885</span>
+						<span>🔱 4589</span>
 					</div>
 				<div class="stars-today">⭐ 26942 stars this month</div>
 				</div>
@@ -52,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31994</span>
-						<span>🔱 3143</span>
+						<span>⭐ 32025</span>
+						<span>🔱 3154</span>
 					</div>
 				<div class="stars-today">⭐ 14448 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6030</span>
-						<span>🔱 385</span>
-					</div>
-				<div class="stars-today">⭐ 5444 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 295431</span>
-						<span>🔱 55855</span>
-					</div>
-				<div class="stars-today">⭐ 112262 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21925</span>
-						<span>🔱 2323</span>
-					</div>
-				<div class="stars-today">⭐ 13352 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27879</span>
-						<span>🔱 3323</span>
+						<span>⭐ 28006</span>
+						<span>🔱 3342</span>
 					</div>
 				<div class="stars-today">⭐ 7079 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      openclaw</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 296176</span>
+						<span>🔱 55974</span>
+					</div>
+				<div class="stars-today">⭐ 112262 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills</a></p>
+				<p>
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6040</span>
+						<span>🔱 386</span>
+					</div>
+				<div class="stars-today">⭐ 5444 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8668</span>
+						<span>⭐ 8677</span>
 						<span>🔱 522</span>
 					</div>
 				<div class="stars-today">⭐ 7460 stars this month</div>
@@ -168,46 +146,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
     
 
 
       
-        github /
+        badlogic /
 
-      gh-aw</a></p>
+      pi-mono</a></p>
 				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3987</span>
-						<span>🔱 279</span>
-					</div>
-				<div class="stars-today">⭐ 3336 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
-    
-
-
-      
-        KeygraphHQ /
-
-      shannon</a></p>
-				<p>
-      Shannon Lite is a fully autonomous AI pentester for web apps and APIs. 96.15% (100/104 exploits) on a hint-free, source-aware variant of the XBOW benchmark.
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33002</span>
-						<span>🔱 3287</span>
+						<span>⭐ 21958</span>
+						<span>🔱 2326</span>
 					</div>
-				<div class="stars-today">⭐ 17498 stars this month</div>
+				<div class="stars-today">⭐ 13352 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11066</span>
+						<span>🔱 1153</span>
+					</div>
+				<div class="stars-today">⭐ 6159 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7316</span>
-						<span>🔱 540</span>
+						<span>⭐ 7339</span>
+						<span>🔱 541</span>
 					</div>
 				<div class="stars-today">⭐ 6082 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3993</span>
+						<span>🔱 279</span>
+					</div>
+				<div class="stars-today">⭐ 3336 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5511</span>
-						<span>🔱 416</span>
+						<span>⭐ 5541</span>
+						<span>🔱 418</span>
 					</div>
 				<div class="stars-today">⭐ 4197 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+				<p><a href="https://github.com/superset-sh/superset" target="_blank">
     
 
 
       
-        clockworklabs /
+        superset-sh /
 
-      SpacetimeDB</a></p>
+      superset</a></p>
 				<p>
-      Development at the speed of light
+      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 23087</span>
-						<span>🔱 873</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6437</span>
+						<span>🔱 421</span>
 					</div>
-				<div class="stars-today">⭐ 4016 stars this month</div>
+				<div class="stars-today">⭐ 4851 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 75824</span>
-						<span>🔱 5870</span>
+						<span>⭐ 75954</span>
+						<span>🔱 5878</span>
 					</div>
 				<div class="stars-today">⭐ 26752 stars this month</div>
 				</div>
@@ -314,54 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 129928</span>
-						<span>🔱 33094</span>
+						<span>⭐ 129944</span>
+						<span>🔱 33099</span>
 					</div>
 				<div class="stars-today">⭐ 16383 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superset-sh/superset" target="_blank">
-    
-
-
-      
-        superset-sh /
-
-      superset</a></p>
-				<p>
-      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6425</span>
-						<span>🔱 416</span>
-					</div>
-				<div class="stars-today">⭐ 4851 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/gogcli" target="_blank">
-    
-
-
-      
-        steipete /
-
-      gogcli</a></p>
-				<p>
-      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6079</span>
-						<span>🔱 460</span>
-					</div>
-				<div class="stars-today">⭐ 4472 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24735</span>
-						<span>🔱 4500</span>
+						<span>⭐ 24753</span>
+						<span>🔱 4502</span>
 					</div>
 				<div class="stars-today">⭐ 7740 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steipete/gogcli" target="_blank">
+    
+
+
+      
+        steipete /
+
+      gogcli</a></p>
+				<p>
+      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 6085</span>
+						<span>🔱 461</span>
+					</div>
+				<div class="stars-today">⭐ 4472 stars this month</div>
 				</div>
 			</div>
 	
