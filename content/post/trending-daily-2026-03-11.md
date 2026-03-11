@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-11
-date: 2026-03-11T06:34:41Z
+date: 2026-03-11T08:24:07Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 26648</span>
-						<span>🔱 4208</span>
+						<span>⭐ 27174</span>
+						<span>🔱 4280</span>
 					</div>
 				<div class="stars-today">⭐ 6223 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15130</span>
-						<span>🔱 1589</span>
+						<span>⭐ 15469</span>
+						<span>🔱 1629</span>
 					</div>
 				<div class="stars-today">⭐ 4504 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4210</span>
-						<span>🔱 522</span>
+						<span>⭐ 4316</span>
+						<span>🔱 531</span>
 					</div>
 				<div class="stars-today">⭐ 781 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12135</span>
-						<span>🔱 1127</span>
+						<span>⭐ 12197</span>
+						<span>🔱 1131</span>
 					</div>
 				<div class="stars-today">⭐ 661 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15868</span>
-						<span>🔱 4011</span>
+						<span>⭐ 15892</span>
+						<span>🔱 4014</span>
 					</div>
 				<div class="stars-today">⭐ 530 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47763</span>
-						<span>🔱 8314</span>
+						<span>⭐ 47815</span>
+						<span>🔱 8322</span>
 					</div>
 				<div class="stars-today">⭐ 300 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46390</span>
-						<span>🔱 6122</span>
+						<span>⭐ 46437</span>
+						<span>🔱 6128</span>
 					</div>
 				<div class="stars-today">⭐ 705 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 76992</span>
-						<span>🔱 5964</span>
+						<span>⭐ 77147</span>
+						<span>🔱 5971</span>
 					</div>
 				<div class="stars-today">⭐ 1387 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3967</span>
-						<span>🔱 312</span>
+						<span>⭐ 4060</span>
+						<span>🔱 317</span>
 					</div>
 				<div class="stars-today">⭐ 891 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 2272</span>
-						<span>🔱 394</span>
+						<span>⭐ 2294</span>
+						<span>🔱 395</span>
 					</div>
 				<div class="stars-today">⭐ 273 stars today</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 300548</span>
-						<span>🔱 56806</span>
+						<span>⭐ 301314</span>
+						<span>🔱 56920</span>
 					</div>
 				<div class="stars-today">⭐ 9080 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3792</span>
-						<span>🔱 143</span>
-					</div>
-				<div class="stars-today">⭐ 939 stars today</div>
 				</div>
 			</div>
 	
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28855</span>
-						<span>🔱 3436</span>
+						<span>⭐ 28940</span>
+						<span>🔱 3446</span>
 					</div>
 				<div class="stars-today">⭐ 1413 stars today</div>
 				</div>
