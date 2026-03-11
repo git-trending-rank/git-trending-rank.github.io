@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-11T10:25:08Z
+date: 2026-03-11T12:27:24Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 34638</span>
-						<span>🔱 4709</span>
+						<span>⭐ 34718</span>
+						<span>🔱 4724</span>
 					</div>
 				<div class="stars-today">⭐ 28314 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32450</span>
-						<span>🔱 3186</span>
+						<span>⭐ 32511</span>
+						<span>🔱 3192</span>
 					</div>
 				<div class="stars-today">⭐ 14824 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29028</span>
-						<span>🔱 3455</span>
+						<span>⭐ 29088</span>
+						<span>🔱 3466</span>
 					</div>
 				<div class="stars-today">⭐ 8378 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 302021</span>
-						<span>🔱 57054</span>
+						<span>⭐ 302460</span>
+						<span>🔱 57122</span>
 					</div>
 				<div class="stars-today">⭐ 117792 stars this month</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6215</span>
+						<span>⭐ 6231</span>
 						<span>🔱 396</span>
 					</div>
 				<div class="stars-today">⭐ 5583 stars this month</div>
@@ -138,54 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8763</span>
+						<span>⭐ 8771</span>
 						<span>🔱 523</span>
 					</div>
 				<div class="stars-today">⭐ 7533 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22273</span>
-						<span>🔱 2357</span>
-					</div>
-				<div class="stars-today">⭐ 12353 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11178</span>
-						<span>🔱 1166</span>
-					</div>
-				<div class="stars-today">⭐ 6169 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,32 +160,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7462</span>
-						<span>🔱 549</span>
+						<span>⭐ 7473</span>
+						<span>🔱 551</span>
 					</div>
 				<div class="stars-today">⭐ 6316 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
     
 
 
       
-        github /
+        p-e-w /
 
-      gh-aw</a></p>
+      heretic</a></p>
 				<p>
-      GitHub Agentic Workflows
+      Fully automatic censorship removal for language models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4026</span>
-						<span>🔱 281</span>
+						<span>🔠 Python</span>
+						<span>⭐ 11190</span>
+						<span>🔱 1168</span>
 					</div>
-				<div class="stars-today">⭐ 2923 stars this month</div>
+				<div class="stars-today">⭐ 6169 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22315</span>
+						<span>🔱 2357</span>
+					</div>
+				<div class="stars-today">⭐ 12353 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5747</span>
-						<span>🔱 433</span>
+						<span>⭐ 5765</span>
+						<span>🔱 434</span>
 					</div>
 				<div class="stars-today">⭐ 4462 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superset-sh/superset" target="_blank">
-    
-
-
-      
-        superset-sh /
-
-      superset</a></p>
-				<p>
-      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6557</span>
-						<span>🔱 431</span>
-					</div>
-				<div class="stars-today">⭐ 5012 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 77281</span>
-						<span>🔱 5984</span>
+						<span>⭐ 77408</span>
+						<span>🔱 5991</span>
 					</div>
 				<div class="stars-today">⭐ 27391 stars this month</div>
 				</div>
@@ -314,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 130170</span>
-						<span>🔱 33133</span>
+						<span>⭐ 130187</span>
+						<span>🔱 33135</span>
 					</div>
 				<div class="stars-today">⭐ 16490 stars this month</div>
 				</div>
@@ -336,10 +292,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25089</span>
-						<span>🔱 4541</span>
+						<span>⭐ 25134</span>
+						<span>🔱 4542</span>
 					</div>
 				<div class="stars-today">⭐ 8053 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superset-sh/superset" target="_blank">
+    
+
+
+      
+        superset-sh /
+
+      superset</a></p>
+				<p>
+      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6569</span>
+						<span>🔱 431</span>
+					</div>
+				<div class="stars-today">⭐ 5012 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/github/gh-aw" target="_blank">
+    
+
+
+      
+        github /
+
+      gh-aw</a></p>
+				<p>
+      GitHub Agentic Workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 4031</span>
+						<span>🔱 281</span>
+					</div>
+				<div class="stars-today">⭐ 2923 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15994</span>
+						<span>🔱 1688</span>
+					</div>
+				<div class="stars-today">⭐ 10012 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +380,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 6157</span>
+						<span>⭐ 6161</span>
 						<span>🔱 464</span>
 					</div>
 				<div class="stars-today">⭐ 4530 stars this month</div>

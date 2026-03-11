@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-11
-date: 2026-03-11T10:25:08Z
+date: 2026-03-11T12:27:23Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 27627</span>
-						<span>🔱 4344</span>
+						<span>⭐ 28015</span>
+						<span>🔱 4388</span>
 					</div>
-				<div class="stars-today">⭐ 6223 stars today</div>
+				<div class="stars-today">⭐ 6205 stars today</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15768</span>
-						<span>🔱 1654</span>
+						<span>⭐ 15994</span>
+						<span>🔱 1688</span>
 					</div>
-				<div class="stars-today">⭐ 4504 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4437</span>
-						<span>🔱 544</span>
-					</div>
-				<div class="stars-today">⭐ 781 stars today</div>
+				<div class="stars-today">⭐ 2909 stars today</div>
 				</div>
 			</div>
 	
@@ -96,76 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12256</span>
-						<span>🔱 1135</span>
+						<span>⭐ 12292</span>
+						<span>🔱 1140</span>
 					</div>
-				<div class="stars-today">⭐ 661 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      generative-ai</a></p>
-				<p>
-      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15919</span>
-						<span>🔱 4017</span>
-					</div>
-				<div class="stars-today">⭐ 530 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47860</span>
-						<span>🔱 8332</span>
-					</div>
-				<div class="stars-today">⭐ 300 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
-    
-
-
-      
-        karpathy /
-
-      nanochat</a></p>
-				<p>
-      The best ChatGPT that $100 can buy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46470</span>
-						<span>🔱 6131</span>
-					</div>
-				<div class="stars-today">⭐ 705 stars today</div>
+				<div class="stars-today">⭐ 728 stars today</div>
 				</div>
 			</div>
 	
@@ -184,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 77281</span>
-						<span>🔱 5984</span>
+						<span>⭐ 77408</span>
+						<span>🔱 5991</span>
 					</div>
-				<div class="stars-today">⭐ 1387 stars today</div>
+				<div class="stars-today">⭐ 1477 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
+    
+
+
+      
+        fishaudio /
+
+      fish-speech</a></p>
+				<p>
+      SOTA Open Source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25505</span>
+						<span>🔱 2150</span>
+					</div>
+				<div class="stars-today">⭐ 277 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47904</span>
+						<span>🔱 8337</span>
+					</div>
+				<div class="stars-today">⭐ 633 stars today</div>
 				</div>
 			</div>
 	
@@ -206,98 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4181</span>
-						<span>🔱 331</span>
+						<span>⭐ 4273</span>
+						<span>🔱 337</span>
 					</div>
-				<div class="stars-today">⭐ 891 stars today</div>
+				<div class="stars-today">⭐ 1206 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sepinf-inc/IPED" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        sepinf-inc /
+        NousResearch /
 
-      IPED</a></p>
+      hermes-agent</a></p>
 				<p>
-      IPED Digital Forensic Tool. It is an open source software that can be used to process and analyze digital evidence, often seized at crime scenes by law enforcement or in a corporate investigation by private examiners.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2312</span>
-						<span>🔱 397</span>
-					</div>
-				<div class="stars-today">⭐ 273 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 302021</span>
-						<span>🔱 57054</span>
-					</div>
-				<div class="stars-today">⭐ 9080 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3850</span>
-						<span>🔱 148</span>
-					</div>
-				<div class="stars-today">⭐ 939 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29028</span>
-						<span>🔱 3455</span>
+						<span>⭐ 4581</span>
+						<span>🔱 555</span>
 					</div>
-				<div class="stars-today">⭐ 1413 stars today</div>
+				<div class="stars-today">⭐ 1204 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">
+    
+
+
+      
+        AstrBotDevs /
+
+      AstrBot</a></p>
+				<p>
+      Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20771</span>
+						<span>🔱 1499</span>
+					</div>
+				<div class="stars-today">⭐ 337 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第11周
-date: 2026-03-11T10:25:08Z
+date: 2026-03-11T12:27:23Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 27627</span>
-						<span>🔱 4344</span>
+						<span>⭐ 28015</span>
+						<span>🔱 4388</span>
 					</div>
 				<div class="stars-today">⭐ 19856 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15768</span>
-						<span>🔱 1654</span>
+						<span>⭐ 15994</span>
+						<span>🔱 1688</span>
 					</div>
 				<div class="stars-today">⭐ 8983 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32450</span>
-						<span>🔱 3186</span>
+						<span>⭐ 32511</span>
+						<span>🔱 3192</span>
 					</div>
 				<div class="stars-today">⭐ 10249 stars this week</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15919</span>
+						<span>⭐ 15931</span>
 						<span>🔱 4017</span>
 					</div>
 				<div class="stars-today">⭐ 2810 stars this week</div>
@@ -104,46 +104,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
     
 
 
       
-        ruvnet /
+        TheCraigHewitt /
 
-      RuView</a></p>
+      seomachine</a></p>
 				<p>
-      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 34638</span>
-						<span>🔱 4709</span>
-					</div>
-				<div class="stars-today">⭐ 9844 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
-    
-
-
-      
-        teng-lin /
-
-      notebooklm-py</a></p>
-				<p>
-      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4877</span>
-						<span>🔱 594</span>
+						<span>⭐ 2476</span>
+						<span>🔱 412</span>
 					</div>
-				<div class="stars-today">⭐ 2068 stars this week</div>
+				<div class="stars-today">⭐ 1521 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15390</span>
-						<span>🔱 1478</span>
+						<span>⭐ 15396</span>
+						<span>🔱 1479</span>
 					</div>
 				<div class="stars-today">⭐ 1835 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
+    
+
+
+      
+        teng-lin /
+
+      notebooklm-py</a></p>
+				<p>
+      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4902</span>
+						<span>🔱 597</span>
+					</div>
+				<div class="stars-today">⭐ 2068 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47904</span>
+						<span>🔱 8337</span>
+					</div>
+				<div class="stars-today">⭐ 1399 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4158</span>
+						<span>🔱 459</span>
+					</div>
+				<div class="stars-today">⭐ 1561 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4581</span>
+						<span>🔱 555</span>
+					</div>
+				<div class="stars-today">⭐ 1814 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      BettaFish</a></p>
+				<p>
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38059</span>
+						<span>🔱 7130</span>
+					</div>
+				<div class="stars-today">⭐ 1886 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29028</span>
-						<span>🔱 3455</span>
+						<span>⭐ 29088</span>
+						<span>🔱 3466</span>
 					</div>
 				<div class="stars-today">⭐ 4339 stars this week</div>
 				</div>
@@ -206,98 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32686</span>
-						<span>🔱 3509</span>
+						<span>⭐ 32692</span>
+						<span>🔱 3510</span>
 					</div>
 				<div class="stars-today">⭐ 3187 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
-    
-
-
-      
-        alirezarezvani /
-
-      claude-skills</a></p>
-				<p>
-      +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4133</span>
-						<span>🔱 456</span>
-					</div>
-				<div class="stars-today">⭐ 1561 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7462</span>
-						<span>🔱 549</span>
-					</div>
-				<div class="stars-today">⭐ 2349 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25089</span>
-						<span>🔱 4541</span>
-					</div>
-				<div class="stars-today">⭐ 4137 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4437</span>
-						<span>🔱 544</span>
-					</div>
-				<div class="stars-today">⭐ 1814 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4657</span>
-						<span>🔱 388</span>
+						<span>⭐ 4667</span>
+						<span>🔱 390</span>
 					</div>
 				<div class="stars-today">⭐ 1018 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 34718</span>
+						<span>🔱 4724</span>
+					</div>
+				<div class="stars-today">⭐ 9844 stars this week</div>
 				</div>
 			</div>
 	
