@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-12T10:25:13Z
+date: 2026-03-12T12:26:02Z
 categories:
 - monthly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 35372</span>
-						<span>🔱 4810</span>
+						<span>⭐ 35432</span>
+						<span>🔱 4825</span>
 					</div>
 				<div class="stars-today">⭐ 29197 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 13564</span>
+						<span>🔱 1271</span>
+					</div>
+				<div class="stars-today">⭐ 11046 stars this month</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32860</span>
-						<span>🔱 3237</span>
+						<span>⭐ 32890</span>
+						<span>🔱 3240</span>
 					</div>
 				<div class="stars-today">⭐ 15333 stars this month</div>
 				</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29602</span>
-						<span>🔱 3559</span>
+						<span>⭐ 29635</span>
+						<span>🔱 3567</span>
 					</div>
 				<div class="stars-today">⭐ 9499 stars this month</div>
 				</div>
@@ -96,10 +118,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 306166</span>
-						<span>🔱 57885</span>
+						<span>⭐ 306515</span>
+						<span>🔱 57957</span>
 					</div>
 				<div class="stars-today">⭐ 121269 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8843</span>
+						<span>🔱 533</span>
+					</div>
+				<div class="stars-today">⭐ 7618 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,30 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6359</span>
-						<span>🔱 406</span>
+						<span>⭐ 6366</span>
+						<span>🔱 407</span>
 					</div>
 				<div class="stars-today">⭐ 5146 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8837</span>
-						<span>🔱 531</span>
-					</div>
-				<div class="stars-today">⭐ 7618 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7570</span>
+						<span>⭐ 7587</span>
 						<span>🔱 558</span>
 					</div>
 				<div class="stars-today">⭐ 6445 stars this month</div>
@@ -182,32 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11288</span>
-						<span>🔱 1175</span>
+						<span>⭐ 11298</span>
+						<span>🔱 1177</span>
 					</div>
 				<div class="stars-today">⭐ 6266 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 22622</span>
-						<span>🔱 2392</span>
-					</div>
-				<div class="stars-today">⭐ 11844 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +226,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5920</span>
-						<span>🔱 456</span>
+						<span>⭐ 5952</span>
+						<span>🔱 457</span>
 					</div>
 				<div class="stars-today">⭐ 4676 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17761</span>
+						<span>🔱 1899</span>
+					</div>
+				<div class="stars-today">⭐ 12466 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+    
+
+
+      
+        badlogic /
+
+      pi-mono</a></p>
+				<p>
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 22650</span>
+						<span>🔱 2397</span>
+					</div>
+				<div class="stars-today">⭐ 11844 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      Open-source AI coworker, with memory
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9125</span>
+						<span>🔱 777</span>
+					</div>
+				<div class="stars-today">⭐ 4268 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25383</span>
+						<span>🔱 4571</span>
+					</div>
+				<div class="stars-today">⭐ 8378 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 78916</span>
-						<span>🔱 6099</span>
+						<span>⭐ 79083</span>
+						<span>🔱 6118</span>
 					</div>
 				<div class="stars-today">⭐ 28269 stars this month</div>
 				</div>
@@ -270,120 +358,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 130377</span>
-						<span>🔱 33165</span>
+						<span>⭐ 130388</span>
+						<span>🔱 33171</span>
 					</div>
 				<div class="stars-today">⭐ 16601 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25358</span>
-						<span>🔱 4568</span>
-					</div>
-				<div class="stars-today">⭐ 8378 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/superset-sh/superset" target="_blank">
-    
-
-
-      
-        superset-sh /
-
-      superset</a></p>
-				<p>
-      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6686</span>
-						<span>🔱 450</span>
-					</div>
-				<div class="stars-today">⭐ 5125 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/github/gh-aw" target="_blank">
-    
-
-
-      
-        github /
-
-      gh-aw</a></p>
-				<p>
-      GitHub Agentic Workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 4069</span>
-						<span>🔱 288</span>
-					</div>
-				<div class="stars-today">⭐ 2562 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17649</span>
-						<span>🔱 1889</span>
-					</div>
-				<div class="stars-today">⭐ 12466 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/gogcli" target="_blank">
-    
-
-
-      
-        steipete /
-
-      gogcli</a></p>
-				<p>
-      Google Suite CLI: Gmail, GCal, GDrive, GContacts.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 6204</span>
-						<span>🔱 468</span>
-					</div>
-				<div class="stars-today">⭐ 4573 stars this month</div>
 				</div>
 			</div>
 	
