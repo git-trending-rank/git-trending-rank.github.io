@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-13T10:21:32Z
+date: 2026-03-13T12:26:31Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 35959</span>
-						<span>🔱 4922</span>
+						<span>⭐ 36004</span>
+						<span>🔱 4927</span>
 					</div>
 				<div class="stars-today">⭐ 29894 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      practice made claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 14105</span>
-						<span>🔱 1327</span>
-					</div>
-				<div class="stars-today">⭐ 11250 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33180</span>
-						<span>🔱 3270</span>
+						<span>⭐ 33215</span>
+						<span>🔱 3272</span>
 					</div>
 				<div class="stars-today">⭐ 15697 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 14209</span>
+						<span>🔱 1337</span>
+					</div>
+				<div class="stars-today">⭐ 11250 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30082</span>
-						<span>🔱 3639</span>
+						<span>⭐ 30120</span>
+						<span>🔱 3640</span>
 					</div>
 				<div class="stars-today">⭐ 10001 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 309557</span>
-						<span>🔱 58736</span>
+						<span>⭐ 309798</span>
+						<span>🔱 58806</span>
 					</div>
 				<div class="stars-today">⭐ 122281 stars this month</div>
 				</div>
@@ -138,7 +138,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8913</span>
+						<span>⭐ 8923</span>
 						<span>🔱 534</span>
 					</div>
 				<div class="stars-today">⭐ 7684 stars this month</div>
@@ -146,46 +146,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        Jeffallan /
+        666ghj /
 
-      claude-skills</a></p>
+      MiroFish</a></p>
 				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6493</span>
-						<span>🔱 414</span>
+						<span>⭐ 20701</span>
+						<span>🔱 2237</span>
 					</div>
-				<div class="stars-today">⭐ 5009 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7689</span>
-						<span>🔱 567</span>
-					</div>
-				<div class="stars-today">⭐ 6553 stars this month</div>
+				<div class="stars-today">⭐ 14154 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12428</span>
-						<span>🔱 1279</span>
+						<span>⭐ 12530</span>
+						<span>🔱 1286</span>
 					</div>
 				<div class="stars-today">⭐ 6358 stars this month</div>
 				</div>
@@ -226,32 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7793</span>
-						<span>🔱 551</span>
+						<span>⭐ 8021</span>
+						<span>🔱 561</span>
 					</div>
 				<div class="stars-today">⭐ 4853 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
     
 
 
       
-        666ghj /
+        alibaba /
 
-      MiroFish</a></p>
+      OpenSandbox</a></p>
 				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20402</span>
-						<span>🔱 2199</span>
+						<span>⭐ 7700</span>
+						<span>🔱 568</span>
 					</div>
-				<div class="stars-today">⭐ 14154 stars this month</div>
+				<div class="stars-today">⭐ 6553 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills</a></p>
+				<p>
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6508</span>
+						<span>🔱 414</span>
+					</div>
+				<div class="stars-today">⭐ 5009 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23098</span>
-						<span>🔱 2440</span>
+						<span>⭐ 23146</span>
+						<span>🔱 2443</span>
 					</div>
 				<div class="stars-today">⭐ 11725 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      Open-source AI coworker, with memory
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9174</span>
-						<span>🔱 780</span>
-					</div>
-				<div class="stars-today">⭐ 4245 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25807</span>
-						<span>🔱 4632</span>
+						<span>⭐ 25844</span>
+						<span>🔱 4633</span>
 					</div>
 				<div class="stars-today">⭐ 8580 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 80993</span>
-						<span>🔱 6282</span>
-					</div>
-				<div class="stars-today">⭐ 29296 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,10 +314,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 130637</span>
-						<span>🔱 33204</span>
+						<span>⭐ 130655</span>
+						<span>🔱 33206</span>
 					</div>
 				<div class="stars-today">⭐ 16688 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 81146</span>
+						<span>🔱 6294</span>
+					</div>
+				<div class="stars-today">⭐ 29296 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/superset-sh/superset" target="_blank">
+    
+
+
+      
+        superset-sh /
+
+      superset</a></p>
+				<p>
+      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6783</span>
+						<span>🔱 462</span>
+					</div>
+				<div class="stars-today">⭐ 5242 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      Open-source AI coworker, with memory
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9184</span>
+						<span>🔱 781</span>
+					</div>
+				<div class="stars-today">⭐ 4245 stars this month</div>
 				</div>
 			</div>
 	

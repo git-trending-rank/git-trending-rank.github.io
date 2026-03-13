@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第11周
-date: 2026-03-13T10:21:31Z
+date: 2026-03-13T12:26:30Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 37350</span>
-						<span>🔱 5639</span>
-					</div>
-				<div class="stars-today">⭐ 26046 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20402</span>
-						<span>🔱 2199</span>
+						<span>⭐ 20701</span>
+						<span>🔱 2237</span>
 					</div>
 				<div class="stars-today">⭐ 13400 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 37871</span>
+						<span>🔱 5699</span>
+					</div>
+				<div class="stars-today">⭐ 26046 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,164 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16112</span>
+						<span>⭐ 16118</span>
 						<span>🔱 4043</span>
 					</div>
 				<div class="stars-today">⭐ 3254 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33180</span>
-						<span>🔱 3270</span>
-					</div>
-				<div class="stars-today">⭐ 6582 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48644</span>
-						<span>🔱 8483</span>
-					</div>
-				<div class="stars-today">⭐ 2347 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6484</span>
-						<span>🔱 722</span>
-					</div>
-				<div class="stars-today">⭐ 4144 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      BettaFish</a></p>
-				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38442</span>
-						<span>🔱 7190</span>
-					</div>
-				<div class="stars-today">⭐ 2284 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/QwenLM/Qwen-Agent" target="_blank">
-    
-
-
-      
-        QwenLM /
-
-      Qwen-Agent</a></p>
-				<p>
-      Agent framework and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15572</span>
-						<span>🔱 1492</span>
-					</div>
-				<div class="stars-today">⭐ 1930 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
-    
-
-
-      
-        teng-lin /
-
-      notebooklm-py</a></p>
-				<p>
-      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5391</span>
-						<span>🔱 657</span>
-					</div>
-				<div class="stars-today">⭐ 2283 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30082</span>
-						<span>🔱 3639</span>
-					</div>
-				<div class="stars-today">⭐ 5125 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33131</span>
-						<span>🔱 2787</span>
+						<span>⭐ 33260</span>
+						<span>🔱 2800</span>
 					</div>
 				<div class="stars-today">⭐ 2572 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        alirezarezvani /
+        NousResearch /
 
-      claude-skills</a></p>
+      hermes-agent</a></p>
 				<p>
-      +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4762</span>
-						<span>🔱 527</span>
+						<span>⭐ 6530</span>
+						<span>🔱 723</span>
 					</div>
-				<div class="stars-today">⭐ 1970 stars this week</div>
+				<div class="stars-today">⭐ 4144 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48657</span>
+						<span>🔱 8488</span>
+					</div>
+				<div class="stars-today">⭐ 2347 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      BettaFish</a></p>
+				<p>
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38452</span>
+						<span>🔱 7190</span>
+					</div>
+				<div class="stars-today">⭐ 2284 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14410</span>
-						<span>🔱 1310</span>
+						<span>⭐ 14565</span>
+						<span>🔱 1319</span>
 					</div>
 				<div class="stars-today">⭐ 2034 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        TheCraigHewitt /
+        bytedance /
 
-      seomachine</a></p>
+      deer-flow</a></p>
 				<p>
-      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2673</span>
-						<span>🔱 428</span>
+						<span>⭐ 30120</span>
+						<span>🔱 3640</span>
 					</div>
-				<div class="stars-today">⭐ 1288 stars this week</div>
+				<div class="stars-today">⭐ 5125 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/inclusionAI/AReaL" target="_blank">
+				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
     
 
 
       
-        inclusionAI /
+        teng-lin /
 
-      AReaL</a></p>
+      notebooklm-py</a></p>
 				<p>
-      Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
+      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4771</span>
-						<span>🔱 404</span>
+						<span>⭐ 5409</span>
+						<span>🔱 659</span>
 					</div>
-				<div class="stars-today">⭐ 773 stars this week</div>
+				<div class="stars-today">⭐ 2283 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      +180 production-ready skills & plugins for Claude Code, OpenAI Codex, and OpenClaw — engineering, marketing, product, compliance, C-level advisory, and more. Install via /plugin marketplace.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4789</span>
+						<span>🔱 531</span>
+					</div>
+				<div class="stars-today">⭐ 1970 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33215</span>
+						<span>🔱 3272</span>
+					</div>
+				<div class="stars-today">⭐ 6582 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
+    
+
+
+      
+        fishaudio /
+
+      fish-speech</a></p>
+				<p>
+      SOTA Open Source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26659</span>
+						<span>🔱 2237</span>
+					</div>
+				<div class="stars-today">⭐ 1115 stars this week</div>
 				</div>
 			</div>
 	

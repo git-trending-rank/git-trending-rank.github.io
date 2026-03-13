@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-13
-date: 2026-03-13T10:21:31Z
+date: 2026-03-13T12:26:31Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33131</span>
-						<span>🔱 2787</span>
+						<span>⭐ 33260</span>
+						<span>🔱 2800</span>
 					</div>
-				<div class="stars-today">⭐ 2149 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
-    
-
-
-      
-        fishaudio /
-
-      fish-speech</a></p>
-				<p>
-      SOTA Open Source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26637</span>
-						<span>🔱 2237</span>
-					</div>
-				<div class="stars-today">⭐ 637 stars today</div>
+				<div class="stars-today">⭐ 2223 stars today</div>
 				</div>
 			</div>
 	
@@ -74,76 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1883</span>
-						<span>🔱 180</span>
+						<span>⭐ 1943</span>
+						<span>🔱 185</span>
 					</div>
-				<div class="stars-today">⭐ 322 stars today</div>
+				<div class="stars-today">⭐ 905 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
     
 
 
       
-        InsForge /
+        lightpanda-io /
 
-      InsForge</a></p>
+      browser</a></p>
 				<p>
-      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+      Lightpanda: the headless browser designed for AI and automation
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3365</span>
-						<span>🔱 330</span>
+						<span>🔠 Zig</span>
+						<span>⭐ 14350</span>
+						<span>🔱 489</span>
 					</div>
-				<div class="stars-today">⭐ 263 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
-    
-
-
-      
-        vectorize-io /
-
-      hindsight</a></p>
-				<p>
-      Hindsight: Agent Memory That Learns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3332</span>
-						<span>🔱 240</span>
-					</div>
-				<div class="stars-today">⭐ 217 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6832</span>
-						<span>🔱 530</span>
-					</div>
-				<div class="stars-today">⭐ 1205 stars today</div>
+				<div class="stars-today">⭐ 1175 stars today</div>
 				</div>
 			</div>
 	
@@ -162,76 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 80993</span>
-						<span>🔱 6282</span>
+						<span>⭐ 81146</span>
+						<span>🔱 6294</span>
 					</div>
-				<div class="stars-today">⭐ 1706 stars today</div>
+				<div class="stars-today">⭐ 2096 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
     
 
 
       
-        NousResearch /
+        public-apis /
 
-      hermes-agent</a></p>
+      public-apis</a></p>
 				<p>
-      The agent that grows with you
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6484</span>
-						<span>🔱 722</span>
+						<span>⭐ 408873</span>
+						<span>🔱 44155</span>
 					</div>
-				<div class="stars-today">⭐ 1264 stars today</div>
+				<div class="stars-today">⭐ 895 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
     
 
 
       
-        666ghj /
+        promptfoo /
 
-      MiroFish</a></p>
+      promptfoo</a></p>
 				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20402</span>
-						<span>🔱 2199</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14565</span>
+						<span>🔱 1319</span>
 					</div>
-				<div class="stars-today">⭐ 1857 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      LiteRT</a></p>
-				<p>
-      LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1756</span>
-						<span>🔱 221</span>
-					</div>
-				<div class="stars-today">⭐ 13 stars today</div>
+				<div class="stars-today">⭐ 503 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 37350</span>
-						<span>🔱 5639</span>
+						<span>⭐ 37871</span>
+						<span>🔱 5699</span>
 					</div>
-				<div class="stars-today">⭐ 4168 stars today</div>
+				<div class="stars-today">⭐ 5758 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dolthub/dolt" target="_blank">
+    
+
+
+      
+        dolthub /
+
+      dolt</a></p>
+				<p>
+      Dolt – Git for Data
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 20855</span>
+						<span>🔱 665</span>
+					</div>
+				<div class="stars-today">⭐ 58 stars today</div>
 				</div>
 			</div>
 	
@@ -270,10 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12869</span>
-						<span>🔱 970</span>
+						<span>⭐ 12901</span>
+						<span>🔱 971</span>
 					</div>
-				<div class="stars-today">⭐ 225 stars today</div>
+				<div class="stars-today">⭐ 629 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
+    
+
+
+      
+        fishaudio /
+
+      fish-speech</a></p>
+				<p>
+      SOTA Open Source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26659</span>
+						<span>🔱 2237</span>
+					</div>
+				<div class="stars-today">⭐ 556 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6920</span>
+						<span>🔱 537</span>
+					</div>
+				<div class="stars-today">⭐ 1467 stars today</div>
 				</div>
 			</div>
 	
@@ -292,10 +270,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10532</span>
-						<span>🔱 1060</span>
+						<span>⭐ 10579</span>
+						<span>🔱 1062</span>
 					</div>
-				<div class="stars-today">⭐ 150 stars today</div>
+				<div class="stars-today">⭐ 651 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">
+    
+
+
+      
+        AstrBotDevs /
+
+      AstrBot</a></p>
+				<p>
+      Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23458</span>
+						<span>🔱 1606</span>
+					</div>
+				<div class="stars-today">⭐ 1770 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
+    
+
+
+      
+        vectorize-io /
+
+      hindsight</a></p>
+				<p>
+      Hindsight: Agent Memory That Learns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3372</span>
+						<span>🔱 241</span>
+					</div>
+				<div class="stars-today">⭐ 597 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
+    
+
+
+      
+        InsForge /
+
+      InsForge</a></p>
+				<p>
+      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3405</span>
+						<span>🔱 332</span>
+					</div>
+				<div class="stars-today">⭐ 763 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT</a></p>
+				<p>
+      LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1773</span>
+						<span>🔱 222</span>
+					</div>
+				<div class="stars-today">⭐ 208 stars today</div>
 				</div>
 			</div>
 	
