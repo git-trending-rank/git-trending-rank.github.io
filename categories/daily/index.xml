@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Fri, 13 Mar 2026 10:21:31 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 13 Mar 2026 12:26:31 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-03-13</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-03-13/</link>
-        <pubDate>Fri, 13 Mar 2026 10:21:31 +0000</pubDate>
+        <pubDate>Fri, 13 Mar 2026 12:26:31 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-03-13/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,32 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 33131&lt;/span&gt;
-						&lt;span&gt;🔱 2787&lt;/span&gt;
+						&lt;span&gt;⭐ 33260&lt;/span&gt;
+						&lt;span&gt;🔱 2800&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2149 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/fishaudio/fish-speech&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        fishaudio /
-
-      fish-speech&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      SOTA Open Source TTS
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 26637&lt;/span&gt;
-						&lt;span&gt;🔱 2237&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 637 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2223 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,76 +55,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1883&lt;/span&gt;
-						&lt;span&gt;🔱 180&lt;/span&gt;
+						&lt;span&gt;⭐ 1943&lt;/span&gt;
+						&lt;span&gt;🔱 185&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 322 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 905 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/InsForge/InsForge&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lightpanda-io/browser&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        InsForge /
+        lightpanda-io /
 
-      InsForge&lt;/a&gt;&lt;/p&gt;
+      browser&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+      Lightpanda: the headless browser designed for AI and automation
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3365&lt;/span&gt;
-						&lt;span&gt;🔱 330&lt;/span&gt;
+						&lt;span&gt;🔠 Zig&lt;/span&gt;
+						&lt;span&gt;⭐ 14350&lt;/span&gt;
+						&lt;span&gt;🔱 489&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 263 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vectorize-io/hindsight&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        vectorize-io /
-
-      hindsight&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Hindsight: Agent Memory That Learns
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3332&lt;/span&gt;
-						&lt;span&gt;🔱 240&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 217 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/alibaba/page-agent&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        alibaba /
-
-      page-agent&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6832&lt;/span&gt;
-						&lt;span&gt;🔱 530&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1205 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1175 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,76 +99,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 80993&lt;/span&gt;
-						&lt;span&gt;🔱 6282&lt;/span&gt;
+						&lt;span&gt;⭐ 81146&lt;/span&gt;
+						&lt;span&gt;🔱 6294&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1706 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2096 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/public-apis/public-apis&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        NousResearch /
+        public-apis /
 
-      hermes-agent&lt;/a&gt;&lt;/p&gt;
+      public-apis&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The agent that grows with you
+      A collective list of free APIs
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6484&lt;/span&gt;
-						&lt;span&gt;🔱 722&lt;/span&gt;
+						&lt;span&gt;⭐ 408873&lt;/span&gt;
+						&lt;span&gt;🔱 44155&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1264 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 895 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/666ghj/MiroFish&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/promptfoo/promptfoo&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        666ghj /
+        promptfoo /
 
-      MiroFish&lt;/a&gt;&lt;/p&gt;
+      promptfoo&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 20402&lt;/span&gt;
-						&lt;span&gt;🔱 2199&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 14565&lt;/span&gt;
+						&lt;span&gt;🔱 1319&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1857 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/LiteRT&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        google-ai-edge /
-
-      LiteRT&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      LiteRT, successor to TensorFlow Lite. is Google&#39;s On-device framework for high-performance ML &amp; GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 1756&lt;/span&gt;
-						&lt;span&gt;🔱 221&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 503 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,10 +165,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 37350&lt;/span&gt;
-						&lt;span&gt;🔱 5639&lt;/span&gt;
+						&lt;span&gt;⭐ 37871&lt;/span&gt;
+						&lt;span&gt;🔱 5699&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4168 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5758 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/dolthub/dolt&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        dolthub /
+
+      dolt&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Dolt – Git for Data
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 20855&lt;/span&gt;
+						&lt;span&gt;🔱 665&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 58 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -273,10 +207,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 12869&lt;/span&gt;
-						&lt;span&gt;🔱 970&lt;/span&gt;
+						&lt;span&gt;⭐ 12901&lt;/span&gt;
+						&lt;span&gt;🔱 971&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 225 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 629 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/fishaudio/fish-speech&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        fishaudio /
+
+      fish-speech&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      SOTA Open Source TTS
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 26659&lt;/span&gt;
+						&lt;span&gt;🔱 2237&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 556 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/alibaba/page-agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        alibaba /
+
+      page-agent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 6920&lt;/span&gt;
+						&lt;span&gt;🔱 537&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1467 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -295,10 +273,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10532&lt;/span&gt;
-						&lt;span&gt;🔱 1060&lt;/span&gt;
+						&lt;span&gt;⭐ 10579&lt;/span&gt;
+						&lt;span&gt;🔱 1062&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 150 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 651 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/AstrBotDevs/AstrBot&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        AstrBotDevs /
+
+      AstrBot&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 23458&lt;/span&gt;
+						&lt;span&gt;🔱 1606&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1770 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vectorize-io/hindsight&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vectorize-io /
+
+      hindsight&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Hindsight: Agent Memory That Learns
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3372&lt;/span&gt;
+						&lt;span&gt;🔱 241&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 597 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/InsForge/InsForge&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        InsForge /
+
+      InsForge&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3405&lt;/span&gt;
+						&lt;span&gt;🔱 332&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 763 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/LiteRT&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LiteRT, successor to TensorFlow Lite. is Google&#39;s On-device framework for high-performance ML &amp; GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 1773&lt;/span&gt;
+						&lt;span&gt;🔱 222&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 208 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
