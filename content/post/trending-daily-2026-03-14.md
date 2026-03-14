@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-14
-date: 2026-03-14T20:01:05Z
+date: 2026-03-14T22:01:11Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10232</span>
-						<span>🔱 704</span>
+						<span>⭐ 10360</span>
+						<span>🔱 711</span>
 					</div>
 				<div class="stars-today">⭐ 1557 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11177</span>
-						<span>🔱 1106</span>
+						<span>⭐ 11233</span>
+						<span>🔱 1107</span>
 					</div>
 				<div class="stars-today">⭐ 411 stars today</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 811</span>
+						<span>⭐ 830</span>
 						<span>🔱 153</span>
 					</div>
 				<div class="stars-today">⭐ 64 stars today</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13537</span>
-						<span>🔱 1375</span>
+						<span>⭐ 13637</span>
+						<span>🔱 1383</span>
 					</div>
 				<div class="stars-today">⭐ 661 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2636</span>
-						<span>🔱 244</span>
+						<span>⭐ 2669</span>
+						<span>🔱 245</span>
 					</div>
 				<div class="stars-today">⭐ 568 stars today</div>
 				</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 16884</span>
-						<span>🔱 619</span>
+						<span>⭐ 16974</span>
+						<span>🔱 625</span>
 					</div>
 				<div class="stars-today">⭐ 2100 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8102</span>
+						<span>🔱 314</span>
+					</div>
+				<div class="stars-today">⭐ 781 stars today</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 43290</span>
-						<span>🔱 6480</span>
+						<span>⭐ 43456</span>
+						<span>🔱 6508</span>
 					</div>
 				<div class="stars-today">⭐ 4329 stars today</div>
 				</div>
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27159</span>
+						<span>⭐ 27180</span>
 						<span>🔱 2272</span>
 					</div>
 				<div class="stars-today">⭐ 377 stars today</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4064</span>
-						<span>🔱 425</span>
+						<span>⭐ 4103</span>
+						<span>🔱 427</span>
 					</div>
 				<div class="stars-today">⭐ 477 stars today</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 83126</span>
-						<span>🔱 6487</span>
+						<span>⭐ 83259</span>
+						<span>🔱 6490</span>
 					</div>
 				<div class="stars-today">⭐ 1451 stars today</div>
 				</div>
