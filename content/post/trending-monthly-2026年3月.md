@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-14T10:13:27Z
+date: 2026-03-14T12:00:48Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37567</span>
+						<span>🔱 6267</span>
+					</div>
+				<div class="stars-today">⭐ 33441 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
@@ -30,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36383</span>
-						<span>🔱 4994</span>
+						<span>⭐ 36414</span>
+						<span>🔱 4999</span>
 					</div>
 				<div class="stars-today">⭐ 30426 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33423</span>
-						<span>🔱 3301</span>
-					</div>
-				<div class="stars-today">⭐ 15998 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 15489</span>
-						<span>🔱 1418</span>
+						<span>⭐ 15590</span>
+						<span>🔱 1422</span>
 					</div>
 				<div class="stars-today">⭐ 11835 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33440</span>
+						<span>🔱 3304</span>
+					</div>
+				<div class="stars-today">⭐ 15998 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,52 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30347</span>
-						<span>🔱 3671</span>
+						<span>⭐ 30375</span>
+						<span>🔱 3674</span>
 					</div>
 				<div class="stars-today">⭐ 10463 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 311830</span>
-						<span>🔱 59367</span>
-					</div>
-				<div class="stars-today">⭐ 122536 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8968</span>
-						<span>🔱 536</span>
-					</div>
-				<div class="stars-today">⭐ 7760 stars this month</div>
 				</div>
 			</div>
 	
@@ -160,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22582</span>
-						<span>🔱 2480</span>
+						<span>⭐ 22736</span>
+						<span>🔱 2500</span>
 					</div>
 				<div class="stars-today">⭐ 17090 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13138</span>
-						<span>🔱 1337</span>
-					</div>
-				<div class="stars-today">⭐ 7591 stars this month</div>
 				</div>
 			</div>
 	
@@ -204,10 +162,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9433</span>
-						<span>🔱 654</span>
+						<span>⭐ 9557</span>
+						<span>🔱 660</span>
 					</div>
 				<div class="stars-today">⭐ 6972 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8974</span>
+						<span>🔱 536</span>
+					</div>
+				<div class="stars-today">⭐ 7760 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      openclaw</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 312040</span>
+						<span>🔱 59417</span>
+					</div>
+				<div class="stars-today">⭐ 122536 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13188</span>
+						<span>🔱 1339</span>
+					</div>
+				<div class="stars-today">⭐ 7591 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7777</span>
+						<span>⭐ 7782</span>
 						<span>🔱 576</span>
 					</div>
 				<div class="stars-today">⭐ 6654 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6641</span>
-						<span>🔱 420</span>
-					</div>
-				<div class="stars-today">⭐ 4534 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23493</span>
-						<span>🔱 2477</span>
+						<span>⭐ 23520</span>
+						<span>🔱 2479</span>
 					</div>
 				<div class="stars-today">⭐ 11800 stars this month</div>
 				</div>
@@ -292,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26507</span>
-						<span>🔱 4701</span>
+						<span>⭐ 26562</span>
+						<span>🔱 4713</span>
 					</div>
 				<div class="stars-today">⭐ 8984 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 130876</span>
-						<span>🔱 33239</span>
-					</div>
-				<div class="stars-today">⭐ 16833 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,54 +314,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 82407</span>
-						<span>🔱 6422</span>
+						<span>⭐ 82499</span>
+						<span>🔱 6432</span>
 					</div>
 				<div class="stars-today">⭐ 30770 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/superset-sh/superset" target="_blank">
+				<p><a href="https://github.com/SynkraAI/aiox-core" target="_blank">
     
 
 
       
-        superset-sh /
+        SynkraAI /
 
-      superset</a></p>
+      aiox-core</a></p>
 				<p>
-      IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6934</span>
-						<span>🔱 478</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2266</span>
+						<span>🔱 754</span>
 					</div>
-				<div class="stars-today">⭐ 5297 stars this month</div>
+				<div class="stars-today">⭐ 1901 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
     
 
 
       
-        rowboatlabs /
+        x1xhlol /
 
-      rowboat</a></p>
+      system-prompts-and-models-of-ai-tools</a></p>
 				<p>
-      Open-source AI coworker, with memory
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9229</span>
-						<span>🔱 786</span>
+						<span>🔠 </span>
+						<span>⭐ 130895</span>
+						<span>🔱 33242</span>
 					</div>
-				<div class="stars-today">⭐ 3846 stars this month</div>
+				<div class="stars-today">⭐ 16833 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
+    
+
+
+      
+        Jeffallan /
+
+      claude-skills</a></p>
+				<p>
+      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6646</span>
+						<span>🔱 420</span>
+					</div>
+				<div class="stars-today">⭐ 4534 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第11周
-date: 2026-03-14T10:13:27Z
+date: 2026-03-14T12:00:48Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22582</span>
-						<span>🔱 2480</span>
+						<span>⭐ 22736</span>
+						<span>🔱 2500</span>
 					</div>
 				<div class="stars-today">⭐ 16057 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 41681</span>
-						<span>🔱 6272</span>
+						<span>⭐ 41958</span>
+						<span>🔱 6310</span>
 					</div>
 				<div class="stars-today">⭐ 29233 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      generative-ai</a></p>
-				<p>
-      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16148</span>
-						<span>🔱 4043</span>
-					</div>
-				<div class="stars-today">⭐ 3285 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34431</span>
-						<span>🔱 2907</span>
+						<span>⭐ 34474</span>
+						<span>🔱 2909</span>
 					</div>
 				<div class="stars-today">⭐ 4722 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      generative-ai</a></p>
+				<p>
+      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16150</span>
+						<span>🔱 4043</span>
+					</div>
+				<div class="stars-today">⭐ 3285 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6906</span>
-						<span>🔱 784</span>
+						<span>⭐ 6945</span>
+						<span>🔱 789</span>
 					</div>
 				<div class="stars-today">⭐ 4787 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48834</span>
-						<span>🔱 8517</span>
-					</div>
-				<div class="stars-today">⭐ 2528 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      BettaFish</a></p>
-				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38565</span>
-						<span>🔱 7204</span>
-					</div>
-				<div class="stars-today">⭐ 2283 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15581</span>
-						<span>🔱 1376</span>
+						<span>⭐ 15633</span>
+						<span>🔱 1377</span>
 					</div>
 				<div class="stars-today">⭐ 3846 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 16326</span>
+						<span>🔱 593</span>
+					</div>
+				<div class="stars-today">⭐ 3406 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      BettaFish</a></p>
+				<p>
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38575</span>
+						<span>🔱 7207</span>
+					</div>
+				<div class="stars-today">⭐ 2283 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48845</span>
+						<span>🔱 8520</span>
+					</div>
+				<div class="stars-today">⭐ 2528 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,76 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30347</span>
-						<span>🔱 3671</span>
+						<span>⭐ 30375</span>
+						<span>🔱 3674</span>
 					</div>
 				<div class="stars-today">⭐ 5236 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
-    
-
-
-      
-        teng-lin /
-
-      notebooklm-py</a></p>
-				<p>
-      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5570</span>
-						<span>🔱 688</span>
-					</div>
-				<div class="stars-today">⭐ 2292 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33423</span>
-						<span>🔱 3301</span>
-					</div>
-				<div class="stars-today">⭐ 4392 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Q00/ouroboros" target="_blank">
-    
-
-
-      
-        Q00 /
-
-      ouroboros</a></p>
-				<p>
-      Stop prompting. Start specifying.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1257</span>
-						<span>🔱 120</span>
-					</div>
-				<div class="stars-today">⭐ 414 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27000</span>
-						<span>🔱 2258</span>
+						<span>⭐ 27030</span>
+						<span>🔱 2260</span>
 					</div>
 				<div class="stars-today">⭐ 1573 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
+    
+
+
+      
+        teng-lin /
+
+      notebooklm-py</a></p>
+				<p>
+      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5586</span>
+						<span>🔱 688</span>
+					</div>
+				<div class="stars-today">⭐ 2292 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9557</span>
+						<span>🔱 660</span>
+					</div>
+				<div class="stars-today">⭐ 4572 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
+    
+
+
+      
+        karpathy /
+
+      nanochat</a></p>
+				<p>
+      The best ChatGPT that $100 can buy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48221</span>
+						<span>🔱 6313</span>
+					</div>
+				<div class="stars-today">⭐ 3311 stars this week</div>
 				</div>
 			</div>
 	

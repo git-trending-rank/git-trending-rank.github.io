@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-14
-date: 2026-03-14T10:13:27Z
+date: 2026-03-14T12:00:48Z
 categories:
 - daily
 keywords:
@@ -16,242 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
     
 
 
       
-        microsoft /
+        volcengine /
 
-      BitNet</a></p>
+      OpenViking</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34431</span>
-						<span>🔱 2907</span>
+						<span>⭐ 9557</span>
+						<span>🔱 660</span>
 					</div>
-				<div class="stars-today">⭐ 2227 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langflow-ai/openrag" target="_blank">
-    
-
-
-      
-        langflow-ai /
-
-      openrag</a></p>
-				<p>
-      OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2449</span>
-						<span>🔱 229</span>
-					</div>
-				<div class="stars-today">⭐ 905 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
-    
-
-
-      
-        lightpanda-io /
-
-      browser</a></p>
-				<p>
-      Lightpanda: the headless browser designed for AI and automation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 16187</span>
-						<span>🔱 587</span>
-					</div>
-				<div class="stars-today">⭐ 2093 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 82407</span>
-						<span>🔱 6422</span>
-					</div>
-				<div class="stars-today">⭐ 2106 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 409894</span>
-						<span>🔱 44278</span>
-					</div>
-				<div class="stars-today">⭐ 892 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
-    
-
-
-      
-        promptfoo /
-
-      promptfoo</a></p>
-				<p>
-      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 15581</span>
-						<span>🔱 1376</span>
-					</div>
-				<div class="stars-today">⭐ 1668 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 41681</span>
-						<span>🔱 6272</span>
-					</div>
-				<div class="stars-today">⭐ 5745 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dolthub/dolt" target="_blank">
-    
-
-
-      
-        dolthub /
-
-      dolt</a></p>
-				<p>
-      Dolt – Git for Data
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 21232</span>
-						<span>🔱 682</span>
-					</div>
-				<div class="stars-today">⭐ 60 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/A2UI" target="_blank">
-    
-
-
-      
-        google /
-
-      A2UI</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13157</span>
-						<span>🔱 985</span>
-					</div>
-				<div class="stars-today">⭐ 635 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
-    
-
-
-      
-        fishaudio /
-
-      fish-speech</a></p>
-				<p>
-      SOTA Open Source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27000</span>
-						<span>🔱 2258</span>
-					</div>
-				<div class="stars-today">⭐ 559 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7994</span>
-						<span>🔱 619</span>
-					</div>
-				<div class="stars-today">⭐ 1468 stars today</div>
+				<div class="stars-today">⭐ 2191 stars today</div>
 				</div>
 			</div>
 	
@@ -270,54 +52,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10946</span>
-						<span>🔱 1092</span>
+						<span>⭐ 10985</span>
+						<span>🔱 1093</span>
 					</div>
-				<div class="stars-today">⭐ 654 stars today</div>
+				<div class="stars-today">⭐ 411 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">
+				<p><a href="https://github.com/dimensionalOS/dimos" target="_blank">
     
 
 
       
-        AstrBotDevs /
+        dimensionalOS /
 
-      AstrBot</a></p>
+      dimos</a></p>
 				<p>
-      Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+      The Dimensional Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24232</span>
-						<span>🔱 1651</span>
+						<span>⭐ 707</span>
+						<span>🔱 142</span>
 					</div>
-				<div class="stars-today">⭐ 1128 stars today</div>
+				<div class="stars-today">⭐ 64 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
     
 
 
       
-        vectorize-io /
+        p-e-w /
 
-      hindsight</a></p>
+      heretic</a></p>
 				<p>
-      Hindsight: Agent Memory That Learns
+      Fully automatic censorship removal for language models
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3825</span>
-						<span>🔱 270</span>
+						<span>⭐ 13188</span>
+						<span>🔱 1339</span>
 					</div>
-				<div class="stars-today">⭐ 595 stars today</div>
+				<div class="stars-today">⭐ 1283 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langflow-ai/openrag" target="_blank">
+    
+
+
+      
+        langflow-ai /
+
+      openrag</a></p>
+				<p>
+      OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2483</span>
+						<span>🔱 233</span>
+					</div>
+				<div class="stars-today">⭐ 568 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 16326</span>
+						<span>🔱 593</span>
+					</div>
+				<div class="stars-today">⭐ 2100 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 41958</span>
+						<span>🔱 6310</span>
+					</div>
+				<div class="stars-today">⭐ 4329 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
+    
+
+
+      
+        fishaudio /
+
+      fish-speech</a></p>
+				<p>
+      SOTA Open Source TTS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27030</span>
+						<span>🔱 2260</span>
+					</div>
+				<div class="stars-today">⭐ 377 stars today</div>
 				</div>
 			</div>
 	
@@ -336,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3770</span>
-						<span>🔱 358</span>
+						<span>⭐ 3874</span>
+						<span>🔱 410</span>
 					</div>
-				<div class="stars-today">⭐ 766 stars today</div>
+				<div class="stars-today">⭐ 477 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        google-ai-edge /
+        obra /
 
-      LiteRT</a></p>
+      superpowers</a></p>
 				<p>
-      LiteRT, successor to TensorFlow Lite. is Google's On-device framework for high-performance ML & GenAI deployment on edge platforms, via efficient conversion, runtime, and optimization
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 1913</span>
-						<span>🔱 236</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 82499</span>
+						<span>🔱 6432</span>
 					</div>
-				<div class="stars-today">⭐ 211 stars today</div>
+				<div class="stars-today">⭐ 1451 stars today</div>
 				</div>
 			</div>
 	
