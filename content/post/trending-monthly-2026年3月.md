@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-15T10:15:25Z
+date: 2026-03-15T12:01:12Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38209</span>
-						<span>🔱 6350</span>
+						<span>⭐ 38262</span>
+						<span>🔱 6359</span>
 					</div>
 				<div class="stars-today">⭐ 33388 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36825</span>
-						<span>🔱 5058</span>
+						<span>⭐ 36863</span>
+						<span>🔱 5059</span>
 					</div>
 				<div class="stars-today">⭐ 30757 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 16376</span>
-						<span>🔱 1469</span>
+						<span>⭐ 16428</span>
+						<span>🔱 1470</span>
 					</div>
 				<div class="stars-today">⭐ 13111 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33686</span>
-						<span>🔱 3342</span>
-					</div>
-				<div class="stars-today">⭐ 16209 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 30699</span>
-						<span>🔱 3702</span>
+						<span>⭐ 30721</span>
+						<span>🔱 3705</span>
 					</div>
 				<div class="stars-today">⭐ 10699 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33705</span>
+						<span>🔱 3344</span>
+					</div>
+				<div class="stars-today">⭐ 16209 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25315</span>
-						<span>🔱 2961</span>
+						<span>⭐ 25539</span>
+						<span>🔱 2999</span>
 					</div>
 				<div class="stars-today">⭐ 19005 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11289</span>
-						<span>🔱 778</span>
+						<span>⭐ 11424</span>
+						<span>🔱 784</span>
 					</div>
 				<div class="stars-today">⭐ 8317 stars this month</div>
 				</div>
@@ -182,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9032</span>
+						<span>⭐ 9037</span>
 						<span>🔱 543</span>
 					</div>
 				<div class="stars-today">⭐ 7807 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 313946</span>
-						<span>🔱 59930</span>
-					</div>
-				<div class="stars-today">⭐ 122130 stars this month</div>
 				</div>
 			</div>
 	
@@ -226,10 +204,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14176</span>
-						<span>🔱 1451</span>
+						<span>⭐ 14239</span>
+						<span>🔱 1455</span>
 					</div>
 				<div class="stars-today">⭐ 8165 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
+    
+
+
+      
+        openclaw /
+
+      openclaw</a></p>
+				<p>
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 314105</span>
+						<span>🔱 59967</span>
+					</div>
+				<div class="stars-today">⭐ 122130 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      zvec</a></p>
+				<p>
+      A lightweight, lightning-fast, in-process vector database
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 8938</span>
+						<span>🔱 506</span>
+					</div>
+				<div class="stars-today">⭐ 7935 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7844</span>
+						<span>⭐ 7850</span>
 						<span>🔱 581</span>
 					</div>
 				<div class="stars-today">⭐ 6722 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
-    
-
-
-      
-        badlogic /
-
-      pi-mono</a></p>
-				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23938</span>
-						<span>🔱 2527</span>
-					</div>
-				<div class="stars-today">⭐ 11806 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +292,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27349</span>
-						<span>🔱 4813</span>
+						<span>⭐ 27423</span>
+						<span>🔱 4826</span>
 					</div>
 				<div class="stars-today">⭐ 9655 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Development at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 23494</span>
+						<span>🔱 904</span>
+					</div>
+				<div class="stars-today">⭐ 4358 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 84174</span>
-						<span>🔱 6583</span>
+						<span>⭐ 84385</span>
+						<span>🔱 6603</span>
 					</div>
 				<div class="stars-today">⭐ 31647 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SynkraAI/aiox-core" target="_blank">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
     
 
 
       
-        SynkraAI /
+        badlogic /
 
-      aiox-core</a></p>
+      pi-mono</a></p>
 				<p>
-      Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2291</span>
-						<span>🔱 758</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23962</span>
+						<span>🔱 2529</span>
 					</div>
-				<div class="stars-today">⭐ 1788 stars this month</div>
+				<div class="stars-today">⭐ 11806 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +380,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 131093</span>
-						<span>🔱 33278</span>
+						<span>⭐ 131112</span>
+						<span>🔱 33283</span>
 					</div>
 				<div class="stars-today">⭐ 16975 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Jeffallan/claude-skills" target="_blank">
-    
-
-
-      
-        Jeffallan /
-
-      claude-skills</a></p>
-				<p>
-      66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6778</span>
-						<span>🔱 425</span>
-					</div>
-				<div class="stars-today">⭐ 4339 stars this month</div>
 				</div>
 			</div>
 	

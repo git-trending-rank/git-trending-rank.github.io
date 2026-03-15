@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第11周
-date: 2026-03-15T10:15:25Z
+date: 2026-03-15T12:01:12Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25315</span>
-						<span>🔱 2961</span>
+						<span>⭐ 25539</span>
+						<span>🔱 2999</span>
 					</div>
 				<div class="stars-today">⭐ 17623 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44937</span>
-						<span>🔱 6708</span>
+						<span>⭐ 45139</span>
+						<span>🔱 6742</span>
 					</div>
 				<div class="stars-today">⭐ 31758 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34613</span>
-						<span>🔱 2926</span>
+						<span>⭐ 34632</span>
+						<span>🔱 2929</span>
 					</div>
 				<div class="stars-today">⭐ 5861 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      generative-ai</a></p>
-				<p>
-      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16184</span>
-						<span>🔱 4047</span>
-					</div>
-				<div class="stars-today">⭐ 2973 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7255</span>
-						<span>🔱 827</span>
+						<span>⭐ 7284</span>
+						<span>🔱 832</span>
 					</div>
 				<div class="stars-today">⭐ 5004 stars this week</div>
 				</div>
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16109</span>
-						<span>🔱 1409</span>
+						<span>⭐ 16151</span>
+						<span>🔱 1412</span>
 					</div>
 				<div class="stars-today">⭐ 4825 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
-    
-
-
-      
-        lightpanda-io /
-
-      browser</a></p>
-				<p>
-      Lightpanda: the headless browser designed for AI and automation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 17545</span>
-						<span>🔱 653</span>
-					</div>
-				<div class="stars-today">⭐ 4334 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38761</span>
-						<span>🔱 7244</span>
+						<span>⭐ 38781</span>
+						<span>🔱 7246</span>
 					</div>
 				<div class="stars-today">⭐ 2261 stars this week</div>
 				</div>
@@ -206,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48935</span>
-						<span>🔱 8542</span>
+						<span>⭐ 48946</span>
+						<span>🔱 8544</span>
 					</div>
 				<div class="stars-today">⭐ 2485 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30699</span>
-						<span>🔱 3702</span>
-					</div>
-				<div class="stars-today">⭐ 5106 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27377</span>
-						<span>🔱 2285</span>
+						<span>⭐ 27401</span>
+						<span>🔱 2286</span>
 					</div>
 				<div class="stars-today">⭐ 1917 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
-    
-
-
-      
-        teng-lin /
-
-      notebooklm-py</a></p>
-				<p>
-      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5749</span>
-						<span>🔱 709</span>
-					</div>
-				<div class="stars-today">⭐ 2293 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11289</span>
-						<span>🔱 778</span>
+						<span>⭐ 11424</span>
+						<span>🔱 784</span>
 					</div>
 				<div class="stars-today">⭐ 4652 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      generative-ai</a></p>
+				<p>
+      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16189</span>
+						<span>🔱 4049</span>
+					</div>
+				<div class="stars-today">⭐ 2973 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 30721</span>
+						<span>🔱 3705</span>
+					</div>
+				<div class="stars-today">⭐ 5106 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48551</span>
-						<span>🔱 6347</span>
+						<span>⭐ 48573</span>
+						<span>🔱 6356</span>
 					</div>
 				<div class="stars-today">⭐ 3628 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
+    
+
+
+      
+        teng-lin /
+
+      notebooklm-py</a></p>
+				<p>
+      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5765</span>
+						<span>🔱 709</span>
+					</div>
+				<div class="stars-today">⭐ 2293 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">
+    
+
+
+      
+        AstrBotDevs /
+
+      AstrBot</a></p>
+				<p>
+      Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24712</span>
+						<span>🔱 1679</span>
+					</div>
+				<div class="stars-today">⭐ 4925 stars this week</div>
 				</div>
 			</div>
 	

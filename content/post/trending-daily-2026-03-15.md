@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-15
-date: 2026-03-15T10:15:24Z
+date: 2026-03-15T12:01:12Z
 categories:
 - daily
 keywords:
@@ -14,116 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11289</span>
-						<span>🔱 778</span>
-					</div>
-				<div class="stars-today">⭐ 1610 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11541</span>
-						<span>🔱 1127</span>
-					</div>
-				<div class="stars-today">⭐ 411 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dimensionalOS/dimos" target="_blank">
-    
-
-
-      
-        dimensionalOS /
-
-      dimos</a></p>
-				<p>
-      Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1006</span>
-						<span>🔱 173</span>
-					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14176</span>
-						<span>🔱 1451</span>
-					</div>
-				<div class="stars-today">⭐ 694 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langflow-ai/openrag" target="_blank">
-    
-
-
-      
-        langflow-ai /
-
-      openrag</a></p>
-				<p>
-      OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2868</span>
-						<span>🔱 261</span>
-					</div>
-				<div class="stars-today">⭐ 564 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
@@ -140,76 +30,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 17545</span>
-						<span>🔱 653</span>
+						<span>⭐ 17616</span>
+						<span>🔱 656</span>
 					</div>
-				<div class="stars-today">⭐ 2069 stars today</div>
+				<div class="stars-today">⭐ 1323 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
     
 
 
       
-        msitarzewski /
+        Crosstalk-Solutions /
 
-      agency-agents</a></p>
+      project-nomad</a></p>
 				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 44937</span>
-						<span>🔱 6708</span>
-					</div>
-				<div class="stars-today">⭐ 4280 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
-    
-
-
-      
-        fishaudio /
-
-      fish-speech</a></p>
-				<p>
-      SOTA Open Source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27377</span>
-						<span>🔱 2285</span>
-					</div>
-				<div class="stars-today">⭐ 381 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
-    
-
-
-      
-        InsForge /
-
-      InsForge</a></p>
-				<p>
-      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4353</span>
-						<span>🔱 443</span>
+						<span>⭐ 689</span>
+						<span>🔱 84</span>
 					</div>
-				<div class="stars-today">⭐ 482 stars today</div>
+				<div class="stars-today">⭐ 230 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11424</span>
+						<span>🔱 784</span>
+					</div>
+				<div class="stars-today">⭐ 1877 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 27423</span>
+						<span>🔱 4826</span>
+					</div>
+				<div class="stars-today">⭐ 865 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 16428</span>
+						<span>🔱 1470</span>
+					</div>
+				<div class="stars-today">⭐ 1329 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +140,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 84174</span>
-						<span>🔱 6583</span>
+						<span>⭐ 84385</span>
+						<span>🔱 6603</span>
 					</div>
-				<div class="stars-today">⭐ 1439 stars today</div>
+				<div class="stars-today">⭐ 1893 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14239</span>
+						<span>🔱 1455</span>
+					</div>
+				<div class="stars-today">⭐ 1066 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25539</span>
+						<span>🔱 2999</span>
+					</div>
+				<div class="stars-today">⭐ 2045 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus</a></p>
+				<p>
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13189</span>
+						<span>🔱 1559</span>
+					</div>
+				<div class="stars-today">⭐ 450 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Knowledge Engine for AI Agent Memory in 6 lines of code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13642</span>
+						<span>🔱 1370</span>
+					</div>
+				<div class="stars-today">⭐ 168 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
+    
+
+
+      
+        InsForge /
+
+      InsForge</a></p>
+				<p>
+      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4370</span>
+						<span>🔱 445</span>
+					</div>
+				<div class="stars-today">⭐ 509 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/voidzero-dev/vite-plus" target="_blank">
+    
+
+
+      
+        voidzero-dev /
+
+      vite-plus</a></p>
+				<p>
+      Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 1403</span>
+						<span>🔱 45</span>
+					</div>
+				<div class="stars-today">⭐ 301 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official</a></p>
+				<p>
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11582</span>
+						<span>🔱 1127</span>
+					</div>
+				<div class="stars-today">⭐ 608 stars today</div>
 				</div>
 			</div>
 	
