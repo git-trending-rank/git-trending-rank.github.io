@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 15 Mar 2026 10:15:24 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 15 Mar 2026 12:01:12 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-03-15</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-03-15/</link>
-        <pubDate>Sun, 15 Mar 2026 10:15:24 +0000</pubDate>
+        <pubDate>Sun, 15 Mar 2026 12:01:12 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-03-15/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,116 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/volcengine/OpenViking&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        volcengine /
-
-      OpenViking&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11289&lt;/span&gt;
-						&lt;span&gt;🔱 778&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1610 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-plugins-official&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 11541&lt;/span&gt;
-						&lt;span&gt;🔱 1127&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 411 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dimensionalOS/dimos&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dimensionalOS /
-
-      dimos&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1006&lt;/span&gt;
-						&lt;span&gt;🔱 173&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 72 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/p-e-w/heretic&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        p-e-w /
-
-      heretic&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Fully automatic censorship removal for language models
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 14176&lt;/span&gt;
-						&lt;span&gt;🔱 1451&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 694 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/langflow-ai/openrag&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        langflow-ai /
-
-      openrag&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2868&lt;/span&gt;
-						&lt;span&gt;🔱 261&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 564 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/lightpanda-io/browser&#34; target=&#34;_blank&#34;&gt;
@@ -143,76 +33,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Zig&lt;/span&gt;
-						&lt;span&gt;⭐ 17545&lt;/span&gt;
-						&lt;span&gt;🔱 653&lt;/span&gt;
+						&lt;span&gt;⭐ 17616&lt;/span&gt;
+						&lt;span&gt;🔱 656&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2069 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1323 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/msitarzewski/agency-agents&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Crosstalk-Solutions/project-nomad&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        msitarzewski /
+        Crosstalk-Solutions /
 
-      agency-agents&lt;/a&gt;&lt;/p&gt;
+      project-nomad&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 44937&lt;/span&gt;
-						&lt;span&gt;🔱 6708&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4280 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/fishaudio/fish-speech&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        fishaudio /
-
-      fish-speech&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      SOTA Open Source TTS
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 27377&lt;/span&gt;
-						&lt;span&gt;🔱 2285&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 381 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/InsForge/InsForge&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        InsForge /
-
-      InsForge&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4353&lt;/span&gt;
-						&lt;span&gt;🔱 443&lt;/span&gt;
+						&lt;span&gt;⭐ 689&lt;/span&gt;
+						&lt;span&gt;🔱 84&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 482 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 230 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/volcengine/OpenViking&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        volcengine /
+
+      OpenViking&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 11424&lt;/span&gt;
+						&lt;span&gt;🔱 784&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1877 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/shareAI-lab/learn-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 27423&lt;/span&gt;
+						&lt;span&gt;🔱 4826&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 865 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/shanraisshan/claude-code-best-practice&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      practice made claude perfect
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 HTML&lt;/span&gt;
+						&lt;span&gt;⭐ 16428&lt;/span&gt;
+						&lt;span&gt;🔱 1470&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1329 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -231,10 +143,164 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 84174&lt;/span&gt;
-						&lt;span&gt;🔱 6583&lt;/span&gt;
+						&lt;span&gt;⭐ 84385&lt;/span&gt;
+						&lt;span&gt;🔱 6603&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1439 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1893 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/p-e-w/heretic&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        p-e-w /
+
+      heretic&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Fully automatic censorship removal for language models
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 14239&lt;/span&gt;
+						&lt;span&gt;🔱 1455&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1066 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/666ghj/MiroFish&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        666ghj /
+
+      MiroFish&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 25539&lt;/span&gt;
+						&lt;span&gt;🔱 2999&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2045 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/abhigyanpatwari/GitNexus&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 13189&lt;/span&gt;
+						&lt;span&gt;🔱 1559&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 450 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/topoteretes/cognee&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        topoteretes /
+
+      cognee&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Knowledge Engine for AI Agent Memory in 6 lines of code
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13642&lt;/span&gt;
+						&lt;span&gt;🔱 1370&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 168 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/InsForge/InsForge&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        InsForge /
+
+      InsForge&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4370&lt;/span&gt;
+						&lt;span&gt;🔱 445&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 509 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/voidzero-dev/vite-plus&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        voidzero-dev /
+
+      vite-plus&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 1403&lt;/span&gt;
+						&lt;span&gt;🔱 45&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 301 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/anthropics/claude-plugins-official&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        anthropics /
+
+      claude-plugins-official&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Official, Anthropic-managed directory of high quality Claude Code Plugins.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 11582&lt;/span&gt;
+						&lt;span&gt;🔱 1127&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 608 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
