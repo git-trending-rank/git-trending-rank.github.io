@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-15
-date: 2026-03-15T06:40:00Z
+date: 2026-03-15T08:21:35Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11009</span>
-						<span>🔱 745</span>
+						<span>⭐ 11154</span>
+						<span>🔱 766</span>
 					</div>
 				<div class="stars-today">⭐ 1610 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11458</span>
-						<span>🔱 1116</span>
+						<span>⭐ 11505</span>
+						<span>🔱 1128</span>
 					</div>
 				<div class="stars-today">⭐ 411 stars today</div>
 				</div>
@@ -69,13 +69,13 @@ keywords:
 
       dimos</a></p>
 				<p>
-      The Dimensional Framework
+      Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 941</span>
-						<span>🔱 162</span>
+						<span>⭐ 969</span>
+						<span>🔱 168</span>
 					</div>
 				<div class="stars-today">⭐ 72 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14008</span>
-						<span>🔱 1425</span>
+						<span>⭐ 14095</span>
+						<span>🔱 1440</span>
 					</div>
 				<div class="stars-today">⭐ 694 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2809</span>
-						<span>🔱 257</span>
+						<span>⭐ 2841</span>
+						<span>🔱 260</span>
 					</div>
 				<div class="stars-today">⭐ 564 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 17387</span>
-						<span>🔱 651</span>
+						<span>⭐ 17474</span>
+						<span>🔱 653</span>
 					</div>
 				<div class="stars-today">⭐ 2069 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 44426</span>
-						<span>🔱 6644</span>
+						<span>⭐ 44679</span>
+						<span>🔱 6675</span>
 					</div>
 				<div class="stars-today">⭐ 4280 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27318</span>
-						<span>🔱 2282</span>
+						<span>⭐ 27346</span>
+						<span>🔱 2283</span>
 					</div>
 				<div class="stars-today">⭐ 381 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4289</span>
-						<span>🔱 437</span>
+						<span>⭐ 4317</span>
+						<span>🔱 442</span>
 					</div>
 				<div class="stars-today">⭐ 482 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 83905</span>
-						<span>🔱 6556</span>
+						<span>⭐ 84020</span>
+						<span>🔱 6565</span>
 					</div>
 				<div class="stars-today">⭐ 1439 stars today</div>
 				</div>
