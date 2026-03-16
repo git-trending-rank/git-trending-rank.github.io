@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-16T14:51:07Z
+date: 2026-03-16T16:45:33Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39116</span>
-						<span>🔱 6482</span>
+						<span>⭐ 39188</span>
+						<span>🔱 6490</span>
 					</div>
 				<div class="stars-today">⭐ 32908 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37308</span>
-						<span>🔱 5126</span>
+						<span>⭐ 37344</span>
+						<span>🔱 5132</span>
 					</div>
 				<div class="stars-today">⭐ 30887 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29135</span>
-						<span>🔱 3554</span>
+						<span>⭐ 29364</span>
+						<span>🔱 3578</span>
 					</div>
 				<div class="stars-today">⭐ 21970 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34009</span>
-						<span>🔱 3389</span>
+						<span>⭐ 34025</span>
+						<span>🔱 3388</span>
 					</div>
 				<div class="stars-today">⭐ 16483 stars this month</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31102</span>
+						<span>⭐ 31119</span>
 						<span>🔱 3753</span>
 					</div>
 				<div class="stars-today">⭐ 11028 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13653</span>
-						<span>🔱 939</span>
+						<span>⭐ 13788</span>
+						<span>🔱 946</span>
 					</div>
 				<div class="stars-today">⭐ 10104 stars this month</div>
 				</div>
@@ -160,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9129</span>
+						<span>⭐ 9141</span>
 						<span>🔱 552</span>
 					</div>
 				<div class="stars-today">⭐ 7871 stars this month</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6497</span>
-						<span>🔱 352</span>
+						<span>⭐ 6515</span>
+						<span>🔱 353</span>
 					</div>
 				<div class="stars-today">⭐ 4694 stars this month</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15101</span>
-						<span>🔱 1526</span>
+						<span>⭐ 15140</span>
+						<span>🔱 1529</span>
 					</div>
 				<div class="stars-today">⭐ 9197 stars this month</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 316808</span>
-						<span>🔱 60692</span>
+						<span>⭐ 316975</span>
+						<span>🔱 60736</span>
 					</div>
 				<div class="stars-today">⭐ 121912 stars this month</div>
 				</div>
@@ -248,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7934</span>
-						<span>🔱 594</span>
+						<span>⭐ 7943</span>
+						<span>🔱 593</span>
 					</div>
 				<div class="stars-today">⭐ 6794 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sickn33/antigravity-awesome-skills" target="_blank">
-    
-
-
-      
-        sickn33 /
-
-      antigravity-awesome-skills</a></p>
-				<p>
-      The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24837</span>
-						<span>🔱 4255</span>
-					</div>
-				<div class="stars-today">⭐ 15702 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29076</span>
-						<span>🔱 4988</span>
+						<span>⭐ 29154</span>
+						<span>🔱 4992</span>
 					</div>
 				<div class="stars-today">⭐ 10552 stars this month</div>
 				</div>
@@ -314,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 87798</span>
-						<span>🔱 6927</span>
+						<span>⭐ 88029</span>
+						<span>🔱 6954</span>
 					</div>
 				<div class="stars-today">⭐ 33172 stars this month</div>
 				</div>
@@ -336,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23572</span>
+						<span>⭐ 23580</span>
 						<span>🔱 909</span>
 					</div>
 				<div class="stars-today">⭐ 4419 stars this month</div>
@@ -358,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 9001</span>
-						<span>🔱 510</span>
+						<span>⭐ 9003</span>
+						<span>🔱 508</span>
 					</div>
 				<div class="stars-today">⭐ 7275 stars this month</div>
 				</div>
