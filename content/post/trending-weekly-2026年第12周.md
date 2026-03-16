@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第12周
-date: 2026-03-16T08:41:24Z
+date: 2026-03-16T10:40:27Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28327</span>
-						<span>🔱 3429</span>
+						<span>⭐ 28597</span>
+						<span>🔱 3474</span>
 					</div>
 				<div class="stars-today">⭐ 19387 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47669</span>
-						<span>🔱 7116</span>
+						<span>⭐ 47904</span>
+						<span>🔱 7146</span>
 					</div>
 				<div class="stars-today">⭐ 34355 stars this week</div>
 				</div>
@@ -74,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34782</span>
-						<span>🔱 2953</span>
+						<span>⭐ 34804</span>
+						<span>🔱 2958</span>
 					</div>
 				<div class="stars-today">⭐ 6028 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
     
 
 
       
-        NousResearch /
+        alibaba /
 
-      hermes-agent</a></p>
+      page-agent</a></p>
 				<p>
-      The agent that grows with you
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7741</span>
-						<span>🔱 896</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9191</span>
+						<span>🔱 729</span>
 					</div>
-				<div class="stars-today">⭐ 5152 stars this week</div>
+				<div class="stars-today">⭐ 6971 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8976</span>
+						<span>🔱 357</span>
+					</div>
+				<div class="stars-today">⭐ 7077 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16567</span>
-						<span>🔱 1449</span>
+						<span>⭐ 16613</span>
+						<span>🔱 1453</span>
 					</div>
 				<div class="stars-today">⭐ 5337 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        666ghj /
+        NousResearch /
 
-      BettaFish</a></p>
+      hermes-agent</a></p>
 				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39029</span>
-						<span>🔱 7289</span>
+						<span>⭐ 7786</span>
+						<span>🔱 905</span>
 					</div>
-				<div class="stars-today">⭐ 2264 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49077</span>
-						<span>🔱 8557</span>
-					</div>
-				<div class="stars-today">⭐ 2322 stars this week</div>
+				<div class="stars-today">⭐ 5152 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27704</span>
-						<span>🔱 2310</span>
+						<span>⭐ 27730</span>
+						<span>🔱 2313</span>
 					</div>
 				<div class="stars-today">⭐ 2301 stars this week</div>
 				</div>
@@ -206,32 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13160</span>
-						<span>🔱 903</span>
+						<span>⭐ 13335</span>
+						<span>🔱 914</span>
 					</div>
 				<div class="stars-today">⭐ 6514 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
     
 
 
       
-        GoogleCloudPlatform /
+        virattt /
 
-      generative-ai</a></p>
+      ai-hedge-fund</a></p>
 				<p>
-      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+      An AI Hedge Fund Team
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16243</span>
-						<span>🔱 4049</span>
+						<span>🔠 Python</span>
+						<span>⭐ 49088</span>
+						<span>🔱 8559</span>
 					</div>
-				<div class="stars-today">⭐ 2420 stars this week</div>
+				<div class="stars-today">⭐ 2322 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      BettaFish</a></p>
+				<p>
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39051</span>
+						<span>🔱 7296</span>
+					</div>
+				<div class="stars-today">⭐ 2264 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,54 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31005</span>
-						<span>🔱 3740</span>
+						<span>⭐ 31041</span>
+						<span>🔱 3751</span>
 					</div>
 				<div class="stars-today">⭐ 4961 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/karpathy/nanochat" target="_blank">
+				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
     
 
 
       
-        karpathy /
+        vectorize-io /
 
-      nanochat</a></p>
+      hindsight</a></p>
 				<p>
-      The best ChatGPT that $100 can buy.
+      Hindsight: Agent Memory That Learns
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48889</span>
-						<span>🔱 6403</span>
+						<span>⭐ 4029</span>
+						<span>🔱 284</span>
 					</div>
-				<div class="stars-today">⭐ 3794 stars this week</div>
+				<div class="stars-today">⭐ 1564 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/teng-lin/notebooklm-py" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        teng-lin /
+        obra /
 
-      notebooklm-py</a></p>
+      superpowers</a></p>
 				<p>
-      Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5938</span>
-						<span>🔱 736</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 87303</span>
+						<span>🔱 6887</span>
 					</div>
-				<div class="stars-today">⭐ 2266 stars this week</div>
+				<div class="stars-today">⭐ 12050 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25088</span>
-						<span>🔱 1704</span>
+						<span>⭐ 25133</span>
+						<span>🔱 1711</span>
 					</div>
 				<div class="stars-today">⭐ 5041 stars this week</div>
 				</div>

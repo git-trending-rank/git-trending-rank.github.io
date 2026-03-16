@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-16T08:41:24Z
+date: 2026-03-16T10:40:27Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38906</span>
-						<span>🔱 6451</span>
+						<span>⭐ 38998</span>
+						<span>🔱 6464</span>
 					</div>
 				<div class="stars-today">⭐ 32908 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37209</span>
-						<span>🔱 5122</span>
+						<span>⭐ 37240</span>
+						<span>🔱 5125</span>
 					</div>
 				<div class="stars-today">⭐ 30887 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31005</span>
-						<span>🔱 3740</span>
-					</div>
-				<div class="stars-today">⭐ 11028 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33938</span>
-						<span>🔱 3373</span>
-					</div>
-				<div class="stars-today">⭐ 16483 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28327</span>
-						<span>🔱 3429</span>
+						<span>⭐ 28597</span>
+						<span>🔱 3474</span>
 					</div>
 				<div class="stars-today">⭐ 21970 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33962</span>
+						<span>🔱 3376</span>
+					</div>
+				<div class="stars-today">⭐ 16483 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 31041</span>
+						<span>🔱 3751</span>
+					</div>
+				<div class="stars-today">⭐ 11028 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13160</span>
-						<span>🔱 903</span>
+						<span>⭐ 13335</span>
+						<span>🔱 914</span>
 					</div>
 				<div class="stars-today">⭐ 10104 stars this month</div>
 				</div>
@@ -160,10 +160,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9110</span>
-						<span>🔱 548</span>
+						<span>⭐ 9118</span>
+						<span>🔱 549</span>
 					</div>
 				<div class="stars-today">⭐ 7871 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fluxerapp/fluxer" target="_blank">
+    
+
+
+      
+        fluxerapp /
+
+      fluxer</a></p>
+				<p>
+      A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6464</span>
+						<span>🔱 350</span>
+					</div>
+				<div class="stars-today">⭐ 4694 stars this month</div>
 				</div>
 			</div>
 	
@@ -182,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14926</span>
-						<span>🔱 1512</span>
+						<span>⭐ 14981</span>
+						<span>🔱 1514</span>
 					</div>
 				<div class="stars-today">⭐ 9197 stars this month</div>
 				</div>
@@ -204,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 316082</span>
-						<span>🔱 60515</span>
+						<span>⭐ 316346</span>
+						<span>🔱 60578</span>
 					</div>
 				<div class="stars-today">⭐ 121912 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      zvec</a></p>
-				<p>
-      A lightweight, lightning-fast, in-process vector database
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 8985</span>
-						<span>🔱 508</span>
-					</div>
-				<div class="stars-today">⭐ 7275 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7915</span>
-						<span>🔱 590</span>
+						<span>⭐ 7925</span>
+						<span>🔱 591</span>
 					</div>
 				<div class="stars-today">⭐ 6794 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sickn33/antigravity-awesome-skills" target="_blank">
+    
+
+
+      
+        sickn33 /
+
+      antigravity-awesome-skills</a></p>
+				<p>
+      The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24753</span>
+						<span>🔱 4247</span>
+					</div>
+				<div class="stars-today">⭐ 15702 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,32 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28711</span>
-						<span>🔱 4955</span>
+						<span>⭐ 28861</span>
+						<span>🔱 4967</span>
 					</div>
 				<div class="stars-today">⭐ 10552 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 23555</span>
-						<span>🔱 905</span>
-					</div>
-				<div class="stars-today">⭐ 4419 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,54 +314,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 87047</span>
-						<span>🔱 6870</span>
+						<span>⭐ 87303</span>
+						<span>🔱 6887</span>
 					</div>
 				<div class="stars-today">⭐ 33172 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
 
       
-        badlogic /
+        clockworklabs /
 
-      pi-mono</a></p>
+      SpacetimeDB</a></p>
 				<p>
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+      Development at the speed of light
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24406</span>
-						<span>🔱 2568</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 23562</span>
+						<span>🔱 906</span>
 					</div>
-				<div class="stars-today">⭐ 11873 stars this month</div>
+				<div class="stars-today">⭐ 4419 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+				<p><a href="https://github.com/alibaba/zvec" target="_blank">
     
 
 
       
-        x1xhlol /
+        alibaba /
 
-      system-prompts-and-models-of-ai-tools</a></p>
+      zvec</a></p>
 				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+      A lightweight, lightning-fast, in-process vector database
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 131388</span>
-						<span>🔱 33339</span>
+						<span>🔠 C++</span>
+						<span>⭐ 8989</span>
+						<span>🔱 509</span>
 					</div>
-				<div class="stars-today">⭐ 17119 stars this month</div>
+				<div class="stars-today">⭐ 7275 stars this month</div>
 				</div>
 			</div>
 	

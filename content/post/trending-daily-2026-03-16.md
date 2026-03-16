@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-16
-date: 2026-03-16T08:41:24Z
+date: 2026-03-16T10:40:26Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,46 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        lightpanda-io /
+        666ghj /
 
-      browser</a></p>
+      MiroFish</a></p>
 				<p>
-      Lightpanda: the headless browser designed for AI and automation
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 19437</span>
-						<span>🔱 735</span>
+						<span>🔠 Python</span>
+						<span>⭐ 28597</span>
+						<span>🔱 3474</span>
 					</div>
-				<div class="stars-today">⭐ 1335 stars today</div>
+				<div class="stars-today">⭐ 2782 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35979</span>
+						<span>🔱 2590</span>
+					</div>
+				<div class="stars-today">⭐ 1017 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1358</span>
-						<span>🔱 137</span>
+						<span>⭐ 1421</span>
+						<span>🔱 141</span>
 					</div>
 				<div class="stars-today">⭐ 205 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 87303</span>
+						<span>🔱 6887</span>
+					</div>
+				<div class="stars-today">⭐ 1867 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus</a></p>
+				<p>
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14977</span>
+						<span>🔱 1737</span>
+					</div>
+				<div class="stars-today">⭐ 451 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 19620</span>
+						<span>🔱 743</span>
+					</div>
+				<div class="stars-today">⭐ 1335 stars today</div>
 				</div>
 			</div>
 	
@@ -74,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13160</span>
-						<span>🔱 903</span>
+						<span>⭐ 13335</span>
+						<span>🔱 914</span>
 					</div>
 				<div class="stars-today">⭐ 1870 stars today</div>
 				</div>
@@ -96,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28711</span>
-						<span>🔱 4955</span>
+						<span>⭐ 28861</span>
+						<span>🔱 4967</span>
 					</div>
 				<div class="stars-today">⭐ 872 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 87047</span>
-						<span>🔱 6870</span>
-					</div>
-				<div class="stars-today">⭐ 1867 stars today</div>
 				</div>
 			</div>
 	
@@ -140,98 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14926</span>
-						<span>🔱 1512</span>
+						<span>⭐ 14981</span>
+						<span>🔱 1514</span>
 					</div>
 				<div class="stars-today">⭐ 1062 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
     
 
 
       
-        666ghj /
+        langchain-ai /
 
-      MiroFish</a></p>
+      deepagents</a></p>
 				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28327</span>
-						<span>🔱 3429</span>
+						<span>⭐ 12052</span>
+						<span>🔱 1925</span>
 					</div>
-				<div class="stars-today">⭐ 2782 stars today</div>
+				<div class="stars-today">⭐ 444 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+				<p><a href="https://github.com/YishenTu/claudian" target="_blank">
     
 
 
       
-        abhigyanpatwari /
+        YishenTu /
 
-      GitNexus</a></p>
+      claudian</a></p>
 				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+      An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14855</span>
-						<span>🔱 1722</span>
+						<span>⭐ 3916</span>
+						<span>🔱 233</span>
 					</div>
-				<div class="stars-today">⭐ 451 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Knowledge Engine for AI Agent Memory in 6 lines of code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14088</span>
-						<span>🔱 1394</span>
-					</div>
-				<div class="stars-today">⭐ 270 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/InsForge/InsForge" target="_blank">
-    
-
-
-      
-        InsForge /
-
-      InsForge</a></p>
-				<p>
-      Give agents everything they need to ship fullstack apps. The backend built for agentic development. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4704</span>
-						<span>🔱 482</span>
-					</div>
-				<div class="stars-today">⭐ 515 stars today</div>
+				<div class="stars-today">⭐ 109 stars today</div>
 				</div>
 			</div>
 	
@@ -250,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1948</span>
-						<span>🔱 62</span>
+						<span>⭐ 1990</span>
+						<span>🔱 68</span>
 					</div>
 				<div class="stars-today">⭐ 300 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-plugins-official" target="_blank">
-    
-
-
-      
-        anthropics /
-
-      claude-plugins-official</a></p>
-				<p>
-      Official, Anthropic-managed directory of high quality Claude Code Plugins.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12194</span>
-						<span>🔱 1166</span>
-					</div>
-				<div class="stars-today">⭐ 604 stars today</div>
 				</div>
 			</div>
 	
