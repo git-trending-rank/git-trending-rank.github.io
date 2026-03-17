@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第12周
-date: 2026-03-17T10:36:04Z
+date: 2026-03-17T12:36:00Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31477</span>
-						<span>🔱 3876</span>
+						<span>⭐ 31695</span>
+						<span>🔱 3922</span>
 					</div>
 				<div class="stars-today">⭐ 19932 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 50455</span>
-						<span>🔱 7506</span>
+						<span>⭐ 50651</span>
+						<span>🔱 7544</span>
 					</div>
 				<div class="stars-today">⭐ 32648 stars this week</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35008</span>
-						<span>🔱 2988</span>
+						<span>⭐ 35052</span>
+						<span>🔱 2995</span>
 					</div>
 				<div class="stars-today">⭐ 6209 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 20733</span>
+						<span>🔱 783</span>
+					</div>
+				<div class="stars-today">⭐ 7998 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9937</span>
-						<span>🔱 770</span>
+						<span>⭐ 10044</span>
+						<span>🔱 774</span>
 					</div>
 				<div class="stars-today">⭐ 7084 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9592</span>
-						<span>🔱 369</span>
-					</div>
-				<div class="stars-today">⭐ 6515 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16979</span>
-						<span>🔱 1470</span>
+						<span>⭐ 17022</span>
+						<span>🔱 1472</span>
 					</div>
 				<div class="stars-today">⭐ 5792 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8266</span>
-						<span>🔱 964</span>
-					</div>
-				<div class="stars-today">⭐ 5270 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
-    
-
-
-      
-        fishaudio /
-
-      fish-speech</a></p>
-				<p>
-      SOTA Open Source TTS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27914</span>
-						<span>🔱 2327</span>
-					</div>
-				<div class="stars-today">⭐ 2638 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,120 +162,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14742</span>
-						<span>🔱 1002</span>
+						<span>⭐ 14828</span>
+						<span>🔱 1008</span>
 					</div>
 				<div class="stars-today">⭐ 8297 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/fishaudio/fish-speech" target="_blank">
     
 
 
       
-        virattt /
+        fishaudio /
 
-      ai-hedge-fund</a></p>
+      fish-speech</a></p>
 				<p>
-      An AI Hedge Fund Team
+      SOTA Open Source TTS
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49177</span>
-						<span>🔱 8565</span>
+						<span>⭐ 27920</span>
+						<span>🔱 2327</span>
 					</div>
-				<div class="stars-today">⭐ 2162 stars this week</div>
+				<div class="stars-today">⭐ 2638 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
     
 
 
       
-        666ghj /
+        pbakaus /
 
-      BettaFish</a></p>
+      impeccable</a></p>
 				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+      The design language that makes your AI harness better at design.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39237</span>
-						<span>🔱 7326</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9658</span>
+						<span>🔱 372</span>
 					</div>
-				<div class="stars-today">⭐ 2018 stars this week</div>
+				<div class="stars-today">⭐ 6515 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        alirezarezvani /
+        NousResearch /
 
-      claude-skills</a></p>
+      hermes-agent</a></p>
 				<p>
-      +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5465</span>
-						<span>🔱 634</span>
+						<span>⭐ 8300</span>
+						<span>🔱 967</span>
 					</div>
-				<div class="stars-today">⭐ 1729 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31345</span>
-						<span>🔱 3791</span>
-					</div>
-				<div class="stars-today">⭐ 4454 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
-    
-
-
-      
-        vectorize-io /
-
-      hindsight</a></p>
-				<p>
-      Hindsight: Agent Memory That Learns
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4436</span>
-						<span>🔱 297</span>
-					</div>
-				<div class="stars-today">⭐ 1614 stars this week</div>
+				<div class="stars-today">⭐ 5270 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 90258</span>
-						<span>🔱 7147</span>
+						<span>⭐ 90592</span>
+						<span>🔱 7174</span>
 					</div>
 				<div class="stars-today">⭐ 13195 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 49188</span>
+						<span>🔱 8565</span>
+					</div>
+				<div class="stars-today">⭐ 2162 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vectorize-io/hindsight" target="_blank">
+    
+
+
+      
+        vectorize-io /
+
+      hindsight</a></p>
+				<p>
+      Hindsight: Agent Memory That Learns
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4453</span>
+						<span>🔱 299</span>
+					</div>
+				<div class="stars-today">⭐ 1614 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25450</span>
-						<span>🔱 1736</span>
+						<span>⭐ 25480</span>
+						<span>🔱 1738</span>
 					</div>
 				<div class="stars-today">⭐ 5107 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      BettaFish</a></p>
+				<p>
+      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39251</span>
+						<span>🔱 7329</span>
+					</div>
+				<div class="stars-today">⭐ 2018 stars this week</div>
 				</div>
 			</div>
 	

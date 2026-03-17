@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-17T10:36:05Z
+date: 2026-03-17T12:36:00Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39717</span>
-						<span>🔱 6573</span>
+						<span>⭐ 39784</span>
+						<span>🔱 6579</span>
 					</div>
 				<div class="stars-today">⭐ 32572 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37622</span>
-						<span>🔱 5176</span>
+						<span>⭐ 37659</span>
+						<span>🔱 5179</span>
 					</div>
 				<div class="stars-today">⭐ 30945 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31477</span>
-						<span>🔱 3876</span>
+						<span>⭐ 31695</span>
+						<span>🔱 3922</span>
 					</div>
 				<div class="stars-today">⭐ 25152 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34172</span>
-						<span>🔱 3396</span>
+						<span>⭐ 34191</span>
+						<span>🔱 3400</span>
 					</div>
 				<div class="stars-today">⭐ 16743 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31345</span>
-						<span>🔱 3791</span>
+						<span>⭐ 31370</span>
+						<span>🔱 3792</span>
 					</div>
 				<div class="stars-today">⭐ 11354 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14742</span>
-						<span>🔱 1002</span>
+						<span>⭐ 14828</span>
+						<span>🔱 1008</span>
 					</div>
 				<div class="stars-today">⭐ 12011 stars this month</div>
 				</div>
@@ -160,76 +160,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9190</span>
-						<span>🔱 552</span>
+						<span>⭐ 9196</span>
+						<span>🔱 554</span>
 					</div>
 				<div class="stars-today">⭐ 7950 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fluxerapp/fluxer" target="_blank">
-    
-
-
-      
-        fluxerapp /
-
-      fluxer</a></p>
-				<p>
-      A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6671</span>
-						<span>🔱 358</span>
-					</div>
-				<div class="stars-today">⭐ 4676 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15512</span>
-						<span>🔱 1568</span>
-					</div>
-				<div class="stars-today">⭐ 9042 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 318973</span>
-						<span>🔱 61198</span>
-					</div>
-				<div class="stars-today">⭐ 120432 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,32 +182,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8009</span>
-						<span>🔱 601</span>
+						<span>⭐ 8018</span>
+						<span>🔱 604</span>
 					</div>
 				<div class="stars-today">⭐ 6867 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sickn33/antigravity-awesome-skills" target="_blank">
-    
-
-
-      
-        sickn33 /
-
-      antigravity-awesome-skills</a></p>
-				<p>
-      The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25099</span>
-						<span>🔱 4304</span>
-					</div>
-				<div class="stars-today">⭐ 14944 stars this month</div>
 				</div>
 			</div>
 	
@@ -292,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29933</span>
-						<span>🔱 5080</span>
+						<span>⭐ 30017</span>
+						<span>🔱 5086</span>
 					</div>
 				<div class="stars-today">⭐ 12041 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fluxerapp/fluxer" target="_blank">
+    
+
+
+      
+        fluxerapp /
+
+      fluxer</a></p>
+				<p>
+      A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6684</span>
+						<span>🔱 359</span>
+					</div>
+				<div class="stars-today">⭐ 4676 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 90258</span>
-						<span>🔱 7147</span>
+						<span>⭐ 90592</span>
+						<span>🔱 7174</span>
 					</div>
 				<div class="stars-today">⭐ 35512 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
     
 
 
       
-        alirezarezvani /
+        openclaw /
 
-      claude-skills</a></p>
+      openclaw</a></p>
 				<p>
-      +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5465</span>
-						<span>🔱 634</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 319227</span>
+						<span>🔱 61268</span>
 					</div>
-				<div class="stars-today">⭐ 3644 stars this month</div>
+				<div class="stars-today">⭐ 120432 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23652</span>
+						<span>⭐ 23665</span>
 						<span>🔱 917</span>
 					</div>
 				<div class="stars-today">⭐ 4476 stars this month</div>
@@ -366,24 +300,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/zvec" target="_blank">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
     
 
 
       
-        alibaba /
+        lightpanda-io /
 
-      zvec</a></p>
+      browser</a></p>
 				<p>
-      A lightweight, lightning-fast, in-process vector database
+      Lightpanda: the headless browser designed for AI and automation
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 9048</span>
-						<span>🔱 513</span>
+						<span>🔠 Zig</span>
+						<span>⭐ 20733</span>
+						<span>🔱 783</span>
 					</div>
-				<div class="stars-today">⭐ 6179 stars this month</div>
+				<div class="stars-today">⭐ 8209 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+    
+
+
+      
+        p-e-w /
+
+      heretic</a></p>
+				<p>
+      Fully automatic censorship removal for language models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15545</span>
+						<span>🔱 1572</span>
+					</div>
+				<div class="stars-today">⭐ 9042 stars this month</div>
 				</div>
 			</div>
 	

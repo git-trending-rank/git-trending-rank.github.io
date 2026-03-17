@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-17
-date: 2026-03-17T10:36:04Z
+date: 2026-03-17T12:36:00Z
 categories:
 - daily
 keywords:
@@ -14,72 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31477</span>
-						<span>🔱 3876</span>
-					</div>
-				<div class="stars-today">⭐ 3260 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37329</span>
-						<span>🔱 2674</span>
-					</div>
-				<div class="stars-today">⭐ 1045 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2087</span>
-						<span>🔱 184</span>
-					</div>
-				<div class="stars-today">⭐ 775 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/obra/superpowers" target="_blank">
@@ -96,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 90258</span>
-						<span>🔱 7147</span>
+						<span>⭐ 90592</span>
+						<span>🔱 7174</span>
 					</div>
-				<div class="stars-today">⭐ 3152 stars today</div>
+				<div class="stars-today">⭐ 3050 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 478890</span>
+						<span>🔱 45055</span>
+					</div>
+				<div class="stars-today">⭐ 2011 stars today</div>
 				</div>
 			</div>
 	
@@ -118,98 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16077</span>
-						<span>🔱 1839</span>
+						<span>⭐ 16189</span>
+						<span>🔱 1848</span>
 					</div>
-				<div class="stars-today">⭐ 1860 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
-    
-
-
-      
-        lightpanda-io /
-
-      browser</a></p>
-				<p>
-      Lightpanda: the headless browser designed for AI and automation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 20677</span>
-						<span>🔱 782</span>
-					</div>
-				<div class="stars-today">⭐ 2086 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14742</span>
-						<span>🔱 1002</span>
-					</div>
-				<div class="stars-today">⭐ 2012 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano Claude Code–like agent, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29933</span>
-						<span>🔱 5080</span>
-					</div>
-				<div class="stars-today">⭐ 1535 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
-    
-
-
-      
-        p-e-w /
-
-      heretic</a></p>
-				<p>
-      Fully automatic censorship removal for language models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15512</span>
-						<span>🔱 1568</span>
-					</div>
-				<div class="stars-today">⭐ 788 stars today</div>
+				<div class="stars-today">⭐ 1117 stars today</div>
 				</div>
 			</div>
 	
@@ -228,54 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13466</span>
-						<span>🔱 2060</span>
+						<span>⭐ 13552</span>
+						<span>🔱 2066</span>
 					</div>
-				<div class="stars-today">⭐ 1026 stars today</div>
+				<div class="stars-today">⭐ 1418 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/YishenTu/claudian" target="_blank">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
     
 
 
       
-        YishenTu /
+        jarrodwatts /
 
-      claudian</a></p>
+      claude-hud</a></p>
 				<p>
-      An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4387</span>
-						<span>🔱 249</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5163</span>
+						<span>🔱 233</span>
 					</div>
-				<div class="stars-today">⭐ 111 stars today</div>
+				<div class="stars-today">⭐ 454 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/voidzero-dev/vite-plus" target="_blank">
+				<p><a href="https://github.com/cloudflare/workerd" target="_blank">
     
 
 
       
-        voidzero-dev /
+        cloudflare /
 
-      vite-plus</a></p>
+      workerd</a></p>
 				<p>
-      Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+      The JavaScript / Wasm runtime that powers Cloudflare Workers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 2424</span>
-						<span>🔱 84</span>
+						<span>🔠 C++</span>
+						<span>⭐ 7651</span>
+						<span>🔱 565</span>
 					</div>
-				<div class="stars-today">⭐ 621 stars today</div>
+				<div class="stars-today">⭐ 21 stars today</div>
 				</div>
 			</div>
 	
