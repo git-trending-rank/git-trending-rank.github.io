@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-18
-date: 2026-03-18T18:39:13Z
+date: 2026-03-18T20:21:54Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6674</span>
-						<span>🔱 289</span>
+						<span>⭐ 6729</span>
+						<span>🔱 291</span>
 					</div>
 				<div class="stars-today">⭐ 1040 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 95555</span>
-						<span>🔱 7569</span>
+						<span>⭐ 95719</span>
+						<span>🔱 7583</span>
 					</div>
 				<div class="stars-today">⭐ 4091 stars today</div>
 				</div>
@@ -69,13 +69,13 @@ keywords:
 
       unsloth</a></p>
 				<p>
-      Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
+      Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55552</span>
-						<span>🔱 4666</span>
+						<span>⭐ 55620</span>
+						<span>🔱 4670</span>
 					</div>
 				<div class="stars-today">⭐ 975 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2839</span>
-						<span>🔱 313</span>
+						<span>⭐ 2858</span>
+						<span>🔱 315</span>
 					</div>
 				<div class="stars-today">⭐ 20 stars today</div>
 				</div>
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 29724</span>
+						<span>⭐ 29764</span>
 						<span>🔱 2024</span>
 					</div>
 				<div class="stars-today">⭐ 292 stars today</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6132</span>
-						<span>🔱 797</span>
+						<span>⭐ 6187</span>
+						<span>🔱 804</span>
 					</div>
 				<div class="stars-today">⭐ 454 stars today</div>
 				</div>
