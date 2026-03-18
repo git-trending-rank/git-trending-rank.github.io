@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第12周
-date: 2026-03-18T10:37:17Z
+date: 2026-03-18T12:36:58Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33465</span>
-						<span>🔱 4261</span>
+						<span>⭐ 33596</span>
+						<span>🔱 4277</span>
 					</div>
 				<div class="stars-today">⭐ 18725 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 52925</span>
-						<span>🔱 7905</span>
-					</div>
-				<div class="stars-today">⭐ 29160 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35401</span>
-						<span>🔱 3024</span>
+						<span>⭐ 35431</span>
+						<span>🔱 3028</span>
 					</div>
 				<div class="stars-today">⭐ 6410 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 53131</span>
+						<span>🔱 7930</span>
+					</div>
+				<div class="stars-today">⭐ 29160 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 21367</span>
-						<span>🔱 801</span>
+						<span>⭐ 21436</span>
+						<span>🔱 806</span>
 					</div>
 				<div class="stars-today">⭐ 8700 stars this week</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10978</span>
-						<span>🔱 839</span>
+						<span>⭐ 11038</span>
+						<span>🔱 841</span>
 					</div>
 				<div class="stars-today">⭐ 7000 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
-    
-
-
-      
-        promptfoo /
-
-      promptfoo</a></p>
-				<p>
-      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17318</span>
-						<span>🔱 1496</span>
-					</div>
-				<div class="stars-today">⭐ 5473 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15492</span>
-						<span>🔱 1046</span>
+						<span>⭐ 15542</span>
+						<span>🔱 1050</span>
 					</div>
 				<div class="stars-today">⭐ 9306 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langflow-ai/openrag" target="_blank">
+    
+
+
+      
+        langflow-ai /
+
+      openrag</a></p>
+				<p>
+      OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3216</span>
+						<span>🔱 289</span>
+					</div>
+				<div class="stars-today">⭐ 2533 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28076</span>
+						<span>⭐ 28089</span>
 						<span>🔱 2341</span>
 					</div>
 				<div class="stars-today">⭐ 2775 stars this week</div>
@@ -206,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10240</span>
-						<span>🔱 394</span>
+						<span>⭐ 10283</span>
+						<span>🔱 395</span>
 					</div>
 				<div class="stars-today">⭐ 6259 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
     
 
 
       
-        NousResearch /
+        promptfoo /
 
-      hermes-agent</a></p>
+      promptfoo</a></p>
 				<p>
-      The agent that grows with you
+      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8636</span>
-						<span>🔱 1024</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17343</span>
+						<span>🔱 1497</span>
 					</div>
-				<div class="stars-today">⭐ 4991 stars this week</div>
+				<div class="stars-today">⭐ 5473 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 94273</span>
-						<span>🔱 7455</span>
+						<span>⭐ 94584</span>
+						<span>🔱 7487</span>
 					</div>
 				<div class="stars-today">⭐ 14768 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        virattt /
+        NousResearch /
 
-      ai-hedge-fund</a></p>
+      hermes-agent</a></p>
 				<p>
-      An AI Hedge Fund Team
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49294</span>
-						<span>🔱 8573</span>
+						<span>⭐ 8660</span>
+						<span>🔱 1026</span>
 					</div>
-				<div class="stars-today">⭐ 1983 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
-    
-
-
-      
-        alirezarezvani /
-
-      claude-skills</a></p>
-				<p>
-      +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5656</span>
-						<span>🔱 659</span>
-					</div>
-				<div class="stars-today">⭐ 1573 stars this week</div>
+				<div class="stars-today">⭐ 4991 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,54 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4700</span>
-						<span>🔱 305</span>
+						<span>⭐ 4714</span>
+						<span>🔱 306</span>
 					</div>
 				<div class="stars-today">⭐ 1996 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/AstrBotDevs/AstrBot" target="_blank">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
     
 
 
       
-        AstrBotDevs /
+        shareAI-lab /
 
-      AstrBot</a></p>
+      learn-claude-code</a></p>
 				<p>
-      Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25735</span>
-						<span>🔱 1751</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31701</span>
+						<span>🔱 5275</span>
 					</div>
-				<div class="stars-today">⭐ 5115 stars this week</div>
+				<div class="stars-today">⭐ 5582 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/BettaFish" target="_blank">
+				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
     
 
 
       
-        666ghj /
+        langchain-ai /
 
-      BettaFish</a></p>
+      deepagents</a></p>
 				<p>
-      微舆：人人可用的多Agent舆情分析助手，打破信息茧房，还原舆情原貌，预测未来走向，辅助决策！从0实现，不依赖任何框架。
+      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39414</span>
-						<span>🔱 7354</span>
+						<span>⭐ 14760</span>
+						<span>🔱 2180</span>
 					</div>
-				<div class="stars-today">⭐ 1524 stars this week</div>
+				<div class="stars-today">⭐ 3520 stars this week</div>
 				</div>
 			</div>
 	

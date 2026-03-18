@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-18T10:37:18Z
+date: 2026-03-18T12:36:58Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33596</span>
+						<span>🔱 4277</span>
+					</div>
+				<div class="stars-today">⭐ 27746 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40382</span>
-						<span>🔱 6650</span>
+						<span>⭐ 40441</span>
+						<span>🔱 6656</span>
 					</div>
 				<div class="stars-today">⭐ 32984 stars this month</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37941</span>
-						<span>🔱 5199</span>
+						<span>⭐ 37963</span>
+						<span>🔱 5202</span>
 					</div>
 				<div class="stars-today">⭐ 31045 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33465</span>
-						<span>🔱 4261</span>
-					</div>
-				<div class="stars-today">⭐ 27746 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34379</span>
+						<span>⭐ 34396</span>
 						<span>🔱 3415</span>
 					</div>
 				<div class="stars-today">⭐ 16925 stars this month</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31604</span>
-						<span>🔱 3820</span>
+						<span>⭐ 31621</span>
+						<span>🔱 3822</span>
 					</div>
 				<div class="stars-today">⭐ 11584 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15492</span>
-						<span>🔱 1046</span>
+						<span>⭐ 15542</span>
+						<span>🔱 1050</span>
 					</div>
 				<div class="stars-today">⭐ 12866 stars this month</div>
 				</div>
@@ -156,11 +156,13 @@ keywords:
         huggingface /
 
       skills</a></p>
-				<p></p>
+				<p>
+      Give your agents the power of the Hugging Face ecosystem
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9260</span>
+						<span>⭐ 9270</span>
 						<span>🔱 557</span>
 					</div>
 				<div class="stars-today">⭐ 8002 stars this month</div>
@@ -182,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8486</span>
+						<span>⭐ 8509</span>
 						<span>🔱 644</span>
 					</div>
 				<div class="stars-today">⭐ 6945 stars this month</div>
@@ -204,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31567</span>
-						<span>🔱 5260</span>
+						<span>⭐ 31701</span>
+						<span>🔱 5275</span>
 					</div>
 				<div class="stars-today">⭐ 12982 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fluxerapp/fluxer" target="_blank">
-    
-
-
-      
-        fluxerapp /
-
-      fluxer</a></p>
-				<p>
-      A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6842</span>
-						<span>🔱 366</span>
-					</div>
-				<div class="stars-today">⭐ 4457 stars this month</div>
 				</div>
 			</div>
 	
@@ -248,98 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 94273</span>
-						<span>🔱 7455</span>
+						<span>⭐ 94584</span>
+						<span>🔱 7487</span>
 					</div>
 				<div class="stars-today">⭐ 37809 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
-    
-
-
-      
-        alirezarezvani /
-
-      claude-skills</a></p>
-				<p>
-      +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5656</span>
-						<span>🔱 659</span>
-					</div>
-				<div class="stars-today">⭐ 3753 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sickn33/antigravity-awesome-skills" target="_blank">
-    
-
-
-      
-        sickn33 /
-
-      antigravity-awesome-skills</a></p>
-				<p>
-      The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25512</span>
-						<span>🔱 4360</span>
-					</div>
-				<div class="stars-today">⭐ 14787 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
-    
-
-
-      
-        openclaw /
-
-      openclaw</a></p>
-				<p>
-      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 321846</span>
-						<span>🔱 61885</span>
-					</div>
-				<div class="stars-today">⭐ 119242 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 23738</span>
-						<span>🔱 921</span>
-					</div>
-				<div class="stars-today">⭐ 4567 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 21367</span>
-						<span>🔱 801</span>
+						<span>⭐ 21436</span>
+						<span>🔱 806</span>
 					</div>
 				<div class="stars-today">⭐ 8945 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/p-e-w/heretic" target="_blank">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
 
       
-        p-e-w /
+        clockworklabs /
 
-      heretic</a></p>
+      SpacetimeDB</a></p>
 				<p>
-      Fully automatic censorship removal for language models
+      Development at the speed of light
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15820</span>
-						<span>🔱 1605</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 23744</span>
+						<span>🔱 923</span>
 					</div>
-				<div class="stars-today">⭐ 8961 stars this month</div>
+				<div class="stars-today">⭐ 4567 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 84482</span>
+						<span>🔱 11020</span>
+					</div>
+				<div class="stars-today">⭐ 36186 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/fluxerapp/fluxer" target="_blank">
+    
+
+
+      
+        fluxerapp /
+
+      fluxer</a></p>
+				<p>
+      A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6851</span>
+						<span>🔱 366</span>
+					</div>
+				<div class="stars-today">⭐ 4457 stars this month</div>
 				</div>
 			</div>
 	
