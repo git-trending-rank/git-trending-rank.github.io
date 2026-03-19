@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 19 Mar 2026 10:26:29 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 19 Mar 2026 12:29:52 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第12周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC12%E5%91%A8/</link>
-        <pubDate>Thu, 19 Mar 2026 10:26:29 +0000</pubDate>
+        <pubDate>Thu, 19 Mar 2026 12:29:52 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC12%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,54 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 35071&lt;/span&gt;
-						&lt;span&gt;🔱 4521&lt;/span&gt;
+						&lt;span&gt;⭐ 35218&lt;/span&gt;
+						&lt;span&gt;🔱 4545&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17714 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/BitNet&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      BitNet&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Official inference framework for 1-bit LLMs
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 35741&lt;/span&gt;
-						&lt;span&gt;🔱 3071&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6457 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/msitarzewski/agency-agents&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 54791&lt;/span&gt;
-						&lt;span&gt;🔱 8187&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25297 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,7 +55,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Zig&lt;/span&gt;
-						&lt;span&gt;⭐ 21990&lt;/span&gt;
+						&lt;span&gt;⭐ 22027&lt;/span&gt;
 						&lt;span&gt;🔱 835&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9442 stars this week&lt;/div&gt;
@@ -107,24 +63,46 @@
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/alibaba/page-agent&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/msitarzewski/agency-agents&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        alibaba /
+        msitarzewski /
 
-      page-agent&lt;/a&gt;&lt;/p&gt;
+      agency-agents&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 11618&lt;/span&gt;
-						&lt;span&gt;🔱 877&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 54906&lt;/span&gt;
+						&lt;span&gt;🔱 8205&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6794 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25297 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/BitNet&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      BitNet&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Official inference framework for 1-bit LLMs
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 35763&lt;/span&gt;
+						&lt;span&gt;🔱 3077&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6457 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,10 +121,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16015&lt;/span&gt;
-						&lt;span&gt;🔱 1087&lt;/span&gt;
+						&lt;span&gt;⭐ 16058&lt;/span&gt;
+						&lt;span&gt;🔱 1090&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9840 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/alibaba/page-agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        alibaba /
+
+      page-agent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11651&lt;/span&gt;
+						&lt;span&gt;🔱 881&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6794 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,96 +165,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3332&lt;/span&gt;
-						&lt;span&gt;🔱 300&lt;/span&gt;
+						&lt;span&gt;⭐ 3340&lt;/span&gt;
+						&lt;span&gt;🔱 302&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2537 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/andrewyng/context-hub&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        andrewyng /
-
-      context-hub&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 10390&lt;/span&gt;
-						&lt;span&gt;🔱 910&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5629 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/fishaudio/fish-speech&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        fishaudio /
-
-      fish-speech&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      SOTA Open Source TTS
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 28224&lt;/span&gt;
-						&lt;span&gt;🔱 2355&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2606 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/pbakaus/impeccable&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        pbakaus /
-
-      impeccable&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The design language that makes your AI harness better at design.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 10717&lt;/span&gt;
-						&lt;span&gt;🔱 412&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6457 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/promptfoo/promptfoo&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        promptfoo /
-
-      promptfoo&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 17541&lt;/span&gt;
-						&lt;span&gt;🔱 1513&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5060 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -273,76 +187,74 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 97702&lt;/span&gt;
-						&lt;span&gt;🔱 7773&lt;/span&gt;
+						&lt;span&gt;⭐ 97996&lt;/span&gt;
+						&lt;span&gt;🔱 7796&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17527 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pbakaus/impeccable&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        NousResearch /
+        pbakaus /
 
-      hermes-agent&lt;/a&gt;&lt;/p&gt;
+      impeccable&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The agent that grows with you
+      The design language that makes your AI harness better at design.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8978&lt;/span&gt;
-						&lt;span&gt;🔱 1075&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 10751&lt;/span&gt;
+						&lt;span&gt;🔱 413&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4046 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6457 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vectorize-io/hindsight&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/open-swe&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        vectorize-io /
+        langchain-ai /
 
-      hindsight&lt;/a&gt;&lt;/p&gt;
+      open-swe&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Hindsight: Agent Memory That Learns
+      An Open-Source Asynchronous Coding Agent
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5025&lt;/span&gt;
-						&lt;span&gt;🔱 311&lt;/span&gt;
+						&lt;span&gt;⭐ 6756&lt;/span&gt;
+						&lt;span&gt;🔱 854&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2183 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1441 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/shareAI-lab/learn-claude-code&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/andrewyng/context-hub&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        shareAI-lab /
+        andrewyng /
 
-      learn-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    &lt;/p&gt;
+      context-hub&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32999&lt;/span&gt;
-						&lt;span&gt;🔱 5408&lt;/span&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 10441&lt;/span&gt;
+						&lt;span&gt;🔱 917&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6715 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5629 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -361,10 +273,142 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15349&lt;/span&gt;
-						&lt;span&gt;🔱 2239&lt;/span&gt;
+						&lt;span&gt;⭐ 15394&lt;/span&gt;
+						&lt;span&gt;🔱 2249&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4380 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/promptfoo/promptfoo&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        promptfoo /
+
+      promptfoo&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 17551&lt;/span&gt;
+						&lt;span&gt;🔱 1512&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5060 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/shareAI-lab/learn-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 33131&lt;/span&gt;
+						&lt;span&gt;🔱 5422&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6715 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/fishaudio/fish-speech&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        fishaudio /
+
+      fish-speech&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      SOTA Open Source TTS
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 28233&lt;/span&gt;
+						&lt;span&gt;🔱 2357&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2606 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jarrodwatts/claude-hud&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jarrodwatts /
+
+      claude-hud&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 8036&lt;/span&gt;
+						&lt;span&gt;🔱 333&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2210 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The agent that grows with you
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9000&lt;/span&gt;
+						&lt;span&gt;🔱 1077&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4046 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/affaan-m/everything-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 86954&lt;/span&gt;
+						&lt;span&gt;🔱 11385&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13423 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
