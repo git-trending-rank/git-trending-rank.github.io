@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-19T10:26:29Z
+date: 2026-03-19T12:29:52Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35071</span>
-						<span>🔱 4521</span>
+						<span>⭐ 35218</span>
+						<span>🔱 4545</span>
 					</div>
 				<div class="stars-today">⭐ 29769 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 40929</span>
-						<span>🔱 6724</span>
-					</div>
-				<div class="stars-today">⭐ 33451 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38198</span>
-						<span>🔱 5230</span>
+						<span>⭐ 38223</span>
+						<span>🔱 5233</span>
 					</div>
 				<div class="stars-today">⭐ 31342 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
     
 
 
       
-        moeru-ai /
+        koala73 /
 
-      airi</a></p>
+      worldmonitor</a></p>
 				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34560</span>
-						<span>🔱 3428</span>
+						<span>⭐ 40962</span>
+						<span>🔱 6733</span>
 					</div>
-				<div class="stars-today">⭐ 17136 stars this month</div>
+				<div class="stars-today">⭐ 33451 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31803</span>
-						<span>🔱 3848</span>
+						<span>⭐ 31817</span>
+						<span>🔱 3851</span>
 					</div>
 				<div class="stars-today">⭐ 11827 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 34577</span>
+						<span>🔱 3430</span>
+					</div>
+				<div class="stars-today">⭐ 17136 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16015</span>
-						<span>🔱 1087</span>
+						<span>⭐ 16058</span>
+						<span>🔱 1090</span>
 					</div>
 				<div class="stars-today">⭐ 12986 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9376</span>
-						<span>🔱 561</span>
+						<span>⭐ 9382</span>
+						<span>🔱 562</span>
 					</div>
 				<div class="stars-today">⭐ 8080 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8683</span>
-						<span>🔱 657</span>
-					</div>
-				<div class="stars-today">⭐ 7444 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32999</span>
-						<span>🔱 5408</span>
+						<span>⭐ 33131</span>
+						<span>🔱 5422</span>
 					</div>
 				<div class="stars-today">⭐ 14720 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8701</span>
+						<span>🔱 659</span>
+					</div>
+				<div class="stars-today">⭐ 7444 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 97702</span>
-						<span>🔱 7773</span>
+						<span>⭐ 97996</span>
+						<span>🔱 7796</span>
 					</div>
 				<div class="stars-today">⭐ 41241 stars this month</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 21990</span>
+						<span>⭐ 22027</span>
 						<span>🔱 835</span>
 					</div>
 				<div class="stars-today">⭐ 9708 stars this month</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5881</span>
-						<span>🔱 688</span>
+						<span>⭐ 5902</span>
+						<span>🔱 689</span>
 					</div>
 				<div class="stars-today">⭐ 3846 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 23806</span>
-						<span>🔱 925</span>
-					</div>
-				<div class="stars-today">⭐ 4648 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +294,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 86748</span>
-						<span>🔱 11355</span>
+						<span>⭐ 86954</span>
+						<span>🔱 11385</span>
 					</div>
 				<div class="stars-today">⭐ 37354 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/fluxerapp/fluxer" target="_blank">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
     
 
 
       
-        fluxerapp /
+        clockworklabs /
 
-      fluxer</a></p>
+      SpacetimeDB</a></p>
 				<p>
-      A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
+      Development at the speed of light
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 6977</span>
-						<span>🔱 374</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 23810</span>
+						<span>🔱 925</span>
 					</div>
-				<div class="stars-today">⭐ 3796 stars this month</div>
+				<div class="stars-today">⭐ 4648 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
+    
+
+
+      
+        x1xhlol /
+
+      system-prompts-and-models-of-ai-tools</a></p>
+				<p>
+      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 132046</span>
+						<span>🔱 33456</span>
+					</div>
+				<div class="stars-today">⭐ 17432 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
+    
+
+
+      
+        GoogleCloudPlatform /
+
+      generative-ai</a></p>
+				<p>
+      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 16306</span>
+						<span>🔱 4076</span>
+					</div>
+				<div class="stars-today">⭐ 3659 stars this month</div>
 				</div>
 			</div>
 	
