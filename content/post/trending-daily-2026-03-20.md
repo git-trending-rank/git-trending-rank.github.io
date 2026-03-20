@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-20
-date: 2026-03-20T10:23:53Z
+date: 2026-03-20T12:26:13Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
     
 
 
       
-        opendataloader-project /
+        jarrodwatts /
 
-      opendataloader-pdf</a></p>
+      claude-hud</a></p>
 				<p>
-      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 6474</span>
-						<span>🔱 468</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 9090</span>
+						<span>🔱 380</span>
 					</div>
-				<div class="stars-today">⭐ 1416 stars today</div>
+				<div class="stars-today">⭐ 1074 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7337</span>
-						<span>🔱 897</span>
+						<span>⭐ 7385</span>
+						<span>🔱 899</span>
 					</div>
-				<div class="stars-today">⭐ 965 stars today</div>
+				<div class="stars-today">⭐ 640 stars today</div>
 				</div>
 			</div>
 	
@@ -74,120 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 100541</span>
-						<span>🔱 8019</span>
+						<span>⭐ 100707</span>
+						<span>🔱 8037</span>
 					</div>
-				<div class="stars-today">⭐ 3494 stars today</div>
+				<div class="stars-today">⭐ 2886 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
     
 
 
       
-        jarrodwatts /
+        opendataloader-project /
 
-      claude-hud</a></p>
+      opendataloader-pdf</a></p>
 				<p>
-      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9016</span>
-						<span>🔱 374</span>
+						<span>🔠 Java</span>
+						<span>⭐ 6563</span>
+						<span>🔱 476</span>
 					</div>
-				<div class="stars-today">⭐ 1851 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56974</span>
-						<span>🔱 4784</span>
-					</div>
-				<div class="stars-today">⭐ 1262 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mobile-dev-inc/Maestro" target="_blank">
-    
-
-
-      
-        mobile-dev-inc /
-
-      Maestro</a></p>
-				<p>
-      Painless E2E Automation for Mobile and Web
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 12710</span>
-						<span>🔱 718</span>
-					</div>
-				<div class="stars-today">⭐ 492 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tw93/Mole" target="_blank">
-    
-
-
-      
-        tw93 /
-
-      Mole</a></p>
-				<p>
-      🐹 Deep clean and optimize your Mac.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 42480</span>
-						<span>🔱 1220</span>
-					</div>
-				<div class="stars-today">⭐ 399 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/newton-physics/newton" target="_blank">
-    
-
-
-      
-        newton-physics /
-
-      newton</a></p>
-				<p>
-      An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3330</span>
-						<span>🔱 348</span>
-					</div>
-				<div class="stars-today">⭐ 346 stars today</div>
+				<div class="stars-today">⭐ 1848 stars today</div>
 				</div>
 			</div>
 	
@@ -206,76 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11142</span>
-						<span>🔱 977</span>
+						<span>⭐ 11220</span>
+						<span>🔱 979</span>
 					</div>
-				<div class="stars-today">⭐ 946 stars today</div>
+				<div class="stars-today">⭐ 1073 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
+				<p><a href="https://github.com/newton-physics/newton" target="_blank">
     
 
 
       
-        FujiwaraChoki /
+        newton-physics /
 
-      MoneyPrinterV2</a></p>
+      newton</a></p>
 				<p>
-      Automate the process of making money online.
+      An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16417</span>
-						<span>🔱 1728</span>
+						<span>⭐ 3347</span>
+						<span>🔱 348</span>
 					</div>
-				<div class="stars-today">⭐ 146 stars today</div>
+				<div class="stars-today">⭐ 267 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+				<p><a href="https://github.com/vas3k/TaxHacker" target="_blank">
     
 
 
       
-        gsd-build /
+        vas3k /
 
-      get-shit-done</a></p>
+      TaxHacker</a></p>
 				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 36715</span>
-						<span>🔱 2992</span>
-					</div>
-				<div class="stars-today">⭐ 1491 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34361</span>
-						<span>🔱 5556</span>
+						<span>⭐ 1646</span>
+						<span>🔱 237</span>
 					</div>
-				<div class="stars-today">⭐ 1448 stars today</div>
+				<div class="stars-today">⭐ 136 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33521</span>
+						<span>🔱 6471</span>
+					</div>
+				<div class="stars-today">⭐ 371 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openrocket/openrocket" target="_blank">
+    
+
+
+      
+        openrocket /
+
+      openrocket</a></p>
+				<p>
+      Model-rocketry aerodynamics and trajectory simulation software
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 2061</span>
+						<span>🔱 569</span>
+					</div>
+				<div class="stars-today">⭐ 132 stars today</div>
 				</div>
 			</div>
 	

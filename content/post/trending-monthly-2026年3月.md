@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-20T10:23:54Z
+date: 2026-03-20T12:26:13Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36456</span>
-						<span>🔱 4779</span>
+						<span>⭐ 36557</span>
+						<span>🔱 4800</span>
 					</div>
 				<div class="stars-today">⭐ 31367 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38452</span>
-						<span>🔱 5255</span>
+						<span>⭐ 38480</span>
+						<span>🔱 5260</span>
 					</div>
 				<div class="stars-today">⭐ 31506 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41416</span>
-						<span>🔱 6785</span>
+						<span>⭐ 41472</span>
+						<span>🔱 6792</span>
 					</div>
 				<div class="stars-today">⭐ 33111 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31994</span>
-						<span>🔱 3872</span>
+						<span>⭐ 32004</span>
+						<span>🔱 3875</span>
 					</div>
 				<div class="stars-today">⭐ 12001 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34818</span>
-						<span>🔱 3451</span>
+						<span>⭐ 34839</span>
+						<span>🔱 3453</span>
 					</div>
 				<div class="stars-today">⭐ 17300 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16661</span>
-						<span>🔱 1133</span>
+						<span>⭐ 16710</span>
+						<span>🔱 1136</span>
 					</div>
 				<div class="stars-today">⭐ 13226 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p>
-      Give your agents the power of the Hugging Face ecosystem
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9466</span>
-						<span>🔱 569</span>
-					</div>
-				<div class="stars-today">⭐ 8179 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34361</span>
-						<span>🔱 5556</span>
+						<span>⭐ 34427</span>
+						<span>🔱 5565</span>
 					</div>
 				<div class="stars-today">⭐ 16125 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
     
 
 
       
-        alibaba /
+        huggingface /
 
-      OpenSandbox</a></p>
+      skills</a></p>
 				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+      Give your agents the power of the Hugging Face ecosystem
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8848</span>
-						<span>🔱 668</span>
+						<span>⭐ 9477</span>
+						<span>🔱 569</span>
 					</div>
-				<div class="stars-today">⭐ 7637 stars this month</div>
+				<div class="stars-today">⭐ 8179 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 100541</span>
-						<span>🔱 8019</span>
+						<span>⭐ 100707</span>
+						<span>🔱 8037</span>
 					</div>
 				<div class="stars-today">⭐ 43793 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8856</span>
+						<span>🔱 670</span>
+					</div>
+				<div class="stars-today">⭐ 7637 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 22383</span>
-						<span>🔱 859</span>
+						<span>⭐ 22407</span>
+						<span>🔱 860</span>
 					</div>
 				<div class="stars-today">⭐ 10284 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
+    
+
+
+      
+        vxcontrol /
+
+      pentagi</a></p>
+				<p>
+      ✨ Fully autonomous AI Agents system capable of performing complex penetration testing tasks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 10130</span>
+						<span>🔱 1214</span>
+					</div>
+				<div class="stars-today">⭐ 8445 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 89307</span>
-						<span>🔱 11699</span>
+						<span>⭐ 89488</span>
+						<span>🔱 11723</span>
 					</div>
 				<div class="stars-today">⭐ 39351 stars this month</div>
 				</div>
@@ -294,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23869</span>
-						<span>🔱 932</span>
+						<span>⭐ 23877</span>
+						<span>🔱 933</span>
 					</div>
 				<div class="stars-today">⭐ 4709 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
+    
+
+
+      
+        promptfoo /
+
+      promptfoo</a></p>
+				<p>
+      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17752</span>
+						<span>🔱 1526</span>
+					</div>
+				<div class="stars-today">⭐ 7122 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 132323</span>
-						<span>🔱 33502</span>
+						<span>⭐ 132344</span>
+						<span>🔱 33505</span>
 					</div>
 				<div class="stars-today">⭐ 17481 stars this month</div>
 				</div>
@@ -338,7 +382,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16362</span>
+						<span>⭐ 16365</span>
 						<span>🔱 4079</span>
 					</div>
 				<div class="stars-today">⭐ 3667 stars this month</div>
