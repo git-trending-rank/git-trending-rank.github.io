@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-21
-date: 2026-03-21T10:12:20Z
+date: 2026-03-21T12:00:04Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,90 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
     
 
 
       
-        jarrodwatts /
+        FujiwaraChoki /
 
-      claude-hud</a></p>
+      MoneyPrinterV2</a></p>
 				<p>
-      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 9960</span>
-						<span>🔱 429</span>
-					</div>
-				<div class="stars-today">⭐ 1068 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
+      Automate the process of making money online.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7816</span>
-						<span>🔱 931</span>
+						<span>⭐ 16775</span>
+						<span>🔱 1801</span>
 					</div>
-				<div class="stars-today">⭐ 635 stars today</div>
+				<div class="stars-today">⭐ 775 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/systemd/systemd" target="_blank">
     
 
 
       
-        obra /
+        systemd /
 
-      superpowers</a></p>
+      systemd</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      The systemd System and Service Manager 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 102276</span>
-						<span>🔱 8197</span>
+						<span>🔠 C</span>
+						<span>⭐ 15548</span>
+						<span>🔱 4334</span>
 					</div>
-				<div class="stars-today">⭐ 2819 stars today</div>
+				<div class="stars-today">⭐ 47 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 33259</span>
+						<span>🔱 114</span>
+					</div>
+				<div class="stars-today">⭐ 22 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad</a></p>
+				<p>
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5434</span>
+						<span>🔱 522</span>
+					</div>
+				<div class="stars-today">⭐ 2054 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +118,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 7408</span>
-						<span>🔱 518</span>
+						<span>⭐ 7485</span>
+						<span>🔱 520</span>
 					</div>
 				<div class="stars-today">⭐ 1812 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+    
+
+
+      
+        jarrodwatts /
+
+      claude-hud</a></p>
+				<p>
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10023</span>
+						<span>🔱 432</span>
+					</div>
+				<div class="stars-today">⭐ 1068 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
+    
+
+
+      
+        protocolbuffers /
+
+      protobuf</a></p>
+				<p>
+      Protocol Buffers - Google's data interchange format
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 70883</span>
+						<span>🔱 16078</span>
+					</div>
+				<div class="stars-today">⭐ 7 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vllm-project/vllm-omni" target="_blank">
+    
+
+
+      
+        vllm-project /
+
+      vllm-omni</a></p>
+				<p>
+      A framework for efficient model inference with omni-modality models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3381</span>
+						<span>🔱 582</span>
+					</div>
+				<div class="stars-today">⭐ 110 stars today</div>
 				</div>
 			</div>
 	
@@ -118,98 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 11824</span>
-						<span>🔱 1000</span>
+						<span>⭐ 11880</span>
+						<span>🔱 1001</span>
 					</div>
 				<div class="stars-today">⭐ 1045 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/newton-physics/newton" target="_blank">
-    
-
-
-      
-        newton-physics /
-
-      newton</a></p>
-				<p>
-      An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3558</span>
-						<span>🔱 363</span>
-					</div>
-				<div class="stars-today">⭐ 266 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vas3k/TaxHacker" target="_blank">
-    
-
-
-      
-        vas3k /
-
-      TaxHacker</a></p>
-				<p>
-      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2124</span>
-						<span>🔱 279</span>
-					</div>
-				<div class="stars-today">⭐ 137 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34812</span>
-						<span>🔱 6612</span>
-					</div>
-				<div class="stars-today">⭐ 433 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openrocket/openrocket" target="_blank">
-    
-
-
-      
-        openrocket /
-
-      openrocket</a></p>
-				<p>
-      Model-rocketry aerodynamics and trajectory simulation software
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 2309</span>
-						<span>🔱 589</span>
-					</div>
-				<div class="stars-today">⭐ 144 stars today</div>
 				</div>
 			</div>
 	

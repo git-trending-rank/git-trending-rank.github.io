@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第12周
-date: 2026-03-21T10:12:20Z
+date: 2026-03-21T12:00:04Z
 categories:
 - weekly
 keywords:
@@ -30,120 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37615</span>
-						<span>🔱 5030</span>
+						<span>⭐ 37706</span>
+						<span>🔱 5042</span>
 					</div>
 				<div class="stars-today">⭐ 16022 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
-    
-
-
-      
-        lightpanda-io /
-
-      browser</a></p>
-				<p>
-      Lightpanda: the headless browser designed for AI and automation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 22877</span>
-						<span>🔱 890</span>
-					</div>
-				<div class="stars-today">⭐ 8189 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7816</span>
-						<span>🔱 931</span>
-					</div>
-				<div class="stars-today">⭐ 2111 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17173</span>
-						<span>🔱 1171</span>
-					</div>
-				<div class="stars-today">⭐ 8772 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 57375</span>
-						<span>🔱 8587</span>
-					</div>
-				<div class="stars-today">⭐ 18643 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 102276</span>
-						<span>🔱 8197</span>
-					</div>
-				<div class="stars-today">⭐ 19921 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 9960</span>
-						<span>🔱 429</span>
+						<span>⭐ 10023</span>
+						<span>🔱 432</span>
 					</div>
 				<div class="stars-today">⭐ 4693 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 22928</span>
+						<span>🔱 890</span>
+					</div>
+				<div class="stars-today">⭐ 8189 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 102391</span>
+						<span>🔱 8209</span>
+					</div>
+				<div class="stars-today">⭐ 19921 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,98 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16096</span>
-						<span>🔱 2328</span>
+						<span>⭐ 16127</span>
+						<span>🔱 2331</span>
 					</div>
 				<div class="stars-today">⭐ 5187 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12709</span>
-						<span>🔱 963</span>
-					</div>
-				<div class="stars-today">⭐ 5194 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34973</span>
-						<span>🔱 5623</span>
-					</div>
-				<div class="stars-today">⭐ 8733 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dimensionalOS/dimos" target="_blank">
-    
-
-
-      
-        dimensionalOS /
-
-      dimos</a></p>
-				<p>
-      Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators).
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1898</span>
-						<span>🔱 284</span>
-					</div>
-				<div class="stars-today">⭐ 1174 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11583</span>
-						<span>🔱 456</span>
-					</div>
-				<div class="stars-today">⭐ 4529 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 91900</span>
-						<span>🔱 12056</span>
+						<span>⭐ 92277</span>
+						<span>🔱 12104</span>
 					</div>
 				<div class="stars-today">⭐ 15436 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
     
 
 
       
-        microsoft /
+        volcengine /
 
-      BitNet</a></p>
+      OpenViking</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36099</span>
-						<span>🔱 3105</span>
+						<span>⭐ 17228</span>
+						<span>🔱 1174</span>
 					</div>
-				<div class="stars-today">⭐ 2785 stars this week</div>
+				<div class="stars-today">⭐ 8772 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35018</span>
+						<span>🔱 5627</span>
+					</div>
+				<div class="stars-today">⭐ 8733 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 57484</span>
+						<span>🔱 8602</span>
+					</div>
+				<div class="stars-today">⭐ 18643 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      unsloth</a></p>
+				<p>
+      Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57219</span>
+						<span>🔱 4810</span>
+					</div>
+				<div class="stars-today">⭐ 3235 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12759</span>
+						<span>🔱 968</span>
+					</div>
+				<div class="stars-today">⭐ 5194 stars this week</div>
 				</div>
 			</div>
 	
@@ -336,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 11113</span>
-						<span>🔱 979</span>
+						<span>⭐ 11139</span>
+						<span>🔱 981</span>
 					</div>
 				<div class="stars-today">⭐ 5170 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
+    
+
+
+      
+        shadps4-emu /
+
+      shadPS4</a></p>
+				<p>
+      PlayStation 4 emulator for Windows, Linux and macOS written in C++
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 30226</span>
+						<span>🔱 2043</span>
+					</div>
+				<div class="stars-today">⭐ 1658 stars this week</div>
 				</div>
 			</div>
 	

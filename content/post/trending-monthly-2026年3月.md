@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-21T10:12:20Z
+date: 2026-03-21T12:00:04Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37615</span>
-						<span>🔱 5030</span>
+						<span>⭐ 37706</span>
+						<span>🔱 5042</span>
 					</div>
 				<div class="stars-today">⭐ 32574 stars this month</div>
 				</div>
@@ -52,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38691</span>
+						<span>⭐ 38704</span>
 						<span>🔱 5281</span>
 					</div>
 				<div class="stars-today">⭐ 31688 stars this month</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41904</span>
-						<span>🔱 6847</span>
+						<span>⭐ 41938</span>
+						<span>🔱 6848</span>
 					</div>
 				<div class="stars-today">⭐ 33076 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32124</span>
-						<span>🔱 3894</span>
-					</div>
-				<div class="stars-today">⭐ 12170 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 19666</span>
-						<span>🔱 1711</span>
+						<span>⭐ 19706</span>
+						<span>🔱 1714</span>
 					</div>
 				<div class="stars-today">⭐ 16574 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32136</span>
+						<span>🔱 3895</span>
+					</div>
+				<div class="stars-today">⭐ 12170 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34978</span>
-						<span>🔱 3469</span>
+						<span>⭐ 34989</span>
+						<span>🔱 3470</span>
 					</div>
 				<div class="stars-today">⭐ 17554 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17173</span>
-						<span>🔱 1171</span>
+						<span>⭐ 17228</span>
+						<span>🔱 1174</span>
 					</div>
 				<div class="stars-today">⭐ 13725 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34973</span>
-						<span>🔱 5623</span>
+						<span>⭐ 35018</span>
+						<span>🔱 5627</span>
 					</div>
 				<div class="stars-today">⭐ 17374 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9542</span>
+						<span>⭐ 9548</span>
 						<span>🔱 577</span>
 					</div>
 				<div class="stars-today">⭐ 8233 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 102276</span>
-						<span>🔱 8197</span>
+						<span>⭐ 102391</span>
+						<span>🔱 8209</span>
 					</div>
 				<div class="stars-today">⭐ 45528 stars this month</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8912</span>
+						<span>⭐ 8917</span>
 						<span>🔱 675</span>
 					</div>
 				<div class="stars-today">⭐ 7785 stars this month</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 22877</span>
+						<span>⭐ 22928</span>
 						<span>🔱 890</span>
 					</div>
 				<div class="stars-today">⭐ 10649 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
-    
-
-
-      
-        vxcontrol /
-
-      pentagi</a></p>
-				<p>
-      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 10230</span>
-						<span>🔱 1218</span>
-					</div>
-				<div class="stars-today">⭐ 7547 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 91900</span>
-						<span>🔱 12056</span>
+						<span>⭐ 92277</span>
+						<span>🔱 12104</span>
 					</div>
 				<div class="stars-today">⭐ 41459 stars this month</div>
 				</div>
@@ -338,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23927</span>
+						<span>⭐ 23932</span>
 						<span>🔱 934</span>
 					</div>
 				<div class="stars-today">⭐ 4768 stars this month</div>
@@ -346,68 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
     
 
 
       
-        promptfoo /
+        langchain-ai /
 
-      promptfoo</a></p>
+      open-swe</a></p>
 				<p>
-      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
+      An Open-Source Asynchronous Coding Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17926</span>
-						<span>🔱 1537</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7836</span>
+						<span>🔱 933</span>
 					</div>
-				<div class="stars-today">⭐ 7270 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools" target="_blank">
-    
-
-
-      
-        x1xhlol /
-
-      system-prompts-and-models-of-ai-tools</a></p>
-				<p>
-      FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 132459</span>
-						<span>🔱 33521</span>
-					</div>
-				<div class="stars-today">⭐ 17640 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GoogleCloudPlatform/generative-ai" target="_blank">
-    
-
-
-      
-        GoogleCloudPlatform /
-
-      generative-ai</a></p>
-				<p>
-      Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 16406</span>
-						<span>🔱 4080</span>
-					</div>
-				<div class="stars-today">⭐ 3722 stars this month</div>
+				<div class="stars-today">⭐ 2253 stars this month</div>
 				</div>
 			</div>
 	
