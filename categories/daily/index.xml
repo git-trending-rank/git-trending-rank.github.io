@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sat, 21 Mar 2026 10:12:20 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Mar 2026 12:00:04 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-03-21</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-03-21/</link>
-        <pubDate>Sat, 21 Mar 2026 10:12:20 +0000</pubDate>
+        <pubDate>Sat, 21 Mar 2026 12:00:04 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-03-21/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,68 +19,90 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jarrodwatts/claude-hud&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/FujiwaraChoki/MoneyPrinterV2&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        jarrodwatts /
+        FujiwaraChoki /
 
-      claude-hud&lt;/a&gt;&lt;/p&gt;
+      MoneyPrinterV2&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9960&lt;/span&gt;
-						&lt;span&gt;🔱 429&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1068 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/langchain-ai/open-swe&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        langchain-ai /
-
-      open-swe&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An Open-Source Asynchronous Coding Agent
+      Automate the process of making money online.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7816&lt;/span&gt;
-						&lt;span&gt;🔱 931&lt;/span&gt;
+						&lt;span&gt;⭐ 16775&lt;/span&gt;
+						&lt;span&gt;🔱 1801&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 635 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 775 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/systemd/systemd&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        obra /
+        systemd /
 
-      superpowers&lt;/a&gt;&lt;/p&gt;
+      systemd&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      An agentic skills framework &amp; software development methodology that works.
+      The systemd System and Service Manager 
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 102276&lt;/span&gt;
-						&lt;span&gt;🔱 8197&lt;/span&gt;
+						&lt;span&gt;🔠 C&lt;/span&gt;
+						&lt;span&gt;⭐ 15548&lt;/span&gt;
+						&lt;span&gt;🔱 4334&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2819 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 47 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/aquasecurity/trivy&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        aquasecurity /
+
+      trivy&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 33259&lt;/span&gt;
+						&lt;span&gt;🔱 114&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Crosstalk-Solutions/project-nomad&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5434&lt;/span&gt;
+						&lt;span&gt;🔱 522&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2054 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,10 +121,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 7408&lt;/span&gt;
-						&lt;span&gt;🔱 518&lt;/span&gt;
+						&lt;span&gt;⭐ 7485&lt;/span&gt;
+						&lt;span&gt;🔱 520&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1812 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jarrodwatts/claude-hud&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jarrodwatts /
+
+      claude-hud&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Claude Code plugin that shows what&#39;s happening - context usage, active tools, running agents, and todo progress
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 10023&lt;/span&gt;
+						&lt;span&gt;🔱 432&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1068 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/protocolbuffers/protobuf&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        protocolbuffers /
+
+      protobuf&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Protocol Buffers - Google&#39;s data interchange format
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 70883&lt;/span&gt;
+						&lt;span&gt;🔱 16078&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vllm-project/vllm-omni&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vllm-project /
+
+      vllm-omni&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A framework for efficient model inference with omni-modality models
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3381&lt;/span&gt;
+						&lt;span&gt;🔱 582&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 110 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,98 +209,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 11824&lt;/span&gt;
-						&lt;span&gt;🔱 1000&lt;/span&gt;
+						&lt;span&gt;⭐ 11880&lt;/span&gt;
+						&lt;span&gt;🔱 1001&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1045 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/newton-physics/newton&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        newton-physics /
-
-      newton&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3558&lt;/span&gt;
-						&lt;span&gt;🔱 363&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 266 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vas3k/TaxHacker&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        vas3k /
-
-      TaxHacker&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 2124&lt;/span&gt;
-						&lt;span&gt;🔱 279&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 137 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TauricResearch/TradingAgents&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 34812&lt;/span&gt;
-						&lt;span&gt;🔱 6612&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 433 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openrocket/openrocket&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openrocket /
-
-      openrocket&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Model-rocketry aerodynamics and trajectory simulation software
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Java&lt;/span&gt;
-						&lt;span&gt;⭐ 2309&lt;/span&gt;
-						&lt;span&gt;🔱 589&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 144 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
