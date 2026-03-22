@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第12周
-date: 2026-03-22T10:13:31Z
+date: 2026-03-22T12:00:07Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 38835</span>
-						<span>🔱 5224</span>
-					</div>
-				<div class="stars-today">⭐ 15056 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10794</span>
-						<span>🔱 456</span>
+						<span>⭐ 10844</span>
+						<span>🔱 459</span>
 					</div>
 				<div class="stars-today">⭐ 5653 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        lightpanda-io /
+        666ghj /
 
-      browser</a></p>
+      MiroFish</a></p>
 				<p>
-      Lightpanda: the headless browser designed for AI and automation
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 23493</span>
-						<span>🔱 924</span>
+						<span>🔠 Python</span>
+						<span>⭐ 38921</span>
+						<span>🔱 5247</span>
 					</div>
-				<div class="stars-today">⭐ 6596 stars this week</div>
+				<div class="stars-today">⭐ 15056 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 104039</span>
-						<span>🔱 8360</span>
+						<span>⭐ 104177</span>
+						<span>🔱 8371</span>
 					</div>
 				<div class="stars-today">⭐ 20308 stars this week</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16486</span>
-						<span>🔱 2365</span>
+						<span>⭐ 16523</span>
+						<span>🔱 2367</span>
 					</div>
 				<div class="stars-today">⭐ 5487 stars this week</div>
 				</div>
@@ -140,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 95596</span>
-						<span>🔱 12506</span>
+						<span>⭐ 95933</span>
+						<span>🔱 12534</span>
 					</div>
 				<div class="stars-today">⭐ 17462 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
     
 
 
       
-        volcengine /
+        FujiwaraChoki /
 
-      OpenViking</a></p>
+      MoneyPrinterV2</a></p>
 				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+      Automate the process of making money online.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17674</span>
-						<span>🔱 1208</span>
+						<span>⭐ 18535</span>
+						<span>🔱 1965</span>
 					</div>
-				<div class="stars-today">⭐ 7647 stars this week</div>
+				<div class="stars-today">⭐ 2177 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 23521</span>
+						<span>🔱 925</span>
+					</div>
+				<div class="stars-today">⭐ 6596 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35559</span>
-						<span>🔱 5695</span>
+						<span>⭐ 35617</span>
+						<span>🔱 5700</span>
 					</div>
 				<div class="stars-today">⭐ 8609 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+				<p><a href="https://github.com/voidzero-dev/vite-plus" target="_blank">
     
 
 
       
-        msitarzewski /
+        voidzero-dev /
 
-      agency-agents</a></p>
+      vite-plus</a></p>
 				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+      Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 58831</span>
-						<span>🔱 8788</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 3220</span>
+						<span>🔱 115</span>
 					</div>
-				<div class="stars-today">⭐ 15594 stars this week</div>
+				<div class="stars-today">⭐ 1981 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,52 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57442</span>
-						<span>🔱 4840</span>
+						<span>⭐ 57467</span>
+						<span>🔱 4841</span>
 					</div>
 				<div class="stars-today">⭐ 3367 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
     
 
 
       
-        alibaba /
+        volcengine /
 
-      page-agent</a></p>
+      OpenViking</a></p>
 				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13174</span>
-						<span>🔱 1000</span>
+						<span>🔠 Python</span>
+						<span>⭐ 17702</span>
+						<span>🔱 1208</span>
 					</div>
-				<div class="stars-today">⭐ 4726 stars this week</div>
+				<div class="stars-today">⭐ 7647 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/andrewyng/context-hub" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        andrewyng /
+        TauricResearch /
 
-      context-hub</a></p>
-				<p></p>
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11400</span>
-						<span>🔱 1003</span>
+						<span>🔠 Python</span>
+						<span>⭐ 35970</span>
+						<span>🔱 6853</span>
 					</div>
-				<div class="stars-today">⭐ 5224 stars this week</div>
+				<div class="stars-today">⭐ 3773 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +294,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 30295</span>
+						<span>⭐ 30302</span>
 						<span>🔱 2050</span>
 					</div>
 				<div class="stars-today">⭐ 1683 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/andrewyng/context-hub" target="_blank">
+    
+
+
+      
+        andrewyng /
+
+      context-hub</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11420</span>
+						<span>🔱 1005</span>
+					</div>
+				<div class="stars-today">⭐ 5224 stars this week</div>
 				</div>
 			</div>
 	

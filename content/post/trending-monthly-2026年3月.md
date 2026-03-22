@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-22T10:13:31Z
+date: 2026-03-22T12:00:07Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38835</span>
-						<span>🔱 5224</span>
+						<span>⭐ 38921</span>
+						<span>🔱 5247</span>
 					</div>
 				<div class="stars-today">⭐ 33782 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 38902</span>
-						<span>🔱 5304</span>
+						<span>⭐ 38917</span>
+						<span>🔱 5307</span>
 					</div>
 				<div class="stars-today">⭐ 31866 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus</a></p>
+				<p>
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18688</span>
+						<span>🔱 2159</span>
+					</div>
+				<div class="stars-today">⭐ 17514 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42371</span>
-						<span>🔱 6904</span>
+						<span>⭐ 42410</span>
+						<span>🔱 6909</span>
 					</div>
 				<div class="stars-today">⭐ 33363 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      practice made claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 20157</span>
-						<span>🔱 1747</span>
-					</div>
-				<div class="stars-today">⭐ 16905 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33578</span>
-						<span>🔱 4073</span>
+						<span>⭐ 33797</span>
+						<span>🔱 4101</span>
 					</div>
 				<div class="stars-today">⭐ 12289 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 20194</span>
+						<span>🔱 1750</span>
+					</div>
+				<div class="stars-today">⭐ 16905 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35096</span>
-						<span>🔱 3482</span>
+						<span>⭐ 35111</span>
+						<span>🔱 3483</span>
 					</div>
 				<div class="stars-today">⭐ 17700 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17674</span>
-						<span>🔱 1208</span>
-					</div>
-				<div class="stars-today">⭐ 14196 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35559</span>
-						<span>🔱 5695</span>
+						<span>⭐ 35617</span>
+						<span>🔱 5700</span>
 					</div>
 				<div class="stars-today">⭐ 17989 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
     
 
 
       
-        huggingface /
+        volcengine /
 
-      skills</a></p>
+      OpenViking</a></p>
 				<p>
-      Give your agents the power of the Hugging Face ecosystem
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9632</span>
-						<span>🔱 578</span>
+						<span>⭐ 17702</span>
+						<span>🔱 1208</span>
 					</div>
-				<div class="stars-today">⭐ 8057 stars this month</div>
+				<div class="stars-today">⭐ 14196 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 104039</span>
-						<span>🔱 8360</span>
+						<span>⭐ 104177</span>
+						<span>🔱 8371</span>
 					</div>
 				<div class="stars-today">⭐ 46570 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8990</span>
-						<span>🔱 680</span>
-					</div>
-				<div class="stars-today">⭐ 7845 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
-    
-
-
-      
-        lightpanda-io /
-
-      browser</a></p>
-				<p>
-      Lightpanda: the headless browser designed for AI and automation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 23493</span>
-						<span>🔱 924</span>
-					</div>
-				<div class="stars-today">⭐ 11232 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 95596</span>
-						<span>🔱 12506</span>
+						<span>⭐ 95933</span>
+						<span>🔱 12534</span>
 					</div>
 				<div class="stars-today">⭐ 44276 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8998</span>
+						<span>🔱 681</span>
+					</div>
+				<div class="stars-today">⭐ 7845 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      skills</a></p>
+				<p>
+      Give your agents the power of the Hugging Face ecosystem
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9639</span>
+						<span>🔱 578</span>
+					</div>
+				<div class="stars-today">⭐ 8057 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 23521</span>
+						<span>🔱 925</span>
+					</div>
+				<div class="stars-today">⭐ 11232 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6251</span>
-						<span>🔱 740</span>
+						<span>⭐ 6271</span>
+						<span>🔱 741</span>
 					</div>
 				<div class="stars-today">⭐ 4310 stars this month</div>
 				</div>
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 23991</span>
-						<span>🔱 939</span>
+						<span>⭐ 23995</span>
+						<span>🔱 940</span>
 					</div>
 				<div class="stars-today">⭐ 4832 stars this month</div>
 				</div>
@@ -360,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7973</span>
-						<span>🔱 943</span>
+						<span>⭐ 7987</span>
+						<span>🔱 944</span>
 					</div>
 				<div class="stars-today">⭐ 2625 stars this month</div>
 				</div>

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-22
-date: 2026-03-22T10:13:31Z
+date: 2026-03-22T12:00:07Z
 categories:
 - daily
 keywords:
@@ -30,98 +30,96 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18373</span>
-						<span>🔱 1950</span>
+						<span>⭐ 18535</span>
+						<span>🔱 1965</span>
 					</div>
-				<div class="stars-today">⭐ 283 stars today</div>
+				<div class="stars-today">⭐ 1772 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/systemd/systemd" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        systemd /
+        TauricResearch /
 
-      systemd</a></p>
+      TradingAgents</a></p>
 				<p>
-      The systemd System and Service Manager 
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C</span>
-						<span>⭐ 15835</span>
-						<span>🔱 4363</span>
+						<span>🔠 Python</span>
+						<span>⭐ 35970</span>
+						<span>🔱 6853</span>
 					</div>
-				<div class="stars-today">⭐ 58 stars today</div>
+				<div class="stars-today">⭐ 1503 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
     
 
 
       
-        aquasecurity /
+        vxcontrol /
 
-      trivy</a></p>
+      pentagi</a></p>
 				<p>
-      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 33477</span>
-						<span>🔱 138</span>
+						<span>⭐ 11310</span>
+						<span>🔱 1417</span>
 					</div>
-				<div class="stars-today">⭐ 39 stars today</div>
+				<div class="stars-today">⭐ 1015 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+				<p><a href="https://github.com/jamwithai/production-agentic-rag-course" target="_blank">
     
 
 
       
-        Crosstalk-Solutions /
+        jamwithai /
 
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
+      production-agentic-rag-course</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7555</span>
-						<span>🔱 724</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4542</span>
+						<span>🔱 1155</span>
 					</div>
-				<div class="stars-today">⭐ 2032 stars today</div>
+				<div class="stars-today">⭐ 235 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
     
 
 
       
-        opendataloader-project /
+        affaan-m /
 
-      opendataloader-pdf</a></p>
+      everything-claude-code</a></p>
 				<p>
-      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 8111</span>
-						<span>🔱 547</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 95933</span>
+						<span>🔱 12534</span>
 					</div>
-				<div class="stars-today">⭐ 950 stars today</div>
+				<div class="stars-today">⭐ 3370 stars today</div>
 				</div>
 			</div>
 	
@@ -140,54 +138,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 10794</span>
-						<span>🔱 456</span>
+						<span>⭐ 10844</span>
+						<span>🔱 459</span>
 					</div>
-				<div class="stars-today">⭐ 970 stars today</div>
+				<div class="stars-today">⭐ 832 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/protocolbuffers/protobuf" target="_blank">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
     
 
 
       
-        protocolbuffers /
+        Crosstalk-Solutions /
 
-      protobuf</a></p>
+      project-nomad</a></p>
 				<p>
-      Protocol Buffers - Google's data interchange format
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 70974</span>
-						<span>🔱 16085</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 7719</span>
+						<span>🔱 737</span>
 					</div>
-				<div class="stars-today">⭐ 7 stars today</div>
+				<div class="stars-today">⭐ 2294 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/vllm-project/vllm-omni" target="_blank">
+				<p><a href="https://github.com/systemd/systemd" target="_blank">
     
 
 
       
-        vllm-project /
+        systemd /
 
-      vllm-omni</a></p>
+      systemd</a></p>
 				<p>
-      A framework for efficient model inference with omni-modality models
+      The systemd System and Service Manager 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 15858</span>
+						<span>🔱 4362</span>
+					</div>
+				<div class="stars-today">⭐ 313 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
+    
+
+
+      
+        browser-use /
+
+      browser-use</a></p>
+				<p>
+      🌐 Make websites accessible for AI agents. Automate tasks online with ease.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3591</span>
-						<span>🔱 596</span>
+						<span>⭐ 82060</span>
+						<span>🔱 9646</span>
 					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
+				<div class="stars-today">⭐ 405 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/LightRAG" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      LightRAG</a></p>
+				<p>
+      [EMNLP2025] "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29896</span>
+						<span>🔱 4295</span>
+					</div>
+				<div class="stars-today">⭐ 203 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN</a></p>
+				<p>
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19503</span>
+						<span>🔱 4162</span>
+					</div>
+				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +270,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 12411</span>
-						<span>🔱 1024</span>
+						<span>⭐ 12455</span>
+						<span>🔱 1026</span>
 					</div>
-				<div class="stars-today">⭐ 690 stars today</div>
+				<div class="stars-today">⭐ 583 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 33504</span>
+						<span>🔱 138</span>
+					</div>
+				<div class="stars-today">⭐ 249 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33797</span>
+						<span>🔱 4101</span>
+					</div>
+				<div class="stars-today">⭐ 1508 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 50651</span>
+						<span>🔱 7222</span>
+					</div>
+				<div class="stars-today">⭐ 169 stars today</div>
 				</div>
 			</div>
 	
