@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-23T06:53:49Z
+date: 2026-03-23T08:37:42Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40099</span>
-						<span>🔱 5438</span>
+						<span>⭐ 40213</span>
+						<span>🔱 5455</span>
 					</div>
 				<div class="stars-today">⭐ 34968 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 39715</span>
-						<span>🔱 5431</span>
+						<span>⭐ 39779</span>
+						<span>🔱 5441</span>
 					</div>
 				<div class="stars-today">⭐ 32068 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18904</span>
-						<span>🔱 2195</span>
+						<span>⭐ 18942</span>
+						<span>🔱 2196</span>
 					</div>
 				<div class="stars-today">⭐ 17495 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42819</span>
-						<span>🔱 6978</span>
+						<span>⭐ 42874</span>
+						<span>🔱 6988</span>
 					</div>
 				<div class="stars-today">⭐ 33661 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36332</span>
-						<span>🔱 4345</span>
+						<span>⭐ 36744</span>
+						<span>🔱 4381</span>
 					</div>
 				<div class="stars-today">⭐ 14099 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 20758</span>
-						<span>🔱 1801</span>
+						<span>⭐ 20817</span>
+						<span>🔱 1809</span>
 					</div>
 				<div class="stars-today">⭐ 17268 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35217</span>
-						<span>🔱 3499</span>
+						<span>⭐ 35232</span>
+						<span>🔱 3500</span>
 					</div>
 				<div class="stars-today">⭐ 17811 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36328</span>
-						<span>🔱 5803</span>
+						<span>⭐ 36479</span>
+						<span>🔱 5823</span>
 					</div>
 				<div class="stars-today">⭐ 18518 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18111</span>
-						<span>🔱 1234</span>
+						<span>⭐ 18165</span>
+						<span>🔱 1240</span>
 					</div>
 				<div class="stars-today">⭐ 14548 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 105982</span>
-						<span>🔱 8520</span>
+						<span>⭐ 106257</span>
+						<span>🔱 8538</span>
 					</div>
 				<div class="stars-today">⭐ 47508 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 99256</span>
-						<span>🔱 12945</span>
+						<span>⭐ 99652</span>
+						<span>🔱 12985</span>
 					</div>
 				<div class="stars-today">⭐ 47448 stars this month</div>
 				</div>
@@ -267,12 +267,12 @@ keywords:
 
       OpenSandbox</a></p>
 				<p>
-      OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
+      Secure, Fast, and Extensible Sandbox runtime for AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9075</span>
+						<span>⭐ 9083</span>
 						<span>🔱 689</span>
 					</div>
 				<div class="stars-today">⭐ 7923 stars this month</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9740</span>
-						<span>🔱 589</span>
+						<span>⭐ 9749</span>
+						<span>🔱 590</span>
 					</div>
 				<div class="stars-today">⭐ 7771 stars this month</div>
 				</div>
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 23893</span>
+						<span>⭐ 23932</span>
 						<span>🔱 946</span>
 					</div>
 				<div class="stars-today">⭐ 11766 stars this month</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6443</span>
-						<span>🔱 760</span>
+						<span>⭐ 6455</span>
+						<span>🔱 763</span>
 					</div>
 				<div class="stars-today">⭐ 4387 stars this month</div>
 				</div>
@@ -360,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 24056</span>
+						<span>⭐ 24059</span>
 						<span>🔱 944</span>
 					</div>
 				<div class="stars-today">⭐ 4891 stars this month</div>
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8114</span>
-						<span>🔱 959</span>
+						<span>⭐ 8130</span>
+						<span>🔱 958</span>
 					</div>
 				<div class="stars-today">⭐ 2771 stars this month</div>
 				</div>

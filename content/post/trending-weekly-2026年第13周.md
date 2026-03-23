@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第13周
-date: 2026-03-23T06:53:49Z
+date: 2026-03-23T08:37:42Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+    
+
+
+      
+        jarrodwatts /
+
+      claude-hud</a></p>
+				<p>
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 11572</span>
+						<span>🔱 489</span>
+					</div>
+				<div class="stars-today">⭐ 6411 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40099</span>
-						<span>🔱 5438</span>
+						<span>⭐ 40213</span>
+						<span>🔱 5455</span>
 					</div>
 				<div class="stars-today">⭐ 13473 stars this week</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 105982</span>
-						<span>🔱 8520</span>
+						<span>⭐ 106257</span>
+						<span>🔱 8538</span>
 					</div>
 				<div class="stars-today">⭐ 20036 stars this week</div>
 				</div>
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16856</span>
+						<span>⭐ 16882</span>
 						<span>🔱 2397</span>
 					</div>
 				<div class="stars-today">⭐ 5498 stars this week</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 99256</span>
-						<span>🔱 12945</span>
+						<span>⭐ 99652</span>
+						<span>🔱 12985</span>
 					</div>
 				<div class="stars-today">⭐ 19975 stars this week</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20595</span>
-						<span>🔱 2152</span>
+						<span>⭐ 20852</span>
+						<span>🔱 2167</span>
 					</div>
 				<div class="stars-today">⭐ 3659 stars this week</div>
 				</div>
@@ -140,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 23893</span>
+						<span>⭐ 23932</span>
 						<span>🔱 946</span>
 					</div>
 				<div class="stars-today">⭐ 5947 stars this week</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36328</span>
-						<span>🔱 5803</span>
+						<span>⭐ 36479</span>
+						<span>🔱 5823</span>
 					</div>
 				<div class="stars-today">⭐ 8331 stars this week</div>
 				</div>
@@ -184,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3316</span>
+						<span>⭐ 3331</span>
 						<span>🔱 117</span>
 					</div>
 				<div class="stars-today">⭐ 1805 stars this week</div>
@@ -201,13 +223,13 @@ keywords:
 
       unsloth</a></p>
 				<p>
-      Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+      Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57623</span>
-						<span>🔱 4857</span>
+						<span>⭐ 57641</span>
+						<span>🔱 4856</span>
 					</div>
 				<div class="stars-today">⭐ 3564 stars this week</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18111</span>
-						<span>🔱 1234</span>
+						<span>⭐ 18165</span>
+						<span>🔱 1240</span>
 					</div>
 				<div class="stars-today">⭐ 6297 stars this week</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37977</span>
-						<span>🔱 7147</span>
+						<span>⭐ 38155</span>
+						<span>🔱 7169</span>
 					</div>
 				<div class="stars-today">⭐ 3979 stars this week</div>
 				</div>
@@ -272,7 +294,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 30377</span>
+						<span>⭐ 30385</span>
 						<span>🔱 2054</span>
 					</div>
 				<div class="stars-today">⭐ 1757 stars this week</div>
@@ -292,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 11605</span>
+						<span>⭐ 11622</span>
 						<span>🔱 1020</span>
 					</div>
 				<div class="stars-today">⭐ 5361 stars this week</div>
