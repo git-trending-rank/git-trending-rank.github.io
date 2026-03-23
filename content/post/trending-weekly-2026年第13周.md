@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第13周
-date: 2026-03-23T10:39:17Z
+date: 2026-03-23T12:33:35Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad</a></p>
+				<p>
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11948</span>
+						<span>🔱 1116</span>
+					</div>
+				<div class="stars-today">⭐ 7178 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
@@ -30,98 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 11663</span>
-						<span>🔱 491</span>
+						<span>⭐ 11717</span>
+						<span>🔱 494</span>
 					</div>
 				<div class="stars-today">⭐ 6411 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40324</span>
-						<span>🔱 5472</span>
-					</div>
-				<div class="stars-today">⭐ 13473 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 106584</span>
-						<span>🔱 8557</span>
-					</div>
-				<div class="stars-today">⭐ 20036 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      deepagents</a></p>
-				<p>
-      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16915</span>
-						<span>🔱 2398</span>
-					</div>
-				<div class="stars-today">⭐ 5498 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 100049</span>
-						<span>🔱 13030</span>
-					</div>
-				<div class="stars-today">⭐ 19975 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,120 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21182</span>
-						<span>🔱 2196</span>
+						<span>⭐ 21491</span>
+						<span>🔱 2220</span>
 					</div>
 				<div class="stars-today">⭐ 3659 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        lightpanda-io /
+        obra /
 
-      browser</a></p>
+      superpowers</a></p>
 				<p>
-      Lightpanda: the headless browser designed for AI and automation
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 23963</span>
-						<span>🔱 947</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 106784</span>
+						<span>🔱 8571</span>
 					</div>
-				<div class="stars-today">⭐ 5947 stars this week</div>
+				<div class="stars-today">⭐ 20036 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        shareAI-lab /
+        666ghj /
 
-      learn-claude-code</a></p>
+      MiroFish</a></p>
 				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36601</span>
-						<span>🔱 5840</span>
-					</div>
-				<div class="stars-today">⭐ 8331 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/voidzero-dev/vite-plus" target="_blank">
-    
-
-
-      
-        voidzero-dev /
-
-      vite-plus</a></p>
-				<p>
-      Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 3343</span>
-						<span>🔱 117</span>
-					</div>
-				<div class="stars-today">⭐ 1805 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57665</span>
-						<span>🔱 4859</span>
+						<span>⭐ 40409</span>
+						<span>🔱 5485</span>
 					</div>
-				<div class="stars-today">⭐ 3564 stars this week</div>
+				<div class="stars-today">⭐ 13473 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
     
 
 
       
-        volcengine /
+        affaan-m /
 
-      OpenViking</a></p>
+      everything-claude-code</a></p>
 				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18214</span>
-						<span>🔱 1244</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 100404</span>
+						<span>🔱 13064</span>
 					</div>
-				<div class="stars-today">⭐ 6297 stars this week</div>
+				<div class="stars-today">⭐ 19975 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 38360</span>
-						<span>🔱 7197</span>
+						<span>⭐ 38489</span>
+						<span>🔱 7213</span>
 					</div>
 				<div class="stars-today">⭐ 3979 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      deepagents</a></p>
+				<p>
+      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16950</span>
+						<span>🔱 2399</span>
+					</div>
+				<div class="stars-today">⭐ 5498 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
+    
+
+
+      
+        unslothai /
+
+      unsloth</a></p>
+				<p>
+      Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 57683</span>
+						<span>🔱 4861</span>
+					</div>
+				<div class="stars-today">⭐ 3564 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 30395</span>
-						<span>🔱 2053</span>
+						<span>⭐ 30404</span>
+						<span>🔱 2055</span>
 					</div>
 				<div class="stars-today">⭐ 1757 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36693</span>
+						<span>🔱 5850</span>
+					</div>
+				<div class="stars-today">⭐ 8331 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 11639</span>
-						<span>🔱 1022</span>
+						<span>⭐ 11659</span>
+						<span>🔱 1024</span>
 					</div>
 				<div class="stars-today">⭐ 5361 stars this week</div>
 				</div>

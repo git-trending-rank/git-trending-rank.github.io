@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-23T10:39:17Z
+date: 2026-03-23T12:33:35Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40324</span>
-						<span>🔱 5472</span>
-					</div>
-				<div class="stars-today">⭐ 34968 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 39828</span>
-						<span>🔱 5452</span>
+						<span>⭐ 39883</span>
+						<span>🔱 5460</span>
 					</div>
 				<div class="stars-today">⭐ 32068 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40409</span>
+						<span>🔱 5485</span>
+					</div>
+				<div class="stars-today">⭐ 34968 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18986</span>
-						<span>🔱 2200</span>
+						<span>⭐ 19015</span>
+						<span>🔱 2202</span>
 					</div>
 				<div class="stars-today">⭐ 17495 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
     
 
 
       
-        koala73 /
+        D4Vinci /
 
-      worldmonitor</a></p>
+      Scrapling</a></p>
 				<p>
-      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42927</span>
-						<span>🔱 6992</span>
+						<span>🔠 Python</span>
+						<span>⭐ 32022</span>
+						<span>🔱 2555</span>
 					</div>
-				<div class="stars-today">⭐ 33661 stars this month</div>
+				<div class="stars-today">⭐ 22362 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37053</span>
-						<span>🔱 4408</span>
+						<span>⭐ 37424</span>
+						<span>🔱 4450</span>
 					</div>
 				<div class="stars-today">⭐ 14099 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 42972</span>
+						<span>🔱 6998</span>
+					</div>
+				<div class="stars-today">⭐ 33661 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 20863</span>
-						<span>🔱 1813</span>
+						<span>⭐ 20920</span>
+						<span>🔱 1817</span>
 					</div>
 				<div class="stars-today">⭐ 17268 stars this month</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35256</span>
-						<span>🔱 3501</span>
+						<span>⭐ 35269</span>
+						<span>🔱 3502</span>
 					</div>
 				<div class="stars-today">⭐ 17811 stars this month</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36601</span>
-						<span>🔱 5840</span>
+						<span>⭐ 36693</span>
+						<span>🔱 5850</span>
 					</div>
 				<div class="stars-today">⭐ 18518 stars this month</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18214</span>
-						<span>🔱 1244</span>
+						<span>⭐ 18235</span>
+						<span>🔱 1245</span>
 					</div>
 				<div class="stars-today">⭐ 14548 stars this month</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 106584</span>
-						<span>🔱 8557</span>
+						<span>⭐ 106784</span>
+						<span>🔱 8571</span>
 					</div>
 				<div class="stars-today">⭐ 47508 stars this month</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 100049</span>
-						<span>🔱 13030</span>
+						<span>⭐ 100404</span>
+						<span>🔱 13064</span>
 					</div>
 				<div class="stars-today">⭐ 47448 stars this month</div>
 				</div>
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9092</span>
-						<span>🔱 690</span>
+						<span>⭐ 9097</span>
+						<span>🔱 692</span>
 					</div>
 				<div class="stars-today">⭐ 7923 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      skills</a></p>
-				<p>
-      Give your agents the power of the Hugging Face ecosystem
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9759</span>
-						<span>🔱 590</span>
-					</div>
-				<div class="stars-today">⭐ 7771 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 23963</span>
-						<span>🔱 947</span>
+						<span>⭐ 23988</span>
+						<span>🔱 950</span>
 					</div>
 				<div class="stars-today">⭐ 11766 stars this month</div>
 				</div>
@@ -338,54 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6475</span>
-						<span>🔱 764</span>
+						<span>⭐ 6489</span>
+						<span>🔱 765</span>
 					</div>
 				<div class="stars-today">⭐ 4387 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+				<p><a href="https://github.com/huggingface/skills" target="_blank">
     
 
 
       
-        clockworklabs /
+        huggingface /
 
-      SpacetimeDB</a></p>
+      skills</a></p>
 				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24066</span>
-						<span>🔱 946</span>
-					</div>
-				<div class="stars-today">⭐ 4891 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
+      Give your agents the power of the Hugging Face ecosystem
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8144</span>
-						<span>🔱 959</span>
+						<span>⭐ 9765</span>
+						<span>🔱 590</span>
 					</div>
-				<div class="stars-today">⭐ 2771 stars this month</div>
+				<div class="stars-today">⭐ 7771 stars this month</div>
 				</div>
 			</div>
 	
