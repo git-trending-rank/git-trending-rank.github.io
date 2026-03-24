@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 24 Mar 2026 10:36:37 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 24 Mar 2026 12:36:45 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-03-24</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-03-24/</link>
-        <pubDate>Tue, 24 Mar 2026 10:36:37 +0000</pubDate>
+        <pubDate>Tue, 24 Mar 2026 12:36:45 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-03-24/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -19,24 +19,22 @@
 
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/FujiwaraChoki/MoneyPrinterV2&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pascalorg/editor&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        FujiwaraChoki /
+        pascalorg /
 
-      MoneyPrinterV2&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Automate the process of making money online.
-    &lt;/p&gt;
+      editor&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24136&lt;/span&gt;
-						&lt;span&gt;🔱 2494&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4203&lt;/span&gt;
+						&lt;span&gt;🔱 634&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2880 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2315 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,10 +53,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 41342&lt;/span&gt;
-						&lt;span&gt;🔱 4839&lt;/span&gt;
+						&lt;span&gt;⭐ 41639&lt;/span&gt;
+						&lt;span&gt;🔱 4866&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3546 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4319 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/supermemoryai/supermemory&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        supermemoryai /
+
+      supermemory&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 18202&lt;/span&gt;
+						&lt;span&gt;🔱 1766&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 611 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/FujiwaraChoki/MoneyPrinterV2&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        FujiwaraChoki /
+
+      MoneyPrinterV2&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Automate the process of making money online.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 24264&lt;/span&gt;
+						&lt;span&gt;🔱 2512&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2937 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/harry0703/MoneyPrinterTurbo&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 52344&lt;/span&gt;
+						&lt;span&gt;🔱 7408&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1056 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,54 +141,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14154&lt;/span&gt;
-						&lt;span&gt;🔱 1331&lt;/span&gt;
+						&lt;span&gt;⭐ 14310&lt;/span&gt;
+						&lt;span&gt;🔱 1348&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4138 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vxcontrol/pentagi&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        vxcontrol /
-
-      pentagi&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 13318&lt;/span&gt;
-						&lt;span&gt;🔱 1657&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1309 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/browser-use/browser-use&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        browser-use /
-
-      browser-use&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 84091&lt;/span&gt;
-						&lt;span&gt;🔱 9759&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1157 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2450 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,54 +163,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 40087&lt;/span&gt;
-						&lt;span&gt;🔱 7416&lt;/span&gt;
+						&lt;span&gt;⭐ 40201&lt;/span&gt;
+						&lt;span&gt;🔱 7435&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2530 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1746 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tinygrad/tinygrad&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mvanhorn/last30days-skill&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        tinygrad /
+        mvanhorn /
 
-      tinygrad&lt;/a&gt;&lt;/p&gt;
+      last30days-skill&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      You like pytorch? You like micrograd? You love tinygrad! ❤️ 
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 31969&lt;/span&gt;
-						&lt;span&gt;🔱 3986&lt;/span&gt;
+						&lt;span&gt;⭐ 4912&lt;/span&gt;
+						&lt;span&gt;🔱 538&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 56 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 208 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/affaan-m/everything-claude-code&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/ruflo&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        affaan-m /
+        ruvnet /
 
-      everything-claude-code&lt;/a&gt;&lt;/p&gt;
+      ruflo&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 103382&lt;/span&gt;
-						&lt;span&gt;🔱 13440&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 24467&lt;/span&gt;
+						&lt;span&gt;🔱 2665&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4458 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1397 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,120 +229,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12004&lt;/span&gt;
-						&lt;span&gt;🔱 1450&lt;/span&gt;
+						&lt;span&gt;⭐ 12072&lt;/span&gt;
+						&lt;span&gt;🔱 1455&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 919 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jingyaogong/minimind&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        jingyaogong /
-
-      minimind&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 42969&lt;/span&gt;
-						&lt;span&gt;🔱 5169&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 487 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/hsliuping/TradingAgents-CN&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 20678&lt;/span&gt;
-						&lt;span&gt;🔱 4330&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 676 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/kepano/obsidian-skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        kepano /
-
-      obsidian-skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 16686&lt;/span&gt;
-						&lt;span&gt;🔱 951&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 354 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/czlonkowski/n8n-mcp&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        czlonkowski /
-
-      n8n-mcp&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 16220&lt;/span&gt;
-						&lt;span&gt;🔱 2783&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 146 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/iptv-org/iptv&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        iptv-org /
-
-      iptv&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Collection of publicly available IPTV channels from all over the world
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 113764&lt;/span&gt;
-						&lt;span&gt;🔱 5797&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 106 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1251 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -341,10 +251,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 31393&lt;/span&gt;
-						&lt;span&gt;🔱 2186&lt;/span&gt;
+						&lt;span&gt;⭐ 31453&lt;/span&gt;
+						&lt;span&gt;🔱 2191&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 429 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 993 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/hsliuping/TradingAgents-CN&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 20723&lt;/span&gt;
+						&lt;span&gt;🔱 4334&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 559 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/aquasecurity/trivy&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        aquasecurity /
+
+      trivy&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 33892&lt;/span&gt;
+						&lt;span&gt;🔱 182&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 103 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/RuView&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ruvnet /
+
+      RuView&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 40777&lt;/span&gt;
+						&lt;span&gt;🔱 5597&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 979 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
