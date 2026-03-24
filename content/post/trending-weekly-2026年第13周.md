@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第13周
-date: 2026-03-24T10:36:37Z
+date: 2026-03-24T12:36:45Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
+    
+
+
+      
+        FujiwaraChoki /
+
+      MoneyPrinterV2</a></p>
+				<p>
+      Automate the process of making money online.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24264</span>
+						<span>🔱 2512</span>
+					</div>
+				<div class="stars-today">⭐ 6512 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14154</span>
-						<span>🔱 1331</span>
+						<span>⭐ 14310</span>
+						<span>🔱 1348</span>
 					</div>
 				<div class="stars-today">⭐ 10479 stars this week</div>
 				</div>
@@ -52,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 12366</span>
+						<span>⭐ 12413</span>
 						<span>🔱 514</span>
 					</div>
 				<div class="stars-today">⭐ 7069 stars this week</div>
@@ -60,24 +82,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        FujiwaraChoki /
+        TauricResearch /
 
-      MoneyPrinterV2</a></p>
+      TradingAgents</a></p>
 				<p>
-      Automate the process of making money online.
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24136</span>
-						<span>🔱 2494</span>
+						<span>⭐ 40201</span>
+						<span>🔱 7435</span>
 					</div>
-				<div class="stars-today">⭐ 6512 stars this week</div>
+				<div class="stars-today">⭐ 6234 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 103622</span>
+						<span>🔱 13473</span>
+					</div>
+				<div class="stars-today">⭐ 21490 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 109334</span>
-						<span>🔱 8770</span>
+						<span>⭐ 109555</span>
+						<span>🔱 8788</span>
 					</div>
 				<div class="stars-today">⭐ 19621 stars this week</div>
 				</div>
@@ -118,76 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41324</span>
-						<span>🔱 5635</span>
+						<span>⭐ 41393</span>
+						<span>🔱 5646</span>
 					</div>
 				<div class="stars-today">⭐ 11768 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 103382</span>
-						<span>🔱 13440</span>
-					</div>
-				<div class="stars-today">⭐ 21490 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40087</span>
-						<span>🔱 7416</span>
-					</div>
-				<div class="stars-today">⭐ 6234 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      deepagents</a></p>
-				<p>
-      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17219</span>
-						<span>🔱 2424</span>
-					</div>
-				<div class="stars-today">⭐ 4831 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,74 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57902</span>
-						<span>🔱 4882</span>
+						<span>⭐ 57920</span>
+						<span>🔱 4885</span>
 					</div>
 				<div class="stars-today">⭐ 3719 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shadps4-emu/shadPS4" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        shadps4-emu /
+        bytedance /
 
-      shadPS4</a></p>
+      deer-flow</a></p>
 				<p>
-      PlayStation 4 emulator for Windows, Linux and macOS written in C++
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 30484</span>
-						<span>🔱 2060</span>
+						<span>🔠 Python</span>
+						<span>⭐ 41639</span>
+						<span>🔱 4866</span>
 					</div>
-				<div class="stars-today">⭐ 1795 stars this week</div>
+				<div class="stars-today">⭐ 10201 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        shareAI-lab /
+        harry0703 /
 
-      learn-claude-code</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 37650</span>
-						<span>🔱 5947</span>
+						<span>🔠 Python</span>
+						<span>⭐ 52344</span>
+						<span>🔱 7408</span>
 					</div>
-				<div class="stars-today">⭐ 7880 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/andrewyng/context-hub" target="_blank">
-    
-
-
-      
-        andrewyng /
-
-      context-hub</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 11810</span>
-						<span>🔱 1037</span>
-					</div>
-				<div class="stars-today">⭐ 5326 stars this week</div>
+				<div class="stars-today">⭐ 1637 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-24T10:36:37Z
+date: 2026-03-24T12:36:45Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 40667</span>
-						<span>🔱 5585</span>
+						<span>⭐ 40777</span>
+						<span>🔱 5597</span>
 					</div>
 				<div class="stars-today">⭐ 32982 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41324</span>
-						<span>🔱 5635</span>
+						<span>⭐ 41393</span>
+						<span>🔱 5646</span>
 					</div>
 				<div class="stars-today">⭐ 36337 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19289</span>
-						<span>🔱 2230</span>
+						<span>⭐ 19316</span>
+						<span>🔱 2229</span>
 					</div>
 				<div class="stars-today">⭐ 17357 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
-    
-
-
-      
-        D4Vinci /
-
-      Scrapling</a></p>
-				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32407</span>
-						<span>🔱 2578</span>
-					</div>
-				<div class="stars-today">⭐ 22321 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41342</span>
-						<span>🔱 4839</span>
+						<span>⭐ 41639</span>
+						<span>🔱 4866</span>
 					</div>
 				<div class="stars-today">⭐ 17399 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32442</span>
+						<span>🔱 2578</span>
+					</div>
+				<div class="stars-today">⭐ 22321 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35405</span>
+						<span>🔱 3518</span>
+					</div>
+				<div class="stars-today">⭐ 17946 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43388</span>
-						<span>🔱 7055</span>
+						<span>⭐ 43420</span>
+						<span>🔱 7057</span>
 					</div>
 				<div class="stars-today">⭐ 32108 stars this month</div>
 				</div>
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 21364</span>
+						<span>⭐ 21399</span>
 						<span>🔱 1865</span>
 					</div>
 				<div class="stars-today">⭐ 17015 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 35386</span>
-						<span>🔱 3517</span>
-					</div>
-				<div class="stars-today">⭐ 17946 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37650</span>
-						<span>🔱 5947</span>
+						<span>⭐ 37737</span>
+						<span>🔱 5963</span>
 					</div>
 				<div class="stars-today">⭐ 19456 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18614</span>
-						<span>🔱 1276</span>
+						<span>⭐ 18649</span>
+						<span>🔱 1279</span>
 					</div>
 				<div class="stars-today">⭐ 14893 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 109334</span>
-						<span>🔱 8770</span>
-					</div>
-				<div class="stars-today">⭐ 48620 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 103382</span>
-						<span>🔱 13440</span>
+						<span>⭐ 103622</span>
+						<span>🔱 13473</span>
 					</div>
 				<div class="stars-today">⭐ 51128 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        alibaba /
+        obra /
 
-      OpenSandbox</a></p>
+      superpowers</a></p>
 				<p>
-      Secure, Fast, and Extensible Sandbox runtime for AI agents.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9197</span>
-						<span>🔱 698</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 109555</span>
+						<span>🔱 8788</span>
 					</div>
-				<div class="stars-today">⭐ 8008 stars this month</div>
+				<div class="stars-today">⭐ 48620 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 24350</span>
-						<span>🔱 973</span>
+						<span>⭐ 24401</span>
+						<span>🔱 977</span>
 					</div>
 				<div class="stars-today">⭐ 12199 stars this month</div>
 				</div>
@@ -338,32 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6642</span>
-						<span>🔱 785</span>
+						<span>⭐ 6661</span>
+						<span>🔱 787</span>
 					</div>
 				<div class="stars-today">⭐ 4576 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/skills" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
     
 
 
       
-        huggingface /
+        langchain-ai /
 
-      skills</a></p>
+      open-swe</a></p>
 				<p>
-      Give your agents the power of the Hugging Face ecosystem
+      An Open-Source Asynchronous Coding Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9861</span>
-						<span>🔱 598</span>
+						<span>⭐ 8239</span>
+						<span>🔱 974</span>
 					</div>
-				<div class="stars-today">⭐ 6493 stars this month</div>
+				<div class="stars-today">⭐ 2936 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
+    
+
+
+      
+        clockworklabs /
+
+      SpacetimeDB</a></p>
+				<p>
+      Development at the speed of light
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 24090</span>
+						<span>🔱 945</span>
+					</div>
+				<div class="stars-today">⭐ 4962 stars this month</div>
 				</div>
 			</div>
 	

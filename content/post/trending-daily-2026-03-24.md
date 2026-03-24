@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-24
-date: 2026-03-24T10:36:37Z
+date: 2026-03-24T12:36:45Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,22 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
     
 
 
       
-        FujiwaraChoki /
+        pascalorg /
 
-      MoneyPrinterV2</a></p>
-				<p>
-      Automate the process of making money online.
-    </p>
+      editor</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24136</span>
-						<span>🔱 2494</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4203</span>
+						<span>🔱 634</span>
 					</div>
-				<div class="stars-today">⭐ 2880 stars today</div>
+				<div class="stars-today">⭐ 2315 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +50,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41342</span>
-						<span>🔱 4839</span>
+						<span>⭐ 41639</span>
+						<span>🔱 4866</span>
 					</div>
-				<div class="stars-today">⭐ 3546 stars today</div>
+				<div class="stars-today">⭐ 4319 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18202</span>
+						<span>🔱 1766</span>
+					</div>
+				<div class="stars-today">⭐ 611 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
+    
+
+
+      
+        FujiwaraChoki /
+
+      MoneyPrinterV2</a></p>
+				<p>
+      Automate the process of making money online.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24264</span>
+						<span>🔱 2512</span>
+					</div>
+				<div class="stars-today">⭐ 2937 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 52344</span>
+						<span>🔱 7408</span>
+					</div>
+				<div class="stars-today">⭐ 1056 stars today</div>
 				</div>
 			</div>
 	
@@ -74,54 +138,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14154</span>
-						<span>🔱 1331</span>
+						<span>⭐ 14310</span>
+						<span>🔱 1348</span>
 					</div>
-				<div class="stars-today">⭐ 4138 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vxcontrol/pentagi" target="_blank">
-    
-
-
-      
-        vxcontrol /
-
-      pentagi</a></p>
-				<p>
-      Fully autonomous AI Agents system capable of performing complex penetration testing tasks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 13318</span>
-						<span>🔱 1657</span>
-					</div>
-				<div class="stars-today">⭐ 1309 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browser-use/browser-use" target="_blank">
-    
-
-
-      
-        browser-use /
-
-      browser-use</a></p>
-				<p>
-      🌐 Make websites accessible for AI agents. Automate tasks online with ease.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 84091</span>
-						<span>🔱 9759</span>
-					</div>
-				<div class="stars-today">⭐ 1157 stars today</div>
+				<div class="stars-today">⭐ 2450 stars today</div>
 				</div>
 			</div>
 	
@@ -140,54 +160,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40087</span>
-						<span>🔱 7416</span>
+						<span>⭐ 40201</span>
+						<span>🔱 7435</span>
 					</div>
-				<div class="stars-today">⭐ 2530 stars today</div>
+				<div class="stars-today">⭐ 1746 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/tinygrad/tinygrad" target="_blank">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
     
 
 
       
-        tinygrad /
+        mvanhorn /
 
-      tinygrad</a></p>
+      last30days-skill</a></p>
 				<p>
-      You like pytorch? You like micrograd? You love tinygrad! ❤️ 
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31969</span>
-						<span>🔱 3986</span>
+						<span>⭐ 4912</span>
+						<span>🔱 538</span>
 					</div>
-				<div class="stars-today">⭐ 56 stars today</div>
+				<div class="stars-today">⭐ 208 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        affaan-m /
+        ruvnet /
 
-      everything-claude-code</a></p>
+      ruflo</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 103382</span>
-						<span>🔱 13440</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24467</span>
+						<span>🔱 2665</span>
 					</div>
-				<div class="stars-today">⭐ 4458 stars today</div>
+				<div class="stars-today">⭐ 1397 stars today</div>
 				</div>
 			</div>
 	
@@ -206,120 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12004</span>
-						<span>🔱 1450</span>
+						<span>⭐ 12072</span>
+						<span>🔱 1455</span>
 					</div>
-				<div class="stars-today">⭐ 919 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42969</span>
-						<span>🔱 5169</span>
-					</div>
-				<div class="stars-today">⭐ 487 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20678</span>
-						<span>🔱 4330</span>
-					</div>
-				<div class="stars-today">⭐ 676 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/kepano/obsidian-skills" target="_blank">
-    
-
-
-      
-        kepano /
-
-      obsidian-skills</a></p>
-				<p>
-      Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 16686</span>
-						<span>🔱 951</span>
-					</div>
-				<div class="stars-today">⭐ 354 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/czlonkowski/n8n-mcp" target="_blank">
-    
-
-
-      
-        czlonkowski /
-
-      n8n-mcp</a></p>
-				<p>
-      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16220</span>
-						<span>🔱 2783</span>
-					</div>
-				<div class="stars-today">⭐ 146 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iptv-org/iptv" target="_blank">
-    
-
-
-      
-        iptv-org /
-
-      iptv</a></p>
-				<p>
-      Collection of publicly available IPTV channels from all over the world
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 113764</span>
-						<span>🔱 5797</span>
-					</div>
-				<div class="stars-today">⭐ 106 stars today</div>
+				<div class="stars-today">⭐ 1251 stars today</div>
 				</div>
 			</div>
 	
@@ -338,10 +248,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31393</span>
-						<span>🔱 2186</span>
+						<span>⭐ 31453</span>
+						<span>🔱 2191</span>
 					</div>
-				<div class="stars-today">⭐ 429 stars today</div>
+				<div class="stars-today">⭐ 993 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN</a></p>
+				<p>
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20723</span>
+						<span>🔱 4334</span>
+					</div>
+				<div class="stars-today">⭐ 559 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aquasecurity/trivy" target="_blank">
+    
+
+
+      
+        aquasecurity /
+
+      trivy</a></p>
+				<p>
+      Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 33892</span>
+						<span>🔱 182</span>
+					</div>
+				<div class="stars-today">⭐ 103 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 40777</span>
+						<span>🔱 5597</span>
+					</div>
+				<div class="stars-today">⭐ 979 stars today</div>
 				</div>
 			</div>
 	
