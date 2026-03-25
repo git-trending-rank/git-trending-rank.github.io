@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-25T10:34:29Z
+date: 2026-03-25T12:33:56Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 41728</span>
-						<span>🔱 5708</span>
+						<span>⭐ 41804</span>
+						<span>🔱 5716</span>
 					</div>
 				<div class="stars-today">⭐ 33822 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42207</span>
-						<span>🔱 5790</span>
+						<span>⭐ 42288</span>
+						<span>🔱 5804</span>
 					</div>
 				<div class="stars-today">⭐ 37311 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19565</span>
-						<span>🔱 2255</span>
-					</div>
-				<div class="stars-today">⭐ 17090 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45106</span>
-						<span>🔱 5312</span>
+						<span>⭐ 45295</span>
+						<span>🔱 5341</span>
 					</div>
 				<div class="stars-today">⭐ 21598 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus</a></p>
+				<p>
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19582</span>
+						<span>🔱 2258</span>
+					</div>
+				<div class="stars-today">⭐ 17090 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35527</span>
-						<span>🔱 3529</span>
+						<span>⭐ 35539</span>
+						<span>🔱 3530</span>
 					</div>
 				<div class="stars-today">⭐ 18061 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43779</span>
-						<span>🔱 7103</span>
-					</div>
-				<div class="stars-today">⭐ 30441 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 21806</span>
-						<span>🔱 1896</span>
+						<span>⭐ 21850</span>
+						<span>🔱 1897</span>
 					</div>
 				<div class="stars-today">⭐ 16943 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 43810</span>
+						<span>🔱 7110</span>
+					</div>
+				<div class="stars-today">⭐ 30441 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 38490</span>
-						<span>🔱 6054</span>
+						<span>⭐ 38563</span>
+						<span>🔱 6063</span>
 					</div>
 				<div class="stars-today">⭐ 20342 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 24699</span>
+						<span>🔱 992</span>
+					</div>
+				<div class="stars-today">⭐ 12583 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18925</span>
-						<span>🔱 1307</span>
+						<span>⭐ 18941</span>
+						<span>🔱 1310</span>
 					</div>
 				<div class="stars-today">⭐ 15109 stars this month</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 106272</span>
-						<span>🔱 13792</span>
+						<span>⭐ 106539</span>
+						<span>🔱 13824</span>
 					</div>
 				<div class="stars-today">⭐ 53207 stars this month</div>
 				</div>
@@ -250,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 111695</span>
-						<span>🔱 8948</span>
+						<span>⭐ 111896</span>
+						<span>🔱 8961</span>
 					</div>
 				<div class="stars-today">⭐ 50214 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
-    
-
-
-      
-        lightpanda-io /
-
-      browser</a></p>
-				<p>
-      Lightpanda: the headless browser designed for AI and automation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 24680</span>
-						<span>🔱 991</span>
-					</div>
-				<div class="stars-today">⭐ 12583 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6836</span>
-						<span>🔱 810</span>
+						<span>⭐ 6851</span>
+						<span>🔱 813</span>
 					</div>
 				<div class="stars-today">⭐ 4730 stars this month</div>
 				</div>
@@ -316,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8382</span>
+						<span>⭐ 8393</span>
 						<span>🔱 984</span>
 					</div>
 				<div class="stars-today">⭐ 2992 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/clockworklabs/SpacetimeDB" target="_blank">
-    
-
-
-      
-        clockworklabs /
-
-      SpacetimeDB</a></p>
-				<p>
-      Development at the speed of light
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 24172</span>
-						<span>🔱 948</span>
-					</div>
-				<div class="stars-today">⭐ 4978 stars this month</div>
 				</div>
 			</div>
 	

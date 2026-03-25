@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第13周
-date: 2026-03-25T10:34:29Z
+date: 2026-03-25T12:33:56Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25210</span>
-						<span>🔱 2622</span>
+						<span>⭐ 25280</span>
+						<span>🔱 2627</span>
 					</div>
 				<div class="stars-today">⭐ 9287 stars this week</div>
 				</div>
@@ -52,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15866</span>
-						<span>🔱 1514</span>
+						<span>⭐ 15983</span>
+						<span>🔱 1527</span>
 					</div>
 				<div class="stars-today">⭐ 12165 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
     
 
 
       
-        jarrodwatts /
+        opendataloader-project /
 
-      claude-hud</a></p>
+      opendataloader-pdf</a></p>
 				<p>
-      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 12965</span>
-						<span>🔱 534</span>
+						<span>🔠 Java</span>
+						<span>⭐ 9255</span>
+						<span>🔱 681</span>
 					</div>
-				<div class="stars-today">⭐ 7304 stars this week</div>
+				<div class="stars-today">⭐ 6870 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41464</span>
-						<span>🔱 7605</span>
+						<span>⭐ 41523</span>
+						<span>🔱 7610</span>
 					</div>
 				<div class="stars-today">⭐ 7784 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open-swe</a></p>
+				<p>
+      An Open-Source Asynchronous Coding Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8393</span>
+						<span>🔱 984</span>
+					</div>
+				<div class="stars-today">⭐ 2667 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+    
+
+
+      
+        jarrodwatts /
+
+      claude-hud</a></p>
+				<p>
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 13010</span>
+						<span>🔱 535</span>
+					</div>
+				<div class="stars-today">⭐ 7304 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 45295</span>
+						<span>🔱 5341</span>
+					</div>
+				<div class="stars-today">⭐ 10273 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 106272</span>
-						<span>🔱 13792</span>
+						<span>⭐ 106539</span>
+						<span>🔱 13824</span>
 					</div>
 				<div class="stars-today">⭐ 21932 stars this week</div>
 				</div>
@@ -140,76 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 111695</span>
-						<span>🔱 8948</span>
+						<span>⭐ 111896</span>
+						<span>🔱 8961</span>
 					</div>
 				<div class="stars-today">⭐ 19373 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42207</span>
-						<span>🔱 5790</span>
-					</div>
-				<div class="stars-today">⭐ 9935 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/unslothai/unsloth" target="_blank">
-    
-
-
-      
-        unslothai /
-
-      unsloth</a></p>
-				<p>
-      Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58125</span>
-						<span>🔱 4900</span>
-					</div>
-				<div class="stars-today">⭐ 3905 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45106</span>
-						<span>🔱 5312</span>
-					</div>
-				<div class="stars-today">⭐ 10273 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53031</span>
-						<span>🔱 7492</span>
+						<span>⭐ 53059</span>
+						<span>🔱 7494</span>
 					</div>
 				<div class="stars-today">⭐ 2147 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18978</span>
+						<span>🔱 1798</span>
+					</div>
+				<div class="stars-today">⭐ 1369 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12952</span>
+						<span>🔱 1554</span>
+					</div>
+				<div class="stars-today">⭐ 3881 stars this week</div>
 				</div>
 			</div>
 	
