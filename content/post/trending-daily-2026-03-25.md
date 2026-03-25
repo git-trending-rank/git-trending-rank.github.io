@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-25
-date: 2026-03-25T14:47:59Z
+date: 2026-03-25T16:48:59Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6598</span>
-						<span>🔱 657</span>
+						<span>⭐ 6872</span>
+						<span>🔱 676</span>
 					</div>
 				<div class="stars-today">⭐ 1342 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45569</span>
-						<span>🔱 5385</span>
+						<span>⭐ 45802</span>
+						<span>🔱 5419</span>
 					</div>
 				<div class="stars-today">⭐ 3787 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40491</span>
-						<span>🔱 6706</span>
+						<span>⭐ 40537</span>
+						<span>🔱 6705</span>
 					</div>
 				<div class="stars-today">⭐ 289 stars today</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6573</span>
-						<span>🔱 845</span>
+						<span>⭐ 6661</span>
+						<span>🔱 859</span>
 					</div>
 				<div class="stars-today">⭐ 2353 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/letta-ai/claude-subconscious" target="_blank">
+    
+
+
+      
+        letta-ai /
+
+      claude-subconscious</a></p>
+				<p>
+      Give Claude Code a subconscious
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1296</span>
+						<span>🔱 102</span>
+					</div>
+				<div class="stars-today">⭐ 71 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25733</span>
-						<span>🔱 2798</span>
+						<span>⭐ 25833</span>
+						<span>🔱 2809</span>
 					</div>
 				<div class="stars-today">⭐ 1173 stars today</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16138</span>
-						<span>🔱 1539</span>
+						<span>⭐ 16252</span>
+						<span>🔱 1548</span>
 					</div>
 				<div class="stars-today">⭐ 1717 stars today</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 41894</span>
-						<span>🔱 5718</span>
+						<span>⭐ 41987</span>
+						<span>🔱 5724</span>
 					</div>
 				<div class="stars-today">⭐ 1083 stars today</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19049</span>
-						<span>🔱 1802</span>
+						<span>⭐ 19092</span>
+						<span>🔱 1804</span>
 					</div>
 				<div class="stars-today">⭐ 809 stars today</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25369</span>
-						<span>🔱 2634</span>
+						<span>⭐ 25428</span>
+						<span>🔱 2640</span>
 					</div>
 				<div class="stars-today">⭐ 1065 stars today</div>
 				</div>
@@ -228,10 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21496</span>
-						<span>🔱 2286</span>
+						<span>⭐ 21559</span>
+						<span>🔱 2292</span>
 					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
+				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
 			</div>
 	
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21206</span>
-						<span>🔱 4410</span>
+						<span>⭐ 21239</span>
+						<span>🔱 4420</span>
 					</div>
 				<div class="stars-today">⭐ 449 stars today</div>
 				</div>
