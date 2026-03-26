@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第13周
-date: 2026-03-26T01:02:59Z
+date: 2026-03-26T04:19:10Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25589</span>
-						<span>🔱 2653</span>
+						<span>⭐ 25702</span>
+						<span>🔱 2667</span>
 					</div>
 				<div class="stars-today">⭐ 9873 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16633</span>
-						<span>🔱 1582</span>
+						<span>⭐ 16777</span>
+						<span>🔱 1593</span>
 					</div>
 				<div class="stars-today">⭐ 13848 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 9405</span>
-						<span>🔱 691</span>
+						<span>⭐ 9447</span>
+						<span>🔱 698</span>
 					</div>
 				<div class="stars-today">⭐ 5858 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41815</span>
-						<span>🔱 7668</span>
+						<span>⭐ 41921</span>
+						<span>🔱 7686</span>
 					</div>
 				<div class="stars-today">⭐ 8939 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8453</span>
-						<span>🔱 986</span>
+						<span>⭐ 8475</span>
+						<span>🔱 989</span>
 					</div>
 				<div class="stars-today">⭐ 2531 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 13222</span>
-						<span>🔱 545</span>
+						<span>⭐ 13311</span>
+						<span>🔱 549</span>
 					</div>
 				<div class="stars-today">⭐ 6816 stars this week</div>
 				</div>
@@ -157,13 +157,13 @@ keywords:
 
       deer-flow</a></p>
 				<p>
-      An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46214</span>
-						<span>🔱 5473</span>
+						<span>⭐ 46732</span>
+						<span>🔱 5539</span>
 					</div>
 				<div class="stars-today">⭐ 13951 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 108035</span>
-						<span>🔱 14099</span>
+						<span>⭐ 108428</span>
+						<span>🔱 14153</span>
 					</div>
 				<div class="stars-today">⭐ 22442 stars this week</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 112674</span>
-						<span>🔱 9039</span>
+						<span>⭐ 113412</span>
+						<span>🔱 9096</span>
 					</div>
 				<div class="stars-today">⭐ 17540 stars this week</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53153</span>
-						<span>🔱 7506</span>
+						<span>⭐ 53203</span>
+						<span>🔱 7515</span>
 					</div>
 				<div class="stars-today">⭐ 2869 stars this week</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19212</span>
-						<span>🔱 1810</span>
+						<span>⭐ 19305</span>
+						<span>🔱 1813</span>
 					</div>
 				<div class="stars-today">⭐ 2064 stars this week</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13231</span>
-						<span>🔱 1590</span>
+						<span>⭐ 13316</span>
+						<span>🔱 1603</span>
 					</div>
 				<div class="stars-today">⭐ 4365 stars this week</div>
 				</div>
