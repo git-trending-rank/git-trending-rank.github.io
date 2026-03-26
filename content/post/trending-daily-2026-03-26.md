@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-26
-date: 2026-03-26T10:39:01Z
+date: 2026-03-26T12:41:12Z
 categories:
 - daily
 keywords:
@@ -30,142 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8759</span>
-						<span>🔱 783</span>
+						<span>⭐ 9010</span>
+						<span>🔱 799</span>
 					</div>
-				<div class="stars-today">⭐ 1341 stars today</div>
+				<div class="stars-today">⭐ 2684 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
     
 
 
       
-        bytedance /
+        Yeachan-Heo /
 
-      deer-flow</a></p>
+      oh-my-claudecode</a></p>
 				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 47462</span>
-						<span>🔱 5641</span>
-					</div>
-				<div class="stars-today">⭐ 3787 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BerriAI/litellm" target="_blank">
-    
-
-
-      
-        BerriAI /
-
-      litellm</a></p>
-				<p>
-      Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM]
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40915</span>
-						<span>🔱 6746</span>
-					</div>
-				<div class="stars-today">⭐ 301 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
+      Teams-first Multi-agent orchestration for Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7151</span>
-						<span>🔱 938</span>
+						<span>⭐ 11999</span>
+						<span>🔱 811</span>
 					</div>
-				<div class="stars-today">⭐ 2353 stars today</div>
+				<div class="stars-today">⭐ 576 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/letta-ai/claude-subconscious" target="_blank">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
     
 
 
       
-        letta-ai /
+        virattt /
 
-      claude-subconscious</a></p>
+      dexter</a></p>
 				<p>
-      Give Claude Code a subconscious
+      An autonomous agent for deep financial research
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 1670</span>
-						<span>🔱 122</span>
+						<span>⭐ 18696</span>
+						<span>🔱 2311</span>
 					</div>
-				<div class="stars-today">⭐ 71 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26602</span>
-						<span>🔱 2878</span>
-					</div>
-				<div class="stars-today">⭐ 1174 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17013</span>
-						<span>🔱 1625</span>
-					</div>
-				<div class="stars-today">⭐ 1718 stars today</div>
+				<div class="stars-today">⭐ 274 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +96,118 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 42716</span>
-						<span>🔱 5797</span>
+						<span>⭐ 42776</span>
+						<span>🔱 5805</span>
 					</div>
-				<div class="stars-today">⭐ 1082 stars today</div>
+				<div class="stars-today">⭐ 1001 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        supermemoryai /
+        bytedance /
 
-      supermemory</a></p>
+      deer-flow</a></p>
 				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 47617</span>
+						<span>🔱 5667</span>
+					</div>
+				<div class="stars-today">⭐ 2388 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Vaibhavs10/insanely-fast-whisper" target="_blank">
+    
+
+
+      
+        Vaibhavs10 /
+
+      insanely-fast-whisper</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 10625</span>
+						<span>🔱 783</span>
+					</div>
+				<div class="stars-today">⭐ 1381 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/agentscope-ai/agentscope" target="_blank">
+    
+
+
+      
+        agentscope-ai /
+
+      agentscope</a></p>
+				<p>
+      Build and run agents you can see, understand and trust.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20083</span>
+						<span>🔱 1949</span>
+					</div>
+				<div class="stars-today">⭐ 439 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
+    
+
+
+      
+        twentyhq /
+
+      twenty</a></p>
+				<p>
+      Building a modern alternative to Salesforce, powered by the community.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19450</span>
-						<span>🔱 1823</span>
+						<span>⭐ 41000</span>
+						<span>🔱 5479</span>
 					</div>
-				<div class="stars-today">⭐ 810 stars today</div>
+				<div class="stars-today">⭐ 264 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
+				<p><a href="https://github.com/datalab-to/chandra" target="_blank">
     
 
 
       
-        FujiwaraChoki /
+        datalab-to /
 
-      MoneyPrinterV2</a></p>
+      chandra</a></p>
 				<p>
-      Automate the process of making money online.
+      OCR model that handles complex tables, forms, handwriting with full layout.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25906</span>
-						<span>🔱 2692</span>
+						<span>⭐ 5741</span>
+						<span>🔱 640</span>
 					</div>
-				<div class="stars-today">⭐ 1065 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/usestrix/strix" target="_blank">
-    
-
-
-      
-        usestrix /
-
-      strix</a></p>
-				<p>
-      Open-source AI hackers to find and fix your app’s vulnerabilities.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21987</span>
-						<span>🔱 2320</span>
-					</div>
-				<div class="stars-today">⭐ 102 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21563</span>
-						<span>🔱 4466</span>
-					</div>
-				<div class="stars-today">⭐ 449 stars today</div>
+				<div class="stars-today">⭐ 546 stars today</div>
 				</div>
 			</div>
 	

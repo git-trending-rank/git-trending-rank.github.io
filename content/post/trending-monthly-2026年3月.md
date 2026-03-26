@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-26T10:39:01Z
+date: 2026-03-26T12:41:11Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 42716</span>
-						<span>🔱 5797</span>
+						<span>⭐ 42775</span>
+						<span>🔱 5805</span>
 					</div>
 				<div class="stars-today">⭐ 34879 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43091</span>
-						<span>🔱 5950</span>
+						<span>⭐ 43171</span>
+						<span>🔱 5962</span>
 					</div>
 				<div class="stars-today">⭐ 38193 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47462</span>
-						<span>🔱 5641</span>
+						<span>⭐ 47613</span>
+						<span>🔱 5666</span>
 					</div>
 				<div class="stars-today">⭐ 25279 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19780</span>
-						<span>🔱 2284</span>
-					</div>
-				<div class="stars-today">⭐ 16463 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35649</span>
-						<span>🔱 3542</span>
+						<span>⭐ 35659</span>
+						<span>🔱 3544</span>
 					</div>
 				<div class="stars-today">⭐ 18188 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus</a></p>
+				<p>
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19805</span>
+						<span>🔱 2286</span>
+					</div>
+				<div class="stars-today">⭐ 16463 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 22163</span>
-						<span>🔱 1922</span>
+						<span>⭐ 22192</span>
+						<span>🔱 1924</span>
 					</div>
 				<div class="stars-today">⭐ 17165 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
-    
-
-
-      
-        D4Vinci /
-
-      Scrapling</a></p>
-				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32937</span>
-						<span>🔱 2650</span>
-					</div>
-				<div class="stars-today">⭐ 17662 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 44169</span>
-						<span>🔱 7159</span>
-					</div>
-				<div class="stars-today">⭐ 29481 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 39217</span>
-						<span>🔱 6152</span>
+						<span>⭐ 39337</span>
+						<span>🔱 6161</span>
 					</div>
 				<div class="stars-today">⭐ 21005 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard — AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 44199</span>
+						<span>🔱 7163</span>
+					</div>
+				<div class="stars-today">⭐ 29481 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 24899</span>
-						<span>🔱 1005</span>
+						<span>⭐ 24913</span>
+						<span>🔱 1007</span>
 					</div>
 				<div class="stars-today">⭐ 12901 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19194</span>
-						<span>🔱 1326</span>
-					</div>
-				<div class="stars-today">⭐ 15198 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 109153</span>
-						<span>🔱 14244</span>
+						<span>⭐ 109372</span>
+						<span>🔱 14264</span>
 					</div>
 				<div class="stars-today">⭐ 55418 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19226</span>
+						<span>🔱 1327</span>
+					</div>
+				<div class="stars-today">⭐ 15198 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 114570</span>
-						<span>🔱 9172</span>
+						<span>⭐ 114800</span>
+						<span>🔱 9179</span>
 					</div>
 				<div class="stars-today">⭐ 51370 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32963</span>
+						<span>🔱 2648</span>
+					</div>
+				<div class="stars-today">⭐ 17662 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8514</span>
+						<span>⭐ 8524</span>
 						<span>🔱 990</span>
 					</div>
 				<div class="stars-today">⭐ 3160 stars this month</div>
