@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第13周
-date: 2026-03-27T10:34:19Z
+date: 2026-03-27T12:31:17Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26457</span>
-						<span>🔱 2757</span>
+						<span>⭐ 26497</span>
+						<span>🔱 2758</span>
 					</div>
 				<div class="stars-today">⭐ 10352 stars this week</div>
 				</div>
@@ -52,76 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17866</span>
-						<span>🔱 1698</span>
+						<span>⭐ 17932</span>
+						<span>🔱 1704</span>
 					</div>
 				<div class="stars-today">⭐ 14631 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 42611</span>
-						<span>🔱 7789</span>
-					</div>
-				<div class="stars-today">⭐ 9209 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 49560</span>
-						<span>🔱 5919</span>
-					</div>
-				<div class="stars-today">⭐ 16126 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 111251</span>
-						<span>🔱 14501</span>
-					</div>
-				<div class="stars-today">⭐ 22821 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,76 +74,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11558</span>
-						<span>🔱 941</span>
+						<span>⭐ 11740</span>
+						<span>🔱 954</span>
 					</div>
 				<div class="stars-today">⭐ 4848 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        jarrodwatts /
+        bytedance /
 
-      claude-hud</a></p>
+      deer-flow</a></p>
 				<p>
-      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14065</span>
-						<span>🔱 573</span>
-					</div>
-				<div class="stars-today">⭐ 5543 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
-    
-
-
-      
-        opendataloader-project /
-
-      opendataloader-pdf</a></p>
-				<p>
-      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 9758</span>
-						<span>🔱 723</span>
-					</div>
-				<div class="stars-today">⭐ 4661 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53524</span>
-						<span>🔱 7566</span>
+						<span>⭐ 49653</span>
+						<span>🔱 5928</span>
 					</div>
-				<div class="stars-today">⭐ 3073 stars this week</div>
+				<div class="stars-today">⭐ 16126 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42649</span>
+						<span>🔱 7795</span>
+					</div>
+				<div class="stars-today">⭐ 9209 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 111418</span>
+						<span>🔱 14528</span>
+					</div>
+				<div class="stars-today">⭐ 22821 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,76 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19710</span>
-						<span>🔱 1834</span>
+						<span>⭐ 19745</span>
+						<span>🔱 1835</span>
 					</div>
 				<div class="stars-today">⭐ 2520 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/louis-e/arnis" target="_blank">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
     
 
 
       
-        louis-e /
+        harry0703 /
 
-      arnis</a></p>
+      MoneyPrinterTurbo</a></p>
 				<p>
-      Generate any location from the real world in Minecraft with a high level of detail.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 13631</span>
-						<span>🔱 1103</span>
-					</div>
-				<div class="stars-today">⭐ 3070 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8638</span>
-						<span>🔱 1001</span>
+						<span>⭐ 53543</span>
+						<span>🔱 7567</span>
 					</div>
-				<div class="stars-today">⭐ 1753 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 117264</span>
-						<span>🔱 9434</span>
-					</div>
-				<div class="stars-today">⭐ 17041 stars this week</div>
+				<div class="stars-today">⭐ 3073 stars this week</div>
 				</div>
 			</div>
 	
@@ -316,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21772</span>
-						<span>🔱 4508</span>
+						<span>⭐ 21783</span>
+						<span>🔱 4509</span>
 					</div>
 				<div class="stars-today">⭐ 2826 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+    
+
+
+      
+        jarrodwatts /
+
+      claude-hud</a></p>
+				<p>
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14103</span>
+						<span>🔱 574</span>
+					</div>
+				<div class="stars-today">⭐ 5543 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +250,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14132</span>
-						<span>🔱 1699</span>
+						<span>⭐ 14203</span>
+						<span>🔱 1703</span>
 					</div>
 				<div class="stars-today">⭐ 4557 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/letta-ai/claude-subconscious" target="_blank">
+    
+
+
+      
+        letta-ai /
+
+      claude-subconscious</a></p>
+				<p>
+      Give Claude Code a subconscious
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1809</span>
+						<span>🔱 129</span>
+					</div>
+				<div class="stars-today">⭐ 791 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 117468</span>
+						<span>🔱 9446</span>
+					</div>
+				<div class="stars-today">⭐ 17041 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
+    
+
+
+      
+        opendataloader-project /
+
+      opendataloader-pdf</a></p>
+				<p>
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 9775</span>
+						<span>🔱 723</span>
+					</div>
+				<div class="stars-today">⭐ 4661 stars this week</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-27
-date: 2026-03-27T10:34:19Z
+date: 2026-03-27T12:31:17Z
 categories:
 - daily
 keywords:
@@ -30,140 +30,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11558</span>
-						<span>🔱 941</span>
+						<span>⭐ 11740</span>
+						<span>🔱 954</span>
 					</div>
-				<div class="stars-today">⭐ 2685 stars today</div>
+				<div class="stars-today">⭐ 2824 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        Yeachan-Heo /
+        hacksider /
 
-      oh-my-claudecode</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      Teams-first Multi-agent orchestration for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13286</span>
-						<span>🔱 870</span>
-					</div>
-				<div class="stars-today">⭐ 598 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
-    
-
-
-      
-        virattt /
-
-      dexter</a></p>
-				<p>
-      An autonomous agent for deep financial research
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19301</span>
-						<span>🔱 2361</span>
-					</div>
-				<div class="stars-today">⭐ 210 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 43578</span>
-						<span>🔱 5874</span>
-					</div>
-				<div class="stars-today">⭐ 1002 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49560</span>
-						<span>🔱 5919</span>
+						<span>⭐ 82032</span>
+						<span>🔱 11986</span>
 					</div>
-				<div class="stars-today">⭐ 2394 stars today</div>
+				<div class="stars-today">⭐ 1546 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Vaibhavs10/insanely-fast-whisper" target="_blank">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
     
 
 
       
-        Vaibhavs10 /
+        SakanaAI /
 
-      insanely-fast-whisper</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11602</span>
-						<span>🔱 834</span>
-					</div>
-				<div class="stars-today">⭐ 1370 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/agentscope-ai/agentscope" target="_blank">
-    
-
-
-      
-        agentscope-ai /
-
-      agentscope</a></p>
+      AI-Scientist-v2</a></p>
 				<p>
-      Build and run agents you can see, understand and trust.
+      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20918</span>
-						<span>🔱 2045</span>
+						<span>⭐ 2641</span>
+						<span>🔱 460</span>
 					</div>
-				<div class="stars-today">⭐ 437 stars today</div>
+				<div class="stars-today">⭐ 125 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 24400</span>
+						<span>🔱 2683</span>
+					</div>
+				<div class="stars-today">⭐ 320 stars today</div>
 				</div>
 			</div>
 	
@@ -182,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41592</span>
-						<span>🔱 5528</span>
+						<span>⭐ 41668</span>
+						<span>🔱 5533</span>
 					</div>
-				<div class="stars-today">⭐ 117 stars today</div>
+				<div class="stars-today">⭐ 661 stars today</div>
 				</div>
 			</div>
 	
@@ -204,32 +140,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6555</span>
-						<span>🔱 696</span>
+						<span>⭐ 6640</span>
+						<span>🔱 706</span>
 					</div>
-				<div class="stars-today">⭐ 557 stars today</div>
+				<div class="stars-today">⭐ 913 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/figma/mcp-server-guide" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        figma /
+        obra /
 
-      mcp-server-guide</a></p>
+      superpowers</a></p>
 				<p>
-      A guide on how to use the Figma MCP server
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 687</span>
-						<span>🔱 52</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 117468</span>
+						<span>🔱 9446</span>
 					</div>
-				<div class="stars-today">⭐ 33 stars today</div>
+				<div class="stars-today">⭐ 2993 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19369</span>
+						<span>🔱 2366</span>
+					</div>
+				<div class="stars-today">⭐ 673 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+    
+
+
+      
+        Yeachan-Heo /
+
+      oh-my-claudecode</a></p>
+				<p>
+      Teams-first Multi-agent orchestration for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13395</span>
+						<span>🔱 874</span>
+					</div>
+				<div class="stars-today">⭐ 1402 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FreeCAD/FreeCAD" target="_blank">
+    
+
+
+      
+        FreeCAD /
+
+      FreeCAD</a></p>
+				<p>
+      Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 29424</span>
+						<span>🔱 5312</span>
+					</div>
+				<div class="stars-today">⭐ 99 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Vaibhavs10/insanely-fast-whisper" target="_blank">
+    
+
+
+      
+        Vaibhavs10 /
+
+      insanely-fast-whisper</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 11639</span>
+						<span>🔱 837</span>
+					</div>
+				<div class="stars-today">⭐ 1075 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx</a></p>
+				<p>
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18641</span>
+						<span>🔱 2548</span>
+					</div>
+				<div class="stars-today">⭐ 512 stars today</div>
 				</div>
 			</div>
 	

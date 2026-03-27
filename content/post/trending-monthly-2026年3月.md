@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-27T10:34:19Z
+date: 2026-03-27T12:31:17Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 43578</span>
-						<span>🔱 5874</span>
-					</div>
-				<div class="stars-today">⭐ 35842 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43901</span>
-						<span>🔱 6084</span>
+						<span>⭐ 43960</span>
+						<span>🔱 6094</span>
 					</div>
 				<div class="stars-today">⭐ 39114 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 43634</span>
+						<span>🔱 5876</span>
+					</div>
+				<div class="stars-today">⭐ 35842 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49560</span>
-						<span>🔱 5919</span>
+						<span>⭐ 49653</span>
+						<span>🔱 5928</span>
 					</div>
 				<div class="stars-today">⭐ 27058 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35815</span>
-						<span>🔱 3555</span>
+						<span>⭐ 35824</span>
+						<span>🔱 3556</span>
 					</div>
 				<div class="stars-today">⭐ 18205 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20103</span>
-						<span>🔱 2307</span>
-					</div>
-				<div class="stars-today">⭐ 15342 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 22513</span>
-						<span>🔱 1945</span>
+						<span>⭐ 22542</span>
+						<span>🔱 1946</span>
 					</div>
 				<div class="stars-today">⭐ 17346 stars this month</div>
 				</div>
@@ -162,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 40513</span>
-						<span>🔱 6306</span>
+						<span>⭐ 40577</span>
+						<span>🔱 6311</span>
 					</div>
 				<div class="stars-today">⭐ 21039 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
     
 
 
       
-        koala73 /
+        abhigyanpatwari /
 
-      worldmonitor</a></p>
+      GitNexus</a></p>
 				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44498</span>
-						<span>🔱 7193</span>
+						<span>⭐ 20123</span>
+						<span>🔱 2308</span>
 					</div>
-				<div class="stars-today">⭐ 28719 stars this month</div>
+				<div class="stars-today">⭐ 15342 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 25195</span>
-						<span>🔱 1021</span>
+						<span>⭐ 25216</span>
+						<span>🔱 1023</span>
 					</div>
 				<div class="stars-today">⭐ 13117 stars this month</div>
 				</div>
@@ -228,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 111251</span>
-						<span>🔱 14501</span>
+						<span>⭐ 111418</span>
+						<span>🔱 14528</span>
 					</div>
 				<div class="stars-today">⭐ 57064 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 44522</span>
+						<span>🔱 7200</span>
+					</div>
+				<div class="stars-today">⭐ 28719 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      Secure, Fast, and Extensible Sandbox runtime for AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9371</span>
+						<span>🔱 714</span>
+					</div>
+				<div class="stars-today">⭐ 8110 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19455</span>
-						<span>🔱 1352</span>
+						<span>⭐ 19467</span>
+						<span>🔱 1353</span>
 					</div>
 				<div class="stars-today">⭐ 15319 stars this month</div>
 				</div>
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 117264</span>
-						<span>🔱 9434</span>
+						<span>⭐ 117468</span>
+						<span>🔱 9446</span>
 					</div>
 				<div class="stars-today">⭐ 52806 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
-    
-
-
-      
-        D4Vinci /
-
-      Scrapling</a></p>
-				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 33249</span>
-						<span>🔱 2668</span>
-					</div>
-				<div class="stars-today">⭐ 16750 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7292</span>
-						<span>🔱 872</span>
+						<span>⭐ 7316</span>
+						<span>🔱 874</span>
 					</div>
 				<div class="stars-today">⭐ 5138 stars this month</div>
 				</div>
@@ -338,10 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8638</span>
-						<span>🔱 1001</span>
+						<span>⭐ 8644</span>
+						<span>🔱 1004</span>
 					</div>
 				<div class="stars-today">⭐ 3299 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+    
+
+
+      
+        D4Vinci /
+
+      Scrapling</a></p>
+				<p>
+      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 33272</span>
+						<span>🔱 2670</span>
+					</div>
+				<div class="stars-today">⭐ 16750 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42649</span>
+						<span>🔱 7795</span>
+					</div>
+				<div class="stars-today">⭐ 11665 stars this month</div>
 				</div>
 			</div>
 	
