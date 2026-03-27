@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-27
-date: 2026-03-27T08:34:36Z
+date: 2026-03-27T10:34:19Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11258</span>
-						<span>🔱 930</span>
+						<span>⭐ 11558</span>
+						<span>🔱 941</span>
 					</div>
 				<div class="stars-today">⭐ 2685 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13151</span>
-						<span>🔱 860</span>
+						<span>⭐ 13286</span>
+						<span>🔱 870</span>
 					</div>
 				<div class="stars-today">⭐ 598 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19220</span>
-						<span>🔱 2352</span>
+						<span>⭐ 19301</span>
+						<span>🔱 2361</span>
 					</div>
 				<div class="stars-today">⭐ 210 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 43489</span>
-						<span>🔱 5871</span>
+						<span>⭐ 43578</span>
+						<span>🔱 5874</span>
 					</div>
 				<div class="stars-today">⭐ 1002 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49367</span>
-						<span>🔱 5887</span>
+						<span>⭐ 49560</span>
+						<span>🔱 5919</span>
 					</div>
 				<div class="stars-today">⭐ 2394 stars today</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 11541</span>
-						<span>🔱 831</span>
+						<span>⭐ 11602</span>
+						<span>🔱 834</span>
 					</div>
 				<div class="stars-today">⭐ 1370 stars today</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20828</span>
-						<span>🔱 2041</span>
+						<span>⭐ 20918</span>
+						<span>🔱 2045</span>
 					</div>
 				<div class="stars-today">⭐ 437 stars today</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41536</span>
-						<span>🔱 5526</span>
+						<span>⭐ 41592</span>
+						<span>🔱 5528</span>
 					</div>
 				<div class="stars-today">⭐ 117 stars today</div>
 				</div>
@@ -204,10 +204,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6463</span>
-						<span>🔱 688</span>
+						<span>⭐ 6555</span>
+						<span>🔱 696</span>
 					</div>
 				<div class="stars-today">⭐ 557 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/figma/mcp-server-guide" target="_blank">
+    
+
+
+      
+        figma /
+
+      mcp-server-guide</a></p>
+				<p>
+      A guide on how to use the Figma MCP server
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 687</span>
+						<span>🔱 52</span>
+					</div>
+				<div class="stars-today">⭐ 33 stars today</div>
 				</div>
 			</div>
 	
