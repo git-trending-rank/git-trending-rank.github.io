@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第13周
-date: 2026-03-28T10:17:34Z
+date: 2026-03-28T12:23:18Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13410</span>
+						<span>🔱 1071</span>
+					</div>
+				<div class="stars-today">⭐ 7349 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26831</span>
-						<span>🔱 2821</span>
+						<span>⭐ 26861</span>
+						<span>🔱 2823</span>
 					</div>
 				<div class="stars-today">⭐ 10158 stars this week</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18523</span>
-						<span>🔱 1777</span>
+						<span>⭐ 18696</span>
+						<span>🔱 1790</span>
 					</div>
 				<div class="stars-today">⭐ 14531 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13289</span>
-						<span>🔱 1061</span>
-					</div>
-				<div class="stars-today">⭐ 7349 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50652</span>
-						<span>🔱 6053</span>
+						<span>⭐ 50737</span>
+						<span>🔱 6064</span>
 					</div>
 				<div class="stars-today">⭐ 17843 stars this week</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43057</span>
-						<span>🔱 7856</span>
+						<span>⭐ 43102</span>
+						<span>🔱 7861</span>
 					</div>
 				<div class="stars-today">⭐ 9267 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 113405</span>
-						<span>🔱 14766</span>
-					</div>
-				<div class="stars-today">⭐ 22361 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19986</span>
+						<span>⭐ 20017</span>
 						<span>🔱 1853</span>
 					</div>
 				<div class="stars-today">⭐ 2749 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 113613</span>
+						<span>🔱 14789</span>
+					</div>
+				<div class="stars-today">⭐ 22361 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53677</span>
-						<span>🔱 7589</span>
+						<span>⭐ 53691</span>
+						<span>🔱 7594</span>
 					</div>
 				<div class="stars-today">⭐ 3236 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 83727</span>
+						<span>🔱 12248</span>
+					</div>
+				<div class="stars-today">⭐ 3509 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21885</span>
+						<span>⭐ 21892</span>
 						<span>🔱 4517</span>
 					</div>
 				<div class="stars-today">⭐ 2968 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
-    
-
-
-      
-        jarrodwatts /
-
-      claude-hud</a></p>
-				<p>
-      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14447</span>
-						<span>🔱 588</span>
-					</div>
-				<div class="stars-today">⭐ 5080 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14833</span>
-						<span>🔱 1792</span>
+						<span>⭐ 14893</span>
+						<span>🔱 1804</span>
 					</div>
 				<div class="stars-today">⭐ 4929 stars this week</div>
 				</div>
@@ -272,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2019</span>
+						<span>⭐ 2032</span>
 						<span>🔱 144</span>
 					</div>
 				<div class="stars-today">⭐ 890 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
+    
+
+
+      
+        jingyaogong /
+
+      minimind</a></p>
+				<p>
+      🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44290</span>
+						<span>🔱 5319</span>
+					</div>
+				<div class="stars-today">⭐ 2544 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 119486</span>
-						<span>🔱 9668</span>
+						<span>⭐ 119680</span>
+						<span>🔱 9692</span>
 					</div>
 				<div class="stars-today">⭐ 17053 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
     
 
 
       
-        opendataloader-project /
+        jarrodwatts /
 
-      opendataloader-pdf</a></p>
+      claude-hud</a></p>
 				<p>
-      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 9943</span>
-						<span>🔱 734</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14487</span>
+						<span>🔱 590</span>
 					</div>
-				<div class="stars-today">⭐ 3271 stars this week</div>
+				<div class="stars-today">⭐ 5080 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
+    
+
+
+      
+        SakanaAI /
+
+      AI-Scientist-v2</a></p>
+				<p>
+      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3139</span>
+						<span>🔱 495</span>
+					</div>
+				<div class="stars-today">⭐ 785 stars this week</div>
 				</div>
 			</div>
 	

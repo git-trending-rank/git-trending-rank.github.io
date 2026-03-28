@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-28T10:17:34Z
+date: 2026-03-28T12:23:18Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44565</span>
-						<span>🔱 6210</span>
+						<span>⭐ 44631</span>
+						<span>🔱 6223</span>
 					</div>
 				<div class="stars-today">⭐ 39863 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 43981</span>
-						<span>🔱 5925</span>
+						<span>⭐ 44011</span>
+						<span>🔱 5927</span>
 					</div>
 				<div class="stars-today">⭐ 36290 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14893</span>
+						<span>🔱 1804</span>
+					</div>
+				<div class="stars-today">⭐ 13919 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50652</span>
-						<span>🔱 6053</span>
+						<span>⭐ 50737</span>
+						<span>🔱 6064</span>
 					</div>
 				<div class="stars-today">⭐ 28423 stars this month</div>
 				</div>
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35949</span>
-						<span>🔱 3572</span>
+						<span>⭐ 35973</span>
+						<span>🔱 3577</span>
 					</div>
 				<div class="stars-today">⭐ 18188 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      practice made claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 22800</span>
-						<span>🔱 1963</span>
-					</div>
-				<div class="stars-today">⭐ 17306 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 41270</span>
-						<span>🔱 6403</span>
+						<span>⭐ 41371</span>
+						<span>🔱 6419</span>
 					</div>
 				<div class="stars-today">⭐ 21879 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20286</span>
-						<span>🔱 2329</span>
-					</div>
-				<div class="stars-today">⭐ 14318 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 25433</span>
+						<span>⭐ 25455</span>
 						<span>🔱 1030</span>
 					</div>
 				<div class="stars-today">⭐ 13405 stars this month</div>
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 113405</span>
-						<span>🔱 14766</span>
+						<span>⭐ 113613</span>
+						<span>🔱 14789</span>
 					</div>
 				<div class="stars-today">⭐ 58298 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 22881</span>
+						<span>🔱 1967</span>
+					</div>
+				<div class="stars-today">⭐ 17306 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44790</span>
-						<span>🔱 7222</span>
+						<span>⭐ 44828</span>
+						<span>🔱 7227</span>
 					</div>
 				<div class="stars-today">⭐ 28260 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      Secure, Fast, and Extensible Sandbox runtime for AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9410</span>
-						<span>🔱 715</span>
-					</div>
-				<div class="stars-today">⭐ 8089 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19583</span>
-						<span>🔱 1358</span>
+						<span>⭐ 19593</span>
+						<span>🔱 1360</span>
 					</div>
 				<div class="stars-today">⭐ 15431 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
     
 
 
       
-        obra /
+        abhigyanpatwari /
 
-      superpowers</a></p>
+      GitNexus</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 119486</span>
-						<span>🔱 9668</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20301</span>
+						<span>🔱 2330</span>
 					</div>
-				<div class="stars-today">⭐ 53968 stars this month</div>
+				<div class="stars-today">⭐ 14318 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7539</span>
-						<span>🔱 905</span>
+						<span>⭐ 7555</span>
+						<span>🔱 907</span>
 					</div>
 				<div class="stars-today">⭐ 5346 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/manaflow-ai/cmux" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        manaflow-ai /
+        obra /
 
-      cmux</a></p>
+      superpowers</a></p>
 				<p>
-      Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 11014</span>
-						<span>🔱 760</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 119680</span>
+						<span>🔱 9692</span>
 					</div>
-				<div class="stars-today">⭐ 8218 stars this month</div>
+				<div class="stars-today">⭐ 53968 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      Secure, Fast, and Extensible Sandbox runtime for AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9422</span>
+						<span>🔱 715</span>
+					</div>
+				<div class="stars-today">⭐ 8089 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8725</span>
-						<span>🔱 1008</span>
+						<span>⭐ 8730</span>
+						<span>🔱 1010</span>
 					</div>
 				<div class="stars-today">⭐ 3418 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
     
 
 
       
-        D4Vinci /
+        mvanhorn /
 
-      Scrapling</a></p>
+      last30days-skill</a></p>
 				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33515</span>
-						<span>🔱 2688</span>
+						<span>⭐ 13410</span>
+						<span>🔱 1071</span>
 					</div>
-				<div class="stars-today">⭐ 15975 stars this month</div>
+				<div class="stars-today">⭐ 9005 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +404,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43057</span>
-						<span>🔱 7856</span>
+						<span>⭐ 43102</span>
+						<span>🔱 7861</span>
 					</div>
 				<div class="stars-today">⭐ 11986 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+    
+
+
+      
+        jarrodwatts /
+
+      claude-hud</a></p>
+				<p>
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 14487</span>
+						<span>🔱 590</span>
+					</div>
+				<div class="stars-today">⭐ 10420 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/manaflow-ai/cmux" target="_blank">
+    
+
+
+      
+        manaflow-ai /
+
+      cmux</a></p>
+				<p>
+      Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Swift</span>
+						<span>⭐ 11044</span>
+						<span>🔱 760</span>
+					</div>
+				<div class="stars-today">⭐ 8218 stars this month</div>
 				</div>
 			</div>
 	
