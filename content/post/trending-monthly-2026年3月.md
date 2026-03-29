@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-29T10:18:43Z
+date: 2026-03-29T12:23:25Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45154</span>
-						<span>🔱 6326</span>
+						<span>⭐ 45218</span>
+						<span>🔱 6341</span>
 					</div>
 				<div class="stars-today">⭐ 40572 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 44271</span>
-						<span>🔱 5960</span>
-					</div>
-				<div class="stars-today">⭐ 36591 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15714</span>
-						<span>🔱 1913</span>
+						<span>⭐ 15826</span>
+						<span>🔱 1924</span>
 					</div>
 				<div class="stars-today">⭐ 14158 stars this month</div>
 				</div>
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51864</span>
-						<span>🔱 6224</span>
+						<span>⭐ 51974</span>
+						<span>🔱 6245</span>
 					</div>
 				<div class="stars-today">⭐ 29551 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      RuView</a></p>
+				<p>
+      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 44290</span>
+						<span>🔱 5961</span>
+					</div>
+				<div class="stars-today">⭐ 36591 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 36151</span>
+						<span>⭐ 36183</span>
 						<span>🔱 3597</span>
 					</div>
 				<div class="stars-today">⭐ 18335 stars this month</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42179</span>
-						<span>🔱 6519</span>
+						<span>⭐ 42265</span>
+						<span>🔱 6531</span>
 					</div>
 				<div class="stars-today">⭐ 22738 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 25673</span>
-						<span>🔱 1036</span>
+						<span>⭐ 25698</span>
+						<span>🔱 1039</span>
 					</div>
 				<div class="stars-today">⭐ 13671 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 115490</span>
-						<span>🔱 15033</span>
+						<span>⭐ 115660</span>
+						<span>🔱 15051</span>
 					</div>
 				<div class="stars-today">⭐ 60651 stars this month</div>
 				</div>
@@ -206,76 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 23801</span>
-						<span>🔱 2059</span>
+						<span>⭐ 23876</span>
+						<span>🔱 2064</span>
 					</div>
 				<div class="stars-today">⭐ 17643 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 45061</span>
-						<span>🔱 7252</span>
-					</div>
-				<div class="stars-today">⭐ 28553 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19754</span>
-						<span>🔱 1373</span>
-					</div>
-				<div class="stars-today">⭐ 15560 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20493</span>
-						<span>🔱 2340</span>
-					</div>
-				<div class="stars-today">⭐ 14471 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7771</span>
-						<span>🔱 933</span>
+						<span>⭐ 7792</span>
+						<span>🔱 934</span>
 					</div>
 				<div class="stars-today">⭐ 5598 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19770</span>
+						<span>🔱 1374</span>
+					</div>
+				<div class="stars-today">⭐ 15560 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,54 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 121647</span>
-						<span>🔱 9886</span>
+						<span>⭐ 121836</span>
+						<span>🔱 9907</span>
 					</div>
 				<div class="stars-today">⭐ 56286 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
     
 
 
       
-        alibaba /
+        abhigyanpatwari /
 
-      OpenSandbox</a></p>
+      GitNexus</a></p>
 				<p>
-      Secure, Fast, and Extensible Sandbox runtime for AI agents.
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9497</span>
-						<span>🔱 721</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20502</span>
+						<span>🔱 2341</span>
 					</div>
-				<div class="stars-today">⭐ 8123 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8777</span>
-						<span>🔱 1015</span>
-					</div>
-				<div class="stars-today">⭐ 3511 stars this month</div>
+				<div class="stars-today">⭐ 14471 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14570</span>
-						<span>🔱 1158</span>
+						<span>⭐ 14693</span>
+						<span>🔱 1167</span>
 					</div>
 				<div class="stars-today">⭐ 10394 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 45076</span>
+						<span>🔱 7253</span>
+					</div>
+				<div class="stars-today">⭐ 28553 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open-swe</a></p>
+				<p>
+      An Open-Source Asynchronous Coding Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8779</span>
+						<span>🔱 1015</span>
+					</div>
+				<div class="stars-today">⭐ 3511 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      OpenSandbox</a></p>
+				<p>
+      Secure, Fast, and Extensible Sandbox runtime for AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9500</span>
+						<span>🔱 721</span>
+					</div>
+				<div class="stars-today">⭐ 8123 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43591</span>
-						<span>🔱 7939</span>
+						<span>⭐ 43635</span>
+						<span>🔱 7947</span>
 					</div>
 				<div class="stars-today">⭐ 12478 stars this month</div>
 				</div>
@@ -426,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 14819</span>
-						<span>🔱 604</span>
+						<span>⭐ 14841</span>
+						<span>🔱 608</span>
 					</div>
 				<div class="stars-today">⭐ 10759 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/manaflow-ai/cmux" target="_blank">
-    
-
-
-      
-        manaflow-ai /
-
-      cmux</a></p>
-				<p>
-      Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Swift</span>
-						<span>⭐ 11271</span>
-						<span>🔱 781</span>
-					</div>
-				<div class="stars-today">⭐ 8525 stars this month</div>
 				</div>
 			</div>
 	

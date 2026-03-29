@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第13周
-date: 2026-03-29T10:18:43Z
+date: 2026-03-29T12:23:25Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14570</span>
-						<span>🔱 1158</span>
+						<span>⭐ 14693</span>
+						<span>🔱 1167</span>
 					</div>
 				<div class="stars-today">⭐ 9091 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51974</span>
+						<span>🔱 6245</span>
+					</div>
+				<div class="stars-today">⭐ 18872 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27073</span>
-						<span>🔱 2851</span>
+						<span>⭐ 27083</span>
+						<span>🔱 2852</span>
 					</div>
 				<div class="stars-today">⭐ 10133 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19371</span>
-						<span>🔱 1838</span>
+						<span>⭐ 19423</span>
+						<span>🔱 1842</span>
 					</div>
 				<div class="stars-today">⭐ 13244 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51864</span>
-						<span>🔱 6224</span>
-					</div>
-				<div class="stars-today">⭐ 18872 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43591</span>
-						<span>🔱 7939</span>
+						<span>⭐ 43635</span>
+						<span>🔱 7947</span>
 					</div>
 				<div class="stars-today">⭐ 8220 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 84811</span>
+						<span>🔱 12375</span>
+					</div>
+				<div class="stars-today">⭐ 3667 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20216</span>
-						<span>🔱 1869</span>
+						<span>⭐ 20231</span>
+						<span>🔱 1870</span>
 					</div>
 				<div class="stars-today">⭐ 3029 stars this week</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 115490</span>
-						<span>🔱 15033</span>
+						<span>⭐ 115660</span>
+						<span>🔱 15051</span>
 					</div>
 				<div class="stars-today">⭐ 21644 stars this week</div>
 				</div>
@@ -184,54 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53804</span>
-						<span>🔱 7598</span>
+						<span>⭐ 53814</span>
+						<span>🔱 7600</span>
 					</div>
 				<div class="stars-today">⭐ 3362 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 84710</span>
-						<span>🔱 12370</span>
-					</div>
-				<div class="stars-today">⭐ 3667 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
-    
-
-
-      
-        hsliuping /
-
-      TradingAgents-CN</a></p>
-				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21986</span>
-						<span>🔱 4540</span>
-					</div>
-				<div class="stars-today">⭐ 2657 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15714</span>
-						<span>🔱 1913</span>
+						<span>⭐ 15826</span>
+						<span>🔱 1924</span>
 					</div>
 				<div class="stars-today">⭐ 5382 stars this week</div>
 				</div>
@@ -272,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2170</span>
+						<span>⭐ 2181</span>
 						<span>🔱 156</span>
 					</div>
 				<div class="stars-today">⭐ 1112 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
+    
+
+
+      
+        SakanaAI /
+
+      AI-Scientist-v2</a></p>
+				<p>
+      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3724</span>
+						<span>🔱 557</span>
+					</div>
+				<div class="stars-today">⭐ 855 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+    
+
+
+      
+        hsliuping /
+
+      TradingAgents-CN</a></p>
+				<p>
+      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22000</span>
+						<span>🔱 4541</span>
+					</div>
+				<div class="stars-today">⭐ 2657 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44432</span>
-						<span>🔱 5332</span>
+						<span>⭐ 44446</span>
+						<span>🔱 5335</span>
 					</div>
 				<div class="stars-today">⭐ 2617 stars this week</div>
 				</div>
@@ -316,54 +338,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 121647</span>
-						<span>🔱 9886</span>
+						<span>⭐ 121836</span>
+						<span>🔱 9907</span>
 					</div>
 				<div class="stars-today">⭐ 17608 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
     
 
 
       
-        jarrodwatts /
+        hesreallyhim /
 
-      claude-hud</a></p>
+      awesome-claude-code</a></p>
 				<p>
-      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 14819</span>
-						<span>🔱 604</span>
-					</div>
-				<div class="stars-today">⭐ 4505 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
-    
-
-
-      
-        SakanaAI /
-
-      AI-Scientist-v2</a></p>
-				<p>
-      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+      A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3688</span>
-						<span>🔱 553</span>
+						<span>⭐ 33820</span>
+						<span>🔱 2438</span>
 					</div>
-				<div class="stars-today">⭐ 855 stars this week</div>
+				<div class="stars-today">⭐ 3980 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/figma/mcp-server-guide" target="_blank">
+    
+
+
+      
+        figma /
+
+      mcp-server-guide</a></p>
+				<p>
+      A guide on how to use the Figma MCP server
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 746</span>
+						<span>🔱 58</span>
+					</div>
+				<div class="stars-today">⭐ 282 stars this week</div>
 				</div>
 			</div>
 	
