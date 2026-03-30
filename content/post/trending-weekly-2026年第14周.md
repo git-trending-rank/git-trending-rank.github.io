@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第14周
-date: 2026-03-30T10:50:31Z
+date: 2026-03-30T12:43:28Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16087</span>
-						<span>🔱 1272</span>
+						<span>⭐ 16141</span>
+						<span>🔱 1277</span>
 					</div>
 				<div class="stars-today">⭐ 10436 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+    
+
+
+      
+        pascalorg /
+
+      editor</a></p>
+				<p>
+      Create and share 3D architectural projects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8375</span>
+						<span>🔱 1082</span>
+					</div>
+				<div class="stars-today">⭐ 5790 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,76 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53551</span>
-						<span>🔱 6451</span>
+						<span>⭐ 53659</span>
+						<span>🔱 6465</span>
 					</div>
 				<div class="stars-today">⭐ 18158 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
-    
-
-
-      
-        FujiwaraChoki /
-
-      MoneyPrinterV2</a></p>
-				<p>
-      Automate the process of making money online.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27357</span>
-						<span>🔱 2894</span>
-					</div>
-				<div class="stars-today">⭐ 8460 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19985</span>
-						<span>🔱 1889</span>
-					</div>
-				<div class="stars-today">⭐ 11503 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44270</span>
-						<span>🔱 8024</span>
-					</div>
-				<div class="stars-today">⭐ 7622 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,120 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 85845</span>
-						<span>🔱 12490</span>
+						<span>⭐ 85928</span>
+						<span>🔱 12499</span>
 					</div>
 				<div class="stars-today">⭐ 4805 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
     
 
 
       
-        supermemoryai /
+        Crosstalk-Solutions /
 
-      supermemory</a></p>
+      project-nomad</a></p>
 				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20430</span>
-						<span>🔱 1880</span>
+						<span>⭐ 20033</span>
+						<span>🔱 1893</span>
 					</div>
-				<div class="stars-today">⭐ 3010 stars this week</div>
+				<div class="stars-today">⭐ 11503 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
     
 
 
       
-        affaan-m /
+        FujiwaraChoki /
 
-      everything-claude-code</a></p>
+      MoneyPrinterV2</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 117759</span>
-						<span>🔱 15286</span>
-					</div>
-				<div class="stars-today">⭐ 19877 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
-    
-
-
-      
-        harry0703 /
-
-      MoneyPrinterTurbo</a></p>
-				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+      Automate the process of making money online.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54060</span>
-						<span>🔱 7630</span>
+						<span>⭐ 27368</span>
+						<span>🔱 2897</span>
 					</div>
-				<div class="stars-today">⭐ 3260 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17560</span>
-						<span>🔱 2129</span>
-					</div>
-				<div class="stars-today">⭐ 6103 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/letta-ai/claude-subconscious" target="_blank">
-    
-
-
-      
-        letta-ai /
-
-      claude-subconscious</a></p>
-				<p>
-      Give Claude Code a subconscious
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2296</span>
-						<span>🔱 165</span>
-					</div>
-				<div class="stars-today">⭐ 1267 stars this week</div>
+				<div class="stars-today">⭐ 8460 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +162,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3950</span>
+						<span>⭐ 3968</span>
 						<span>🔱 584</span>
 					</div>
 				<div class="stars-today">⭐ 1449 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28607</span>
+						<span>🔱 3144</span>
+					</div>
+				<div class="stars-today">⭐ 4421 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+    
+
+
+      
+        supermemoryai /
+
+      supermemory</a></p>
+				<p>
+      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20439</span>
+						<span>🔱 1881</span>
+					</div>
+				<div class="stars-today">⭐ 3010 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44310</span>
+						<span>🔱 8027</span>
+					</div>
+				<div class="stars-today">⭐ 7622 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+    
+
+
+      
+        harry0703 /
+
+      MoneyPrinterTurbo</a></p>
+				<p>
+      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54079</span>
+						<span>🔱 7632</span>
+					</div>
+				<div class="stars-today">⭐ 3260 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/letta-ai/claude-subconscious" target="_blank">
+    
+
+
+      
+        letta-ai /
+
+      claude-subconscious</a></p>
+				<p>
+      Give Claude Code a subconscious
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2307</span>
+						<span>🔱 165</span>
+					</div>
+				<div class="stars-today">⭐ 1267 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17689</span>
+						<span>🔱 2143</span>
+					</div>
+				<div class="stars-today">⭐ 6103 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 117939</span>
+						<span>🔱 15307</span>
+					</div>
+				<div class="stars-today">⭐ 19877 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 124643</span>
+						<span>🔱 10156</span>
+					</div>
+				<div class="stars-today">⭐ 18047 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22203</span>
-						<span>🔱 4573</span>
+						<span>⭐ 22215</span>
+						<span>🔱 4574</span>
 					</div>
 				<div class="stars-today">⭐ 2504 stars this week</div>
 				</div>
@@ -316,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44695</span>
-						<span>🔱 5384</span>
+						<span>⭐ 44724</span>
+						<span>🔱 5392</span>
 					</div>
 				<div class="stars-today">⭐ 2607 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 124451</span>
-						<span>🔱 10139</span>
-					</div>
-				<div class="stars-today">⭐ 18047 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,32 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34279</span>
-						<span>🔱 2483</span>
+						<span>⭐ 34315</span>
+						<span>🔱 2484</span>
 					</div>
 				<div class="stars-today">⭐ 3862 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/figma/mcp-server-guide" target="_blank">
-    
-
-
-      
-        figma /
-
-      mcp-server-guide</a></p>
-				<p>
-      A guide on how to use the Figma MCP server
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 808</span>
-						<span>🔱 64</span>
-					</div>
-				<div class="stars-today">⭐ 305 stars this week</div>
 				</div>
 			</div>
 	

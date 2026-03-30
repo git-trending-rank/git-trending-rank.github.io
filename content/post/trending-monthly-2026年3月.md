@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年3月
-date: 2026-03-30T10:50:31Z
+date: 2026-03-30T12:43:28Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45919</span>
-						<span>🔱 6479</span>
+						<span>⭐ 45975</span>
+						<span>🔱 6488</span>
 					</div>
 				<div class="stars-today">⭐ 41128 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17560</span>
-						<span>🔱 2129</span>
+						<span>⭐ 17689</span>
+						<span>🔱 2143</span>
 					</div>
 				<div class="stars-today">⭐ 15044 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53551</span>
-						<span>🔱 6451</span>
+						<span>⭐ 53659</span>
+						<span>🔱 6465</span>
 					</div>
 				<div class="stars-today">⭐ 30777 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 44587</span>
-						<span>🔱 5989</span>
-					</div>
-				<div class="stars-today">⭐ 36967 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36564</span>
-						<span>🔱 3625</span>
-					</div>
-				<div class="stars-today">⭐ 18562 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,54 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43472</span>
-						<span>🔱 6667</span>
+						<span>⭐ 43555</span>
+						<span>🔱 6678</span>
 					</div>
 				<div class="stars-today">⭐ 23592 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
     
 
 
       
-        lightpanda-io /
+        ruvnet /
 
-      browser</a></p>
+      RuView</a></p>
 				<p>
-      Lightpanda: the headless browser designed for AI and automation
+      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 25957</span>
-						<span>🔱 1051</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 44604</span>
+						<span>🔱 5989</span>
 					</div>
-				<div class="stars-today">⭐ 13896 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 117759</span>
-						<span>🔱 15286</span>
-					</div>
-				<div class="stars-today">⭐ 62608 stars this month</div>
+				<div class="stars-today">⭐ 36967 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +140,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 24898</span>
-						<span>🔱 2130</span>
+						<span>⭐ 25059</span>
+						<span>🔱 2142</span>
 					</div>
 				<div class="stars-today">⭐ 18638 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 117939</span>
+						<span>🔱 15307</span>
+					</div>
+				<div class="stars-today">⭐ 62608 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36576</span>
+						<span>🔱 3625</span>
+					</div>
+				<div class="stars-today">⭐ 18562 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 25972</span>
+						<span>🔱 1054</span>
+					</div>
+				<div class="stars-today">⭐ 13896 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8040</span>
-						<span>🔱 958</span>
+						<span>⭐ 8050</span>
+						<span>🔱 959</span>
 					</div>
 				<div class="stars-today">⭐ 5825 stars this month</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19993</span>
+						<span>⭐ 20011</span>
 						<span>🔱 1393</span>
 					</div>
 				<div class="stars-today">⭐ 15740 stars this month</div>
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 124451</span>
-						<span>🔱 10139</span>
+						<span>⭐ 124643</span>
+						<span>🔱 10156</span>
 					</div>
 				<div class="stars-today">⭐ 58420 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
-    
-
-
-      
-        abhigyanpatwari /
-
-      GitNexus</a></p>
-				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20742</span>
-						<span>🔱 2366</span>
-					</div>
-				<div class="stars-today">⭐ 14721 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16087</span>
-						<span>🔱 1272</span>
+						<span>⭐ 16141</span>
+						<span>🔱 1277</span>
 					</div>
 				<div class="stars-today">⭐ 11594 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
-    
-
-
-      
-        koala73 /
-
-      worldmonitor</a></p>
-				<p>
-      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 45381</span>
-						<span>🔱 7286</span>
-					</div>
-				<div class="stars-today">⭐ 28832 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,54 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8844</span>
-						<span>🔱 1023</span>
+						<span>⭐ 8847</span>
+						<span>🔱 1025</span>
 					</div>
 				<div class="stars-today">⭐ 3558 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/OpenSandbox" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      OpenSandbox</a></p>
-				<p>
-      Secure, Fast, and Extensible Sandbox runtime for AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9582</span>
-						<span>🔱 730</span>
-					</div>
-				<div class="stars-today">⭐ 8231 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 44270</span>
-						<span>🔱 8024</span>
-					</div>
-				<div class="stars-today">⭐ 12995 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +338,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15203</span>
-						<span>🔱 625</span>
+						<span>⭐ 15234</span>
+						<span>🔱 627</span>
 					</div>
 				<div class="stars-today">⭐ 11090 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 44310</span>
+						<span>🔱 8027</span>
+					</div>
+				<div class="stars-today">⭐ 12995 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus</a></p>
+				<p>
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20758</span>
+						<span>🔱 2367</span>
+					</div>
+				<div class="stars-today">⭐ 14721 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 45403</span>
+						<span>🔱 7288</span>
+					</div>
+				<div class="stars-today">⭐ 28832 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
+    
+
+
+      
+        promptfoo /
+
+      promptfoo</a></p>
+				<p>
+      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18773</span>
+						<span>🔱 1606</span>
+					</div>
+				<div class="stars-today">⭐ 8087 stars this month</div>
 				</div>
 			</div>
 	

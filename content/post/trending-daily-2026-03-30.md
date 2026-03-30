@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-30
-date: 2026-03-30T10:50:31Z
+date: 2026-03-30T12:43:28Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28607</span>
+						<span>🔱 3144</span>
+					</div>
+				<div class="stars-today">⭐ 2509 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8859</span>
-						<span>🔱 896</span>
+						<span>⭐ 9022</span>
+						<span>🔱 911</span>
 					</div>
 				<div class="stars-today">⭐ 1165 stars today</div>
 				</div>
@@ -52,120 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16888</span>
-						<span>🔱 1184</span>
+						<span>⭐ 17003</span>
+						<span>🔱 1192</span>
 					</div>
-				<div class="stars-today">⭐ 835 stars today</div>
+				<div class="stars-today">⭐ 1785 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
     
 
 
       
-        microsoft /
+        shanraisshan /
 
-      VibeVoice</a></p>
+      claude-code-best-practice</a></p>
 				<p>
-      Open-Source Frontier Voice AI
+      practice made claude perfect
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28335</span>
-						<span>🔱 3117</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 25059</span>
+						<span>🔱 2142</span>
 					</div>
-				<div class="stars-today">⭐ 1056 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17560</span>
-						<span>🔱 2129</span>
-					</div>
-				<div class="stars-today">⭐ 917 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 64247</span>
-						<span>🔱 6328</span>
-					</div>
-				<div class="stars-today">⭐ 137 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 124451</span>
-						<span>🔱 10139</span>
-					</div>
-				<div class="stars-today">⭐ 2230 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43196</span>
-						<span>🔱 3206</span>
-					</div>
-				<div class="stars-today">⭐ 373 stars today</div>
+				<div class="stars-today">⭐ 1050 stars today</div>
 				</div>
 			</div>
 	
@@ -184,54 +118,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 85845</span>
-						<span>🔱 12490</span>
+						<span>⭐ 85928</span>
+						<span>🔱 12499</span>
 					</div>
-				<div class="stars-today">⭐ 1132 stars today</div>
+				<div class="stars-today">⭐ 1138 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
     
 
 
       
-        mvanhorn /
+        OpenBB-finance /
 
-      last30days-skill</a></p>
+      OpenBB</a></p>
 				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      Financial data platform for analysts, quants and AI agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16087</span>
-						<span>🔱 1272</span>
+						<span>⭐ 64283</span>
+						<span>🔱 6332</span>
 					</div>
-				<div class="stars-today">⭐ 1308 stars today</div>
+				<div class="stars-today">⭐ 499 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
     
 
 
       
-        shareAI-lab /
+        freeCodeCamp /
 
-      learn-claude-code</a></p>
+      freeCodeCamp</a></p>
 				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 43472</span>
-						<span>🔱 6667</span>
+						<span>⭐ 439382</span>
+						<span>🔱 43863</span>
 					</div>
-				<div class="stars-today">⭐ 919 stars today</div>
+				<div class="stars-today">⭐ 376 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+    
+
+
+      
+        sherlock-project /
+
+      sherlock</a></p>
+				<p>
+      Hunt down social media accounts by username across social networks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 74313</span>
+						<span>🔱 8823</span>
+					</div>
+				<div class="stars-today">⭐ 68 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/apache/superset" target="_blank">
+    
+
+
+      
+        apache /
+
+      superset</a></p>
+				<p>
+      Apache Superset is a Data Visualization and Data Exploration Platform
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 71696</span>
+						<span>🔱 16922</span>
+					</div>
+				<div class="stars-today">⭐ 63 stars today</div>
 				</div>
 			</div>
 	
@@ -250,54 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 21276</span>
+						<span>⭐ 21293</span>
 						<span>🔱 720</span>
 					</div>
-				<div class="stars-today">⭐ 37 stars today</div>
+				<div class="stars-today">⭐ 271 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        moeru-ai /
+        NousResearch /
 
-      airi</a></p>
+      hermes-agent</a></p>
 				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36564</span>
-						<span>🔱 3625</span>
+						<span>🔠 Python</span>
+						<span>⭐ 17689</span>
+						<span>🔱 2143</span>
 					</div>
-				<div class="stars-today">⭐ 224 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/twentyhq/twenty" target="_blank">
-    
-
-
-      
-        twentyhq /
-
-      twenty</a></p>
-				<p>
-      Building a modern alternative to Salesforce, powered by the community.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 43168</span>
-						<span>🔱 5690</span>
-					</div>
-				<div class="stars-today">⭐ 447 stars today</div>
+				<div class="stars-today">⭐ 1859 stars today</div>
 				</div>
 			</div>
 	
