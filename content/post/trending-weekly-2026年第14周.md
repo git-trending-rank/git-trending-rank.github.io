@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第14周
-date: 2026-03-31T08:42:35Z
+date: 2026-03-31T10:40:48Z
 categories:
 - weekly
 keywords:
@@ -30,142 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16628</span>
-						<span>🔱 1320</span>
+						<span>⭐ 16677</span>
+						<span>🔱 1323</span>
 					</div>
 				<div class="stars-today">⭐ 11605 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8628</span>
-						<span>🔱 1107</span>
-					</div>
-				<div class="stars-today">⭐ 5612 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54651</span>
-						<span>🔱 6588</span>
-					</div>
-				<div class="stars-today">⭐ 16370 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 86728</span>
-						<span>🔱 12584</span>
-					</div>
-				<div class="stars-today">⭐ 5826 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20410</span>
-						<span>🔱 1935</span>
-					</div>
-				<div class="stars-today">⭐ 8038 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
-    
-
-
-      
-        FujiwaraChoki /
-
-      MoneyPrinterV2</a></p>
-				<p>
-      Automate the process of making money online.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27557</span>
-						<span>🔱 2914</span>
-					</div>
-				<div class="stars-today">⭐ 5910 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
-    
-
-
-      
-        SakanaAI /
-
-      AI-Scientist-v2</a></p>
-				<p>
-      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4105</span>
-						<span>🔱 606</span>
-					</div>
-				<div class="stars-today">⭐ 1664 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,98 +52,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 31845</span>
-						<span>🔱 3528</span>
+						<span>⭐ 32143</span>
+						<span>🔱 3561</span>
 					</div>
 				<div class="stars-today">⭐ 4768 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/supermemoryai/supermemory" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        supermemoryai /
+        hacksider /
 
-      supermemory</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20687</span>
-						<span>🔱 1889</span>
-					</div>
-				<div class="stars-today">⭐ 2617 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44825</span>
-						<span>🔱 8109</span>
+						<span>⭐ 86811</span>
+						<span>🔱 12591</span>
 					</div>
-				<div class="stars-today">⭐ 5888 stars this week</div>
+				<div class="stars-today">⭐ 5826 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/harry0703/MoneyPrinterTurbo" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        harry0703 /
+        bytedance /
 
-      MoneyPrinterTurbo</a></p>
+      deer-flow</a></p>
 				<p>
-      利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54276</span>
-						<span>🔱 7651</span>
+						<span>⭐ 54799</span>
+						<span>🔱 6610</span>
 					</div>
-				<div class="stars-today">⭐ 2526 stars this week</div>
+				<div class="stars-today">⭐ 16370 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/letta-ai/claude-subconscious" target="_blank">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
     
 
 
       
-        letta-ai /
+        SakanaAI /
 
-      claude-subconscious</a></p>
+      AI-Scientist-v2</a></p>
 				<p>
-      Give Claude Code a subconscious
+      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4122</span>
+						<span>🔱 608</span>
+					</div>
+				<div class="stars-today">⭐ 1664 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+    
+
+
+      
+        Yeachan-Heo /
+
+      oh-my-claudecode</a></p>
+				<p>
+      Teams-first Multi-agent orchestration for Claude Code
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2394</span>
-						<span>🔱 173</span>
+						<span>⭐ 18002</span>
+						<span>🔱 1263</span>
 					</div>
-				<div class="stars-today">⭐ 1357 stars this week</div>
+				<div class="stars-today">⭐ 6286 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+    
+
+
+      
+        pascalorg /
+
+      editor</a></p>
+				<p>
+      Create and share 3D architectural projects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8647</span>
+						<span>🔱 1111</span>
+					</div>
+				<div class="stars-today">⭐ 5612 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19287</span>
-						<span>🔱 2334</span>
+						<span>⭐ 19434</span>
+						<span>🔱 2354</span>
 					</div>
 				<div class="stars-today">⭐ 6892 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 121902</span>
-						<span>🔱 15862</span>
-					</div>
-				<div class="stars-today">⭐ 17901 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,32 +206,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 126748</span>
-						<span>🔱 10332</span>
+						<span>⭐ 126999</span>
+						<span>🔱 10350</span>
 					</div>
 				<div class="stars-today">⭐ 18199 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hsliuping/TradingAgents-CN" target="_blank">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
     
 
 
       
-        hsliuping /
+        affaan-m /
 
-      TradingAgents-CN</a></p>
+      everything-claude-code</a></p>
 				<p>
-      基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 122562</span>
+						<span>🔱 15964</span>
+					</div>
+				<div class="stars-today">⭐ 17901 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22347</span>
-						<span>🔱 4600</span>
+						<span>⭐ 44876</span>
+						<span>🔱 8121</span>
 					</div>
-				<div class="stars-today">⭐ 2087 stars this week</div>
+				<div class="stars-today">⭐ 5888 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/letta-ai/claude-subconscious" target="_blank">
+    
+
+
+      
+        letta-ai /
+
+      claude-subconscious</a></p>
+				<p>
+      Give Claude Code a subconscious
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2399</span>
+						<span>🔱 173</span>
+					</div>
+				<div class="stars-today">⭐ 1357 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad</a></p>
+				<p>
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20443</span>
+						<span>🔱 1939</span>
+					</div>
+				<div class="stars-today">⭐ 8038 stars this week</div>
 				</div>
 			</div>
 	
@@ -382,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44951</span>
-						<span>🔱 5429</span>
+						<span>⭐ 44987</span>
+						<span>🔱 5431</span>
 					</div>
 				<div class="stars-today">⭐ 2416 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hesreallyhim/awesome-claude-code" target="_blank">
-    
-
-
-      
-        hesreallyhim /
-
-      awesome-claude-code</a></p>
-				<p>
-      A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 34732</span>
-						<span>🔱 2527</span>
-					</div>
-				<div class="stars-today">⭐ 3873 stars this week</div>
 				</div>
 			</div>
 	

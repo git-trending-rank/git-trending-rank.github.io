@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-03-31
-date: 2026-03-31T08:42:35Z
+date: 2026-03-31T10:40:48Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 31845</span>
-						<span>🔱 3528</span>
-					</div>
-				<div class="stars-today">⭐ 2492 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
@@ -52,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10966</span>
-						<span>🔱 1106</span>
+						<span>⭐ 11216</span>
+						<span>🔱 1144</span>
 					</div>
 				<div class="stars-today">⭐ 4232 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32143</span>
+						<span>🔱 3561</span>
+					</div>
+				<div class="stars-today">⭐ 2492 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+    
+
+
+      
+        Yeachan-Heo /
+
+      oh-my-claudecode</a></p>
+				<p>
+      Teams-first Multi-agent orchestration for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18002</span>
+						<span>🔱 1263</span>
+					</div>
+				<div class="stars-today">⭐ 1791 stars today</div>
 				</div>
 			</div>
 	
@@ -74,142 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 27074</span>
-						<span>🔱 2259</span>
+						<span>⭐ 27268</span>
+						<span>🔱 2269</span>
 					</div>
 				<div class="stars-today">⭐ 1108 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 86728</span>
-						<span>🔱 12584</span>
-					</div>
-				<div class="stars-today">⭐ 1136 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBB-finance/OpenBB" target="_blank">
-    
-
-
-      
-        OpenBB-finance /
-
-      OpenBB</a></p>
-				<p>
-      Financial data platform for analysts, quants and AI agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 64729</span>
-						<span>🔱 6361</span>
-					</div>
-				<div class="stars-today">⭐ 502 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
-    
-
-
-      
-        freeCodeCamp /
-
-      freeCodeCamp</a></p>
-				<p>
-      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 440019</span>
-						<span>🔱 43914</span>
-					</div>
-				<div class="stars-today">⭐ 368 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
-    
-
-
-      
-        sherlock-project /
-
-      sherlock</a></p>
-				<p>
-      Hunt down social media accounts by username across social networks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 75031</span>
-						<span>🔱 8857</span>
-					</div>
-				<div class="stars-today">⭐ 76 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/apache/superset" target="_blank">
-    
-
-
-      
-        apache /
-
-      superset</a></p>
-				<p>
-      Apache Superset is a Data Visualization and Data Exploration Platform
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 72094</span>
-						<span>🔱 16953</span>
-					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fastfetch-cli/fastfetch" target="_blank">
-    
-
-
-      
-        fastfetch-cli /
-
-      fastfetch</a></p>
-				<p>
-      A maintained, feature-rich and performance oriented, neofetch like system information tool.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C</span>
-						<span>⭐ 21498</span>
-						<span>🔱 728</span>
-					</div>
-				<div class="stars-today">⭐ 276 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +118,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19287</span>
-						<span>🔱 2334</span>
+						<span>⭐ 19434</span>
+						<span>🔱 2354</span>
 					</div>
 				<div class="stars-today">⭐ 1851 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 126999</span>
+						<span>🔱 10350</span>
+					</div>
+				<div class="stars-today">⭐ 2846 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      agent-lightning</a></p>
+				<p>
+      The absolute trainer to light up AI agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16061</span>
+						<span>🔱 1388</span>
+					</div>
+				<div class="stars-today">⭐ 251 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+    
+
+
+      
+        PaddlePaddle /
+
+      PaddleOCR</a></p>
+				<p>
+      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 73788</span>
+						<span>🔱 10090</span>
+					</div>
+				<div class="stars-today">⭐ 440 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Dimillian/Skills" target="_blank">
+    
+
+
+      
+        Dimillian /
+
+      Skills</a></p>
+				<p>
+      My Codex Skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 2639</span>
+						<span>🔱 141</span>
+					</div>
+				<div class="stars-today">⭐ 173 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+    
+
+
+      
+        sherlock-project /
+
+      sherlock</a></p>
+				<p>
+      Hunt down social media accounts by username across social networks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 75100</span>
+						<span>🔱 8863</span>
+					</div>
+				<div class="stars-today">⭐ 76 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/neovim/neovim" target="_blank">
+    
+
+
+      
+        neovim /
+
+      neovim</a></p>
+				<p>
+      Vim-fork focused on extensibility and usability
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Vim Script</span>
+						<span>⭐ 97731</span>
+						<span>🔱 6698</span>
+					</div>
+				<div class="stars-today">⭐ 147 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vas3k/TaxHacker" target="_blank">
+    
+
+
+      
+        vas3k /
+
+      TaxHacker</a></p>
+				<p>
+      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3450</span>
+						<span>🔱 562</span>
+					</div>
+				<div class="stars-today">⭐ 810 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      ChatDev</a></p>
+				<p>
+      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32270</span>
+						<span>🔱 3983</span>
+					</div>
+				<div class="stars-today">⭐ 254 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 339157</span>
+						<span>🔱 81715</span>
+					</div>
+				<div class="stars-today">⭐ 874 stars today</div>
 				</div>
 			</div>
 	
