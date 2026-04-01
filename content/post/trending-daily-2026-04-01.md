@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-01
-date: 2026-04-01T08:50:08Z
+date: 2026-04-01T10:42:07Z
 categories:
 - daily
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
+				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
     
 
 
       
-        luongnv89 /
+        anthropics /
 
-      claude-howto</a></p>
+      claude-code</a></p>
 				<p>
-      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14305</span>
-						<span>🔱 1617</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 95815</span>
+						<span>🔱 14158</span>
 					</div>
-				<div class="stars-today">⭐ 2390 stars today</div>
+				<div class="stars-today">⭐ 3905 stars today</div>
 				</div>
 			</div>
 	
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33727</span>
-						<span>🔱 3822</span>
+						<span>⭐ 33826</span>
+						<span>🔱 3836</span>
 					</div>
 				<div class="stars-today">⭐ 3863 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
-    
-
-
-      
-        Yeachan-Heo /
-
-      oh-my-claudecode</a></p>
-				<p>
-      Teams-first Multi-agent orchestration for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19985</span>
-						<span>🔱 1579</span>
-					</div>
-				<div class="stars-today">⭐ 1126 stars today</div>
 				</div>
 			</div>
 	
@@ -96,230 +74,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 29573</span>
-						<span>🔱 2530</span>
+						<span>⭐ 29732</span>
+						<span>🔱 2557</span>
 					</div>
 				<div class="stars-today">⭐ 2407 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
     
 
 
       
-        NousResearch /
+        google-research /
 
-      hermes-agent</a></p>
+      timesfm</a></p>
 				<p>
-      The agent that grows with you
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20891</span>
-						<span>🔱 2553</span>
+						<span>⭐ 11590</span>
+						<span>🔱 954</span>
 					</div>
-				<div class="stars-today">⭐ 1907 stars today</div>
+				<div class="stars-today">⭐ 495 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
     
 
 
       
-        obra /
+        luongnv89 /
 
-      superpowers</a></p>
+      claude-howto</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 129160</span>
-						<span>🔱 10602</span>
-					</div>
-				<div class="stars-today">⭐ 2620 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-lightning" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      agent-lightning</a></p>
-				<p>
-      The absolute trainer to light up AI agents.
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16352</span>
-						<span>🔱 1408</span>
+						<span>⭐ 14531</span>
+						<span>🔱 1652</span>
 					</div>
-				<div class="stars-today">⭐ 130 stars today</div>
+				<div class="stars-today">⭐ 2390 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/PaddlePaddle/PaddleOCR" target="_blank">
+				<p><a href="https://github.com/axios/axios" target="_blank">
     
 
 
       
-        PaddlePaddle /
+        axios /
 
-      PaddleOCR</a></p>
+      axios</a></p>
 				<p>
-      Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
+      Promise based HTTP client for the browser and node.js
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 74483</span>
-						<span>🔱 10136</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 108752</span>
+						<span>🔱 11574</span>
 					</div>
-				<div class="stars-today">⭐ 439 stars today</div>
+				<div class="stars-today">⭐ 88 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Dimillian/Skills" target="_blank">
+				<p><a href="https://github.com/openai/codex" target="_blank">
     
 
 
       
-        Dimillian /
+        openai /
 
-      Skills</a></p>
+      codex</a></p>
 				<p>
-      My Codex Skills
+      Lightweight coding agent that runs in your terminal
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 3025</span>
-						<span>🔱 155</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 70904</span>
+						<span>🔱 9879</span>
 					</div>
-				<div class="stars-today">⭐ 115 stars today</div>
+				<div class="stars-today">⭐ 2345 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+				<p><a href="https://github.com/f/prompts.chat" target="_blank">
     
 
 
       
-        sherlock-project /
+        f /
 
-      sherlock</a></p>
+      prompts.chat</a></p>
 				<p>
-      Hunt down social media accounts by username across social networks
+      f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 75782</span>
-						<span>🔱 8899</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 155496</span>
+						<span>🔱 20420</span>
 					</div>
-				<div class="stars-today">⭐ 865 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/neovim/neovim" target="_blank">
-    
-
-
-      
-        neovim /
-
-      neovim</a></p>
-				<p>
-      Vim-fork focused on extensibility and usability
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Vim Script</span>
-						<span>⭐ 98034</span>
-						<span>🔱 6713</span>
-					</div>
-				<div class="stars-today">⭐ 93 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vas3k/TaxHacker" target="_blank">
-    
-
-
-      
-        vas3k /
-
-      TaxHacker</a></p>
-				<p>
-      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3917</span>
-						<span>🔱 609</span>
-					</div>
-				<div class="stars-today">⭐ 318 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/ChatDev" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      ChatDev</a></p>
-				<p>
-      ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 32522</span>
-						<span>🔱 4008</span>
-					</div>
-				<div class="stars-today">⭐ 84 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
-    
-
-
-      
-        jwasham /
-
-      coding-interview-university</a></p>
-				<p>
-      A complete computer science study plan to become a software engineer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 339929</span>
-						<span>🔱 81804</span>
-					</div>
-				<div class="stars-today">⭐ 873 stars today</div>
+				<div class="stars-today">⭐ 421 stars today</div>
 				</div>
 			</div>
 	

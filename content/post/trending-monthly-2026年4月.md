@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-01T08:50:08Z
+date: 2026-04-01T10:42:07Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 67773</span>
-						<span>🔱 10261</span>
+						<span>⭐ 67843</span>
+						<span>🔱 10277</span>
 					</div>
 				<div class="stars-today">⭐ 66293 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47260</span>
-						<span>🔱 6765</span>
+						<span>⭐ 47305</span>
+						<span>🔱 6773</span>
 					</div>
 				<div class="stars-today">⭐ 42611 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20891</span>
-						<span>🔱 2553</span>
+						<span>⭐ 20994</span>
+						<span>🔱 2570</span>
 					</div>
 				<div class="stars-today">⭐ 18592 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55670</span>
-						<span>🔱 6771</span>
+						<span>⭐ 55742</span>
+						<span>🔱 6790</span>
 					</div>
 				<div class="stars-today">⭐ 32826 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45928</span>
-						<span>🔱 7194</span>
+						<span>⭐ 46013</span>
+						<span>🔱 7215</span>
 					</div>
 				<div class="stars-today">⭐ 25450 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      practice made claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 29573</span>
-						<span>🔱 2530</span>
-					</div>
-				<div class="stars-today">⭐ 21602 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 128908</span>
-						<span>🔱 18078</span>
+						<span>⭐ 129258</span>
+						<span>🔱 18177</span>
 					</div>
 				<div class="stars-today">⭐ 69450 stars this month</div>
 				</div>
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 26432</span>
-						<span>🔱 1070</span>
+						<span>⭐ 26443</span>
+						<span>🔱 1072</span>
 					</div>
 				<div class="stars-today">⭐ 14445 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 29732</span>
+						<span>🔱 2557</span>
+					</div>
+				<div class="stars-today">⭐ 21602 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17068</span>
-						<span>🔱 1367</span>
+						<span>⭐ 17100</span>
+						<span>🔱 1368</span>
 					</div>
 				<div class="stars-today">⭐ 13598 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 129391</span>
+						<span>🔱 10631</span>
+					</div>
+				<div class="stars-today">⭐ 62512 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8488</span>
-						<span>🔱 1022</span>
+						<span>⭐ 8502</span>
+						<span>🔱 1023</span>
 					</div>
 				<div class="stars-today">⭐ 6308 stars this month</div>
 				</div>
@@ -250,76 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20340</span>
-						<span>🔱 1419</span>
+						<span>⭐ 20351</span>
+						<span>🔱 1423</span>
 					</div>
 				<div class="stars-today">⭐ 16068 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
-    
-
-
-      
-        moeru-ai /
-
-      airi</a></p>
-				<p>
-      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36790</span>
-						<span>🔱 3643</span>
-					</div>
-				<div class="stars-today">⭐ 18075 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 129160</span>
-						<span>🔱 10602</span>
-					</div>
-				<div class="stars-today">⭐ 62512 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8936</span>
-						<span>🔱 1028</span>
-					</div>
-				<div class="stars-today">⭐ 3682 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +294,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 15877</span>
-						<span>🔱 663</span>
+						<span>⭐ 15901</span>
+						<span>🔱 664</span>
 					</div>
 				<div class="stars-today">⭐ 11834 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open-swe</a></p>
+				<p>
+      An Open-Source Asynchronous Coding Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8942</span>
+						<span>🔱 1028</span>
+					</div>
+				<div class="stars-today">⭐ 3682 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/moeru-ai/airi" target="_blank">
+    
+
+
+      
+        moeru-ai /
+
+      airi</a></p>
+				<p>
+      💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 36800</span>
+						<span>🔱 3643</span>
+					</div>
+				<div class="stars-today">⭐ 18075 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45434</span>
-						<span>🔱 8221</span>
+						<span>⭐ 45476</span>
+						<span>🔱 8231</span>
 					</div>
 				<div class="stars-today">⭐ 14198 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      RuView</a></p>
-				<p>
-      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 45027</span>
-						<span>🔱 6046</span>
-					</div>
-				<div class="stars-today">⭐ 34926 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +382,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18967</span>
-						<span>🔱 1625</span>
+						<span>⭐ 18973</span>
+						<span>🔱 1626</span>
 					</div>
 				<div class="stars-today">⭐ 8233 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 36896</span>
+						<span>🔱 3215</span>
+					</div>
+				<div class="stars-today">⭐ 8421 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      deepagents</a></p>
+				<p>
+      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18483</span>
+						<span>🔱 2572</span>
+					</div>
+				<div class="stars-today">⭐ 8745 stars this month</div>
 				</div>
 			</div>
 	

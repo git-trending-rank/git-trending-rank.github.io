@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第14周
-date: 2026-04-01T08:50:08Z
+date: 2026-04-01T10:42:07Z
 categories:
 - weekly
 keywords:
@@ -16,24 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
     
 
 
       
-        mvanhorn /
+        luongnv89 /
 
-      last30days-skill</a></p>
+      claude-howto</a></p>
 				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17068</span>
-						<span>🔱 1367</span>
+						<span>⭐ 14531</span>
+						<span>🔱 1652</span>
 					</div>
-				<div class="stars-today">⭐ 11933 stars this week</div>
+				<div class="stars-today">⭐ 13440 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33727</span>
-						<span>🔱 3822</span>
+						<span>⭐ 33826</span>
+						<span>🔱 3836</span>
 					</div>
 				<div class="stars-today">⭐ 8327 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17100</span>
+						<span>🔱 1368</span>
+					</div>
+				<div class="stars-today">⭐ 11933 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 87165</span>
-						<span>🔱 12643</span>
+						<span>⭐ 87184</span>
+						<span>🔱 12646</span>
 					</div>
 				<div class="stars-today">⭐ 6693 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55670</span>
-						<span>🔱 6771</span>
-					</div>
-				<div class="stars-today">⭐ 13560 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
-    
-
-
-      
-        SakanaAI /
-
-      AI-Scientist-v2</a></p>
-				<p>
-      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4275</span>
-						<span>🔱 626</span>
-					</div>
-				<div class="stars-today">⭐ 1814 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19985</span>
-						<span>🔱 1579</span>
+						<span>⭐ 20177</span>
+						<span>🔱 1600</span>
 					</div>
 				<div class="stars-today">⭐ 6933 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
     
 
 
       
-        pascalorg /
+        SakanaAI /
 
-      editor</a></p>
+      AI-Scientist-v2</a></p>
 				<p>
-      Create and share 3D architectural projects.
+      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8885</span>
-						<span>🔱 1146</span>
+						<span>🔠 Python</span>
+						<span>⭐ 4284</span>
+						<span>🔱 626</span>
 					</div>
-				<div class="stars-today">⭐ 4584 stars this week</div>
+				<div class="stars-today">⭐ 1814 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 55742</span>
+						<span>🔱 6790</span>
+					</div>
+				<div class="stars-today">⭐ 13560 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20891</span>
-						<span>🔱 2553</span>
+						<span>⭐ 20994</span>
+						<span>🔱 2570</span>
 					</div>
 				<div class="stars-today">⭐ 7539 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 129160</span>
-						<span>🔱 10602</span>
-					</div>
-				<div class="stars-today">⭐ 18021 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,98 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 128908</span>
-						<span>🔱 18078</span>
+						<span>⭐ 129258</span>
+						<span>🔱 18177</span>
 					</div>
 				<div class="stars-today">⭐ 19869 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        TauricResearch /
+        obra /
 
-      TradingAgents</a></p>
+      superpowers</a></p>
 				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45434</span>
-						<span>🔱 8221</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 129391</span>
+						<span>🔱 10631</span>
 					</div>
-				<div class="stars-today">⭐ 4848 stars this week</div>
+				<div class="stars-today">⭐ 18021 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/letta-ai/claude-subconscious" target="_blank">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
     
 
 
       
-        letta-ai /
+        pascalorg /
 
-      claude-subconscious</a></p>
+      editor</a></p>
 				<p>
-      Give Claude Code a subconscious
+      Create and share 3D architectural projects.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 2504</span>
-						<span>🔱 180</span>
+						<span>⭐ 8899</span>
+						<span>🔱 1149</span>
 					</div>
-				<div class="stars-today">⭐ 1258 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20833</span>
-						<span>🔱 1972</span>
-					</div>
-				<div class="stars-today">⭐ 6272 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jingyaogong/minimind" target="_blank">
-    
-
-
-      
-        jingyaogong /
-
-      minimind</a></p>
-				<p>
-      🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 45229</span>
-						<span>🔱 5471</span>
-					</div>
-				<div class="stars-today">⭐ 2039 stars this week</div>
+				<div class="stars-today">⭐ 4584 stars this week</div>
 				</div>
 			</div>
 	
