@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-01
-date: 2026-04-01T16:40:31Z
+date: 2026-04-01T18:40:14Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 98578</span>
-						<span>🔱 15010</span>
+						<span>⭐ 99287</span>
+						<span>🔱 15207</span>
 					</div>
 				<div class="stars-today">⭐ 10087 stars today</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34176</span>
-						<span>🔱 3893</span>
+						<span>⭐ 34248</span>
+						<span>🔱 3898</span>
 					</div>
 				<div class="stars-today">⭐ 1704 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      practice made claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 30257</span>
-						<span>🔱 2634</span>
-					</div>
-				<div class="stars-today">⭐ 2488 stars today</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11782</span>
-						<span>🔱 971</span>
+						<span>⭐ 11846</span>
+						<span>🔱 977</span>
 					</div>
 				<div class="stars-today">⭐ 358 stars today</div>
 				</div>
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15121</span>
-						<span>🔱 1744</span>
+						<span>⭐ 15250</span>
+						<span>🔱 1760</span>
 					</div>
 				<div class="stars-today">⭐ 3336 stars today</div>
 				</div>
@@ -140,7 +118,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 108808</span>
+						<span>⭐ 108826</span>
 						<span>🔱 11581</span>
 					</div>
 				<div class="stars-today">⭐ 88 stars today</div>
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 71387</span>
-						<span>🔱 9982</span>
+						<span>⭐ 71489</span>
+						<span>🔱 9997</span>
 					</div>
 				<div class="stars-today">⭐ 2345 stars today</div>
 				</div>
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 155771</span>
-						<span>🔱 20464</span>
+						<span>⭐ 155836</span>
+						<span>🔱 20468</span>
 					</div>
 				<div class="stars-today">⭐ 442 stars today</div>
 				</div>
