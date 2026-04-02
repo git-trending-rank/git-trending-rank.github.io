@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-02
-date: 2026-04-02T20:20:35Z
+date: 2026-04-02T22:19:32Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15405</span>
-						<span>🔱 1056</span>
+						<span>⭐ 15634</span>
+						<span>🔱 1064</span>
 					</div>
 				<div class="stars-today">⭐ 2496 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11234</span>
-						<span>🔱 1050</span>
+						<span>⭐ 11435</span>
+						<span>🔱 1062</span>
 					</div>
 				<div class="stars-today">⭐ 2852 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 36154</span>
-						<span>🔱 5983</span>
+						<span>⭐ 36239</span>
+						<span>🔱 5996</span>
 					</div>
 				<div class="stars-today">⭐ 323 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77062</span>
-						<span>🔱 9054</span>
+						<span>⭐ 77156</span>
+						<span>🔱 9061</span>
 					</div>
 				<div class="stars-today">⭐ 807 stars today</div>
 				</div>
