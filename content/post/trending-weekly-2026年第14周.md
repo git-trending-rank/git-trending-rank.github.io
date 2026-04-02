@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第14周
-date: 2026-04-02T14:43:59Z
+date: 2026-04-02T16:40:57Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
-    
-
-
-      
-        luongnv89 /
-
-      claude-howto</a></p>
-				<p>
-      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16724</span>
-						<span>🔱 1958</span>
-					</div>
-				<div class="stars-today">⭐ 13593 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35025</span>
-						<span>🔱 3984</span>
+						<span>⭐ 35074</span>
+						<span>🔱 3993</span>
 					</div>
 				<div class="stars-today">⭐ 10004 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
     
 
 
       
-        mvanhorn /
+        Yeachan-Heo /
 
-      last30days-skill</a></p>
+      oh-my-codex</a></p>
 				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17556</span>
-						<span>🔱 1416</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10783</span>
+						<span>🔱 1022</span>
 					</div>
-				<div class="stars-today">⭐ 10916 stars this week</div>
+				<div class="stars-today">⭐ 7710 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 87490</span>
-						<span>🔱 12690</span>
+						<span>⭐ 87512</span>
+						<span>🔱 12696</span>
 					</div>
 				<div class="stars-today">⭐ 7061 stars this week</div>
 				</div>
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21800</span>
-						<span>🔱 1897</span>
+						<span>⭐ 21911</span>
+						<span>🔱 1913</span>
 					</div>
 				<div class="stars-today">⭐ 8991 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17587</span>
+						<span>🔱 1419</span>
+					</div>
+				<div class="stars-today">⭐ 10916 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4454</span>
-						<span>🔱 642</span>
+						<span>⭐ 4462</span>
+						<span>🔱 643</span>
 					</div>
 				<div class="stars-today">⭐ 1972 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56532</span>
-						<span>🔱 6939</span>
-					</div>
-				<div class="stars-today">⭐ 10746 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22312</span>
-						<span>🔱 2795</span>
+						<span>⭐ 22424</span>
+						<span>🔱 2807</span>
 					</div>
 				<div class="stars-today">⭐ 8214 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14981</span>
+						<span>🔱 1034</span>
+					</div>
+				<div class="stars-today">⭐ 3613 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 132948</span>
-						<span>🔱 19260</span>
+						<span>⭐ 133158</span>
+						<span>🔱 19308</span>
 					</div>
 				<div class="stars-today">⭐ 23500 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
-    
-
-
-      
-        Yeachan-Heo /
-
-      oh-my-codex</a></p>
-				<p>
-      OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10461</span>
-						<span>🔱 989</span>
-					</div>
-				<div class="stars-today">⭐ 7710 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 131683</span>
-						<span>🔱 10905</span>
+						<span>⭐ 131853</span>
+						<span>🔱 10924</span>
 					</div>
 				<div class="stars-today">⭐ 18086 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        pascalorg /
+        bytedance /
 
-      editor</a></p>
+      deer-flow</a></p>
 				<p>
-      Create and share 3D architectural projects.
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9220</span>
-						<span>🔱 1183</span>
+						<span>🔠 Python</span>
+						<span>⭐ 56593</span>
+						<span>🔱 6948</span>
 					</div>
-				<div class="stars-today">⭐ 2507 stars this week</div>
+				<div class="stars-today">⭐ 10746 stars this week</div>
 				</div>
 			</div>
 	
