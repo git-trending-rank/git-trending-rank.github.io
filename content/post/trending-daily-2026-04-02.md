@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-02
-date: 2026-04-02T12:39:44Z
+date: 2026-04-02T14:43:59Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 105125</span>
-						<span>🔱 16665</span>
+						<span>⭐ 105808</span>
+						<span>🔱 16838</span>
 					</div>
 				<div class="stars-today">⭐ 8764 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
+    
+
+
+      
+        Yeachan-Heo /
+
+      oh-my-codex</a></p>
+				<p>
+      OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10461</span>
+						<span>🔱 989</span>
+					</div>
+				<div class="stars-today">⭐ 2852 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34942</span>
-						<span>🔱 3975</span>
+						<span>⭐ 35025</span>
+						<span>🔱 3984</span>
 					</div>
 				<div class="stars-today">⭐ 1085 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 30838</span>
+						<span>🔱 2722</span>
+					</div>
+				<div class="stars-today">⭐ 805 stars today</div>
 				</div>
 			</div>
 	
@@ -74,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12872</span>
-						<span>🔱 1061</span>
+						<span>⭐ 13031</span>
+						<span>🔱 1083</span>
 					</div>
 				<div class="stars-today">⭐ 1195 stars today</div>
 				</div>
@@ -96,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16584</span>
-						<span>🔱 1935</span>
+						<span>⭐ 16724</span>
+						<span>🔱 1958</span>
 					</div>
 				<div class="stars-today">⭐ 1950 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zai-org/GLM-OCR" target="_blank">
+    
+
+
+      
+        zai-org /
+
+      GLM-OCR</a></p>
+				<p>
+      GLM-OCR: Accurate × Fast × Comprehensive
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5159</span>
+						<span>🔱 451</span>
+					</div>
+				<div class="stars-today">⭐ 238 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 108965</span>
-						<span>🔱 11592</span>
+						<span>⭐ 108976</span>
+						<span>🔱 11593</span>
 					</div>
 				<div class="stars-today">⭐ 216 stars today</div>
 				</div>
@@ -140,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 72397</span>
-						<span>🔱 10131</span>
+						<span>⭐ 72479</span>
+						<span>🔱 10145</span>
 					</div>
 				<div class="stars-today">⭐ 1416 stars today</div>
 				</div>
@@ -162,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 156558</span>
-						<span>🔱 20547</span>
+						<span>⭐ 156651</span>
+						<span>🔱 20556</span>
 					</div>
 				<div class="stars-today">⭐ 1014 stars today</div>
 				</div>
