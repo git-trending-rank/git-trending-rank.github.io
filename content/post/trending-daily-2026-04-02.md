@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-02
-date: 2026-04-02T16:40:56Z
+date: 2026-04-02T18:36:52Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14981</span>
-						<span>🔱 1034</span>
+						<span>⭐ 15226</span>
+						<span>🔱 1046</span>
 					</div>
 				<div class="stars-today">⭐ 2496 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
-    
-
-
-      
-        Yeachan-Heo /
-
-      oh-my-codex</a></p>
-				<p>
-      OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10783</span>
-						<span>🔱 1022</span>
-					</div>
-				<div class="stars-today">⭐ 2852 stars today</div>
 				</div>
 			</div>
 	
@@ -74,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 35969</span>
-						<span>🔱 5954</span>
+						<span>⭐ 36065</span>
+						<span>🔱 5973</span>
 					</div>
 				<div class="stars-today">⭐ 323 stars today</div>
 				</div>
@@ -96,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 76887</span>
-						<span>🔱 9038</span>
+						<span>⭐ 76974</span>
+						<span>🔱 9047</span>
 					</div>
 				<div class="stars-today">⭐ 807 stars today</div>
 				</div>
