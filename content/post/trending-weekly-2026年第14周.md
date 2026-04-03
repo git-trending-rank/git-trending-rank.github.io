@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第14周
-date: 2026-04-03T10:30:36Z
+date: 2026-04-03T12:31:31Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
+    
+
+
+      
+        luongnv89 /
+
+      claude-howto</a></p>
+				<p>
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17343</span>
+						<span>🔱 2042</span>
+					</div>
+				<div class="stars-today">⭐ 15450 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 35469</span>
-						<span>🔱 4037</span>
+						<span>⭐ 35499</span>
+						<span>🔱 4041</span>
 					</div>
 				<div class="stars-today">⭐ 11071 stars this week</div>
 				</div>
@@ -52,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12947</span>
-						<span>🔱 1190</span>
+						<span>⭐ 13152</span>
+						<span>🔱 1205</span>
 					</div>
 				<div class="stars-today">⭐ 7880 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 87735</span>
-						<span>🔱 12723</span>
-					</div>
-				<div class="stars-today">⭐ 7327 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,76 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 22692</span>
-						<span>🔱 1992</span>
+						<span>⭐ 22759</span>
+						<span>🔱 1996</span>
 					</div>
 				<div class="stars-today">⭐ 9761 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        mvanhorn /
+        hacksider /
 
-      last30days-skill</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17871</span>
-						<span>🔱 1431</span>
+						<span>⭐ 87755</span>
+						<span>🔱 12726</span>
 					</div>
-				<div class="stars-today">⭐ 8598 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
-    
-
-
-      
-        SakanaAI /
-
-      AI-Scientist-v2</a></p>
-				<p>
-      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4578</span>
-						<span>🔱 650</span>
-					</div>
-				<div class="stars-today">⭐ 1982 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23211</span>
-						<span>🔱 2946</span>
-					</div>
-				<div class="stars-today">⭐ 8798 stars this week</div>
+				<div class="stars-today">⭐ 7327 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17141</span>
-						<span>🔱 1163</span>
+						<span>⭐ 17338</span>
+						<span>🔱 1184</span>
 					</div>
 				<div class="stars-today">⭐ 5954 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
     
 
 
       
-        affaan-m /
+        google-research /
 
-      everything-claude-code</a></p>
+      timesfm</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 134937</span>
-						<span>🔱 19739</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13723</span>
+						<span>🔱 1170</span>
 					</div>
-				<div class="stars-today">⭐ 23845 stars this week</div>
+				<div class="stars-today">⭐ 2795 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23290</span>
+						<span>🔱 2956</span>
+					</div>
+				<div class="stars-today">⭐ 8798 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
+    
+
+
+      
+        SakanaAI /
+
+      AI-Scientist-v2</a></p>
+				<p>
+      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4590</span>
+						<span>🔱 651</span>
+					</div>
+				<div class="stars-today">⭐ 1982 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17902</span>
+						<span>🔱 1433</span>
+					</div>
+				<div class="stars-today">⭐ 8598 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx</a></p>
+				<p>
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22578</span>
+						<span>🔱 3041</span>
+					</div>
+				<div class="stars-today">⭐ 2886 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 133202</span>
-						<span>🔱 11076</span>
+						<span>⭐ 133332</span>
+						<span>🔱 11090</span>
 					</div>
 				<div class="stars-today">⭐ 17089 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+				<p><a href="https://github.com/vas3k/TaxHacker" target="_blank">
     
 
 
       
-        bytedance /
+        vas3k /
 
-      deer-flow</a></p>
+      TaxHacker</a></p>
 				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 57072</span>
-						<span>🔱 7039</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4272</span>
+						<span>🔱 679</span>
 					</div>
-				<div class="stars-today">⭐ 9043 stars this week</div>
+				<div class="stars-today">⭐ 1745 stars this week</div>
 				</div>
 			</div>
 	

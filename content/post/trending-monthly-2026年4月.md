@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-03T10:30:36Z
+date: 2026-04-03T12:31:31Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 69325</span>
-						<span>🔱 10546</span>
+						<span>⭐ 69385</span>
+						<span>🔱 10561</span>
 					</div>
 				<div class="stars-today">⭐ 66898 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48591</span>
-						<span>🔱 7050</span>
+						<span>⭐ 48640</span>
+						<span>🔱 7062</span>
 					</div>
 				<div class="stars-today">⭐ 43906 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23211</span>
-						<span>🔱 2946</span>
+						<span>⭐ 23290</span>
+						<span>🔱 2956</span>
 					</div>
 				<div class="stars-today">⭐ 20854 stars this month</div>
 				</div>
@@ -96,10 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57072</span>
-						<span>🔱 7039</span>
+						<span>⭐ 57101</span>
+						<span>🔱 7044</span>
 					</div>
 				<div class="stars-today">⭐ 33514 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      My personal directory of skills, straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 11523</span>
+						<span>🔱 958</span>
+					</div>
+				<div class="stars-today">⭐ 10748 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
+    
+
+
+      
+        FujiwaraChoki /
+
+      MoneyPrinterV2</a></p>
+				<p>
+      Automate the process of making money online.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 28129</span>
+						<span>🔱 3027</span>
+					</div>
+				<div class="stars-today">⭐ 14478 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 26852</span>
-						<span>🔱 1094</span>
+						<span>⭐ 26865</span>
+						<span>🔱 1095</span>
 					</div>
 				<div class="stars-today">⭐ 14856 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 47666</span>
-						<span>🔱 7651</span>
-					</div>
-				<div class="stars-today">⭐ 27113 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 134937</span>
-						<span>🔱 19739</span>
+						<span>⭐ 135178</span>
+						<span>🔱 19819</span>
 					</div>
 				<div class="stars-today">⭐ 76836 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 47708</span>
+						<span>🔱 7655</span>
+					</div>
+				<div class="stars-today">⭐ 27113 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 16514</span>
+						<span>⭐ 16539</span>
 						<span>🔱 698</span>
 					</div>
 				<div class="stars-today">⭐ 12421 stars this month</div>
@@ -206,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17871</span>
-						<span>🔱 1431</span>
+						<span>⭐ 17902</span>
+						<span>🔱 1433</span>
 					</div>
 				<div class="stars-today">⭐ 14367 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      practice made claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 31272</span>
-						<span>🔱 2786</span>
-					</div>
-				<div class="stars-today">⭐ 24591 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20722</span>
-						<span>🔱 1460</span>
-					</div>
-				<div class="stars-today">⭐ 16239 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 133202</span>
-						<span>🔱 11076</span>
+						<span>⭐ 133332</span>
+						<span>🔱 11090</span>
 					</div>
 				<div class="stars-today">⭐ 64719 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+    
+
+
+      
+        volcengine /
+
+      OpenViking</a></p>
+				<p>
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20733</span>
+						<span>🔱 1460</span>
+					</div>
+				<div class="stars-today">⭐ 16239 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9063</span>
+						<span>⭐ 9064</span>
 						<span>🔱 1036</span>
 					</div>
 				<div class="stars-today">⭐ 3797 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
-    
-
-
-      
-        alirezarezvani /
-
-      claude-skills</a></p>
-				<p>
-      220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9076</span>
-						<span>🔱 1111</span>
-					</div>
-				<div class="stars-today">⭐ 6694 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46438</span>
-						<span>🔱 8444</span>
+						<span>⭐ 46473</span>
+						<span>🔱 8448</span>
 					</div>
 				<div class="stars-today">⭐ 15149 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alirezarezvani/claude-skills" target="_blank">
+    
+
+
+      
+        alirezarezvani /
+
+      claude-skills</a></p>
+				<p>
+      220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9090</span>
+						<span>🔱 1112</span>
+					</div>
+				<div class="stars-today">⭐ 6694 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +382,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 107446</span>
-						<span>🔱 17442</span>
+						<span>⭐ 107567</span>
+						<span>🔱 17463</span>
 					</div>
 				<div class="stars-today">⭐ 34063 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
-    
-
-
-      
-        promptfoo /
-
-      promptfoo</a></p>
-				<p>
-      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19222</span>
-						<span>🔱 1646</span>
-					</div>
-				<div class="stars-today">⭐ 8419 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,32 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37068</span>
-						<span>🔱 3253</span>
+						<span>⭐ 37073</span>
+						<span>🔱 3254</span>
 					</div>
 				<div class="stars-today">⭐ 8533 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
+				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
     
 
 
       
-        langchain-ai /
+        promptfoo /
 
-      deepagents</a></p>
+      promptfoo</a></p>
 				<p>
-      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18965</span>
-						<span>🔱 2636</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19225</span>
+						<span>🔱 1647</span>
 					</div>
-				<div class="stars-today">⭐ 9055 stars this month</div>
+				<div class="stars-today">⭐ 8419 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-03
-date: 2026-04-03T10:30:36Z
+date: 2026-04-03T12:31:31Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17141</span>
-						<span>🔱 1163</span>
-					</div>
-				<div class="stars-today">⭐ 2573 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
@@ -52,32 +30,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12947</span>
-						<span>🔱 1190</span>
+						<span>⭐ 13152</span>
+						<span>🔱 1205</span>
 					</div>
 				<div class="stars-today">⭐ 2867 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
     
 
 
       
-        asgeirtj /
+        onyx-dot-app /
 
-      system_prompts_leaks</a></p>
+      onyx</a></p>
 				<p>
-      Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 36939</span>
-						<span>🔱 6098</span>
+						<span>🔠 Python</span>
+						<span>⭐ 22578</span>
+						<span>🔱 3041</span>
 					</div>
-				<div class="stars-today">⭐ 306 stars today</div>
+				<div class="stars-today">⭐ 1872 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13723</span>
+						<span>🔱 1170</span>
+					</div>
+				<div class="stars-today">⭐ 912 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17338</span>
+						<span>🔱 1184</span>
+					</div>
+				<div class="stars-today">⭐ 2573 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dmtrKovalenko/fff.nvim" target="_blank">
+    
+
+
+      
+        dmtrKovalenko /
+
+      fff.nvim</a></p>
+				<p>
+      The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2976</span>
+						<span>🔱 117</span>
+					</div>
+				<div class="stars-today">⭐ 767 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/f/prompts.chat" target="_blank">
+    
+
+
+      
+        f /
+
+      prompts.chat</a></p>
+				<p>
+      f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 156887</span>
+						<span>🔱 20575</span>
+					</div>
+				<div class="stars-today">⭐ 369 stars today</div>
 				</div>
 			</div>
 	
@@ -96,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 77856</span>
-						<span>🔱 9107</span>
+						<span>⭐ 77953</span>
+						<span>🔱 9117</span>
 					</div>
 				<div class="stars-today">⭐ 827 stars today</div>
 				</div>
