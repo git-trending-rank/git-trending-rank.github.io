@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-04T10:19:52Z
+date: 2026-04-04T12:23:38Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 70534</span>
-						<span>🔱 10834</span>
-					</div>
-				<div class="stars-today">⭐ 67229 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49050</span>
-						<span>🔱 7165</span>
+						<span>⭐ 49096</span>
+						<span>🔱 7173</span>
 					</div>
 				<div class="stars-today">⭐ 44497 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 70635</span>
+						<span>🔱 10861</span>
+					</div>
+				<div class="stars-today">⭐ 67229 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24262</span>
-						<span>🔱 3144</span>
+						<span>⭐ 24367</span>
+						<span>🔱 3159</span>
 					</div>
 				<div class="stars-today">⭐ 21771 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 57525</span>
-						<span>🔱 7116</span>
+						<span>⭐ 57570</span>
+						<span>🔱 7128</span>
 					</div>
 				<div class="stars-today">⭐ 33718 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 11817</span>
-						<span>🔱 985</span>
+						<span>⭐ 11840</span>
+						<span>🔱 987</span>
 					</div>
 				<div class="stars-today">⭐ 10757 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28237</span>
-						<span>🔱 3041</span>
+						<span>⭐ 28254</span>
+						<span>🔱 3042</span>
 					</div>
 				<div class="stars-today">⭐ 14483 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 27017</span>
-						<span>🔱 1102</span>
+						<span>⭐ 27032</span>
+						<span>🔱 1103</span>
 					</div>
 				<div class="stars-today">⭐ 15042 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 136756</span>
-						<span>🔱 20256</span>
+						<span>⭐ 136902</span>
+						<span>🔱 20291</span>
 					</div>
 				<div class="stars-today">⭐ 77810 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48028</span>
-						<span>🔱 7725</span>
+						<span>⭐ 48070</span>
+						<span>🔱 7729</span>
 					</div>
 				<div class="stars-today">⭐ 27384 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18198</span>
-						<span>🔱 1456</span>
+						<span>⭐ 18242</span>
+						<span>🔱 1462</span>
 					</div>
 				<div class="stars-today">⭐ 14664 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 134478</span>
-						<span>🔱 11214</span>
+						<span>⭐ 134588</span>
+						<span>🔱 11227</span>
 					</div>
 				<div class="stars-today">⭐ 65423 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
-    
-
-
-      
-        volcengine /
-
-      OpenViking</a></p>
-				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20883</span>
-						<span>🔱 1470</span>
-					</div>
-				<div class="stars-today">⭐ 16340 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9115</span>
+						<span>⭐ 9120</span>
 						<span>🔱 1043</span>
 					</div>
 				<div class="stars-today">⭐ 3847 stars this month</div>
@@ -316,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46828</span>
-						<span>🔱 8503</span>
+						<span>⭐ 46869</span>
+						<span>🔱 8509</span>
 					</div>
 				<div class="stars-today">⭐ 15547 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-code" target="_blank">
+				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
     
 
 
       
-        anthropics /
+        volcengine /
 
-      claude-code</a></p>
+      OpenViking</a></p>
 				<p>
-      Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 108429</span>
-						<span>🔱 17804</span>
+						<span>🔠 Python</span>
+						<span>⭐ 20904</span>
+						<span>🔱 1473</span>
 					</div>
-				<div class="stars-today">⭐ 35148 stars this month</div>
+				<div class="stars-today">⭐ 16340 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,7 +338,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37140</span>
+						<span>⭐ 37143</span>
 						<span>🔱 3264</span>
 					</div>
 				<div class="stars-today">⭐ 8592 stars this month</div>
@@ -382,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19336</span>
-						<span>🔱 1661</span>
+						<span>⭐ 19345</span>
+						<span>🔱 1663</span>
 					</div>
 				<div class="stars-today">⭐ 8518 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      deepagents</a></p>
+				<p>
+      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19055</span>
+						<span>🔱 2662</span>
+					</div>
+				<div class="stars-today">⭐ 9263 stars this month</div>
 				</div>
 			</div>
 	

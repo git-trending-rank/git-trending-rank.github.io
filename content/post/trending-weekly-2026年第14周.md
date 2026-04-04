@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第14周
-date: 2026-04-04T10:19:52Z
+date: 2026-04-04T12:23:38Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18262</span>
-						<span>🔱 2184</span>
+						<span>⭐ 18404</span>
+						<span>🔱 2198</span>
 					</div>
 				<div class="stars-today">⭐ 14996 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 35840</span>
-						<span>🔱 4093</span>
-					</div>
-				<div class="stars-today">⭐ 11264 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14749</span>
-						<span>🔱 1368</span>
+						<span>⭐ 14867</span>
+						<span>🔱 1387</span>
 					</div>
 				<div class="stars-today">⭐ 10578 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
     
 
 
       
-        Yeachan-Heo /
+        microsoft /
 
-      oh-my-claudecode</a></p>
+      VibeVoice</a></p>
 				<p>
-      Teams-first Multi-agent orchestration for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23441</span>
-						<span>🔱 2113</span>
-					</div>
-				<div class="stars-today">⭐ 9465 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
+      Open-Source Frontier Voice AI
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 87953</span>
-						<span>🔱 12751</span>
+						<span>⭐ 35890</span>
+						<span>🔱 4102</span>
 					</div>
-				<div class="stars-today">⭐ 5847 stars this week</div>
+				<div class="stars-today">⭐ 11264 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18731</span>
-						<span>🔱 1286</span>
+						<span>⭐ 18866</span>
+						<span>🔱 1296</span>
 					</div>
 				<div class="stars-today">⭐ 8513 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+    
+
+
+      
+        Yeachan-Heo /
+
+      oh-my-claudecode</a></p>
+				<p>
+      Teams-first Multi-agent orchestration for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23506</span>
+						<span>🔱 2116</span>
+					</div>
+				<div class="stars-today">⭐ 9465 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14378</span>
-						<span>🔱 1241</span>
+						<span>⭐ 14438</span>
+						<span>🔱 1243</span>
 					</div>
 				<div class="stars-today">⭐ 3632 stars this week</div>
 				</div>
@@ -184,54 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24262</span>
-						<span>🔱 3144</span>
+						<span>⭐ 24367</span>
+						<span>🔱 3159</span>
 					</div>
 				<div class="stars-today">⭐ 9193 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
     
 
 
       
-        SakanaAI /
+        hacksider /
 
-      AI-Scientist-v2</a></p>
+      Deep-Live-Cam</a></p>
 				<p>
-      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+      real time face swap and one-click video deepfake with only a single image
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4727</span>
-						<span>🔱 661</span>
+						<span>⭐ 88055</span>
+						<span>🔱 12763</span>
 					</div>
-				<div class="stars-today">⭐ 1964 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18198</span>
-						<span>🔱 1456</span>
-					</div>
-				<div class="stars-today">⭐ 6214 stars this week</div>
+				<div class="stars-today">⭐ 5847 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23632</span>
-						<span>🔱 3166</span>
+						<span>⭐ 23709</span>
+						<span>🔱 3175</span>
 					</div>
 				<div class="stars-today">⭐ 4006 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 134478</span>
-						<span>🔱 11214</span>
-					</div>
-				<div class="stars-today">⭐ 16229 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 4456</span>
-						<span>🔱 701</span>
+						<span>⭐ 4473</span>
+						<span>🔱 703</span>
 					</div>
 				<div class="stars-today">⭐ 1861 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
+    
+
+
+      
+        SakanaAI /
+
+      AI-Scientist-v2</a></p>
+				<p>
+      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4747</span>
+						<span>🔱 667</span>
+					</div>
+				<div class="stars-today">⭐ 1964 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 134588</span>
+						<span>🔱 11227</span>
+					</div>
+				<div class="stars-today">⭐ 16229 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/asgeirtj/system_prompts_leaks" target="_blank">
+    
+
+
+      
+        asgeirtj /
+
+      system_prompts_leaks</a></p>
+				<p>
+      Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 37131</span>
+						<span>🔱 6137</span>
+					</div>
+				<div class="stars-today">⭐ 1989 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 136902</span>
+						<span>🔱 20291</span>
+					</div>
+				<div class="stars-today">⭐ 24341 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+    
+
+
+      
+        sherlock-project /
+
+      sherlock</a></p>
+				<p>
+      Hunt down social media accounts by username across social networks
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 78900</span>
+						<span>🔱 9214</span>
+					</div>
+				<div class="stars-today">⭐ 4181 stars this week</div>
 				</div>
 			</div>
 	
