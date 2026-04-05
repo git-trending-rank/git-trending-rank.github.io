@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-05T10:19:11Z
+date: 2026-04-05T12:25:11Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49548</span>
-						<span>🔱 7256</span>
+						<span>⭐ 49608</span>
+						<span>🔱 7266</span>
 					</div>
 				<div class="stars-today">⭐ 45023 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 71500</span>
-						<span>🔱 11055</span>
+						<span>⭐ 71599</span>
+						<span>🔱 11077</span>
 					</div>
 				<div class="stars-today">⭐ 66274 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25468</span>
-						<span>🔱 3318</span>
+						<span>⭐ 25575</span>
+						<span>🔱 3331</span>
 					</div>
 				<div class="stars-today">⭐ 22900 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58007</span>
-						<span>🔱 7222</span>
+						<span>⭐ 58056</span>
+						<span>🔱 7236</span>
 					</div>
 				<div class="stars-today">⭐ 33651 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 12034</span>
-						<span>🔱 1011</span>
+						<span>⭐ 12058</span>
+						<span>🔱 1012</span>
 					</div>
 				<div class="stars-today">⭐ 10972 stars this month</div>
 				</div>
@@ -140,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28357</span>
+						<span>⭐ 28370</span>
 						<span>🔱 3059</span>
 					</div>
 				<div class="stars-today">⭐ 14451 stars this month</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 27164</span>
-						<span>🔱 1113</span>
+						<span>⭐ 27173</span>
+						<span>🔱 1114</span>
 					</div>
 				<div class="stars-today">⭐ 15218 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 138810</span>
-						<span>🔱 20735</span>
+						<span>⭐ 139079</span>
+						<span>🔱 20795</span>
 					</div>
 				<div class="stars-today">⭐ 78062 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 48417</span>
-						<span>🔱 7809</span>
+						<span>⭐ 48452</span>
+						<span>🔱 7812</span>
 					</div>
 				<div class="stars-today">⭐ 27301 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18540</span>
-						<span>🔱 1491</span>
+						<span>⭐ 18576</span>
+						<span>🔱 1492</span>
 					</div>
 				<div class="stars-today">⭐ 14994 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 135604</span>
-						<span>🔱 11356</span>
+						<span>⭐ 135723</span>
+						<span>🔱 11372</span>
 					</div>
 				<div class="stars-today">⭐ 65377 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9165</span>
-						<span>🔱 1047</span>
-					</div>
-				<div class="stars-today">⭐ 3908 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47236</span>
-						<span>🔱 8577</span>
+						<span>⭐ 47278</span>
+						<span>🔱 8584</span>
 					</div>
 				<div class="stars-today">⭐ 15924 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open-swe</a></p>
+				<p>
+      An Open-Source Asynchronous Coding Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9174</span>
+						<span>🔱 1047</span>
+					</div>
+				<div class="stars-today">⭐ 3908 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21048</span>
+						<span>⭐ 21065</span>
 						<span>🔱 1481</span>
 					</div>
 				<div class="stars-today">⭐ 16417 stars this month</div>
@@ -338,32 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9422</span>
-						<span>🔱 1162</span>
+						<span>⭐ 9446</span>
+						<span>🔱 1164</span>
 					</div>
 				<div class="stars-today">⭐ 7028 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
     
 
 
       
-        microsoft /
+        siddharthvaddem /
 
-      BitNet</a></p>
+      openscreen</a></p>
 				<p>
-      Official inference framework for 1-bit LLMs
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37176</span>
-						<span>🔱 3269</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21545</span>
+						<span>🔱 1456</span>
 					</div>
-				<div class="stars-today">⭐ 8657 stars this month</div>
+				<div class="stars-today">⭐ 11571 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19441</span>
-						<span>🔱 1671</span>
+						<span>⭐ 19452</span>
+						<span>🔱 1672</span>
 					</div>
 				<div class="stars-today">⭐ 8622 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37179</span>
+						<span>🔱 3269</span>
+					</div>
+				<div class="stars-today">⭐ 8657 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,8 +426,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19239</span>
-						<span>🔱 2683</span>
+						<span>⭐ 19255</span>
+						<span>🔱 2686</span>
 					</div>
 				<div class="stars-today">⭐ 9288 stars this month</div>
 				</div>

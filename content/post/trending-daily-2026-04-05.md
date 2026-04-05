@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-05
-date: 2026-04-05T10:19:10Z
+date: 2026-04-05T12:25:11Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 16405</span>
+						<span>🔱 1489</span>
+					</div>
+				<div class="stars-today">⭐ 286 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Blaizzy/mlx-vlm" target="_blank">
@@ -30,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3749</span>
-						<span>🔱 410</span>
+						<span>⭐ 3765</span>
+						<span>🔱 411</span>
 					</div>
-				<div class="stars-today">⭐ 343 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
-    
-
-
-      
-        onyx-dot-app /
-
-      onyx</a></p>
-				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 24566</span>
-						<span>🔱 3294</span>
-					</div>
-				<div class="stars-today">⭐ 1197 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
-    
-
-
-      
-        Yeachan-Heo /
-
-      oh-my-codex</a></p>
-				<p>
-      OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16124</span>
-						<span>🔱 1521</span>
-					</div>
-				<div class="stars-today">⭐ 1789 stars today</div>
+				<div class="stars-today">⭐ 408 stars today</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21264</span>
-						<span>🔱 1445</span>
+						<span>⭐ 21545</span>
+						<span>🔱 1456</span>
 					</div>
-				<div class="stars-today">⭐ 1591 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/telegramdesktop/tdesktop" target="_blank">
-    
-
-
-      
-        telegramdesktop /
-
-      tdesktop</a></p>
-				<p>
-      Telegram Desktop messaging app
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 30915</span>
-						<span>🔱 6527</span>
-					</div>
-				<div class="stars-today">⭐ 249 stars today</div>
+				<div class="stars-today">⭐ 2692 stars today</div>
 				</div>
 			</div>
 	
@@ -140,54 +96,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 35957</span>
-						<span>🔱 3383</span>
+						<span>⭐ 36156</span>
+						<span>🔱 3414</span>
 					</div>
-				<div class="stars-today">⭐ 935 stars today</div>
+				<div class="stars-today">⭐ 866 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/agent-framework" target="_blank">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
     
 
 
       
-        microsoft /
+        onyx-dot-app /
 
-      agent-framework</a></p>
+      onyx</a></p>
 				<p>
-      A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET.
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8838</span>
-						<span>🔱 1447</span>
+						<span>⭐ 24651</span>
+						<span>🔱 3303</span>
 					</div>
-				<div class="stars-today">⭐ 72 stars today</div>
+				<div class="stars-today">⭐ 960 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
+				<p><a href="https://github.com/badlogic/pi-mono" target="_blank">
     
 
 
       
-        sherlock-project /
+        badlogic /
 
-      sherlock</a></p>
+      pi-mono</a></p>
 				<p>
-      Hunt down social media accounts by username across social networks
+      AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 79692</span>
-						<span>🔱 9277</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 31661</span>
+						<span>🔱 3458</span>
 					</div>
-				<div class="stars-today">⭐ 994 stars today</div>
+				<div class="stars-today">⭐ 340 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dmtrKovalenko/fff.nvim" target="_blank">
+    
+
+
+      
+        dmtrKovalenko /
+
+      fff.nvim</a></p>
+				<p>
+      The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 3506</span>
+						<span>🔱 148</span>
+					</div>
+				<div class="stars-today">⭐ 443 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT-LM</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 1311</span>
+						<span>🔱 172</span>
+					</div>
+				<div class="stars-today">⭐ 113 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/telegramdesktop/tdesktop" target="_blank">
+    
+
+
+      
+        telegramdesktop /
+
+      tdesktop</a></p>
+				<p>
+      Telegram Desktop messaging app
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 30935</span>
+						<span>🔱 6528</span>
+					</div>
+				<div class="stars-today">⭐ 265 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/freeCodeCamp/freeCodeCamp" target="_blank">
+    
+
+
+      
+        freeCodeCamp /
+
+      freeCodeCamp</a></p>
+				<p>
+      freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 441141</span>
+						<span>🔱 44074</span>
+					</div>
+				<div class="stars-today">⭐ 292 stars today</div>
 				</div>
 			</div>
 	
