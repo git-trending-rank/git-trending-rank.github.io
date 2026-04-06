@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 06 Apr 2026 08:57:42 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 06 Apr 2026 10:43:28 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第15周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC15%E5%91%A8/</link>
-        <pubDate>Mon, 06 Apr 2026 08:57:42 +0000</pubDate>
+        <pubDate>Mon, 06 Apr 2026 10:43:28 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC15%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 16957&lt;/span&gt;
-						&lt;span&gt;🔱 1621&lt;/span&gt;
+						&lt;span&gt;⭐ 17026&lt;/span&gt;
+						&lt;span&gt;🔱 1626&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13476 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/siddharthvaddem/openscreen&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 23228&lt;/span&gt;
+						&lt;span&gt;🔱 1552&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12682 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,8 +77,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 20739&lt;/span&gt;
-						&lt;span&gt;🔱 2475&lt;/span&gt;
+						&lt;span&gt;⭐ 20812&lt;/span&gt;
+						&lt;span&gt;🔱 2480&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 15128 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -77,32 +99,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 36566&lt;/span&gt;
+						&lt;span&gt;⭐ 36589&lt;/span&gt;
 						&lt;span&gt;🔱 4200&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10543 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/siddharthvaddem/openscreen&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23099&lt;/span&gt;
-						&lt;span&gt;🔱 1547&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12682 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,8 +121,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15029&lt;/span&gt;
-						&lt;span&gt;🔱 1313&lt;/span&gt;
+						&lt;span&gt;⭐ 15044&lt;/span&gt;
+						&lt;span&gt;🔱 1315&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4702 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -143,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 26903&lt;/span&gt;
-						&lt;span&gt;🔱 3522&lt;/span&gt;
+						&lt;span&gt;⭐ 27001&lt;/span&gt;
+						&lt;span&gt;🔱 3538&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9940 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -165,10 +165,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 25267&lt;/span&gt;
-						&lt;span&gt;🔱 3374&lt;/span&gt;
+						&lt;span&gt;⭐ 25297&lt;/span&gt;
+						&lt;span&gt;🔱 3378&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4741 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/gallery&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google-ai-edge /
+
+      gallery&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Kotlin&lt;/span&gt;
+						&lt;span&gt;⭐ 17437&lt;/span&gt;
+						&lt;span&gt;🔱 1610&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1286 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,32 +209,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 79946&lt;/span&gt;
-						&lt;span&gt;🔱 9299&lt;/span&gt;
+						&lt;span&gt;⭐ 79963&lt;/span&gt;
+						&lt;span&gt;🔱 9301&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5633 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vas3k/TaxHacker&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        vas3k /
-
-      TaxHacker&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4739&lt;/span&gt;
-						&lt;span&gt;🔱 728&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2204 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -231,54 +231,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 37522&lt;/span&gt;
-						&lt;span&gt;🔱 6185&lt;/span&gt;
+						&lt;span&gt;⭐ 37537&lt;/span&gt;
+						&lt;span&gt;🔱 6187&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2235 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/SakanaAI/AI-Scientist-v2&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vas3k/TaxHacker&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        SakanaAI /
+        vas3k /
 
-      AI-Scientist-v2&lt;/a&gt;&lt;/p&gt;
+      TaxHacker&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5016&lt;/span&gt;
-						&lt;span&gt;🔱 696&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4752&lt;/span&gt;
+						&lt;span&gt;🔱 729&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1201 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2204 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/roboflow/supervision&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/nvim-treesitter/nvim-treesitter&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        roboflow /
+        nvim-treesitter /
 
-      supervision&lt;/a&gt;&lt;/p&gt;
+      nvim-treesitter&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      We write your reusable computer vision tools. 💜
+      Nvim Treesitter configurations and abstraction layer
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 37725&lt;/span&gt;
-						&lt;span&gt;🔱 3307&lt;/span&gt;
+						&lt;span&gt;🔠 Tree-sitter Query&lt;/span&gt;
+						&lt;span&gt;⭐ 13529&lt;/span&gt;
+						&lt;span&gt;🔱 1210&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 898 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 102 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

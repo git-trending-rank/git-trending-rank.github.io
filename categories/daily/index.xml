@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 06 Apr 2026 08:57:42 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 06 Apr 2026 10:43:28 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-04-06</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-04-06/</link>
-        <pubDate>Mon, 06 Apr 2026 08:57:42 +0000</pubDate>
+        <pubDate>Mon, 06 Apr 2026 10:43:28 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-04-06/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,6 +17,28 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/abhigyanpatwari/GitNexus&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 22825&lt;/span&gt;
+						&lt;span&gt;🔱 2595&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 837 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/gallery&#34; target=&#34;_blank&#34;&gt;
@@ -33,54 +55,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Kotlin&lt;/span&gt;
-						&lt;span&gt;⭐ 17354&lt;/span&gt;
-						&lt;span&gt;🔱 1603&lt;/span&gt;
+						&lt;span&gt;⭐ 17437&lt;/span&gt;
+						&lt;span&gt;🔱 1610&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 389 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Blaizzy/mlx-vlm&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Blaizzy /
-
-      mlx-vlm&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4047&lt;/span&gt;
-						&lt;span&gt;🔱 429&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 416 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/siddharthvaddem/openscreen&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 23099&lt;/span&gt;
-						&lt;span&gt;🔱 1547&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2749 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,76 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 37426&lt;/span&gt;
-						&lt;span&gt;🔱 3602&lt;/span&gt;
+						&lt;span&gt;⭐ 37517&lt;/span&gt;
+						&lt;span&gt;🔱 3612&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 882 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/onyx-dot-app/onyx&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        onyx-dot-app /
-
-      onyx&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 25267&lt;/span&gt;
-						&lt;span&gt;🔱 3374&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 998 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/badlogic/pi-mono&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        badlogic /
-
-      pi-mono&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32105&lt;/span&gt;
-						&lt;span&gt;🔱 3489&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 355 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dmtrKovalenko/fff.nvim&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dmtrKovalenko /
-
-      fff.nvim&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The fastest and the most accurate file search toolkit for AI agents, Neovim, Rust, C, and NodeJS
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 3783&lt;/span&gt;
-						&lt;span&gt;🔱 156&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 76 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -185,54 +97,230 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 1717&lt;/span&gt;
-						&lt;span&gt;🔱 196&lt;/span&gt;
+						&lt;span&gt;⭐ 1749&lt;/span&gt;
+						&lt;span&gt;🔱 198&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 124 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/telegramdesktop/tdesktop&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/immich-app/immich&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        telegramdesktop /
+        immich-app /
 
-      tdesktop&lt;/a&gt;&lt;/p&gt;
+      immich&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Telegram Desktop messaging app
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 31153&lt;/span&gt;
-						&lt;span&gt;🔱 6543&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 287 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/freeCodeCamp/freeCodeCamp&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        freeCodeCamp /
-
-      freeCodeCamp&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      freeCodeCamp.org&#39;s open-source codebase and curriculum. Learn math, programming, and computer science for free.
+      High performance self-hosted photo and video management solution.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 441777&lt;/span&gt;
-						&lt;span&gt;🔱 44119&lt;/span&gt;
+						&lt;span&gt;⭐ 96506&lt;/span&gt;
+						&lt;span&gt;🔱 5273&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 335 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 155 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/KeygraphHQ/shannon&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 35980&lt;/span&gt;
+						&lt;span&gt;🔱 3752&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 703 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The agent that grows with you
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 27001&lt;/span&gt;
+						&lt;span&gt;🔱 3538&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1251 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/tobi/qmd&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        tobi /
+
+      qmd&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 18284&lt;/span&gt;
+						&lt;span&gt;🔱 1115&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 298 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TelegramMessenger/Telegram-iOS&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        TelegramMessenger /
+
+      Telegram-iOS&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Telegram-iOS
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Swift&lt;/span&gt;
+						&lt;span&gt;⭐ 8220&lt;/span&gt;
+						&lt;span&gt;🔱 2516&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/kepano/obsidian-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        kepano /
+
+      obsidian-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 20054&lt;/span&gt;
+						&lt;span&gt;🔱 1252&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 281 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ollama/ollama&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ollama /
+
+      ollama&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 167379&lt;/span&gt;
+						&lt;span&gt;🔱 15370&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 164 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ggml-org/llama.cpp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ggml-org /
+
+      llama.cpp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      LLM inference in C/C++
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 101716&lt;/span&gt;
+						&lt;span&gt;🔱 16428&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 244 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/siddharthvaddem/openscreen&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 23228&lt;/span&gt;
+						&lt;span&gt;🔱 1552&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2749 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NVIDIA/personaplex&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NVIDIA /
+
+      personaplex&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      PersonaPlex code.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 6966&lt;/span&gt;
+						&lt;span&gt;🔱 1048&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 295 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
