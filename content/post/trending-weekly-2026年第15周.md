@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第15周
-date: 2026-04-06T08:57:42Z
+date: 2026-04-06T10:43:28Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16957</span>
-						<span>🔱 1621</span>
+						<span>⭐ 17026</span>
+						<span>🔱 1626</span>
 					</div>
 				<div class="stars-today">⭐ 13476 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23228</span>
+						<span>🔱 1552</span>
+					</div>
+				<div class="stars-today">⭐ 12682 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20739</span>
-						<span>🔱 2475</span>
+						<span>⭐ 20812</span>
+						<span>🔱 2480</span>
 					</div>
 				<div class="stars-today">⭐ 15128 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 36566</span>
+						<span>⭐ 36589</span>
 						<span>🔱 4200</span>
 					</div>
 				<div class="stars-today">⭐ 10543 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23099</span>
-						<span>🔱 1547</span>
-					</div>
-				<div class="stars-today">⭐ 12682 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15029</span>
-						<span>🔱 1313</span>
+						<span>⭐ 15044</span>
+						<span>🔱 1315</span>
 					</div>
 				<div class="stars-today">⭐ 4702 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26903</span>
-						<span>🔱 3522</span>
+						<span>⭐ 27001</span>
+						<span>🔱 3538</span>
 					</div>
 				<div class="stars-today">⭐ 9940 stars this week</div>
 				</div>
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25267</span>
-						<span>🔱 3374</span>
+						<span>⭐ 25297</span>
+						<span>🔱 3378</span>
 					</div>
 				<div class="stars-today">⭐ 4741 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 17437</span>
+						<span>🔱 1610</span>
+					</div>
+				<div class="stars-today">⭐ 1286 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 79946</span>
-						<span>🔱 9299</span>
+						<span>⭐ 79963</span>
+						<span>🔱 9301</span>
 					</div>
 				<div class="stars-today">⭐ 5633 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vas3k/TaxHacker" target="_blank">
-    
-
-
-      
-        vas3k /
-
-      TaxHacker</a></p>
-				<p>
-      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4739</span>
-						<span>🔱 728</span>
-					</div>
-				<div class="stars-today">⭐ 2204 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,54 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 37522</span>
-						<span>🔱 6185</span>
+						<span>⭐ 37537</span>
+						<span>🔱 6187</span>
 					</div>
 				<div class="stars-today">⭐ 2235 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SakanaAI/AI-Scientist-v2" target="_blank">
+				<p><a href="https://github.com/vas3k/TaxHacker" target="_blank">
     
 
 
       
-        SakanaAI /
+        vas3k /
 
-      AI-Scientist-v2</a></p>
+      TaxHacker</a></p>
 				<p>
-      The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+      Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5016</span>
-						<span>🔱 696</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4752</span>
+						<span>🔱 729</span>
 					</div>
-				<div class="stars-today">⭐ 1201 stars this week</div>
+				<div class="stars-today">⭐ 2204 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/roboflow/supervision" target="_blank">
+				<p><a href="https://github.com/nvim-treesitter/nvim-treesitter" target="_blank">
     
 
 
       
-        roboflow /
+        nvim-treesitter /
 
-      supervision</a></p>
+      nvim-treesitter</a></p>
 				<p>
-      We write your reusable computer vision tools. 💜
+      Nvim Treesitter configurations and abstraction layer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37725</span>
-						<span>🔱 3307</span>
+						<span>🔠 Tree-sitter Query</span>
+						<span>⭐ 13529</span>
+						<span>🔱 1210</span>
 					</div>
-				<div class="stars-today">⭐ 898 stars this week</div>
+				<div class="stars-today">⭐ 102 stars this week</div>
 				</div>
 			</div>
 	

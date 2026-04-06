@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-06T08:57:42Z
+date: 2026-04-06T10:43:29Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50296</span>
-						<span>🔱 7400</span>
+						<span>⭐ 50353</span>
+						<span>🔱 7415</span>
 					</div>
 				<div class="stars-today">⭐ 45506 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 72432</span>
-						<span>🔱 11253</span>
+						<span>⭐ 72515</span>
+						<span>🔱 11270</span>
 					</div>
 				<div class="stars-today">⭐ 65886 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26903</span>
-						<span>🔱 3522</span>
+						<span>⭐ 27001</span>
+						<span>🔱 3538</span>
 					</div>
 				<div class="stars-today">⭐ 24111 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58390</span>
-						<span>🔱 7313</span>
+						<span>⭐ 58421</span>
+						<span>🔱 7316</span>
 					</div>
 				<div class="stars-today">⭐ 33890 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 12331</span>
-						<span>🔱 1034</span>
+						<span>⭐ 12358</span>
+						<span>🔱 1035</span>
 					</div>
 				<div class="stars-today">⭐ 11191 stars this month</div>
 				</div>
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28514</span>
-						<span>🔱 3075</span>
+						<span>⭐ 28524</span>
+						<span>🔱 3079</span>
 					</div>
 				<div class="stars-today">⭐ 14089 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15456</span>
+						<span>🔱 1202</span>
+					</div>
+				<div class="stars-today">⭐ 14717 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 27300</span>
+						<span>⭐ 27311</span>
 						<span>🔱 1122</span>
 					</div>
 				<div class="stars-today">⭐ 15361 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16139</span>
+						<span>🔱 726</span>
+					</div>
+				<div class="stars-today">⭐ 15660 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 141282</span>
-						<span>🔱 21374</span>
+						<span>⭐ 141450</span>
+						<span>🔱 21415</span>
 					</div>
 				<div class="stars-today">⭐ 79260 stars this month</div>
 				</div>
@@ -206,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17076</span>
-						<span>🔱 726</span>
+						<span>⭐ 17107</span>
+						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 12943 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 48798</span>
-						<span>🔱 7883</span>
-					</div>
-				<div class="stars-today">⭐ 27309 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18884</span>
-						<span>🔱 1521</span>
+						<span>⭐ 18916</span>
+						<span>🔱 1523</span>
 					</div>
 				<div class="stars-today">⭐ 15180 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 48844</span>
+						<span>🔱 7896</span>
+					</div>
+				<div class="stars-today">⭐ 27309 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 136648</span>
-						<span>🔱 11515</span>
+						<span>⭐ 136765</span>
+						<span>🔱 11532</span>
 					</div>
 				<div class="stars-today">⭐ 65451 stars this month</div>
 				</div>
@@ -294,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47652</span>
-						<span>🔱 8655</span>
+						<span>⭐ 47678</span>
+						<span>🔱 8661</span>
 					</div>
 				<div class="stars-today">⭐ 16280 stars this month</div>
 				</div>
@@ -316,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9214</span>
+						<span>⭐ 9217</span>
 						<span>🔱 1051</span>
 					</div>
 				<div class="stars-today">⭐ 3966 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23228</span>
+						<span>🔱 1552</span>
+					</div>
+				<div class="stars-today">⭐ 14130 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21229</span>
-						<span>🔱 1506</span>
+						<span>⭐ 21241</span>
+						<span>🔱 1510</span>
 					</div>
 				<div class="stars-today">⭐ 16523 stars this month</div>
 				</div>
@@ -360,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9646</span>
-						<span>🔱 1186</span>
+						<span>⭐ 9661</span>
+						<span>🔱 1185</span>
 					</div>
 				<div class="stars-today">⭐ 7083 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23099</span>
-						<span>🔱 1547</span>
-					</div>
-				<div class="stars-today">⭐ 14130 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,32 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19561</span>
+						<span>⭐ 19566</span>
 						<span>🔱 1679</span>
 					</div>
 				<div class="stars-today">⭐ 8723 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37219</span>
-						<span>🔱 3274</span>
-					</div>
-				<div class="stars-today">⭐ 8697 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,10 +470,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19423</span>
-						<span>🔱 2712</span>
+						<span>⭐ 19442</span>
+						<span>🔱 2714</span>
 					</div>
 				<div class="stars-today">⭐ 9451 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      BitNet</a></p>
+				<p>
+      Official inference framework for 1-bit LLMs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 37226</span>
+						<span>🔱 3274</span>
+					</div>
+				<div class="stars-today">⭐ 8697 stars this month</div>
 				</div>
 			</div>
 	
