@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-07T10:43:13Z
+date: 2026-04-07T12:46:21Z
 categories:
 - monthly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29795</span>
+						<span>🔱 3904</span>
+					</div>
+				<div class="stars-today">⭐ 25584 stars this month</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51024</span>
-						<span>🔱 7542</span>
+						<span>⭐ 51065</span>
+						<span>🔱 7550</span>
 					</div>
 				<div class="stars-today">⭐ 45905 stars this month</div>
 				</div>
@@ -52,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 73849</span>
-						<span>🔱 11577</span>
+						<span>⭐ 73956</span>
+						<span>🔱 11590</span>
 					</div>
 				<div class="stars-today">⭐ 64098 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29381</span>
-						<span>🔱 3859</span>
-					</div>
-				<div class="stars-today">⭐ 25584 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 58953</span>
-						<span>🔱 7415</span>
-					</div>
-				<div class="stars-today">⭐ 33924 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 12749</span>
-						<span>🔱 1068</span>
+						<span>⭐ 12786</span>
+						<span>🔱 1071</span>
 					</div>
 				<div class="stars-today">⭐ 11493 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58997</span>
+						<span>🔱 7426</span>
+					</div>
+				<div class="stars-today">⭐ 33924 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28654</span>
-						<span>🔱 3100</span>
+						<span>⭐ 28664</span>
+						<span>🔱 3102</span>
 					</div>
 				<div class="stars-today">⭐ 13858 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16058</span>
-						<span>🔱 1268</span>
-					</div>
-				<div class="stars-today">⭐ 14790 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 27444</span>
-						<span>🔱 1133</span>
+						<span>⭐ 27462</span>
+						<span>🔱 1134</span>
 					</div>
 				<div class="stars-today">⭐ 15474 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
     
 
 
       
-        pbakaus /
+        alibaba /
 
-      impeccable</a></p>
+      page-agent</a></p>
 				<p>
-      The design language that makes your AI harness better at design.
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 16469</span>
-						<span>🔱 741</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16091</span>
+						<span>🔱 1274</span>
 					</div>
-				<div class="stars-today">⭐ 15725 stars this month</div>
+				<div class="stars-today">⭐ 14790 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 143841</span>
-						<span>🔱 22006</span>
+						<span>⭐ 144030</span>
+						<span>🔱 22052</span>
 					</div>
 				<div class="stars-today">⭐ 80296 stars this month</div>
 				</div>
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17392</span>
-						<span>🔱 742</span>
+						<span>⭐ 17416</span>
+						<span>🔱 743</span>
 					</div>
 				<div class="stars-today">⭐ 13172 stars this month</div>
 				</div>
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19358</span>
-						<span>🔱 1565</span>
+						<span>⭐ 19384</span>
+						<span>🔱 1566</span>
 					</div>
 				<div class="stars-today">⭐ 15405 stars this month</div>
 				</div>
@@ -294,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49423</span>
-						<span>🔱 7999</span>
+						<span>⭐ 49460</span>
+						<span>🔱 8008</span>
 					</div>
 				<div class="stars-today">⭐ 27231 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 138490</span>
-						<span>🔱 11727</span>
-					</div>
-				<div class="stars-today">⭐ 65548 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48098</span>
-						<span>🔱 8720</span>
+						<span>⭐ 48120</span>
+						<span>🔱 8728</span>
 					</div>
 				<div class="stars-today">⭐ 16606 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      open-swe</a></p>
-				<p>
-      An Open-Source Asynchronous Coding Agent
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9278</span>
-						<span>🔱 1051</span>
-					</div>
-				<div class="stars-today">⭐ 4011 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +316,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24772</span>
-						<span>🔱 1642</span>
+						<span>⭐ 24835</span>
+						<span>🔱 1650</span>
 					</div>
 				<div class="stars-today">⭐ 15791 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 138676</span>
+						<span>🔱 11746</span>
+					</div>
+				<div class="stars-today">⭐ 65548 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      open-swe</a></p>
+				<p>
+      An Open-Source Asynchronous Coding Agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9277</span>
+						<span>🔱 1051</span>
+					</div>
+				<div class="stars-today">⭐ 4011 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
+    
+
+
+      
+        pbakaus /
+
+      impeccable</a></p>
+				<p>
+      The design language that makes your AI harness better at design.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 16527</span>
+						<span>🔱 741</span>
+					</div>
+				<div class="stars-today">⭐ 15725 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,54 +404,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21420</span>
-						<span>🔱 1531</span>
+						<span>⭐ 21434</span>
+						<span>🔱 1534</span>
 					</div>
 				<div class="stars-today">⭐ 16565 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/promptfoo/promptfoo" target="_blank">
-    
-
-
-      
-        promptfoo /
-
-      promptfoo</a></p>
-				<p>
-      Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration. Used by OpenAI and Anthropic.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19677</span>
-						<span>🔱 1685</span>
-					</div>
-				<div class="stars-today">⭐ 8823 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      deepagents</a></p>
-				<p>
-      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19666</span>
-						<span>🔱 2735</span>
-					</div>
-				<div class="stars-today">⭐ 9595 stars this month</div>
 				</div>
 			</div>
 	
@@ -470,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37335</span>
-						<span>🔱 3285</span>
+						<span>⭐ 37359</span>
+						<span>🔱 3294</span>
 					</div>
 				<div class="stars-today">⭐ 8740 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
+    
+
+
+      
+        langchain-ai /
+
+      deepagents</a></p>
+				<p>
+      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19682</span>
+						<span>🔱 2735</span>
+					</div>
+				<div class="stars-today">⭐ 9595 stars this month</div>
 				</div>
 			</div>
 	
