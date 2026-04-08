@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-08T08:45:53Z
+date: 2026-04-08T10:45:04Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 34301</span>
-						<span>🔱 4378</span>
+						<span>⭐ 34843</span>
+						<span>🔱 4441</span>
 					</div>
 				<div class="stars-today">⭐ 28243 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51532</span>
-						<span>🔱 7645</span>
+						<span>⭐ 51580</span>
+						<span>🔱 7652</span>
 					</div>
 				<div class="stars-today">⭐ 46170 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 75117</span>
-						<span>🔱 11811</span>
-					</div>
-				<div class="stars-today">⭐ 64068 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
-    
-
-
-      
-        Yeachan-Heo /
-
-      oh-my-codex</a></p>
-				<p>
-      OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18621</span>
-						<span>🔱 1737</span>
-					</div>
-				<div class="stars-today">⭐ 16663 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13015</span>
-						<span>🔱 1087</span>
+						<span>⭐ 13042</span>
+						<span>🔱 1088</span>
 					</div>
 				<div class="stars-today">⭐ 11900 stars this month</div>
 				</div>
@@ -140,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59354</span>
-						<span>🔱 7484</span>
+						<span>⭐ 59404</span>
+						<span>🔱 7494</span>
 					</div>
 				<div class="stars-today">⭐ 34062 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 75274</span>
+						<span>🔱 11830</span>
+					</div>
+				<div class="stars-today">⭐ 64068 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +140,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28788</span>
+						<span>⭐ 28802</span>
 						<span>🔱 3113</span>
 					</div>
 				<div class="stars-today">⭐ 13975 stars this month</div>
@@ -184,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 27568</span>
-						<span>🔱 1138</span>
+						<span>⭐ 27578</span>
+						<span>🔱 1140</span>
 					</div>
 				<div class="stars-today">⭐ 15619 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16302</span>
-						<span>🔱 1304</span>
-					</div>
-				<div class="stars-today">⭐ 15218 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 145603</span>
-						<span>🔱 22386</span>
+						<span>⭐ 145824</span>
+						<span>🔱 22422</span>
 					</div>
 				<div class="stars-today">⭐ 81382 stars this month</div>
 				</div>
@@ -250,10 +206,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17628</span>
-						<span>🔱 750</span>
+						<span>⭐ 17651</span>
+						<span>🔱 751</span>
 					</div>
 				<div class="stars-today">⭐ 13406 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25560</span>
+						<span>🔱 1701</span>
+					</div>
+				<div class="stars-today">⭐ 17294 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16318</span>
+						<span>🔱 1308</span>
+					</div>
+				<div class="stars-today">⭐ 15218 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19606</span>
-						<span>🔱 1590</span>
+						<span>⭐ 19621</span>
+						<span>🔱 1593</span>
 					</div>
 				<div class="stars-today">⭐ 15760 stars this month</div>
 				</div>
@@ -294,54 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 49964</span>
-						<span>🔱 8094</span>
+						<span>⭐ 50034</span>
+						<span>🔱 8111</span>
 					</div>
 				<div class="stars-today">⭐ 26932 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 48435</span>
-						<span>🔱 8789</span>
-					</div>
-				<div class="stars-today">⭐ 16964 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 25486</span>
-						<span>🔱 1695</span>
-					</div>
-				<div class="stars-today">⭐ 17294 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 140199</span>
-						<span>🔱 11936</span>
+						<span>⭐ 140426</span>
+						<span>🔱 11972</span>
 					</div>
 				<div class="stars-today">⭐ 66795 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 48460</span>
+						<span>🔱 8789</span>
+					</div>
+				<div class="stars-today">⭐ 16964 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9303</span>
+						<span>⭐ 9304</span>
 						<span>🔱 1051</span>
 					</div>
 				<div class="stars-today">⭐ 4065 stars this month</div>
@@ -404,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17019</span>
-						<span>🔱 762</span>
+						<span>⭐ 17060</span>
+						<span>🔱 763</span>
 					</div>
 				<div class="stars-today">⭐ 15868 stars this month</div>
 				</div>
@@ -426,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21574</span>
-						<span>🔱 1542</span>
+						<span>⭐ 21591</span>
+						<span>🔱 1543</span>
 					</div>
 				<div class="stars-today">⭐ 16653 stars this month</div>
 				</div>
@@ -448,32 +426,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 37727</span>
-						<span>🔱 3349</span>
+						<span>⭐ 37761</span>
+						<span>🔱 3352</span>
 					</div>
 				<div class="stars-today">⭐ 8886 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/deepagents" target="_blank">
-    
-
-
-      
-        langchain-ai /
-
-      deepagents</a></p>
-				<p>
-      Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19874</span>
-						<span>🔱 2750</span>
-					</div>
-				<div class="stars-today">⭐ 9788 stars this month</div>
 				</div>
 			</div>
 	
