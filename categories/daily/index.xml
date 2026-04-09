@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 09 Apr 2026 10:49:18 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 09 Apr 2026 12:50:32 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-04-09</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-04-09/</link>
-        <pubDate>Thu, 09 Apr 2026 10:49:18 +0000</pubDate>
+        <pubDate>Thu, 09 Apr 2026 12:50:32 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-04-09/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,6 +17,28 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The agent that grows with you
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 41864&lt;/span&gt;
+						&lt;span&gt;🔱 5351&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5794 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/forrestchang/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
@@ -33,118 +55,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 9698&lt;/span&gt;
-						&lt;span&gt;🔱 660&lt;/span&gt;
+						&lt;span&gt;⭐ 9825&lt;/span&gt;
+						&lt;span&gt;🔱 669&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 702 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1371 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TheCraigHewitt/seomachine&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/DeepTutor&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        TheCraigHewitt /
+        HKUDS /
 
-      seomachine&lt;/a&gt;&lt;/p&gt;
+      DeepTutor&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+      &#34;DeepTutor: Agent-Native Personalized Learning Assistant&#34;
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4902&lt;/span&gt;
-						&lt;span&gt;🔱 728&lt;/span&gt;
+						&lt;span&gt;⭐ 14182&lt;/span&gt;
+						&lt;span&gt;🔱 1922&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 649 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1306 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/gallery&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenBMB/VoxCPM&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        google-ai-edge /
+        OpenBMB /
 
-      gallery&lt;/a&gt;&lt;/p&gt;
+      VoxCPM&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Kotlin&lt;/span&gt;
-						&lt;span&gt;⭐ 19766&lt;/span&gt;
-						&lt;span&gt;🔱 1846&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 853 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NVIDIA/personaplex&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NVIDIA /
-
-      personaplex&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      PersonaPlex code.
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8649&lt;/span&gt;
-						&lt;span&gt;🔱 1229&lt;/span&gt;
+						&lt;span&gt;⭐ 7342&lt;/span&gt;
+						&lt;span&gt;🔱 883&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 586 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 460 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/LiteRT-LM&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/opendataloader-project/opendataloader-pdf&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        google-ai-edge /
+        opendataloader-project /
 
-      LiteRT-LM&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 3138&lt;/span&gt;
-						&lt;span&gt;🔱 292&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 501 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/elebumm/RedditVideoMakerBot&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        elebumm /
-
-      RedditVideoMakerBot&lt;/a&gt;&lt;/p&gt;
+      opendataloader-pdf&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Create Reddit Videos with just✨ one command ✨
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10712&lt;/span&gt;
-						&lt;span&gt;🔱 2614&lt;/span&gt;
+						&lt;span&gt;🔠 Java&lt;/span&gt;
+						&lt;span&gt;⭐ 13162&lt;/span&gt;
+						&lt;span&gt;🔱 1113&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 555 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1012 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -163,98 +143,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 142709&lt;/span&gt;
-						&lt;span&gt;🔱 12166&lt;/span&gt;
+						&lt;span&gt;⭐ 142903&lt;/span&gt;
+						&lt;span&gt;🔱 12188&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2028 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2318 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/newton-physics/newton&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TheCraigHewitt/seomachine&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        newton-physics /
+        TheCraigHewitt /
 
-      newton&lt;/a&gt;&lt;/p&gt;
+      seomachine&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 4230&lt;/span&gt;
-						&lt;span&gt;🔱 434&lt;/span&gt;
+						&lt;span&gt;⭐ 4945&lt;/span&gt;
+						&lt;span&gt;🔱 736&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 91 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 725 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/abhigyanpatwari/GitNexus&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/coleam00/Archon&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        abhigyanpatwari /
+        coleam00 /
 
-      GitNexus&lt;/a&gt;&lt;/p&gt;
+      Archon&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 25626&lt;/span&gt;
-						&lt;span&gt;🔱 2854&lt;/span&gt;
+						&lt;span&gt;⭐ 14092&lt;/span&gt;
+						&lt;span&gt;🔱 2424&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 980 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 138 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/shiyu-coder/Kronos&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        virattt /
+        shiyu-coder /
 
-      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
+      Kronos&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      An AI Hedge Fund Team
+      Kronos: A Foundation Model for the Language of Financial Markets
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 50922&lt;/span&gt;
-						&lt;span&gt;🔱 8828&lt;/span&gt;
+						&lt;span&gt;⭐ 11890&lt;/span&gt;
+						&lt;span&gt;🔱 2482&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 151 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 223 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/goharbor/harbor&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/YishenTu/claudian&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        goharbor /
+        YishenTu /
 
-      harbor&lt;/a&gt;&lt;/p&gt;
+      claudian&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      An open source trusted cloud native registry project that stores, signs, and scans content.
+      An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 28211&lt;/span&gt;
-						&lt;span&gt;🔱 5184&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 6541&lt;/span&gt;
+						&lt;span&gt;🔱 384&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 42 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 174 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
