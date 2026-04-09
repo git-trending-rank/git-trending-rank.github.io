@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-09
-date: 2026-04-09T10:49:18Z
+date: 2026-04-09T12:50:32Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41864</span>
+						<span>🔱 5351</span>
+					</div>
+				<div class="stars-today">⭐ 5794 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
@@ -30,118 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 9698</span>
-						<span>🔱 660</span>
+						<span>⭐ 9825</span>
+						<span>🔱 669</span>
 					</div>
-				<div class="stars-today">⭐ 702 stars today</div>
+				<div class="stars-today">⭐ 1371 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
     
 
 
       
-        TheCraigHewitt /
+        HKUDS /
 
-      seomachine</a></p>
+      DeepTutor</a></p>
 				<p>
-      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4902</span>
-						<span>🔱 728</span>
+						<span>⭐ 14182</span>
+						<span>🔱 1922</span>
 					</div>
-				<div class="stars-today">⭐ 649 stars today</div>
+				<div class="stars-today">⭐ 1306 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
     
 
 
       
-        google-ai-edge /
+        OpenBMB /
 
-      gallery</a></p>
+      VoxCPM</a></p>
 				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 19766</span>
-						<span>🔱 1846</span>
-					</div>
-				<div class="stars-today">⭐ 853 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/personaplex" target="_blank">
-    
-
-
-      
-        NVIDIA /
-
-      personaplex</a></p>
-				<p>
-      PersonaPlex code.
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8649</span>
-						<span>🔱 1229</span>
+						<span>⭐ 7342</span>
+						<span>🔱 883</span>
 					</div>
-				<div class="stars-today">⭐ 586 stars today</div>
+				<div class="stars-today">⭐ 460 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
     
 
 
       
-        google-ai-edge /
+        opendataloader-project /
 
-      LiteRT-LM</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3138</span>
-						<span>🔱 292</span>
-					</div>
-				<div class="stars-today">⭐ 501 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/elebumm/RedditVideoMakerBot" target="_blank">
-    
-
-
-      
-        elebumm /
-
-      RedditVideoMakerBot</a></p>
+      opendataloader-pdf</a></p>
 				<p>
-      Create Reddit Videos with just✨ one command ✨
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10712</span>
-						<span>🔱 2614</span>
+						<span>🔠 Java</span>
+						<span>⭐ 13162</span>
+						<span>🔱 1113</span>
 					</div>
-				<div class="stars-today">⭐ 555 stars today</div>
+				<div class="stars-today">⭐ 1012 stars today</div>
 				</div>
 			</div>
 	
@@ -160,98 +140,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 142709</span>
-						<span>🔱 12166</span>
+						<span>⭐ 142903</span>
+						<span>🔱 12188</span>
 					</div>
-				<div class="stars-today">⭐ 2028 stars today</div>
+				<div class="stars-today">⭐ 2318 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/newton-physics/newton" target="_blank">
+				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
     
 
 
       
-        newton-physics /
+        TheCraigHewitt /
 
-      newton</a></p>
+      seomachine</a></p>
 				<p>
-      An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.
+      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4230</span>
-						<span>🔱 434</span>
+						<span>⭐ 4945</span>
+						<span>🔱 736</span>
 					</div>
-				<div class="stars-today">⭐ 91 stars today</div>
+				<div class="stars-today">⭐ 725 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        abhigyanpatwari /
+        coleam00 /
 
-      GitNexus</a></p>
+      Archon</a></p>
 				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25626</span>
-						<span>🔱 2854</span>
+						<span>⭐ 14092</span>
+						<span>🔱 2424</span>
 					</div>
-				<div class="stars-today">⭐ 980 stars today</div>
+				<div class="stars-today">⭐ 138 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
     
 
 
       
-        virattt /
+        shiyu-coder /
 
-      ai-hedge-fund</a></p>
+      Kronos</a></p>
 				<p>
-      An AI Hedge Fund Team
+      Kronos: A Foundation Model for the Language of Financial Markets
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50922</span>
-						<span>🔱 8828</span>
+						<span>⭐ 11890</span>
+						<span>🔱 2482</span>
 					</div>
-				<div class="stars-today">⭐ 151 stars today</div>
+				<div class="stars-today">⭐ 223 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/goharbor/harbor" target="_blank">
+				<p><a href="https://github.com/YishenTu/claudian" target="_blank">
     
 
 
       
-        goharbor /
+        YishenTu /
 
-      harbor</a></p>
+      claudian</a></p>
 				<p>
-      An open source trusted cloud native registry project that stores, signs, and scans content.
+      An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 28211</span>
-						<span>🔱 5184</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 6541</span>
+						<span>🔱 384</span>
 					</div>
-				<div class="stars-today">⭐ 42 stars today</div>
+				<div class="stars-today">⭐ 174 stars today</div>
 				</div>
 			</div>
 	

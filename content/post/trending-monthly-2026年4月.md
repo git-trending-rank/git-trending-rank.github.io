@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-09T10:49:18Z
+date: 2026-04-09T12:50:33Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40998</span>
-						<span>🔱 5245</span>
+						<span>⭐ 41864</span>
+						<span>🔱 5351</span>
 					</div>
 				<div class="stars-today">⭐ 33430 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
     
 
 
       
-        666ghj /
+        Yeachan-Heo /
 
-      MiroFish</a></p>
+      oh-my-codex</a></p>
 				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+      OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52367</span>
-						<span>🔱 7810</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19647</span>
+						<span>🔱 1794</span>
 					</div>
-				<div class="stars-today">⭐ 45664 stars this month</div>
+				<div class="stars-today">⭐ 18059 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13295</span>
-						<span>🔱 1105</span>
+						<span>⭐ 13316</span>
+						<span>🔱 1106</span>
 					</div>
 				<div class="stars-today">⭐ 12147 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 52420</span>
+						<span>🔱 7824</span>
+					</div>
+				<div class="stars-today">⭐ 45664 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 59797</span>
-						<span>🔱 7567</span>
+						<span>⭐ 59823</span>
+						<span>🔱 7571</span>
 					</div>
 				<div class="stars-today">⭐ 34038 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 76408</span>
-						<span>🔱 12026</span>
-					</div>
-				<div class="stars-today">⭐ 64781 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28933</span>
-						<span>🔱 3129</span>
+						<span>⭐ 28938</span>
+						<span>🔱 3127</span>
 					</div>
 				<div class="stars-today">⭐ 14095 stars this month</div>
 				</div>
@@ -162,10 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Zig</span>
-						<span>⭐ 27901</span>
-						<span>🔱 1170</span>
+						<span>⭐ 27922</span>
+						<span>🔱 1172</span>
 					</div>
 				<div class="stars-today">⭐ 15731 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 76502</span>
+						<span>🔱 12045</span>
+					</div>
+				<div class="stars-today">⭐ 64781 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 26644</span>
+						<span>🔱 1777</span>
+					</div>
+				<div class="stars-today">⭐ 18075 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 147827</span>
-						<span>🔱 22828</span>
+						<span>⭐ 147988</span>
+						<span>🔱 22839</span>
 					</div>
 				<div class="stars-today">⭐ 81042 stars this month</div>
 				</div>
@@ -206,76 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17881</span>
-						<span>🔱 771</span>
+						<span>⭐ 17894</span>
+						<span>🔱 775</span>
 					</div>
 				<div class="stars-today">⭐ 13603 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 26594</span>
-						<span>🔱 1776</span>
-					</div>
-				<div class="stars-today">⭐ 18075 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16513</span>
-						<span>🔱 1336</span>
-					</div>
-				<div class="stars-today">⭐ 14729 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19882</span>
-						<span>🔱 1621</span>
-					</div>
-				<div class="stars-today">⭐ 15945 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 50647</span>
-						<span>🔱 8246</span>
+						<span>⭐ 50686</span>
+						<span>🔱 8256</span>
 					</div>
 				<div class="stars-today">⭐ 27003 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
     
 
 
       
-        obra /
+        mvanhorn /
 
-      superpowers</a></p>
+      last30days-skill</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 142709</span>
-						<span>🔱 12166</span>
+						<span>🔠 Python</span>
+						<span>⭐ 19917</span>
+						<span>🔱 1624</span>
 					</div>
-				<div class="stars-today">⭐ 68104 stars this month</div>
+				<div class="stars-today">⭐ 15945 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 48805</span>
-						<span>🔱 8853</span>
+						<span>⭐ 48833</span>
+						<span>🔱 8852</span>
 					</div>
 				<div class="stars-today">⭐ 17251 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 142903</span>
+						<span>🔱 12188</span>
+					</div>
+				<div class="stars-today">⭐ 68104 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9344</span>
-						<span>🔱 1055</span>
+						<span>⭐ 9345</span>
+						<span>🔱 1056</span>
 					</div>
 				<div class="stars-today">⭐ 4104 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
+    
+
+
+      
+        alibaba /
+
+      page-agent</a></p>
+				<p>
+      JavaScript in-page GUI agent. Control web interfaces with natural language.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16529</span>
+						<span>🔱 1337</span>
+					</div>
+				<div class="stars-today">⭐ 14729 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +404,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 17581</span>
-						<span>🔱 785</span>
+						<span>⭐ 17614</span>
+						<span>🔱 786</span>
 					</div>
 				<div class="stars-today">⭐ 15975 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 19802</span>
+						<span>🔱 1849</span>
+					</div>
+				<div class="stars-today">⭐ 4219 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,32 +448,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21771</span>
-						<span>🔱 1561</span>
+						<span>⭐ 21789</span>
+						<span>🔱 1562</span>
 					</div>
 				<div class="stars-today">⭐ 16724 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/BitNet" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      BitNet</a></p>
-				<p>
-      Official inference framework for 1-bit LLMs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 37994</span>
-						<span>🔱 3384</span>
-					</div>
-				<div class="stars-today">⭐ 9288 stars this month</div>
 				</div>
 			</div>
 	

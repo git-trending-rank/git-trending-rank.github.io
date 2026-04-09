@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第15周
-date: 2026-04-09T10:49:18Z
+date: 2026-04-09T12:50:32Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 19802</span>
+						<span>🔱 1849</span>
+					</div>
+				<div class="stars-today">⭐ 3796 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19577</span>
-						<span>🔱 1790</span>
+						<span>⭐ 19647</span>
+						<span>🔱 1794</span>
 					</div>
 				<div class="stars-today">⭐ 11503 stars this week</div>
 				</div>
@@ -52,96 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26594</span>
-						<span>🔱 1776</span>
+						<span>⭐ 26644</span>
+						<span>🔱 1777</span>
 					</div>
 				<div class="stars-today">⭐ 13938 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 19766</span>
-						<span>🔱 1846</span>
-					</div>
-				<div class="stars-today">⭐ 3796 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15827</span>
-						<span>🔱 1424</span>
-					</div>
-				<div class="stars-today">⭐ 3963 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      LiteRT-LM</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3138</span>
-						<span>🔱 292</span>
-					</div>
-				<div class="stars-today">⭐ 1844 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
-    
-
-
-      
-        luongnv89 /
-
-      claude-howto</a></p>
-				<p>
-      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23689</span>
-						<span>🔱 2843</span>
-					</div>
-				<div class="stars-today">⭐ 8317 stars this week</div>
 				</div>
 			</div>
 	
@@ -160,10 +96,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40998</span>
-						<span>🔱 5245</span>
+						<span>⭐ 41864</span>
+						<span>🔱 5351</span>
 					</div>
 				<div class="stars-today">⭐ 14811 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT-LM</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 3149</span>
+						<span>🔱 294</span>
+					</div>
+				<div class="stars-today">⭐ 1844 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14182</span>
+						<span>🔱 1922</span>
+					</div>
+				<div class="stars-today">⭐ 2256 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,10 +160,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26138</span>
-						<span>🔱 3482</span>
+						<span>⭐ 26149</span>
+						<span>🔱 3484</span>
 					</div>
 				<div class="stars-today">⭐ 5673 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15847</span>
+						<span>🔱 1428</span>
+					</div>
+				<div class="stars-today">⭐ 3963 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/personaplex" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      personaplex</a></p>
+				<p>
+      PersonaPlex code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8668</span>
+						<span>🔱 1232</span>
+					</div>
+				<div class="stars-today">⭐ 2382 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
+    
+
+
+      
+        luongnv89 /
+
+      claude-howto</a></p>
+				<p>
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23754</span>
+						<span>🔱 2850</span>
+					</div>
+				<div class="stars-today">⭐ 8317 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 9825</span>
+						<span>🔱 669</span>
+					</div>
+				<div class="stars-today">⭐ 1387 stars this week</div>
 				</div>
 			</div>
 	
@@ -204,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26653</span>
-						<span>🔱 2454</span>
+						<span>⭐ 26716</span>
+						<span>🔱 2460</span>
 					</div>
 				<div class="stars-today">⭐ 5935 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/sherlock-project/sherlock" target="_blank">
-    
-
-
-      
-        sherlock-project /
-
-      sherlock</a></p>
-				<p>
-      Hunt down social media accounts by username across social networks
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 80656</span>
-						<span>🔱 9354</span>
-					</div>
-				<div class="stars-today">⭐ 4634 stars this week</div>
 				</div>
 			</div>
 	
