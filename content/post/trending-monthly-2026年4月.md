@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-10T08:56:25Z
+date: 2026-04-10T10:40:50Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47941</span>
-						<span>🔱 6158</span>
+						<span>⭐ 48684</span>
+						<span>🔱 6262</span>
 					</div>
 				<div class="stars-today">⭐ 39332 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20214</span>
-						<span>🔱 1821</span>
+						<span>⭐ 20269</span>
+						<span>🔱 1823</span>
 					</div>
 				<div class="stars-today">⭐ 18112 stars this month</div>
 				</div>
@@ -74,54 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13642</span>
-						<span>🔱 1125</span>
+						<span>⭐ 13669</span>
+						<span>🔱 1126</span>
 					</div>
 				<div class="stars-today">⭐ 12380 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52920</span>
-						<span>🔱 7900</span>
-					</div>
-				<div class="stars-today">⭐ 44278 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 60098</span>
-						<span>🔱 7637</span>
-					</div>
-				<div class="stars-today">⭐ 33722 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29041</span>
+						<span>⭐ 29043</span>
 						<span>🔱 3132</span>
 					</div>
 				<div class="stars-today">⭐ 14209 stars this month</div>
@@ -148,46 +104,46 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        lightpanda-io /
+        bytedance /
 
-      browser</a></p>
+      deer-flow</a></p>
 				<p>
-      Lightpanda: the headless browser designed for AI and automation
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 28113</span>
-						<span>🔱 1181</span>
+						<span>🔠 Python</span>
+						<span>⭐ 60128</span>
+						<span>🔱 7644</span>
 					</div>
-				<div class="stars-today">⭐ 16038 stars this month</div>
+				<div class="stars-today">⭐ 33722 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        msitarzewski /
+        666ghj /
 
-      agency-agents</a></p>
+      MiroFish</a></p>
 				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 77370</span>
-						<span>🔱 12242</span>
+						<span>🔠 Python</span>
+						<span>⭐ 52960</span>
+						<span>🔱 7903</span>
 					</div>
-				<div class="stars-today">⭐ 61564 stars this month</div>
+				<div class="stars-today">⭐ 44278 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27223</span>
-						<span>🔱 1823</span>
+						<span>⭐ 27268</span>
+						<span>🔱 1827</span>
 					</div>
 				<div class="stars-today">⭐ 19016 stars this month</div>
 				</div>
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 149317</span>
-						<span>🔱 23104</span>
+						<span>⭐ 149448</span>
+						<span>🔱 23124</span>
 					</div>
 				<div class="stars-today">⭐ 80680 stars this month</div>
 				</div>
@@ -250,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18092</span>
-						<span>🔱 788</span>
+						<span>⭐ 18121</span>
+						<span>🔱 791</span>
 					</div>
 				<div class="stars-today">⭐ 13776 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
     
 
 
       
-        shareAI-lab /
+        lightpanda-io /
 
-      learn-claude-code</a></p>
+      browser</a></p>
 				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+      Lightpanda: the headless browser designed for AI and automation
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51132</span>
-						<span>🔱 8338</span>
+						<span>🔠 Zig</span>
+						<span>⭐ 28139</span>
+						<span>🔱 1182</span>
 					</div>
-				<div class="stars-today">⭐ 26755 stars this month</div>
+				<div class="stars-today">⭐ 16038 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20227</span>
-						<span>🔱 1652</span>
+						<span>⭐ 20256</span>
+						<span>🔱 1654</span>
 					</div>
 				<div class="stars-today">⭐ 16184 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
+    
+
+
+      
+        shareAI-lab /
+
+      learn-claude-code</a></p>
+				<p>
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51188</span>
+						<span>🔱 8346</span>
+					</div>
+				<div class="stars-today">⭐ 26755 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49091</span>
-						<span>🔱 8890</span>
+						<span>⭐ 49123</span>
+						<span>🔱 8898</span>
 					</div>
 				<div class="stars-today">⭐ 17495 stars this month</div>
 				</div>
@@ -338,76 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 144609</span>
-						<span>🔱 12371</span>
+						<span>⭐ 144792</span>
+						<span>🔱 12397</span>
 					</div>
 				<div class="stars-today">⭐ 69396 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
     
 
 
       
-        langchain-ai /
+        msitarzewski /
 
-      open-swe</a></p>
+      agency-agents</a></p>
 				<p>
-      An Open-Source Asynchronous Coding Agent
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9385</span>
-						<span>🔱 1060</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 77453</span>
+						<span>🔱 12262</span>
 					</div>
-				<div class="stars-today">⭐ 4137 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alibaba/page-agent" target="_blank">
-    
-
-
-      
-        alibaba /
-
-      page-agent</a></p>
-				<p>
-      JavaScript in-page GUI agent. Control web interfaces with natural language.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16670</span>
-						<span>🔱 1349</span>
-					</div>
-				<div class="stars-today">⭐ 14476 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pbakaus/impeccable" target="_blank">
-    
-
-
-      
-        pbakaus /
-
-      impeccable</a></p>
-				<p>
-      The design language that makes your AI harness better at design.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 17971</span>
-						<span>🔱 799</span>
-					</div>
-				<div class="stars-today">⭐ 15226 stars this month</div>
+				<div class="stars-today">⭐ 61564 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,32 +360,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 20033</span>
-						<span>🔱 1871</span>
+						<span>⭐ 20053</span>
+						<span>🔱 1872</span>
 					</div>
 				<div class="stars-today">⭐ 4561 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/volcengine/OpenViking" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
     
 
 
       
-        volcengine /
+        langchain-ai /
 
-      OpenViking</a></p>
+      open-swe</a></p>
 				<p>
-      OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
+      An Open-Source Asynchronous Coding Agent
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21924</span>
-						<span>🔱 1574</span>
+						<span>⭐ 9389</span>
+						<span>🔱 1060</span>
 					</div>
-				<div class="stars-today">⭐ 16698 stars this month</div>
+				<div class="stars-today">⭐ 4137 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx</a></p>
+				<p>
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26286</span>
+						<span>🔱 3501</span>
+					</div>
+				<div class="stars-today">⭐ 8528 stars this month</div>
 				</div>
 			</div>
 	

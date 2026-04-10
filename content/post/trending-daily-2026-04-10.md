@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-10
-date: 2026-04-10T08:56:25Z
+date: 2026-04-10T10:40:49Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,50 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 97666</span>
+						<span>🔱 5964</span>
+					</div>
+				<div class="stars-today">⭐ 2353 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 14697</span>
+						<span>🔱 2491</span>
+					</div>
+				<div class="stars-today">⭐ 185 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
@@ -30,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 47941</span>
-						<span>🔱 6158</span>
+						<span>⭐ 48684</span>
+						<span>🔱 6262</span>
 					</div>
 				<div class="stars-today">⭐ 6485 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      Open-source AI coworker, with memory
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11358</span>
+						<span>🔱 1068</span>
+					</div>
+				<div class="stars-today">⭐ 1187 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      multica</a></p>
+				<p>
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4975</span>
+						<span>🔱 616</span>
+					</div>
+				<div class="stars-today">⭐ 1680 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 11073</span>
-						<span>🔱 734</span>
+						<span>⭐ 11162</span>
+						<span>🔱 738</span>
 					</div>
 				<div class="stars-today">⭐ 1364 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12450</span>
+						<span>🔱 2525</span>
+					</div>
+				<div class="stars-today">⭐ 245 stars today</div>
 				</div>
 			</div>
 	
@@ -74,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15400</span>
-						<span>🔱 2040</span>
+						<span>⭐ 15498</span>
+						<span>🔱 2054</span>
 					</div>
 				<div class="stars-today">⭐ 1310 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      VoxCPM</a></p>
-				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8083</span>
-						<span>🔱 937</span>
-					</div>
-				<div class="stars-today">⭐ 496 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 14272</span>
-						<span>🔱 1210</span>
+						<span>⭐ 14354</span>
+						<span>🔱 1220</span>
 					</div>
 				<div class="stars-today">⭐ 1124 stars today</div>
 				</div>
@@ -140,98 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 144609</span>
-						<span>🔱 12371</span>
+						<span>⭐ 144792</span>
+						<span>🔱 12397</span>
 					</div>
 				<div class="stars-today">⭐ 2299 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TheCraigHewitt/seomachine" target="_blank">
+				<p><a href="https://github.com/jqlang/jq" target="_blank">
     
 
 
       
-        TheCraigHewitt /
+        jqlang /
 
-      seomachine</a></p>
+      jq</a></p>
 				<p>
-      A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+      Command-line JSON processor
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5376</span>
-						<span>🔱 770</span>
+						<span>🔠 C</span>
+						<span>⭐ 34120</span>
+						<span>🔱 1753</span>
 					</div>
-				<div class="stars-today">⭐ 725 stars today</div>
+				<div class="stars-today">⭐ 48 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
     
 
 
       
-        coleam00 /
+        shanraisshan /
 
-      Archon</a></p>
+      claude-code-best-practice</a></p>
 				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+      practice made claude perfect
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14652</span>
-						<span>🔱 2486</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 34887</span>
+						<span>🔱 3290</span>
 					</div>
-				<div class="stars-today">⭐ 185 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12414</span>
-						<span>🔱 2524</span>
-					</div>
-				<div class="stars-today">⭐ 245 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/YishenTu/claudian" target="_blank">
-    
-
-
-      
-        YishenTu /
-
-      claudian</a></p>
-				<p>
-      An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 7068</span>
-						<span>🔱 414</span>
-					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
+				<div class="stars-today">⭐ 1248 stars today</div>
 				</div>
 			</div>
 	
