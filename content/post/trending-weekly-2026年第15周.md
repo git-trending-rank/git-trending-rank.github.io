@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第15周
-date: 2026-04-10T04:34:12Z
+date: 2026-04-10T07:10:51Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 19979</span>
-						<span>🔱 1864</span>
+						<span>⭐ 20007</span>
+						<span>🔱 1865</span>
 					</div>
 				<div class="stars-today">⭐ 4326 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20066</span>
-						<span>🔱 1816</span>
+						<span>⭐ 20155</span>
+						<span>🔱 1820</span>
 					</div>
 				<div class="stars-today">⭐ 9737 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27095</span>
-						<span>🔱 1810</span>
+						<span>⭐ 27165</span>
+						<span>🔱 1815</span>
 					</div>
 				<div class="stars-today">⭐ 12278 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46197</span>
-						<span>🔱 5939</span>
+						<span>⭐ 47184</span>
+						<span>🔱 6076</span>
 					</div>
 				<div class="stars-today">⭐ 19765 stars this week</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3218</span>
-						<span>🔱 302</span>
+						<span>⭐ 3230</span>
+						<span>🔱 301</span>
 					</div>
 				<div class="stars-today">⭐ 2157 stars this week</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15138</span>
-						<span>🔱 2016</span>
+						<span>⭐ 15302</span>
+						<span>🔱 2030</span>
 					</div>
 				<div class="stars-today">⭐ 3233 stars this week</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26249</span>
-						<span>🔱 3497</span>
+						<span>⭐ 26263</span>
+						<span>🔱 3500</span>
 					</div>
 				<div class="stars-today">⭐ 5556 stars this week</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16029</span>
-						<span>🔱 1453</span>
+						<span>⭐ 16074</span>
+						<span>🔱 1468</span>
 					</div>
 				<div class="stars-today">⭐ 3095 stars this week</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8784</span>
-						<span>🔱 1241</span>
+						<span>⭐ 8814</span>
+						<span>🔱 1243</span>
 					</div>
 				<div class="stars-today">⭐ 2745 stars this week</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 24157</span>
-						<span>🔱 2897</span>
+						<span>⭐ 24248</span>
+						<span>🔱 2910</span>
 					</div>
 				<div class="stars-today">⭐ 7342 stars this week</div>
 				</div>
@@ -248,32 +248,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 10758</span>
-						<span>🔱 718</span>
+						<span>⭐ 10940</span>
+						<span>🔱 730</span>
 					</div>
 				<div class="stars-today">⭐ 2230 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
-    
-
-
-      
-        Yeachan-Heo /
-
-      oh-my-claudecode</a></p>
-				<p>
-      Teams-first Multi-agent orchestration for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 27038</span>
-						<span>🔱 2490</span>
-					</div>
-				<div class="stars-today">⭐ 5219 stars this week</div>
 				</div>
 			</div>
 	
