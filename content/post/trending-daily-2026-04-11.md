@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-11
-date: 2026-04-11T12:26:00Z
+date: 2026-04-11T14:24:39Z
 categories:
 - daily
 keywords:
@@ -30,10 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55620</span>
-						<span>🔱 7332</span>
+						<span>⭐ 56514</span>
+						<span>🔱 7460</span>
 					</div>
-				<div class="stars-today">⭐ 7671 stars today</div>
+				<div class="stars-today">⭐ 6437 stars today</div>
 				</div>
 			</div>
 	
@@ -52,10 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 100988</span>
-						<span>🔱 6201</span>
+						<span>⭐ 101212</span>
+						<span>🔱 6225</span>
 					</div>
-				<div class="stars-today">⭐ 2352 stars today</div>
+				<div class="stars-today">⭐ 3069 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16135</span>
-						<span>🔱 2591</span>
+						<span>⭐ 16192</span>
+						<span>🔱 2605</span>
 					</div>
-				<div class="stars-today">⭐ 756 stars today</div>
+				<div class="stars-today">⭐ 1339 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 12295</span>
-						<span>🔱 816</span>
+						<span>⭐ 12444</span>
+						<span>🔱 827</span>
 					</div>
-				<div class="stars-today">⭐ 1450 stars today</div>
+				<div class="stars-today">⭐ 1070 stars today</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 7082</span>
-						<span>🔱 893</span>
+						<span>⭐ 7240</span>
+						<span>🔱 922</span>
 					</div>
-				<div class="stars-today">⭐ 1506 stars today</div>
+				<div class="stars-today">⭐ 1950 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 36485</span>
-						<span>🔱 3435</span>
+						<span>⭐ 36615</span>
+						<span>🔱 3440</span>
 					</div>
-				<div class="stars-today">⭐ 1251 stars today</div>
+				<div class="stars-today">⭐ 1476 stars today</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 67604</span>
-						<span>🔱 15108</span>
+						<span>⭐ 67657</span>
+						<span>🔱 15119</span>
 					</div>
 				<div class="stars-today">⭐ 472 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9321</span>
-						<span>🔱 1101</span>
+						<span>⭐ 9463</span>
+						<span>🔱 1115</span>
 					</div>
 				<div class="stars-today">⭐ 953 stars today</div>
 				</div>
@@ -206,10 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13081</span>
-						<span>🔱 2608</span>
+						<span>⭐ 13305</span>
+						<span>🔱 2648</span>
 					</div>
-				<div class="stars-today">⭐ 601 stars today</div>
+				<div class="stars-today">⭐ 607 stars today</div>
 				</div>
 			</div>
 	
@@ -228,10 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Java</span>
-						<span>⭐ 15187</span>
-						<span>🔱 1288</span>
+						<span>⭐ 15289</span>
+						<span>🔱 1298</span>
 					</div>
-				<div class="stars-today">⭐ 1306 stars today</div>
+				<div class="stars-today">⭐ 777 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16372</span>
-						<span>🔱 2153</span>
+						<span>⭐ 16456</span>
+						<span>🔱 2163</span>
 					</div>
-				<div class="stars-today">⭐ 1424 stars today</div>
+				<div class="stars-today">⭐ 836 stars today</div>
 				</div>
 			</div>
 	
@@ -272,10 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 146495</span>
-						<span>🔱 12562</span>
+						<span>⭐ 146658</span>
+						<span>🔱 12576</span>
 					</div>
-				<div class="stars-today">⭐ 2150 stars today</div>
+				<div class="stars-today">⭐ 1589 stars today</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 21345</span>
-						<span>🔱 1330</span>
+						<span>⭐ 21572</span>
+						<span>🔱 1343</span>
 					</div>
 				<div class="stars-today">⭐ 1978 stars today</div>
 				</div>
