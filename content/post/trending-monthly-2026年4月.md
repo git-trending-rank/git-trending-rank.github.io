@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-11T10:19:46Z
+date: 2026-04-11T12:26:00Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54963</span>
-						<span>🔱 7223</span>
+						<span>⭐ 55620</span>
+						<span>🔱 7332</span>
 					</div>
 				<div class="stars-today">⭐ 46639 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 13962</span>
-						<span>🔱 1146</span>
+						<span>⭐ 13982</span>
+						<span>🔱 1148</span>
 					</div>
 				<div class="stars-today">⭐ 12774 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29136</span>
-						<span>🔱 3143</span>
+						<span>⭐ 29147</span>
+						<span>🔱 3144</span>
 					</div>
 				<div class="stars-today">⭐ 14315 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60354</span>
-						<span>🔱 7689</span>
+						<span>⭐ 60370</span>
+						<span>🔱 7694</span>
 					</div>
 				<div class="stars-today">⭐ 32590 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53418</span>
-						<span>🔱 8002</span>
-					</div>
-				<div class="stars-today">⭐ 40273 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 27824</span>
-						<span>🔱 1865</span>
+						<span>⭐ 27864</span>
+						<span>🔱 1867</span>
 					</div>
 				<div class="stars-today">⭐ 19712 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
     
 
 
       
-        affaan-m /
+        666ghj /
 
-      everything-claude-code</a></p>
+      MiroFish</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 150663</span>
-						<span>🔱 23321</span>
+						<span>🔠 Python</span>
+						<span>⭐ 53462</span>
+						<span>🔱 8009</span>
 					</div>
-				<div class="stars-today">⭐ 80939 stars this month</div>
+				<div class="stars-today">⭐ 40273 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18303</span>
-						<span>🔱 798</span>
+						<span>⭐ 18319</span>
+						<span>🔱 799</span>
 					</div>
 				<div class="stars-today">⭐ 13975 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
     
 
 
       
-        lightpanda-io /
+        affaan-m /
 
-      browser</a></p>
+      everything-claude-code</a></p>
 				<p>
-      Lightpanda: the headless browser designed for AI and automation
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 28352</span>
-						<span>🔱 1197</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 150764</span>
+						<span>🔱 23347</span>
 					</div>
-				<div class="stars-today">⭐ 16279 stars this month</div>
+				<div class="stars-today">⭐ 80939 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20528</span>
-						<span>🔱 1681</span>
+						<span>⭐ 20554</span>
+						<span>🔱 1685</span>
 					</div>
 				<div class="stars-today">⭐ 16503 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51542</span>
-						<span>🔱 8416</span>
-					</div>
-				<div class="stars-today">⭐ 26930 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49414</span>
-						<span>🔱 8944</span>
+						<span>⭐ 49443</span>
+						<span>🔱 8949</span>
 					</div>
 				<div class="stars-today">⭐ 17751 stars this month</div>
 				</div>
@@ -294,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 146363</span>
-						<span>🔱 12548</span>
+						<span>⭐ 146495</span>
+						<span>🔱 12562</span>
 					</div>
 				<div class="stars-today">⭐ 70214 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
     
 
 
       
-        msitarzewski /
+        shareAI-lab /
 
-      agency-agents</a></p>
+      learn-claude-code</a></p>
 				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 78077</span>
-						<span>🔱 12379</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51580</span>
+						<span>🔱 8425</span>
 					</div>
-				<div class="stars-today">⭐ 56117 stars this month</div>
+				<div class="stars-today">⭐ 26930 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 20328</span>
-						<span>🔱 1902</span>
+						<span>⭐ 20344</span>
+						<span>🔱 1905</span>
 					</div>
 				<div class="stars-today">⭐ 4846 stars this month</div>
 				</div>
@@ -360,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9435</span>
-						<span>🔱 1063</span>
+						<span>⭐ 9437</span>
+						<span>🔱 1062</span>
 					</div>
 				<div class="stars-today">⭐ 4187 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
+    
+
+
+      
+        lightpanda-io /
+
+      browser</a></p>
+				<p>
+      Lightpanda: the headless browser designed for AI and automation
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Zig</span>
+						<span>⭐ 28363</span>
+						<span>🔱 1199</span>
+					</div>
+				<div class="stars-today">⭐ 16279 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,7 +360,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26490</span>
+						<span>⭐ 26504</span>
 						<span>🔱 3520</span>
 					</div>
 				<div class="stars-today">⭐ 8661 stars this month</div>
