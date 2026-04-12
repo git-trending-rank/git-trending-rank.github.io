@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-12
-date: 2026-04-12T10:24:52Z
+date: 2026-04-12T12:29:37Z
 categories:
 - daily
 keywords:
@@ -30,164 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62287</span>
-						<span>🔱 8352</span>
+						<span>⭐ 62997</span>
+						<span>🔱 8439</span>
 					</div>
-				<div class="stars-today">⭐ 6438 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 103266</span>
-						<span>🔱 6408</span>
-					</div>
-				<div class="stars-today">⭐ 3086 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16692</span>
-						<span>🔱 2672</span>
-					</div>
-				<div class="stars-today">⭐ 1346 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 14376</span>
-						<span>🔱 1005</span>
-					</div>
-				<div class="stars-today">⭐ 1066 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      multica</a></p>
-				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8572</span>
-						<span>🔱 1099</span>
-					</div>
-				<div class="stars-today">⭐ 1948 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      practice made claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 37814</span>
-						<span>🔱 3558</span>
-					</div>
-				<div class="stars-today">⭐ 1475 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 67999</span>
-						<span>🔱 15178</span>
-					</div>
-				<div class="stars-today">⭐ 361 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      VoxCPM</a></p>
-				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 10452</span>
-						<span>🔱 1232</span>
-					</div>
-				<div class="stars-today">⭐ 1084 stars today</div>
+				<div class="stars-today">⭐ 7450 stars today</div>
 				</div>
 			</div>
 	
@@ -206,98 +52,272 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14895</span>
-						<span>🔱 2906</span>
+						<span>⭐ 15054</span>
+						<span>🔱 2925</span>
 					</div>
-				<div class="stars-today">⭐ 595 stars today</div>
+				<div class="stars-today">⭐ 1998 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
     
 
 
       
-        opendataloader-project /
+        forrestchang /
 
-      opendataloader-pdf</a></p>
+      andrej-karpathy-skills</a></p>
 				<p>
-      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 15838</span>
-						<span>🔱 1349</span>
-					</div>
-				<div class="stars-today">⭐ 775 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17038</span>
-						<span>🔱 2234</span>
-					</div>
-				<div class="stars-today">⭐ 837 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 147667</span>
-						<span>🔱 12691</span>
-					</div>
-				<div class="stars-today">⭐ 1591 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/alexpate/awesome-design-systems" target="_blank">
-    
-
-
-      
-        alexpate /
-
-      awesome-design-systems</a></p>
-				<p>
-      💅🏻 ⚒ A collection of awesome design systems
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 22921</span>
-						<span>🔱 1434</span>
+						<span>⭐ 14644</span>
+						<span>🔱 1029</span>
 					</div>
-				<div class="stars-today">⭐ 2050 stars today</div>
+				<div class="stars-today">⭐ 2351 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 103460</span>
+						<span>🔱 6428</span>
+					</div>
+				<div class="stars-today">⭐ 2513 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      multica</a></p>
+				<p>
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8690</span>
+						<span>🔱 1113</span>
+					</div>
+				<div class="stars-today">⭐ 1626 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16739</span>
+						<span>🔱 2675</span>
+					</div>
+				<div class="stars-today">⭐ 612 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 38003</span>
+						<span>🔱 3585</span>
+					</div>
+				<div class="stars-today">⭐ 1537 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      VoxCPM</a></p>
+				<p>
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10589</span>
+						<span>🔱 1249</span>
+					</div>
+				<div class="stars-today">⭐ 1276 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 48549</span>
+						<span>🔱 3792</span>
+					</div>
+				<div class="stars-today">⭐ 671 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahujasid/blender-mcp" target="_blank">
+    
+
+
+      
+        ahujasid /
+
+      blender-mcp</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18994</span>
+						<span>🔱 1853</span>
+					</div>
+				<div class="stars-today">⭐ 228 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
+    
+
+
+      
+        rustfs /
+
+      rustfs</a></p>
+				<p>
+      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 24919</span>
+						<span>🔱 1066</span>
+					</div>
+				<div class="stars-today">⭐ 271 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51889</span>
+						<span>🔱 9003</span>
+					</div>
+				<div class="stars-today">⭐ 696 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/snarktank/ralph" target="_blank">
+    
+
+
+      
+        snarktank /
+
+      ralph</a></p>
+				<p>
+      Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15636</span>
+						<span>🔱 1576</span>
+					</div>
+				<div class="stars-today">⭐ 112 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+    
+
+
+      
+        TapXWorld /
+
+      ChinaTextbook</a></p>
+				<p>
+      所有小初高、大学PDF教材。
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Roff</span>
+						<span>⭐ 68040</span>
+						<span>🔱 15184</span>
+					</div>
+				<div class="stars-today">⭐ 450 stars today</div>
 				</div>
 			</div>
 	

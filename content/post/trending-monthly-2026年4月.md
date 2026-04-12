@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-12T10:24:52Z
+date: 2026-04-12T12:29:38Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62287</span>
-						<span>🔱 8352</span>
+						<span>⭐ 62997</span>
+						<span>🔱 8439</span>
 					</div>
 				<div class="stars-today">⭐ 52020 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 14193</span>
-						<span>🔱 1167</span>
+						<span>⭐ 14218</span>
+						<span>🔱 1170</span>
 					</div>
 				<div class="stars-today">⭐ 13058 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29231</span>
-						<span>🔱 3152</span>
+						<span>⭐ 29234</span>
+						<span>🔱 3153</span>
 					</div>
 				<div class="stars-today">⭐ 14394 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60590</span>
-						<span>🔱 7737</span>
+						<span>⭐ 60625</span>
+						<span>🔱 7741</span>
 					</div>
 				<div class="stars-today">⭐ 31738 stars this month</div>
 				</div>
@@ -118,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 28454</span>
-						<span>🔱 1929</span>
+						<span>⭐ 28509</span>
+						<span>🔱 1930</span>
 					</div>
 				<div class="stars-today">⭐ 20242 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 53909</span>
-						<span>🔱 8105</span>
-					</div>
-				<div class="stars-today">⭐ 37910 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18486</span>
-						<span>🔱 813</span>
+						<span>⭐ 18507</span>
+						<span>🔱 814</span>
 					</div>
 				<div class="stars-today">⭐ 14133 stars this month</div>
 				</div>
@@ -184,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 151854</span>
-						<span>🔱 23551</span>
+						<span>⭐ 151983</span>
+						<span>🔱 23571</span>
 					</div>
 				<div class="stars-today">⭐ 80675 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53949</span>
+						<span>🔱 8108</span>
+					</div>
+				<div class="stars-today">⭐ 37910 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20775</span>
-						<span>🔱 1701</span>
+						<span>⭐ 20803</span>
+						<span>🔱 1702</span>
 					</div>
 				<div class="stars-today">⭐ 16729 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49702</span>
-						<span>🔱 9002</span>
+						<span>⭐ 49728</span>
+						<span>🔱 9006</span>
 					</div>
 				<div class="stars-today">⭐ 17986 stars this month</div>
 				</div>
@@ -250,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 147667</span>
-						<span>🔱 12691</span>
+						<span>⭐ 147778</span>
+						<span>🔱 12708</span>
 					</div>
 				<div class="stars-today">⭐ 70276 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51908</span>
-						<span>🔱 8483</span>
-					</div>
-				<div class="stars-today">⭐ 26934 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,54 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 20533</span>
-						<span>🔱 1933</span>
+						<span>⭐ 20553</span>
+						<span>🔱 1934</span>
 					</div>
 				<div class="stars-today">⭐ 5115 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
     
 
 
       
-        langchain-ai /
+        shareAI-lab /
 
-      open-swe</a></p>
+      learn-claude-code</a></p>
 				<p>
-      An Open-Source Asynchronous Coding Agent
+      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9482</span>
-						<span>🔱 1063</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51949</span>
+						<span>🔱 8488</span>
 					</div>
-				<div class="stars-today">⭐ 4225 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lightpanda-io/browser" target="_blank">
-    
-
-
-      
-        lightpanda-io /
-
-      browser</a></p>
-				<p>
-      Lightpanda: the headless browser designed for AI and automation
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Zig</span>
-						<span>⭐ 28509</span>
-						<span>🔱 1204</span>
-					</div>
-				<div class="stars-today">⭐ 16450 stars this month</div>
+				<div class="stars-today">⭐ 26934 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +316,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26662</span>
-						<span>🔱 3544</span>
+						<span>⭐ 26681</span>
+						<span>🔱 3546</span>
 					</div>
 				<div class="stars-today">⭐ 8840 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 38892</span>
+						<span>🔱 4489</span>
+					</div>
+				<div class="stars-today">⭐ 15215 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT-LM</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 3484</span>
+						<span>🔱 332</span>
+					</div>
+				<div class="stars-today">⭐ 2492 stars this month</div>
 				</div>
 			</div>
 	

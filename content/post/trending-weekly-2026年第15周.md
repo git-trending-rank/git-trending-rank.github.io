@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第15周
-date: 2026-04-12T10:24:52Z
+date: 2026-04-12T12:29:37Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17038</span>
-						<span>🔱 2234</span>
-					</div>
-				<div class="stars-today">⭐ 5560 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
@@ -52,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62287</span>
-						<span>🔱 8352</span>
+						<span>⭐ 62997</span>
+						<span>🔱 8439</span>
 					</div>
 				<div class="stars-today">⭐ 32572 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 20533</span>
-						<span>🔱 1933</span>
-					</div>
-				<div class="stars-today">⭐ 4369 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      multica</a></p>
-				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8572</span>
-						<span>🔱 1099</span>
-					</div>
-				<div class="stars-today">⭐ 5362 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +52,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 14376</span>
-						<span>🔱 1005</span>
+						<span>⭐ 14644</span>
+						<span>🔱 1029</span>
 					</div>
 				<div class="stars-today">⭐ 4969 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17074</span>
+						<span>🔱 2235</span>
+					</div>
+				<div class="stars-today">⭐ 5560 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      multica</a></p>
+				<p>
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8690</span>
+						<span>🔱 1113</span>
+					</div>
+				<div class="stars-today">⭐ 5362 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 20553</span>
+						<span>🔱 1934</span>
+					</div>
+				<div class="stars-today">⭐ 4369 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16739</span>
+						<span>🔱 2675</span>
+					</div>
+				<div class="stars-today">⭐ 2410 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 103460</span>
+						<span>🔱 6428</span>
+					</div>
+				<div class="stars-today">⭐ 8202 stars this week</div>
 				</div>
 			</div>
 	
@@ -138,7 +182,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3473</span>
+						<span>⭐ 3484</span>
 						<span>🔱 332</span>
 					</div>
 				<div class="stars-today">⭐ 2196 stars this week</div>
@@ -160,54 +204,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9041</span>
-						<span>🔱 1278</span>
+						<span>⭐ 9044</span>
+						<span>🔱 1279</span>
 					</div>
 				<div class="stars-today">⭐ 2905 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 103266</span>
-						<span>🔱 6408</span>
-					</div>
-				<div class="stars-today">⭐ 8202 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 28454</span>
-						<span>🔱 1929</span>
-					</div>
-				<div class="stars-today">⭐ 8964 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,32 +226,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5724</span>
-						<span>🔱 810</span>
+						<span>⭐ 5734</span>
+						<span>🔱 811</span>
 					</div>
 				<div class="stars-today">⭐ 2698 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/aaif-goose/goose" target="_blank">
+				<p><a href="https://github.com/nvim-treesitter/nvim-treesitter" target="_blank">
     
 
 
       
-        aaif-goose /
+        nvim-treesitter /
 
-      goose</a></p>
+      nvim-treesitter</a></p>
 				<p>
-      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+      Nvim Treesitter configurations and abstraction layer
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 41282</span>
-						<span>🔱 4112</span>
+						<span>🔠 Tree-sitter Query</span>
+						<span>⭐ 13634</span>
+						<span>🔱 1244</span>
 					</div>
-				<div class="stars-today">⭐ 5832 stars this week</div>
+				<div class="stars-today">⭐ 154 stars this week</div>
 				</div>
 			</div>
 	
