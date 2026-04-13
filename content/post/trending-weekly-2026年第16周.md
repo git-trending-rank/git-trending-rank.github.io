@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第16周
-date: 2026-04-13T09:22:25Z
+date: 2026-04-13T11:05:13Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 72831</span>
-						<span>🔱 9693</span>
-					</div>
-				<div class="stars-today">⭐ 38426 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 19254</span>
-						<span>🔱 1542</span>
+						<span>⭐ 19696</span>
+						<span>🔱 1573</span>
 					</div>
 				<div class="stars-today">⭐ 7319 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
     
 
 
       
-        HKUDS /
+        NousResearch /
 
-      DeepTutor</a></p>
+      hermes-agent</a></p>
 				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
+      The agent that grows with you
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17490</span>
-						<span>🔱 2296</span>
+						<span>⭐ 73573</span>
+						<span>🔱 9777</span>
 					</div>
-				<div class="stars-today">⭐ 5873 stars this week</div>
+				<div class="stars-today">⭐ 38426 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10124</span>
-						<span>🔱 1272</span>
+						<span>⭐ 10266</span>
+						<span>🔱 1288</span>
 					</div>
 				<div class="stars-today">⭐ 6846 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
     
 
 
       
-        google-ai-edge /
+        HKUDS /
 
-      gallery</a></p>
+      DeepTutor</a></p>
 				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 20791</span>
-						<span>🔱 1968</span>
+						<span>🔠 Python</span>
+						<span>⭐ 17527</span>
+						<span>🔱 2301</span>
 					</div>
-				<div class="stars-today">⭐ 4148 stars this week</div>
+				<div class="stars-today">⭐ 5873 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17327</span>
-						<span>🔱 2739</span>
+						<span>⭐ 17365</span>
+						<span>🔱 2741</span>
 					</div>
 				<div class="stars-today">⭐ 2962 stars this week</div>
 				</div>
@@ -162,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 105967</span>
-						<span>🔱 6659</span>
+						<span>⭐ 106101</span>
+						<span>🔱 6666</span>
 					</div>
 				<div class="stars-today">⭐ 10592 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 20804</span>
+						<span>🔱 1970</span>
+					</div>
+				<div class="stars-today">⭐ 4148 stars this week</div>
 				</div>
 			</div>
 	
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3606</span>
-						<span>🔱 344</span>
+						<span>⭐ 3607</span>
+						<span>🔱 345</span>
 					</div>
 				<div class="stars-today">⭐ 2164 stars this week</div>
 				</div>
@@ -204,7 +204,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9149</span>
+						<span>⭐ 9156</span>
 						<span>🔱 1288</span>
 					</div>
 				<div class="stars-today">⭐ 2331 stars this week</div>
@@ -226,32 +226,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5874</span>
-						<span>🔱 830</span>
+						<span>⭐ 5882</span>
+						<span>🔱 832</span>
 					</div>
 				<div class="stars-today">⭐ 2815 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/nvim-treesitter/nvim-treesitter" target="_blank">
-    
-
-
-      
-        nvim-treesitter /
-
-      nvim-treesitter</a></p>
-				<p>
-      Nvim Treesitter configurations and abstraction layer
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Tree-sitter Query</span>
-						<span>⭐ 13663</span>
-						<span>🔱 1246</span>
-					</div>
-				<div class="stars-today">⭐ 146 stars this week</div>
 				</div>
 			</div>
 	

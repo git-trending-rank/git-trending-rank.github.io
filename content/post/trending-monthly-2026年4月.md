@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-13T09:22:25Z
+date: 2026-04-13T11:05:14Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72831</span>
-						<span>🔱 9693</span>
+						<span>⭐ 73573</span>
+						<span>🔱 9777</span>
 					</div>
 				<div class="stars-today">⭐ 57410 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 14520</span>
-						<span>🔱 1196</span>
+						<span>⭐ 14544</span>
+						<span>🔱 1198</span>
 					</div>
 				<div class="stars-today">⭐ 13290 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad</a></p>
+				<p>
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23345</span>
+						<span>🔱 2281</span>
+					</div>
+				<div class="stars-today">⭐ 23218 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29359</span>
-						<span>🔱 3162</span>
+						<span>⭐ 29369</span>
+						<span>🔱 3165</span>
 					</div>
 				<div class="stars-today">⭐ 14458 stars this month</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60985</span>
-						<span>🔱 7818</span>
+						<span>⭐ 61014</span>
+						<span>🔱 7821</span>
 					</div>
 				<div class="stars-today">⭐ 31459 stars this month</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29074</span>
-						<span>🔱 1973</span>
+						<span>⭐ 29111</span>
+						<span>🔱 1977</span>
 					</div>
 				<div class="stars-today">⭐ 20857 stars this month</div>
 				</div>
@@ -140,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 18735</span>
-						<span>🔱 826</span>
+						<span>⭐ 18753</span>
+						<span>🔱 827</span>
 					</div>
 				<div class="stars-today">⭐ 14293 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 153451</span>
-						<span>🔱 23799</span>
-					</div>
-				<div class="stars-today">⭐ 80400 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
-    
-
-
-      
-        666ghj /
-
-      MiroFish</a></p>
-				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54405</span>
-						<span>🔱 8183</span>
-					</div>
-				<div class="stars-today">⭐ 36731 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21263</span>
-						<span>🔱 1732</span>
+						<span>⭐ 21296</span>
+						<span>🔱 1737</span>
 					</div>
 				<div class="stars-today">⭐ 16903 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 153564</span>
+						<span>🔱 23817</span>
+					</div>
+				<div class="stars-today">⭐ 80400 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 49984</span>
-						<span>🔱 9040</span>
+						<span>⭐ 49999</span>
+						<span>🔱 9044</span>
 					</div>
 				<div class="stars-today">⭐ 18178 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 149323</span>
-						<span>🔱 12895</span>
-					</div>
-				<div class="stars-today">⭐ 69862 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 20791</span>
-						<span>🔱 1968</span>
+						<span>⭐ 20804</span>
+						<span>🔱 1970</span>
 					</div>
 				<div class="stars-today">⭐ 5316 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 149480</span>
+						<span>🔱 12908</span>
+					</div>
+				<div class="stars-today">⭐ 69862 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+    
+
+
+      
+        666ghj /
+
+      MiroFish</a></p>
+				<p>
+      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 54440</span>
+						<span>🔱 8188</span>
+					</div>
+				<div class="stars-today">⭐ 36731 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,32 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 52534</span>
-						<span>🔱 8607</span>
+						<span>⭐ 52582</span>
+						<span>🔱 8612</span>
 					</div>
 				<div class="stars-today">⭐ 27066 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
-    
-
-
-      
-        onyx-dot-app /
-
-      onyx</a></p>
-				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 26832</span>
-						<span>🔱 3569</span>
-					</div>
-				<div class="stars-today">⭐ 8985 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39149</span>
-						<span>🔱 4530</span>
+						<span>⭐ 39170</span>
+						<span>🔱 4533</span>
 					</div>
 				<div class="stars-today">⭐ 15464 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx</a></p>
+				<p>
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 26848</span>
+						<span>🔱 3572</span>
+					</div>
+				<div class="stars-today">⭐ 8985 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 3606</span>
-						<span>🔱 344</span>
+						<span>⭐ 3607</span>
+						<span>🔱 345</span>
 					</div>
 				<div class="stars-today">⭐ 2596 stars this month</div>
 				</div>

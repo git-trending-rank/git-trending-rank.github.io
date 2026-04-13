@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-13
-date: 2026-04-13T09:22:25Z
+date: 2026-04-13T11:05:13Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 19696</span>
+						<span>🔱 1573</span>
+					</div>
+				<div class="stars-today">⭐ 2369 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72831</span>
-						<span>🔱 9693</span>
+						<span>⭐ 73572</span>
+						<span>🔱 9777</span>
 					</div>
 				<div class="stars-today">⭐ 7454 stars today</div>
 				</div>
@@ -52,32 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16429</span>
-						<span>🔱 3117</span>
+						<span>⭐ 16508</span>
+						<span>🔱 3125</span>
 					</div>
 				<div class="stars-today">⭐ 1985 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        forrestchang /
+        thedotmack /
 
-      andrej-karpathy-skills</a></p>
+      claude-mem</a></p>
 				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 19254</span>
-						<span>🔱 1542</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51445</span>
+						<span>🔱 4057</span>
 					</div>
-				<div class="stars-today">⭐ 2369 stars today</div>
+				<div class="stars-today">⭐ 753 stars today</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 105967</span>
-						<span>🔱 6659</span>
+						<span>⭐ 106101</span>
+						<span>🔱 6666</span>
 					</div>
 				<div class="stars-today">⭐ 2513 stars today</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10124</span>
-						<span>🔱 1272</span>
+						<span>⭐ 10266</span>
+						<span>🔱 1288</span>
 					</div>
 				<div class="stars-today">⭐ 1609 stars today</div>
 				</div>
@@ -140,140 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17327</span>
-						<span>🔱 2739</span>
+						<span>⭐ 17365</span>
+						<span>🔱 2741</span>
 					</div>
 				<div class="stars-today">⭐ 612 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
-    
-
-
-      
-        shanraisshan /
-
-      claude-code-best-practice</a></p>
-				<p>
-      practice made claude perfect
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 40061</span>
-						<span>🔱 3784</span>
-					</div>
-				<div class="stars-today">⭐ 1548 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      VoxCPM</a></p>
-				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11743</span>
-						<span>🔱 1360</span>
-					</div>
-				<div class="stars-today">⭐ 1278 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 51226</span>
-						<span>🔱 4039</span>
-					</div>
-				<div class="stars-today">⭐ 753 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ahujasid/blender-mcp" target="_blank">
-    
-
-
-      
-        ahujasid /
-
-      blender-mcp</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19272</span>
-						<span>🔱 1869</span>
-					</div>
-				<div class="stars-today">⭐ 215 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rustfs/rustfs" target="_blank">
-    
-
-
-      
-        rustfs /
-
-      rustfs</a></p>
-				<p>
-      🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 25479</span>
-						<span>🔱 1085</span>
-					</div>
-				<div class="stars-today">⭐ 182 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 52542</span>
-						<span>🔱 9125</span>
-					</div>
-				<div class="stars-today">⭐ 663 stars today</div>
 				</div>
 			</div>
 	
@@ -292,10 +184,162 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16229</span>
-						<span>🔱 1611</span>
+						<span>⭐ 16272</span>
+						<span>🔱 1614</span>
 					</div>
 				<div class="stars-today">⭐ 463 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 52602</span>
+						<span>🔱 9138</span>
+					</div>
+				<div class="stars-today">⭐ 663 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      claude-cookbooks</a></p>
+				<p>
+      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 38907</span>
+						<span>🔱 4337</span>
+					</div>
+				<div class="stars-today">⭐ 328 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+    
+
+
+      
+        shanraisshan /
+
+      claude-code-best-practice</a></p>
+				<p>
+      practice made claude perfect
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 40254</span>
+						<span>🔱 3801</span>
+					</div>
+				<div class="stars-today">⭐ 1548 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source voice synthesis studio
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15591</span>
+						<span>🔱 1862</span>
+					</div>
+				<div class="stars-today">⭐ 491 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ahujasid/blender-mcp" target="_blank">
+    
+
+
+      
+        ahujasid /
+
+      blender-mcp</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19304</span>
+						<span>🔱 1869</span>
+					</div>
+				<div class="stars-today">⭐ 215 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+    
+
+
+      
+        hacksider /
+
+      Deep-Live-Cam</a></p>
+				<p>
+      real time face swap and one-click video deepfake with only a single image
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 90007</span>
+						<span>🔱 13101</span>
+					</div>
+				<div class="stars-today">⭐ 235 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
+    
+
+
+      
+        gsd-build /
+
+      get-shit-done</a></p>
+				<p>
+      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 51626</span>
+						<span>🔱 4336</span>
+					</div>
+				<div class="stars-today">⭐ 630 stars today</div>
 				</div>
 			</div>
 	
@@ -314,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 68633</span>
-						<span>🔱 15325</span>
+						<span>⭐ 68686</span>
+						<span>🔱 15335</span>
 					</div>
 				<div class="stars-today">⭐ 454 stars today</div>
 				</div>
