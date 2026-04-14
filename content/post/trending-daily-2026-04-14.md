@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-14
-date: 2026-04-14T09:05:57Z
+date: 2026-04-14T10:53:18Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 28363</span>
-						<span>🔱 2331</span>
+						<span>⭐ 29020</span>
+						<span>🔱 2371</span>
 					</div>
 				<div class="stars-today">⭐ 5733 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 81199</span>
-						<span>🔱 10878</span>
-					</div>
-				<div class="stars-today">⭐ 11289 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17405</span>
-						<span>🔱 3261</span>
-					</div>
-				<div class="stars-today">⭐ 1554 stars today</div>
 				</div>
 			</div>
 	
@@ -96,10 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 54255</span>
-						<span>🔱 4343</span>
+						<span>⭐ 54437</span>
+						<span>🔱 4360</span>
 					</div>
 				<div class="stars-today">⭐ 3175 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source voice synthesis studio
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 16711</span>
+						<span>🔱 1975</span>
+					</div>
+				<div class="stars-today">⭐ 512 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+    
+
+
+      
+        pascalorg /
+
+      editor</a></p>
+				<p>
+      Create and share 3D architectural projects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10703</span>
+						<span>🔱 1374</span>
+					</div>
+				<div class="stars-today">⭐ 769 stars today</div>
 				</div>
 			</div>
 	
@@ -118,76 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 107648</span>
-						<span>🔱 6807</span>
+						<span>⭐ 107761</span>
+						<span>🔱 6819</span>
 					</div>
 				<div class="stars-today">⭐ 2808 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
     
 
 
       
-        multica-ai /
+        obra /
 
-      multica</a></p>
+      superpowers</a></p>
 				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+      An agentic skills framework & software development methodology that works.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11785</span>
-						<span>🔱 1460</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 151327</span>
+						<span>🔱 13097</span>
 					</div>
-				<div class="stars-today">⭐ 1715 stars today</div>
+				<div class="stars-today">⭐ 1928 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
     
 
 
       
-        coleam00 /
+        chrislgarry /
 
-      Archon</a></p>
+      Apollo-11</a></p>
 				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17802</span>
-						<span>🔱 2797</span>
+						<span>🔠 Assembly</span>
+						<span>⭐ 65935</span>
+						<span>🔱 7555</span>
 					</div>
-				<div class="stars-today">⭐ 677 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/snarktank/ralph" target="_blank">
-    
-
-
-      
-        snarktank /
-
-      ralph</a></p>
-				<p>
-      Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16708</span>
-						<span>🔱 1649</span>
-					</div>
-				<div class="stars-today">⭐ 691 stars today</div>
+				<div class="stars-today">⭐ 390 stars today</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53463</span>
-						<span>🔱 9282</span>
+						<span>⭐ 53562</span>
+						<span>🔱 9303</span>
 					</div>
 				<div class="stars-today">⭐ 783 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17480</span>
+						<span>🔱 3272</span>
+					</div>
+				<div class="stars-today">⭐ 1554 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 81899</span>
+						<span>🔱 10954</span>
+					</div>
+				<div class="stars-today">⭐ 11289 stars today</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 39815</span>
-						<span>🔱 4418</span>
+						<span>⭐ 39863</span>
+						<span>🔱 4423</span>
 					</div>
 				<div class="stars-today">⭐ 1012 stars today</div>
 				</div>
@@ -250,118 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 42678</span>
-						<span>🔱 4079</span>
+						<span>⭐ 42815</span>
+						<span>🔱 4093</span>
 					</div>
 				<div class="stars-today">⭐ 2461 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source voice synthesis studio
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 16649</span>
-						<span>🔱 1971</span>
-					</div>
-				<div class="stars-today">⭐ 512 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ahujasid/blender-mcp" target="_blank">
-    
-
-
-      
-        ahujasid /
-
-      blender-mcp</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19627</span>
-						<span>🔱 1891</span>
-					</div>
-				<div class="stars-today">⭐ 339 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 90446</span>
-						<span>🔱 13149</span>
-					</div>
-				<div class="stars-today">⭐ 217 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/gsd-build/get-shit-done" target="_blank">
-    
-
-
-      
-        gsd-build /
-
-      get-shit-done</a></p>
-				<p>
-      A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 52481</span>
-						<span>🔱 4385</span>
-					</div>
-				<div class="stars-today">⭐ 655 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
-    
-
-
-      
-        TapXWorld /
-
-      ChinaTextbook</a></p>
-				<p>
-      所有小初高、大学PDF教材。
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 69188</span>
-						<span>🔱 15438</span>
-					</div>
-				<div class="stars-today">⭐ 703 stars today</div>
 				</div>
 			</div>
 	

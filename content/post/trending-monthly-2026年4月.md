@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-14T09:05:57Z
+date: 2026-04-14T10:53:18Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 81199</span>
-						<span>🔱 10878</span>
+						<span>⭐ 81899</span>
+						<span>🔱 10954</span>
 					</div>
 				<div class="stars-today">⭐ 69018 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 14843</span>
-						<span>🔱 1210</span>
+						<span>⭐ 14864</span>
+						<span>🔱 1213</span>
 					</div>
 				<div class="stars-today">⭐ 13661 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23542</span>
-						<span>🔱 2295</span>
+						<span>⭐ 23563</span>
+						<span>🔱 2299</span>
 					</div>
 				<div class="stars-today">⭐ 23203 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29480</span>
+						<span>⭐ 29488</span>
 						<span>🔱 3171</span>
 					</div>
 				<div class="stars-today">⭐ 14609 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 61324</span>
-						<span>🔱 7883</span>
-					</div>
-				<div class="stars-today">⭐ 31379 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 29548</span>
-						<span>🔱 2009</span>
+						<span>⭐ 29579</span>
+						<span>🔱 2012</span>
 					</div>
 				<div class="stars-today">⭐ 21485 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
+    
+
+
+      
+        bytedance /
+
+      deer-flow</a></p>
+				<p>
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 61354</span>
+						<span>🔱 7891</span>
+					</div>
+				<div class="stars-today">⭐ 31379 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 19005</span>
-						<span>🔱 839</span>
+						<span>⭐ 19023</span>
+						<span>🔱 843</span>
 					</div>
 				<div class="stars-today">⭐ 14495 stars this month</div>
 				</div>
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21687</span>
-						<span>🔱 1774</span>
+						<span>⭐ 21721</span>
+						<span>🔱 1777</span>
 					</div>
 				<div class="stars-today">⭐ 17477 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 20988</span>
+						<span>🔱 1986</span>
+					</div>
+				<div class="stars-today">⭐ 5586 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 155185</span>
-						<span>🔱 24071</span>
+						<span>⭐ 155318</span>
+						<span>🔱 24095</span>
 					</div>
 				<div class="stars-today">⭐ 80744 stars this month</div>
 				</div>
@@ -228,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50276</span>
-						<span>🔱 9087</span>
+						<span>⭐ 50296</span>
+						<span>🔱 9093</span>
 					</div>
 				<div class="stars-today">⭐ 18422 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
     
 
 
       
-        google-ai-edge /
+        langchain-ai /
 
-      gallery</a></p>
+      open-swe</a></p>
 				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+      An Open-Source Asynchronous Coding Agent
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 20978</span>
-						<span>🔱 1984</span>
+						<span>🔠 Python</span>
+						<span>⭐ 9496</span>
+						<span>🔱 1066</span>
 					</div>
-				<div class="stars-today">⭐ 5586 stars this month</div>
+				<div class="stars-today">⭐ 4282 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 151158</span>
-						<span>🔱 13083</span>
+						<span>⭐ 151327</span>
+						<span>🔱 13097</span>
 					</div>
 				<div class="stars-today">⭐ 69612 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/666ghj/MiroFish" target="_blank">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
     
 
 
       
-        666ghj /
+        forrestchang /
 
-      MiroFish</a></p>
+      andrej-karpathy-skills</a></p>
 				<p>
-      A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 54862</span>
-						<span>🔱 8269</span>
+						<span>🔠 </span>
+						<span>⭐ 29020</span>
+						<span>🔱 2371</span>
 					</div>
-				<div class="stars-today">⭐ 34012 stars this month</div>
+				<div class="stars-today">⭐ 17646 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 53070</span>
-						<span>🔱 8700</span>
+						<span>⭐ 53133</span>
+						<span>🔱 8712</span>
 					</div>
 				<div class="stars-today">⭐ 27226 stars this month</div>
 				</div>
@@ -338,52 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39401</span>
-						<span>🔱 4569</span>
+						<span>⭐ 39419</span>
+						<span>🔱 4574</span>
 					</div>
 				<div class="stars-today">⭐ 15781 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        onyx-dot-app /
+        microsoft /
 
-      onyx</a></p>
+      markitdown</a></p>
 				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27017</span>
-						<span>🔱 3585</span>
+						<span>⭐ 107761</span>
+						<span>🔱 6819</span>
 					</div>
-				<div class="stars-today">⭐ 9163 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      LiteRT-LM</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3713</span>
-						<span>🔱 355</span>
-					</div>
-				<div class="stars-today">⭐ 2720 stars this month</div>
+				<div class="stars-today">⭐ 16296 stars this month</div>
 				</div>
 			</div>
 	

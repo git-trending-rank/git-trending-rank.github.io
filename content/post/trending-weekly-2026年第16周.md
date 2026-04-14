@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第16周
-date: 2026-04-14T09:05:57Z
+date: 2026-04-14T10:53:18Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 28363</span>
-						<span>🔱 2331</span>
+						<span>⭐ 29020</span>
+						<span>🔱 2371</span>
 					</div>
 				<div class="stars-today">⭐ 14317 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 81199</span>
-						<span>🔱 10878</span>
+						<span>⭐ 81899</span>
+						<span>🔱 10954</span>
 					</div>
 				<div class="stars-today">⭐ 48286 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11785</span>
-						<span>🔱 1460</span>
+						<span>⭐ 11927</span>
+						<span>🔱 1470</span>
 					</div>
 				<div class="stars-today">⭐ 8580 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 17933</span>
-						<span>🔱 2357</span>
-					</div>
-				<div class="stars-today">⭐ 6210 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 17802</span>
-						<span>🔱 2797</span>
+						<span>⭐ 17833</span>
+						<span>🔱 2799</span>
 					</div>
 				<div class="stars-today">⭐ 3647 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 17971</span>
+						<span>🔱 2359</span>
+					</div>
+				<div class="stars-today">⭐ 6210 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 107648</span>
-						<span>🔱 6807</span>
+						<span>⭐ 107761</span>
+						<span>🔱 6819</span>
 					</div>
 				<div class="stars-today">⭐ 13336 stars this week</div>
 				</div>
@@ -162,52 +162,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 20978</span>
-						<span>🔱 1984</span>
+						<span>⭐ 20988</span>
+						<span>🔱 1986</span>
 					</div>
 				<div class="stars-today">⭐ 3273 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        google-ai-edge /
+        thedotmack /
 
-      LiteRT-LM</a></p>
-				<p></p>
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 3713</span>
-						<span>🔱 355</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 54437</span>
+						<span>🔱 4360</span>
 					</div>
-				<div class="stars-today">⭐ 1779 stars this week</div>
+				<div class="stars-today">⭐ 6570 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NVIDIA/personaplex" target="_blank">
+				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
     
 
 
       
-        NVIDIA /
+        TapXWorld /
 
-      personaplex</a></p>
+      ChinaTextbook</a></p>
 				<p>
-      PersonaPlex code.
+      所有小初高、大学PDF教材。
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9256</span>
-						<span>🔱 1296</span>
+						<span>🔠 Roff</span>
+						<span>⭐ 69230</span>
+						<span>🔱 15447</span>
 					</div>
-				<div class="stars-today">⭐ 2110 stars this week</div>
+				<div class="stars-today">⭐ 2208 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,10 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6075</span>
-						<span>🔱 846</span>
+						<span>⭐ 6096</span>
+						<span>🔱 850</span>
 					</div>
 				<div class="stars-today">⭐ 2548 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 53562</span>
+						<span>🔱 9303</span>
+					</div>
+				<div class="stars-today">⭐ 2670 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NVIDIA/personaplex" target="_blank">
+    
+
+
+      
+        NVIDIA /
+
+      personaplex</a></p>
+				<p>
+      PersonaPlex code.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9260</span>
+						<span>🔱 1297</span>
+					</div>
+				<div class="stars-today">⭐ 2110 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jo-inc/camofox-browser" target="_blank">
+    
+
+
+      
+        jo-inc /
+
+      camofox-browser</a></p>
+				<p>
+      Headless browser automation server for AI agents to visit sites that are usually blocked
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2136</span>
+						<span>🔱 203</span>
+					</div>
+				<div class="stars-today">⭐ 845 stars this week</div>
 				</div>
 			</div>
 	
