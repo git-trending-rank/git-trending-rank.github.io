@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-15T09:06:49Z
+date: 2026-04-15T10:47:59Z
 categories:
 - monthly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 87143</span>
-						<span>🔱 11798</span>
+						<span>⭐ 87616</span>
+						<span>🔱 11879</span>
 					</div>
 				<div class="stars-today">⭐ 76339 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      My personal directory of skills, straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 15136</span>
-						<span>🔱 1227</span>
-					</div>
-				<div class="stars-today">⭐ 13952 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +52,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23741</span>
+						<span>⭐ 23748</span>
 						<span>🔱 2316</span>
 					</div>
 				<div class="stars-today">⭐ 23194 stars this month</div>
@@ -96,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29612</span>
-						<span>🔱 3174</span>
+						<span>⭐ 29627</span>
+						<span>🔱 3176</span>
 					</div>
 				<div class="stars-today">⭐ 14719 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        siddharthvaddem /
+        mattpocock /
 
-      openscreen</a></p>
+      skills</a></p>
 				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+      My personal directory of skills, straight from my .claude directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29911</span>
-						<span>🔱 2034</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 15172</span>
+						<span>🔱 1229</span>
 					</div>
-				<div class="stars-today">⭐ 21866 stars this month</div>
+				<div class="stars-today">⭐ 13952 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 38398</span>
+						<span>🔱 3137</span>
+					</div>
+				<div class="stars-today">⭐ 23210 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61661</span>
-						<span>🔱 7941</span>
+						<span>⭐ 61676</span>
+						<span>🔱 7944</span>
 					</div>
 				<div class="stars-today">⭐ 31482 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
     
 
 
       
-        jarrodwatts /
+        siddharthvaddem /
 
-      claude-hud</a></p>
+      openscreen</a></p>
 				<p>
-      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19296</span>
-						<span>🔱 861</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29938</span>
+						<span>🔱 2038</span>
 					</div>
-				<div class="stars-today">⭐ 14720 stars this month</div>
+				<div class="stars-today">⭐ 21866 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21978</span>
-						<span>🔱 1797</span>
+						<span>⭐ 21991</span>
+						<span>🔱 1798</span>
 					</div>
 				<div class="stars-today">⭐ 17814 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 21109</span>
-						<span>🔱 2003</span>
+						<span>⭐ 21128</span>
+						<span>🔱 2004</span>
 					</div>
 				<div class="stars-today">⭐ 5745 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 156653</span>
-						<span>🔱 24321</span>
+						<span>⭐ 156763</span>
+						<span>🔱 24336</span>
 					</div>
 				<div class="stars-today">⭐ 81407 stars this month</div>
 				</div>
@@ -250,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50575</span>
-						<span>🔱 9134</span>
+						<span>⭐ 50590</span>
+						<span>🔱 9141</span>
 					</div>
 				<div class="stars-today">⭐ 18642 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/langchain-ai/open-swe" target="_blank">
+				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
     
 
 
       
-        langchain-ai /
+        jarrodwatts /
 
-      open-swe</a></p>
+      claude-hud</a></p>
 				<p>
-      An Open-Source Asynchronous Coding Agent
+      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 9547</span>
-						<span>🔱 1068</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 19304</span>
+						<span>🔱 862</span>
 					</div>
-				<div class="stars-today">⭐ 4290 stars this month</div>
+				<div class="stars-today">⭐ 14720 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,76 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 153159</span>
-						<span>🔱 13295</span>
+						<span>⭐ 153324</span>
+						<span>🔱 13316</span>
 					</div>
 				<div class="stars-today">⭐ 70149 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 37662</span>
-						<span>🔱 3078</span>
-					</div>
-				<div class="stars-today">⭐ 23210 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shareAI-lab/learn-claude-code" target="_blank">
-    
-
-
-      
-        shareAI-lab /
-
-      learn-claude-code</a></p>
-				<p>
-      Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 53597</span>
-						<span>🔱 8796</span>
-					</div>
-				<div class="stars-today">⭐ 27017 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39614</span>
-						<span>🔱 4604</span>
-					</div>
-				<div class="stars-today">⭐ 16017 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +316,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 109001</span>
-						<span>🔱 6920</span>
+						<span>⭐ 109109</span>
+						<span>🔱 6927</span>
 					</div>
 				<div class="stars-today">⭐ 17711 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18038</span>
+						<span>🔱 3341</span>
+					</div>
+				<div class="stars-today">⭐ 6599 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39627</span>
+						<span>🔱 4607</span>
+					</div>
+				<div class="stars-today">⭐ 16017 stars this month</div>
 				</div>
 			</div>
 	

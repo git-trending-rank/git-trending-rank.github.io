@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-15
-date: 2026-04-15T09:06:49Z
+date: 2026-04-15T10:47:59Z
 categories:
 - daily
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 37662</span>
-						<span>🔱 3078</span>
+						<span>⭐ 38398</span>
+						<span>🔱 3137</span>
 					</div>
 				<div class="stars-today">⭐ 9263 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 56612</span>
-						<span>🔱 4565</span>
-					</div>
-				<div class="stars-today">⭐ 2997 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source voice synthesis studio
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17749</span>
-						<span>🔱 2066</span>
-					</div>
-				<div class="stars-today">⭐ 1162 stars today</div>
 				</div>
 			</div>
 	
@@ -96,76 +52,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12066</span>
-						<span>🔱 1507</span>
+						<span>⭐ 12137</span>
+						<span>🔱 1513</span>
 					</div>
 				<div class="stars-today">⭐ 820 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        microsoft /
+        thedotmack /
 
-      markitdown</a></p>
+      claude-mem</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 109001</span>
-						<span>🔱 6920</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 56754</span>
+						<span>🔱 4577</span>
 					</div>
-				<div class="stars-today">⭐ 1675 stars today</div>
+				<div class="stars-today">⭐ 2997 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
     
 
 
       
-        obra /
+        Lordog /
 
-      superpowers</a></p>
+      dive-into-llms</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      《动手学大模型Dive into LLMs》系列编程实践教程
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 153159</span>
-						<span>🔱 13295</span>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 28854</span>
+						<span>🔱 3508</span>
 					</div>
-				<div class="stars-today">⭐ 1919 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
-    
-
-
-      
-        chrislgarry /
-
-      Apollo-11</a></p>
-				<p>
-      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Assembly</span>
-						<span>⭐ 66548</span>
-						<span>🔱 7592</span>
-					</div>
-				<div class="stars-today">⭐ 472 stars today</div>
+				<div class="stars-today">⭐ 1068 stars today</div>
 				</div>
 			</div>
 	
@@ -184,98 +118,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54551</span>
-						<span>🔱 9466</span>
+						<span>⭐ 54624</span>
+						<span>🔱 9475</span>
 					</div>
 				<div class="stars-today">⭐ 1007 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
     
 
 
       
-        shiyu-coder /
+        chrislgarry /
 
-      Kronos</a></p>
+      Apollo-11</a></p>
 				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
+      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Assembly</span>
+						<span>⭐ 66572</span>
+						<span>🔱 7594</span>
+					</div>
+				<div class="stars-today">⭐ 472 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 153324</span>
+						<span>🔱 13316</span>
+					</div>
+				<div class="stars-today">⭐ 1919 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source voice synthesis studio
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17807</span>
+						<span>🔱 2073</span>
+					</div>
+				<div class="stars-today">⭐ 1162 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
+    
+
+
+      
+        public-apis /
+
+      public-apis</a></p>
+				<p>
+      A collective list of free APIs
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17999</span>
-						<span>🔱 3337</span>
+						<span>⭐ 422445</span>
+						<span>🔱 46008</span>
 					</div>
-				<div class="stars-today">⭐ 963 stars today</div>
+				<div class="stars-today">⭐ 839 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+				<p><a href="https://github.com/vercel-labs/open-agents" target="_blank">
     
 
 
       
-        NousResearch /
+        vercel-labs /
 
-      hermes-agent</a></p>
+      open-agents</a></p>
 				<p>
-      The agent that grows with you
+      An open source template for building cloud agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2178</span>
+						<span>🔱 240</span>
+					</div>
+				<div class="stars-today">⭐ 1020 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
+    
+
+
+      
+        lsdefine /
+
+      GenericAgent</a></p>
+				<p>
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 87143</span>
-						<span>🔱 11798</span>
+						<span>⭐ 1520</span>
+						<span>🔱 214</span>
 					</div>
-				<div class="stars-today">⭐ 8301 stars today</div>
+				<div class="stars-today">⭐ 413 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/claude-cookbooks" target="_blank">
+				<p><a href="https://github.com/google/magika" target="_blank">
     
 
 
       
-        anthropics /
+        google /
 
-      claude-cookbooks</a></p>
+      magika</a></p>
 				<p>
-      A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
+      Fast and accurate AI powered file content types detection 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 40500</span>
-						<span>🔱 4462</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13342</span>
+						<span>🔱 695</span>
 					</div>
-				<div class="stars-today">⭐ 931 stars today</div>
+				<div class="stars-today">⭐ 833 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shanraisshan/claude-code-best-practice" target="_blank">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
     
 
 
       
-        shanraisshan /
+        Donchitos /
 
-      claude-code-best-practice</a></p>
+      Claude-Code-Game-Studios</a></p>
 				<p>
-      from vibe coding to agentic engineering - practice makes claude perfect
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 44525</span>
-						<span>🔱 4265</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 9782</span>
+						<span>🔱 1526</span>
 					</div>
-				<div class="stars-today">⭐ 2583 stars today</div>
+				<div class="stars-today">⭐ 523 stars today</div>
 				</div>
 			</div>
 	
