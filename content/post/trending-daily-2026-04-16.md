@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-16
-date: 2026-04-16T09:06:18Z
+date: 2026-04-16T10:51:36Z
 categories:
 - daily
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 45901</span>
-						<span>🔱 3757</span>
+						<span>⭐ 46471</span>
+						<span>🔱 3804</span>
 					</div>
 				<div class="stars-today">⭐ 9646 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12965</span>
-						<span>🔱 1578</span>
-					</div>
-				<div class="stars-today">⭐ 1391 stars today</div>
 				</div>
 			</div>
 	
@@ -74,164 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58475</span>
-						<span>🔱 4752</span>
+						<span>⭐ 58595</span>
+						<span>🔱 4768</span>
 					</div>
 				<div class="stars-today">⭐ 2305 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
-    
-
-
-      
-        Lordog /
-
-      dive-into-llms</a></p>
-				<p>
-      《动手学大模型Dive into LLMs》系列编程实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 30162</span>
-						<span>🔱 3659</span>
-					</div>
-				<div class="stars-today">⭐ 941 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 55420</span>
-						<span>🔱 9604</span>
-					</div>
-				<div class="stars-today">⭐ 1058 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
-    
-
-
-      
-        chrislgarry /
-
-      Apollo-11</a></p>
-				<p>
-      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Assembly</span>
-						<span>⭐ 66912</span>
-						<span>🔱 7618</span>
-					</div>
-				<div class="stars-today">⭐ 606 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 155156</span>
-						<span>🔱 13477</span>
-					</div>
-				<div class="stars-today">⭐ 2055 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source voice synthesis studio
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18606</span>
-						<span>🔱 2156</span>
-					</div>
-				<div class="stars-today">⭐ 1062 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/public-apis/public-apis" target="_blank">
-    
-
-
-      
-        public-apis /
-
-      public-apis</a></p>
-				<p>
-      A collective list of free APIs
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 423884</span>
-						<span>🔱 46134</span>
-					</div>
-				<div class="stars-today">⭐ 950 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/open-agents" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      open-agents</a></p>
-				<p>
-      An open source template for building cloud agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2885</span>
-						<span>🔱 312</span>
-					</div>
-				<div class="stars-today">⭐ 915 stars today</div>
 				</div>
 			</div>
 	
@@ -250,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2310</span>
-						<span>🔱 279</span>
+						<span>⭐ 2363</span>
+						<span>🔱 281</span>
 					</div>
 				<div class="stars-today">⭐ 446 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source voice synthesis studio
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18664</span>
+						<span>🔱 2159</span>
+					</div>
+				<div class="stars-today">⭐ 1062 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/open-agents" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      open-agents</a></p>
+				<p>
+      An open source template for building cloud agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2925</span>
+						<span>🔱 314</span>
+					</div>
+				<div class="stars-today">⭐ 915 stars today</div>
 				</div>
 			</div>
 	
@@ -272,32 +140,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14103</span>
-						<span>🔱 739</span>
+						<span>⭐ 14149</span>
+						<span>🔱 741</span>
 					</div>
 				<div class="stars-today">⭐ 768 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+				<p><a href="https://github.com/steipete/wacli" target="_blank">
     
 
 
       
-        Donchitos /
+        steipete /
 
-      Claude-Code-Game-Studios</a></p>
+      wacli</a></p>
 				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+      WhatsApp CLI
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 11024</span>
-						<span>🔱 1633</span>
+						<span>🔠 Go</span>
+						<span>⭐ 1491</span>
+						<span>🔱 191</span>
 					</div>
-				<div class="stars-today">⭐ 612 stars today</div>
+				<div class="stars-today">⭐ 354 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
+    
+
+
+      
+        topoteretes /
+
+      cognee</a></p>
+				<p>
+      Knowledge Engine for AI Agent Memory in 6 lines of code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15563</span>
+						<span>🔱 1606</span>
+					</div>
+				<div class="stars-today">⭐ 156 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/z-lab/dflash" target="_blank">
+    
+
+
+      
+        z-lab /
+
+      dflash</a></p>
+				<p>
+      DFlash: Block Diffusion for Flash Speculative Decoding
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1427</span>
+						<span>🔱 101</span>
+					</div>
+				<div class="stars-today">⭐ 183 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
+    
+
+
+      
+        Lordog /
+
+      dive-into-llms</a></p>
+				<p>
+      《动手学大模型Dive into LLMs》系列编程实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 30269</span>
+						<span>🔱 3666</span>
+					</div>
+				<div class="stars-today">⭐ 941 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-agents-python</a></p>
+				<p>
+      A lightweight, powerful framework for multi-agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20906</span>
+						<span>🔱 3427</span>
+					</div>
+				<div class="stars-today">⭐ 110 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
+    
+
+
+      
+        EvoMap /
+
+      evolver</a></p>
+				<p>
+      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2822</span>
+						<span>🔱 308</span>
+					</div>
+				<div class="stars-today">⭐ 866 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BasedHardware/omi" target="_blank">
+    
+
+
+      
+        BasedHardware /
+
+      omi</a></p>
+				<p>
+      AI that sees your screen, listens to your conversations and tells you what to do
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 8624</span>
+						<span>🔱 1582</span>
+					</div>
+				<div class="stars-today">⭐ 448 stars today</div>
 				</div>
 			</div>
 	

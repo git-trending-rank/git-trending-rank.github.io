@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第16周
-date: 2026-04-16T09:06:18Z
+date: 2026-04-16T10:51:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 45901</span>
-						<span>🔱 3757</span>
+						<span>⭐ 46471</span>
+						<span>🔱 3804</span>
 					</div>
 				<div class="stars-today">⭐ 30919 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91636</span>
-						<span>🔱 12624</span>
+						<span>⭐ 91976</span>
+						<span>🔱 12694</span>
 					</div>
 				<div class="stars-today">⭐ 53110 stars this week</div>
 				</div>
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 14050</span>
-						<span>🔱 1734</span>
+						<span>⭐ 14140</span>
+						<span>🔱 1744</span>
 					</div>
 				<div class="stars-today">⭐ 10864 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 109932</span>
+						<span>🔱 7019</span>
+					</div>
+				<div class="stars-today">⭐ 15790 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18468</span>
-						<span>🔱 3401</span>
+						<span>⭐ 18509</span>
+						<span>🔱 3407</span>
 					</div>
 				<div class="stars-today">⭐ 6486 stars this week</div>
 				</div>
@@ -118,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18299</span>
-						<span>🔱 2861</span>
+						<span>⭐ 18316</span>
+						<span>🔱 2863</span>
 					</div>
 				<div class="stars-today">⭐ 4263 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
     
 
 
       
-        microsoft /
+        OpenBMB /
 
-      markitdown</a></p>
+      VoxCPM</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 109859</span>
-						<span>🔱 7009</span>
+						<span>⭐ 13600</span>
+						<span>🔱 1616</span>
 					</div>
-				<div class="stars-today">⭐ 15790 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18570</span>
-						<span>🔱 2445</span>
-					</div>
-				<div class="stars-today">⭐ 5500 stars this week</div>
+				<div class="stars-today">⭐ 6381 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 16153</span>
-						<span>🔱 2061</span>
+						<span>⭐ 16215</span>
+						<span>🔱 2069</span>
 					</div>
 				<div class="stars-today">⭐ 6693 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18594</span>
+						<span>🔱 2453</span>
+					</div>
+				<div class="stars-today">⭐ 5500 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 58475</span>
-						<span>🔱 4752</span>
+						<span>⭐ 58595</span>
+						<span>🔱 4768</span>
 					</div>
 				<div class="stars-today">⭐ 10779 stars this week</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55420</span>
-						<span>🔱 9604</span>
+						<span>⭐ 55471</span>
+						<span>🔱 9611</span>
 					</div>
 				<div class="stars-today">⭐ 4314 stars this week</div>
 				</div>
@@ -250,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 69569</span>
-						<span>🔱 15551</span>
+						<span>⭐ 69579</span>
+						<span>🔱 15552</span>
 					</div>
 				<div class="stars-today">⭐ 2756 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
+    
+
+
+      
+        rowboatlabs /
+
+      rowboat</a></p>
+				<p>
+      Open-source AI coworker, with memory
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12478</span>
+						<span>🔱 1184</span>
+					</div>
+				<div class="stars-today">⭐ 2569 stars this week</div>
 				</div>
 			</div>
 	

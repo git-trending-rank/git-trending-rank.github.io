@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-16T09:06:18Z
+date: 2026-04-16T10:51:36Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91636</span>
-						<span>🔱 12624</span>
+						<span>⭐ 91976</span>
+						<span>🔱 12694</span>
 					</div>
 				<div class="stars-today">⭐ 81412 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23392</span>
-						<span>🔱 2006</span>
+						<span>⭐ 23426</span>
+						<span>🔱 2007</span>
 					</div>
 				<div class="stars-today">⭐ 21352 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 46471</span>
+						<span>🔱 3804</span>
+					</div>
+				<div class="stars-today">⭐ 32572 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23900</span>
-						<span>🔱 2325</span>
+						<span>⭐ 23910</span>
+						<span>🔱 2328</span>
 					</div>
 				<div class="stars-today">⭐ 23152 stars this month</div>
 				</div>
@@ -96,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29735</span>
-						<span>🔱 3185</span>
+						<span>⭐ 29748</span>
+						<span>🔱 3186</span>
 					</div>
 				<div class="stars-today">⭐ 14848 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      My personal directory of skills, straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 15472</span>
-						<span>🔱 1256</span>
-					</div>
-				<div class="stars-today">⭐ 14248 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 45901</span>
-						<span>🔱 3757</span>
-					</div>
-				<div class="stars-today">⭐ 32572 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61934</span>
-						<span>🔱 7985</span>
+						<span>⭐ 61960</span>
+						<span>🔱 7991</span>
 					</div>
 				<div class="stars-today">⭐ 31460 stars this month</div>
 				</div>
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30275</span>
-						<span>🔱 2067</span>
+						<span>⭐ 30303</span>
+						<span>🔱 2071</span>
 					</div>
 				<div class="stars-today">⭐ 21995 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+				<p><a href="https://github.com/openai/parameter-golf" target="_blank">
     
 
 
       
-        mvanhorn /
+        openai /
 
-      last30days-skill</a></p>
+      parameter-golf</a></p>
 				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      Train the smallest LM you can that fits in 16MB. Best model wins!
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22204</span>
-						<span>🔱 1814</span>
+						<span>⭐ 4812</span>
+						<span>🔱 3187</span>
 					</div>
-				<div class="stars-today">⭐ 18023 stars this month</div>
+				<div class="stars-today">⭐ 4847 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 21252</span>
-						<span>🔱 2017</span>
+						<span>⭐ 21263</span>
+						<span>🔱 2020</span>
 					</div>
 				<div class="stars-today">⭐ 5881 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22218</span>
+						<span>🔱 1817</span>
+					</div>
+				<div class="stars-today">⭐ 18023 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 157953</span>
-						<span>🔱 24557</span>
+						<span>⭐ 158044</span>
+						<span>🔱 24567</span>
 					</div>
 				<div class="stars-today">⭐ 81757 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
+    
+
+
+      
+        opendataloader-project /
+
+      opendataloader-pdf</a></p>
+				<p>
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 17536</span>
+						<span>🔱 1562</span>
+					</div>
+				<div class="stars-today">⭐ 15203 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,76 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 50846</span>
-						<span>🔱 9179</span>
+						<span>⭐ 50877</span>
+						<span>🔱 9187</span>
 					</div>
 				<div class="stars-today">⭐ 18792 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jarrodwatts/claude-hud" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        jarrodwatts /
+        mattpocock /
 
-      claude-hud</a></p>
+      skills</a></p>
 				<p>
-      A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 19528</span>
-						<span>🔱 871</span>
-					</div>
-				<div class="stars-today">⭐ 14960 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
+      My personal directory of skills, straight from my .claude directory.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 155156</span>
-						<span>🔱 13477</span>
+						<span>⭐ 15494</span>
+						<span>🔱 1257</span>
 					</div>
-				<div class="stars-today">⭐ 70176 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 109859</span>
-						<span>🔱 7009</span>
-					</div>
-				<div class="stars-today">⭐ 18909 stars this month</div>
+				<div class="stars-today">⭐ 14248 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18468</span>
-						<span>🔱 3401</span>
+						<span>⭐ 18509</span>
+						<span>🔱 3407</span>
 					</div>
 				<div class="stars-today">⭐ 7042 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 109932</span>
+						<span>🔱 7019</span>
+					</div>
+				<div class="stars-today">⭐ 18909 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,10 +382,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39827</span>
-						<span>🔱 4626</span>
+						<span>⭐ 39840</span>
+						<span>🔱 4628</span>
 					</div>
 				<div class="stars-today">⭐ 16228 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18316</span>
+						<span>🔱 2863</span>
+					</div>
+				<div class="stars-today">⭐ 4533 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 155368</span>
+						<span>🔱 13486</span>
+					</div>
+				<div class="stars-today">⭐ 70176 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+    
+
+
+      
+        onyx-dot-app /
+
+      onyx</a></p>
+				<p>
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 27231</span>
+						<span>🔱 3619</span>
+					</div>
+				<div class="stars-today">⭐ 9443 stars this month</div>
 				</div>
 			</div>
 	
