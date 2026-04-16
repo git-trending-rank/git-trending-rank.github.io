@@ -6,7 +6,311 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 15 Apr 2026 22:29:14 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 16 Apr 2026 01:13:40 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>GitHub 趋势 2026-04-16</title>
+        <link>https://git-trending-rank.github.io/post/trending-daily-2026-04-16/</link>
+        <pubDate>Thu, 16 Apr 2026 01:13:40 +0000</pubDate>
+        
+        <guid>https://git-trending-rank.github.io/post/trending-daily-2026-04-16/</guid>
+        <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
+
+	&lt;main class=&#34;container&#34;&gt;
+        &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
+
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/forrestchang/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 43083&lt;/span&gt;
+						&lt;span&gt;🔱 3491&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9646 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pascalorg/editor&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pascalorg /
+
+      editor&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Create and share 3D architectural projects.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 12655&lt;/span&gt;
+						&lt;span&gt;🔱 1552&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1391 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        thedotmack /
+
+      claude-mem&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 57857&lt;/span&gt;
+						&lt;span&gt;🔱 4678&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2305 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Lordog/dive-into-llms&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Lordog /
+
+      dive-into-llms&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      《动手学大模型Dive into LLMs》系列编程实践教程
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 29447&lt;/span&gt;
+						&lt;span&gt;🔱 3577&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 941 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An AI Hedge Fund Team
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 55066&lt;/span&gt;
+						&lt;span&gt;🔱 9558&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1058 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/chrislgarry/Apollo-11&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        chrislgarry /
+
+      Apollo-11&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Assembly&lt;/span&gt;
+						&lt;span&gt;⭐ 66807&lt;/span&gt;
+						&lt;span&gt;🔱 7608&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 606 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/obra/superpowers&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        obra /
+
+      superpowers&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An agentic skills framework &amp; software development methodology that works.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 154313&lt;/span&gt;
+						&lt;span&gt;🔱 13400&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2055 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jamiepine/voicebox&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jamiepine /
+
+      voicebox&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open-source voice synthesis studio
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 18294&lt;/span&gt;
+						&lt;span&gt;🔱 2130&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1062 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/public-apis/public-apis&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        public-apis /
+
+      public-apis&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A collective list of free APIs
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 423355&lt;/span&gt;
+						&lt;span&gt;🔱 46090&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 950 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel-labs/open-agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel-labs /
+
+      open-agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open source template for building cloud agents.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2647&lt;/span&gt;
+						&lt;span&gt;🔱 290&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 915 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lsdefine/GenericAgent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        lsdefine /
+
+      GenericAgent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 1945&lt;/span&gt;
+						&lt;span&gt;🔱 245&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 446 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google/magika&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google /
+
+      magika&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Fast and accurate AI powered file content types detection 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 13795&lt;/span&gt;
+						&lt;span&gt;🔱 726&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 768 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Donchitos/Claude-Code-Game-Studios&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Donchitos /
+
+      Claude-Code-Game-Studios&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 10463&lt;/span&gt;
+						&lt;span&gt;🔱 1587&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 612 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+
+		&lt;/div&gt;
+    &lt;/main&gt;
+
+</description>
+        </item>
+        <item>
         <title>GitHub 趋势 2026-04-15</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-04-15/</link>
         <pubDate>Wed, 15 Apr 2026 22:29:14 +0000</pubDate>
