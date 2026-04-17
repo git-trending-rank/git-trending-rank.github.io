@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-17T09:05:04Z
+date: 2026-04-17T10:43:52Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 95325</span>
-						<span>🔱 13322</span>
+						<span>⭐ 95582</span>
+						<span>🔱 13373</span>
 					</div>
 				<div class="stars-today">⭐ 84964 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 52508</span>
-						<span>🔱 4374</span>
+						<span>⭐ 53009</span>
+						<span>🔱 4413</span>
 					</div>
 				<div class="stars-today">⭐ 39815 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24069</span>
-						<span>🔱 2340</span>
+						<span>⭐ 24078</span>
+						<span>🔱 2342</span>
 					</div>
 				<div class="stars-today">⭐ 22583 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
-    
-
-
-      
-        FujiwaraChoki /
-
-      MoneyPrinterV2</a></p>
-				<p>
-      Automate the process of making money online.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29836</span>
-						<span>🔱 3195</span>
-					</div>
-				<div class="stars-today">⭐ 14953 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62156</span>
-						<span>🔱 8026</span>
+						<span>⭐ 62175</span>
+						<span>🔱 8029</span>
 					</div>
 				<div class="stars-today">⭐ 31402 stars this month</div>
 				</div>
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 30628</span>
-						<span>🔱 2087</span>
+						<span>⭐ 30654</span>
+						<span>🔱 2089</span>
 					</div>
 				<div class="stars-today">⭐ 22185 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/parameter-golf" target="_blank">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
     
 
 
       
-        openai /
+        FujiwaraChoki /
 
-      parameter-golf</a></p>
+      MoneyPrinterV2</a></p>
 				<p>
-      Train the smallest LM you can that fits in 16MB. Best model wins!
+      Automate the process of making money online.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4878</span>
-						<span>🔱 3203</span>
+						<span>⭐ 29850</span>
+						<span>🔱 3196</span>
 					</div>
-				<div class="stars-today">⭐ 4851 stars this month</div>
+				<div class="stars-today">⭐ 14953 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 21350</span>
-						<span>🔱 2033</span>
+						<span>⭐ 21356</span>
+						<span>🔱 2034</span>
 					</div>
 				<div class="stars-today">⭐ 5993 stars this month</div>
 				</div>
@@ -206,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22387</span>
+						<span>⭐ 22402</span>
 						<span>🔱 1832</span>
 					</div>
 				<div class="stars-today">⭐ 18178 stars this month</div>
@@ -228,120 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 159145</span>
-						<span>🔱 24738</span>
+						<span>⭐ 159241</span>
+						<span>🔱 24755</span>
 					</div>
 				<div class="stars-today">⭐ 80363 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
-    
-
-
-      
-        opendataloader-project /
-
-      opendataloader-pdf</a></p>
-				<p>
-      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Java</span>
-						<span>⭐ 17835</span>
-						<span>🔱 1592</span>
-					</div>
-				<div class="stars-today">⭐ 15712 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 51098</span>
-						<span>🔱 9220</span>
-					</div>
-				<div class="stars-today">⭐ 18900 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      My personal directory of skills, straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 15830</span>
-						<span>🔱 1284</span>
-					</div>
-				<div class="stars-today">⭐ 14541 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18886</span>
-						<span>🔱 3463</span>
-					</div>
-				<div class="stars-today">⭐ 7496 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
-    
-
-
-      
-        Yeachan-Heo /
-
-      oh-my-claudecode</a></p>
-				<p>
-      Teams-first Multi-agent orchestration for Claude Code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 29507</span>
-						<span>🔱 2722</span>
-					</div>
-				<div class="stars-today">⭐ 19623 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,32 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 110826</span>
-						<span>🔱 7105</span>
+						<span>⭐ 110880</span>
+						<span>🔱 7109</span>
 					</div>
 				<div class="stars-today">⭐ 19635 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
     
 
 
       
-        microsoft /
+        shiyu-coder /
 
-      VibeVoice</a></p>
+      Kronos</a></p>
 				<p>
-      Open-Source Frontier Voice AI
+      Kronos: A Foundation Model for the Language of Financial Markets
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 39991</span>
-						<span>🔱 4640</span>
+						<span>⭐ 18901</span>
+						<span>🔱 3461</span>
 					</div>
-				<div class="stars-today">⭐ 16411 stars this month</div>
+				<div class="stars-today">⭐ 7496 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,10 +272,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18474</span>
-						<span>🔱 2888</span>
+						<span>⭐ 18492</span>
+						<span>🔱 2890</span>
 					</div>
 				<div class="stars-today">⭐ 4716 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-claudecode" target="_blank">
+    
+
+
+      
+        Yeachan-Heo /
+
+      oh-my-claudecode</a></p>
+				<p>
+      Teams-first Multi-agent orchestration for Claude Code
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29536</span>
+						<span>🔱 2725</span>
+					</div>
+				<div class="stars-today">⭐ 19623 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 51119</span>
+						<span>🔱 9225</span>
+					</div>
+				<div class="stars-today">⭐ 18900 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 39999</span>
+						<span>🔱 4643</span>
+					</div>
+				<div class="stars-today">⭐ 16411 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      VoxCPM</a></p>
+				<p>
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 13964</span>
+						<span>🔱 1668</span>
+					</div>
+				<div class="stars-today">⭐ 7626 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,10 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 156888</span>
-						<span>🔱 13629</span>
+						<span>⭐ 157024</span>
+						<span>🔱 13645</span>
 					</div>
 				<div class="stars-today">⭐ 69275 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18909</span>
+						<span>🔱 2508</span>
+					</div>
+				<div class="stars-today">⭐ 8075 stars this month</div>
 				</div>
 			</div>
 	
@@ -448,10 +426,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27353</span>
-						<span>🔱 3634</span>
+						<span>⭐ 27358</span>
+						<span>🔱 3637</span>
 					</div>
 				<div class="stars-today">⭐ 9504 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/opendataloader-project/opendataloader-pdf" target="_blank">
+    
+
+
+      
+        opendataloader-project /
+
+      opendataloader-pdf</a></p>
+				<p>
+      PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Java</span>
+						<span>⭐ 17852</span>
+						<span>🔱 1592</span>
+					</div>
+				<div class="stars-today">⭐ 15712 stars this month</div>
 				</div>
 			</div>
 	

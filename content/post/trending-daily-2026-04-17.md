@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-17
-date: 2026-04-17T09:05:03Z
+date: 2026-04-17T10:43:52Z
 categories:
 - daily
 keywords:
@@ -16,46 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
     
 
 
       
-        forrestchang /
+        EvoMap /
 
-      andrej-karpathy-skills</a></p>
+      evolver</a></p>
 				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 52508</span>
-						<span>🔱 4374</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 3509</span>
+						<span>🔱 363</span>
 					</div>
-				<div class="stars-today">⭐ 7959 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 60691</span>
-						<span>🔱 5009</span>
-					</div>
-				<div class="stars-today">⭐ 1897 stars today</div>
+				<div class="stars-today">⭐ 812 stars today</div>
 				</div>
 			</div>
 	
@@ -74,208 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3146</span>
-						<span>🔱 346</span>
+						<span>⭐ 3195</span>
+						<span>🔱 352</span>
 					</div>
 				<div class="stars-today">⭐ 872 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source voice synthesis studio
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19409</span>
-						<span>🔱 2235</span>
-					</div>
-				<div class="stars-today">⭐ 880 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/vercel-labs/open-agents" target="_blank">
-    
-
-
-      
-        vercel-labs /
-
-      open-agents</a></p>
-				<p>
-      An open source template for building cloud agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3418</span>
-						<span>🔱 367</span>
-					</div>
-				<div class="stars-today">⭐ 738 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google/magika" target="_blank">
-    
-
-
-      
-        google /
-
-      magika</a></p>
-				<p>
-      Fast and accurate AI powered file content types detection 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15067</span>
-						<span>🔱 814</span>
-					</div>
-				<div class="stars-today">⭐ 854 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/steipete/wacli" target="_blank">
-    
-
-
-      
-        steipete /
-
-      wacli</a></p>
-				<p>
-      WhatsApp CLI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1787</span>
-						<span>🔱 206</span>
-					</div>
-				<div class="stars-today">⭐ 321 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/topoteretes/cognee" target="_blank">
-    
-
-
-      
-        topoteretes /
-
-      cognee</a></p>
-				<p>
-      Knowledge Engine for AI Agent Memory in 6 lines of code
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16039</span>
-						<span>🔱 1650</span>
-					</div>
-				<div class="stars-today">⭐ 170 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/z-lab/dflash" target="_blank">
-    
-
-
-      
-        z-lab /
-
-      dflash</a></p>
-				<p>
-      DFlash: Block Diffusion for Flash Speculative Decoding
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1713</span>
-						<span>🔱 116</span>
-					</div>
-				<div class="stars-today">⭐ 195 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
-    
-
-
-      
-        Lordog /
-
-      dive-into-llms</a></p>
-				<p>
-      《动手学大模型Dive into LLMs》系列编程实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 31154</span>
-						<span>🔱 3774</span>
-					</div>
-				<div class="stars-today">⭐ 1385 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-agents-python</a></p>
-				<p>
-      A lightweight, powerful framework for multi-agent workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21489</span>
-						<span>🔱 3464</span>
-					</div>
-				<div class="stars-today">⭐ 172 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
-    
-
-
-      
-        EvoMap /
-
-      evolver</a></p>
-				<p>
-      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3468</span>
-						<span>🔱 361</span>
-					</div>
-				<div class="stars-today">⭐ 812 stars today</div>
 				</div>
 			</div>
 	
@@ -294,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 2466</span>
-						<span>🔱 270</span>
+						<span>⭐ 2504</span>
+						<span>🔱 271</span>
 					</div>
 				<div class="stars-today">⭐ 375 stars today</div>
 				</div>
@@ -316,10 +96,248 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 9411</span>
-						<span>🔱 1642</span>
+						<span>⭐ 9460</span>
+						<span>🔱 1646</span>
 					</div>
 				<div class="stars-today">⭐ 378 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
+    
+
+
+      
+        Lordog /
+
+      dive-into-llms</a></p>
+				<p>
+      《动手学大模型Dive into LLMs》系列编程实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 31216</span>
+						<span>🔱 3788</span>
+					</div>
+				<div class="stars-today">⭐ 1385 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+    
+
+
+      
+        Donchitos /
+
+      Claude-Code-Game-Studios</a></p>
+				<p>
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 11395</span>
+						<span>🔱 1688</span>
+					</div>
+				<div class="stars-today">⭐ 1107 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source voice synthesis studio
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19476</span>
+						<span>🔱 2244</span>
+					</div>
+				<div class="stars-today">⭐ 880 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lukilabs/craft-agents-oss" target="_blank">
+    
+
+
+      
+        lukilabs /
+
+      craft-agents-oss</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4174</span>
+						<span>🔱 622</span>
+					</div>
+				<div class="stars-today">⭐ 107 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+    
+
+
+      
+        Tracer-Cloud /
+
+      opensre</a></p>
+				<p>
+      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1101</span>
+						<span>🔱 147</span>
+					</div>
+				<div class="stars-today">⭐ 167 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/obra/superpowers" target="_blank">
+    
+
+
+      
+        obra /
+
+      superpowers</a></p>
+				<p>
+      An agentic skills framework & software development methodology that works.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 157024</span>
+						<span>🔱 13645</span>
+					</div>
+				<div class="stars-today">⭐ 2058 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/z-lab/dflash" target="_blank">
+    
+
+
+      
+        z-lab /
+
+      dflash</a></p>
+				<p>
+      DFlash: Block Diffusion for Flash Speculative Decoding
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 1724</span>
+						<span>🔱 117</span>
+					</div>
+				<div class="stars-today">⭐ 195 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-agents-python</a></p>
+				<p>
+      A lightweight, powerful framework for multi-agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21532</span>
+						<span>🔱 3469</span>
+					</div>
+				<div class="stars-today">⭐ 172 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google/magika" target="_blank">
+    
+
+
+      
+        google /
+
+      magika</a></p>
+				<p>
+      Fast and accurate AI powered file content types detection 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 15119</span>
+						<span>🔱 818</span>
+					</div>
+				<div class="stars-today">⭐ 854 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+    
+
+
+      
+        pingdotgg /
+
+      t3code</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9254</span>
+						<span>🔱 1734</span>
+					</div>
+				<div class="stars-today">⭐ 229 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
+    
+
+
+      
+        ChromeDevTools /
+
+      chrome-devtools-mcp</a></p>
+				<p>
+      Chrome DevTools for coding agents
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 35560</span>
+						<span>🔱 2169</span>
+					</div>
+				<div class="stars-today">⭐ 277 stars today</div>
 				</div>
 			</div>
 	

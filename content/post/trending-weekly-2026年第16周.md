@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第16周
-date: 2026-04-17T09:05:03Z
+date: 2026-04-17T10:43:52Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 52508</span>
-						<span>🔱 4374</span>
+						<span>⭐ 53009</span>
+						<span>🔱 4413</span>
 					</div>
 				<div class="stars-today">⭐ 37377 stars this week</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 95325</span>
-						<span>🔱 13322</span>
+						<span>⭐ 95582</span>
+						<span>🔱 13373</span>
 					</div>
 				<div class="stars-today">⭐ 51025 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18901</span>
+						<span>🔱 3461</span>
+					</div>
+				<div class="stars-today">⭐ 6735 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15013</span>
-						<span>🔱 1851</span>
+						<span>⭐ 15076</span>
+						<span>🔱 1859</span>
 					</div>
 				<div class="stars-today">⭐ 10588 stars this week</div>
 				</div>
@@ -96,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 110826</span>
-						<span>🔱 7105</span>
+						<span>⭐ 110880</span>
+						<span>🔱 7109</span>
 					</div>
 				<div class="stars-today">⭐ 14539 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18886</span>
-						<span>🔱 3463</span>
-					</div>
-				<div class="stars-today">⭐ 6735 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18474</span>
-						<span>🔱 2888</span>
-					</div>
-				<div class="stars-today">⭐ 4309 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,54 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13943</span>
-						<span>🔱 1666</span>
+						<span>⭐ 13964</span>
+						<span>🔱 1668</span>
 					</div>
 				<div class="stars-today">⭐ 6344 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
     
 
 
       
-        addyosmani /
+        coleam00 /
 
-      agent-skills</a></p>
+      Archon</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 16702</span>
-						<span>🔱 2126</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18492</span>
+						<span>🔱 2890</span>
 					</div>
-				<div class="stars-today">⭐ 6410 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18877</span>
-						<span>🔱 2500</span>
-					</div>
-				<div class="stars-today">⭐ 4525 stars this week</div>
+				<div class="stars-today">⭐ 4309 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60691</span>
-						<span>🔱 5009</span>
+						<span>⭐ 60845</span>
+						<span>🔱 5024</span>
 					</div>
 				<div class="stars-today">⭐ 12366 stars this week</div>
 				</div>
@@ -250,10 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 55784</span>
-						<span>🔱 9664</span>
+						<span>⭐ 55805</span>
+						<span>🔱 9669</span>
 					</div>
 				<div class="stars-today">⭐ 4672 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 16731</span>
+						<span>🔱 2129</span>
+					</div>
+				<div class="stars-today">⭐ 6410 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
+    
+
+
+      
+        lsdefine /
+
+      GenericAgent</a></p>
+				<p>
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3195</span>
+						<span>🔱 352</span>
+					</div>
+				<div class="stars-today">⭐ 2322 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/steipete/wacli" target="_blank">
+    
+
+
+      
+        steipete /
+
+      wacli</a></p>
+				<p>
+      WhatsApp CLI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 1796</span>
+						<span>🔱 216</span>
+					</div>
+				<div class="stars-today">⭐ 831 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Roff</span>
-						<span>⭐ 69726</span>
-						<span>🔱 15574</span>
+						<span>⭐ 69746</span>
+						<span>🔱 15579</span>
 					</div>
 				<div class="stars-today">⭐ 2855 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rowboatlabs/rowboat" target="_blank">
-    
-
-
-      
-        rowboatlabs /
-
-      rowboat</a></p>
-				<p>
-      Open-source AI coworker, with memory
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 12601</span>
-						<span>🔱 1192</span>
-					</div>
-				<div class="stars-today">⭐ 1603 stars this week</div>
 				</div>
 			</div>
 	
