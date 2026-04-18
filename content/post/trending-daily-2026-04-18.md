@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-18
-date: 2026-04-18T10:27:14Z
+date: 2026-04-18T12:29:01Z
 categories:
 - daily
 keywords:
@@ -16,68 +16,24 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
+				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
     
 
 
       
-        EvoMap /
+        thunderbird /
 
-      evolver</a></p>
+      thunderbolt</a></p>
 				<p>
-      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 4682</span>
-						<span>🔱 454</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 1209</span>
+						<span>🔱 61</span>
 					</div>
-				<div class="stars-today">⭐ 737 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
-    
-
-
-      
-        lsdefine /
-
-      GenericAgent</a></p>
-				<p>
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3996</span>
-						<span>🔱 424</span>
-					</div>
-				<div class="stars-today">⭐ 845 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
-    
-
-
-      
-        SimoneAvogadro /
-
-      android-reverse-engineering-skill</a></p>
-				<p>
-      Claude Code skill to support Android app's reverse engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 2916</span>
-						<span>🔱 296</span>
-					</div>
-				<div class="stars-today">⭐ 538 stars today</div>
+				<div class="stars-today">⭐ 458 stars today</div>
 				</div>
 			</div>
 	
@@ -96,162 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 10050</span>
-						<span>🔱 1686</span>
+						<span>⭐ 10105</span>
+						<span>🔱 1689</span>
 					</div>
-				<div class="stars-today">⭐ 824 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
-    
-
-
-      
-        Lordog /
-
-      dive-into-llms</a></p>
-				<p>
-      《动手学大模型Dive into LLMs》系列编程实践教程
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 31781</span>
-						<span>🔱 3873</span>
-					</div>
-				<div class="stars-today">⭐ 944 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
-    
-
-
-      
-        Donchitos /
-
-      Claude-Code-Game-Studios</a></p>
-				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 12169</span>
-						<span>🔱 1755</span>
-					</div>
-				<div class="stars-today">⭐ 311 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source voice synthesis studio
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20139</span>
-						<span>🔱 2310</span>
-					</div>
-				<div class="stars-today">⭐ 797 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lukilabs/craft-agents-oss" target="_blank">
-    
-
-
-      
-        lukilabs /
-
-      craft-agents-oss</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4354</span>
-						<span>🔱 643</span>
-					</div>
-				<div class="stars-today">⭐ 110 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
-    
-
-
-      
-        Tracer-Cloud /
-
-      opensre</a></p>
-				<p>
-      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1638</span>
-						<span>🔱 178</span>
-					</div>
-				<div class="stars-today">⭐ 184 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
-    
-
-
-      
-        obra /
-
-      superpowers</a></p>
-				<p>
-      An agentic skills framework & software development methodology that works.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 158287</span>
-						<span>🔱 13775</span>
-					</div>
-				<div class="stars-today">⭐ 1713 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/z-lab/dflash" target="_blank">
-    
-
-
-      
-        z-lab /
-
-      dflash</a></p>
-				<p>
-      DFlash: Block Diffusion for Flash Speculative Decoding
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 1844</span>
-						<span>🔱 121</span>
-					</div>
-				<div class="stars-today">⭐ 287 stars today</div>
+				<div class="stars-today">⭐ 617 stars today</div>
 				</div>
 			</div>
 	
@@ -270,74 +74,164 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22004</span>
-						<span>🔱 3510</span>
+						<span>⭐ 22043</span>
+						<span>🔱 3517</span>
 					</div>
-				<div class="stars-today">⭐ 625 stars today</div>
+				<div class="stars-today">⭐ 473 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google/magika" target="_blank">
+				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
     
 
 
       
-        google /
+        EvoMap /
 
-      magika</a></p>
+      evolver</a></p>
 				<p>
-      Fast and accurate AI powered file content types detection 
+      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 15688</span>
-						<span>🔱 874</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 4739</span>
+						<span>🔱 462</span>
 					</div>
-				<div class="stars-today">⭐ 956 stars today</div>
+				<div class="stars-today">⭐ 1150 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
+				<p><a href="https://github.com/deepseek-ai/DeepGEMM" target="_blank">
     
 
 
       
-        pingdotgg /
+        deepseek-ai /
 
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9571</span>
-						<span>🔱 1788</span>
-					</div>
-				<div class="stars-today">⭐ 227 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ChromeDevTools/chrome-devtools-mcp" target="_blank">
-    
-
-
-      
-        ChromeDevTools /
-
-      chrome-devtools-mcp</a></p>
+      DeepGEMM</a></p>
 				<p>
-      Chrome DevTools for coding agents
+      DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 36009</span>
-						<span>🔱 2201</span>
+						<span>🔠 Cuda</span>
+						<span>⭐ 6411</span>
+						<span>🔱 871</span>
 					</div>
-				<div class="stars-today">⭐ 196 stars today</div>
+				<div class="stars-today">⭐ 31 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
+    
+
+
+      
+        Lordog /
+
+      dive-into-llms</a></p>
+				<p>
+      《动手学大模型Dive into LLMs》系列编程实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 31829</span>
+						<span>🔱 3877</span>
+					</div>
+				<div class="stars-today">⭐ 562 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/aaddrick/claude-desktop-debian" target="_blank">
+    
+
+
+      
+        aaddrick /
+
+      claude-desktop-debian</a></p>
+				<p>
+      Claude Desktop for Debian-based Linux distributions
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 3373</span>
+						<span>🔱 378</span>
+					</div>
+				<div class="stars-today">⭐ 39 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rustdesk/rustdesk" target="_blank">
+    
+
+
+      
+        rustdesk /
+
+      rustdesk</a></p>
+				<p>
+      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 111826</span>
+						<span>🔱 16744</span>
+					</div>
+				<div class="stars-today">⭐ 211 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
+    
+
+
+      
+        SimoneAvogadro /
+
+      android-reverse-engineering-skill</a></p>
+				<p>
+      Claude Code skill to support Android app's reverse engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 2950</span>
+						<span>🔱 300</span>
+					</div>
+				<div class="stars-today">⭐ 408 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/tractorjuice/arc-kit" target="_blank">
+    
+
+
+      
+        tractorjuice /
+
+      arc-kit</a></p>
+				<p>
+      Enterprise Architecture Governance & Vendor Procurement Toolkit
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 591</span>
+						<span>🔱 90</span>
+					</div>
+				<div class="stars-today">⭐ 143 stars today</div>
 				</div>
 			</div>
 	

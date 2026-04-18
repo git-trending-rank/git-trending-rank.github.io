@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第16周
-date: 2026-04-18T10:27:14Z
+date: 2026-04-18T12:29:02Z
 categories:
 - weekly
 keywords:
@@ -16,12 +16,12 @@ keywords:
 
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/multica-ai/andrej-karpathy-skills" target="_blank">
     
 
 
       
-        forrestchang /
+        multica-ai /
 
       andrej-karpathy-skills</a></p>
 				<p>
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 56026</span>
-						<span>🔱 4767</span>
+						<span>⭐ 56292</span>
+						<span>🔱 4786</span>
 					</div>
 				<div class="stars-today">⭐ 42267 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 97971</span>
-						<span>🔱 13811</span>
+						<span>⭐ 98214</span>
+						<span>🔱 13855</span>
 					</div>
 				<div class="stars-today">⭐ 47053 stars this week</div>
 				</div>
@@ -74,7 +74,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19164</span>
+						<span>⭐ 19179</span>
 						<span>🔱 3494</span>
 					</div>
 				<div class="stars-today">⭐ 6511 stars this week</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 15772</span>
-						<span>🔱 1944</span>
+						<span>⭐ 15841</span>
+						<span>🔱 1952</span>
 					</div>
 				<div class="stars-today">⭐ 10056 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 61947</span>
+						<span>🔱 5152</span>
+					</div>
+				<div class="stars-today">⭐ 14033 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 111597</span>
-						<span>🔱 7172</span>
+						<span>⭐ 111667</span>
+						<span>🔱 7182</span>
 					</div>
 				<div class="stars-today">⭐ 13214 stars this week</div>
 				</div>
@@ -140,98 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14345</span>
-						<span>🔱 1717</span>
+						<span>⭐ 14377</span>
+						<span>🔱 1719</span>
 					</div>
 				<div class="stars-today">⭐ 5786 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18653</span>
-						<span>🔱 2899</span>
-					</div>
-				<div class="stars-today">⭐ 3745 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 61863</span>
-						<span>🔱 5140</span>
-					</div>
-				<div class="stars-today">⭐ 14033 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56008</span>
-						<span>🔱 9718</span>
-					</div>
-				<div class="stars-today">⭐ 4941 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 17192</span>
-						<span>🔱 2180</span>
-					</div>
-				<div class="stars-today">⭐ 5571 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3996</span>
-						<span>🔱 424</span>
+						<span>⭐ 4040</span>
+						<span>🔱 425</span>
 					</div>
 				<div class="stars-today">⭐ 2375 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56026</span>
+						<span>🔱 9722</span>
+					</div>
+				<div class="stars-today">⭐ 4941 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
+    
+
+
+      
+        EvoMap /
+
+      evolver</a></p>
+				<p>
+      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 4739</span>
+						<span>🔱 462</span>
+					</div>
+				<div class="stars-today">⭐ 2082 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
+    
+
+
+      
+        Lordog /
+
+      dive-into-llms</a></p>
+				<p>
+      《动手学大模型Dive into LLMs》系列编程实践教程
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Jupyter Notebook</span>
+						<span>⭐ 31829</span>
+						<span>🔱 3877</span>
+					</div>
+				<div class="stars-today">⭐ 4980 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18662</span>
+						<span>🔱 2899</span>
+					</div>
+				<div class="stars-today">⭐ 3745 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source voice synthesis studio
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 20190</span>
+						<span>🔱 2313</span>
+					</div>
+				<div class="stars-today">⭐ 5007 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,7 +316,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1873</span>
+						<span>⭐ 1875</span>
 						<span>🔱 218</span>
 					</div>
 				<div class="stars-today">⭐ 1070 stars this week</div>
@@ -280,24 +324,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TapXWorld/ChinaTextbook" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        TapXWorld /
+        addyosmani /
 
-      ChinaTextbook</a></p>
+      agent-skills</a></p>
 				<p>
-      所有小初高、大学PDF教材。
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Roff</span>
-						<span>⭐ 69934</span>
-						<span>🔱 15627</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 17244</span>
+						<span>🔱 2184</span>
 					</div>
-				<div class="stars-today">⭐ 2604 stars this week</div>
+				<div class="stars-today">⭐ 5571 stars this week</div>
 				</div>
 			</div>
 	
