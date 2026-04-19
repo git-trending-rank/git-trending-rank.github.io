@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 19 Apr 2026 10:26:26 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Apr 2026 12:28:13 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年4月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B44%E6%9C%88/</link>
-        <pubDate>Sun, 19 Apr 2026 10:26:26 +0000</pubDate>
+        <pubDate>Sun, 19 Apr 2026 12:28:13 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B44%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 100581&lt;/span&gt;
-						&lt;span&gt;🔱 14296&lt;/span&gt;
+						&lt;span&gt;⭐ 100818&lt;/span&gt;
+						&lt;span&gt;🔱 14340&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 90325 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,10 +55,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 59420&lt;/span&gt;
-						&lt;span&gt;🔱 5130&lt;/span&gt;
+						&lt;span&gt;⭐ 59731&lt;/span&gt;
+						&lt;span&gt;🔱 5172&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 49454 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Donchitos/Claude-Code-Game-Studios&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Donchitos /
+
+      Claude-Code-Game-Studios&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 12931&lt;/span&gt;
+						&lt;span&gt;🔱 1879&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 12450 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 62630&lt;/span&gt;
-						&lt;span&gt;🔱 8103&lt;/span&gt;
+						&lt;span&gt;⭐ 62647&lt;/span&gt;
+						&lt;span&gt;🔱 8108&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 31335 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -99,32 +121,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 31187&lt;/span&gt;
-						&lt;span&gt;🔱 2124&lt;/span&gt;
+						&lt;span&gt;⭐ 31209&lt;/span&gt;
+						&lt;span&gt;🔱 2125&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22697 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Crosstalk-Solutions/project-nomad&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 24375&lt;/span&gt;
-						&lt;span&gt;🔱 2363&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22103 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,32 +143,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Kotlin&lt;/span&gt;
-						&lt;span&gt;⭐ 21526&lt;/span&gt;
-						&lt;span&gt;🔱 2059&lt;/span&gt;
+						&lt;span&gt;⭐ 21533&lt;/span&gt;
+						&lt;span&gt;🔱 2060&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6166 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/FujiwaraChoki/MoneyPrinterV2&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        FujiwaraChoki /
-
-      MoneyPrinterV2&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Automate the process of making money online.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 30039&lt;/span&gt;
-						&lt;span&gt;🔱 3204&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14639 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,32 +165,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 22655&lt;/span&gt;
-						&lt;span&gt;🔱 1862&lt;/span&gt;
+						&lt;span&gt;⭐ 22671&lt;/span&gt;
+						&lt;span&gt;🔱 1863&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18371 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/affaan-m/everything-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 160748&lt;/span&gt;
-						&lt;span&gt;🔱 25004&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 76920 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -231,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19435&lt;/span&gt;
-						&lt;span&gt;🔱 3523&lt;/span&gt;
+						&lt;span&gt;⭐ 19467&lt;/span&gt;
+						&lt;span&gt;🔱 3527&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8106 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -253,32 +209,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 112300&lt;/span&gt;
-						&lt;span&gt;🔱 7260&lt;/span&gt;
+						&lt;span&gt;⭐ 112347&lt;/span&gt;
+						&lt;span&gt;🔱 7263&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 21285 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/coleam00/Archon&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        coleam00 /
-
-      Archon&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 18851&lt;/span&gt;
-						&lt;span&gt;🔱 2919&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5042 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,10 +231,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 14681&lt;/span&gt;
-						&lt;span&gt;🔱 1750&lt;/span&gt;
+						&lt;span&gt;⭐ 14708&lt;/span&gt;
+						&lt;span&gt;🔱 1753&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8348 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/coleam00/Archon&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        coleam00 /
+
+      Archon&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 18858&lt;/span&gt;
+						&lt;span&gt;🔱 2921&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5042 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/affaan-m/everything-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 160816&lt;/span&gt;
+						&lt;span&gt;🔱 25013&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 76920 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Crosstalk-Solutions/project-nomad&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 24391&lt;/span&gt;
+						&lt;span&gt;🔱 2363&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22103 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,8 +319,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 40251&lt;/span&gt;
-						&lt;span&gt;🔱 4667&lt;/span&gt;
+						&lt;span&gt;⭐ 40264&lt;/span&gt;
+						&lt;span&gt;🔱 4668&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16653 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -341,32 +341,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19896&lt;/span&gt;
-						&lt;span&gt;🔱 2650&lt;/span&gt;
+						&lt;span&gt;⭐ 19931&lt;/span&gt;
+						&lt;span&gt;🔱 2658&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8913 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TauricResearch/TradingAgents&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/FujiwaraChoki/MoneyPrinterV2&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        TauricResearch /
+        FujiwaraChoki /
 
-      TradingAgents&lt;/a&gt;&lt;/p&gt;
+      MoneyPrinterV2&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      Automate the process of making money online.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 51561&lt;/span&gt;
-						&lt;span&gt;🔱 9300&lt;/span&gt;
+						&lt;span&gt;⭐ 30049&lt;/span&gt;
+						&lt;span&gt;🔱 3205&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18965 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14639 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -385,8 +385,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 159322&lt;/span&gt;
-						&lt;span&gt;🔱 13874&lt;/span&gt;
+						&lt;span&gt;⭐ 159424&lt;/span&gt;
+						&lt;span&gt;🔱 13880&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 64962 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -407,32 +407,30 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 27604&lt;/span&gt;
-						&lt;span&gt;🔱 3669&lt;/span&gt;
+						&lt;span&gt;⭐ 27612&lt;/span&gt;
+						&lt;span&gt;🔱 3671&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9706 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/hacksider/Deep-Live-Cam&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/LiteRT-LM&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        hacksider /
+        google-ai-edge /
 
-      Deep-Live-Cam&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      real time face swap and one-click video deepfake with only a single image
-    &lt;/p&gt;
+      LiteRT-LM&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 91135&lt;/span&gt;
-						&lt;span&gt;🔱 13274&lt;/span&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 3918&lt;/span&gt;
+						&lt;span&gt;🔱 385&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11307 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2968 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

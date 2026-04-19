@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 19 Apr 2026 10:26:26 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Apr 2026 12:28:12 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-04-19</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-04-19/</link>
-        <pubDate>Sun, 19 Apr 2026 10:26:26 +0000</pubDate>
+        <pubDate>Sun, 19 Apr 2026 12:28:12 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-04-19/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,6 +17,28 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 5221&lt;/span&gt;
+						&lt;span&gt;🔱 873&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1169 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/thunderbird/thunderbolt&#34; target=&#34;_blank&#34;&gt;
@@ -33,186 +55,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1838&lt;/span&gt;
-						&lt;span&gt;🔱 96&lt;/span&gt;
+						&lt;span&gt;⭐ 1898&lt;/span&gt;
+						&lt;span&gt;🔱 98&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 447 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/BasedHardware/omi&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        BasedHardware /
-
-      omi&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI that sees your screen, listens to your conversations and tells you what to do
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Dart&lt;/span&gt;
-						&lt;span&gt;⭐ 10713&lt;/span&gt;
-						&lt;span&gt;🔱 1744&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 609 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-agents-python&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openai /
-
-      openai-agents-python&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A lightweight, powerful framework for multi-agent workflows
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 22713&lt;/span&gt;
-						&lt;span&gt;🔱 3585&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 470 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/EvoMap/evolver&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        EvoMap /
-
-      evolver&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 5217&lt;/span&gt;
-						&lt;span&gt;🔱 504&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1131 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/deepseek-ai/DeepGEMM&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        deepseek-ai /
-
-      DeepGEMM&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Cuda&lt;/span&gt;
-						&lt;span&gt;⭐ 6613&lt;/span&gt;
-						&lt;span&gt;🔱 886&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 31 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Lordog/dive-into-llms&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Lordog /
-
-      dive-into-llms&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      《动手学大模型Dive into LLMs》系列编程实践教程
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 32260&lt;/span&gt;
-						&lt;span&gt;🔱 3918&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 547 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/aaddrick/claude-desktop-debian&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        aaddrick /
-
-      claude-desktop-debian&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Desktop for Debian-based Linux distributions
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 3534&lt;/span&gt;
-						&lt;span&gt;🔱 387&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 44 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rustdesk/rustdesk&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        rustdesk /
-
-      rustdesk&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 112252&lt;/span&gt;
-						&lt;span&gt;🔱 16772&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 393 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/SimoneAvogadro/android-reverse-engineering-skill&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        SimoneAvogadro /
-
-      android-reverse-engineering-skill&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code skill to support Android app&#39;s reverse engineering
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 3359&lt;/span&gt;
-						&lt;span&gt;🔱 340&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 403 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -231,10 +77,162 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 833&lt;/span&gt;
+						&lt;span&gt;⭐ 851&lt;/span&gt;
 						&lt;span&gt;🔱 110&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 135 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-agents-python&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        openai /
+
+      openai-agents-python&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A lightweight, powerful framework for multi-agent workflows
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 22787&lt;/span&gt;
+						&lt;span&gt;🔱 3592&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 470 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/pingdotgg/t3code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        pingdotgg /
+
+      t3code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9687&lt;/span&gt;
+						&lt;span&gt;🔱 1822&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 96 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/paperless-ngx/paperless-ngx&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        paperless-ngx /
+
+      paperless-ngx&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A community-supported supercharged document management system: scan, index and archive all your documents
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 38574&lt;/span&gt;
+						&lt;span&gt;🔱 2477&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 382 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/RuView&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ruvnet /
+
+      RuView&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 47168&lt;/span&gt;
+						&lt;span&gt;🔱 6363&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 118 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/EvoMap/evolver&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        EvoMap /
+
+      evolver&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 5254&lt;/span&gt;
+						&lt;span&gt;🔱 508&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1131 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/BasedHardware/omi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        BasedHardware /
+
+      omi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI that sees your screen, listens to your conversations and tells you what to do
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Dart&lt;/span&gt;
+						&lt;span&gt;⭐ 10774&lt;/span&gt;
+						&lt;span&gt;🔱 1747&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 609 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Donchitos/Claude-Code-Game-Studios&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Donchitos /
+
+      Claude-Code-Game-Studios&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 12931&lt;/span&gt;
+						&lt;span&gt;🔱 1879&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 828 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
