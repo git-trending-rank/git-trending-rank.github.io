@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-19T10:26:26Z
+date: 2026-04-19T12:28:13Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 100581</span>
-						<span>🔱 14296</span>
+						<span>⭐ 100818</span>
+						<span>🔱 14340</span>
 					</div>
 				<div class="stars-today">⭐ 90325 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 59420</span>
-						<span>🔱 5130</span>
+						<span>⭐ 59731</span>
+						<span>🔱 5172</span>
 					</div>
 				<div class="stars-today">⭐ 49454 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+    
+
+
+      
+        Donchitos /
+
+      Claude-Code-Game-Studios</a></p>
+				<p>
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 12931</span>
+						<span>🔱 1879</span>
+					</div>
+				<div class="stars-today">⭐ 12450 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 62630</span>
-						<span>🔱 8103</span>
+						<span>⭐ 62647</span>
+						<span>🔱 8108</span>
 					</div>
 				<div class="stars-today">⭐ 31335 stars this month</div>
 				</div>
@@ -96,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31187</span>
-						<span>🔱 2124</span>
+						<span>⭐ 31209</span>
+						<span>🔱 2125</span>
 					</div>
 				<div class="stars-today">⭐ 22697 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
-    
-
-
-      
-        Crosstalk-Solutions /
-
-      project-nomad</a></p>
-				<p>
-      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 24375</span>
-						<span>🔱 2363</span>
-					</div>
-				<div class="stars-today">⭐ 22103 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 21526</span>
-						<span>🔱 2059</span>
+						<span>⭐ 21533</span>
+						<span>🔱 2060</span>
 					</div>
 				<div class="stars-today">⭐ 6166 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
-    
-
-
-      
-        FujiwaraChoki /
-
-      MoneyPrinterV2</a></p>
-				<p>
-      Automate the process of making money online.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 30039</span>
-						<span>🔱 3204</span>
-					</div>
-				<div class="stars-today">⭐ 14639 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22655</span>
-						<span>🔱 1862</span>
+						<span>⭐ 22671</span>
+						<span>🔱 1863</span>
 					</div>
 				<div class="stars-today">⭐ 18371 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 160748</span>
-						<span>🔱 25004</span>
-					</div>
-				<div class="stars-today">⭐ 76920 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19435</span>
-						<span>🔱 3523</span>
+						<span>⭐ 19467</span>
+						<span>🔱 3527</span>
 					</div>
 				<div class="stars-today">⭐ 8106 stars this month</div>
 				</div>
@@ -250,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 112300</span>
-						<span>🔱 7260</span>
+						<span>⭐ 112347</span>
+						<span>🔱 7263</span>
 					</div>
 				<div class="stars-today">⭐ 21285 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18851</span>
-						<span>🔱 2919</span>
-					</div>
-				<div class="stars-today">⭐ 5042 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,10 +228,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14681</span>
-						<span>🔱 1750</span>
+						<span>⭐ 14708</span>
+						<span>🔱 1753</span>
 					</div>
 				<div class="stars-today">⭐ 8348 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 18858</span>
+						<span>🔱 2921</span>
+					</div>
+				<div class="stars-today">⭐ 5042 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 160816</span>
+						<span>🔱 25013</span>
+					</div>
+				<div class="stars-today">⭐ 76920 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Crosstalk-Solutions/project-nomad" target="_blank">
+    
+
+
+      
+        Crosstalk-Solutions /
+
+      project-nomad</a></p>
+				<p>
+      Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 24391</span>
+						<span>🔱 2363</span>
+					</div>
+				<div class="stars-today">⭐ 22103 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40251</span>
-						<span>🔱 4667</span>
+						<span>⭐ 40264</span>
+						<span>🔱 4668</span>
 					</div>
 				<div class="stars-today">⭐ 16653 stars this month</div>
 				</div>
@@ -338,32 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19896</span>
-						<span>🔱 2650</span>
+						<span>⭐ 19931</span>
+						<span>🔱 2658</span>
 					</div>
 				<div class="stars-today">⭐ 8913 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+				<p><a href="https://github.com/FujiwaraChoki/MoneyPrinterV2" target="_blank">
     
 
 
       
-        TauricResearch /
+        FujiwaraChoki /
 
-      TradingAgents</a></p>
+      MoneyPrinterV2</a></p>
 				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
+      Automate the process of making money online.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 51561</span>
-						<span>🔱 9300</span>
+						<span>⭐ 30049</span>
+						<span>🔱 3205</span>
 					</div>
-				<div class="stars-today">⭐ 18965 stars this month</div>
+				<div class="stars-today">⭐ 14639 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 159322</span>
-						<span>🔱 13874</span>
+						<span>⭐ 159424</span>
+						<span>🔱 13880</span>
 					</div>
 				<div class="stars-today">⭐ 64962 stars this month</div>
 				</div>
@@ -404,32 +404,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27604</span>
-						<span>🔱 3669</span>
+						<span>⭐ 27612</span>
+						<span>🔱 3671</span>
 					</div>
 				<div class="stars-today">⭐ 9706 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
     
 
 
       
-        hacksider /
+        google-ai-edge /
 
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
+      LiteRT-LM</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 91135</span>
-						<span>🔱 13274</span>
+						<span>🔠 C++</span>
+						<span>⭐ 3918</span>
+						<span>🔱 385</span>
 					</div>
-				<div class="stars-today">⭐ 11307 stars this month</div>
+				<div class="stars-today">⭐ 2968 stars this month</div>
 				</div>
 			</div>
 	

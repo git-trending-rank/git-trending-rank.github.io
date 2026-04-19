@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第16周
-date: 2026-04-19T10:26:26Z
+date: 2026-04-19T12:28:12Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 59420</span>
-						<span>🔱 5130</span>
+						<span>⭐ 59731</span>
+						<span>🔱 5172</span>
 					</div>
 				<div class="stars-today">⭐ 44465 stars this week</div>
 				</div>
@@ -52,10 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 100581</span>
-						<span>🔱 14296</span>
+						<span>⭐ 100818</span>
+						<span>🔱 14340</span>
 					</div>
 				<div class="stars-today">⭐ 42612 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 62890</span>
+						<span>🔱 5258</span>
+					</div>
+				<div class="stars-today">⭐ 14371 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
+    
+
+
+      
+        EvoMap /
+
+      evolver</a></p>
+				<p>
+      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5254</span>
+						<span>🔱 508</span>
+					</div>
+				<div class="stars-today">⭐ 2964 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
+    
+
+
+      
+        lsdefine /
+
+      GenericAgent</a></p>
+				<p>
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4378</span>
+						<span>🔱 466</span>
+					</div>
+				<div class="stars-today">⭐ 3218 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19435</span>
-						<span>🔱 3523</span>
+						<span>⭐ 19467</span>
+						<span>🔱 3527</span>
 					</div>
 				<div class="stars-today">⭐ 6026 stars this week</div>
 				</div>
@@ -96,98 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 16418</span>
-						<span>🔱 2030</span>
+						<span>⭐ 16467</span>
+						<span>🔱 2040</span>
 					</div>
 				<div class="stars-today">⭐ 8756 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 62810</span>
-						<span>🔱 5258</span>
-					</div>
-				<div class="stars-today">⭐ 14371 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 112300</span>
-						<span>🔱 7260</span>
-					</div>
-				<div class="stars-today">⭐ 10759 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
-    
-
-
-      
-        OpenBMB /
-
-      VoxCPM</a></p>
-				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 14681</span>
-						<span>🔱 1750</span>
-					</div>
-				<div class="stars-today">⭐ 5051 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
-    
-
-
-      
-        lsdefine /
-
-      GenericAgent</a></p>
-				<p>
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 4356</span>
-						<span>🔱 463</span>
-					</div>
-				<div class="stars-today">⭐ 3218 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56232</span>
-						<span>🔱 9758</span>
+						<span>⭐ 56254</span>
+						<span>🔱 9764</span>
 					</div>
 				<div class="stars-today">⭐ 4818 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
-        EvoMap /
+        microsoft /
 
-      evolver</a></p>
+      markitdown</a></p>
 				<p>
-      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 5217</span>
-						<span>🔱 504</span>
+						<span>🔠 Python</span>
+						<span>⭐ 112347</span>
+						<span>🔱 7263</span>
 					</div>
-				<div class="stars-today">⭐ 2964 stars this week</div>
+				<div class="stars-today">⭐ 10759 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32260</span>
-						<span>🔱 3918</span>
+						<span>⭐ 32283</span>
+						<span>🔱 3920</span>
 					</div>
 				<div class="stars-today">⭐ 5265 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 18851</span>
-						<span>🔱 2919</span>
-					</div>
-				<div class="stars-today">⭐ 2534 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20757</span>
-						<span>🔱 2380</span>
+						<span>⭐ 20798</span>
+						<span>🔱 2388</span>
 					</div>
 				<div class="stars-today">⭐ 5589 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/steipete/wacli" target="_blank">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
     
 
 
       
-        steipete /
+        OpenBMB /
 
-      wacli</a></p>
+      VoxCPM</a></p>
 				<p>
-      WhatsApp CLI
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1946</span>
-						<span>🔱 225</span>
+						<span>🔠 Python</span>
+						<span>⭐ 14708</span>
+						<span>🔱 1753</span>
 					</div>
-				<div class="stars-today">⭐ 1035 stars this week</div>
+				<div class="stars-today">⭐ 5051 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
+    
+
+
+      
+        SimoneAvogadro /
+
+      android-reverse-engineering-skill</a></p>
+				<p>
+      Claude Code skill to support Android app's reverse engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 3399</span>
+						<span>🔱 345</span>
+					</div>
+				<div class="stars-today">⭐ 1634 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +316,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 17691</span>
-						<span>🔱 2234</span>
+						<span>⭐ 17723</span>
+						<span>🔱 2235</span>
 					</div>
 				<div class="stars-today">⭐ 4910 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BasedHardware/omi" target="_blank">
+    
+
+
+      
+        BasedHardware /
+
+      omi</a></p>
+				<p>
+      AI that sees your screen, listens to your conversations and tells you what to do
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Dart</span>
+						<span>⭐ 10774</span>
+						<span>🔱 1747</span>
+					</div>
+				<div class="stars-today">⭐ 2443 stars this week</div>
 				</div>
 			</div>
 	
