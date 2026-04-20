@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第17周
-date: 2026-04-20T09:28:27Z
+date: 2026-04-20T11:07:36Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 63639</span>
-						<span>🔱 5546</span>
+						<span>⭐ 63988</span>
+						<span>🔱 5584</span>
 					</div>
 				<div class="stars-today">⭐ 45381 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 103759</span>
-						<span>🔱 14791</span>
+						<span>⭐ 104002</span>
+						<span>🔱 14828</span>
 					</div>
 				<div class="stars-today">⭐ 38194 stars this week</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 63744</span>
-						<span>🔱 5351</span>
+						<span>⭐ 63804</span>
+						<span>🔱 5355</span>
 					</div>
 				<div class="stars-today">⭐ 14556 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
-    
-
-
-      
-        EvoMap /
-
-      evolver</a></p>
-				<p>
-      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 5816</span>
-						<span>🔱 555</span>
-					</div>
-				<div class="stars-today">⭐ 3434 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,98 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4740</span>
-						<span>🔱 508</span>
+						<span>⭐ 4772</span>
+						<span>🔱 514</span>
 					</div>
 				<div class="stars-today">⭐ 3512 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
     
 
 
       
-        shiyu-coder /
+        EvoMap /
 
-      Kronos</a></p>
+      evolver</a></p>
 				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
+      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19706</span>
-						<span>🔱 3561</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5855</span>
+						<span>🔱 561</span>
 					</div>
-				<div class="stars-today">⭐ 4455 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      multica</a></p>
-				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 17175</span>
-						<span>🔱 2111</span>
-					</div>
-				<div class="stars-today">⭐ 7831 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund</a></p>
-				<p>
-      An AI Hedge Fund Team
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 56456</span>
-						<span>🔱 9806</span>
-					</div>
-				<div class="stars-today">⭐ 4458 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 113038</span>
-						<span>🔱 7324</span>
-					</div>
-				<div class="stars-today">⭐ 9018 stars this week</div>
+				<div class="stars-today">⭐ 3434 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 32737</span>
-						<span>🔱 3989</span>
+						<span>⭐ 32773</span>
+						<span>🔱 3997</span>
 					</div>
 				<div class="stars-today">⭐ 5497 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/ai-hedge-fund" target="_blank">
+    
+
+
+      
+        virattt /
+
+      ai-hedge-fund</a></p>
+				<p>
+      An AI Hedge Fund Team
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 56475</span>
+						<span>🔱 9808</span>
+					</div>
+				<div class="stars-today">⭐ 4458 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      multica</a></p>
+				<p>
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 17240</span>
+						<span>🔱 2120</span>
+					</div>
+				<div class="stars-today">⭐ 7831 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,32 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 21446</span>
-						<span>🔱 2463</span>
+						<span>⭐ 21485</span>
+						<span>🔱 2468</span>
 					</div>
 				<div class="stars-today">⭐ 5724 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
     
 
 
       
-        OpenBMB /
+        shiyu-coder /
 
-      VoxCPM</a></p>
+      Kronos</a></p>
 				<p>
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+      Kronos: A Foundation Model for the Language of Financial Markets
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14973</span>
-						<span>🔱 1775</span>
+						<span>⭐ 19726</span>
+						<span>🔱 3561</span>
 					</div>
-				<div class="stars-today">⭐ 4136 stars this week</div>
+				<div class="stars-today">⭐ 4455 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,32 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 3761</span>
+						<span>⭐ 3784</span>
 						<span>🔱 395</span>
 					</div>
 				<div class="stars-today">⭐ 1921 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 18109</span>
-						<span>🔱 2256</span>
-					</div>
-				<div class="stars-today">⭐ 4607 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +272,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 11467</span>
-						<span>🔱 1800</span>
+						<span>⭐ 11514</span>
+						<span>🔱 1804</span>
 					</div>
 				<div class="stars-today">⭐ 2896 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 113090</span>
+						<span>🔱 7330</span>
+					</div>
+				<div class="stars-today">⭐ 9018 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
+    
+
+
+      
+        chrislgarry /
+
+      Apollo-11</a></p>
+				<p>
+      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Assembly</span>
+						<span>⭐ 67375</span>
+						<span>🔱 7655</span>
+					</div>
+				<div class="stars-today">⭐ 2036 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/OpenBMB/VoxCPM" target="_blank">
+    
+
+
+      
+        OpenBMB /
+
+      VoxCPM</a></p>
+				<p>
+      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 14993</span>
+						<span>🔱 1776</span>
+					</div>
+				<div class="stars-today">⭐ 4136 stars this week</div>
 				</div>
 			</div>
 	

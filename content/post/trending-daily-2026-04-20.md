@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-20
-date: 2026-04-20T09:28:26Z
+date: 2026-04-20T11:07:36Z
 categories:
 - daily
 keywords:
@@ -30,118 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7919</span>
-						<span>🔱 1152</span>
+						<span>⭐ 8136</span>
+						<span>🔱 1173</span>
 					</div>
 				<div class="stars-today">⭐ 1254 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
-    
-
-
-      
-        thunderbird /
-
-      thunderbolt</a></p>
-				<p>
-      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 2489</span>
-						<span>🔱 143</span>
-					</div>
-				<div class="stars-today">⭐ 695 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/tractorjuice/arc-kit" target="_blank">
-    
-
-
-      
-        tractorjuice /
-
-      arc-kit</a></p>
-				<p>
-      Enterprise Architecture Governance & Vendor Procurement Toolkit
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 HTML</span>
-						<span>⭐ 1126</span>
-						<span>🔱 144</span>
-					</div>
-				<div class="stars-today">⭐ 263 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
-    
-
-
-      
-        openai /
-
-      openai-agents-python</a></p>
-				<p>
-      A lightweight, powerful framework for multi-agent workflows
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23591</span>
-						<span>🔱 3667</span>
-					</div>
-				<div class="stars-today">⭐ 752 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pingdotgg/t3code" target="_blank">
-    
-
-
-      
-        pingdotgg /
-
-      t3code</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10058</span>
-						<span>🔱 1858</span>
-					</div>
-				<div class="stars-today">⭐ 109 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
-    
-
-
-      
-        paperless-ngx /
-
-      paperless-ngx</a></p>
-				<p>
-      A community-supported supercharged document management system: scan, index and archive all your documents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 39118</span>
-						<span>🔱 2512</span>
-					</div>
-				<div class="stars-today">⭐ 393 stars today</div>
 				</div>
 			</div>
 	
@@ -160,76 +52,186 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 47761</span>
-						<span>🔱 6407</span>
+						<span>⭐ 47813</span>
+						<span>🔱 6415</span>
 					</div>
 				<div class="stars-today">⭐ 149 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
+				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
     
 
 
       
-        EvoMap /
+        thunderbird /
 
-      evolver</a></p>
+      thunderbolt</a></p>
 				<p>
-      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
+      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 5816</span>
-						<span>🔱 555</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 2530</span>
+						<span>🔱 146</span>
 					</div>
-				<div class="stars-today">⭐ 527 stars today</div>
+				<div class="stars-today">⭐ 695 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/BasedHardware/omi" target="_blank">
+				<p><a href="https://github.com/paperless-ngx/paperless-ngx" target="_blank">
     
 
 
       
-        BasedHardware /
+        paperless-ngx /
 
-      omi</a></p>
+      paperless-ngx</a></p>
 				<p>
-      AI that sees your screen, listens to your conversations and tells you what to do
+      A community-supported supercharged document management system: scan, index and archive all your documents
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Dart</span>
-						<span>⭐ 11467</span>
-						<span>🔱 1800</span>
+						<span>🔠 Python</span>
+						<span>⭐ 39150</span>
+						<span>🔱 2515</span>
 					</div>
-				<div class="stars-today">⭐ 685 stars today</div>
+				<div class="stars-today">⭐ 393 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+				<p><a href="https://github.com/tractorjuice/arc-kit" target="_blank">
     
 
 
       
-        Donchitos /
+        tractorjuice /
 
-      Claude-Code-Game-Studios</a></p>
+      arc-kit</a></p>
 				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+      Enterprise Architecture Governance & Vendor Procurement Toolkit
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 1159</span>
+						<span>🔱 148</span>
+					</div>
+				<div class="stars-today">⭐ 263 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 49423</span>
+						<span>🔱 8100</span>
+					</div>
+				<div class="stars-today">⭐ 343 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-agents-python</a></p>
+				<p>
+      A lightweight, powerful framework for multi-agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23640</span>
+						<span>🔱 3669</span>
+					</div>
+				<div class="stars-today">⭐ 752 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepseek-ai/DeepGEMM" target="_blank">
+    
+
+
+      
+        deepseek-ai /
+
+      DeepGEMM</a></p>
+				<p>
+      DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Cuda</span>
+						<span>⭐ 6720</span>
+						<span>🔱 893</span>
+					</div>
+				<div class="stars-today">⭐ 155 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pi-hole/pi-hole" target="_blank">
+    
+
+
+      
+        pi-hole /
+
+      pi-hole</a></p>
+				<p>
+      A black hole for Internet advertisements
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 14076</span>
-						<span>🔱 1983</span>
+						<span>⭐ 56754</span>
+						<span>🔱 3027</span>
 					</div>
-				<div class="stars-today">⭐ 704 stars today</div>
+				<div class="stars-today">⭐ 154 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/XTLS/Xray-core" target="_blank">
+    
+
+
+      
+        XTLS /
+
+      Xray-core</a></p>
+				<p>
+      Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 37282</span>
+						<span>🔱 5199</span>
+					</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	
