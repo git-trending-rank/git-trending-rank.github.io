@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第17周
-date: 2026-04-21T09:14:02Z
+date: 2026-04-21T10:55:15Z
 categories:
 - weekly
 keywords:
@@ -30,54 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 69341</span>
-						<span>🔱 6269</span>
+						<span>⭐ 69734</span>
+						<span>🔱 6314</span>
 					</div>
 				<div class="stars-today">⭐ 44394 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 106708</span>
-						<span>🔱 15285</span>
-					</div>
-				<div class="stars-today">⭐ 30630 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 64731</span>
-						<span>🔱 5445</span>
-					</div>
-				<div class="stars-today">⭐ 12472 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5248</span>
-						<span>🔱 560</span>
+						<span>⭐ 5284</span>
+						<span>🔱 565</span>
 					</div>
 				<div class="stars-today">⭐ 3914 stars this week</div>
 				</div>
@@ -118,10 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6139</span>
-						<span>🔱 586</span>
+						<span>⭐ 6160</span>
+						<span>🔱 589</span>
 					</div>
 				<div class="stars-today">⭐ 4032 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 106928</span>
+						<span>🔱 15324</span>
+					</div>
+				<div class="stars-today">⭐ 30630 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 64779</span>
+						<span>🔱 5450</span>
+					</div>
+				<div class="stars-today">⭐ 12472 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 33154</span>
-						<span>🔱 4047</span>
+						<span>⭐ 33186</span>
+						<span>🔱 4052</span>
 					</div>
 				<div class="stars-today">⭐ 5703 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
+    
+
+
+      
+        SimoneAvogadro /
+
+      android-reverse-engineering-skill</a></p>
+				<p>
+      Claude Code skill to support Android app's reverse engineering
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 4264</span>
+						<span>🔱 475</span>
+					</div>
+				<div class="stars-today">⭐ 2299 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+    
+
+
+      
+        jamiepine /
+
+      voicebox</a></p>
+				<p>
+      The open-source voice synthesis studio
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 21957</span>
+						<span>🔱 2536</span>
+					</div>
+				<div class="stars-today">⭐ 5936 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 56664</span>
-						<span>🔱 9840</span>
+						<span>⭐ 56680</span>
+						<span>🔱 9845</span>
 					</div>
 				<div class="stars-today">⭐ 3950 stars this week</div>
 				</div>
@@ -184,76 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 18033</span>
-						<span>🔱 2216</span>
+						<span>⭐ 18107</span>
+						<span>🔱 2227</span>
 					</div>
 				<div class="stars-today">⭐ 7009 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
-    
-
-
-      
-        jamiepine /
-
-      voicebox</a></p>
-				<p>
-      The open-source voice synthesis studio
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21933</span>
-						<span>🔱 2533</span>
-					</div>
-				<div class="stars-today">⭐ 5936 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19941</span>
-						<span>🔱 3587</span>
-					</div>
-				<div class="stars-today">⭐ 3227 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
-    
-
-
-      
-        SimoneAvogadro /
-
-      android-reverse-engineering-skill</a></p>
-				<p>
-      Claude Code skill to support Android app's reverse engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 4231</span>
-						<span>🔱 465</span>
-					</div>
-				<div class="stars-today">⭐ 2299 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,54 +250,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 11719</span>
-						<span>🔱 1825</span>
+						<span>⭐ 11725</span>
+						<span>🔱 1828</span>
 					</div>
 				<div class="stars-today">⭐ 3634 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
     
 
 
       
-        microsoft /
+        openai /
 
-      markitdown</a></p>
+      openai-agents-python</a></p>
 				<p>
-      Python tool for converting files and office documents to Markdown.
+      A lightweight, powerful framework for multi-agent workflows
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 113700</span>
-						<span>🔱 7386</span>
+						<span>⭐ 24244</span>
+						<span>🔱 3720</span>
 					</div>
-				<div class="stars-today">⭐ 7084 stars this week</div>
+				<div class="stars-today">⭐ 3078 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/chrislgarry/Apollo-11" target="_blank">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
     
 
 
       
-        chrislgarry /
+        Tracer-Cloud /
 
-      Apollo-11</a></p>
+      opensre</a></p>
 				<p>
-      Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
+      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Assembly</span>
-						<span>⭐ 67464</span>
-						<span>🔱 7659</span>
+						<span>🔠 Python</span>
+						<span>⭐ 2006</span>
+						<span>🔱 236</span>
 					</div>
-				<div class="stars-today">⭐ 1901 stars this week</div>
+				<div class="stars-today">⭐ 1368 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/z-lab/dflash" target="_blank">
+    
+
+
+      
+        z-lab /
+
+      dflash</a></p>
+				<p>
+      DFlash: Block Diffusion for Flash Speculative Decoding
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 2019</span>
+						<span>🔱 141</span>
+					</div>
+				<div class="stars-today">⭐ 868 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19955</span>
+						<span>🔱 3589</span>
+					</div>
+				<div class="stars-today">⭐ 3227 stars this week</div>
 				</div>
 			</div>
 	
@@ -338,10 +360,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1387</span>
-						<span>🔱 298</span>
+						<span>⭐ 1394</span>
+						<span>🔱 299</span>
 					</div>
 				<div class="stars-today">⭐ 487 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 113755</span>
+						<span>🔱 7388</span>
+					</div>
+				<div class="stars-today">⭐ 7084 stars this week</div>
 				</div>
 			</div>
 	
@@ -360,8 +404,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15214</span>
-						<span>🔱 1799</span>
+						<span>⭐ 15232</span>
+						<span>🔱 1800</span>
 					</div>
 				<div class="stars-today">⭐ 3189 stars this week</div>
 				</div>

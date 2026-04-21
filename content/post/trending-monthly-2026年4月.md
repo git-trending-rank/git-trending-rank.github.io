@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-21T09:14:02Z
+date: 2026-04-21T10:55:15Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 106708</span>
-						<span>🔱 15285</span>
+						<span>⭐ 106928</span>
+						<span>🔱 15324</span>
 					</div>
 				<div class="stars-today">⭐ 95651 stars this month</div>
 				</div>
@@ -52,54 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 69341</span>
-						<span>🔱 6269</span>
+						<span>⭐ 69734</span>
+						<span>🔱 6314</span>
 					</div>
 				<div class="stars-today">⭐ 57640 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 13921</span>
-						<span>🔱 1732</span>
-					</div>
-				<div class="stars-today">⭐ 13494 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
-    
-
-
-      
-        Donchitos /
-
-      Claude-Code-Game-Studios</a></p>
-				<p>
-      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 14636</span>
-						<span>🔱 2076</span>
-					</div>
-				<div class="stars-today">⭐ 14210 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 31726</span>
-						<span>🔱 2147</span>
+						<span>⭐ 31747</span>
+						<span>🔱 2148</span>
 					</div>
 				<div class="stars-today">⭐ 23107 stars this month</div>
 				</div>
@@ -140,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 21695</span>
-						<span>🔱 2081</span>
+						<span>⭐ 21697</span>
+						<span>🔱 2080</span>
 					</div>
 				<div class="stars-today">⭐ 6317 stars this month</div>
 				</div>
@@ -162,54 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19941</span>
-						<span>🔱 3587</span>
+						<span>⭐ 19955</span>
+						<span>🔱 3589</span>
 					</div>
 				<div class="stars-today">⭐ 8635 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23152</span>
-						<span>🔱 1913</span>
-					</div>
-				<div class="stars-today">⭐ 18684 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 63119</span>
-						<span>🔱 8191</span>
-					</div>
-				<div class="stars-today">⭐ 31390 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,76 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15214</span>
-						<span>🔱 1799</span>
+						<span>⭐ 15232</span>
+						<span>🔱 1800</span>
 					</div>
 				<div class="stars-today">⭐ 8975 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
     
 
 
       
-        coleam00 /
+        mvanhorn /
 
-      Archon</a></p>
+      last30days-skill</a></p>
 				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19146</span>
-						<span>🔱 2956</span>
-					</div>
-				<div class="stars-today">⭐ 5389 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40532</span>
-						<span>🔱 4681</span>
+						<span>⭐ 23170</span>
+						<span>🔱 1916</span>
 					</div>
-				<div class="stars-today">⭐ 16883 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 113700</span>
-						<span>🔱 7386</span>
-					</div>
-				<div class="stars-today">⭐ 22626 stars this month</div>
+				<div class="stars-today">⭐ 18684 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,10 +184,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20591</span>
-						<span>🔱 2780</span>
+						<span>⭐ 20608</span>
+						<span>🔱 2782</span>
 					</div>
 				<div class="stars-today">⭐ 9732 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40540</span>
+						<span>🔱 4682</span>
+					</div>
+				<div class="stars-today">⭐ 16883 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19155</span>
+						<span>🔱 2960</span>
+					</div>
+				<div class="stars-today">⭐ 5389 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 113755</span>
+						<span>🔱 7388</span>
+					</div>
+				<div class="stars-today">⭐ 22626 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Donchitos/Claude-Code-Game-Studios" target="_blank">
+    
+
+
+      
+        Donchitos /
+
+      Claude-Code-Game-Studios</a></p>
+				<p>
+      Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 14674</span>
+						<span>🔱 2081</span>
+					</div>
+				<div class="stars-today">⭐ 14210 stars this month</div>
 				</div>
 			</div>
 	
@@ -338,30 +294,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 162608</span>
-						<span>🔱 25262</span>
+						<span>⭐ 162689</span>
+						<span>🔱 25272</span>
 					</div>
 				<div class="stars-today">⭐ 73574 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
     
 
 
       
-        google-ai-edge /
+        bytedance /
 
-      LiteRT-LM</a></p>
-				<p></p>
+      deer-flow</a></p>
+				<p>
+      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4045</span>
-						<span>🔱 395</span>
+						<span>🔠 Python</span>
+						<span>⭐ 63140</span>
+						<span>🔱 8193</span>
 					</div>
-				<div class="stars-today">⭐ 3061 stars this month</div>
+				<div class="stars-today">⭐ 31390 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,10 +338,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 27839</span>
-						<span>🔱 3703</span>
+						<span>⭐ 27842</span>
+						<span>🔱 3705</span>
 					</div>
 				<div class="stars-today">⭐ 9938 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/pascalorg/editor" target="_blank">
+    
+
+
+      
+        pascalorg /
+
+      editor</a></p>
+				<p>
+      Create and share 3D architectural projects.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 13930</span>
+						<span>🔱 1736</span>
+					</div>
+				<div class="stars-today">⭐ 13494 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT-LM</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4048</span>
+						<span>🔱 394</span>
+					</div>
+				<div class="stars-today">⭐ 3061 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,32 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91432</span>
-						<span>🔱 13302</span>
+						<span>⭐ 91457</span>
+						<span>🔱 13304</span>
 					</div>
 				<div class="stars-today">⭐ 11503 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/obra/superpowers" target="_blank">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
     
 
 
       
-        obra /
+        Fincept-Corporation /
 
-      superpowers</a></p>
+      FinceptTerminal</a></p>
 				<p>
-      An agentic skills framework & software development methodology that works.
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 162236</span>
-						<span>🔱 14164</span>
+						<span>🔠 Python</span>
+						<span>⭐ 10731</span>
+						<span>🔱 1430</span>
 					</div>
-				<div class="stars-today">⭐ 61407 stars this month</div>
+				<div class="stars-today">⭐ 7938 stars this month</div>
 				</div>
 			</div>
 	
