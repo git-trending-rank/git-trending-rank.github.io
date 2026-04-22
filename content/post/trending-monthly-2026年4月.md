@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-22T09:08:10Z
+date: 2026-04-22T10:54:01Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 109337</span>
-						<span>🔱 15808</span>
+						<span>⭐ 109559</span>
+						<span>🔱 15845</span>
 					</div>
 				<div class="stars-today">⭐ 98304 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 74048</span>
-						<span>🔱 6848</span>
+						<span>⭐ 74374</span>
+						<span>🔱 6886</span>
 					</div>
 				<div class="stars-today">⭐ 63346 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32027</span>
-						<span>🔱 2167</span>
+						<span>⭐ 32047</span>
+						<span>🔱 2168</span>
 					</div>
 				<div class="stars-today">⭐ 23317 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 21787</span>
-						<span>🔱 2100</span>
-					</div>
-				<div class="stars-today">⭐ 6384 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20129</span>
-						<span>🔱 3608</span>
+						<span>⭐ 20142</span>
+						<span>🔱 3609</span>
 					</div>
 				<div class="stars-today">⭐ 8841 stars this month</div>
 				</div>
@@ -140,32 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15450</span>
-						<span>🔱 1825</span>
+						<span>⭐ 15469</span>
+						<span>🔱 1826</span>
 					</div>
 				<div class="stars-today">⭐ 9257 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
     
 
 
       
-        mvanhorn /
+        google-ai-edge /
 
-      last30days-skill</a></p>
+      gallery</a></p>
 				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23395</span>
-						<span>🔱 1937</span>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 21799</span>
+						<span>🔱 2099</span>
 					</div>
-				<div class="stars-today">⭐ 18946 stars this month</div>
+				<div class="stars-today">⭐ 6384 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20878</span>
-						<span>🔱 2820</span>
+						<span>⭐ 20904</span>
+						<span>🔱 2823</span>
 					</div>
 				<div class="stars-today">⭐ 9982 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 40652</span>
-						<span>🔱 4692</span>
-					</div>
-				<div class="stars-today">⭐ 16944 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19277</span>
-						<span>🔱 2982</span>
+						<span>⭐ 19288</span>
+						<span>🔱 2983</span>
 					</div>
 				<div class="stars-today">⭐ 5550 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 40659</span>
+						<span>🔱 4694</span>
+					</div>
+				<div class="stars-today">⭐ 16944 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 114418</span>
-						<span>🔱 7451</span>
+						<span>⭐ 114473</span>
+						<span>🔱 7458</span>
 					</div>
 				<div class="stars-today">⭐ 23017 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23418</span>
+						<span>🔱 1938</span>
+					</div>
+				<div class="stars-today">⭐ 18946 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal</a></p>
+				<p>
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12479</span>
+						<span>🔱 1637</span>
+					</div>
+				<div class="stars-today">⭐ 8205 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,98 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 15206</span>
-						<span>🔱 2160</span>
+						<span>⭐ 15239</span>
+						<span>🔱 2166</span>
 					</div>
 				<div class="stars-today">⭐ 14225 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code</a></p>
-				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 163610</span>
-						<span>🔱 25391</span>
-					</div>
-				<div class="stars-today">⭐ 71767 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 63359</span>
-						<span>🔱 8220</span>
-					</div>
-				<div class="stars-today">⭐ 31537 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
-    
-
-
-      
-        onyx-dot-app /
-
-      onyx</a></p>
-				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 27967</span>
-						<span>🔱 3719</span>
-					</div>
-				<div class="stars-today">⭐ 10060 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/pascalorg/editor" target="_blank">
-    
-
-
-      
-        pascalorg /
-
-      editor</a></p>
-				<p>
-      Create and share 3D architectural projects.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 14129</span>
-						<span>🔱 1759</span>
-					</div>
-				<div class="stars-today">⭐ 13730 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4141</span>
+						<span>⭐ 4151</span>
 						<span>🔱 408</span>
 					</div>
 				<div class="stars-today">⭐ 3118 stars this month</div>
@@ -402,32 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91637</span>
-						<span>🔱 13317</span>
+						<span>⭐ 91650</span>
+						<span>🔱 13319</span>
 					</div>
 				<div class="stars-today">⭐ 11704 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
+				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
     
 
 
       
-        Fincept-Corporation /
+        onyx-dot-app /
 
-      FinceptTerminal</a></p>
+      onyx</a></p>
 				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12334</span>
-						<span>🔱 1613</span>
+						<span>⭐ 27969</span>
+						<span>🔱 3721</span>
 					</div>
-				<div class="stars-today">⭐ 8205 stars this month</div>
+				<div class="stars-today">⭐ 10060 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code</a></p>
+				<p>
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 163684</span>
+						<span>🔱 25401</span>
+					</div>
+				<div class="stars-today">⭐ 71767 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-22
-date: 2026-04-22T09:08:10Z
+date: 2026-04-22T10:54:01Z
 categories:
 - daily
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12334</span>
-						<span>🔱 1613</span>
-					</div>
-				<div class="stars-today">⭐ 2548 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
-    
-
-
-      
-        thunderbird /
-
-      thunderbolt</a></p>
-				<p>
-      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 3627</span>
-						<span>🔱 215</span>
-					</div>
-				<div class="stars-today">⭐ 596 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
@@ -74,10 +30,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6948</span>
-						<span>🔱 585</span>
+						<span>⭐ 7019</span>
+						<span>🔱 590</span>
 					</div>
 				<div class="stars-today">⭐ 169 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal</a></p>
+				<p>
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12479</span>
+						<span>🔱 1637</span>
+					</div>
+				<div class="stars-today">⭐ 2548 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/koala73/worldmonitor" target="_blank">
+    
+
+
+      
+        koala73 /
+
+      worldmonitor</a></p>
+				<p>
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 51012</span>
+						<span>🔱 8249</span>
+					</div>
+				<div class="stars-today">⭐ 1187 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/langfuse/langfuse" target="_blank">
+    
+
+
+      
+        langfuse /
+
+      langfuse</a></p>
+				<p>
+      🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25344</span>
+						<span>🔱 2575</span>
+					</div>
+				<div class="stars-today">⭐ 67 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/KeygraphHQ/shannon" target="_blank">
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon</a></p>
+				<p>
+      Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39211</span>
+						<span>🔱 4332</span>
+					</div>
+				<div class="stars-today">⭐ 346 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/open-metadata/OpenMetadata" target="_blank">
+    
+
+
+      
+        open-metadata /
+
+      OpenMetadata</a></p>
+				<p>
+      OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11846</span>
+						<span>🔱 1968</span>
+					</div>
+				<div class="stars-today">⭐ 609 stars today</div>
 				</div>
 			</div>
 	
@@ -96,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 49111</span>
-						<span>🔱 6530</span>
+						<span>⭐ 49147</span>
+						<span>🔱 6532</span>
 					</div>
 				<div class="stars-today">⭐ 824 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners</a></p>
-				<p>
-      12 Lessons to Get Started Building AI Agents
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 58212</span>
-						<span>🔱 19931</span>
-					</div>
-				<div class="stars-today">⭐ 200 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/dayanch96/YTLite" target="_blank">
-    
-
-
-      
-        dayanch96 /
-
-      YTLite</a></p>
-				<p>
-      A flexible enhancer for YouTube on iOS
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Logos</span>
-						<span>⭐ 4907</span>
-						<span>🔱 20167</span>
-					</div>
-				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17205</span>
-						<span>🔱 2023</span>
+						<span>⭐ 17251</span>
+						<span>🔱 2034</span>
 					</div>
 				<div class="stars-today">⭐ 162 stars today</div>
 				</div>
@@ -184,32 +206,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 54073</span>
-						<span>🔱 23608</span>
+						<span>⭐ 54140</span>
+						<span>🔱 23623</span>
 					</div>
 				<div class="stars-today">⭐ 534 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
     
 
 
       
-        VoltAgent /
+        AIDC-AI /
 
-      awesome-agent-skills</a></p>
+      Pixelle-Video</a></p>
 				<p>
-      A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 17270</span>
-						<span>🔱 1858</span>
+						<span>🔠 Python</span>
+						<span>⭐ 5123</span>
+						<span>🔱 851</span>
 					</div>
-				<div class="stars-today">⭐ 139 stars today</div>
+				<div class="stars-today">⭐ 237 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+    
+
+
+      
+        Z4nzu /
+
+      hackingtool</a></p>
+				<p>
+      ALL IN ONE Hacking Tool For Hackers
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 58961</span>
+						<span>🔱 6663</span>
+					</div>
+				<div class="stars-today">⭐ 509 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/skills" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      skills</a></p>
+				<p>
+      The open agent skills tool - npx skills
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 15153</span>
+						<span>🔱 1255</span>
+					</div>
+				<div class="stars-today">⭐ 317 stars today</div>
 				</div>
 			</div>
 	
