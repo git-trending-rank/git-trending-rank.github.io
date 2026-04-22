@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-22
-date: 2026-04-22T01:08:19Z
+date: 2026-04-22T04:34:05Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11624</span>
-						<span>🔱 1526</span>
+						<span>⭐ 11927</span>
+						<span>🔱 1557</span>
 					</div>
 				<div class="stars-today">⭐ 2548 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 3474</span>
-						<span>🔱 204</span>
+						<span>⭐ 3547</span>
+						<span>🔱 208</span>
 					</div>
 				<div class="stars-today">⭐ 596 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 6613</span>
-						<span>🔱 568</span>
+						<span>⭐ 6770</span>
+						<span>🔱 578</span>
 					</div>
 				<div class="stars-today">⭐ 169 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 48893</span>
-						<span>🔱 6514</span>
+						<span>⭐ 48993</span>
+						<span>🔱 6523</span>
 					</div>
 				<div class="stars-today">⭐ 824 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 57680</span>
-						<span>🔱 19870</span>
+						<span>⭐ 57960</span>
+						<span>🔱 19897</span>
 					</div>
 				<div class="stars-today">⭐ 200 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Logos</span>
-						<span>⭐ 4835</span>
-						<span>🔱 20139</span>
+						<span>⭐ 4865</span>
+						<span>🔱 20151</span>
 					</div>
 				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16887</span>
-						<span>🔱 2000</span>
+						<span>⭐ 17050</span>
+						<span>🔱 2013</span>
 					</div>
 				<div class="stars-today">⭐ 162 stars today</div>
 				</div>
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 53654</span>
-						<span>🔱 23538</span>
+						<span>⭐ 53877</span>
+						<span>🔱 23569</span>
 					</div>
 				<div class="stars-today">⭐ 534 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
+    
+
+
+      
+        VoltAgent /
+
+      awesome-agent-skills</a></p>
+				<p>
+      A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 16976</span>
+						<span>🔱 1841</span>
+					</div>
+				<div class="stars-today">⭐ 139 stars today</div>
 				</div>
 			</div>
 	
