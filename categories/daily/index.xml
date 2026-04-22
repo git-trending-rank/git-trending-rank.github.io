@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 22 Apr 2026 09:08:10 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Apr 2026 10:54:01 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-04-22</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-04-22/</link>
-        <pubDate>Wed, 22 Apr 2026 09:08:10 +0000</pubDate>
+        <pubDate>Wed, 22 Apr 2026 10:54:01 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-04-22/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,50 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12334&lt;/span&gt;
-						&lt;span&gt;🔱 1613&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2548 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/thunderbird/thunderbolt&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        thunderbird /
-
-      thunderbolt&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 3627&lt;/span&gt;
-						&lt;span&gt;🔱 215&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 596 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/zilliztech/claude-context&#34; target=&#34;_blank&#34;&gt;
@@ -77,10 +33,120 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6948&lt;/span&gt;
-						&lt;span&gt;🔱 585&lt;/span&gt;
+						&lt;span&gt;⭐ 7019&lt;/span&gt;
+						&lt;span&gt;🔱 590&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 169 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 12479&lt;/span&gt;
+						&lt;span&gt;🔱 1637&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2548 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/koala73/worldmonitor&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        koala73 /
+
+      worldmonitor&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 51012&lt;/span&gt;
+						&lt;span&gt;🔱 8249&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1187 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/langfuse/langfuse&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        langfuse /
+
+      langfuse&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 25344&lt;/span&gt;
+						&lt;span&gt;🔱 2575&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 67 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/KeygraphHQ/shannon&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        KeygraphHQ /
+
+      shannon&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 39211&lt;/span&gt;
+						&lt;span&gt;🔱 4332&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 346 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/open-metadata/OpenMetadata&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        open-metadata /
+
+      OpenMetadata&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      OpenMetadata is a unified metadata platform for data discovery, data observability, and data governance powered by a central metadata repository, in-depth column level lineage, and seamless team collaboration.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 11846&lt;/span&gt;
+						&lt;span&gt;🔱 1968&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 609 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,54 +165,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 49111&lt;/span&gt;
-						&lt;span&gt;🔱 6530&lt;/span&gt;
+						&lt;span&gt;⭐ 49147&lt;/span&gt;
+						&lt;span&gt;🔱 6532&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 824 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/ai-agents-for-beginners&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      ai-agents-for-beginners&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      12 Lessons to Get Started Building AI Agents
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 58212&lt;/span&gt;
-						&lt;span&gt;🔱 19931&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 200 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/dayanch96/YTLite&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        dayanch96 /
-
-      YTLite&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A flexible enhancer for YouTube on iOS
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Logos&lt;/span&gt;
-						&lt;span&gt;⭐ 4907&lt;/span&gt;
-						&lt;span&gt;🔱 20167&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 55 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 17205&lt;/span&gt;
-						&lt;span&gt;🔱 2023&lt;/span&gt;
+						&lt;span&gt;⭐ 17251&lt;/span&gt;
+						&lt;span&gt;🔱 2034&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 162 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -187,32 +209,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 54073&lt;/span&gt;
-						&lt;span&gt;🔱 23608&lt;/span&gt;
+						&lt;span&gt;⭐ 54140&lt;/span&gt;
+						&lt;span&gt;🔱 23623&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 534 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/VoltAgent/awesome-agent-skills&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/AIDC-AI/Pixelle-Video&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        VoltAgent /
+        AIDC-AI /
 
-      awesome-agent-skills&lt;/a&gt;&lt;/p&gt;
+      Pixelle-Video&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 17270&lt;/span&gt;
-						&lt;span&gt;🔱 1858&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 5123&lt;/span&gt;
+						&lt;span&gt;🔱 851&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 139 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 237 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Z4nzu/hackingtool&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Z4nzu /
+
+      hackingtool&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ALL IN ONE Hacking Tool For Hackers
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 58961&lt;/span&gt;
+						&lt;span&gt;🔱 6663&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 509 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel-labs/skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel-labs /
+
+      skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open agent skills tool - npx skills
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 15153&lt;/span&gt;
+						&lt;span&gt;🔱 1255&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 317 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

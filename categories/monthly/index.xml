@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 22 Apr 2026 09:08:10 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Apr 2026 10:54:01 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年4月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B44%E6%9C%88/</link>
-        <pubDate>Wed, 22 Apr 2026 09:08:10 +0000</pubDate>
+        <pubDate>Wed, 22 Apr 2026 10:54:01 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B44%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 109337&lt;/span&gt;
-						&lt;span&gt;🔱 15808&lt;/span&gt;
+						&lt;span&gt;⭐ 109559&lt;/span&gt;
+						&lt;span&gt;🔱 15845&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 98304 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 74048&lt;/span&gt;
-						&lt;span&gt;🔱 6848&lt;/span&gt;
+						&lt;span&gt;⭐ 74374&lt;/span&gt;
+						&lt;span&gt;🔱 6886&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 63346 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -77,32 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32027&lt;/span&gt;
-						&lt;span&gt;🔱 2167&lt;/span&gt;
+						&lt;span&gt;⭐ 32047&lt;/span&gt;
+						&lt;span&gt;🔱 2168&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 23317 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/gallery&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        google-ai-edge /
-
-      gallery&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Kotlin&lt;/span&gt;
-						&lt;span&gt;⭐ 21787&lt;/span&gt;
-						&lt;span&gt;🔱 2100&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6384 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 20129&lt;/span&gt;
-						&lt;span&gt;🔱 3608&lt;/span&gt;
+						&lt;span&gt;⭐ 20142&lt;/span&gt;
+						&lt;span&gt;🔱 3609&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8841 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -143,32 +121,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15450&lt;/span&gt;
-						&lt;span&gt;🔱 1825&lt;/span&gt;
+						&lt;span&gt;⭐ 15469&lt;/span&gt;
+						&lt;span&gt;🔱 1826&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9257 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mvanhorn/last30days-skill&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google-ai-edge/gallery&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        mvanhorn /
+        google-ai-edge /
 
-      last30days-skill&lt;/a&gt;&lt;/p&gt;
+      gallery&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 23395&lt;/span&gt;
-						&lt;span&gt;🔱 1937&lt;/span&gt;
+						&lt;span&gt;🔠 Kotlin&lt;/span&gt;
+						&lt;span&gt;⭐ 21799&lt;/span&gt;
+						&lt;span&gt;🔱 2099&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18946 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6384 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,32 +165,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 20878&lt;/span&gt;
-						&lt;span&gt;🔱 2820&lt;/span&gt;
+						&lt;span&gt;⭐ 20904&lt;/span&gt;
+						&lt;span&gt;🔱 2823&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9982 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/VibeVoice&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      VibeVoice&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open-Source Frontier Voice AI
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 40652&lt;/span&gt;
-						&lt;span&gt;🔱 4692&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16944 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -231,10 +187,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 19277&lt;/span&gt;
-						&lt;span&gt;🔱 2982&lt;/span&gt;
+						&lt;span&gt;⭐ 19288&lt;/span&gt;
+						&lt;span&gt;🔱 2983&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5550 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/VibeVoice&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      VibeVoice&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open-Source Frontier Voice AI
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 40659&lt;/span&gt;
+						&lt;span&gt;🔱 4694&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 16944 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,10 +231,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 114418&lt;/span&gt;
-						&lt;span&gt;🔱 7451&lt;/span&gt;
+						&lt;span&gt;⭐ 114473&lt;/span&gt;
+						&lt;span&gt;🔱 7458&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 23017 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mvanhorn/last30days-skill&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mvanhorn /
+
+      last30days-skill&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 23418&lt;/span&gt;
+						&lt;span&gt;🔱 1938&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18946 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 12479&lt;/span&gt;
+						&lt;span&gt;🔱 1637&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8205 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,98 +297,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 15206&lt;/span&gt;
-						&lt;span&gt;🔱 2160&lt;/span&gt;
+						&lt;span&gt;⭐ 15239&lt;/span&gt;
+						&lt;span&gt;🔱 2166&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14225 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/affaan-m/everything-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        affaan-m /
-
-      everything-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 163610&lt;/span&gt;
-						&lt;span&gt;🔱 25391&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 71767 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/bytedance/deer-flow&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        bytedance /
-
-      deer-flow&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 63359&lt;/span&gt;
-						&lt;span&gt;🔱 8220&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 31537 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/onyx-dot-app/onyx&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        onyx-dot-app /
-
-      onyx&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 27967&lt;/span&gt;
-						&lt;span&gt;🔱 3719&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10060 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/pascalorg/editor&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        pascalorg /
-
-      editor&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Create and share 3D architectural projects.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 14129&lt;/span&gt;
-						&lt;span&gt;🔱 1759&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13730 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -383,7 +317,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 4141&lt;/span&gt;
+						&lt;span&gt;⭐ 4151&lt;/span&gt;
 						&lt;span&gt;🔱 408&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3118 stars this month&lt;/div&gt;
@@ -405,32 +339,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 91637&lt;/span&gt;
-						&lt;span&gt;🔱 13317&lt;/span&gt;
+						&lt;span&gt;⭐ 91650&lt;/span&gt;
+						&lt;span&gt;🔱 13319&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11704 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/onyx-dot-app/onyx&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Fincept-Corporation /
+        onyx-dot-app /
 
-      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
+      onyx&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+      Open Source AI Platform - AI Chat with advanced features that works with every LLM
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12334&lt;/span&gt;
-						&lt;span&gt;🔱 1613&lt;/span&gt;
+						&lt;span&gt;⭐ 27969&lt;/span&gt;
+						&lt;span&gt;🔱 3721&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8205 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10060 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/affaan-m/everything-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        affaan-m /
+
+      everything-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 163684&lt;/span&gt;
+						&lt;span&gt;🔱 25401&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 71767 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

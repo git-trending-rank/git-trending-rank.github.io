@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Wed, 22 Apr 2026 09:08:10 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 22 Apr 2026 10:54:01 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第17周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC17%E5%91%A8/</link>
-        <pubDate>Wed, 22 Apr 2026 09:08:10 +0000</pubDate>
+        <pubDate>Wed, 22 Apr 2026 10:54:01 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC17%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 74048&lt;/span&gt;
-						&lt;span&gt;🔱 6848&lt;/span&gt;
+						&lt;span&gt;⭐ 74374&lt;/span&gt;
+						&lt;span&gt;🔱 6886&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 40732 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/EvoMap/evolver&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        EvoMap /
+
+      evolver&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 6451&lt;/span&gt;
+						&lt;span&gt;🔱 624&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4376 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,32 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 5753&lt;/span&gt;
-						&lt;span&gt;🔱 624&lt;/span&gt;
+						&lt;span&gt;⭐ 5794&lt;/span&gt;
+						&lt;span&gt;🔱 630&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4223 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/EvoMap/evolver&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        EvoMap /
-
-      evolver&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6436&lt;/span&gt;
-						&lt;span&gt;🔱 621&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4376 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,8 +99,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 109337&lt;/span&gt;
-						&lt;span&gt;🔱 15808&lt;/span&gt;
+						&lt;span&gt;⭐ 109559&lt;/span&gt;
+						&lt;span&gt;🔱 15845&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25081 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -121,142 +121,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 65406&lt;/span&gt;
-						&lt;span&gt;🔱 5523&lt;/span&gt;
+						&lt;span&gt;⭐ 65458&lt;/span&gt;
+						&lt;span&gt;🔱 5534&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10356 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Lordog/dive-into-llms&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Lordog /
-
-      dive-into-llms&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      《动手学大模型Dive into LLMs》系列编程实践教程
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 33509&lt;/span&gt;
-						&lt;span&gt;🔱 4092&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5167 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/SimoneAvogadro/android-reverse-engineering-skill&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        SimoneAvogadro /
-
-      android-reverse-engineering-skill&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Claude Code skill to support Android app&#39;s reverse engineering
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 4541&lt;/span&gt;
-						&lt;span&gt;🔱 514&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2813 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jamiepine/voicebox&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        jamiepine /
-
-      voicebox&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The open-source voice synthesis studio
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 22280&lt;/span&gt;
-						&lt;span&gt;🔱 2590&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5198 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        virattt /
-
-      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      An AI Hedge Fund Team
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 56891&lt;/span&gt;
-						&lt;span&gt;🔱 9886&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3104 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/multica-ai/multica&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        multica-ai /
-
-      multica&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 18933&lt;/span&gt;
-						&lt;span&gt;🔱 2312&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6223 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/BasedHardware/omi&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        BasedHardware /
-
-      omi&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI that sees your screen, listens to your conversations and tells you what to do
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Dart&lt;/span&gt;
-						&lt;span&gt;⭐ 11890&lt;/span&gt;
-						&lt;span&gt;🔱 1844&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3863 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,10 +143,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24485&lt;/span&gt;
-						&lt;span&gt;🔱 3751&lt;/span&gt;
+						&lt;span&gt;⭐ 24502&lt;/span&gt;
+						&lt;span&gt;🔱 3753&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3546 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Lordog/dive-into-llms&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Lordog /
+
+      dive-into-llms&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      《动手学大模型Dive into LLMs》系列编程实践教程
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 33538&lt;/span&gt;
+						&lt;span&gt;🔱 4094&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5167 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jamiepine/voicebox&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jamiepine /
+
+      voicebox&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open-source voice synthesis studio
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 22314&lt;/span&gt;
+						&lt;span&gt;🔱 2595&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5198 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/multica-ai/multica&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        multica-ai /
+
+      multica&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 18996&lt;/span&gt;
+						&lt;span&gt;🔱 2316&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6223 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel-labs/open-agents&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        vercel-labs /
+
+      open-agents&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An open source template for building cloud agents.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 3975&lt;/span&gt;
+						&lt;span&gt;🔱 438&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1812 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,10 +253,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2229&lt;/span&gt;
-						&lt;span&gt;🔱 256&lt;/span&gt;
+						&lt;span&gt;⭐ 2251&lt;/span&gt;
+						&lt;span&gt;🔱 257&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1395 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/BasedHardware/omi&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        BasedHardware /
+
+      omi&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI that sees your screen, listens to your conversations and tells you what to do
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Dart&lt;/span&gt;
+						&lt;span&gt;⭐ 11900&lt;/span&gt;
+						&lt;span&gt;🔱 1844&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3863 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,98 +297,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2111&lt;/span&gt;
-						&lt;span&gt;🔱 149&lt;/span&gt;
+						&lt;span&gt;⭐ 2120&lt;/span&gt;
+						&lt;span&gt;🔱 150&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 909 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/shiyu-coder/Kronos&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/steipete/wacli&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        shiyu-coder /
+        steipete /
 
-      Kronos&lt;/a&gt;&lt;/p&gt;
+      wacli&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Kronos: A Foundation Model for the Language of Financial Markets
+      WhatsApp CLI
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 20129&lt;/span&gt;
-						&lt;span&gt;🔱 3608&lt;/span&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 2026&lt;/span&gt;
+						&lt;span&gt;🔱 241&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2458 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1086 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/warproxxx/poly_data&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        warproxxx /
+        virattt /
 
-      poly_data&lt;/a&gt;&lt;/p&gt;
+      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets, order events and trades.
+      An AI Hedge Fund Team
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 1494&lt;/span&gt;
-						&lt;span&gt;🔱 308&lt;/span&gt;
+						&lt;span&gt;⭐ 56921&lt;/span&gt;
+						&lt;span&gt;🔱 9892&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 435 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/markitdown&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      markitdown&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Python tool for converting files and office documents to Markdown.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 114418&lt;/span&gt;
-						&lt;span&gt;🔱 7451&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6012 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/OpenBMB/VoxCPM&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        OpenBMB /
-
-      VoxCPM&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15450&lt;/span&gt;
-						&lt;span&gt;🔱 1825&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2599 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3104 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
