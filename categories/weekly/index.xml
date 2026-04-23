@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Thu, 23 Apr 2026 09:15:01 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 23 Apr 2026 10:57:56 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第17周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC17%E5%91%A8/</link>
-        <pubDate>Thu, 23 Apr 2026 09:15:01 +0000</pubDate>
+        <pubDate>Thu, 23 Apr 2026 10:57:56 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC17%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 78087&lt;/span&gt;
-						&lt;span&gt;🔱 7336&lt;/span&gt;
+						&lt;span&gt;⭐ 78439&lt;/span&gt;
+						&lt;span&gt;🔱 7376&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35349 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/SimoneAvogadro/android-reverse-engineering-skill&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        SimoneAvogadro /
+
+      android-reverse-engineering-skill&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Code skill to support Android app&#39;s reverse engineering
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 4685&lt;/span&gt;
+						&lt;span&gt;🔱 542&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2883 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,76 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 6619&lt;/span&gt;
-						&lt;span&gt;🔱 648&lt;/span&gt;
+						&lt;span&gt;⭐ 6628&lt;/span&gt;
+						&lt;span&gt;🔱 650&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4364 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lsdefine/GenericAgent&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        lsdefine /
-
-      GenericAgent&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 6066&lt;/span&gt;
-						&lt;span&gt;🔱 656&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4216 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The agent that grows with you
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 111918&lt;/span&gt;
-						&lt;span&gt;🔱 16251&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22083 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        thedotmack /
-
-      claude-mem&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 66061&lt;/span&gt;
-						&lt;span&gt;🔱 5591&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8739 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,32 +99,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24741&lt;/span&gt;
-						&lt;span&gt;🔱 3779&lt;/span&gt;
+						&lt;span&gt;⭐ 24764&lt;/span&gt;
+						&lt;span&gt;🔱 3783&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3802 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Lordog/dive-into-llms&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Lordog /
-
-      dive-into-llms&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      《动手学大模型Dive into LLMs》系列编程实践教程
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
-						&lt;span&gt;⭐ 33864&lt;/span&gt;
-						&lt;span&gt;🔱 4151&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4550 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,10 +121,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 22611&lt;/span&gt;
-						&lt;span&gt;🔱 2640&lt;/span&gt;
+						&lt;span&gt;⭐ 22642&lt;/span&gt;
+						&lt;span&gt;🔱 2643&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4495 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        thedotmack /
+
+      claude-mem&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 66111&lt;/span&gt;
+						&lt;span&gt;🔱 5596&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8739 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The agent that grows with you
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 112127&lt;/span&gt;
+						&lt;span&gt;🔱 16284&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22083 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,32 +187,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 19775&lt;/span&gt;
-						&lt;span&gt;🔱 2404&lt;/span&gt;
+						&lt;span&gt;⭐ 19853&lt;/span&gt;
+						&lt;span&gt;🔱 2411&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6015 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/vercel-labs/open-agents&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Lordog/dive-into-llms&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        vercel-labs /
+        Lordog /
 
-      open-agents&lt;/a&gt;&lt;/p&gt;
+      dive-into-llms&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      An open source template for building cloud agents.
+      《动手学大模型Dive into LLMs》系列编程实践教程
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4061&lt;/span&gt;
-						&lt;span&gt;🔱 449&lt;/span&gt;
+						&lt;span&gt;🔠 Jupyter Notebook&lt;/span&gt;
+						&lt;span&gt;⭐ 33881&lt;/span&gt;
+						&lt;span&gt;🔱 4154&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1684 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4550 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,8 +231,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2507&lt;/span&gt;
-						&lt;span&gt;🔱 273&lt;/span&gt;
+						&lt;span&gt;⭐ 2533&lt;/span&gt;
+						&lt;span&gt;🔱 276&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1508 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -275,76 +253,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Dart&lt;/span&gt;
-						&lt;span&gt;⭐ 12030&lt;/span&gt;
-						&lt;span&gt;🔱 1857&lt;/span&gt;
+						&lt;span&gt;⭐ 12040&lt;/span&gt;
+						&lt;span&gt;🔱 1858&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3624 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/z-lab/dflash&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mksglu/context-mode&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        z-lab /
+        mksglu /
 
-      dflash&lt;/a&gt;&lt;/p&gt;
+      context-mode&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      DFlash: Block Diffusion for Flash Speculative Decoding
+      Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 2185&lt;/span&gt;
-						&lt;span&gt;🔱 152&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9062&lt;/span&gt;
+						&lt;span&gt;🔱 644&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 859 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1704 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/steipete/wacli&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zilliztech/claude-context&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        steipete /
+        zilliztech /
 
-      wacli&lt;/a&gt;&lt;/p&gt;
+      claude-context&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      WhatsApp CLI
+      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 2083&lt;/span&gt;
-						&lt;span&gt;🔱 244&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 8034&lt;/span&gt;
+						&lt;span&gt;🔱 645&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 789 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1381 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/ai-hedge-fund&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/markitdown&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        virattt /
+        microsoft /
 
-      ai-hedge-fund&lt;/a&gt;&lt;/p&gt;
+      markitdown&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      An AI Hedge Fund Team
+      Python tool for converting files and office documents to Markdown.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 57110&lt;/span&gt;
-						&lt;span&gt;🔱 9932&lt;/span&gt;
+						&lt;span&gt;⭐ 115547&lt;/span&gt;
+						&lt;span&gt;🔱 7544&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2282 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5554 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
