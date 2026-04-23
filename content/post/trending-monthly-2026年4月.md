@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-23T09:15:01Z
+date: 2026-04-23T10:57:56Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 111918</span>
-						<span>🔱 16251</span>
+						<span>⭐ 112127</span>
+						<span>🔱 16284</span>
 					</div>
 				<div class="stars-today">⭐ 100638 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 78087</span>
-						<span>🔱 7336</span>
+						<span>⭐ 78439</span>
+						<span>🔱 7376</span>
 					</div>
 				<div class="stars-today">⭐ 67820 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Yeachan-Heo/oh-my-codex" target="_blank">
+    
+
+
+      
+        Yeachan-Heo /
+
+      oh-my-codex</a></p>
+				<p>
+      OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 25238</span>
+						<span>🔱 2113</span>
+					</div>
+				<div class="stars-today">⭐ 22857 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32265</span>
+						<span>⭐ 32284</span>
 						<span>🔱 2184</span>
 					</div>
 				<div class="stars-today">⭐ 23580 stars this month</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20519</span>
-						<span>🔱 3665</span>
+						<span>⭐ 20575</span>
+						<span>🔱 3667</span>
 					</div>
 				<div class="stars-today">⭐ 9037 stars this month</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15638</span>
+						<span>⭐ 15649</span>
 						<span>🔱 1838</span>
 					</div>
 				<div class="stars-today">⭐ 9478 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 21861</span>
-						<span>🔱 2106</span>
-					</div>
-				<div class="stars-today">⭐ 6483 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21109</span>
-						<span>🔱 2850</span>
+						<span>⭐ 21124</span>
+						<span>🔱 2855</span>
 					</div>
 				<div class="stars-today">⭐ 10276 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 21863</span>
+						<span>🔱 2107</span>
+					</div>
+				<div class="stars-today">⭐ 6483 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19425</span>
-						<span>🔱 3001</span>
+						<span>⭐ 19433</span>
+						<span>🔱 3003</span>
 					</div>
 				<div class="stars-today">⭐ 5672 stars this month</div>
 				</div>
@@ -206,54 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 40775</span>
+						<span>⭐ 40788</span>
 						<span>🔱 4712</span>
 					</div>
 				<div class="stars-today">⭐ 17032 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 115470</span>
-						<span>🔱 7539</span>
-					</div>
-				<div class="stars-today">⭐ 23540 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
-    
-
-
-      
-        mvanhorn /
-
-      last30days-skill</a></p>
-				<p>
-      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23627</span>
-						<span>🔱 1954</span>
-					</div>
-				<div class="stars-today">⭐ 19158 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,10 +250,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13529</span>
-						<span>🔱 1780</span>
+						<span>⭐ 13601</span>
+						<span>🔱 1792</span>
 					</div>
 				<div class="stars-today">⭐ 9926 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      markitdown</a></p>
+				<p>
+      Python tool for converting files and office documents to Markdown.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 115547</span>
+						<span>🔱 7544</span>
+					</div>
+				<div class="stars-today">⭐ 23540 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT-LM</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4212</span>
+						<span>🔱 414</span>
+					</div>
+				<div class="stars-today">⭐ 3223 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,30 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 15594</span>
-						<span>🔱 2221</span>
+						<span>⭐ 15624</span>
+						<span>🔱 2230</span>
 					</div>
 				<div class="stars-today">⭐ 13770 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+				<p><a href="https://github.com/mvanhorn/last30days-skill" target="_blank">
     
 
 
       
-        google-ai-edge /
+        mvanhorn /
 
-      LiteRT-LM</a></p>
-				<p></p>
+      last30days-skill</a></p>
+				<p>
+      AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4213</span>
-						<span>🔱 414</span>
+						<span>🔠 Python</span>
+						<span>⭐ 23643</span>
+						<span>🔱 1954</span>
 					</div>
-				<div class="stars-today">⭐ 3223 stars this month</div>
+				<div class="stars-today">⭐ 19158 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 91922</span>
-						<span>🔱 13349</span>
+						<span>⭐ 91954</span>
+						<span>🔱 13354</span>
 					</div>
 				<div class="stars-today">⭐ 11891 stars this month</div>
 				</div>
@@ -358,32 +380,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28147</span>
-						<span>🔱 3743</span>
+						<span>⭐ 28161</span>
+						<span>🔱 3746</span>
 					</div>
 				<div class="stars-today">⭐ 10189 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/affaan-m/everything-claude-code" target="_blank">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
     
 
 
       
-        affaan-m /
+        google-research /
 
-      everything-claude-code</a></p>
+      timesfm</a></p>
 				<p>
-      The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 164726</span>
-						<span>🔱 25570</span>
+						<span>🔠 Python</span>
+						<span>⭐ 18361</span>
+						<span>🔱 1796</span>
 					</div>
-				<div class="stars-today">⭐ 69085 stars this month</div>
+				<div class="stars-today">⭐ 8318 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
+    
+
+
+      
+        hugohe3 /
+
+      ppt-master</a></p>
+				<p>
+      AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7374</span>
+						<span>🔱 830</span>
+					</div>
+				<div class="stars-today">⭐ 4867 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
+    
+
+
+      
+        rtk-ai /
+
+      rtk</a></p>
+				<p>
+      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 33019</span>
+						<span>🔱 1931</span>
+					</div>
+				<div class="stars-today">⭐ 20554 stars this month</div>
 				</div>
 			</div>
 	
