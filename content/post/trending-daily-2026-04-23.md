@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-23
-date: 2026-04-23T12:50:37Z
+date: 2026-04-23T15:28:11Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1792</span>
-						<span>🔱 181</span>
+						<span>⭐ 2246</span>
+						<span>🔱 209</span>
 					</div>
 				<div class="stars-today">⭐ 530 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8087</span>
-						<span>🔱 647</span>
+						<span>⭐ 8189</span>
+						<span>🔱 653</span>
 					</div>
 				<div class="stars-today">⭐ 1023 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17889</span>
-						<span>🔱 2081</span>
+						<span>⭐ 17972</span>
+						<span>🔱 2086</span>
 					</div>
 				<div class="stars-today">⭐ 574 stars today</div>
 				</div>
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 60418</span>
-						<span>🔱 6783</span>
+						<span>⭐ 60599</span>
+						<span>🔱 6800</span>
 					</div>
-				<div class="stars-today">⭐ 518 stars today</div>
+				<div class="stars-today">⭐ 1366 stars today</div>
 				</div>
 			</div>
 	
@@ -118,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 49593</span>
-						<span>🔱 6577</span>
+						<span>⭐ 49656</span>
+						<span>🔱 6578</span>
 					</div>
 				<div class="stars-today">⭐ 427 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 6584</span>
+						<span>🔱 1305</span>
+					</div>
+				<div class="stars-today">⭐ 677 stars today</div>
 				</div>
 			</div>
 	
@@ -140,10 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4146</span>
-						<span>🔱 781</span>
+						<span>⭐ 4648</span>
+						<span>🔱 849</span>
 					</div>
-				<div class="stars-today">⭐ 181 stars today</div>
+				<div class="stars-today">⭐ 2388 stars today</div>
 				</div>
 			</div>
 	
@@ -162,10 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12661</span>
-						<span>🔱 2004</span>
+						<span>⭐ 12753</span>
+						<span>🔱 2007</span>
 					</div>
-				<div class="stars-today">⭐ 521 stars today</div>
+				<div class="stars-today">⭐ 771 stars today</div>
 				</div>
 			</div>
 	
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 58510</span>
-						<span>🔱 20006</span>
+						<span>⭐ 58596</span>
+						<span>🔱 20018</span>
 					</div>
 				<div class="stars-today">⭐ 177 stars today</div>
 				</div>
@@ -206,10 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 52661</span>
-						<span>🔱 8272</span>
+						<span>⭐ 52686</span>
+						<span>🔱 8273</span>
 					</div>
-				<div class="stars-today">⭐ 70 stars today</div>
+				<div class="stars-today">⭐ 76 stars today</div>
 				</div>
 			</div>
 	
@@ -228,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60678</span>
+						<span>⭐ 60713</span>
 						<span>🔱 6241</span>
 					</div>
 				<div class="stars-today">⭐ 103 stars today</div>
@@ -250,10 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 19997</span>
-						<span>🔱 3848</span>
+						<span>⭐ 20033</span>
+						<span>🔱 3849</span>
 					</div>
-				<div class="stars-today">⭐ 21 stars today</div>
+				<div class="stars-today">⭐ 80 stars today</div>
 				</div>
 			</div>
 	
@@ -272,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9108</span>
-						<span>🔱 646</span>
+						<span>⭐ 9174</span>
+						<span>🔱 648</span>
 					</div>
 				<div class="stars-today">⭐ 302 stars today</div>
 				</div>
@@ -294,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 23269</span>
-						<span>🔱 3752</span>
+						<span>⭐ 23421</span>
+						<span>🔱 3765</span>
 					</div>
 				<div class="stars-today">⭐ 312 stars today</div>
 				</div>
@@ -316,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15040</span>
-						<span>🔱 2177</span>
+						<span>⭐ 15081</span>
+						<span>🔱 2181</span>
 					</div>
 				<div class="stars-today">⭐ 214 stars today</div>
 				</div>
@@ -338,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 17628</span>
-						<span>🔱 1899</span>
+						<span>⭐ 17749</span>
+						<span>🔱 1912</span>
 					</div>
 				<div class="stars-today">⭐ 176 stars today</div>
 				</div>
