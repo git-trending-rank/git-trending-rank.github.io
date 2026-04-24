@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-24
-date: 2026-04-24T09:19:26Z
+date: 2026-04-24T10:55:45Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6358</span>
+						<span>🔱 1056</span>
+					</div>
+				<div class="stars-today">⭐ 1962 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/huggingface/ml-intern" target="_blank">
@@ -30,54 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4397</span>
-						<span>🔱 368</span>
+						<span>⭐ 4590</span>
+						<span>🔱 388</span>
 					</div>
 				<div class="stars-today">⭐ 720 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
+				<p><a href="https://github.com/google/osv-scanner" target="_blank">
     
 
 
       
-        zilliztech /
+        google /
 
-      claude-context</a></p>
+      osv-scanner</a></p>
 				<p>
-      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+      Vulnerability scanner written in Go which uses the data provided by https://osv.dev
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 8703</span>
-						<span>🔱 676</span>
+						<span>🔠 Go</span>
+						<span>⭐ 9207</span>
+						<span>🔱 602</span>
 					</div>
-				<div class="stars-today">⭐ 1011 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      RAG-Anything</a></p>
-				<p>
-      "RAG-Anything: All-in-One RAG Framework"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18462</span>
-						<span>🔱 2126</span>
-					</div>
-				<div class="stars-today">⭐ 590 stars today</div>
+				<div class="stars-today">⭐ 350 stars today</div>
 				</div>
 			</div>
 	
@@ -96,76 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61607</span>
-						<span>🔱 6912</span>
+						<span>⭐ 61681</span>
+						<span>🔱 6920</span>
 					</div>
 				<div class="stars-today">⭐ 1383 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/RuView" target="_blank">
+				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
     
 
 
       
-        ruvnet /
+        zilliztech /
 
-      RuView</a></p>
+      claude-context</a></p>
 				<p>
-      π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video. 
+      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 50001</span>
-						<span>🔱 6603</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 8742</span>
+						<span>🔱 677</span>
 					</div>
-				<div class="stars-today">⭐ 429 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
-    
-
-
-      
-        Anil-matcha /
-
-      Open-Generative-AI</a></p>
-				<p>
-      Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 7313</span>
-						<span>🔱 1379</span>
-					</div>
-				<div class="stars-today">⭐ 316 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6229</span>
-						<span>🔱 1035</span>
-					</div>
-				<div class="stars-today">⭐ 1962 stars today</div>
+				<div class="stars-today">⭐ 1011 stars today</div>
 				</div>
 			</div>
 	
@@ -184,186 +140,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13114</span>
-						<span>🔱 2022</span>
+						<span>⭐ 13139</span>
+						<span>🔱 2023</span>
 					</div>
 				<div class="stars-today">⭐ 776 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/ai-agents-for-beginners" target="_blank">
+				<p><a href="https://github.com/PostHog/posthog" target="_blank">
+    
+
+
+      
+        PostHog /
+
+      posthog</a></p>
+				<p>
+      🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 32826</span>
+						<span>🔱 2567</span>
+					</div>
+				<div class="stars-today">⭐ 74 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/dani-garcia/vaultwarden" target="_blank">
+    
+
+
+      
+        dani-garcia /
+
+      vaultwarden</a></p>
+				<p>
+      Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 59020</span>
+						<span>🔱 2719</span>
+					</div>
+				<div class="stars-today">⭐ 252 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">
+    
+
+
+      
+        codecrafters-io /
+
+      build-your-own-x</a></p>
+				<p>
+      Master programming by recreating your favorite technologies from scratch.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Markdown</span>
+						<span>⭐ 493987</span>
+						<span>🔱 46789</span>
+					</div>
+				<div class="stars-today">⭐ 817 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/deepseek-ai/DeepEP" target="_blank">
+    
+
+
+      
+        deepseek-ai /
+
+      DeepEP</a></p>
+				<p>
+      DeepEP: an efficient expert-parallel communication library
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Cuda</span>
+						<span>⭐ 9209</span>
+						<span>🔱 1175</span>
+					</div>
+				<div class="stars-today">⭐ 29 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
     
 
 
       
         microsoft /
 
-      ai-agents-for-beginners</a></p>
+      typescript-go</a></p>
 				<p>
-      12 Lessons to Get Started Building AI Agents
+      Staging repo for development of native port of TypeScript
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 59100</span>
-						<span>🔱 20063</span>
+						<span>🔠 Go</span>
+						<span>⭐ 24906</span>
+						<span>🔱 906</span>
 					</div>
-				<div class="stars-today">⭐ 208 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
-    
-
-
-      
-        PowerShell /
-
-      PowerShell</a></p>
-				<p>
-      PowerShell for every system!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 52871</span>
-						<span>🔱 8282</span>
-					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cline/cline" target="_blank">
-    
-
-
-      
-        cline /
-
-      cline</a></p>
-				<p>
-      Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 60931</span>
-						<span>🔱 6266</span>
-					</div>
-				<div class="stars-today">⭐ 123 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/onnxruntime" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      onnxruntime</a></p>
-				<p>
-      ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 20283</span>
-						<span>🔱 3860</span>
-					</div>
-				<div class="stars-today">⭐ 49 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 12 platforms
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9644</span>
-						<span>🔱 662</span>
-					</div>
-				<div class="stars-today">⭐ 238 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coreyhaines31/marketingskills" target="_blank">
-    
-
-
-      
-        coreyhaines31 /
-
-      marketingskills</a></p>
-				<p>
-      Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 24217</span>
-						<span>🔱 3840</span>
-					</div>
-				<div class="stars-today">⭐ 285 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/chiphuyen/aie-book" target="_blank">
-    
-
-
-      
-        chiphuyen /
-
-      aie-book</a></p>
-				<p>
-      [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15295</span>
-						<span>🔱 2197</span>
-					</div>
-				<div class="stars-today">⭐ 215 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/VoltAgent/awesome-agent-skills" target="_blank">
-    
-
-
-      
-        VoltAgent /
-
-      awesome-agent-skills</a></p>
-				<p>
-      A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 18468</span>
-						<span>🔱 1960</span>
-					</div>
-				<div class="stars-today">⭐ 228 stars today</div>
+				<div class="stars-today">⭐ 22 stars today</div>
 				</div>
 			</div>
 	
