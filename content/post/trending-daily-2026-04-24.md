@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-24
-date: 2026-04-24T01:14:28Z
+date: 2026-04-24T04:42:41Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3342</span>
-						<span>🔱 286</span>
+						<span>⭐ 3757</span>
+						<span>🔱 317</span>
 					</div>
 				<div class="stars-today">⭐ 720 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8429</span>
-						<span>🔱 661</span>
+						<span>⭐ 8558</span>
+						<span>🔱 670</span>
 					</div>
 				<div class="stars-today">⭐ 1011 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18165</span>
-						<span>🔱 2099</span>
+						<span>⭐ 18315</span>
+						<span>🔱 2110</span>
 					</div>
 				<div class="stars-today">⭐ 590 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61069</span>
-						<span>🔱 6839</span>
+						<span>⭐ 61317</span>
+						<span>🔱 6879</span>
 					</div>
 				<div class="stars-today">⭐ 1383 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 49838</span>
-						<span>🔱 6589</span>
+						<span>⭐ 49903</span>
+						<span>🔱 6593</span>
 					</div>
 				<div class="stars-today">⭐ 429 stars today</div>
 				</div>
@@ -135,13 +135,13 @@ keywords:
 
       Open-Generative-AI</a></p>
 				<p>
-      Uncensored, open-source alternative to Higgsfield AI, Freepik, Krea, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+      Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 6960</span>
-						<span>🔱 1333</span>
+						<span>⭐ 7136</span>
+						<span>🔱 1352</span>
 					</div>
 				<div class="stars-today">⭐ 316 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5602</span>
-						<span>🔱 946</span>
+						<span>⭐ 5876</span>
+						<span>🔱 979</span>
 					</div>
 				<div class="stars-today">⭐ 1962 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 12943</span>
-						<span>🔱 2016</span>
+						<span>⭐ 13018</span>
+						<span>🔱 2018</span>
 					</div>
 				<div class="stars-today">⭐ 776 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 58801</span>
-						<span>🔱 20033</span>
+						<span>⭐ 58950</span>
+						<span>🔱 20051</span>
 					</div>
 				<div class="stars-today">⭐ 208 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 52788</span>
-						<span>🔱 8275</span>
+						<span>⭐ 52830</span>
+						<span>🔱 8278</span>
 					</div>
 				<div class="stars-today">⭐ 67 stars today</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 60822</span>
-						<span>🔱 6254</span>
+						<span>⭐ 60870</span>
+						<span>🔱 6259</span>
 					</div>
 				<div class="stars-today">⭐ 123 stars today</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 20186</span>
-						<span>🔱 3855</span>
+						<span>⭐ 20234</span>
+						<span>🔱 3856</span>
 					</div>
 				<div class="stars-today">⭐ 49 stars today</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9445</span>
-						<span>🔱 655</span>
+						<span>⭐ 9543</span>
+						<span>🔱 660</span>
 					</div>
 				<div class="stars-today">⭐ 238 stars today</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 23841</span>
-						<span>🔱 3798</span>
+						<span>⭐ 24015</span>
+						<span>🔱 3808</span>
 					</div>
 				<div class="stars-today">⭐ 285 stars today</div>
 				</div>
@@ -338,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 15181</span>
-						<span>🔱 2185</span>
+						<span>⭐ 15242</span>
+						<span>🔱 2191</span>
 					</div>
 				<div class="stars-today">⭐ 215 stars today</div>
 				</div>
@@ -360,8 +360,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 18095</span>
-						<span>🔱 1929</span>
+						<span>⭐ 18263</span>
+						<span>🔱 1940</span>
 					</div>
 				<div class="stars-today">⭐ 228 stars today</div>
 				</div>
