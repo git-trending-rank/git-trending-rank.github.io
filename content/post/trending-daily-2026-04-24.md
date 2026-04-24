@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-24
-date: 2026-04-24T12:47:19Z
+date: 2026-04-24T14:58:24Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6768</span>
-						<span>🔱 1099</span>
+						<span>⭐ 7319</span>
+						<span>🔱 1163</span>
 					</div>
 				<div class="stars-today">⭐ 2640 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 4679</span>
-						<span>🔱 390</span>
+						<span>⭐ 4781</span>
+						<span>🔱 394</span>
 					</div>
 				<div class="stars-today">⭐ 2981 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 9253</span>
-						<span>🔱 606</span>
+						<span>⭐ 9309</span>
+						<span>🔱 608</span>
 					</div>
 				<div class="stars-today">⭐ 147 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 61770</span>
-						<span>🔱 6927</span>
+						<span>⭐ 61889</span>
+						<span>🔱 6939</span>
 					</div>
 				<div class="stars-today">⭐ 1377 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8777</span>
-						<span>🔱 679</span>
+						<span>⭐ 8828</span>
+						<span>🔱 682</span>
 					</div>
 				<div class="stars-today">⭐ 706 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 13169</span>
-						<span>🔱 2023</span>
+						<span>⭐ 13214</span>
+						<span>🔱 2026</span>
 					</div>
 				<div class="stars-today">⭐ 530 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 32870</span>
-						<span>🔱 2570</span>
+						<span>⭐ 32937</span>
+						<span>🔱 2572</span>
 					</div>
 				<div class="stars-today">⭐ 90 stars today</div>
 				</div>
@@ -184,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 59043</span>
-						<span>🔱 2720</span>
+						<span>⭐ 59077</span>
+						<span>🔱 2722</span>
 					</div>
 				<div class="stars-today">⭐ 252 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 7408</span>
+						<span>🔱 1395</span>
+					</div>
+				<div class="stars-today">⭐ 316 stars today</div>
 				</div>
 			</div>
 	
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 494095</span>
-						<span>🔱 46799</span>
+						<span>⭐ 494232</span>
+						<span>🔱 46813</span>
 					</div>
 				<div class="stars-today">⭐ 817 stars today</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Cuda</span>
-						<span>⭐ 9235</span>
-						<span>🔱 1177</span>
+						<span>⭐ 9261</span>
+						<span>🔱 1179</span>
 					</div>
 				<div class="stars-today">⭐ 29 stars today</div>
 				</div>
@@ -250,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 24930</span>
+						<span>⭐ 24957</span>
 						<span>🔱 907</span>
 					</div>
 				<div class="stars-today">⭐ 22 stars today</div>
