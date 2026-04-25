@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-25T14:32:50Z
+date: 2026-04-25T16:25:20Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 116212</span>
-						<span>🔱 17109</span>
+						<span>⭐ 116392</span>
+						<span>🔱 17145</span>
 					</div>
 				<div class="stars-today">⭐ 103029 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 86250</span>
-						<span>🔱 8229</span>
+						<span>⭐ 86633</span>
+						<span>🔱 8264</span>
 					</div>
 				<div class="stars-today">⭐ 75285 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28812</span>
-						<span>🔱 3531</span>
+						<span>⭐ 28844</span>
+						<span>🔱 3532</span>
 					</div>
 				<div class="stars-today">⭐ 27573 stars this month</div>
 				</div>
@@ -96,7 +96,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25745</span>
+						<span>⭐ 25769</span>
 						<span>🔱 2135</span>
 					</div>
 				<div class="stars-today">⭐ 23184 stars this month</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32695</span>
-						<span>🔱 2203</span>
+						<span>⭐ 32714</span>
+						<span>🔱 2204</span>
 					</div>
 				<div class="stars-today">⭐ 23942 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21407</span>
-						<span>🔱 3790</span>
+						<span>⭐ 21427</span>
+						<span>🔱 3792</span>
 					</div>
 				<div class="stars-today">⭐ 9929 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14677</span>
-						<span>🔱 1983</span>
+						<span>⭐ 14733</span>
+						<span>🔱 1990</span>
 					</div>
 				<div class="stars-today">⭐ 11430 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21672</span>
-						<span>🔱 2907</span>
+						<span>⭐ 21702</span>
+						<span>🔱 2910</span>
 					</div>
 				<div class="stars-today">⭐ 10610 stars this month</div>
 				</div>
@@ -206,7 +206,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19662</span>
+						<span>⭐ 19675</span>
 						<span>🔱 3037</span>
 					</div>
 				<div class="stars-today">⭐ 5903 stars this month</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 22010</span>
-						<span>🔱 2132</span>
+						<span>⭐ 22015</span>
+						<span>🔱 2133</span>
 					</div>
 				<div class="stars-today">⭐ 6587 stars this month</div>
 				</div>
@@ -250,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41044</span>
+						<span>⭐ 41054</span>
 						<span>🔱 4731</span>
 					</div>
 				<div class="stars-today">⭐ 17233 stars this month</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 116819</span>
-						<span>🔱 7654</span>
+						<span>⭐ 116854</span>
+						<span>🔱 7657</span>
 					</div>
 				<div class="stars-today">⭐ 24833 stars this month</div>
 				</div>
@@ -292,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4305</span>
+						<span>⭐ 4310</span>
 						<span>🔱 427</span>
 					</div>
 				<div class="stars-today">⭐ 3301 stars this month</div>
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7047</span>
-						<span>🔱 793</span>
+						<span>⭐ 7077</span>
+						<span>🔱 796</span>
 					</div>
 				<div class="stars-today">⭐ 6027 stars this month</div>
 				</div>
@@ -336,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10826</span>
-						<span>🔱 1581</span>
+						<span>⭐ 11020</span>
+						<span>🔱 1610</span>
 					</div>
 				<div class="stars-today">⭐ 6026 stars this month</div>
 				</div>
@@ -358,7 +358,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18530</span>
+						<span>⭐ 18538</span>
 						<span>🔱 1811</span>
 					</div>
 				<div class="stars-today">⭐ 8432 stars this month</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 35193</span>
-						<span>🔱 2136</span>
+						<span>⭐ 35272</span>
+						<span>🔱 2140</span>
 					</div>
 				<div class="stars-today">⭐ 21519 stars this month</div>
 				</div>
@@ -402,8 +402,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7973</span>
-						<span>🔱 896</span>
+						<span>⭐ 8006</span>
+						<span>🔱 899</span>
 					</div>
 				<div class="stars-today">⭐ 5021 stars this month</div>
 				</div>
@@ -424,8 +424,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 67284</span>
-						<span>🔱 5727</span>
+						<span>⭐ 67332</span>
+						<span>🔱 5729</span>
 					</div>
 				<div class="stars-today">⭐ 27228 stars this month</div>
 				</div>
