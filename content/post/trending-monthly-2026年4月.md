@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-25T10:31:37Z
+date: 2026-04-25T12:31:04Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 115865</span>
-						<span>🔱 17053</span>
+						<span>⭐ 116004</span>
+						<span>🔱 17072</span>
 					</div>
 				<div class="stars-today">⭐ 103029 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 85470</span>
-						<span>🔱 8169</span>
+						<span>⭐ 85852</span>
+						<span>🔱 8196</span>
 					</div>
 				<div class="stars-today">⭐ 75285 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 28769</span>
-						<span>🔱 3526</span>
+						<span>⭐ 28790</span>
+						<span>🔱 3527</span>
 					</div>
 				<div class="stars-today">⭐ 27573 stars this month</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25703</span>
-						<span>🔱 2133</span>
+						<span>⭐ 25724</span>
+						<span>🔱 2135</span>
 					</div>
 				<div class="stars-today">⭐ 23184 stars this month</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 32657</span>
-						<span>🔱 2202</span>
+						<span>⭐ 32672</span>
+						<span>🔱 2203</span>
 					</div>
 				<div class="stars-today">⭐ 23942 stars this month</div>
 				</div>
@@ -140,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21371</span>
-						<span>🔱 3787</span>
+						<span>⭐ 21386</span>
+						<span>🔱 3789</span>
 					</div>
 				<div class="stars-today">⭐ 9929 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21564</span>
-						<span>🔱 2894</span>
-					</div>
-				<div class="stars-today">⭐ 10610 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14557</span>
-						<span>🔱 1967</span>
+						<span>⭐ 14615</span>
+						<span>🔱 1972</span>
 					</div>
 				<div class="stars-today">⭐ 11430 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
     
 
 
       
-        google-ai-edge /
+        HKUDS /
 
-      gallery</a></p>
+      DeepTutor</a></p>
 				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 22002</span>
-						<span>🔱 2130</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21614</span>
+						<span>🔱 2901</span>
 					</div>
-				<div class="stars-today">⭐ 6587 stars this month</div>
+				<div class="stars-today">⭐ 10610 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19640</span>
+						<span>⭐ 19645</span>
 						<span>🔱 3036</span>
 					</div>
 				<div class="stars-today">⭐ 5903 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 22006</span>
+						<span>🔱 2131</span>
+					</div>
+				<div class="stars-today">⭐ 6587 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 41015</span>
-						<span>🔱 4731</span>
+						<span>⭐ 41027</span>
+						<span>🔱 4730</span>
 					</div>
 				<div class="stars-today">⭐ 17233 stars this month</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 116740</span>
-						<span>🔱 7649</span>
+						<span>⭐ 116764</span>
+						<span>🔱 7651</span>
 					</div>
 				<div class="stars-today">⭐ 24833 stars this month</div>
 				</div>
@@ -292,10 +292,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4295</span>
+						<span>⭐ 4297</span>
 						<span>🔱 426</span>
 					</div>
 				<div class="stars-today">⭐ 3301 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
+    
+
+
+      
+        lsdefine /
+
+      GenericAgent</a></p>
+				<p>
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7019</span>
+						<span>🔱 790</span>
+					</div>
+				<div class="stars-today">⭐ 6027 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10620</span>
+						<span>🔱 1543</span>
+					</div>
+				<div class="stars-today">⭐ 6026 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18516</span>
-						<span>🔱 1811</span>
+						<span>⭐ 18519</span>
+						<span>🔱 1810</span>
 					</div>
 				<div class="stars-today">⭐ 8432 stars this month</div>
 				</div>
@@ -336,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 35027</span>
-						<span>🔱 2129</span>
+						<span>⭐ 35099</span>
+						<span>🔱 2133</span>
 					</div>
 				<div class="stars-today">⭐ 21519 stars this month</div>
 				</div>
@@ -358,76 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7915</span>
-						<span>🔱 890</span>
+						<span>⭐ 7938</span>
+						<span>🔱 893</span>
 					</div>
 				<div class="stars-today">⭐ 5021 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/onyx-dot-app/onyx" target="_blank">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
     
 
 
       
-        onyx-dot-app /
+        thedotmack /
 
-      onyx</a></p>
+      claude-mem</a></p>
 				<p>
-      Open Source AI Platform - AI Chat with advanced features that works with every LLM
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 28447</span>
-						<span>🔱 3785</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 67239</span>
+						<span>🔱 5721</span>
 					</div>
-				<div class="stars-today">⭐ 10498 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
-    
-
-
-      
-        lsdefine /
-
-      GenericAgent</a></p>
-				<p>
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6990</span>
-						<span>🔱 788</span>
-					</div>
-				<div class="stars-today">⭐ 6027 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hacksider/Deep-Live-Cam" target="_blank">
-    
-
-
-      
-        hacksider /
-
-      Deep-Live-Cam</a></p>
-				<p>
-      real time face swap and one-click video deepfake with only a single image
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 92266</span>
-						<span>🔱 13402</span>
-					</div>
-				<div class="stars-today">⭐ 12308 stars this month</div>
+				<div class="stars-today">⭐ 27228 stars this month</div>
 				</div>
 			</div>
 	

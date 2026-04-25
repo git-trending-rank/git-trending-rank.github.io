@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第17周
-date: 2026-04-25T10:31:37Z
+date: 2026-04-25T12:31:04Z
 categories:
 - weekly
 keywords:
@@ -14,50 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 85470</span>
-						<span>🔱 8169</span>
-					</div>
-				<div class="stars-today">⭐ 29435 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
-    
-
-
-      
-        SimoneAvogadro /
-
-      android-reverse-engineering-skill</a></p>
-				<p>
-      Claude Code skill to support Android app's reverse engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 4889</span>
-						<span>🔱 567</span>
-					</div>
-				<div class="stars-today">⭐ 2258 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
@@ -74,10 +30,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10441</span>
-						<span>🔱 1522</span>
+						<span>⭐ 10620</span>
+						<span>🔱 1543</span>
 					</div>
 				<div class="stars-today">⭐ 5160 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 85852</span>
+						<span>🔱 8196</span>
+					</div>
+				<div class="stars-today">⭐ 29435 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
+    
+
+
+      
+        thunderbird /
+
+      thunderbolt</a></p>
+				<p>
+      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 3981</span>
+						<span>🔱 250</span>
+					</div>
+				<div class="stars-today">⭐ 2840 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9206</span>
-						<span>🔱 707</span>
+						<span>⭐ 9231</span>
+						<span>🔱 708</span>
 					</div>
 				<div class="stars-today">⭐ 2878 stars this week</div>
 				</div>
@@ -118,142 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6990</span>
-						<span>🔱 788</span>
+						<span>⭐ 7019</span>
+						<span>🔱 790</span>
 					</div>
 				<div class="stars-today">⭐ 3483 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/EvoMap/evolver" target="_blank">
+				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
     
 
 
       
-        EvoMap /
+        SimoneAvogadro /
 
-      evolver</a></p>
+      android-reverse-engineering-skill</a></p>
 				<p>
-      The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai
+      Claude Code skill to support Android app's reverse engineering
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 6856</span>
-						<span>🔱 682</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 4897</span>
+						<span>🔱 567</span>
 					</div>
-				<div class="stars-today">⭐ 3099 stars this week</div>
+				<div class="stars-today">⭐ 2258 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
+				<p><a href="https://github.com/tractorjuice/arc-kit" target="_blank">
     
 
 
       
-        openai /
+        tractorjuice /
 
-      openai-agents-python</a></p>
+      arc-kit</a></p>
 				<p>
-      A lightweight, powerful framework for multi-agent workflows
+      Enterprise Architecture Governance & Vendor Procurement Toolkit
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25051</span>
-						<span>🔱 3821</span>
+						<span>🔠 HTML</span>
+						<span>⭐ 1584</span>
+						<span>🔱 189</span>
 					</div>
-				<div class="stars-today">⭐ 3372 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
-    
-
-
-      
-        Tracer-Cloud /
-
-      opensre</a></p>
-				<p>
-      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2995</span>
-						<span>🔱 336</span>
-					</div>
-				<div class="stars-today">⭐ 1623 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
-    
-
-
-      
-        multica-ai /
-
-      multica</a></p>
-				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 20837</span>
-						<span>🔱 2534</span>
-					</div>
-				<div class="stars-today">⭐ 5421 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 115865</span>
-						<span>🔱 17053</span>
-					</div>
-				<div class="stars-today">⭐ 19019 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
-    
-
-
-      
-        thedotmack /
-
-      claude-mem</a></p>
-				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 67201</span>
-						<span>🔱 5717</span>
-					</div>
-				<div class="stars-today">⭐ 5961 stars this week</div>
+				<div class="stars-today">⭐ 1054 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +184,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9934</span>
-						<span>🔱 683</span>
+						<span>⭐ 9958</span>
+						<span>🔱 685</span>
 					</div>
 				<div class="stars-today">⭐ 2315 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+    
+
+
+      
+        Tracer-Cloud /
+
+      opensre</a></p>
+				<p>
+      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3021</span>
+						<span>🔱 336</span>
+					</div>
+				<div class="stars-today">⭐ 1623 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/openai-agents-python" target="_blank">
+    
+
+
+      
+        openai /
+
+      openai-agents-python</a></p>
+				<p>
+      A lightweight, powerful framework for multi-agent workflows
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 25063</span>
+						<span>🔱 3827</span>
+					</div>
+				<div class="stars-today">⭐ 3372 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,7 +250,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Cuda</span>
-						<span>⭐ 7012</span>
+						<span>⭐ 7016</span>
 						<span>🔱 930</span>
 					</div>
 				<div class="stars-today">⭐ 605 stars this week</div>
@@ -302,46 +258,90 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/jamiepine/voicebox" target="_blank">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
     
 
 
       
-        jamiepine /
+        multica-ai /
 
-      voicebox</a></p>
+      multica</a></p>
 				<p>
-      The open-source AI voice studio. Clone, dictate, create.
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23235</span>
-						<span>🔱 2736</span>
+						<span>⭐ 20886</span>
+						<span>🔱 2538</span>
 					</div>
-				<div class="stars-today">⭐ 3540 stars this week</div>
+				<div class="stars-today">⭐ 5421 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Lordog/dive-into-llms" target="_blank">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
     
 
 
       
-        Lordog /
+        Z4nzu /
 
-      dive-into-llms</a></p>
+      hackingtool</a></p>
 				<p>
-      《动手学大模型Dive into LLMs》系列编程实践教程
+      ALL IN ONE Hacking Tool For Hackers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Jupyter Notebook</span>
-						<span>⭐ 34332</span>
-						<span>🔱 4213</span>
+						<span>🔠 Python</span>
+						<span>⭐ 62951</span>
+						<span>🔱 7062</span>
 					</div>
-				<div class="stars-today">⭐ 2886 stars this week</div>
+				<div class="stars-today">⭐ 3779 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 116004</span>
+						<span>🔱 17072</span>
+					</div>
+				<div class="stars-today">⭐ 19019 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 8003</span>
+						<span>🔱 1457</span>
+					</div>
+				<div class="stars-today">⭐ 2417 stars this week</div>
 				</div>
 			</div>
 	
