@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-25
-date: 2026-04-25T16:25:20Z
+date: 2026-04-25T18:30:14Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11020</span>
-						<span>🔱 1610</span>
+						<span>⭐ 11183</span>
+						<span>🔱 1643</span>
 					</div>
 				<div class="stars-today">⭐ 3975 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 19216</span>
-						<span>🔱 1607</span>
+						<span>⭐ 19433</span>
+						<span>🔱 1628</span>
 					</div>
 				<div class="stars-today">⭐ 857 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63348</span>
-						<span>🔱 7102</span>
+						<span>⭐ 63511</span>
+						<span>🔱 7119</span>
 					</div>
 				<div class="stars-today">⭐ 1200 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33381</span>
-						<span>🔱 2596</span>
+						<span>⭐ 33405</span>
+						<span>🔱 2598</span>
 					</div>
 				<div class="stars-today">⭐ 469 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25245</span>
-						<span>🔱 2519</span>
+						<span>⭐ 25269</span>
+						<span>🔱 2522</span>
 					</div>
 				<div class="stars-today">⭐ 78 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Cuda</span>
-						<span>⭐ 9445</span>
-						<span>🔱 1191</span>
+						<span>⭐ 9459</span>
+						<span>🔱 1193</span>
 					</div>
 				<div class="stars-today">⭐ 189 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C#</span>
-						<span>⭐ 52986</span>
-						<span>🔱 8288</span>
+						<span>⭐ 53005</span>
+						<span>🔱 8293</span>
 					</div>
 				<div class="stars-today">⭐ 68 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23444</span>
-						<span>🔱 3118</span>
+						<span>⭐ 23464</span>
+						<span>🔱 3119</span>
 					</div>
 				<div class="stars-today">⭐ 55 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6022</span>
-						<span>🔱 543</span>
+						<span>⭐ 6096</span>
+						<span>🔱 552</span>
 					</div>
 				<div class="stars-today">⭐ 1236 stars today</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 495676</span>
-						<span>🔱 46965</span>
+						<span>⭐ 495772</span>
+						<span>🔱 46980</span>
 					</div>
 				<div class="stars-today">⭐ 1431 stars today</div>
 				</div>
@@ -245,13 +245,13 @@ keywords:
 
       ds2api</a></p>
 				<p>
-      Deepseek to API - 客户端协议转通用API全栈中间件工具，轻量、高性能，多账号轮询，支持二进制编译文件、Vercel Serverless、Docker部署。Google、Claude、OpenAI多接口格式兼容
+      Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 1347</span>
-						<span>🔱 442</span>
+						<span>⭐ 1368</span>
+						<span>🔱 444</span>
 					</div>
 				<div class="stars-today">⭐ 37 stars today</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2725</span>
-						<span>🔱 344</span>
+						<span>⭐ 2746</span>
+						<span>🔱 346</span>
 					</div>
 				<div class="stars-today">⭐ 16 stars today</div>
 				</div>
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1328</span>
-						<span>🔱 122</span>
+						<span>⭐ 1373</span>
+						<span>🔱 126</span>
 					</div>
 				<div class="stars-today">⭐ 174 stars today</div>
 				</div>
