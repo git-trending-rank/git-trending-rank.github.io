@@ -6,10 +6,10 @@
         <description>Recent content in Monthly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 26 Apr 2026 10:32:35 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 Apr 2026 12:33:24 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/monthly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年4月</title>
         <link>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B44%E6%9C%88/</link>
-        <pubDate>Sun, 26 Apr 2026 10:32:35 +0000</pubDate>
+        <pubDate>Sun, 26 Apr 2026 12:33:24 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-monthly-2026%E5%B9%B44%E6%9C%88/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,28 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The agent that grows with you
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 117437&lt;/span&gt;
-						&lt;span&gt;🔱 17373&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 103696 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/forrestchang/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
@@ -55,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 88990&lt;/span&gt;
-						&lt;span&gt;🔱 8483&lt;/span&gt;
+						&lt;span&gt;⭐ 89289&lt;/span&gt;
+						&lt;span&gt;🔱 8509&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 78581 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The agent that grows with you
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 117599&lt;/span&gt;
+						&lt;span&gt;🔱 17400&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 103696 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,32 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 29027&lt;/span&gt;
-						&lt;span&gt;🔱 3551&lt;/span&gt;
+						&lt;span&gt;⭐ 29048&lt;/span&gt;
+						&lt;span&gt;🔱 3553&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 27798 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/siddharthvaddem/openscreen&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 32835&lt;/span&gt;
-						&lt;span&gt;🔱 2212&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 24060 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,10 +99,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 21535&lt;/span&gt;
-						&lt;span&gt;🔱 3810&lt;/span&gt;
+						&lt;span&gt;⭐ 21547&lt;/span&gt;
+						&lt;span&gt;🔱 3811&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10218 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/siddharthvaddem/openscreen&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 32850&lt;/span&gt;
+						&lt;span&gt;🔱 2212&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 24060 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 15136&lt;/span&gt;
-						&lt;span&gt;🔱 2060&lt;/span&gt;
+						&lt;span&gt;⭐ 15191&lt;/span&gt;
+						&lt;span&gt;🔱 2064&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 11821 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -165,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 21904&lt;/span&gt;
-						&lt;span&gt;🔱 2928&lt;/span&gt;
+						&lt;span&gt;⭐ 21923&lt;/span&gt;
+						&lt;span&gt;🔱 2931&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10894 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -187,8 +187,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 19761&lt;/span&gt;
-						&lt;span&gt;🔱 3051&lt;/span&gt;
+						&lt;span&gt;⭐ 19769&lt;/span&gt;
+						&lt;span&gt;🔱 3052&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5998 stars this month&lt;/div&gt;
 				&lt;/div&gt;
@@ -209,32 +209,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Kotlin&lt;/span&gt;
-						&lt;span&gt;⭐ 22064&lt;/span&gt;
+						&lt;span&gt;⭐ 22073&lt;/span&gt;
 						&lt;span&gt;🔱 2142&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6648 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/VibeVoice&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        microsoft /
-
-      VibeVoice&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Open-Source Frontier Voice AI
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 41469&lt;/span&gt;
-						&lt;span&gt;🔱 4774&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17315 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -253,10 +231,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 117177&lt;/span&gt;
-						&lt;span&gt;🔱 7681&lt;/span&gt;
+						&lt;span&gt;⭐ 117214&lt;/span&gt;
+						&lt;span&gt;🔱 7690&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 25114 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Alishahryar1/free-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 12321&lt;/span&gt;
+						&lt;span&gt;🔱 1830&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9506 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/microsoft/VibeVoice&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        microsoft /
+
+      VibeVoice&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open-Source Frontier Voice AI
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 41574&lt;/span&gt;
+						&lt;span&gt;🔱 4788&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 17315 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -273,7 +295,7 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 C++&lt;/span&gt;
-						&lt;span&gt;⭐ 4341&lt;/span&gt;
+						&lt;span&gt;⭐ 4350&lt;/span&gt;
 						&lt;span&gt;🔱 429&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3337 stars this month&lt;/div&gt;
@@ -295,76 +317,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7262&lt;/span&gt;
-						&lt;span&gt;🔱 818&lt;/span&gt;
+						&lt;span&gt;⭐ 7275&lt;/span&gt;
+						&lt;span&gt;🔱 819&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6306 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Alishahryar1/free-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12107&lt;/span&gt;
-						&lt;span&gt;🔱 1809&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9506 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/google-research/timesfm&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        google-research /
-
-      timesfm&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 18598&lt;/span&gt;
-						&lt;span&gt;🔱 1815&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8492 stars this month&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/rtk-ai/rtk&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        rtk-ai /
-
-      rtk&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 35778&lt;/span&gt;
-						&lt;span&gt;🔱 2167&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22183 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -383,32 +339,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 8208&lt;/span&gt;
-						&lt;span&gt;🔱 915&lt;/span&gt;
+						&lt;span&gt;⭐ 8227&lt;/span&gt;
+						&lt;span&gt;🔱 917&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5105 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/thedotmack/claude-mem&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/rtk-ai/rtk&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        thedotmack /
+        rtk-ai /
 
-      claude-mem&lt;/a&gt;&lt;/p&gt;
+      rtk&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions.
+      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 67688&lt;/span&gt;
-						&lt;span&gt;🔱 5763&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 35821&lt;/span&gt;
+						&lt;span&gt;🔱 2171&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 27348 stars this month&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 22183 stars this month&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/google-research/timesfm&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        google-research /
+
+      timesfm&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 18608&lt;/span&gt;
+						&lt;span&gt;🔱 1815&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8492 stars this month&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

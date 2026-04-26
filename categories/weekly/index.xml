@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 26 Apr 2026 10:32:35 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 26 Apr 2026 12:33:24 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第17周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC17%E5%91%A8/</link>
-        <pubDate>Sun, 26 Apr 2026 10:32:35 +0000</pubDate>
+        <pubDate>Sun, 26 Apr 2026 12:33:24 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC17%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,10 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 12107&lt;/span&gt;
-						&lt;span&gt;🔱 1809&lt;/span&gt;
+						&lt;span&gt;⭐ 12321&lt;/span&gt;
+						&lt;span&gt;🔱 1830&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8668 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 15191&lt;/span&gt;
+						&lt;span&gt;🔱 2064&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10185 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -55,32 +77,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 88990&lt;/span&gt;
-						&lt;span&gt;🔱 8483&lt;/span&gt;
+						&lt;span&gt;⭐ 89289&lt;/span&gt;
+						&lt;span&gt;🔱 8509&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 29917 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/thunderbird/thunderbolt&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        thunderbird /
-
-      thunderbolt&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4099&lt;/span&gt;
-						&lt;span&gt;🔱 259&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2799 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,10 +99,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9482&lt;/span&gt;
+						&lt;span&gt;⭐ 9498&lt;/span&gt;
 						&lt;span&gt;🔱 726&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3301 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/thunderbird/thunderbolt&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        thunderbird /
+
+      thunderbolt&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 4108&lt;/span&gt;
+						&lt;span&gt;🔱 260&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2799 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Z4nzu/hackingtool&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Z4nzu /
+
+      hackingtool&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      ALL IN ONE Hacking Tool For Hackers
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 64650&lt;/span&gt;
+						&lt;span&gt;🔱 7248&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4799 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7262&lt;/span&gt;
-						&lt;span&gt;🔱 818&lt;/span&gt;
+						&lt;span&gt;⭐ 7275&lt;/span&gt;
+						&lt;span&gt;🔱 819&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3006 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -143,32 +187,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 5045&lt;/span&gt;
-						&lt;span&gt;🔱 582&lt;/span&gt;
+						&lt;span&gt;⭐ 5055&lt;/span&gt;
+						&lt;span&gt;🔱 583&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1981 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/tractorjuice/arc-kit&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mksglu/context-mode&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        tractorjuice /
+        mksglu /
 
-      arc-kit&lt;/a&gt;&lt;/p&gt;
+      context-mode&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Enterprise Architecture Governance &amp; Vendor Procurement Toolkit
+      Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 HTML&lt;/span&gt;
-						&lt;span&gt;⭐ 1646&lt;/span&gt;
-						&lt;span&gt;🔱 192&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 10241&lt;/span&gt;
+						&lt;span&gt;🔱 710&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1004 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2396 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/mattpocock/skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        mattpocock /
+
+      skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      My personal directory of skills, straight from my .claude directory.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 21393&lt;/span&gt;
+						&lt;span&gt;🔱 1772&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3731 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,120 +253,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3227&lt;/span&gt;
-						&lt;span&gt;🔱 357&lt;/span&gt;
+						&lt;span&gt;⭐ 3245&lt;/span&gt;
+						&lt;span&gt;🔱 361&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1385 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openai/openai-agents-python&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        openai /
-
-      openai-agents-python&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A lightweight, powerful framework for multi-agent workflows
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 25237&lt;/span&gt;
-						&lt;span&gt;🔱 3854&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3061 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/deepseek-ai/DeepGEMM&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        deepseek-ai /
-
-      DeepGEMM&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Cuda&lt;/span&gt;
-						&lt;span&gt;⭐ 7052&lt;/span&gt;
-						&lt;span&gt;🔱 931&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 614 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/multica-ai/multica&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        multica-ai /
-
-      multica&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 21238&lt;/span&gt;
-						&lt;span&gt;🔱 2582&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5118 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Z4nzu/hackingtool&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Z4nzu /
-
-      hackingtool&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      ALL IN ONE Hacking Tool For Hackers
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 64509&lt;/span&gt;
-						&lt;span&gt;🔱 7228&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4799 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/NousResearch/hermes-agent&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      The agent that grows with you
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 117437&lt;/span&gt;
-						&lt;span&gt;🔱 17373&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 18223 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -319,10 +275,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 8550&lt;/span&gt;
-						&lt;span&gt;🔱 1562&lt;/span&gt;
+						&lt;span&gt;⭐ 8588&lt;/span&gt;
+						&lt;span&gt;🔱 1567&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2917 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/HKUDS/RAG-Anything&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        HKUDS /
+
+      RAG-Anything&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      &#34;RAG-Anything: All-in-One RAG Framework&#34;
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 18717&lt;/span&gt;
+						&lt;span&gt;🔱 2150&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2592 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/multica-ai/multica&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        multica-ai /
+
+      multica&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 21274&lt;/span&gt;
+						&lt;span&gt;🔱 2590&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5118 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/deepseek-ai/DeepGEMM&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        deepseek-ai /
+
+      DeepGEMM&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Cuda&lt;/span&gt;
+						&lt;span&gt;⭐ 7057&lt;/span&gt;
+						&lt;span&gt;🔱 932&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 614 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
