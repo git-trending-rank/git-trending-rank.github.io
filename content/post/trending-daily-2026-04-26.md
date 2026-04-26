@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-04-26
-date: 2026-04-26T10:32:35Z
+date: 2026-04-26T12:33:24Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12107</span>
-						<span>🔱 1809</span>
-					</div>
-				<div class="stars-today">⭐ 4007 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/mattpocock/skills" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 21047</span>
-						<span>🔱 1744</span>
+						<span>⭐ 21393</span>
+						<span>🔱 1772</span>
 					</div>
-				<div class="stars-today">⭐ 1139 stars today</div>
+				<div class="stars-today">⭐ 2507 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12321</span>
+						<span>🔱 1830</span>
+					</div>
+				<div class="stars-today">⭐ 1694 stars today</div>
 				</div>
 			</div>
 	
@@ -74,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64509</span>
-						<span>🔱 7228</span>
+						<span>⭐ 64650</span>
+						<span>🔱 7248</span>
 					</div>
-				<div class="stars-today">⭐ 1200 stars today</div>
+				<div class="stars-today">⭐ 1724 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+    
+
+
+      
+        abhigyanpatwari /
+
+      GitNexus</a></p>
+				<p>
+      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 29704</span>
+						<span>🔱 3423</span>
+					</div>
+				<div class="stars-today">⭐ 667 stars today</div>
 				</div>
 			</div>
 	
@@ -96,120 +118,120 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 33633</span>
-						<span>🔱 2619</span>
+						<span>⭐ 33652</span>
+						<span>🔱 2622</span>
 					</div>
-				<div class="stars-today">⭐ 471 stars today</div>
+				<div class="stars-today">⭐ 338 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/davila7/claude-code-templates" target="_blank">
+				<p><a href="https://github.com/microsoft/typescript-go" target="_blank">
     
 
 
       
-        davila7 /
+        microsoft /
 
-      claude-code-templates</a></p>
+      typescript-go</a></p>
 				<p>
-      CLI tool for configuring and monitoring Claude Code
+      Staging repo for development of native port of TypeScript
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 25109</span>
+						<span>🔱 915</span>
+					</div>
+				<div class="stars-today">⭐ 130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 14220</span>
+						<span>🔱 883</span>
+					</div>
+				<div class="stars-today">⭐ 204 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/gastownhall/beads" target="_blank">
+    
+
+
+      
+        gastownhall /
+
+      beads</a></p>
+				<p>
+      Beads - A memory upgrade for your coding agent
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 21464</span>
+						<span>🔱 1435</span>
+					</div>
+				<div class="stars-today">⭐ 133 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/curl/curl" target="_blank">
+    
+
+
+      
+        curl /
+
+      curl</a></p>
+				<p>
+      A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 41417</span>
+						<span>🔱 7148</span>
+					</div>
+				<div class="stars-today">⭐ 9 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/home-assistant/core" target="_blank">
+    
+
+
+      
+        home-assistant /
+
+      core</a></p>
+				<p>
+      🏡 Open source home automation that puts local control and privacy first.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25480</span>
-						<span>🔱 2541</span>
+						<span>⭐ 86288</span>
+						<span>🔱 37347</span>
 					</div>
-				<div class="stars-today">⭐ 87 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/deepseek-ai/DeepEP" target="_blank">
-    
-
-
-      
-        deepseek-ai /
-
-      DeepEP</a></p>
-				<p>
-      DeepEP: an efficient expert-parallel communication library
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Cuda</span>
-						<span>⭐ 9549</span>
-						<span>🔱 1201</span>
-					</div>
-				<div class="stars-today">⭐ 189 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PowerShell/PowerShell" target="_blank">
-    
-
-
-      
-        PowerShell /
-
-      PowerShell</a></p>
-				<p>
-      PowerShell for every system!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 53151</span>
-						<span>🔱 8299</span>
-					</div>
-				<div class="stars-today">⭐ 48 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/RooCodeInc/Roo-Code" target="_blank">
-    
-
-
-      
-        RooCodeInc /
-
-      Roo-Code</a></p>
-				<p>
-      Roo Code gives you a whole dev team of AI agents in your code editor.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 23619</span>
-						<span>🔱 3133</span>
-					</div>
-				<div class="stars-today">⭐ 57 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/ml-intern" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      ml-intern</a></p>
-				<p>
-      🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6518</span>
-						<span>🔱 590</span>
-					</div>
-				<div class="stars-today">⭐ 1240 stars today</div>
+				<div class="stars-today">⭐ 52 stars today</div>
 				</div>
 			</div>
 	
@@ -228,54 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Markdown</span>
-						<span>⭐ 496350</span>
-						<span>🔱 47042</span>
+						<span>⭐ 496442</span>
+						<span>🔱 47050</span>
 					</div>
-				<div class="stars-today">⭐ 1432 stars today</div>
+				<div class="stars-today">⭐ 1074 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
+				<p><a href="https://github.com/openclaw/openclaw" target="_blank">
     
 
 
       
-        CJackHwang /
+        openclaw /
 
-      ds2api</a></p>
+      openclaw</a></p>
 				<p>
-      Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+      Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 1553</span>
-						<span>🔱 491</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 364185</span>
+						<span>🔱 74578</span>
 					</div>
-				<div class="stars-today">⭐ 44 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Universal-Commerce-Protocol/ucp" target="_blank">
-    
-
-
-      
-        Universal-Commerce-Protocol /
-
-      ucp</a></p>
-				<p>
-      Specification and documentation for the Universal Commerce Protocol (UCP)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 2867</span>
-						<span>🔱 353</span>
-					</div>
-				<div class="stars-today">⭐ 26 stars today</div>
+				<div class="stars-today">⭐ 620 stars today</div>
 				</div>
 			</div>
 	
@@ -294,10 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1701</span>
-						<span>🔱 144</span>
+						<span>⭐ 1741</span>
+						<span>🔱 147</span>
 					</div>
-				<div class="stars-today">⭐ 188 stars today</div>
+				<div class="stars-today">⭐ 518 stars today</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-26T10:32:35Z
+date: 2026-04-26T12:33:24Z
 categories:
 - monthly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
-    
-
-
-      
-        NousResearch /
-
-      hermes-agent</a></p>
-				<p>
-      The agent that grows with you
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 117437</span>
-						<span>🔱 17373</span>
-					</div>
-				<div class="stars-today">⭐ 103696 stars this month</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
@@ -52,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 88990</span>
-						<span>🔱 8483</span>
+						<span>⭐ 89289</span>
+						<span>🔱 8509</span>
 					</div>
 				<div class="stars-today">⭐ 78581 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/NousResearch/hermes-agent" target="_blank">
+    
+
+
+      
+        NousResearch /
+
+      hermes-agent</a></p>
+				<p>
+      The agent that grows with you
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 117599</span>
+						<span>🔱 17400</span>
+					</div>
+				<div class="stars-today">⭐ 103696 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29027</span>
-						<span>🔱 3551</span>
+						<span>⭐ 29048</span>
+						<span>🔱 3553</span>
 					</div>
 				<div class="stars-today">⭐ 27798 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 32835</span>
-						<span>🔱 2212</span>
-					</div>
-				<div class="stars-today">⭐ 24060 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21535</span>
-						<span>🔱 3810</span>
+						<span>⭐ 21547</span>
+						<span>🔱 3811</span>
 					</div>
 				<div class="stars-today">⭐ 10218 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 32850</span>
+						<span>🔱 2212</span>
+					</div>
+				<div class="stars-today">⭐ 24060 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15136</span>
-						<span>🔱 2060</span>
+						<span>⭐ 15191</span>
+						<span>🔱 2064</span>
 					</div>
 				<div class="stars-today">⭐ 11821 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21904</span>
-						<span>🔱 2928</span>
+						<span>⭐ 21923</span>
+						<span>🔱 2931</span>
 					</div>
 				<div class="stars-today">⭐ 10894 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19761</span>
-						<span>🔱 3051</span>
+						<span>⭐ 19769</span>
+						<span>🔱 3052</span>
 					</div>
 				<div class="stars-today">⭐ 5998 stars this month</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 22064</span>
+						<span>⭐ 22073</span>
 						<span>🔱 2142</span>
 					</div>
 				<div class="stars-today">⭐ 6648 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      VibeVoice</a></p>
-				<p>
-      Open-Source Frontier Voice AI
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 41469</span>
-						<span>🔱 4774</span>
-					</div>
-				<div class="stars-today">⭐ 17315 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 117177</span>
-						<span>🔱 7681</span>
+						<span>⭐ 117214</span>
+						<span>🔱 7690</span>
 					</div>
 				<div class="stars-today">⭐ 25114 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12321</span>
+						<span>🔱 1830</span>
+					</div>
+				<div class="stars-today">⭐ 9506 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 41574</span>
+						<span>🔱 4788</span>
+					</div>
+				<div class="stars-today">⭐ 17315 stars this month</div>
 				</div>
 			</div>
 	
@@ -270,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4341</span>
+						<span>⭐ 4350</span>
 						<span>🔱 429</span>
 					</div>
 				<div class="stars-today">⭐ 3337 stars this month</div>
@@ -292,76 +314,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7262</span>
-						<span>🔱 818</span>
+						<span>⭐ 7275</span>
+						<span>🔱 819</span>
 					</div>
 				<div class="stars-today">⭐ 6306 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or via discord like openclaw
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 12107</span>
-						<span>🔱 1809</span>
-					</div>
-				<div class="stars-today">⭐ 9506 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18598</span>
-						<span>🔱 1815</span>
-					</div>
-				<div class="stars-today">⭐ 8492 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
-    
-
-
-      
-        rtk-ai /
-
-      rtk</a></p>
-				<p>
-      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 35778</span>
-						<span>🔱 2167</span>
-					</div>
-				<div class="stars-today">⭐ 22183 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,32 +336,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8208</span>
-						<span>🔱 915</span>
+						<span>⭐ 8227</span>
+						<span>🔱 917</span>
 					</div>
 				<div class="stars-today">⭐ 5105 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
     
 
 
       
-        thedotmack /
+        rtk-ai /
 
-      claude-mem</a></p>
+      rtk</a></p>
 				<p>
-      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 67688</span>
-						<span>🔱 5763</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 35821</span>
+						<span>🔱 2171</span>
 					</div>
-				<div class="stars-today">⭐ 27348 stars this month</div>
+				<div class="stars-today">⭐ 22183 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-research/timesfm" target="_blank">
+    
+
+
+      
+        google-research /
+
+      timesfm</a></p>
+				<p>
+      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18608</span>
+						<span>🔱 1815</span>
+					</div>
+				<div class="stars-today">⭐ 8492 stars this month</div>
 				</div>
 			</div>
 	
