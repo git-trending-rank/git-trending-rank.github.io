@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-27T07:57:17Z
+date: 2026-04-27T11:28:00Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 91914</span>
-						<span>🔱 8812</span>
+						<span>⭐ 92460</span>
+						<span>🔱 8880</span>
 					</div>
 				<div class="stars-today">⭐ 82118 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 119224</span>
-						<span>🔱 17695</span>
+						<span>⭐ 119614</span>
+						<span>🔱 17756</span>
 					</div>
 				<div class="stars-today">⭐ 104773 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26199</span>
-						<span>🔱 2154</span>
+						<span>⭐ 26260</span>
+						<span>🔱 2162</span>
 					</div>
 				<div class="stars-today">⭐ 23592 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
-    
-
-
-      
-        luongnv89 /
-
-      claude-howto</a></p>
-				<p>
-      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29286</span>
-						<span>🔱 3597</span>
-					</div>
-				<div class="stars-today">⭐ 27992 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21693</span>
-						<span>🔱 3831</span>
+						<span>⭐ 21717</span>
+						<span>🔱 3832</span>
 					</div>
 				<div class="stars-today">⭐ 10363 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33019</span>
-						<span>🔱 2223</span>
-					</div>
-				<div class="stars-today">⭐ 24172 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15796</span>
-						<span>🔱 2156</span>
+						<span>⭐ 15899</span>
+						<span>🔱 2169</span>
 					</div>
 				<div class="stars-today">⭐ 12424 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
+    
+
+
+      
+        luongnv89 /
+
+      claude-howto</a></p>
+				<p>
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29348</span>
+						<span>🔱 3607</span>
+					</div>
+				<div class="stars-today">⭐ 27992 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33063</span>
+						<span>🔱 2225</span>
+					</div>
+				<div class="stars-today">⭐ 24172 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22101</span>
-						<span>🔱 2949</span>
+						<span>⭐ 22137</span>
+						<span>🔱 2952</span>
 					</div>
 				<div class="stars-today">⭐ 11213 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19841</span>
-						<span>🔱 3058</span>
+						<span>⭐ 19860</span>
+						<span>🔱 3064</span>
 					</div>
 				<div class="stars-today">⭐ 6105 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 22120</span>
-						<span>🔱 2147</span>
+						<span>⭐ 22125</span>
+						<span>🔱 2148</span>
 					</div>
 				<div class="stars-today">⭐ 6710 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
-    
-
-
-      
-        microsoft /
-
-      markitdown</a></p>
-				<p>
-      Python tool for converting files and office documents to Markdown.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 117599</span>
-						<span>🔱 7717</span>
-					</div>
-				<div class="stars-today">⭐ 25187 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,32 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14646</span>
-						<span>🔱 2042</span>
+						<span>⭐ 15129</span>
+						<span>🔱 2095</span>
 					</div>
 				<div class="stars-today">⭐ 11242 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+				<p><a href="https://github.com/microsoft/markitdown" target="_blank">
     
 
 
       
         microsoft /
 
-      VibeVoice</a></p>
+      markitdown</a></p>
 				<p>
-      Open-Source Frontier Voice AI
+      Python tool for converting files and office documents to Markdown.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 42182</span>
-						<span>🔱 4833</span>
+						<span>⭐ 117707</span>
+						<span>🔱 7730</span>
 					</div>
-				<div class="stars-today">⭐ 17850 stars this month</div>
+				<div class="stars-today">⭐ 25187 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,7 +292,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4389</span>
+						<span>⭐ 4400</span>
 						<span>🔱 436</span>
 					</div>
 				<div class="stars-today">⭐ 3386 stars this month</div>
@@ -336,10 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7520</span>
-						<span>🔱 853</span>
+						<span>⭐ 7587</span>
+						<span>🔱 859</span>
 					</div>
 				<div class="stars-today">⭐ 6534 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+    
+
+
+      
+        microsoft /
+
+      VibeVoice</a></p>
+				<p>
+      Open-Source Frontier Voice AI
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 42238</span>
+						<span>🔱 4839</span>
+					</div>
+				<div class="stars-today">⭐ 17850 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8484</span>
-						<span>🔱 933</span>
+						<span>⭐ 8543</span>
+						<span>🔱 936</span>
 					</div>
 				<div class="stars-today">⭐ 5275 stars this month</div>
 				</div>
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36414</span>
-						<span>🔱 2210</span>
+						<span>⭐ 36585</span>
+						<span>🔱 2217</span>
 					</div>
 				<div class="stars-today">⭐ 22248 stars this month</div>
 				</div>
@@ -402,10 +402,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18695</span>
+						<span>⭐ 18702</span>
 						<span>🔱 1819</span>
 					</div>
 				<div class="stars-today">⭐ 8574 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 68221</span>
+						<span>🔱 5809</span>
+					</div>
+				<div class="stars-today">⭐ 27436 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Agent Skills for real engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 26611</span>
+						<span>🔱 2128</span>
+					</div>
+				<div class="stars-today">⭐ 13281 stars this month</div>
 				</div>
 			</div>
 	

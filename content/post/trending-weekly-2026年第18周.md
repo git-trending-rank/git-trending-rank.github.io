@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-04-27T07:57:17Z
+date: 2026-04-27T11:28:00Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14646</span>
-						<span>🔱 2042</span>
+						<span>⭐ 15129</span>
+						<span>🔱 2095</span>
 					</div>
 				<div class="stars-today">⭐ 10335 stars this week</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 15796</span>
-						<span>🔱 2156</span>
+						<span>⭐ 15899</span>
+						<span>🔱 2169</span>
 					</div>
 				<div class="stars-today">⭐ 10070 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 91914</span>
-						<span>🔱 8812</span>
-					</div>
-				<div class="stars-today">⭐ 29944 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,32 +74,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9702</span>
-						<span>🔱 738</span>
+						<span>⭐ 9743</span>
+						<span>🔱 743</span>
 					</div>
 				<div class="stars-today">⭐ 3537 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
     
 
 
       
-        thunderbird /
+        forrestchang /
 
-      thunderbolt</a></p>
+      andrej-karpathy-skills</a></p>
 				<p>
-      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4213</span>
-						<span>🔱 274</span>
+						<span>🔠 </span>
+						<span>⭐ 92460</span>
+						<span>🔱 8880</span>
 					</div>
-				<div class="stars-today">⭐ 2244 stars this week</div>
+				<div class="stars-today">⭐ 29944 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Agent Skills for real engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 26611</span>
+						<span>🔱 2128</span>
+					</div>
+				<div class="stars-today">⭐ 5013 stars this week</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 66110</span>
-						<span>🔱 7425</span>
+						<span>⭐ 66369</span>
+						<span>🔱 7459</span>
 					</div>
 				<div class="stars-today">⭐ 6488 stars this week</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7520</span>
-						<span>🔱 853</span>
+						<span>⭐ 7587</span>
+						<span>🔱 859</span>
 					</div>
 				<div class="stars-today">⭐ 2936 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
-    
-
-
-      
-        SimoneAvogadro /
-
-      android-reverse-engineering-skill</a></p>
-				<p>
-      Claude Code skill to support Android app's reverse engineering
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 5205</span>
-						<span>🔱 588</span>
-					</div>
-				<div class="stars-today">⭐ 1685 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10506</span>
-						<span>🔱 725</span>
+						<span>⭐ 10550</span>
+						<span>🔱 727</span>
 					</div>
 				<div class="stars-today">⭐ 2504 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
     
 
 
       
-        mattpocock /
+        thunderbird /
 
-      skills</a></p>
+      thunderbolt</a></p>
 				<p>
-      Agent Skills for real engineers. Straight from my .claude directory.
+      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 25624</span>
-						<span>🔱 2067</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 4238</span>
+						<span>🔱 275</span>
 					</div>
-				<div class="stars-today">⭐ 5013 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
-    
-
-
-      
-        Tracer-Cloud /
-
-      opensre</a></p>
-				<p>
-      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3457</span>
-						<span>🔱 384</span>
-					</div>
-				<div class="stars-today">⭐ 1511 stars this week</div>
+				<div class="stars-today">⭐ 2244 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 9041</span>
-						<span>🔱 1634</span>
+						<span>⭐ 9130</span>
+						<span>🔱 1648</span>
 					</div>
 				<div class="stars-today">⭐ 3448 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+    
+
+
+      
+        Tracer-Cloud /
+
+      opensre</a></p>
+				<p>
+      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3509</span>
+						<span>🔱 389</span>
+					</div>
+				<div class="stars-today">⭐ 1511 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,54 +272,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18912</span>
-						<span>🔱 2159</span>
+						<span>⭐ 18946</span>
+						<span>🔱 2168</span>
 					</div>
 				<div class="stars-today">⭐ 2639 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
     
 
 
       
-        multica-ai /
+        GyulyVGC /
 
-      multica</a></p>
+      sniffnet</a></p>
 				<p>
-      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+      Comfortably monitor your Internet traffic 🕵️‍♂️
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 21669</span>
-						<span>🔱 2636</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 36425</span>
+						<span>🔱 1423</span>
 					</div>
-				<div class="stars-today">⭐ 4882 stars this week</div>
+				<div class="stars-today">⭐ 1858 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/deepseek-ai/DeepGEMM" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        deepseek-ai /
+        addyosmani /
 
-      DeepGEMM</a></p>
+      agent-skills</a></p>
 				<p>
-      DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Cuda</span>
-						<span>⭐ 7099</span>
-						<span>🔱 935</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 24298</span>
+						<span>🔱 3013</span>
 					</div>
-				<div class="stars-today">⭐ 438 stars this week</div>
+				<div class="stars-today">⭐ 5857 stars this week</div>
 				</div>
 			</div>
 	
