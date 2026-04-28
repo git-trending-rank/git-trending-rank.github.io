@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-28T07:56:47Z
+date: 2026-04-28T11:28:42Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 95166</span>
-						<span>🔱 9217</span>
+						<span>⭐ 95650</span>
+						<span>🔱 9271</span>
 					</div>
 				<div class="stars-today">⭐ 85629 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 121433</span>
-						<span>🔱 18067</span>
+						<span>⭐ 121868</span>
+						<span>🔱 18140</span>
 					</div>
 				<div class="stars-today">⭐ 106290 stars this month</div>
 				</div>
@@ -74,164 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 26486</span>
-						<span>🔱 2172</span>
+						<span>⭐ 26530</span>
+						<span>🔱 2174</span>
 					</div>
 				<div class="stars-today">⭐ 23773 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21813</span>
-						<span>🔱 3854</span>
-					</div>
-				<div class="stars-today">⭐ 10523 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16551</span>
-						<span>🔱 2244</span>
-					</div>
-				<div class="stars-today">⭐ 13159 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
-    
-
-
-      
-        luongnv89 /
-
-      claude-howto</a></p>
-				<p>
-      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 29722</span>
-						<span>🔱 3635</span>
-					</div>
-				<div class="stars-today">⭐ 27117 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33245</span>
-						<span>🔱 2235</span>
-					</div>
-				<div class="stars-today">⭐ 24316 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22320</span>
-						<span>🔱 2975</span>
-					</div>
-				<div class="stars-today">⭐ 11444 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/coleam00/Archon" target="_blank">
-    
-
-
-      
-        coleam00 /
-
-      Archon</a></p>
-				<p>
-      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 19961</span>
-						<span>🔱 3074</span>
-					</div>
-				<div class="stars-today">⭐ 6196 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 22173</span>
-						<span>🔱 2155</span>
-					</div>
-				<div class="stars-today">⭐ 6756 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +96,142 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16616</span>
-						<span>🔱 2329</span>
+						<span>⭐ 16851</span>
+						<span>🔱 2367</span>
 					</div>
 				<div class="stars-today">⭐ 14253 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
+    
+
+
+      
+        shiyu-coder /
+
+      Kronos</a></p>
+				<p>
+      Kronos: A Foundation Model for the Language of Financial Markets
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 21835</span>
+						<span>🔱 3857</span>
+					</div>
+				<div class="stars-today">⭐ 10523 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22357</span>
+						<span>🔱 2978</span>
+					</div>
+				<div class="stars-today">⭐ 11444 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal</a></p>
+				<p>
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 16708</span>
+						<span>🔱 2276</span>
+					</div>
+				<div class="stars-today">⭐ 13159 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33298</span>
+						<span>🔱 2237</span>
+					</div>
+				<div class="stars-today">⭐ 24316 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 22185</span>
+						<span>🔱 2159</span>
+					</div>
+				<div class="stars-today">⭐ 6756 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/coleam00/Archon" target="_blank">
+    
+
+
+      
+        coleam00 /
+
+      Archon</a></p>
+				<p>
+      The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19980</span>
+						<span>🔱 3076</span>
+					</div>
+				<div class="stars-today">⭐ 6196 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,30 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 118098</span>
-						<span>🔱 7771</span>
+						<span>⭐ 118184</span>
+						<span>🔱 7784</span>
 					</div>
 				<div class="stars-today">⭐ 25592 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+				<p><a href="https://github.com/luongnv89/claude-howto" target="_blank">
     
 
 
       
-        google-ai-edge /
+        luongnv89 /
 
-      LiteRT-LM</a></p>
-				<p></p>
+      claude-howto</a></p>
+				<p>
+      A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4448</span>
-						<span>🔱 439</span>
+						<span>🔠 Python</span>
+						<span>⭐ 29822</span>
+						<span>🔱 3647</span>
 					</div>
-				<div class="stars-today">⭐ 3437 stars this month</div>
+				<div class="stars-today">⭐ 27117 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,32 +294,74 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7852</span>
-						<span>🔱 907</span>
+						<span>⭐ 7911</span>
+						<span>🔱 911</span>
 					</div>
 				<div class="stars-today">⭐ 6876 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/microsoft/VibeVoice" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        microsoft /
+        mattpocock /
 
-      VibeVoice</a></p>
+      skills</a></p>
 				<p>
-      Open-Source Frontier Voice AI
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 33846</span>
+						<span>🔱 2660</span>
+					</div>
+				<div class="stars-today">⭐ 16974 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT-LM</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4454</span>
+						<span>🔱 439</span>
+					</div>
+				<div class="stars-today">⭐ 3437 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+    
+
+
+      
+        Z4nzu /
+
+      hackingtool</a></p>
+				<p>
+      ALL IN ONE Hacking Tool For Hackers
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 43534</span>
-						<span>🔱 4918</span>
+						<span>⭐ 67670</span>
+						<span>🔱 7580</span>
 					</div>
-				<div class="stars-today">⭐ 18317 stars this month</div>
+				<div class="stars-today">⭐ 11451 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8850</span>
-						<span>🔱 972</span>
+						<span>⭐ 8941</span>
+						<span>🔱 981</span>
 					</div>
 				<div class="stars-today">⭐ 5540 stars this month</div>
 				</div>
@@ -380,32 +402,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 37262</span>
-						<span>🔱 2253</span>
+						<span>⭐ 37404</span>
+						<span>🔱 2262</span>
 					</div>
 				<div class="stars-today">⭐ 22504 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-research/timesfm" target="_blank">
-    
-
-
-      
-        google-research /
-
-      timesfm</a></p>
-				<p>
-      TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18759</span>
-						<span>🔱 1821</span>
-					</div>
-				<div class="stars-today">⭐ 8665 stars this month</div>
 				</div>
 			</div>
 	
@@ -424,32 +424,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 68801</span>
-						<span>🔱 5866</span>
+						<span>⭐ 68902</span>
+						<span>🔱 5871</span>
 					</div>
 				<div class="stars-today">⭐ 27414 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 32438</span>
-						<span>🔱 2545</span>
-					</div>
-				<div class="stars-today">⭐ 16974 stars this month</div>
 				</div>
 			</div>
 	

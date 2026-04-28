@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-04-28T07:56:47Z
+date: 2026-04-28T11:28:42Z
 categories:
 - weekly
 keywords:
@@ -30,76 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 16616</span>
-						<span>🔱 2329</span>
+						<span>⭐ 16851</span>
+						<span>🔱 2367</span>
 					</div>
 				<div class="stars-today">⭐ 13415 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 16551</span>
-						<span>🔱 2244</span>
-					</div>
-				<div class="stars-today">⭐ 7513 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
-    
-
-
-      
-        zilliztech /
-
-      claude-context</a></p>
-				<p>
-      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9934</span>
-						<span>🔱 750</span>
-					</div>
-				<div class="stars-today">⭐ 3725 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 95166</span>
-						<span>🔱 9217</span>
-					</div>
-				<div class="stars-today">⭐ 28522 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 32438</span>
-						<span>🔱 2545</span>
+						<span>⭐ 33846</span>
+						<span>🔱 2660</span>
 					</div>
 				<div class="stars-today">⭐ 10757 stars this week</div>
 				</div>
@@ -140,76 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 67499</span>
-						<span>🔱 7558</span>
+						<span>⭐ 67670</span>
+						<span>🔱 7580</span>
 					</div>
 				<div class="stars-today">⭐ 8378 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
     
 
 
       
-        lsdefine /
+        forrestchang /
 
-      GenericAgent</a></p>
+      andrej-karpathy-skills</a></p>
 				<p>
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 95650</span>
+						<span>🔱 9271</span>
+					</div>
+				<div class="stars-today">⭐ 28522 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
+    
+
+
+      
+        zilliztech /
+
+      claude-context</a></p>
+				<p>
+      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9980</span>
+						<span>🔱 750</span>
+					</div>
+				<div class="stars-today">⭐ 3725 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal</a></p>
+				<p>
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7852</span>
-						<span>🔱 907</span>
+						<span>⭐ 16708</span>
+						<span>🔱 2276</span>
 					</div>
-				<div class="stars-today">⭐ 2832 stars this week</div>
+				<div class="stars-today">⭐ 7513 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
     
 
 
       
-        mksglu /
+        AIDC-AI /
 
-      context-mode</a></p>
+      Pixelle-Video</a></p>
 				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10781</span>
-						<span>🔱 743</span>
+						<span>🔠 Python</span>
+						<span>⭐ 7195</span>
+						<span>🔱 1176</span>
 					</div>
-				<div class="stars-today">⭐ 2346 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/thunderbird/thunderbolt" target="_blank">
-    
-
-
-      
-        thunderbird /
-
-      thunderbolt</a></p>
-				<p>
-      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 4321</span>
-						<span>🔱 282</span>
-					</div>
-				<div class="stars-today">⭐ 1675 stars this week</div>
+				<div class="stars-today">⭐ 2332 stars this week</div>
 				</div>
 			</div>
 	
@@ -228,32 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 9427</span>
-						<span>🔱 1693</span>
+						<span>⭐ 9478</span>
+						<span>🔱 1702</span>
 					</div>
 				<div class="stars-today">⭐ 3862 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+				<p><a href="https://github.com/lsdefine/GenericAgent" target="_blank">
     
 
 
       
-        Tracer-Cloud /
+        lsdefine /
 
-      opensre</a></p>
+      GenericAgent</a></p>
 				<p>
-      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3656</span>
-						<span>🔱 408</span>
+						<span>⭐ 7911</span>
+						<span>🔱 911</span>
 					</div>
-				<div class="stars-today">⭐ 1677 stars this week</div>
+				<div class="stars-today">⭐ 2832 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19123</span>
-						<span>🔱 2184</span>
+						<span>⭐ 19157</span>
+						<span>🔱 2186</span>
 					</div>
 				<div class="stars-today">⭐ 2622 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
+    
+
+
+      
+        Tracer-Cloud /
+
+      opensre</a></p>
+				<p>
+      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 3691</span>
+						<span>🔱 414</span>
+					</div>
+				<div class="stars-today">⭐ 1677 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
+    
+
+
+      
+        CJackHwang /
+
+      ds2api</a></p>
+				<p>
+      Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2102</span>
+						<span>🔱 614</span>
+					</div>
+				<div class="stars-today">⭐ 627 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 36635</span>
-						<span>🔱 1439</span>
+						<span>⭐ 36664</span>
+						<span>🔱 1440</span>
 					</div>
 				<div class="stars-today">⭐ 1959 stars this week</div>
 				</div>
@@ -316,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 24891</span>
-						<span>🔱 3092</span>
+						<span>⭐ 25003</span>
+						<span>🔱 3108</span>
 					</div>
 				<div class="stars-today">⭐ 6256 stars this week</div>
 				</div>
