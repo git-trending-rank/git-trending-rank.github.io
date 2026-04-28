@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Tue, 28 Apr 2026 07:56:47 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 28 Apr 2026 11:28:42 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第18周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC18%E5%91%A8/</link>
-        <pubDate>Tue, 28 Apr 2026 07:56:47 +0000</pubDate>
+        <pubDate>Tue, 28 Apr 2026 11:28:42 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC18%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,76 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16616&lt;/span&gt;
-						&lt;span&gt;🔱 2329&lt;/span&gt;
+						&lt;span&gt;⭐ 16851&lt;/span&gt;
+						&lt;span&gt;🔱 2367&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 13415 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 16551&lt;/span&gt;
-						&lt;span&gt;🔱 2244&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7513 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/zilliztech/claude-context&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        zilliztech /
-
-      claude-context&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9934&lt;/span&gt;
-						&lt;span&gt;🔱 750&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3725 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/forrestchang/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 95166&lt;/span&gt;
-						&lt;span&gt;🔱 9217&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28522 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -121,8 +55,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 32438&lt;/span&gt;
-						&lt;span&gt;🔱 2545&lt;/span&gt;
+						&lt;span&gt;⭐ 33846&lt;/span&gt;
+						&lt;span&gt;🔱 2660&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 10757 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -143,76 +77,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 67499&lt;/span&gt;
-						&lt;span&gt;🔱 7558&lt;/span&gt;
+						&lt;span&gt;⭐ 67670&lt;/span&gt;
+						&lt;span&gt;🔱 7580&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8378 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/lsdefine/GenericAgent&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/forrestchang/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        lsdefine /
+        forrestchang /
 
-      GenericAgent&lt;/a&gt;&lt;/p&gt;
+      andrej-karpathy-skills&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 95650&lt;/span&gt;
+						&lt;span&gt;🔱 9271&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 28522 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/zilliztech/claude-context&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        zilliztech /
+
+      claude-context&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 9980&lt;/span&gt;
+						&lt;span&gt;🔱 750&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3725 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Fincept-Corporation/FinceptTerminal&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 7852&lt;/span&gt;
-						&lt;span&gt;🔱 907&lt;/span&gt;
+						&lt;span&gt;⭐ 16708&lt;/span&gt;
+						&lt;span&gt;🔱 2276&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2832 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7513 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/mksglu/context-mode&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/AIDC-AI/Pixelle-Video&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        mksglu /
+        AIDC-AI /
 
-      context-mode&lt;/a&gt;&lt;/p&gt;
+      Pixelle-Video&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 10781&lt;/span&gt;
-						&lt;span&gt;🔱 743&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7195&lt;/span&gt;
+						&lt;span&gt;🔱 1176&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2346 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/thunderbird/thunderbolt&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        thunderbird /
-
-      thunderbolt&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      AI You Control: Choose your models. Own your data. Eliminate vendor lock-in.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 4321&lt;/span&gt;
-						&lt;span&gt;🔱 282&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1675 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2332 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -231,32 +187,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 9427&lt;/span&gt;
-						&lt;span&gt;🔱 1693&lt;/span&gt;
+						&lt;span&gt;⭐ 9478&lt;/span&gt;
+						&lt;span&gt;🔱 1702&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3862 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Tracer-Cloud/opensre&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/lsdefine/GenericAgent&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Tracer-Cloud /
+        lsdefine /
 
-      opensre&lt;/a&gt;&lt;/p&gt;
+      GenericAgent&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
+      Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system control with 6x less token consumption
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 3656&lt;/span&gt;
-						&lt;span&gt;🔱 408&lt;/span&gt;
+						&lt;span&gt;⭐ 7911&lt;/span&gt;
+						&lt;span&gt;🔱 911&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1677 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2832 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -275,10 +231,54 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 19123&lt;/span&gt;
-						&lt;span&gt;🔱 2184&lt;/span&gt;
+						&lt;span&gt;⭐ 19157&lt;/span&gt;
+						&lt;span&gt;🔱 2186&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2622 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Tracer-Cloud/opensre&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Tracer-Cloud /
+
+      opensre&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 3691&lt;/span&gt;
+						&lt;span&gt;🔱 414&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1677 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/CJackHwang/ds2api&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        CJackHwang /
+
+      ds2api&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Go&lt;/span&gt;
+						&lt;span&gt;⭐ 2102&lt;/span&gt;
+						&lt;span&gt;🔱 614&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 627 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -297,8 +297,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 36635&lt;/span&gt;
-						&lt;span&gt;🔱 1439&lt;/span&gt;
+						&lt;span&gt;⭐ 36664&lt;/span&gt;
+						&lt;span&gt;🔱 1440&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1959 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -319,8 +319,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 24891&lt;/span&gt;
-						&lt;span&gt;🔱 3092&lt;/span&gt;
+						&lt;span&gt;⭐ 25003&lt;/span&gt;
+						&lt;span&gt;🔱 3108&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 6256 stars this week&lt;/div&gt;
 				&lt;/div&gt;
