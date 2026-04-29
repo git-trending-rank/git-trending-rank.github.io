@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-04-29T09:53:08Z
+date: 2026-04-29T11:22:06Z
 categories:
 - weekly
 keywords:
@@ -30,10 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18003</span>
-						<span>🔱 2542</span>
+						<span>⭐ 18086</span>
+						<span>🔱 2564</span>
 					</div>
 				<div class="stars-today">⭐ 15110 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/ml-intern" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      ml-intern</a></p>
+				<p>
+      🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7331</span>
+						<span>🔱 703</span>
+					</div>
+				<div class="stars-today">⭐ 6441 stars this week</div>
 				</div>
 			</div>
 	
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 40670</span>
-						<span>🔱 3192</span>
+						<span>⭐ 41163</span>
+						<span>🔱 3224</span>
 					</div>
 				<div class="stars-today">⭐ 18218 stars this week</div>
 				</div>
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68263</span>
-						<span>🔱 7652</span>
+						<span>⭐ 68295</span>
+						<span>🔱 7659</span>
 					</div>
 				<div class="stars-today">⭐ 9252 stars this week</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 98109</span>
-						<span>🔱 9527</span>
+						<span>⭐ 98259</span>
+						<span>🔱 9546</span>
 					</div>
 				<div class="stars-today">⭐ 25836 stars this week</div>
 				</div>
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10183</span>
-						<span>🔱 756</span>
+						<span>⭐ 10192</span>
+						<span>🔱 757</span>
 					</div>
 				<div class="stars-today">⭐ 3767 stars this week</div>
 				</div>
@@ -140,10 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17515</span>
-						<span>🔱 2376</span>
+						<span>⭐ 17551</span>
+						<span>🔱 2379</span>
 					</div>
 				<div class="stars-today">⭐ 5926 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
+    
+
+
+      
+        CJackHwang /
+
+      ds2api</a></p>
+				<p>
+      Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 2554</span>
+						<span>🔱 693</span>
+					</div>
+				<div class="stars-today">⭐ 997 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7558</span>
-						<span>🔱 1223</span>
+						<span>⭐ 7576</span>
+						<span>🔱 1225</span>
 					</div>
 				<div class="stars-today">⭐ 2330 stars this week</div>
 				</div>
@@ -184,10 +228,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 9929</span>
-						<span>🔱 1748</span>
+						<span>⭐ 9943</span>
+						<span>🔱 1751</span>
 					</div>
 				<div class="stars-today">⭐ 4071 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/trycua/cua" target="_blank">
+    
+
+
+      
+        trycua /
+
+      cua</a></p>
+				<p>
+      Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 HTML</span>
+						<span>⭐ 15084</span>
+						<span>🔱 943</span>
+					</div>
+				<div class="stars-today">⭐ 1336 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8129</span>
+						<span>⭐ 8133</span>
 						<span>🔱 932</span>
 					</div>
 				<div class="stars-today">⭐ 2620 stars this week</div>
@@ -214,112 +280,24 @@ keywords:
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/RAG-Anything" target="_blank">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
     
 
 
       
-        HKUDS /
+        mksglu /
 
-      RAG-Anything</a></p>
+      context-mode</a></p>
 				<p>
-      "RAG-Anything: All-in-One RAG Framework"
+      Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19345</span>
-						<span>🔱 2199</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 11037</span>
+						<span>🔱 760</span>
 					</div>
-				<div class="stars-today">⭐ 2645 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Tracer-Cloud/opensre" target="_blank">
-    
-
-
-      
-        Tracer-Cloud /
-
-      opensre</a></p>
-				<p>
-      Build your own AI SRE agents. The open source toolkit for the AI era ✨ 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 3886</span>
-						<span>🔱 440</span>
-					</div>
-				<div class="stars-today">⭐ 1681 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
-    
-
-
-      
-        CJackHwang /
-
-      ds2api</a></p>
-				<p>
-      Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 2518</span>
-						<span>🔱 690</span>
-					</div>
-				<div class="stars-today">⭐ 997 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/GyulyVGC/sniffnet" target="_blank">
-    
-
-
-      
-        GyulyVGC /
-
-      sniffnet</a></p>
-				<p>
-      Comfortably monitor your Internet traffic 🕵️‍♂️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 36821</span>
-						<span>🔱 1455</span>
-					</div>
-				<div class="stars-today">⭐ 1719 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 25723</span>
-						<span>🔱 3188</span>
-					</div>
-				<div class="stars-today">⭐ 6179 stars this week</div>
+				<div class="stars-today">⭐ 2333 stars this week</div>
 				</div>
 			</div>
 	
