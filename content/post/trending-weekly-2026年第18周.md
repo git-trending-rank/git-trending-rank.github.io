@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-04-30T05:17:12Z
+date: 2026-04-30T07:54:37Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18680</span>
-						<span>🔱 2653</span>
+						<span>⭐ 18751</span>
+						<span>🔱 2665</span>
 					</div>
 				<div class="stars-today">⭐ 16154 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7522</span>
-						<span>🔱 731</span>
+						<span>⭐ 7563</span>
+						<span>🔱 735</span>
 					</div>
 				<div class="stars-today">⭐ 6388 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 45822</span>
-						<span>🔱 3709</span>
+						<span>⭐ 46583</span>
+						<span>🔱 3782</span>
 					</div>
 				<div class="stars-today">⭐ 24702 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68815</span>
-						<span>🔱 7754</span>
+						<span>⭐ 68890</span>
+						<span>🔱 7763</span>
 					</div>
 				<div class="stars-today">⭐ 9428 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 100631</span>
-						<span>🔱 9847</span>
+						<span>⭐ 101163</span>
+						<span>🔱 9919</span>
 					</div>
 				<div class="stars-today">⭐ 24129 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 10319</span>
-						<span>🔱 763</span>
+						<span>⭐ 10341</span>
+						<span>🔱 766</span>
 					</div>
 				<div class="stars-today">⭐ 3151 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 17900</span>
-						<span>🔱 2420</span>
+						<span>⭐ 17959</span>
+						<span>🔱 2427</span>
 					</div>
 				<div class="stars-today">⭐ 5117 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2796</span>
-						<span>🔱 741</span>
+						<span>⭐ 2838</span>
+						<span>🔱 745</span>
 					</div>
 				<div class="stars-today">⭐ 1415 stars this week</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8042</span>
-						<span>🔱 1296</span>
+						<span>⭐ 8128</span>
+						<span>🔱 1313</span>
 					</div>
 				<div class="stars-today">⭐ 2445 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
-    
-
-
-      
-        Anil-matcha /
-
-      Open-Generative-AI</a></p>
-				<p>
-      Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10212</span>
-						<span>🔱 1789</span>
-					</div>
-				<div class="stars-today">⭐ 3823 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,7 +228,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 15284</span>
+						<span>⭐ 15307</span>
 						<span>🔱 950</span>
 					</div>
 				<div class="stars-today">⭐ 1615 stars this week</div>
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8298</span>
-						<span>🔱 946</span>
+						<span>⭐ 8346</span>
+						<span>🔱 953</span>
 					</div>
 				<div class="stars-today">⭐ 2365 stars this week</div>
 				</div>
@@ -294,7 +272,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11282</span>
+						<span>⭐ 11323</span>
 						<span>🔱 773</span>
 					</div>
 				<div class="stars-today">⭐ 2215 stars this week</div>
