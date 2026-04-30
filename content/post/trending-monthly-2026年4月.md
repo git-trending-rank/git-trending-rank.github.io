@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年4月
-date: 2026-04-30T09:59:16Z
+date: 2026-04-30T13:11:06Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 101509</span>
-						<span>🔱 9952</span>
+						<span>⭐ 101782</span>
+						<span>🔱 9984</span>
 					</div>
 				<div class="stars-today">⭐ 91463 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 125948</span>
-						<span>🔱 18819</span>
+						<span>⭐ 126146</span>
+						<span>🔱 18858</span>
 					</div>
 				<div class="stars-today">⭐ 109206 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18810</span>
-						<span>🔱 2673</span>
+						<span>⭐ 18893</span>
+						<span>🔱 2684</span>
 					</div>
 				<div class="stars-today">⭐ 17106 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18026</span>
-						<span>🔱 2435</span>
+						<span>⭐ 18084</span>
+						<span>🔱 2441</span>
 					</div>
 				<div class="stars-today">⭐ 14863 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 22652</span>
-						<span>🔱 3024</span>
-					</div>
-				<div class="stars-today">⭐ 11789 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22151</span>
-						<span>🔱 3907</span>
+						<span>⭐ 22187</span>
+						<span>🔱 3910</span>
 					</div>
 				<div class="stars-today">⭐ 10729 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 22666</span>
+						<span>🔱 3027</span>
+					</div>
+				<div class="stars-today">⭐ 11789 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 47675</span>
+						<span>🔱 3869</span>
+					</div>
+				<div class="stars-today">⭐ 31265 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,32 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 22325</span>
-						<span>🔱 2188</span>
+						<span>⭐ 22332</span>
+						<span>🔱 2191</span>
 					</div>
 				<div class="stars-today">⭐ 6868 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33740</span>
-						<span>🔱 2259</span>
-					</div>
-				<div class="stars-today">⭐ 24784 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20252</span>
-						<span>🔱 3094</span>
+						<span>⭐ 20267</span>
+						<span>🔱 3099</span>
 					</div>
 				<div class="stars-today">⭐ 6446 stars this month</div>
 				</div>
@@ -228,32 +228,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 118853</span>
-						<span>🔱 7849</span>
+						<span>⭐ 118883</span>
+						<span>🔱 7853</span>
 					</div>
 				<div class="stars-today">⭐ 26298 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 47090</span>
-						<span>🔱 3828</span>
-					</div>
-				<div class="stars-today">⭐ 31265 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8379</span>
-						<span>🔱 955</span>
+						<span>⭐ 8416</span>
+						<span>🔱 962</span>
 					</div>
 				<div class="stars-today">⭐ 7409 stars this month</div>
 				</div>
@@ -292,10 +270,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4551</span>
-						<span>🔱 446</span>
+						<span>⭐ 4555</span>
+						<span>🔱 448</span>
 					</div>
 				<div class="stars-today">⭐ 3526 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33770</span>
+						<span>🔱 2262</span>
+					</div>
+				<div class="stars-today">⭐ 24784 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68951</span>
-						<span>🔱 7771</span>
+						<span>⭐ 69028</span>
+						<span>🔱 7783</span>
 					</div>
 				<div class="stars-today">⭐ 12830 stars this month</div>
 				</div>
@@ -336,10 +336,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9828</span>
-						<span>🔱 1050</span>
+						<span>⭐ 9888</span>
+						<span>🔱 1051</span>
 					</div>
 				<div class="stars-today">⭐ 6239 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/thedotmack/claude-mem" target="_blank">
+    
+
+
+      
+        thedotmack /
+
+      claude-mem</a></p>
+				<p>
+      A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 70073</span>
+						<span>🔱 5985</span>
+					</div>
+				<div class="stars-today">⭐ 27905 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
+    
+
+
+      
+        rtk-ai /
+
+      rtk</a></p>
+				<p>
+      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 38758</span>
+						<span>🔱 2356</span>
+					</div>
+				<div class="stars-today">⭐ 23505 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-codex-skills</a></p>
+				<p>
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5099</span>
+						<span>🔱 312</span>
+					</div>
+				<div class="stars-today">⭐ 4054 stars this month</div>
 				</div>
 			</div>
 	

@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-04-30T09:59:16Z
+date: 2026-04-30T13:11:06Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18810</span>
-						<span>🔱 2673</span>
+						<span>⭐ 18893</span>
+						<span>🔱 2684</span>
 					</div>
 				<div class="stars-today">⭐ 16154 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/huggingface/ml-intern" target="_blank">
-    
-
-
-      
-        huggingface /
-
-      ml-intern</a></p>
-				<p>
-      🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7584</span>
-						<span>🔱 735</span>
-					</div>
-				<div class="stars-today">⭐ 6388 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 47090</span>
-						<span>🔱 3828</span>
+						<span>⭐ 47675</span>
+						<span>🔱 3869</span>
 					</div>
 				<div class="stars-today">⭐ 24702 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/huggingface/ml-intern" target="_blank">
+    
+
+
+      
+        huggingface /
+
+      ml-intern</a></p>
+				<p>
+      🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and ships ML models
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7612</span>
+						<span>🔱 736</span>
+					</div>
+				<div class="stars-today">⭐ 6388 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,76 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68951</span>
-						<span>🔱 7771</span>
+						<span>⭐ 69028</span>
+						<span>🔱 7783</span>
 					</div>
 				<div class="stars-today">⭐ 9428 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
-    
-
-
-      
-        forrestchang /
-
-      andrej-karpathy-skills</a></p>
-				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 101509</span>
-						<span>🔱 9952</span>
-					</div>
-				<div class="stars-today">⭐ 24129 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
-    
-
-
-      
-        zilliztech /
-
-      claude-context</a></p>
-				<p>
-      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 10357</span>
-						<span>🔱 766</span>
-					</div>
-				<div class="stars-today">⭐ 3151 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 18026</span>
-						<span>🔱 2435</span>
-					</div>
-				<div class="stars-today">⭐ 5117 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +118,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2872</span>
-						<span>🔱 752</span>
+						<span>⭐ 2899</span>
+						<span>🔱 756</span>
 					</div>
 				<div class="stars-today">⭐ 1415 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 101782</span>
+						<span>🔱 9984</span>
+					</div>
+				<div class="stars-today">⭐ 24129 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8197</span>
-						<span>🔱 1328</span>
+						<span>⭐ 8250</span>
+						<span>🔱 1330</span>
 					</div>
 				<div class="stars-today">⭐ 2445 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
-    
-
-
-      
-        Anil-matcha /
-
-      Open-Generative-AI</a></p>
-				<p>
-      Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 10256</span>
-						<span>🔱 1796</span>
-					</div>
-				<div class="stars-today">⭐ 3823 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 HTML</span>
-						<span>⭐ 15325</span>
-						<span>🔱 950</span>
+						<span>⭐ 15346</span>
+						<span>🔱 951</span>
 					</div>
 				<div class="stars-today">⭐ 1615 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Anil-matcha/Open-Generative-AI" target="_blank">
+    
+
+
+      
+        Anil-matcha /
+
+      Open-Generative-AI</a></p>
+				<p>
+      Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Openart AI — Free, unrestricted AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 10297</span>
+						<span>🔱 1802</span>
+					</div>
+				<div class="stars-today">⭐ 3823 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal</a></p>
+				<p>
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 18084</span>
+						<span>🔱 2441</span>
+					</div>
+				<div class="stars-today">⭐ 5117 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zilliztech/claude-context" target="_blank">
+    
+
+
+      
+        zilliztech /
+
+      claude-context</a></p>
+				<p>
+      Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 10374</span>
+						<span>🔱 767</span>
+					</div>
+				<div class="stars-today">⭐ 3151 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,32 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8379</span>
-						<span>🔱 955</span>
+						<span>⭐ 8416</span>
+						<span>🔱 962</span>
 					</div>
 				<div class="stars-today">⭐ 2365 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
-    
-
-
-      
-        mksglu /
-
-      context-mode</a></p>
-				<p>
-      Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 11350</span>
-						<span>🔱 773</span>
-					</div>
-				<div class="stars-today">⭐ 2215 stars this week</div>
 				</div>
 			</div>
 	
