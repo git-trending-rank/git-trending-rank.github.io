@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-01T09:25:49Z
+date: 2026-05-01T10:57:47Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 103752</span>
-						<span>🔱 10219</span>
+						<span>⭐ 103872</span>
+						<span>🔱 10234</span>
 					</div>
 				<div class="stars-today">⭐ 94646 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 127272</span>
-						<span>🔱 19093</span>
+						<span>⭐ 127368</span>
+						<span>🔱 19116</span>
 					</div>
 				<div class="stars-today">⭐ 107384 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/multica-ai/multica" target="_blank">
+    
+
+
+      
+        multica-ai /
+
+      multica</a></p>
+				<p>
+      The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 23326</span>
+						<span>🔱 2868</span>
+					</div>
+				<div class="stars-today">⭐ 22824 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19388</span>
-						<span>🔱 2757</span>
+						<span>⭐ 19432</span>
+						<span>🔱 2762</span>
 					</div>
 				<div class="stars-today">⭐ 17760 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+    
+
+
+      
+        mattpocock /
+
+      skills</a></p>
+				<p>
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 50886</span>
+						<span>🔱 4221</span>
+					</div>
+				<div class="stars-today">⭐ 36944 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18454</span>
-						<span>🔱 2467</span>
+						<span>⭐ 18473</span>
+						<span>🔱 2469</span>
 					</div>
 				<div class="stars-today">⭐ 15326 stars this month</div>
 				</div>
@@ -118,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22311</span>
-						<span>🔱 3925</span>
+						<span>⭐ 22318</span>
+						<span>🔱 3926</span>
 					</div>
 				<div class="stars-today">⭐ 10927 stars this month</div>
 				</div>
@@ -140,54 +184,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22764</span>
-						<span>🔱 3042</span>
+						<span>⭐ 22776</span>
+						<span>🔱 3043</span>
 					</div>
 				<div class="stars-today">⭐ 11891 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 50644</span>
-						<span>🔱 4178</span>
-					</div>
-				<div class="stars-today">⭐ 36944 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 22378</span>
-						<span>🔱 2206</span>
-					</div>
-				<div class="stars-today">⭐ 6925 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20389</span>
-						<span>🔱 3117</span>
+						<span>⭐ 20393</span>
+						<span>🔱 3118</span>
 					</div>
 				<div class="stars-today">⭐ 6553 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 22384</span>
+						<span>🔱 2208</span>
+					</div>
+				<div class="stars-today">⭐ 6925 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 119100</span>
-						<span>🔱 7878</span>
+						<span>⭐ 119118</span>
+						<span>🔱 7880</span>
 					</div>
 				<div class="stars-today">⭐ 26422 stars this month</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8545</span>
-						<span>🔱 976</span>
+						<span>⭐ 8553</span>
+						<span>🔱 977</span>
 					</div>
 				<div class="stars-today">⭐ 7653 stars this month</div>
 				</div>
@@ -270,54 +292,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 4595</span>
+						<span>⭐ 4596</span>
 						<span>🔱 450</span>
 					</div>
 				<div class="stars-today">⭐ 3578 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
-    
-
-
-      
-        siddharthvaddem /
-
-      openscreen</a></p>
-				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 33906</span>
-						<span>🔱 2280</span>
-					</div>
-				<div class="stars-today">⭐ 24903 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
-    
-
-
-      
-        Z4nzu /
-
-      hackingtool</a></p>
-				<p>
-      ALL IN ONE Hacking Tool For Hackers
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 69487</span>
-						<span>🔱 7826</span>
-					</div>
-				<div class="stars-today">⭐ 12342 stars this month</div>
 				</div>
 			</div>
 	
@@ -336,8 +314,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10211</span>
-						<span>🔱 1086</span>
+						<span>⭐ 10235</span>
+						<span>🔱 1089</span>
 					</div>
 				<div class="stars-today">⭐ 6546 stars this month</div>
 				</div>
@@ -358,32 +336,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70512</span>
-						<span>🔱 6030</span>
+						<span>⭐ 70534</span>
+						<span>🔱 6034</span>
 					</div>
 				<div class="stars-today">⭐ 26754 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
+				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
     
 
 
       
-        rtk-ai /
+        Z4nzu /
 
-      rtk</a></p>
+      hackingtool</a></p>
 				<p>
-      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+      ALL IN ONE Hacking Tool For Hackers
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 39123</span>
-						<span>🔱 2377</span>
+						<span>🔠 Python</span>
+						<span>⭐ 69508</span>
+						<span>🔱 7828</span>
 					</div>
-				<div class="stars-today">⭐ 23051 stars this month</div>
+				<div class="stars-today">⭐ 12342 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +380,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5268</span>
-						<span>🔱 332</span>
+						<span>⭐ 5288</span>
+						<span>🔱 333</span>
 					</div>
 				<div class="stars-today">⭐ 4562 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
+    
+
+
+      
+        rtk-ai /
+
+      rtk</a></p>
+				<p>
+      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 39153</span>
+						<span>🔱 2377</span>
+					</div>
+				<div class="stars-today">⭐ 23051 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+    
+
+
+      
+        siddharthvaddem /
+
+      openscreen</a></p>
+				<p>
+      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 33918</span>
+						<span>🔱 2280</span>
+					</div>
+				<div class="stars-today">⭐ 24903 stars this month</div>
 				</div>
 			</div>
 	
