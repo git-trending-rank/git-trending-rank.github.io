@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-05-01T10:57:47Z
+date: 2026-05-01T12:44:13Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 50886</span>
-						<span>🔱 4221</span>
+						<span>⭐ 51163</span>
+						<span>🔱 4255</span>
 					</div>
 				<div class="stars-today">⭐ 30945 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 19432</span>
-						<span>🔱 2762</span>
+						<span>⭐ 19481</span>
+						<span>🔱 2768</span>
 					</div>
 				<div class="stars-today">⭐ 14666 stars this week</div>
 				</div>
@@ -69,13 +69,13 @@ keywords:
 
       ds2api</a></p>
 				<p>
-      Deepseek to API: A lightweight, high-performance full-stack middleware converting client protocols to universal APIs. Supports multi-account rotation, compiled binaries, Vercel Serverless, and Docker. Compatible with Google, Claude, and OpenAI API formats.
+      DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 2999</span>
-						<span>🔱 789</span>
+						<span>⭐ 3010</span>
+						<span>🔱 793</span>
 					</div>
 				<div class="stars-today">⭐ 1726 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69508</span>
-						<span>🔱 7828</span>
+						<span>⭐ 69545</span>
+						<span>🔱 7833</span>
 					</div>
 				<div class="stars-today">⭐ 8714 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 103872</span>
-						<span>🔱 10234</span>
+						<span>⭐ 104017</span>
+						<span>🔱 10253</span>
 					</div>
 				<div class="stars-today">⭐ 23062 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 7780</span>
-						<span>🔱 753</span>
+						<span>⭐ 7802</span>
+						<span>🔱 754</span>
 					</div>
 				<div class="stars-today">⭐ 5665 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 58536</span>
-						<span>🔱 11174</span>
+						<span>⭐ 58700</span>
+						<span>🔱 11208</span>
 					</div>
 				<div class="stars-today">⭐ 5995 stars this week</div>
 				</div>
@@ -184,7 +184,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8540</span>
+						<span>⭐ 8563</span>
 						<span>🔱 1376</span>
 					</div>
 				<div class="stars-today">⭐ 2064 stars this week</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 33870</span>
-						<span>🔱 3851</span>
+						<span>⭐ 33900</span>
+						<span>🔱 3853</span>
 					</div>
 				<div class="stars-today">⭐ 5209 stars this week</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 11583</span>
-						<span>🔱 792</span>
+						<span>⭐ 11601</span>
+						<span>🔱 793</span>
 					</div>
 				<div class="stars-today">⭐ 2332 stars this week</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8553</span>
-						<span>🔱 977</span>
+						<span>⭐ 8566</span>
+						<span>🔱 978</span>
 					</div>
 				<div class="stars-today">⭐ 2350 stars this week</div>
 				</div>
