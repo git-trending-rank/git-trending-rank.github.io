@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-02T10:37:40Z
+date: 2026-05-02T12:37:37Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 105502</span>
-						<span>🔱 10451</span>
+						<span>⭐ 105717</span>
+						<span>🔱 10473</span>
 					</div>
 				<div class="stars-today">⭐ 97023 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 128925</span>
-						<span>🔱 19431</span>
+						<span>⭐ 129069</span>
+						<span>🔱 19459</span>
 					</div>
 				<div class="stars-today">⭐ 107248 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23603</span>
-						<span>🔱 2900</span>
+						<span>⭐ 23634</span>
+						<span>🔱 2901</span>
 					</div>
 				<div class="stars-today">⭐ 22643 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19892</span>
-						<span>🔱 2848</span>
-					</div>
-				<div class="stars-today">⭐ 18325 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 53695</span>
-						<span>🔱 4518</span>
+						<span>⭐ 53916</span>
+						<span>🔱 4535</span>
 					</div>
 				<div class="stars-today">⭐ 40488 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19946</span>
+						<span>🔱 2856</span>
+					</div>
+				<div class="stars-today">⭐ 18325 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 18916</span>
-						<span>🔱 2533</span>
+						<span>⭐ 18956</span>
+						<span>🔱 2538</span>
 					</div>
 				<div class="stars-today">⭐ 15780 stars this month</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22433</span>
-						<span>🔱 3942</span>
+						<span>⭐ 22451</span>
+						<span>🔱 3946</span>
 					</div>
 				<div class="stars-today">⭐ 11055 stars this month</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22892</span>
-						<span>🔱 3062</span>
+						<span>⭐ 22909</span>
+						<span>🔱 3064</span>
 					</div>
 				<div class="stars-today">⭐ 11992 stars this month</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20480</span>
-						<span>🔱 3130</span>
+						<span>⭐ 20487</span>
+						<span>🔱 3131</span>
 					</div>
 				<div class="stars-today">⭐ 6694 stars this month</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Kotlin</span>
-						<span>⭐ 22448</span>
-						<span>🔱 2217</span>
+						<span>⭐ 22458</span>
+						<span>🔱 2218</span>
 					</div>
 				<div class="stars-today">⭐ 6979 stars this month</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 119427</span>
-						<span>🔱 7921</span>
+						<span>⭐ 119460</span>
+						<span>🔱 7924</span>
 					</div>
 				<div class="stars-today">⭐ 26597 stars this month</div>
 				</div>
@@ -272,30 +272,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8728</span>
+						<span>⭐ 8740</span>
 						<span>🔱 997</span>
 					</div>
 				<div class="stars-today">⭐ 7813 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      LiteRT-LM</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4632</span>
-						<span>🔱 451</span>
-					</div>
-				<div class="stars-today">⭐ 3622 stars this month</div>
 				</div>
 			</div>
 	
@@ -314,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10600</span>
-						<span>🔱 1108</span>
+						<span>⭐ 10635</span>
+						<span>🔱 1111</span>
 					</div>
 				<div class="stars-today">⭐ 6866 stars this month</div>
 				</div>
@@ -336,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 70872</span>
-						<span>🔱 6069</span>
+						<span>⭐ 70894</span>
+						<span>🔱 6074</span>
 					</div>
 				<div class="stars-today">⭐ 26840 stars this month</div>
 				</div>
@@ -358,10 +338,30 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70091</span>
-						<span>🔱 7900</span>
+						<span>⭐ 70142</span>
+						<span>🔱 7906</span>
 					</div>
 				<div class="stars-today">⭐ 12618 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT-LM</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4636</span>
+						<span>🔱 451</span>
+					</div>
+				<div class="stars-today">⭐ 3622 stars this month</div>
 				</div>
 			</div>
 	
@@ -380,8 +380,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5617</span>
-						<span>🔱 346</span>
+						<span>⭐ 5660</span>
+						<span>🔱 349</span>
 					</div>
 				<div class="stars-today">⭐ 4765 stars this month</div>
 				</div>
@@ -402,32 +402,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 39729</span>
-						<span>🔱 2416</span>
+						<span>⭐ 39775</span>
+						<span>🔱 2418</span>
 					</div>
 				<div class="stars-today">⭐ 23181 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/siddharthvaddem/openscreen" target="_blank">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
     
 
 
       
-        siddharthvaddem /
+        AIDC-AI /
 
-      openscreen</a></p>
+      Pixelle-Video</a></p>
 				<p>
-      Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio. 
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 34179</span>
-						<span>🔱 2298</span>
+						<span>🔠 Python</span>
+						<span>⭐ 8945</span>
+						<span>🔱 1416</span>
 					</div>
-				<div class="stars-today">⭐ 21978 stars this month</div>
+				<div class="stars-today">⭐ 5317 stars this month</div>
 				</div>
 			</div>
 	
