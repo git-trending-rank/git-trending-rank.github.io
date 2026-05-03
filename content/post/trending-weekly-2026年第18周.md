@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-05-03T09:09:03Z
+date: 2026-05-03T10:40:13Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 55751</span>
-						<span>🔱 4736</span>
+						<span>⭐ 55877</span>
+						<span>🔱 4747</span>
 					</div>
 				<div class="stars-today">⭐ 35324 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20395</span>
-						<span>🔱 2920</span>
-					</div>
-				<div class="stars-today">⭐ 9364 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,10 +52,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 63751</span>
-						<span>🔱 12343</span>
+						<span>⭐ 63966</span>
+						<span>🔱 12381</span>
 					</div>
 				<div class="stars-today">⭐ 8489 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-codex-skills</a></p>
+				<p>
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5966</span>
+						<span>🔱 391</span>
+					</div>
+				<div class="stars-today">⭐ 4290 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code</a></p>
+				<p>
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 20430</span>
+						<span>🔱 2927</span>
+					</div>
+				<div class="stars-today">⭐ 9364 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+    
+
+
+      
+        soxoj /
+
+      maigret</a></p>
+				<p>
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23163</span>
+						<span>🔱 1631</span>
+					</div>
+				<div class="stars-today">⭐ 2678 stars this week</div>
 				</div>
 			</div>
 	
@@ -96,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70588</span>
-						<span>🔱 7951</span>
+						<span>⭐ 70616</span>
+						<span>🔱 7954</span>
 					</div>
 				<div class="stars-today">⭐ 7210 stars this week</div>
 				</div>
@@ -118,54 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3204</span>
-						<span>🔱 839</span>
+						<span>⭐ 3207</span>
+						<span>🔱 842</span>
 					</div>
 				<div class="stars-today">⭐ 1832 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        forrestchang /
+        ruvnet /
 
-      andrej-karpathy-skills</a></p>
+      ruflo</a></p>
 				<p>
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 </span>
-						<span>⭐ 107310</span>
-						<span>🔱 10657</span>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 37380</span>
+						<span>🔱 4279</span>
 					</div>
-				<div class="stars-today">⭐ 20079 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
-    
-
-
-      
-        soxoj /
-
-      maigret</a></p>
-				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23116</span>
-						<span>🔱 1625</span>
-					</div>
-				<div class="stars-today">⭐ 2678 stars this week</div>
+				<div class="stars-today">⭐ 2972 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34922</span>
-						<span>🔱 3960</span>
+						<span>⭐ 34959</span>
+						<span>🔱 3969</span>
 					</div>
 				<div class="stars-today">⭐ 5465 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 107447</span>
+						<span>🔱 10676</span>
+					</div>
+				<div class="stars-today">⭐ 20079 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9330</span>
-						<span>🔱 1478</span>
+						<span>⭐ 9365</span>
+						<span>🔱 1483</span>
 					</div>
 				<div class="stars-today">⭐ 2315 stars this week</div>
 				</div>

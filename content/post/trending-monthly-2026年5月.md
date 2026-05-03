@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-03T09:09:03Z
+date: 2026-05-03T10:40:13Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 107310</span>
-						<span>🔱 10657</span>
+						<span>⭐ 107447</span>
+						<span>🔱 10676</span>
 					</div>
 				<div class="stars-today">⭐ 98469 stars this month</div>
 				</div>
@@ -52,10 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 130270</span>
-						<span>🔱 19710</span>
+						<span>⭐ 130373</span>
+						<span>🔱 19732</span>
 					</div>
 				<div class="stars-today">⭐ 107704 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 27237</span>
+						<span>🔱 3394</span>
+					</div>
+				<div class="stars-today">⭐ 27090 stars this month</div>
 				</div>
 			</div>
 	
@@ -74,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23904</span>
-						<span>🔱 2923</span>
+						<span>⭐ 23920</span>
+						<span>🔱 2922</span>
 					</div>
 				<div class="stars-today">⭐ 22270 stars this month</div>
 				</div>
@@ -96,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 55751</span>
-						<span>🔱 4736</span>
+						<span>⭐ 55877</span>
+						<span>🔱 4747</span>
 					</div>
 				<div class="stars-today">⭐ 42738 stars this month</div>
 				</div>
@@ -118,32 +140,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20395</span>
-						<span>🔱 2920</span>
+						<span>⭐ 20430</span>
+						<span>🔱 2927</span>
 					</div>
 				<div class="stars-today">⭐ 18673 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 19310</span>
-						<span>🔱 2586</span>
-					</div>
-				<div class="stars-today">⭐ 16170 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,7 +162,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22541</span>
+						<span>⭐ 22548</span>
 						<span>🔱 3963</span>
 					</div>
 				<div class="stars-today">⭐ 11144 stars this month</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23011</span>
-						<span>🔱 3078</span>
+						<span>⭐ 23017</span>
+						<span>🔱 3079</span>
 					</div>
 				<div class="stars-today">⭐ 12096 stars this month</div>
 				</div>
@@ -206,32 +206,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20595</span>
-						<span>🔱 3152</span>
+						<span>⭐ 20602</span>
+						<span>🔱 3153</span>
 					</div>
 				<div class="stars-today">⭐ 6752 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 22508</span>
-						<span>🔱 2223</span>
-					</div>
-				<div class="stars-today">⭐ 7036 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 119673</span>
-						<span>🔱 7953</span>
+						<span>⭐ 119695</span>
+						<span>🔱 7955</span>
 					</div>
 				<div class="stars-today">⭐ 26800 stars this month</div>
 				</div>
@@ -272,10 +250,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8860</span>
-						<span>🔱 1014</span>
+						<span>⭐ 8866</span>
+						<span>🔱 1017</span>
 					</div>
 				<div class="stars-today">⭐ 7955 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 22509</span>
+						<span>🔱 2222</span>
+					</div>
+				<div class="stars-today">⭐ 7036 stars this month</div>
 				</div>
 			</div>
 	
@@ -294,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71227</span>
-						<span>🔱 6112</span>
+						<span>⭐ 71256</span>
+						<span>🔱 6116</span>
 					</div>
 				<div class="stars-today">⭐ 26887 stars this month</div>
 				</div>
@@ -316,30 +316,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70588</span>
-						<span>🔱 7951</span>
+						<span>⭐ 70616</span>
+						<span>🔱 7954</span>
 					</div>
 				<div class="stars-today">⭐ 12929 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      LiteRT-LM</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4686</span>
-						<span>🔱 455</span>
-					</div>
-				<div class="stars-today">⭐ 3658 stars this month</div>
 				</div>
 			</div>
 	
@@ -358,32 +338,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5952</span>
-						<span>🔱 388</span>
+						<span>⭐ 5966</span>
+						<span>🔱 391</span>
 					</div>
 				<div class="stars-today">⭐ 5080 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
-    
-
-
-      
-        rtk-ai /
-
-      rtk</a></p>
-				<p>
-      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 40253</span>
-						<span>🔱 2461</span>
-					</div>
-				<div class="stars-today">⭐ 23381 stars this month</div>
 				</div>
 			</div>
 	
@@ -402,10 +360,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9330</span>
-						<span>🔱 1478</span>
+						<span>⭐ 9365</span>
+						<span>🔱 1483</span>
 					</div>
 				<div class="stars-today">⭐ 5607 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
+    
+
+
+      
+        rtk-ai /
+
+      rtk</a></p>
+				<p>
+      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 40289</span>
+						<span>🔱 2463</span>
+					</div>
+				<div class="stars-today">⭐ 23381 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      LiteRT-LM</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C++</span>
+						<span>⭐ 4689</span>
+						<span>🔱 455</span>
+					</div>
+				<div class="stars-today">⭐ 3658 stars this month</div>
 				</div>
 			</div>
 	

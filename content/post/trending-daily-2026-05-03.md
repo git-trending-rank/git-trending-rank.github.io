@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-03
-date: 2026-05-03T09:09:03Z
+date: 2026-05-03T10:40:13Z
 categories:
 - daily
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 63751</span>
-						<span>🔱 12343</span>
-					</div>
-				<div class="stars-today">⭐ 2225 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
@@ -52,32 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37295</span>
-						<span>🔱 4266</span>
+						<span>⭐ 37380</span>
+						<span>🔱 4279</span>
 					</div>
 				<div class="stars-today">⭐ 1299 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/skills" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        browserbase /
+        TauricResearch /
 
-      skills</a></p>
+      TradingAgents</a></p>
 				<p>
-      Claude Agent SDK with a web browsing tool
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 1612</span>
-						<span>🔱 107</span>
+						<span>🔠 Python</span>
+						<span>⭐ 63966</span>
+						<span>🔱 12381</span>
 					</div>
-				<div class="stars-today">⭐ 346 stars today</div>
+				<div class="stars-today">⭐ 2225 stars today</div>
 				</div>
 			</div>
 	
@@ -96,30 +74,98 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23116</span>
-						<span>🔱 1625</span>
+						<span>⭐ 23163</span>
+						<span>🔱 1631</span>
 					</div>
 				<div class="stars-today">⭐ 1064 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
+				<p><a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">
     
 
 
       
-        Flowseal /
+        Hmbown /
 
-      zapret-discord-youtube</a></p>
-				<p></p>
+      DeepSeek-TUI</a></p>
+				<p>
+      Coding agent for DeepSeek models that runs in your terminal
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 27161</span>
-						<span>🔱 2116</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 1769</span>
+						<span>🔱 99</span>
 					</div>
-				<div class="stars-today">⭐ 181 stars today</div>
+				<div class="stars-today">⭐ 564 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video</a></p>
+				<p>
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9365</span>
+						<span>🔱 1483</span>
+					</div>
+				<div class="stars-today">⭐ 478 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/skills" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      skills</a></p>
+				<p>
+      Claude Agent SDK with a web browsing tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1642</span>
+						<span>🔱 107</span>
+					</div>
+				<div class="stars-today">⭐ 346 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/czlonkowski/n8n-mcp" target="_blank">
+    
+
+
+      
+        czlonkowski /
+
+      n8n-mcp</a></p>
+				<p>
+      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19228</span>
+						<span>🔱 3216</span>
+					</div>
+				<div class="stars-today">⭐ 264 stars today</div>
 				</div>
 			</div>
 	
@@ -138,54 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3059</span>
-						<span>🔱 273</span>
+						<span>⭐ 3094</span>
+						<span>🔱 278</span>
 					</div>
 				<div class="stars-today">⭐ 482 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ShareX/ShareX" target="_blank">
+				<p><a href="https://github.com/openwrt/openwrt" target="_blank">
     
 
 
       
-        ShareX /
+        openwrt /
 
-      ShareX</a></p>
+      openwrt</a></p>
 				<p>
-      ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+      This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 36983</span>
-						<span>🔱 3691</span>
+						<span>🔠 C</span>
+						<span>⭐ 26489</span>
+						<span>🔱 12337</span>
 					</div>
-				<div class="stars-today">⭐ 152 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
-    
-
-
-      
-        jwasham /
-
-      coding-interview-university</a></p>
-				<p>
-      A complete computer science study plan to become a software engineer.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 </span>
-						<span>⭐ 344750</span>
-						<span>🔱 82498</span>
-					</div>
-				<div class="stars-today">⭐ 694 stars today</div>
+				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
 			</div>
 	
