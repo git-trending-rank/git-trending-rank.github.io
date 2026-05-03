@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-05-03T14:37:57Z
+date: 2026-05-03T16:32:55Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 56265</span>
-						<span>🔱 4778</span>
+						<span>⭐ 56492</span>
+						<span>🔱 4804</span>
 					</div>
 				<div class="stars-today">⭐ 35324 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64389</span>
-						<span>🔱 12465</span>
+						<span>⭐ 64624</span>
+						<span>🔱 12501</span>
 					</div>
 				<div class="stars-today">⭐ 8489 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6039</span>
-						<span>🔱 397</span>
+						<span>⭐ 6072</span>
+						<span>🔱 403</span>
 					</div>
 				<div class="stars-today">⭐ 4290 stars this week</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20528</span>
-						<span>🔱 2942</span>
+						<span>⭐ 20576</span>
+						<span>🔱 2952</span>
 					</div>
 				<div class="stars-today">⭐ 9364 stars this week</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 9087</span>
-						<span>🔱 652</span>
+						<span>⭐ 9119</span>
+						<span>🔱 653</span>
 					</div>
 				<div class="stars-today">⭐ 3384 stars this week</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23397</span>
-						<span>🔱 1645</span>
+						<span>⭐ 23501</span>
+						<span>🔱 1650</span>
 					</div>
 				<div class="stars-today">⭐ 2678 stars this week</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70699</span>
-						<span>🔱 7965</span>
+						<span>⭐ 70745</span>
+						<span>🔱 7978</span>
 					</div>
 				<div class="stars-today">⭐ 7210 stars this week</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3228</span>
-						<span>🔱 850</span>
+						<span>⭐ 3238</span>
+						<span>🔱 857</span>
 					</div>
 				<div class="stars-today">⭐ 1832 stars this week</div>
 				</div>
@@ -201,13 +201,13 @@ keywords:
 
       ruflo</a></p>
 				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37903</span>
-						<span>🔱 4321</span>
+						<span>⭐ 38173</span>
+						<span>🔱 4351</span>
 					</div>
 				<div class="stars-today">⭐ 2972 stars this week</div>
 				</div>
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35051</span>
-						<span>🔱 3977</span>
+						<span>⭐ 35107</span>
+						<span>🔱 3985</span>
 					</div>
 				<div class="stars-today">⭐ 5465 stars this week</div>
 				</div>
@@ -250,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 107876</span>
-						<span>🔱 10730</span>
+						<span>⭐ 108149</span>
+						<span>🔱 10761</span>
 					</div>
 				<div class="stars-today">⭐ 20079 stars this week</div>
 				</div>
@@ -272,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9549</span>
-						<span>🔱 1499</span>
+						<span>⭐ 9700</span>
+						<span>🔱 1526</span>
 					</div>
 				<div class="stars-today">⭐ 2315 stars this week</div>
 				</div>

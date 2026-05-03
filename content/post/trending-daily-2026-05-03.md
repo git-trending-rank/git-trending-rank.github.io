@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-03
-date: 2026-05-03T14:37:57Z
+date: 2026-05-03T16:32:55Z
 categories:
 - daily
 keywords:
@@ -25,13 +25,13 @@ keywords:
 
       ruflo</a></p>
 				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37903</span>
-						<span>🔱 4321</span>
+						<span>⭐ 38173</span>
+						<span>🔱 4351</span>
 					</div>
 				<div class="stars-today">⭐ 1834 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64389</span>
-						<span>🔱 12465</span>
+						<span>⭐ 64624</span>
+						<span>🔱 12501</span>
 					</div>
 				<div class="stars-today">⭐ 3315 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23397</span>
-						<span>🔱 1645</span>
+						<span>⭐ 23501</span>
+						<span>🔱 1650</span>
 					</div>
 				<div class="stars-today">⭐ 1117 stars today</div>
 				</div>
@@ -96,10 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 1896</span>
-						<span>🔱 104</span>
+						<span>⭐ 1973</span>
+						<span>🔱 113</span>
 					</div>
-				<div class="stars-today">⭐ 564 stars today</div>
+				<div class="stars-today">⭐ 389 stars today</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9549</span>
-						<span>🔱 1499</span>
+						<span>⭐ 9700</span>
+						<span>🔱 1526</span>
 					</div>
 				<div class="stars-today">⭐ 478 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 1689</span>
-						<span>🔱 108</span>
+						<span>⭐ 1723</span>
+						<span>🔱 113</span>
 					</div>
 				<div class="stars-today">⭐ 322 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 19305</span>
-						<span>🔱 3222</span>
+						<span>⭐ 19357</span>
+						<span>🔱 3225</span>
 					</div>
 				<div class="stars-today">⭐ 264 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 3211</span>
-						<span>🔱 290</span>
+						<span>⭐ 3269</span>
+						<span>🔱 298</span>
 					</div>
 				<div class="stars-today">⭐ 587 stars today</div>
 				</div>
@@ -206,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C</span>
-						<span>⭐ 26532</span>
-						<span>🔱 12339</span>
+						<span>⭐ 26554</span>
+						<span>🔱 12341</span>
 					</div>
 				<div class="stars-today">⭐ 14 stars today</div>
 				</div>
