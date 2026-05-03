@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 03 May 2026 09:09:03 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 May 2026 10:40:13 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-05-03</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-05-03/</link>
-        <pubDate>Sun, 03 May 2026 09:09:03 +0000</pubDate>
+        <pubDate>Sun, 03 May 2026 10:40:13 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-05-03/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -17,28 +17,6 @@
 	&lt;main class=&#34;container&#34;&gt;
         &lt;div class=&#34;repo-list&#34; id=&#34;repoList&#34;&gt;
 
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/TauricResearch/TradingAgents&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 63751&lt;/span&gt;
-						&lt;span&gt;🔱 12343&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2225 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
 				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/ruflo&#34; target=&#34;_blank&#34;&gt;
@@ -55,32 +33,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 37295&lt;/span&gt;
-						&lt;span&gt;🔱 4266&lt;/span&gt;
+						&lt;span&gt;⭐ 37380&lt;/span&gt;
+						&lt;span&gt;🔱 4279&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1299 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/browserbase/skills&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/TauricResearch/TradingAgents&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        browserbase /
+        TauricResearch /
 
-      skills&lt;/a&gt;&lt;/p&gt;
+      TradingAgents&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      Claude Agent SDK with a web browsing tool
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1612&lt;/span&gt;
-						&lt;span&gt;🔱 107&lt;/span&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 63966&lt;/span&gt;
+						&lt;span&gt;🔱 12381&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 346 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2225 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,30 +77,98 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 23116&lt;/span&gt;
-						&lt;span&gt;🔱 1625&lt;/span&gt;
+						&lt;span&gt;⭐ 23163&lt;/span&gt;
+						&lt;span&gt;🔱 1631&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1064 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Hmbown/DeepSeek-TUI&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        Flowseal /
+        Hmbown /
 
-      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;&lt;/p&gt;
+      DeepSeek-TUI&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Coding agent for DeepSeek models that runs in your terminal
+    &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
-						&lt;span&gt;⭐ 27161&lt;/span&gt;
-						&lt;span&gt;🔱 2116&lt;/span&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 1769&lt;/span&gt;
+						&lt;span&gt;🔱 99&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 181 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 564 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/AIDC-AI/Pixelle-Video&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 9365&lt;/span&gt;
+						&lt;span&gt;🔱 1483&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 478 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/browserbase/skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        browserbase /
+
+      skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Claude Agent SDK with a web browsing tool
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 1642&lt;/span&gt;
+						&lt;span&gt;🔱 107&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 346 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/czlonkowski/n8n-mcp&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        czlonkowski /
+
+      n8n-mcp&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 19228&lt;/span&gt;
+						&lt;span&gt;🔱 3216&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 264 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -141,54 +187,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 3059&lt;/span&gt;
-						&lt;span&gt;🔱 273&lt;/span&gt;
+						&lt;span&gt;⭐ 3094&lt;/span&gt;
+						&lt;span&gt;🔱 278&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 482 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/ShareX/ShareX&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/openwrt/openwrt&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        ShareX /
+        openwrt /
 
-      ShareX&lt;/a&gt;&lt;/p&gt;
+      openwrt&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.
+      This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C#&lt;/span&gt;
-						&lt;span&gt;⭐ 36983&lt;/span&gt;
-						&lt;span&gt;🔱 3691&lt;/span&gt;
+						&lt;span&gt;🔠 C&lt;/span&gt;
+						&lt;span&gt;⭐ 26489&lt;/span&gt;
+						&lt;span&gt;🔱 12337&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 152 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/jwasham/coding-interview-university&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        jwasham /
-
-      coding-interview-university&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      A complete computer science study plan to become a software engineer.
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 344750&lt;/span&gt;
-						&lt;span&gt;🔱 82498&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 694 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 14 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	

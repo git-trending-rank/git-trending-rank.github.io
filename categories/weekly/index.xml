@@ -6,10 +6,10 @@
         <description>Recent content in Weekly on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Sun, 03 May 2026 09:09:03 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 03 May 2026 10:40:13 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/weekly/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026年第18周</title>
         <link>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC18%E5%91%A8/</link>
-        <pubDate>Sun, 03 May 2026 09:09:03 +0000</pubDate>
+        <pubDate>Sun, 03 May 2026 10:40:13 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-weekly-2026%E5%B9%B4%E7%AC%AC18%E5%91%A8/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,32 +33,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Shell&lt;/span&gt;
-						&lt;span&gt;⭐ 55751&lt;/span&gt;
-						&lt;span&gt;🔱 4736&lt;/span&gt;
+						&lt;span&gt;⭐ 55877&lt;/span&gt;
+						&lt;span&gt;🔱 4747&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35324 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Alishahryar1/free-claude-code&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 20395&lt;/span&gt;
-						&lt;span&gt;🔱 2920&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9364 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -77,10 +55,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 63751&lt;/span&gt;
-						&lt;span&gt;🔱 12343&lt;/span&gt;
+						&lt;span&gt;⭐ 63966&lt;/span&gt;
+						&lt;span&gt;🔱 12381&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 8489 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ComposioHQ/awesome-codex-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-codex-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 5966&lt;/span&gt;
+						&lt;span&gt;🔱 391&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 4290 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Alishahryar1/free-claude-code&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Alishahryar1 /
+
+      free-claude-code&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 20430&lt;/span&gt;
+						&lt;span&gt;🔱 2927&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 9364 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/soxoj/maigret&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        soxoj /
+
+      maigret&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 23163&lt;/span&gt;
+						&lt;span&gt;🔱 1631&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2678 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -99,8 +143,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 70588&lt;/span&gt;
-						&lt;span&gt;🔱 7951&lt;/span&gt;
+						&lt;span&gt;⭐ 70616&lt;/span&gt;
+						&lt;span&gt;🔱 7954&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 7210 stars this week&lt;/div&gt;
 				&lt;/div&gt;
@@ -121,54 +165,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Go&lt;/span&gt;
-						&lt;span&gt;⭐ 3204&lt;/span&gt;
-						&lt;span&gt;🔱 839&lt;/span&gt;
+						&lt;span&gt;⭐ 3207&lt;/span&gt;
+						&lt;span&gt;🔱 842&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1832 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/forrestchang/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/ruvnet/ruflo&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        forrestchang /
+        ruvnet /
 
-      andrej-karpathy-skills&lt;/a&gt;&lt;/p&gt;
+      ruflo&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 &lt;/span&gt;
-						&lt;span&gt;⭐ 107310&lt;/span&gt;
-						&lt;span&gt;🔱 10657&lt;/span&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 37380&lt;/span&gt;
+						&lt;span&gt;🔱 4279&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20079 stars this week&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/soxoj/maigret&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        soxoj /
-
-      maigret&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 23116&lt;/span&gt;
-						&lt;span&gt;🔱 1625&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2678 stars this week&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2972 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -187,10 +209,32 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 34922&lt;/span&gt;
-						&lt;span&gt;🔱 3960&lt;/span&gt;
+						&lt;span&gt;⭐ 34959&lt;/span&gt;
+						&lt;span&gt;🔱 3969&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 5465 stars this week&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/forrestchang/andrej-karpathy-skills&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls.
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 &lt;/span&gt;
+						&lt;span&gt;⭐ 107447&lt;/span&gt;
+						&lt;span&gt;🔱 10676&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 20079 stars this week&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -209,8 +253,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 9330&lt;/span&gt;
-						&lt;span&gt;🔱 1478&lt;/span&gt;
+						&lt;span&gt;⭐ 9365&lt;/span&gt;
+						&lt;span&gt;🔱 1483&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 2315 stars this week&lt;/div&gt;
 				&lt;/div&gt;
