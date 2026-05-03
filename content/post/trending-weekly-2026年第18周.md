@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第18周
-date: 2026-05-03T12:36:42Z
+date: 2026-05-03T14:37:57Z
 categories:
 - weekly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 56057</span>
-						<span>🔱 4759</span>
+						<span>⭐ 56265</span>
+						<span>🔱 4778</span>
 					</div>
 				<div class="stars-today">⭐ 35324 stars this week</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 64153</span>
-						<span>🔱 12417</span>
+						<span>⭐ 64389</span>
+						<span>🔱 12465</span>
 					</div>
 				<div class="stars-today">⭐ 8489 stars this week</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5995</span>
-						<span>🔱 393</span>
+						<span>⭐ 6039</span>
+						<span>🔱 397</span>
 					</div>
 				<div class="stars-today">⭐ 4290 stars this week</div>
 				</div>
@@ -96,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20489</span>
-						<span>🔱 2936</span>
+						<span>⭐ 20528</span>
+						<span>🔱 2942</span>
 					</div>
 				<div class="stars-today">⭐ 9364 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
+    
+
+
+      
+        refactoringhq /
+
+      tolaria</a></p>
+				<p>
+      Desktop app to manage markdown knowledge bases
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 9087</span>
+						<span>🔱 652</span>
+					</div>
+				<div class="stars-today">⭐ 3384 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23271</span>
-						<span>🔱 1635</span>
+						<span>⭐ 23397</span>
+						<span>🔱 1645</span>
 					</div>
 				<div class="stars-today">⭐ 2678 stars this week</div>
 				</div>
@@ -140,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 70652</span>
-						<span>🔱 7959</span>
+						<span>⭐ 70699</span>
+						<span>🔱 7965</span>
 					</div>
 				<div class="stars-today">⭐ 7210 stars this week</div>
 				</div>
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Go</span>
-						<span>⭐ 3218</span>
-						<span>🔱 844</span>
+						<span>⭐ 3228</span>
+						<span>🔱 850</span>
 					</div>
 				<div class="stars-today">⭐ 1832 stars this week</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 37628</span>
-						<span>🔱 4304</span>
+						<span>⭐ 37903</span>
+						<span>🔱 4321</span>
 					</div>
 				<div class="stars-today">⭐ 2972 stars this week</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 34999</span>
-						<span>🔱 3974</span>
+						<span>⭐ 35051</span>
+						<span>🔱 3977</span>
 					</div>
 				<div class="stars-today">⭐ 5465 stars this week</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 107598</span>
-						<span>🔱 10706</span>
+						<span>⭐ 107876</span>
+						<span>🔱 10730</span>
 					</div>
 				<div class="stars-today">⭐ 20079 stars this week</div>
 				</div>
@@ -250,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9442</span>
-						<span>🔱 1487</span>
+						<span>⭐ 9549</span>
+						<span>🔱 1499</span>
 					</div>
 				<div class="stars-today">⭐ 2315 stars this week</div>
 				</div>
