@@ -6,10 +6,10 @@
         <description>Recent content in Daily on Git Trending Rank</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
-        <lastBuildDate>Mon, 04 May 2026 08:09:11 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Mon, 04 May 2026 11:29:01 +0000</lastBuildDate><atom:link href="https://git-trending-rank.github.io/categories/daily/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>GitHub 趋势 2026-05-04</title>
         <link>https://git-trending-rank.github.io/post/trending-daily-2026-05-04/</link>
-        <pubDate>Mon, 04 May 2026 08:09:11 +0000</pubDate>
+        <pubDate>Mon, 04 May 2026 11:29:01 +0000</pubDate>
         
         <guid>https://git-trending-rank.github.io/post/trending-daily-2026-05-04/</guid>
         <description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://git-trending-rank.github.io/public/css/trending.css&#34;&gt;
@@ -33,8 +33,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 39681&lt;/span&gt;
-						&lt;span&gt;🔱 4495&lt;/span&gt;
+						&lt;span&gt;⭐ 40068&lt;/span&gt;
+						&lt;span&gt;🔱 4527&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1840 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -55,76 +55,10 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 65903&lt;/span&gt;
-						&lt;span&gt;🔱 12761&lt;/span&gt;
+						&lt;span&gt;⭐ 66180&lt;/span&gt;
+						&lt;span&gt;🔱 12805&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 3313 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/soxoj/maigret&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        soxoj /
-
-      maigret&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 24151&lt;/span&gt;
-						&lt;span&gt;🔱 1702&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1119 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/Hmbown/DeepSeek-TUI&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        Hmbown /
-
-      DeepSeek-TUI&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      Coding agent for DeepSeek models that runs in your terminal
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 2726&lt;/span&gt;
-						&lt;span&gt;🔱 175&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 343 stars today&lt;/div&gt;
-				&lt;/div&gt;
-			&lt;/div&gt;
-	
-			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/AIDC-AI/Pixelle-Video&#34; target=&#34;_blank&#34;&gt;
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video&lt;/a&gt;&lt;/p&gt;
-				&lt;p&gt;
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    &lt;/p&gt;
-				&lt;div class=&#34;repo-stats&#34;&gt;
-					&lt;div&gt;
-						&lt;span&gt;🔠 Python&lt;/span&gt;
-						&lt;span&gt;⭐ 10374&lt;/span&gt;
-						&lt;span&gt;🔱 1617&lt;/span&gt;
-					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 497 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -143,10 +77,76 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
-						&lt;span&gt;⭐ 1922&lt;/span&gt;
-						&lt;span&gt;🔱 127&lt;/span&gt;
+						&lt;span&gt;⭐ 1964&lt;/span&gt;
+						&lt;span&gt;🔱 128&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 322 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Hmbown/DeepSeek-TUI&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Hmbown /
+
+      DeepSeek-TUI&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Coding agent for DeepSeek models that runs in your terminal
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Rust&lt;/span&gt;
+						&lt;span&gt;⭐ 3028&lt;/span&gt;
+						&lt;span&gt;🔱 192&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 343 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/soxoj/maigret&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        soxoj /
+
+      maigret&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 24325&lt;/span&gt;
+						&lt;span&gt;🔱 1716&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 1119 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/qbittorrent/qBittorrent&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        qbittorrent /
+
+      qBittorrent&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      qBittorrent BitTorrent client
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C++&lt;/span&gt;
+						&lt;span&gt;⭐ 36897&lt;/span&gt;
+						&lt;span&gt;🔱 4645&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 68 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
@@ -165,8 +165,8 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
-						&lt;span&gt;⭐ 19667&lt;/span&gt;
-						&lt;span&gt;🔱 3254&lt;/span&gt;
+						&lt;span&gt;⭐ 19724&lt;/span&gt;
+						&lt;span&gt;🔱 3257&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 282 stars today&lt;/div&gt;
 				&lt;/div&gt;
@@ -187,32 +187,162 @@
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
 						&lt;span&gt;🔠 Rust&lt;/span&gt;
-						&lt;span&gt;⭐ 3590&lt;/span&gt;
-						&lt;span&gt;🔱 341&lt;/span&gt;
+						&lt;span&gt;⭐ 3659&lt;/span&gt;
+						&lt;span&gt;🔱 345&lt;/span&gt;
 					&lt;/div&gt;
 				&lt;div class=&#34;stars-today&#34;&gt;⭐ 591 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
 			&lt;div class=&#34;repo-card&#34;&gt;
-				&lt;p&gt;&lt;a href=&#34;https://github.com/openwrt/openwrt&#34; target=&#34;_blank&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/msitarzewski/agency-agents&#34; target=&#34;_blank&#34;&gt;
     
 
 
       
-        openwrt /
+        msitarzewski /
 
-      openwrt&lt;/a&gt;&lt;/p&gt;
+      agency-agents&lt;/a&gt;&lt;/p&gt;
 				&lt;p&gt;
-      This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
     &lt;/p&gt;
 				&lt;div class=&#34;repo-stats&#34;&gt;
 					&lt;div&gt;
-						&lt;span&gt;🔠 C&lt;/span&gt;
-						&lt;span&gt;⭐ 26684&lt;/span&gt;
-						&lt;span&gt;🔱 12356&lt;/span&gt;
+						&lt;span&gt;🔠 Shell&lt;/span&gt;
+						&lt;span&gt;⭐ 91929&lt;/span&gt;
+						&lt;span&gt;🔱 15087&lt;/span&gt;
 					&lt;/div&gt;
-				&lt;div class=&#34;stars-today&#34;&gt;⭐ 26 stars today&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 828 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/virattt/dexter&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        virattt /
+
+      dexter&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      An autonomous agent for deep financial research
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 TypeScript&lt;/span&gt;
+						&lt;span&gt;⭐ 22800&lt;/span&gt;
+						&lt;span&gt;🔱 2793&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 418 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/Flowseal/zapret-discord-youtube&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        Flowseal /
+
+      zapret-discord-youtube&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;&lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Batchfile&lt;/span&gt;
+						&lt;span&gt;⭐ 27240&lt;/span&gt;
+						&lt;span&gt;🔱 2128&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 106 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/fspecii/ace-step-ui&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        fspecii /
+
+      ace-step-ui&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 JavaScript&lt;/span&gt;
+						&lt;span&gt;⭐ 2540&lt;/span&gt;
+						&lt;span&gt;🔱 377&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 222 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/jellyfin/jellyfin&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        jellyfin /
+
+      jellyfin&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      The Free Software Media System - Server Backend &amp; API
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 C#&lt;/span&gt;
+						&lt;span&gt;⭐ 50994&lt;/span&gt;
+						&lt;span&gt;🔱 4733&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 35 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/cocoindex-io/cocoindex&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        cocoindex-io /
+
+      cocoindex&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Incremental engine for long horizon agents 🌟 Star if you like it!
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Python&lt;/span&gt;
+						&lt;span&gt;⭐ 7753&lt;/span&gt;
+						&lt;span&gt;🔱 574&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 163 stars today&lt;/div&gt;
+				&lt;/div&gt;
+			&lt;/div&gt;
+	
+			&lt;div class=&#34;repo-card&#34;&gt;
+				&lt;p&gt;&lt;a href=&#34;https://github.com/docusealco/docuseal&#34; target=&#34;_blank&#34;&gt;
+    
+
+
+      
+        docusealco /
+
+      docuseal&lt;/a&gt;&lt;/p&gt;
+				&lt;p&gt;
+      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+    &lt;/p&gt;
+				&lt;div class=&#34;repo-stats&#34;&gt;
+					&lt;div&gt;
+						&lt;span&gt;🔠 Ruby&lt;/span&gt;
+						&lt;span&gt;⭐ 12686&lt;/span&gt;
+						&lt;span&gt;🔱 1159&lt;/span&gt;
+					&lt;/div&gt;
+				&lt;div class=&#34;stars-today&#34;&gt;⭐ 316 stars today&lt;/div&gt;
 				&lt;/div&gt;
 			&lt;/div&gt;
 	
