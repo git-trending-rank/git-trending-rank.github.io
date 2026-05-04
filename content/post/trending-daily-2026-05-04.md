@@ -1,0 +1,219 @@
+---
+title: GitHub 趋势 2026-05-04
+date: 2026-05-04T01:21:36Z
+categories:
+- daily
+keywords:
+- git trending
+- git 热门
+- git 趋势
+- git 排行榜
+---
+<link rel="stylesheet" href="/public/css/trending.css">
+{{< raw >}}
+	<main class="container">
+        <div class="repo-list" id="repoList">
+
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+    
+
+
+      
+        ruvnet /
+
+      ruflo</a></p>
+				<p>
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 39030</span>
+						<span>🔱 4430</span>
+					</div>
+				<div class="stars-today">⭐ 1840 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
+    
+
+
+      
+        TauricResearch /
+
+      TradingAgents</a></p>
+				<p>
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 65323</span>
+						<span>🔱 12635</span>
+					</div>
+				<div class="stars-today">⭐ 3313 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+    
+
+
+      
+        soxoj /
+
+      maigret</a></p>
+				<p>
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23829</span>
+						<span>🔱 1675</span>
+					</div>
+				<div class="stars-today">⭐ 1119 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">
+    
+
+
+      
+        Hmbown /
+
+      DeepSeek-TUI</a></p>
+				<p>
+      Coding agent for DeepSeek models that runs in your terminal
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 2183</span>
+						<span>🔱 127</span>
+					</div>
+				<div class="stars-today">⭐ 343 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video</a></p>
+				<p>
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9990</span>
+						<span>🔱 1558</span>
+					</div>
+				<div class="stars-today">⭐ 497 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/skills" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      skills</a></p>
+				<p>
+      Claude Agent SDK with a web browsing tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 1831</span>
+						<span>🔱 120</span>
+					</div>
+				<div class="stars-today">⭐ 322 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/czlonkowski/n8n-mcp" target="_blank">
+    
+
+
+      
+        czlonkowski /
+
+      n8n-mcp</a></p>
+				<p>
+      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 19529</span>
+						<span>🔱 3236</span>
+					</div>
+				<div class="stars-today">⭐ 282 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
+    
+
+
+      
+        1jehuang /
+
+      jcode</a></p>
+				<p>
+      Coding Agent Harness
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 3441</span>
+						<span>🔱 322</span>
+					</div>
+				<div class="stars-today">⭐ 591 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openwrt/openwrt" target="_blank">
+    
+
+
+      
+        openwrt /
+
+      openwrt</a></p>
+				<p>
+      This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 C</span>
+						<span>⭐ 26620</span>
+						<span>🔱 12347</span>
+					</div>
+				<div class="stars-today">⭐ 26 stars today</div>
+				</div>
+			</div>
+	
+
+		</div>
+    </main>
+{{< /raw >}}
