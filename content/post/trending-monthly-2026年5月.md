@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-04T08:09:12Z
+date: 2026-05-04T11:29:02Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 109923</span>
-						<span>🔱 10955</span>
+						<span>⭐ 110334</span>
+						<span>🔱 10989</span>
 					</div>
 				<div class="stars-today">⭐ 100680 stars this month</div>
 				</div>
@@ -52,32 +52,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 131707</span>
-						<span>🔱 19981</span>
+						<span>⭐ 131939</span>
+						<span>🔱 20026</span>
 					</div>
 				<div class="stars-today">⭐ 108122 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 27528</span>
-						<span>🔱 3422</span>
-					</div>
-				<div class="stars-today">⭐ 27216 stars this month</div>
 				</div>
 			</div>
 	
@@ -96,10 +74,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24201</span>
-						<span>🔱 2959</span>
+						<span>⭐ 24240</span>
+						<span>🔱 2964</span>
 					</div>
 				<div class="stars-today">⭐ 22247 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 27580</span>
+						<span>🔱 3430</span>
+					</div>
+				<div class="stars-today">⭐ 27216 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 57601</span>
-						<span>🔱 4924</span>
+						<span>⭐ 57899</span>
+						<span>🔱 4953</span>
 					</div>
 				<div class="stars-today">⭐ 44958 stars this month</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20872</span>
-						<span>🔱 2997</span>
+						<span>⭐ 20937</span>
+						<span>🔱 3005</span>
 					</div>
 				<div class="stars-today">⭐ 19210 stars this month</div>
 				</div>
@@ -162,32 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22657</span>
-						<span>🔱 3975</span>
+						<span>⭐ 22675</span>
+						<span>🔱 3979</span>
 					</div>
 				<div class="stars-today">⭐ 11254 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
-    
-
-
-      
-        HKUDS /
-
-      DeepTutor</a></p>
-				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23155</span>
-						<span>🔱 3089</span>
-					</div>
-				<div class="stars-today">⭐ 12226 stars this month</div>
 				</div>
 			</div>
 	
@@ -206,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20692</span>
-						<span>🔱 3162</span>
+						<span>⭐ 20708</span>
+						<span>🔱 3163</span>
 					</div>
 				<div class="stars-today">⭐ 6874 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23174</span>
+						<span>🔱 3091</span>
+					</div>
+				<div class="stars-today">⭐ 12226 stars this month</div>
 				</div>
 			</div>
 	
@@ -228,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 120093</span>
-						<span>🔱 7994</span>
+						<span>⭐ 120160</span>
+						<span>🔱 8001</span>
 					</div>
 				<div class="stars-today">⭐ 27046 stars this month</div>
 				</div>
@@ -250,54 +250,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9005</span>
-						<span>🔱 1032</span>
+						<span>⭐ 9029</span>
+						<span>🔱 1039</span>
 					</div>
 				<div class="stars-today">⭐ 8093 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 22567</span>
-						<span>🔱 2225</span>
-					</div>
-				<div class="stars-today">⭐ 6881 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
-    
-
-
-      
-        hugohe3 /
-
-      ppt-master</a></p>
-				<p>
-      AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11044</span>
-						<span>🔱 1153</span>
-					</div>
-				<div class="stars-today">⭐ 7413 stars this month</div>
 				</div>
 			</div>
 	
@@ -316,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 71687</span>
-						<span>🔱 6151</span>
+						<span>⭐ 71754</span>
+						<span>🔱 6155</span>
 					</div>
 				<div class="stars-today">⭐ 27043 stars this month</div>
 				</div>
@@ -338,8 +294,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71060</span>
-						<span>🔱 8025</span>
+						<span>⭐ 71132</span>
+						<span>🔱 8027</span>
 					</div>
 				<div class="stars-today">⭐ 13349 stars this month</div>
 				</div>
@@ -360,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6280</span>
-						<span>🔱 412</span>
+						<span>⭐ 6325</span>
+						<span>🔱 416</span>
 					</div>
 				<div class="stars-today">⭐ 5445 stars this month</div>
 				</div>
@@ -382,10 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 10374</span>
-						<span>🔱 1617</span>
+						<span>⭐ 10548</span>
+						<span>🔱 1632</span>
 					</div>
 				<div class="stars-today">⭐ 6210 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
+    
+
+
+      
+        google-ai-edge /
+
+      gallery</a></p>
+				<p>
+      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 22574</span>
+						<span>🔱 2227</span>
+					</div>
+				<div class="stars-today">⭐ 6881 stars this month</div>
 				</div>
 			</div>
 	
@@ -404,30 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 40868</span>
-						<span>🔱 2491</span>
+						<span>⭐ 40983</span>
+						<span>🔱 2496</span>
 					</div>
 				<div class="stars-today">⭐ 23674 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/LiteRT-LM" target="_blank">
+				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
     
 
 
       
-        google-ai-edge /
+        SimoneAvogadro /
 
-      LiteRT-LM</a></p>
-				<p></p>
+      android-reverse-engineering-skill</a></p>
+				<p>
+      Claude Code skill to support Android app's reverse engineering
+    </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 4747</span>
-						<span>🔱 457</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 5457</span>
+						<span>🔱 620</span>
 					</div>
-				<div class="stars-today">⭐ 3648 stars this month</div>
+				<div class="stars-today">⭐ 4049 stars this month</div>
 				</div>
 			</div>
 	
