@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-05T09:47:24Z
+date: 2026-05-05T11:06:14Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 112499</span>
-						<span>🔱 11244</span>
+						<span>⭐ 112630</span>
+						<span>🔱 11258</span>
 					</div>
 				<div class="stars-today">⭐ 103293 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 133296</span>
-						<span>🔱 20309</span>
+						<span>⭐ 133385</span>
+						<span>🔱 20322</span>
 					</div>
 				<div class="stars-today">⭐ 108507 stars this month</div>
 				</div>
@@ -74,32 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24562</span>
-						<span>🔱 2994</span>
+						<span>⭐ 24584</span>
+						<span>🔱 2997</span>
 					</div>
 				<div class="stars-today">⭐ 22432 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 28299</span>
-						<span>🔱 3480</span>
-					</div>
-				<div class="stars-today">⭐ 27045 stars this month</div>
 				</div>
 			</div>
 	
@@ -118,10 +96,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 59792</span>
-						<span>🔱 5145</span>
+						<span>⭐ 59893</span>
+						<span>🔱 5158</span>
 					</div>
 				<div class="stars-today">⭐ 46450 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
+    
+
+
+      
+        Fincept-Corporation /
+
+      FinceptTerminal</a></p>
+				<p>
+      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 19801</span>
+						<span>🔱 2659</span>
+					</div>
+				<div class="stars-today">⭐ 17030 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,10 +140,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21370</span>
-						<span>🔱 3082</span>
+						<span>⭐ 21388</span>
+						<span>🔱 3087</span>
 					</div>
 				<div class="stars-today">⭐ 19618 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 28356</span>
+						<span>🔱 3485</span>
+					</div>
+				<div class="stars-today">⭐ 27045 stars this month</div>
 				</div>
 			</div>
 	
@@ -162,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 22818</span>
-						<span>🔱 3999</span>
+						<span>⭐ 22833</span>
+						<span>🔱 4004</span>
 					</div>
 				<div class="stars-today">⭐ 11354 stars this month</div>
 				</div>
@@ -184,8 +206,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20794</span>
-						<span>🔱 3172</span>
+						<span>⭐ 20795</span>
+						<span>🔱 3173</span>
 					</div>
 				<div class="stars-today">⭐ 6963 stars this month</div>
 				</div>
@@ -206,8 +228,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23287</span>
-						<span>🔱 3097</span>
+						<span>⭐ 23296</span>
+						<span>🔱 3098</span>
 					</div>
 				<div class="stars-today">⭐ 12356 stars this month</div>
 				</div>
@@ -228,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 120534</span>
-						<span>🔱 8047</span>
+						<span>⭐ 120554</span>
+						<span>🔱 8049</span>
 					</div>
 				<div class="stars-today">⭐ 27415 stars this month</div>
 				</div>
@@ -250,10 +272,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9143</span>
+						<span>⭐ 9148</span>
 						<span>🔱 1056</span>
 					</div>
 				<div class="stars-today">⭐ 8239 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video</a></p>
+				<p>
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11202</span>
+						<span>🔱 1737</span>
+					</div>
+				<div class="stars-today">⭐ 7257 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 72192</span>
-						<span>🔱 6196</span>
+						<span>⭐ 72211</span>
+						<span>🔱 6198</span>
 					</div>
 				<div class="stars-today">⭐ 27271 stars this month</div>
 				</div>
@@ -294,8 +338,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71620</span>
-						<span>🔱 8083</span>
+						<span>⭐ 71649</span>
+						<span>🔱 8087</span>
 					</div>
 				<div class="stars-today">⭐ 13759 stars this month</div>
 				</div>
@@ -316,54 +360,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6663</span>
-						<span>🔱 437</span>
+						<span>⭐ 6682</span>
+						<span>🔱 438</span>
 					</div>
 				<div class="stars-today">⭐ 5716 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video</a></p>
-				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11163</span>
-						<span>🔱 1730</span>
-					</div>
-				<div class="stars-today">⭐ 7257 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/google-ai-edge/gallery" target="_blank">
-    
-
-
-      
-        google-ai-edge /
-
-      gallery</a></p>
-				<p>
-      A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 22624</span>
-						<span>🔱 2238</span>
-					</div>
-				<div class="stars-today">⭐ 6677 stars this month</div>
 				</div>
 			</div>
 	
@@ -382,32 +382,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 41753</span>
-						<span>🔱 2534</span>
+						<span>⭐ 41807</span>
+						<span>🔱 2539</span>
 					</div>
 				<div class="stars-today">⭐ 23950 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/SimoneAvogadro/android-reverse-engineering-skill" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        SimoneAvogadro /
+        TauricResearch /
 
-      android-reverse-engineering-skill</a></p>
+      TradingAgents</a></p>
 				<p>
-      Claude Code skill to support Android app's reverse engineering
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 5511</span>
-						<span>🔱 624</span>
+						<span>🔠 Python</span>
+						<span>⭐ 68571</span>
+						<span>🔱 13178</span>
 					</div>
-				<div class="stars-today">⭐ 4057 stars this month</div>
+				<div class="stars-today">⭐ 20250 stars this month</div>
 				</div>
 			</div>
 	

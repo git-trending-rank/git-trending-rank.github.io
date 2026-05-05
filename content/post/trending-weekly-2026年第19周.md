@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第19周
-date: 2026-05-05T09:47:24Z
+date: 2026-05-05T11:06:13Z
 categories:
 - weekly
 keywords:
@@ -14,6 +14,28 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/warpdotdev/warp" target="_blank">
+    
+
+
+      
+        warpdotdev /
+
+      warp</a></p>
+				<p>
+      Warp is an agentic development environment, born out of the terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 54588</span>
+						<span>🔱 3892</span>
+					</div>
+				<div class="stars-today">⭐ 27872 stars this week</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/mattpocock/skills" target="_blank">
@@ -30,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 59792</span>
-						<span>🔱 5145</span>
+						<span>⭐ 59893</span>
+						<span>🔱 5158</span>
 					</div>
 				<div class="stars-today">⭐ 31091 stars this week</div>
 				</div>
@@ -52,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 68429</span>
-						<span>🔱 13159</span>
+						<span>⭐ 68571</span>
+						<span>🔱 13178</span>
 					</div>
 				<div class="stars-today">⭐ 13293 stars this week</div>
 				</div>
@@ -74,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 25245</span>
-						<span>🔱 1746</span>
+						<span>⭐ 25283</span>
+						<span>🔱 1747</span>
 					</div>
 				<div class="stars-today">⭐ 4789 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
-    
-
-
-      
-        ComposioHQ /
-
-      awesome-codex-skills</a></p>
-				<p>
-      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6663</span>
-						<span>🔱 437</span>
-					</div>
-				<div class="stars-today">⭐ 3964 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,76 +118,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 42284</span>
-						<span>🔱 4716</span>
+						<span>⭐ 42426</span>
+						<span>🔱 4729</span>
 					</div>
 				<div class="stars-today">⭐ 6838 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
+				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
     
 
 
       
-        Alishahryar1 /
+        HunxByts /
 
-      free-claude-code</a></p>
+      GhostTrack</a></p>
 				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
+      Useful tool to track location or mobile number
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21370</span>
-						<span>🔱 3082</span>
+						<span>⭐ 12600</span>
+						<span>🔱 1683</span>
 					</div>
-				<div class="stars-today">⭐ 5787 stars this week</div>
+				<div class="stars-today">⭐ 2617 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
     
 
 
       
-        CJackHwang /
+        ComposioHQ /
 
-      ds2api</a></p>
+      awesome-codex-skills</a></p>
 				<p>
-      DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3435</span>
-						<span>🔱 932</span>
+						<span>🔠 Python</span>
+						<span>⭐ 6682</span>
+						<span>🔱 438</span>
 					</div>
-				<div class="stars-today">⭐ 1619 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/refactoringhq/tolaria" target="_blank">
-    
-
-
-      
-        refactoringhq /
-
-      tolaria</a></p>
-				<p>
-      Desktop app to manage markdown knowledge bases
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 9653</span>
-						<span>🔱 693</span>
-					</div>
-				<div class="stars-today">⭐ 2493 stars this week</div>
+				<div class="stars-today">⭐ 3964 stars this week</div>
 				</div>
 			</div>
 	
@@ -206,54 +184,140 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11163</span>
-						<span>🔱 1730</span>
+						<span>⭐ 11202</span>
+						<span>🔱 1737</span>
 					</div>
 				<div class="stars-today">⭐ 3635 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/Z4nzu/hackingtool" target="_blank">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
     
 
 
       
-        Z4nzu /
+        Alishahryar1 /
 
-      hackingtool</a></p>
+      free-claude-code</a></p>
 				<p>
-      ALL IN ONE Hacking Tool For Hackers
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 71620</span>
-						<span>🔱 8083</span>
+						<span>⭐ 21388</span>
+						<span>🔱 3087</span>
 					</div>
-				<div class="stars-today">⭐ 4767 stars this week</div>
+				<div class="stars-today">⭐ 5787 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/abhigyanpatwari/GitNexus" target="_blank">
+				<p><a href="https://github.com/iamgio/quarkdown" target="_blank">
     
 
 
       
-        abhigyanpatwari /
+        iamgio /
 
-      GitNexus</a></p>
+      quarkdown</a></p>
 				<p>
-      GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+      🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Kotlin</span>
+						<span>⭐ 13571</span>
+						<span>🔱 375</span>
+					</div>
+				<div class="stars-today">⭐ 2557 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/virattt/dexter" target="_blank">
+    
+
+
+      
+        virattt /
+
+      dexter</a></p>
+				<p>
+      An autonomous agent for deep financial research
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 35747</span>
-						<span>🔱 4067</span>
+						<span>⭐ 23435</span>
+						<span>🔱 2869</span>
 					</div>
-				<div class="stars-today">⭐ 4694 stars this week</div>
+				<div class="stars-today">⭐ 1524 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/zed-industries/zed" target="_blank">
+    
+
+
+      
+        zed-industries /
+
+      zed</a></p>
+				<p>
+      Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 81710</span>
+						<span>🔱 8247</span>
+					</div>
+				<div class="stars-today">⭐ 1830 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
+    
+
+
+      
+        CJackHwang /
+
+      ds2api</a></p>
+				<p>
+      DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Go</span>
+						<span>⭐ 3444</span>
+						<span>🔱 934</span>
+					</div>
+				<div class="stars-today">⭐ 1619 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/lukilabs/craft-agents-oss" target="_blank">
+    
+
+
+      
+        lukilabs /
+
+      craft-agents-oss</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 5747</span>
+						<span>🔱 769</span>
+					</div>
+				<div class="stars-today">⭐ 1106 stars this week</div>
 				</div>
 			</div>
 	

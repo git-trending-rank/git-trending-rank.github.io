@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-05
-date: 2026-05-05T09:47:24Z
+date: 2026-05-05T11:06:15Z
 categories:
 - daily
 keywords:
@@ -14,72 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
-    
-
-
-      
-        ruvnet /
-
-      ruflo</a></p>
-				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 42284</span>
-						<span>🔱 4716</span>
-					</div>
-				<div class="stars-today">⭐ 2598 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 68429</span>
-						<span>🔱 13159</span>
-					</div>
-				<div class="stars-today">⭐ 2182 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/browserbase/skills" target="_blank">
-    
-
-
-      
-        browserbase /
-
-      skills</a></p>
-				<p>
-      Claude Agent SDK with a web browsing tool
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 2246</span>
-						<span>🔱 143</span>
-					</div>
-				<div class="stars-today">⭐ 320 stars today</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">
@@ -96,120 +30,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 5090</span>
-						<span>🔱 368</span>
+						<span>⭐ 5256</span>
+						<span>🔱 381</span>
 					</div>
 				<div class="stars-today">⭐ 1274 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
     
 
 
       
-        soxoj /
+        ruvnet /
 
-      maigret</a></p>
+      ruflo</a></p>
 				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25245</span>
-						<span>🔱 1746</span>
-					</div>
-				<div class="stars-today">⭐ 1119 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/qbittorrent/qBittorrent" target="_blank">
-    
-
-
-      
-        qbittorrent /
-
-      qBittorrent</a></p>
-				<p>
-      qBittorrent BitTorrent client
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 37142</span>
-						<span>🔱 4657</span>
-					</div>
-				<div class="stars-today">⭐ 82 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/czlonkowski/n8n-mcp" target="_blank">
-    
-
-
-      
-        czlonkowski /
-
-      n8n-mcp</a></p>
-				<p>
-      A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you 
+      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20040</span>
-						<span>🔱 3276</span>
+						<span>⭐ 42426</span>
+						<span>🔱 4729</span>
 					</div>
-				<div class="stars-today">⭐ 496 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      Coding Agent Harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4058</span>
-						<span>🔱 383</span>
-					</div>
-				<div class="stars-today">⭐ 548 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
-    
-
-
-      
-        msitarzewski /
-
-      agency-agents</a></p>
-				<p>
-      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 93064</span>
-						<span>🔱 15310</span>
-					</div>
-				<div class="stars-today">⭐ 1189 stars today</div>
+				<div class="stars-today">⭐ 2598 stars today</div>
 				</div>
 			</div>
 	
@@ -228,96 +74,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 23408</span>
-						<span>🔱 2867</span>
+						<span>⭐ 23435</span>
+						<span>🔱 2869</span>
 					</div>
 				<div class="stars-today">⭐ 409 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
-    
-
-
-      
-        Flowseal /
-
-      zapret-discord-youtube</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Batchfile</span>
-						<span>⭐ 27344</span>
-						<span>🔱 2137</span>
-					</div>
-				<div class="stars-today">⭐ 67 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/fspecii/ace-step-ui" target="_blank">
-    
-
-
-      
-        fspecii /
-
-      ace-step-ui</a></p>
-				<p>
-      🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 AI Music Generation. Free, local, unlimited. Stop paying for Suno!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 JavaScript</span>
-						<span>⭐ 3030</span>
-						<span>🔱 436</span>
-					</div>
-				<div class="stars-today">⭐ 237 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/jellyfin/jellyfin" target="_blank">
-    
-
-
-      
-        jellyfin /
-
-      jellyfin</a></p>
-				<p>
-      The Free Software Media System - Server Backend & API
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C#</span>
-						<span>⭐ 51247</span>
-						<span>🔱 4744</span>
-					</div>
-				<div class="stars-today">⭐ 41 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
-    
-
-
-      
-        cocoindex-io /
-
-      cocoindex</a></p>
-				<p>
-      Incremental engine for long horizon agents 🌟 Star if you like it!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 8161</span>
-						<span>🔱 603</span>
-					</div>
-				<div class="stars-today">⭐ 166 stars today</div>
 				</div>
 			</div>
 	
@@ -336,10 +96,252 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 13547</span>
-						<span>🔱 1232</span>
+						<span>⭐ 13588</span>
+						<span>🔱 1234</span>
 					</div>
 				<div class="stars-today">⭐ 535 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/bwya77/vscode-dark-islands" target="_blank">
+    
+
+
+      
+        bwya77 /
+
+      vscode-dark-islands</a></p>
+				<p>
+      VSCode theme based off the easemate IDE and Jetbrains islands theme
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 PowerShell</span>
+						<span>⭐ 7572</span>
+						<span>🔱 228</span>
+					</div>
+				<div class="stars-today">⭐ 665 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/mksglu/context-mode" target="_blank">
+    
+
+
+      
+        mksglu /
+
+      context-mode</a></p>
+				<p>
+      Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 14 platforms
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 TypeScript</span>
+						<span>⭐ 12677</span>
+						<span>🔱 878</span>
+					</div>
+				<div class="stars-today">⭐ 306 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/cocoindex-io/cocoindex" target="_blank">
+    
+
+
+      
+        cocoindex-io /
+
+      cocoindex</a></p>
+				<p>
+      Incremental engine for long horizon agents 🌟 Star if you like it!
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 8180</span>
+						<span>🔱 603</span>
+					</div>
+				<div class="stars-today">⭐ 166 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/msitarzewski/agency-agents" target="_blank">
+    
+
+
+      
+        msitarzewski /
+
+      agency-agents</a></p>
+				<p>
+      A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 93111</span>
+						<span>🔱 15316</span>
+					</div>
+				<div class="stars-today">⭐ 1189 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/jwasham/coding-interview-university" target="_blank">
+    
+
+
+      
+        jwasham /
+
+      coding-interview-university</a></p>
+				<p>
+      A complete computer science study plan to become a software engineer.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 345473</span>
+						<span>🔱 82687</span>
+					</div>
+				<div class="stars-today">⭐ 497 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Arindam200/awesome-ai-apps" target="_blank">
+    
+
+
+      
+        Arindam200 /
+
+      awesome-ai-apps</a></p>
+				<p>
+      A collection of projects showcasing RAG, agents, workflows, and other AI use cases
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 10850</span>
+						<span>🔱 1450</span>
+					</div>
+				<div class="stars-today">⭐ 170 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video</a></p>
+				<p>
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 11202</span>
+						<span>🔱 1737</span>
+					</div>
+				<div class="stars-today">⭐ 1153 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
+    
+
+
+      
+        LearningCircuit /
+
+      local-deep-research</a></p>
+				<p>
+       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 4876</span>
+						<span>🔱 460</span>
+					</div>
+				<div class="stars-today">⭐ 171 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/skills" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      skills</a></p>
+				<p>
+      Claude Agent SDK with a web browsing tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2261</span>
+						<span>🔱 145</span>
+					</div>
+				<div class="stars-today">⭐ 320 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/forrestchang/andrej-karpathy-skills" target="_blank">
+    
+
+
+      
+        forrestchang /
+
+      andrej-karpathy-skills</a></p>
+				<p>
+      A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 </span>
+						<span>⭐ 112630</span>
+						<span>🔱 11258</span>
+					</div>
+				<div class="stars-today">⭐ 2829 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PriorLabs/TabPFN" target="_blank">
+    
+
+
+      
+        PriorLabs /
+
+      TabPFN</a></p>
+				<p>
+      ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6250</span>
+						<span>🔱 635</span>
+					</div>
+				<div class="stars-today">⭐ 41 stars today</div>
 				</div>
 			</div>
 	
