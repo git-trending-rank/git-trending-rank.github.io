@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年5月
-date: 2026-05-06T07:57:57Z
+date: 2026-05-06T11:30:51Z
 categories:
 - monthly
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 </span>
-						<span>⭐ 115090</span>
-						<span>🔱 11503</span>
+						<span>⭐ 115578</span>
+						<span>🔱 11565</span>
 					</div>
 				<div class="stars-today">⭐ 105745 stars this month</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 134813</span>
-						<span>🔱 20591</span>
+						<span>⭐ 135171</span>
+						<span>🔱 20669</span>
 					</div>
 				<div class="stars-today">⭐ 108753 stars this month</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 25060</span>
-						<span>🔱 3046</span>
+						<span>⭐ 25145</span>
+						<span>🔱 3059</span>
 					</div>
 				<div class="stars-today">⭐ 22722 stars this month</div>
 				</div>
@@ -96,32 +96,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 61738</span>
-						<span>🔱 5318</span>
+						<span>⭐ 62143</span>
+						<span>🔱 5355</span>
 					</div>
 				<div class="stars-today">⭐ 48299 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Fincept-Corporation/FinceptTerminal" target="_blank">
-    
-
-
-      
-        Fincept-Corporation /
-
-      FinceptTerminal</a></p>
-				<p>
-      FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20039</span>
-						<span>🔱 2693</span>
-					</div>
-				<div class="stars-today">⭐ 17062 stars this month</div>
 				</div>
 			</div>
 	
@@ -140,32 +118,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 21763</span>
-						<span>🔱 3154</span>
+						<span>⭐ 21823</span>
+						<span>🔱 3166</span>
 					</div>
 				<div class="stars-today">⭐ 19956 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
-    
-
-
-      
-        addyosmani /
-
-      agent-skills</a></p>
-				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 28904</span>
-						<span>🔱 3524</span>
-					</div>
-				<div class="stars-today">⭐ 25759 stars this month</div>
 				</div>
 			</div>
 	
@@ -184,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23042</span>
-						<span>🔱 4043</span>
+						<span>⭐ 23069</span>
+						<span>🔱 4045</span>
 					</div>
 				<div class="stars-today">⭐ 11523 stars this month</div>
 				</div>
@@ -206,32 +162,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 20872</span>
-						<span>🔱 3184</span>
+						<span>⭐ 20890</span>
+						<span>🔱 3188</span>
 					</div>
 				<div class="stars-today">⭐ 7050 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
     
 
 
       
-        HKUDS /
+        addyosmani /
 
-      DeepTutor</a></p>
+      agent-skills</a></p>
 				<p>
-      "DeepTutor: Agent-Native Personalized Learning Assistant"
+      Production-grade engineering skills for AI coding agents.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23419</span>
-						<span>🔱 3108</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 29060</span>
+						<span>🔱 3537</span>
 					</div>
-				<div class="stars-today">⭐ 12179 stars this month</div>
+				<div class="stars-today">⭐ 25759 stars this month</div>
 				</div>
 			</div>
 	
@@ -250,10 +206,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 120901</span>
-						<span>🔱 8089</span>
+						<span>⭐ 120971</span>
+						<span>🔱 8099</span>
 					</div>
 				<div class="stars-today">⭐ 27791 stars this month</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HKUDS/DeepTutor" target="_blank">
+    
+
+
+      
+        HKUDS /
+
+      DeepTutor</a></p>
+				<p>
+      "DeepTutor: Agent-Native Personalized Learning Assistant"
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 23439</span>
+						<span>🔱 3111</span>
+					</div>
+				<div class="stars-today">⭐ 12179 stars this month</div>
 				</div>
 			</div>
 	
@@ -272,8 +250,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9272</span>
-						<span>🔱 1077</span>
+						<span>⭐ 9295</span>
+						<span>🔱 1080</span>
 					</div>
 				<div class="stars-today">⭐ 8364 stars this month</div>
 				</div>
@@ -294,8 +272,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12297</span>
-						<span>🔱 1872</span>
+						<span>⭐ 12525</span>
+						<span>🔱 1900</span>
 					</div>
 				<div class="stars-today">⭐ 7995 stars this month</div>
 				</div>
@@ -316,32 +294,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 72669</span>
-						<span>🔱 6237</span>
+						<span>⭐ 72735</span>
+						<span>🔱 6242</span>
 					</div>
 				<div class="stars-today">⭐ 27468 stars this month</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
-    
-
-
-      
-        hugohe3 /
-
-      ppt-master</a></p>
-				<p>
-      AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 11976</span>
-						<span>🔱 1233</span>
-					</div>
-				<div class="stars-today">⭐ 7829 stars this month</div>
 				</div>
 			</div>
 	
@@ -360,8 +316,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 72061</span>
-						<span>🔱 8137</span>
+						<span>⭐ 72125</span>
+						<span>🔱 8149</span>
 					</div>
 				<div class="stars-today">⭐ 14223 stars this month</div>
 				</div>
@@ -382,32 +338,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6980</span>
-						<span>🔱 456</span>
+						<span>⭐ 7013</span>
+						<span>🔱 460</span>
 					</div>
 				<div class="stars-today">⭐ 6091 stars this month</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/rtk-ai/rtk" target="_blank">
+				<p><a href="https://github.com/hugohe3/ppt-master" target="_blank">
     
 
 
       
-        rtk-ai /
+        hugohe3 /
 
-      rtk</a></p>
+      ppt-master</a></p>
 				<p>
-      CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+      AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 42461</span>
-						<span>🔱 2565</span>
+						<span>🔠 Python</span>
+						<span>⭐ 12083</span>
+						<span>🔱 1243</span>
 					</div>
-				<div class="stars-today">⭐ 24183 stars this month</div>
+				<div class="stars-today">⭐ 7829 stars this month</div>
 				</div>
 			</div>
 	
@@ -426,8 +382,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69751</span>
-						<span>🔱 13461</span>
+						<span>⭐ 69883</span>
+						<span>🔱 13488</span>
 					</div>
 				<div class="stars-today">⭐ 21862 stars this month</div>
 				</div>

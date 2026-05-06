@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第19周
-date: 2026-05-06T07:57:57Z
+date: 2026-05-06T11:30:50Z
 categories:
 - weekly
 keywords:
@@ -30,32 +30,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 55315</span>
-						<span>🔱 4016</span>
+						<span>⭐ 55424</span>
+						<span>🔱 4027</span>
 					</div>
 				<div class="stars-today">⭐ 28493 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
-    
-
-
-      
-        mattpocock /
-
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 61738</span>
-						<span>🔱 5318</span>
-					</div>
-				<div class="stars-today">⭐ 25389 stars this week</div>
 				</div>
 			</div>
 	
@@ -74,32 +52,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 69751</span>
-						<span>🔱 13461</span>
+						<span>⭐ 69883</span>
+						<span>🔱 13488</span>
 					</div>
 				<div class="stars-today">⭐ 14697 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        soxoj /
+        mattpocock /
 
-      maigret</a></p>
+      skills</a></p>
 				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+      Skills for Real Engineers. Straight from my .claude directory.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 25729</span>
-						<span>🔱 1782</span>
+						<span>🔠 Shell</span>
+						<span>⭐ 62143</span>
+						<span>🔱 5355</span>
 					</div>
-				<div class="stars-today">⭐ 5645 stars this week</div>
+				<div class="stars-today">⭐ 25389 stars this week</div>
 				</div>
 			</div>
 	
@@ -118,54 +96,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 44350</span>
-						<span>🔱 4919</span>
+						<span>⭐ 44643</span>
+						<span>🔱 4946</span>
 					</div>
 				<div class="stars-today">⭐ 9159 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
     
 
 
       
-        HunxByts /
+        soxoj /
 
-      GhostTrack</a></p>
+      maigret</a></p>
 				<p>
-      Useful tool to track location or mobile number
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12754</span>
-						<span>🔱 1699</span>
+						<span>⭐ 25788</span>
+						<span>🔱 1790</span>
 					</div>
-				<div class="stars-today">⭐ 2434 stars this week</div>
+				<div class="stars-today">⭐ 5645 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
     
 
 
       
-        ComposioHQ /
+        1jehuang /
 
-      awesome-codex-skills</a></p>
+      jcode</a></p>
 				<p>
-      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+      Coding Agent Harness
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6980</span>
-						<span>🔱 456</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 4357</span>
+						<span>🔱 416</span>
 					</div>
-				<div class="stars-today">⭐ 3370 stars this week</div>
+				<div class="stars-today">⭐ 3447 stars this week</div>
 				</div>
 			</div>
 	
@@ -184,54 +162,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12297</span>
-						<span>🔱 1872</span>
+						<span>⭐ 12525</span>
+						<span>🔱 1900</span>
 					</div>
 				<div class="stars-today">⭐ 4201 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
-    
-
-
-      
-        Alishahryar1 /
-
-      free-claude-code</a></p>
-				<p>
-      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 21763</span>
-						<span>🔱 3154</span>
-					</div>
-				<div class="stars-today">⭐ 4510 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/iamgio/quarkdown" target="_blank">
-    
-
-
-      
-        iamgio /
-
-      quarkdown</a></p>
-				<p>
-      🪐 Markdown with superpowers: from ideas to papers, presentations, websites, books, and knowledge bases.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Kotlin</span>
-						<span>⭐ 13769</span>
-						<span>🔱 383</span>
-					</div>
-				<div class="stars-today">⭐ 2055 stars this week</div>
 				</div>
 			</div>
 	
@@ -250,10 +184,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24021</span>
-						<span>🔱 2924</span>
+						<span>⭐ 24112</span>
+						<span>🔱 2938</span>
 					</div>
 				<div class="stars-today">⭐ 2050 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+    
+
+
+      
+        ComposioHQ /
+
+      awesome-codex-skills</a></p>
+				<p>
+      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 7013</span>
+						<span>🔱 460</span>
+					</div>
+				<div class="stars-today">⭐ 3370 stars this week</div>
 				</div>
 			</div>
 	
@@ -272,10 +228,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 45472</span>
-						<span>🔱 4207</span>
+						<span>⭐ 45676</span>
+						<span>🔱 4221</span>
 					</div>
 				<div class="stars-today">⭐ 5667 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
+    
+
+
+      
+        docusealco /
+
+      docuseal</a></p>
+				<p>
+      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 14360</span>
+						<span>🔱 1299</span>
+					</div>
+				<div class="stars-today">⭐ 2229 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/HunxByts/GhostTrack" target="_blank">
+    
+
+
+      
+        HunxByts /
+
+      GhostTrack</a></p>
+				<p>
+      Useful tool to track location or mobile number
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 12785</span>
+						<span>🔱 1702</span>
+					</div>
+				<div class="stars-today">⭐ 2434 stars this week</div>
 				</div>
 			</div>
 	
@@ -294,52 +294,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 81893</span>
-						<span>🔱 8282</span>
+						<span>⭐ 81916</span>
+						<span>🔱 8287</span>
 					</div>
 				<div class="stars-today">⭐ 1900 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/CJackHwang/ds2api" target="_blank">
+				<p><a href="https://github.com/Alishahryar1/free-claude-code" target="_blank">
     
 
 
       
-        CJackHwang /
+        Alishahryar1 /
 
-      ds2api</a></p>
+      free-claude-code</a></p>
 				<p>
-      DeepSeek-Compatible Middleware Interface: A technical exploration project in Go, focusing on high-concurrency protocol adaptation. It serves as a reference implementation for converting diverse web protocols into standardized formats.
+      Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Go</span>
-						<span>⭐ 3625</span>
-						<span>🔱 1001</span>
+						<span>🔠 Python</span>
+						<span>⭐ 21823</span>
+						<span>🔱 3166</span>
 					</div>
-				<div class="stars-today">⭐ 1310 stars this week</div>
+				<div class="stars-today">⭐ 4510 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/lukilabs/craft-agents-oss" target="_blank">
+				<p><a href="https://github.com/Flowseal/zapret-discord-youtube" target="_blank">
     
 
 
       
-        lukilabs /
+        Flowseal /
 
-      craft-agents-oss</a></p>
+      zapret-discord-youtube</a></p>
 				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 5805</span>
-						<span>🔱 774</span>
+						<span>🔠 Batchfile</span>
+						<span>⭐ 27419</span>
+						<span>🔱 2140</span>
 					</div>
-				<div class="stars-today">⭐ 926 stars this week</div>
+				<div class="stars-today">⭐ 870 stars this week</div>
 				</div>
 			</div>
 	
