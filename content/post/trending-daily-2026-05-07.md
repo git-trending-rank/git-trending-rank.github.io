@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-07
-date: 2026-05-07T08:06:49Z
+date: 2026-05-07T11:29:44Z
 categories:
 - daily
 keywords:
@@ -14,6 +14,26 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+    
+
+
+      
+        anthropics /
+
+      financial-services</a></p>
+				<p></p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 9755</span>
+						<span>🔱 1317</span>
+					</div>
+				<div class="stars-today">⭐ 641 stars today</div>
+				</div>
+			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">
@@ -30,120 +50,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 16329</span>
-						<span>🔱 1254</span>
+						<span>⭐ 17172</span>
+						<span>🔱 1307</span>
 					</div>
 				<div class="stars-today">⭐ 6175 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+				<p><a href="https://github.com/z-lab/dflash" target="_blank">
     
 
 
       
-        addyosmani /
+        z-lab /
 
-      agent-skills</a></p>
+      dflash</a></p>
 				<p>
-      Production-grade engineering skills for AI coding agents.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 31661</span>
-						<span>🔱 3707</span>
-					</div>
-				<div class="stars-today">⭐ 800 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/PriorLabs/TabPFN" target="_blank">
-    
-
-
-      
-        PriorLabs /
-
-      TabPFN</a></p>
-				<p>
-      ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+      DFlash: Block Diffusion for Flash Speculative Decoding
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6670</span>
-						<span>🔱 662</span>
+						<span>⭐ 3241</span>
+						<span>🔱 220</span>
 					</div>
-				<div class="stars-today">⭐ 218 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
-    
-
-
-      
-        docusealco /
-
-      docuseal</a></p>
-				<p>
-      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Ruby</span>
-						<span>⭐ 15157</span>
-						<span>🔱 1377</span>
-					</div>
-				<div class="stars-today">⭐ 774 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
-    
-
-
-      
-        LearningCircuit /
-
-      local-deep-research</a></p>
-				<p>
-       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 5864</span>
-						<span>🔱 528</span>
-					</div>
-				<div class="stars-today">⭐ 532 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/LadybirdBrowser/ladybird" target="_blank">
-    
-
-
-      
-        LadybirdBrowser /
-
-      ladybird</a></p>
-				<p>
-      Truly independent web browser
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 C++</span>
-						<span>⭐ 63078</span>
-						<span>🔱 3000</span>
-					</div>
-				<div class="stars-today">⭐ 113 stars today</div>
+				<div class="stars-today">⭐ 654 stars today</div>
 				</div>
 			</div>
 	
@@ -162,206 +94,208 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8606</span>
-						<span>🔱 712</span>
+						<span>⭐ 8665</span>
+						<span>🔱 718</span>
 					</div>
 				<div class="stars-today">⭐ 230 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/virattt/dexter" target="_blank">
+				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
     
 
 
       
-        virattt /
+        LearningCircuit /
 
-      dexter</a></p>
+      local-deep-research</a></p>
 				<p>
-      An autonomous agent for deep financial research
+       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 5961</span>
+						<span>🔱 532</span>
+					</div>
+				<div class="stars-today">⭐ 532 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/addyosmani/agent-skills" target="_blank">
+    
+
+
+      
+        addyosmani /
+
+      agent-skills</a></p>
+				<p>
+      Production-grade engineering skills for AI coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 32147</span>
+						<span>🔱 3740</span>
+					</div>
+				<div class="stars-today">⭐ 800 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/VectifyAI/PageIndex" target="_blank">
+    
+
+
+      
+        VectifyAI /
+
+      PageIndex</a></p>
+				<p>
+      📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 29155</span>
+						<span>🔱 2470</span>
+					</div>
+				<div class="stars-today">⭐ 953 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/vercel-labs/open-agents" target="_blank">
+    
+
+
+      
+        vercel-labs /
+
+      open-agents</a></p>
+				<p>
+      An open source template for building cloud agents.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24539</span>
-						<span>🔱 2985</span>
+						<span>⭐ 4873</span>
+						<span>🔱 621</span>
 					</div>
-				<div class="stars-today">⭐ 666 stars today</div>
+				<div class="stars-today">⭐ 406 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+				<p><a href="https://github.com/docusealco/docuseal" target="_blank">
     
 
 
       
-        anthropics /
+        docusealco /
 
-      financial-services</a></p>
-				<p></p>
+      docuseal</a></p>
+				<p>
+      Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Ruby</span>
+						<span>⭐ 15252</span>
+						<span>🔱 1384</span>
+					</div>
+				<div class="stars-today">⭐ 774 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
+    
+
+
+      
+        decolua /
+
+      9router</a></p>
+				<p>
+      🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 4078</span>
+						<span>🔱 943</span>
+					</div>
+				<div class="stars-today">⭐ 130 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/PriorLabs/TabPFN" target="_blank">
+    
+
+
+      
+        PriorLabs /
+
+      TabPFN</a></p>
+				<p>
+      ⚡ TabPFN: Foundation Model for Tabular Data ⚡
+    </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9536</span>
-						<span>🔱 1291</span>
+						<span>⭐ 6696</span>
+						<span>🔱 663</span>
 					</div>
-				<div class="stars-today">⭐ 641 stars today</div>
+				<div class="stars-today">⭐ 218 stars today</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
+				<p><a href="https://github.com/aaif-goose/goose" target="_blank">
     
 
 
       
-        ruvnet /
+        aaif-goose /
 
-      ruflo</a></p>
+      goose</a></p>
 				<p>
-      🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features enterprise-grade architecture, self-learning swarm intelligence, RAG integration, and native Claude Code / Codex Integration
+      an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 44257</span>
+						<span>🔱 4535</span>
+					</div>
+				<div class="stars-today">⭐ 111 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/Augani/openreel-video" target="_blank">
+    
+
+
+      
+        Augani /
+
+      openreel-video</a></p>
+				<p>
+      OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45596</span>
-						<span>🔱 5039</span>
+						<span>⭐ 1091</span>
+						<span>🔱 195</span>
 					</div>
-				<div class="stars-today">⭐ 2192 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/cheahjs/free-llm-api-resources" target="_blank">
-    
-
-
-      
-        cheahjs /
-
-      free-llm-api-resources</a></p>
-				<p>
-      A list of free LLM inference resources accessible via API.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 20723</span>
-						<span>🔱 2101</span>
-					</div>
-				<div class="stars-today">⭐ 198 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/BigBodyCobain/Shadowbroker" target="_blank">
-    
-
-
-      
-        BigBodyCobain /
-
-      Shadowbroker</a></p>
-				<p>
-      Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 6014</span>
-						<span>🔱 936</span>
-					</div>
-				<div class="stars-today">⭐ 42 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/shiyu-coder/Kronos" target="_blank">
-    
-
-
-      
-        shiyu-coder /
-
-      Kronos</a></p>
-				<p>
-      Kronos: A Foundation Model for the Language of Financial Markets
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 23293</span>
-						<span>🔱 4071</span>
-					</div>
-				<div class="stars-today">⭐ 234 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bwya77/vscode-dark-islands" target="_blank">
-    
-
-
-      
-        bwya77 /
-
-      vscode-dark-islands</a></p>
-				<p>
-      VSCode theme based off the easemate IDE and Jetbrains islands theme
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 PowerShell</span>
-						<span>⭐ 8290</span>
-						<span>🔱 256</span>
-					</div>
-				<div class="stars-today">⭐ 503 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/bytedance/deer-flow" target="_blank">
-    
-
-
-      
-        bytedance /
-
-      deer-flow</a></p>
-				<p>
-      An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 65728</span>
-						<span>🔱 8688</span>
-					</div>
-				<div class="stars-today">⭐ 337 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/D4Vinci/Scrapling" target="_blank">
-    
-
-
-      
-        D4Vinci /
-
-      Scrapling</a></p>
-				<p>
-      🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 46697</span>
-						<span>🔱 4317</span>
-					</div>
-				<div class="stars-today">⭐ 1125 stars today</div>
+				<div class="stars-today">⭐ 208 stars today</div>
 				</div>
 			</div>
 	
