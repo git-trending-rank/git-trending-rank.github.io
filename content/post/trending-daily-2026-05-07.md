@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-07
-date: 2026-05-07T05:17:42Z
+date: 2026-05-07T08:06:49Z
 categories:
 - daily
 keywords:
@@ -30,8 +30,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 15397</span>
-						<span>🔱 1203</span>
+						<span>⭐ 16329</span>
+						<span>🔱 1254</span>
 					</div>
 				<div class="stars-today">⭐ 6175 stars today</div>
 				</div>
@@ -52,8 +52,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 31145</span>
-						<span>🔱 3672</span>
+						<span>⭐ 31661</span>
+						<span>🔱 3707</span>
 					</div>
 				<div class="stars-today">⭐ 800 stars today</div>
 				</div>
@@ -74,8 +74,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6633</span>
-						<span>🔱 660</span>
+						<span>⭐ 6670</span>
+						<span>🔱 662</span>
 					</div>
 				<div class="stars-today">⭐ 218 stars today</div>
 				</div>
@@ -96,8 +96,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 15048</span>
-						<span>🔱 1372</span>
+						<span>⭐ 15157</span>
+						<span>🔱 1377</span>
 					</div>
 				<div class="stars-today">⭐ 774 stars today</div>
 				</div>
@@ -118,8 +118,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 5781</span>
-						<span>🔱 524</span>
+						<span>⭐ 5864</span>
+						<span>🔱 528</span>
 					</div>
 				<div class="stars-today">⭐ 532 stars today</div>
 				</div>
@@ -140,8 +140,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 C++</span>
-						<span>⭐ 63038</span>
-						<span>🔱 2998</span>
+						<span>⭐ 63078</span>
+						<span>🔱 3000</span>
 					</div>
 				<div class="stars-today">⭐ 113 stars today</div>
 				</div>
@@ -162,8 +162,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8551</span>
-						<span>🔱 708</span>
+						<span>⭐ 8606</span>
+						<span>🔱 712</span>
 					</div>
 				<div class="stars-today">⭐ 230 stars today</div>
 				</div>
@@ -184,8 +184,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24455</span>
-						<span>🔱 2974</span>
+						<span>⭐ 24539</span>
+						<span>🔱 2985</span>
 					</div>
 				<div class="stars-today">⭐ 666 stars today</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 9377</span>
-						<span>🔱 1272</span>
+						<span>⭐ 9536</span>
+						<span>🔱 1291</span>
 					</div>
 				<div class="stars-today">⭐ 641 stars today</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 45474</span>
-						<span>🔱 5030</span>
+						<span>⭐ 45596</span>
+						<span>🔱 5039</span>
 					</div>
 				<div class="stars-today">⭐ 2192 stars today</div>
 				</div>
@@ -248,10 +248,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 20615</span>
-						<span>🔱 2097</span>
+						<span>⭐ 20723</span>
+						<span>🔱 2101</span>
 					</div>
 				<div class="stars-today">⭐ 198 stars today</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/BigBodyCobain/Shadowbroker" target="_blank">
+    
+
+
+      
+        BigBodyCobain /
+
+      Shadowbroker</a></p>
+				<p>
+      Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Python</span>
+						<span>⭐ 6014</span>
+						<span>🔱 936</span>
+					</div>
+				<div class="stars-today">⭐ 42 stars today</div>
 				</div>
 			</div>
 	
@@ -270,8 +292,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 23255</span>
-						<span>🔱 4069</span>
+						<span>⭐ 23293</span>
+						<span>🔱 4071</span>
 					</div>
 				<div class="stars-today">⭐ 234 stars today</div>
 				</div>
@@ -292,7 +314,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 PowerShell</span>
-						<span>⭐ 8251</span>
+						<span>⭐ 8290</span>
 						<span>🔱 256</span>
 					</div>
 				<div class="stars-today">⭐ 503 stars today</div>
@@ -314,8 +336,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 65647</span>
-						<span>🔱 8678</span>
+						<span>⭐ 65728</span>
+						<span>🔱 8688</span>
 					</div>
 				<div class="stars-today">⭐ 337 stars today</div>
 				</div>
@@ -336,8 +358,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 46530</span>
-						<span>🔱 4305</span>
+						<span>⭐ 46697</span>
+						<span>🔱 4317</span>
 					</div>
 				<div class="stars-today">⭐ 1125 stars today</div>
 				</div>
