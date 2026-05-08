@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026年第19周
-date: 2026-05-08T09:00:40Z
+date: 2026-05-08T10:59:10Z
 categories:
 - weekly
 keywords:
@@ -14,28 +14,6 @@ keywords:
 	<main class="container">
         <div class="repo-list" id="repoList">
 
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
-    
-
-
-      
-        TauricResearch /
-
-      TradingAgents</a></p>
-				<p>
-      TradingAgents: Multi-Agents LLM Financial Trading Framework
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 71409</span>
-						<span>🔱 13841</span>
-					</div>
-				<div class="stars-today">⭐ 14322 stars this week</div>
-				</div>
-			</div>
 	
 			<div class="repo-card">
 				<p><a href="https://github.com/ruvnet/ruflo" target="_blank">
@@ -52,98 +30,52 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 46419</span>
-						<span>🔱 5143</span>
+						<span>⭐ 46485</span>
+						<span>🔱 5145</span>
 					</div>
 				<div class="stars-today">⭐ 11930 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/mattpocock/skills" target="_blank">
+				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
     
 
 
       
-        mattpocock /
+        anthropics /
 
-      skills</a></p>
-				<p>
-      Skills for Real Engineers. Straight from my .claude directory.
-    </p>
+      financial-services</a></p>
+				<p></p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Shell</span>
-						<span>⭐ 65626</span>
-						<span>🔱 5644</span>
+						<span>🔠 Python</span>
+						<span>⭐ 13337</span>
+						<span>🔱 1681</span>
 					</div>
-				<div class="stars-today">⭐ 16579 stars this week</div>
+				<div class="stars-today">⭐ 2410 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/soxoj/maigret" target="_blank">
+				<p><a href="https://github.com/TauricResearch/TradingAgents" target="_blank">
     
 
 
       
-        soxoj /
+        TauricResearch /
 
-      maigret</a></p>
+      TradingAgents</a></p>
 				<p>
-      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
+      TradingAgents: Multi-Agents LLM Financial Trading Framework
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 26397</span>
-						<span>🔱 1847</span>
+						<span>⭐ 71468</span>
+						<span>🔱 13853</span>
 					</div>
-				<div class="stars-today">⭐ 5580 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/warpdotdev/warp" target="_blank">
-    
-
-
-      
-        warpdotdev /
-
-      warp</a></p>
-				<p>
-      Warp is an agentic development environment, born out of the terminal.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 56552</span>
-						<span>🔱 4210</span>
-					</div>
-				<div class="stars-today">⭐ 8625 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
-    
-
-
-      
-        1jehuang /
-
-      jcode</a></p>
-				<p>
-      Coding Agent Harness
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Rust</span>
-						<span>⭐ 4953</span>
-						<span>🔱 491</span>
-					</div>
-				<div class="stars-today">⭐ 3026 stars this week</div>
+				<div class="stars-today">⭐ 14322 stars this week</div>
 				</div>
 			</div>
 	
@@ -162,52 +94,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 24784</span>
-						<span>🔱 3012</span>
+						<span>⭐ 24801</span>
+						<span>🔱 3013</span>
 					</div>
 				<div class="stars-today">⭐ 3108 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/anthropics/financial-services" target="_blank">
+				<p><a href="https://github.com/soxoj/maigret" target="_blank">
     
 
 
       
-        anthropics /
+        soxoj /
 
-      financial-services</a></p>
-				<p></p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 13014</span>
-						<span>🔱 1644</span>
-					</div>
-				<div class="stars-today">⭐ 2410 stars this week</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
-    
-
-
-      
-        AIDC-AI /
-
-      Pixelle-Video</a></p>
+      maigret</a></p>
 				<p>
-      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+      🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13543</span>
-						<span>🔱 2027</span>
+						<span>⭐ 26427</span>
+						<span>🔱 1849</span>
 					</div>
-				<div class="stars-today">⭐ 4999 stars this week</div>
+				<div class="stars-today">⭐ 5580 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/browserbase/skills" target="_blank">
+    
+
+
+      
+        browserbase /
+
+      skills</a></p>
+				<p>
+      Claude Agent SDK with a web browsing tool
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 2611</span>
+						<span>🔱 165</span>
+					</div>
+				<div class="stars-today">⭐ 1850 stars this week</div>
 				</div>
 			</div>
 	
@@ -226,54 +160,76 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 15790</span>
-						<span>🔱 1420</span>
+						<span>⭐ 15828</span>
+						<span>🔱 1422</span>
 					</div>
 				<div class="stars-today">⭐ 3589 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/openai/symphony" target="_blank">
+				<p><a href="https://github.com/1jehuang/jcode" target="_blank">
     
 
 
       
-        openai /
+        1jehuang /
 
-      symphony</a></p>
+      jcode</a></p>
 				<p>
-      Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+      Coding Agent Harness
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Elixir</span>
-						<span>⭐ 22516</span>
-						<span>🔱 2098</span>
+						<span>🔠 Rust</span>
+						<span>⭐ 4973</span>
+						<span>🔱 495</span>
 					</div>
-				<div class="stars-today">⭐ 2406 stars this week</div>
+				<div class="stars-today">⭐ 3026 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/LearningCircuit/local-deep-research" target="_blank">
+				<p><a href="https://github.com/mattpocock/skills" target="_blank">
     
 
 
       
-        LearningCircuit /
+        mattpocock /
 
-      local-deep-research</a></p>
+      skills</a></p>
 				<p>
-       ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ search engines - arXiv, PubMed, your private documents. Everything Local & Encrypted.
+      Skills for Real Engineers. Straight from my .claude directory.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Shell</span>
+						<span>⭐ 65803</span>
+						<span>🔱 5659</span>
+					</div>
+				<div class="stars-today">⭐ 16579 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/AIDC-AI/Pixelle-Video" target="_blank">
+    
+
+
+      
+        AIDC-AI /
+
+      Pixelle-Video</a></p>
+				<p>
+      🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6480</span>
-						<span>🔱 563</span>
+						<span>⭐ 13597</span>
+						<span>🔱 2034</span>
 					</div>
-				<div class="stars-today">⭐ 1640 stars this week</div>
+				<div class="stars-today">⭐ 4999 stars this week</div>
 				</div>
 			</div>
 	
@@ -292,10 +248,54 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 8989</span>
-						<span>🔱 667</span>
+						<span>⭐ 9032</span>
+						<span>🔱 672</span>
 					</div>
 				<div class="stars-today">⭐ 1548 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/warpdotdev/warp" target="_blank">
+    
+
+
+      
+        warpdotdev /
+
+      warp</a></p>
+				<p>
+      Warp is an agentic development environment, born out of the terminal.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Rust</span>
+						<span>⭐ 56586</span>
+						<span>🔱 4214</span>
+					</div>
+				<div class="stars-today">⭐ 8625 stars this week</div>
+				</div>
+			</div>
+	
+			<div class="repo-card">
+				<p><a href="https://github.com/openai/symphony" target="_blank">
+    
+
+
+      
+        openai /
+
+      symphony</a></p>
+				<p>
+      Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+    </p>
+				<div class="repo-stats">
+					<div>
+						<span>🔠 Elixir</span>
+						<span>⭐ 22531</span>
+						<span>🔱 2100</span>
+					</div>
+				<div class="stars-today">⭐ 2406 stars this week</div>
 				</div>
 			</div>
 	
@@ -314,32 +314,32 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 3301</span>
-						<span>🔱 473</span>
+						<span>⭐ 3310</span>
+						<span>🔱 474</span>
 					</div>
 				<div class="stars-today">⭐ 1011 stars this week</div>
 				</div>
 			</div>
 	
 			<div class="repo-card">
-				<p><a href="https://github.com/ComposioHQ/awesome-codex-skills" target="_blank">
+				<p><a href="https://github.com/decolua/9router" target="_blank">
     
 
 
       
-        ComposioHQ /
+        decolua /
 
-      awesome-codex-skills</a></p>
+      9router</a></p>
 				<p>
-      A curated list of practical Codex skills for automating workflows across the Codex CLI and API.
+      Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
     </p>
 				<div class="repo-stats">
 					<div>
-						<span>🔠 Python</span>
-						<span>⭐ 7540</span>
-						<span>🔱 492</span>
+						<span>🔠 JavaScript</span>
+						<span>⭐ 5073</span>
+						<span>🔱 1027</span>
 					</div>
-				<div class="stars-today">⭐ 2287 stars this week</div>
+				<div class="stars-today">⭐ 971 stars this week</div>
 				</div>
 			</div>
 	
