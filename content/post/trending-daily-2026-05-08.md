@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-08
-date: 2026-05-08T04:44:31Z
+date: 2026-05-08T07:10:33Z
 categories:
 - daily
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 12335</span>
-						<span>🔱 1581</span>
+						<span>⭐ 12680</span>
+						<span>🔱 1623</span>
 					</div>
 				<div class="stars-today">⭐ 1343 stars today</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 19661</span>
-						<span>🔱 1501</span>
+						<span>⭐ 20197</span>
+						<span>🔱 1546</span>
 					</div>
 				<div class="stars-today">⭐ 5799 stars today</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3564</span>
-						<span>🔱 254</span>
+						<span>⭐ 3597</span>
+						<span>🔱 256</span>
 					</div>
 				<div class="stars-today">⭐ 671 stars today</div>
 				</div>
@@ -89,13 +89,13 @@ keywords:
 
       InsForge</a></p>
 				<p>
-      InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.
+      The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8929</span>
-						<span>🔱 736</span>
+						<span>⭐ 8967</span>
+						<span>🔱 739</span>
 					</div>
 				<div class="stars-today">⭐ 460 stars today</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6380</span>
-						<span>🔱 555</span>
+						<span>⭐ 6436</span>
+						<span>🔱 562</span>
 					</div>
 				<div class="stars-today">⭐ 559 stars today</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 33315</span>
-						<span>🔱 3847</span>
+						<span>⭐ 33496</span>
+						<span>🔱 3861</span>
 					</div>
 				<div class="stars-today">⭐ 3062 stars today</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29714</span>
-						<span>🔱 2505</span>
+						<span>⭐ 29813</span>
+						<span>🔱 2507</span>
 					</div>
 				<div class="stars-today">⭐ 943 stars today</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5107</span>
-						<span>🔱 640</span>
+						<span>⭐ 5144</span>
+						<span>🔱 646</span>
 					</div>
 				<div class="stars-today">⭐ 131 stars today</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 15708</span>
-						<span>🔱 1416</span>
+						<span>⭐ 15764</span>
+						<span>🔱 1419</span>
 					</div>
 				<div class="stars-today">⭐ 900 stars today</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4753</span>
-						<span>🔱 1005</span>
+						<span>⭐ 4886</span>
+						<span>🔱 1015</span>
 					</div>
 				<div class="stars-today">⭐ 149 stars today</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6819</span>
-						<span>🔱 671</span>
+						<span>⭐ 6841</span>
+						<span>🔱 672</span>
 					</div>
 				<div class="stars-today">⭐ 230 stars today</div>
 				</div>
@@ -270,8 +270,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 44578</span>
-						<span>🔱 4558</span>
+						<span>⭐ 44624</span>
+						<span>🔱 4564</span>
 					</div>
 				<div class="stars-today">⭐ 390 stars today</div>
 				</div>
