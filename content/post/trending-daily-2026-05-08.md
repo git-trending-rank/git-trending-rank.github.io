@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-08
-date: 2026-05-08T01:27:44Z
+date: 2026-05-08T04:44:31Z
 categories:
 - daily
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 11782</span>
-						<span>🔱 1530</span>
+						<span>⭐ 12335</span>
+						<span>🔱 1581</span>
 					</div>
 				<div class="stars-today">⭐ 1343 stars today</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 18945</span>
-						<span>🔱 1437</span>
+						<span>⭐ 19661</span>
+						<span>🔱 1501</span>
 					</div>
 				<div class="stars-today">⭐ 5799 stars today</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3512</span>
-						<span>🔱 249</span>
+						<span>⭐ 3564</span>
+						<span>🔱 254</span>
 					</div>
 				<div class="stars-today">⭐ 671 stars today</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 8863</span>
-						<span>🔱 734</span>
+						<span>⭐ 8929</span>
+						<span>🔱 736</span>
 					</div>
 				<div class="stars-today">⭐ 460 stars today</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6268</span>
-						<span>🔱 553</span>
+						<span>⭐ 6380</span>
+						<span>🔱 555</span>
 					</div>
 				<div class="stars-today">⭐ 559 stars today</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 33028</span>
-						<span>🔱 3811</span>
+						<span>⭐ 33315</span>
+						<span>🔱 3847</span>
 					</div>
 				<div class="stars-today">⭐ 3062 stars today</div>
 				</div>
@@ -160,8 +160,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 29575</span>
-						<span>🔱 2498</span>
+						<span>⭐ 29714</span>
+						<span>🔱 2505</span>
 					</div>
 				<div class="stars-today">⭐ 943 stars today</div>
 				</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 5054</span>
-						<span>🔱 636</span>
+						<span>⭐ 5107</span>
+						<span>🔱 640</span>
 					</div>
 				<div class="stars-today">⭐ 131 stars today</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Ruby</span>
-						<span>⭐ 15637</span>
-						<span>🔱 1411</span>
+						<span>⭐ 15708</span>
+						<span>🔱 1416</span>
 					</div>
 				<div class="stars-today">⭐ 900 stars today</div>
 				</div>
@@ -221,13 +221,13 @@ keywords:
 
       9router</a></p>
 				<p>
-      🆓 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
+      🇻🇳 Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.
     </p>
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 4574</span>
-						<span>🔱 985</span>
+						<span>⭐ 4753</span>
+						<span>🔱 1005</span>
 					</div>
 				<div class="stars-today">⭐ 149 stars today</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6793</span>
-						<span>🔱 669</span>
+						<span>⭐ 6819</span>
+						<span>🔱 671</span>
 					</div>
 				<div class="stars-today">⭐ 230 stars today</div>
 				</div>
@@ -270,32 +270,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 44518</span>
-						<span>🔱 4555</span>
+						<span>⭐ 44578</span>
+						<span>🔱 4558</span>
 					</div>
 				<div class="stars-today">⭐ 390 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Augani/openreel-video" target="_blank">
-    
-
-
-      
-        Augani /
-
-      openreel-video</a></p>
-				<p>
-      OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1716</span>
-						<span>🔱 263</span>
-					</div>
-				<div class="stars-today">⭐ 233 stars today</div>
 				</div>
 			</div>
 	
