@@ -1,6 +1,6 @@
 ---
 title: GitHub 趋势 2026-05-08
-date: 2026-05-08T13:00:30Z
+date: 2026-05-08T15:11:19Z
 categories:
 - daily
 keywords:
@@ -28,8 +28,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 13637</span>
-						<span>🔱 1708</span>
+						<span>⭐ 14010</span>
+						<span>🔱 1735</span>
 					</div>
 				<div class="stars-today">⭐ 3662 stars today</div>
 				</div>
@@ -50,8 +50,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Shell</span>
-						<span>⭐ 34100</span>
-						<span>🔱 3915</span>
+						<span>⭐ 34465</span>
+						<span>🔱 3947</span>
 					</div>
 				<div class="stars-today">⭐ 1794 stars today</div>
 				</div>
@@ -72,8 +72,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Rust</span>
-						<span>⭐ 21161</span>
-						<span>🔱 1629</span>
+						<span>⭐ 21364</span>
+						<span>🔱 1653</span>
 					</div>
 				<div class="stars-today">⭐ 3827 stars today</div>
 				</div>
@@ -94,8 +94,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 3653</span>
-						<span>🔱 259</span>
+						<span>⭐ 3714</span>
+						<span>🔱 261</span>
 					</div>
 				<div class="stars-today">⭐ 388 stars today</div>
 				</div>
@@ -116,8 +116,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 JavaScript</span>
-						<span>⭐ 5176</span>
-						<span>🔱 1037</span>
+						<span>⭐ 5280</span>
+						<span>🔱 1042</span>
 					</div>
 				<div class="stars-today">⭐ 1028 stars today</div>
 				</div>
@@ -138,8 +138,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 2486</span>
-						<span>🔱 205</span>
+						<span>⭐ 2607</span>
+						<span>🔱 216</span>
 					</div>
 				<div class="stars-today">⭐ 482 stars today</div>
 				</div>
@@ -160,7 +160,7 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 1623</span>
+						<span>⭐ 1651</span>
 						<span>🔱 302</span>
 					</div>
 				<div class="stars-today">⭐ 31 stars today</div>
@@ -182,8 +182,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 14340</span>
-						<span>🔱 2419</span>
+						<span>⭐ 14409</span>
+						<span>🔱 2423</span>
 					</div>
 				<div class="stars-today">⭐ 189 stars today</div>
 				</div>
@@ -204,8 +204,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 6559</span>
-						<span>🔱 574</span>
+						<span>⭐ 6598</span>
+						<span>🔱 577</span>
 					</div>
 				<div class="stars-today">⭐ 572 stars today</div>
 				</div>
@@ -226,8 +226,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 TypeScript</span>
-						<span>⭐ 76270</span>
-						<span>🔱 15102</span>
+						<span>⭐ 76323</span>
+						<span>🔱 15105</span>
 					</div>
 				<div class="stars-today">⭐ 74 stars today</div>
 				</div>
@@ -248,8 +248,8 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Python</span>
-						<span>⭐ 44261</span>
-						<span>🔱 5382</span>
+						<span>⭐ 44370</span>
+						<span>🔱 5398</span>
 					</div>
 				<div class="stars-today">⭐ 645 stars today</div>
 				</div>
@@ -268,32 +268,10 @@ keywords:
 				<div class="repo-stats">
 					<div>
 						<span>🔠 Dart</span>
-						<span>⭐ 1517</span>
-						<span>🔱 86</span>
+						<span>⭐ 1548</span>
+						<span>🔱 87</span>
 					</div>
 				<div class="stars-today">⭐ 68 stars today</div>
-				</div>
-			</div>
-	
-			<div class="repo-card">
-				<p><a href="https://github.com/Augani/openreel-video" target="_blank">
-    
-
-
-      
-        Augani /
-
-      openreel-video</a></p>
-				<p>
-      OpenReel Video - Professional browser-based video editor. Open source CapCut alternative. 100% browser-based, no installation, no cloud uploads, no watermarks.
-    </p>
-				<div class="repo-stats">
-					<div>
-						<span>🔠 TypeScript</span>
-						<span>⭐ 1967</span>
-						<span>🔱 284</span>
-					</div>
-				<div class="stars-today">⭐ 820 stars today</div>
 				</div>
 			</div>
 	
